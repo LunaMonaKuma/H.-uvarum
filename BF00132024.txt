@@ -1,0 +1,567 @@
+BIOTECHNOLOGY
+LETTERS
+Volume 17 No.5 ( M a y 1995) p p . 5 3 7 - 5 4 2
+Received as revised 26th April
+
+INFLUENCE
+
+OF OXYGEN LIMITATION
+
+ON GLUCOSE METABOLISM
+
+IN
+
+H A N S E N I A S P O R A UVARUM K 5 G R O W N I N C H E M O S T A T
+C h r i s t i n e V e n t u r i n , H61~ne Boze, G. Moulin* and P. G a l z y
+arChaire de Microbiologie et de G~ndtique des Micro-organismes
+Place Pierre Viala, E . N . S . A . -I. N . R . A . , 34060 Montpellier Cedex 1, France.
+
+Summary: G r o w t h a n d m e t a b o l i t e f o r m a t i o n were s t u d i e d as a f u n c t i o n o f o x y g e n feed rate, in g l u c o s e l i m i t e d e h e m o s t a t c u l t u r e s o f Hanseniaspora uvarum K 5 at a dilution rate o f 0 . 2 6 h "1 . A l c o h o l i c
+f e r m e n t a t i o n o c c u red at a n o x y g e n feed rate o f 80 retool. 1-1. h- 1. B e l o w this value, p y r u v a t e d e c a r b o x y l a s e
+a n d a l c o h o l d e h y d r o g e n a s e were p r e s e n t at h i g h levels. I n c o n t r a s t , activities o f oxidative m e t a b o l i s m
+enzymes, pyruvate dehydrogenase, aldehyde dehydrogenase and aeetyl-CoA synthetase, decreased.
+
+Introduction
+O n e o f the m o s t i m p o r t a n t p a r a m e t e r s with r e s p e c t to the o c c u r e n c e o f
+a l c o h o l i c f e r m e n t a t i o n in yeasts is the c o n c e n t r a t i o n o f o x y g e n in the culture m e d i u m
+(Visser et al., 1990). F o r e x a m p l e , the P a s t e u r effect ( L a g u n a s , 1986), the C r a b t r e e
+effect ( F i e c h t e r et al., 1981; Petrik et al., 1983; Kfippeli, 1986), the C u s t e r effect
+( C a r r a s c o s a et al., 1981; W i j s m a n e t al., 1984) a n d the K l u y v e r effect (Sims et
+B a r n e t t , 1978) are all c l o s e l y related to the a v a i l a b i l i t y o f oxygen.
+A few y e a s t s p e c i e s are a b l e to g r o w a n a e r o b i c a l l y . T h e o n l y o n e a b l e to g r o w
+with s p e c i f i c g r o w t h rates higher t h a n 0.10 h -1 is Saccharomyces cerevisiae. E v e n in
+the c a s e o f S. cerevisiae, a n a e r o b i c g r o w t h c o n d i t i o n s i m p o s e a d d i t i o n a l g r o w t h
+f a c t o r r e q u i r e m e n t s (in p a r t i c u l a r , e r g o s t e r o l , n i c o t i n i c acid a n d u n s a t t u r e d f a t t y
+acids) ( A n d r e a s e n et Stier, 1953; 1954). Kloeckera apiculata, an a p i c u l a t e y e a s t f o u n d
+in t h e first s t a g e o f w i n e f e r m e n t a t i o n ( L a f o n - L a f o u r c a d e , 1983), e x h i b i t e d also c l e a r
+a n a e r o b i c g r o w t h , w i t h c o n c o m i t a n t e t h a n o l p r o d u c t i o n (Visser et al., 1990).
+V e n t u r i n et al. (1994) f o u n d t h a t a strain ( K 5) of Hanseniaspora uvarum ( p e r f e c t s t a t e
+o f K . apiculata) w a s also a b l e to g r o w a n a e r o b i c a l l y .
+This strain, in the p r e s e n c e o f oxygen, did n o t p e r f o r m a l c o h o l i c f e r m e n t a t i o n ,
+w h e n it w a s e x p o s e d to excess g l u c o s e in b a t c h c u l t i v a t i o n ( V e n t u r i n et al., 1994) or in
+c h e m o s t a t cultures ( V e n t u r i n et al., 1995). T h e l i m i t a t i o n o f oxygen in this strain has
+b e e n s t u d i e d o n l y in p a r t i a l a n d strictly a n a e r o b i c c o n d i t i o n s in E r l e n m e y e r flasks.
+O x y g e n feed c a n o n l y b e studied as a v a r i a b l e in c h e m o s t a t cultures w h e n the gas
+t r a n s f e r p r o p e r t i e s o f the cultures d o not v a r y s u b s t a n t i a l l y a m o n g different s t e a d y
+s t a t e s ( W e u s t h u i s et al., 1994).
+T h e a i m o f the p r e s e n t w o r k was to investigate the f u n c t i o n o f oxygen in the
+c a s e o f H . uvarum K 5, a C r a b t r e e - n e g a t i v e strain. F o r this p u r p o s e , the effect o f the
+o x y g e n feed r a t e o n g l u c o s e m e t a b o l i s m w a s studied in g l u c o s e - l i m i t e d c h e m o s t a t
+c u l t u r e s . T h e levels o f k e y e n z y m e s in p y r u v a t e m e t a b o l i s m as well as m e t a b o l i t e
+p r o d u c t i o n a n d p h y s i o l o g i c a l p a r a m e t e r s , such as b i o m a s s yield, specific rate o f
+g l u c o s e u p t a k e , s p e c i f i c rate o f oxygen c o n s u m p t i o n a n d c a r b o n dioxide p r o d u c t i o n ,
+were determined.
+
+537
+
+Materials and methods
+M i c r o - o r g a n i s m : T h e s t r a i n H a n s e n i a s p o r a uvarum K 5 w a s o b t a i n e d f r o m the I N R A
+G u a d e l o u p e r e s e a r c h s t a t i o n . It w a s listed as 1-845 in the N a t i o n a l M i c r o - o r g a n i s m s
+Collection of Institut Pasteur (France).
+
+Chemostat cultivation: G l u c o s e - l i m i t e d c h e m o s t a t culture w a s p e r f o r m e d in 2.5 litre
+f e r m e n t e r ( A p p l i k o n ) at a dilution r a t e o f 0.26 h "[, t e m p e r a t u r e o f 30°C a n d air flow
+r a t e o f 3 1.rain -1 . T h e culture p H w a s m a i n t a i n e d at 5.0 b y a u t o m a t i c a d d i t i o n o f 2N
+N a O H , v i a a n A p p l i k o n A D I 1020 b i o c o n t r o l l e r . T h e w o r k i n g v o l u m e o f the culture
+w a s k e p t at 1.5 litre. T h e dissolved oxygen t e n s i o n in the culture w a s r e g u l a t e d b y
+v a r i a t i o n o f stirrer s p e e d . T h e m i n e r a l m e d i u m w a s p r e p a r e d as p r e v i o u s l y d e s c r i b e d
+b y V e n t u r i n et al. (1995), w i t h g l u c o s e 20 g.1-1 in the r e s e r v o i r m e d i u m .
+
+Oxygen limitation experiments: T w o t y p e s o f e x p e r i m e n t s w e r e c a r r i e d out.
+I ) T h e d i s s o l v e d - o x y g e n t e n s i o n w a s d e c r e a s e d p r o g r e s s i v e l y f r o m 80 to 0 % air
+s a t u r a t i o n b y v a r i a t i o n o f stirrer s p e e d f r o m 1300 to 600 r p m . At e v e r y s t e a d y - s t a t e
+r e a c h e d , s a m p l e s w e r e t a k e n a n d i m m e d i a t l y c e n t r i f u g e d for the d e t e r m i n a t i o n o f
+e n z y m e levels. T h e d e t e r m i n a t i o n o f e x t r a c e l l u l a r m e t a b o l i t e s w a s p e r f o r m e d
+automatically.
+2) A f t e r a s t e a d y s t a t e has b e e n r e a c h e d at a d i s s o l v e d - o x y g e n t e n s i o n o f 50 %
+air s a t u r a t i o n (stirrer s p e e d o f 1000 r p m ) , a shift in dissolved o x y g e n t e n s i o n to 0 % air
+s a t u r a t i o n w a s p e r f o r m e d b y d e c r e a s i n g the stirrer s p e e d to 600 r p m . S a m p l e s were
+t a k e n at r e g u l a r intervals (0, 2, 4, 6 a n d 24 h.) f o r analysis.
+
+G a s a n a l y s i s : T h e e x h a u s t g a s flow w a s m e a s u r e d o n line. T h e oxygen c o n t e n t o f the
+e x h a u s t g a s h a s b e e n d e t e r m i n e d w i t h a 755A B e c k m a n o x y g e n a n a l y s e r a n d c a r b o n
+d i o x i d e c o n t e n t w i t h a 870 B e c k m a n i n f r a - r e d c a r b o n dioxide a n a l y s e r . Specific rates
+o f C O 2 p r o d u c t i o n ( q C O 2 , retool.g- 1 .h- 1) a n d 0 2 c o n s u m p t i o n (qO2, r e t o o l . g - 1 .h- 1)
+w e r e c a l c u l a t e d f r o m t h e s e values.
+C u l t u r e dry weight: Cell g r o w t h was m o n i t o r e d b y m e a s u r i n g the o p t i c a l d e n s i t y
+( O . D . ) at 420 n m using a D U 7 s p e c t r o p h o t o m e t e r . O n e O . D . unit c o r r e s p o n d s to
+0.180 ± 0.002 g.1-1 d r y w e i g h t at D = 0.26 h -1.
+
+Metabolite analysis: R e s i d u a l glucose, glycerol, a c e t a t e a n d e t h a n o l c o n c e n t r a t i o n s
+w e r e d e t e r m i n e d w i t h a F A M - P A K H . P . L . C . c o l u m n (600E W a t e r s m o d e l ) on line
+( V e n t u r i n et al., 1995). T h e l o w e r d e t e c t i o n level o f H . P . L . C . w a s 0.1 g.1 "1
+Enzyme assays: P r e p a r a t i o n o f celt free e x t r a c t s a n d e n z y m e assays o f p y r u v a t e
+d e c a r b o x y l a s e ( E C 4.1.1.1.),
+a l c o h o l d e h y d r o g e n a s e ( E C 1.1.1.1), p y r u v a t e
+d e h y d r o g e n a s e ( E C 1.2.4.1), N A D P + - d e p e n d e n t a c e t a l d e h y d e d e h y d r o g e n a s e (EC
+1.2.1.5 a n d 1.2.1.4) a n d a c e t y l - C o A s y n t h e t a s e ( E C 6.2.1.1) h a v e b e e n p e r f o r m e d as
+d e s c r i b e d b y V e n t u r i n et al. (1995).
+R e a c t i o n velocities w e r e p r o p o r t i o n a l to the a m o u n t o f e n z y m e a d d e d . Activities are
+in U . ( m g p r o t e i n ) -1,
+in
+which
+1U
+is
+defined
+as
+the
+conversion
+of
+1 p m o l s u b s t r a t e , rain- [ at 25°C. T h e p r o t e i n c o n t e n t o f the cell e x t r a c t s w a s m e a s u r e d
+b y t h e m e t h o d o f Biuret (Stickland, 1951) w i t h b o v i n e s e r u m a l b u m i n e ( S i g m a ) as a
+standard.
+
+Presentation of data: Several e x p e r i m e n t a l a p p r o a c h e s c a n b e u s e d to s t u d y the
+effects o f o x y g e n o n y e a s t m e t a b o l i s m . O n e p o s s i b i l i t y is to s t u d y the effect o f
+d i s s o l v e d - o x y g e n t e n s i o n ( F u r u k a w a et al., 1983). H o w e v e r , at limiting oxygen s u p p l y
+rates, t h e d i s s o l v e d - o x y g e n t e n s i o n falls b e l o w 2 - 1 % air s a t u r a t i o n a n d b e c o m e s
+difficult to m e a s u r e a c c u r a t e l y .
+A n a l t e r n a t i v e a p p r o a c h is to s t u d y the effect o f o x y g e n feed rate ( e x p r e s s e d in
+r e t o o l . l - l .h" 1) o n g r o w t h a n d m e t a b o l i s m o f H . uvarum K 5 as W e u s t h u i s et al. (1994).
+
+538
+
+Results
+
+Effect of oxygen feed rate on growth o f H . uvarum K 5
+The effect of oxygen on the physiology of H. uvarum K s was studied by varying
+the oxygen feed rate to glucose limited chemostat cultures grown at a dilution rate of
+0.26 h -l.
+Progressive variation o f oxygen feed rate
+
+At oxygen feed rates above 80 mmol.l-l.h -I (pO 2 > 2 %), growth of
+H. uvarum K 5 was not oxygen-limited (Figs. 1A and IB). Glucose was oxidized, as
+was evident from the absence of ethanol in the culture supernatants and a respiratory
+quotient (RQ = qCO 2 / qO 2) of near 1. The qO 2 of these oxygen sufficient, glucose
+limited chemostat cultures was 11 mmol.g- I. h- I. In parallel, physiological parameters
+were constant and biomass yield was maximum (0.38).
+When qO 2 was lowered by decreasing the oxygen feed rate below
+80mmol.l-l.h -l, alcoholic fermentation set in (Fig. IA). This coincided with a
+decrease of the biomass yield and with an increase of the qS (Fig. IB). RQ was higher
+than 1, metabolism was respiro-fermentative. Ethanol was produced (up to 3.7 g.l-1),
+but few acetate (0.1 g.l-1).
+
+......
+I
+
+lO
+f~ 6
+
+A
+
+",,O~IX><>----o
+
+s~
+
+B
+80
+
+4~
+
+~..
+
+r ,~ 25
+
+3.
+
+? ......
+
+%
+
+~4
+
+40,
+20
+
+o 2
+i
+,
+
+--
+
+O~
+
+500 •
+Oxygen feed ( m m o l . l - l . h -1)
+100
+
+200
+
+.300
+
+V
+
+]0.5
+
+15 104
+/
+
+°.3e
+
+15
+~
+
+10
+
+0
+
+I
+
+t2
+
+/
+
+/
+
+o
+
+o" s
+
+V
+F
+
+V . . . . . . .
+
+j6
+
+•
+
+o
+
+•
+
+o
+
+J
+
+100
+
+400
+
+..
+
+t
+
+200
+
+I
+
+JO0
+
+.
+
+I
+
+400
+
+Oxygen feed (retool l - l . h - I )
+
+Figure 1. Influence of oxygen feed rate on metabolite and dry weight production (A)
+or on specific rates of oxygen uptake (qO2), carbon dioxide production (qCO2), cell
+yield (Yx/s) and specific rate of glucose consumption (qS) (B) ofH. uvarum K 5 grown
+in ehemostat cultures (D = 0.26 h-l).
+The standard deviation in qO 2 and qCO 2 are < 1% and < 1.5 % (means of five measurements at steadystate). The standard errors in glycerol, acetate and ethanol are < 3 %, < 2.5 % and _< 4 % (means of five
+measurements at steady-state).
+
+Shift o f oxygen f e e d rate
+
+Upon transition from oxygen excess to oxygen limitation, ethanol was excreted
+immediately (1.83 g.l -l after 2 h.) and little acetate was produced (0.24 g.1-1 after 2 h.)
+(Table 1). After 24 h., biomass yield decreased by 1.8 times and glucose consumption
+rate increased by 1.7 times. RQ increased to 1.67. These results are in agreement with
+those obtained in the previous experiment.
+
+539
+
+Table 1. Product formation, biomass yield (Yx/s), specific rate of glucose
+c o n s u m p t i o n (qS) and R.Q. of H. uvarum K 5 upon transition from oxygen excess to
+oxygen limitation in ehemostat cultures (D = 0.26 h-1).
+Time
+h
+
+Glycerol
+g.l-1
+
+Acetate
+g.l-I
+
+Ethanol
+g.l-1
+
+YrYs
+g.g-I
+
+qS
+mmol.g-l.h-I
+
+R.Q.
+
+0
+2
+4
+6
+24
+
+1.40
+1.12
+0.91
+0.80
+0.80
+
+0.08
+0.24
+0.01
+0
+0
+
+0.18
+1.83
+2.88
+3.25
+3.16
+
+0.42
+0.38
+0.35
+0.32
+0.24
+
+3.47
+3.76
+4.11
+4.45
+5.90
+
+1.07
+1.64
+1.73
+1.62
+1.67
+
+T h e s t a n d a r d d e v i a t i o n s in g l y c e r o l , a c e t a t e a n d e t h a n o l a r e _< 3 %, <_ 2 . 5 % a n d <_ 4 % r e s p e c t i v e l y .
+
+To investigate wether the observed variations in metabolic fluxes were correlated with
+an adjustement o f enzyme activities, several pyruvate bypass enzymes were analysed
+in vitro.
+
+Effect of oxygen feed rate on enzyme levels ofpyruvate metabolism
+Progressive variation o f oxygen f e e d rate
+
+Two responses were observed as a function of oxygen feed rate (Fig. 2). Above
+oxygen feed rate of 80 m m o l . l - l . h -1 (pO 2 > 2 %), enzyme activities were constant.
+Below this value, the levels of fermentative enzymes (alcool dehydrogenase and
+pyruvate decarboxylase) increased in parallel to ethanol formation. In contrast, the
+levels of oxydative enzymes (pyruvate dehydrogenase, acetaldehyde dehydrogenase
+and acetyl-CoA synthetase) strongly decreased.
+
+0.8
+
+1.8
+
+I O0
+
+0.04
+
+B
+
+A
+
+I
+
+8o
+
+7,~ 0 . 6
+
+.'7
+v
+
+0.12
+
+60
+
+0.02 v
+¢:1
+
+"-, 0 . 4
+40
+
+A 0 06
+Q
+u
+"~
+
+0.8
+
+A 0.2
+
+20
+
+0.0
+
+100
+200
+300
+400
+0
+Oxygen feed (rnrnol.l-l.h
+
+I
+
+D.0
+500
+-l)
+
+0.00
+
+i
+i
+t.
+i
+10O 2 0 0 3 0 0 4 0 0
+Oxygen feed (mmol.l-l.h
+
+0
+
+0.00
+500
+-1)
+
+Figure 2. Relation between oxygen feed rate and specific activities ( U . m g protein -1)
+of the following enzymes in glucose limited chemostat cultures of H. uvarum K 5 at
+D = 0.26 h-1. (A) A l c o h o l dehydrogenase ( A D H ) , pyruvate deearboxylase (PDC). (B)
+N A D P + - d e p e n d e n t acetaldehyde dehydrogenase (ALD), acetyi C o A synthetase
+(ACO) and pyruvate dehydrogenase ( P D H ) .
+D a t a p r e s e n t e d h e r e a r e t h e m e a n s of, at l e a s t , t r i p l i c a t e d e t e r m i n a t i o n s ,
+
+540
+
+S h i f t o f o x y g e n f e e d rate
+I n t r a n s i e n t state, a n i n c r e a s e in f e r m e n t a t i v e e n z y m e activities ( a l c o o l
+d e h y d r o g e n a s e a n d p y r u v a t e d e c a r b o x y l a s e ) w a s i m m e d i a t e l y o b s e r v e d ( T a b l e 2).
+In contrast, pyruvate dehydrogenase and NADP+-dependent acetaldehyde
+d e h y d r o g e n a s e activities s t r o n g l y d e c r e a s e d . A c e t y l - C o A s y n t h e t a s e activity did n o t
+v a r y (0.040 U . m g - l ) .
+
+2. E n z y m e activities ( U . m g -1) u n d e r s t e a d y - s t a t e c o n d i t i o n s a n d after an
+oxygen l i m i t a t i o n o f H . u v a r u m K 5 c h e m o s t a t culture at D = 0 . 2 6 h "1.
+
+Table
+
+T i m e (h)
+
+PDC
+
+ADH
+
+ALD
+
+ACO
+
+PDH
+
+0
+2
+4
+6
+24
+
+0.21
+0.60
+0.73
+0.72
+0.7I
+
+0.10
+0.35
+1.10
+0.70
+0.70
+
+0.014
+0
+0
+0
+0
+
+0.030
+0.044
+0.045
+0.037
+0.036
+
+0.017
+0
+0
+0
+0
+
+Enzyme data presented here are means of, at least, triplicate determinations.
+
+T h e s e results c l e a r l y s h o w t h a t the levels o f these enzymes, d e t e r m i n e d in the t r a n s i e n t
+s t a t e after an oxygen l i m i t a t i o n v a r y in the s a m e w a y as t h o s e o b t a i n e d u n d e r steadystate c o n d i t i o n s at different oxygen feed rates.
+
+Discussion
+
+In C r a b t r e e - n e g a t i v e yeasts a n d in C r a b t r e e - p o s i t i v e yeasts g r o w n u n d e r
+g l u c o s e l i m i t a t i o n , oxygen is a key p a r a m e t e r d e t e r m i n i n g the rate o f a l c o h o l i c
+f e r m e n t a t i o n (van D i j k e n et al., 1993). T h e glucose m e t a b o l i s m o f H . u v a r u m K 5
+e n a b l e s c l a s s i f i c a t i o n o f the strain as a C r a b t r e e - n e g a t i v e y e a s t (Venturin et al.,
+1995).
+In this strain g r o w n at D = 0.26 h -i, glucose w a s oxidized u p to a dissolved
+oxygen t e n s i o n n e a r of zero, c o r r e s p o n d i n g to a n oxygen feed rate o f 80 mmol.1-1 .h -1 .
+B e l o w this value, a l c o h o l i c f e r m e n t a t i o n o c c u r e d and b i o m a s s yield d e c r e a s e d f r o m
+0.38 to 0.23. T h e levels o f f e r m e n t a t i v e enzymes ( p y r u v a t e d e c a r b o x y l a s e and a l c o h o l
+d e h y d r o g e n a s e ) c o n s i d e r a b l y i n c r e a s e d but t h o s e o f r e s p i r a t o r y e n z y m e s ( p y r u v a t e
+dehydrogenase, acetaldehyde dehydrogenase and acetyl-CoA synthetase) decreased.
+T h e b e h a v i o u r o f P D C activities in C r a b t r e e - p o s i t i v e a n d negative yeasts with
+d e c r e a s i n g oxygen feed rates is different. In the C r a b t r e e - p o s i t i v e y e a s t S. cerevisiae,
+high levels o f p y r u v a t e d e c a r b o x y l a s e (0.67 U . m g -1) are p r e s e n t even u n d e r a e r o b i c ,
+g l u c o s e - l i m i t e d c o n d i t i o n s ( P r o n k et al., 1994). T h e s e activities increase o n l y twofold
+u n d e r r e s p i r o - f e r m e n t a t i v e c o n d i t i o n s (Weuthuis et al., 1994). In c o n t r a s t , o n l y low
+P D C activities c o u l d be d e t e c t e d in a e r o b i c glucose limited cultures o f C r a b t r e e negative yeasts like H . u v a r u m K 5 (0.20 U . m g -l) or C. utilis (0.30 U . m g -t) (Weuthuis
+et al., 1994). T h e s e activities i n c r e a s e d s h a r p l y w h e n H. u v a r u m K 5 (x 3.5) or C. utilis
+(x 7) were g r o w n u n d e r oxygen limitation. In H. u v a r u m K 5 or C. utilis, a l c o h o l i c
+f e r m e n t a t i o n o c c u r e d o n l y if oxygen was the timitant factor.
+
+541
+
+These data suggest that regulation of glucose metabolism at the level of
+pyruvate in the Crabtree-negative yeast H. uvarum K 5, as in C. utilis, may be
+controled by oxygen level (Weusthuis et al., 1994).
+
+References
+
+Andreasen, A.A. and Stier, T.J.B. (1953). J. Cell. Comp. Physiol. 41, 23-26.
+Andreasen, A.A. and Stier, T.J.B. (1954). J. Cell. Comp. Physiol. 43, 271-281.
+Carrascosa, J.M., Viguera, M.D., Nunez de Castro, I. and Scheffers, W.A. (1981).
+Antonie van Leeuwenhoek 47, 209-215.
+Fiechter, A., Fuhrmann, G.F. and Kfippeli, O. (1981). Adv. Microbiol. Physiol. 22,
+123-183.
+Furukawa, K., Heinzle, E and Dunn, I.J. (1983). Biotechnol. Bioeng. 25, 2293-2317.
+KAppeli, O. (1986). Adv. Microbioi. Physiol. 28, 181-209.
+Kuriyama, H. and Kobayashi, H. (1993). J. Ferment. Bioeng. 75, 364-367.
+Lafon-Lafourc~de, S. (1983). In: Rehm, H.J., Reed, G. (Eds). The Biotechnology.
+Food and feed production with micro-organisms. Verlag Chemie, Weinheim, 81-163.
+Lagunas, R. (1986). Yeast2, 221-228.
+Petrik, M., K~ppeli, O. and Fiechter, A. (1983). J. Gen. Microbiol. 129, 43-49.
+Pirt, S.J. (1975). Principles o f microbe and cell cultivation. Blacwell Scientific
+publications, 108.
+Pronk, J.T., Wenzel, T.J., Lttttik, M.A.H., Klaassen, C.C.M., Scheffers, W.A., de
+Dteensma, H.Y. andvan Dijken, J.P. (1994). Microbiology 14, 601-610.
+Sims, A.P. and Barnett, J.A. (1978). J. Gen. Microbiol. 106, 277-288.
+Stickland, L.H. (1951). J. Gen. Microbiol. 5,698-701.
+van Dijken, J.P., Weusthuis, R,A. and Pronk, J.T. (1993). Antonie van Leeuwenhoek
+63, 343-352.
+Venturin, C., Boze, H., Fahrasmane, L., Moulin, G. and Galzy, P. (1994). Sci.
+Aliments 14, 321-333.
+Venturin, C., Boze, H., Moulin, G. and Galzy, P. (1995). Yeast 11 (In press).
+Visser, W., Scheffers, W.A., Batenburg-van der Verge, W.H. and van Dijken, J.P.
+(1990). Appl. Environ. Microbiol. 56, 3785-3792.
+Weusthuis, R.A., Visser, W., Pronck, J.T., Scheffers, W.A. and van Dijken, J.P.
+(1994). Microbiology 140, 703-715.
+Wijsman, R.M., van Dijken, J.P., van Kleeff, B.H.A. and Scheffers, W.A. (1984).
+Antonie van Leeuwenhoek 50, 183-192.
+
+542
+
+

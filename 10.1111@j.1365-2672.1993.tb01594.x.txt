@@ -1,0 +1,505 @@
+Journal of Applied Bacteriology 1993,75, 5 5 1 4 5 8
+
+Analysis of yeast diversity during spontaneous and induced
+alcoholic fermentations
+M. Schutz and J. Gafner
+Swiss Federal Research Station for Fruit-Gro wing, Viticulture and Horticulture, ‘Getrankemikrobiologie ’,
+Wadenswil, Switzerland
+4538/04/93:accepted 3 July 1993
+
+T h e diversity of yeast species and strains was monitored by
+physiological tests and a simplified method of karyotyping of yeast chromosomes. During the
+first phase of investigated alcoholic fermentations, the yeast species Metschnikowia pulcherrima
+and Hanseniaspora uvarum were predominant, irrespective of the origin of the grape must. At
+the beginning of fermentation H . uvarum was even present in the case of induced
+fermentations with dried yeast. Middle and end phase of the alcoholic fermentation were
+clearly dominated by the yeast species Saccharomyces cerevisiae. I n the case of spontaneous
+fermentations, several different strains of S. cerevisiae were present and competed with each
+other, whereas in induced fermentations only the inoculated strain of S. cerevisiae was
+observed. A competition of strains of S. cerevisiae also occurred during the fermentation with
+dried yeast product consisting of two different strains. An effect of H. uvarum on taste and
+flavour of wines can be postulated according to the frequency of its appearance during the
+first phase of fermentation. With the method of rapid karyotyping and supplementary
+physiological tests it was possible to make reliable assertions about the yeast diversity during
+alcoholic fermentation.
+M . SCHUTZ AND J . GAFNER. 1993.
+
+INTRODUCTION
+
+Wine-making has turned increasingly to a well-controlled
+process with extended microbiological investigations on the
+alcoholic fermentation. The risk of wine spoilage has been
+reduced to an acceptable degree, even in the case of spontaneous fermentations (Schiitz and Gafner 1992). The production of dried yeasts about two decades ago was a very
+helpful step in overcoming wine spoilage problems. Inoculated dried yeasts, however, can influence the natural
+microflora in musts so that certain desired metabolic substances are no longer produced in adequate amounts.
+Wucherpfennig and Bretthauer (1970) and Sponholz and
+Dittrich (1974) have shown that wines fermented with
+dried yeasts contained lower amounts of higher alcohols,
+isoamylacetate and ethylacetate than spontaneously fermented wines. As wine quality is also a consequence of the
+diversity and the composition of micro-organisms and their
+dynamics and frequency of appearance, it is very important
+to know more about the evolution of the entire microflora
+during the alcoholic fermentation process.
+Correspondence to :M. Schiitz, Swiss Federal Research Station for
+Fruit-Growing, Viticulture and Horticulture, ‘Getrankemikrobiologie’,
+CH-8820 Wadenswil, Switzerland.
+
+Several investigations were done on the diversity and
+composition of the yeast flora in musts. Differences have
+been shown according to the age of the vineyards, grape
+variety and harvest technique (Cuinier 1976; Martini et al.
+1980; Rosini et al. 1982). Longo et al. (1991) identified the
+yeast populations from two regions of Northwest Spain.
+The composition not only differed from region to region
+but also from year to year. Two very successful methods to
+distinguish between different strains are available to characterize strains of Saccharomyces cerevisiae during fermentation : the restriction endonuclease analysis of mitochondria1
+DNA and the karyotyping by chromosomal banding patterns (Lee and Knudsen 1985; Carle and Olson 1985; De
+Jong et al. 1986; Vezinhet et al. 1990). With these methods
+it has been shown that during spontaneous fermentations
+several different strains of S. cerevisiae could be involved
+simultaneously, and furthermore that inoculated dried
+yeasts could dominate the microflora until the end of fermentation (Dubourdieu and Frezier 1990; Hallet et al.
+1990; Querol et al. 1992; Vezinhet et al. 1992).
+Nevertheless, none of these investigations were done
+with respect to the diversity and the dynamics of yeast
+species and strains over the course of the whole alcoholic
+fermentation. Therefore, the aim of the present work was
+
+YEAST FLORA DURING FERMENTATIONS
+
+neous and therefore all colonies taken from one plate represent the real situation better than just a selection of
+colonies.
+
+RESULTS
+Yeast diversity of three different spontaneous
+fermentations
+
+The yeast microflora during three different spontaneous
+fermentations performed with musts from the grape variety
+Nebbiolo and Pinot Noir was examined by physiological
+tests according to Barnett et al. (1990) and by the separation of the chromosomes of yeasts appearing during the
+time course of the fermentation processes. As the chromosomes of M. pulcherrima could not be separated appropriately under the experimental conditions, no strain
+characterization was possible. Colonies of M. pulcherrima
+were therefore recognized only as species.
+The species M. pulcherrima (MpI), three strains of H .
+uvarum (HuI) and six of S. cerevisiae (ScI) were detected
+during the fermentation of the Nebbioio grape must from
+Sandrone (Barolo, Italy). Figure la shows the banding patterns of the separated chromosomes of all yeast strains differing from each other and their frequencies of appearance
+during the fermentation. Strain differences were detectable
+by the comparison of the different chromosomal banding
+patterns. Of 10 colonies at the beginning of fermentation,
+three represented the species MpI (30%), two colonies
+strain HuI-1 (20%0), one colony strain HuI-2 (10%) and
+another two colonies HuI-3 (20%). In the middle phase of
+fermentation where 11 colonies were examined these strains
+were not found. Strains of S. cerevisiae then began to predominate. Strains ScI-1 and ScI-2 were already represented with one colony each (10%) at the beginning. In the
+middle phase two colonies of strain ScI-1 (18%) and three
+colonies of strain ScI-2 (28%) were present. In addition,
+three new strains appeared, ScI-3, ScI-4 and ScI-5, and
+were represented with two colonies each (18%). At the end
+of fermentation, 20 of 40 colonies were strain ScI-1 (50%)
+while strain ScI-2 was represented by 10 colonies (25%).
+Another new strain, ScI-6, was also represented with 10
+colonies (25%).
+During the fermentation of the Pinot Noir grape must
+from Sponholz (Geisenheim, Germany), one M. pulcherrzma (MpII), one H . uvarum (HuII) and four strains of S.
+cerevzszae (ScII) were characterized respectively (Fig. lb).
+At the beginning of fermentation 91 colonies were examined; 83 represented M p I I (91%) and eight the strain
+HuII (9%). In the middle phase of fermentation five of 12
+colonies were MpII (41%). Strain HuII was not found
+whereas three strains of S. cerevzszae, ScII-1, ScII-2 and
+
+553
+
+ScII-3 appeared with two (17%), three (25%) and again
+two (17%) colonies, respectively. Of 50 colonies examined
+at the end o f fermentation, 40 (80%) represented strain
+ScII-2. T h e other 10 colonies (20%) represented the new
+strain ScII-4. Strains ScII-1 and ScII-3 were not found.
+The spontaneous fermentation of the Pinot Noir grape
+must from Marugg (Flasch, Switzerland) was carried out
+by M. pulcherrima (MpIII), three strains of H . uvarum
+(HuIII) and two strains of S. cerevzszae (ScIII) (Fig. lc). At
+the beginning of fermentation, eight of 36 colonies were
+M p I I I (22%), three were HuIII-1 (8%), 17 were HuIII-2
+(47%) and eight were HuIII-3 (22%). In the middle phase
+of fermentation where 19 colonies were examined neither
+M p I I I nor HuIII were found, but two strains of S. cerevzsiue, ScIII-1 and ScIII-2, appeared and were represented
+by 17 (89%) and two (11%) colonies, respectively. At the
+end of fermentation only ScIII-1 was present.
+Succession of dried yeast strains
+
+T o investigate the succession of inoculated dried yeasts the
+commercially-produced strains Siha7 (Begerow), W27
+(Lallemand) and Oenoprox68-72 (Bioprox) were cultured
+in 100 1 of fresh must of the grape variety Muller-Thurgau.
+At three different time points, beginning, middle phase and
+end of fermentation, samples were taken to examine the
+development of the microflora. Yeast species and strains
+were characterized as described. In all three cases the dried
+yeast strains began to predominate immediately after inoculation. In the fermentation with Siha7, the dried yeast
+strain was the only one detected throughout the course of
+fermentation. Among 30 colonies examined at the beginning, 17 in the middle phase and 13 at the end of fermentation, only strain Siha7 was present. At the beginning of the
+fermentations with W27 and Oenoprox68-72, strains of H.
+uvarum were also found (Fig. 2). Among 53 colonies from
+the fermentation with inoculated W27, one represented a
+strain of H. uvarum (2%) and among 25 colonies from the
+fermentation with inoculated Oenoprox68-72, two represented another strain of H. uvarum (8%).
+Influence of yeast species on fermentation products
+
+The end production of acetate, glycerol and ethanol from
+fermentations carried out with H. uvarum and S. cereviszae
+was measured by H P L C analysis. Mean values of three
+independent fermentations are listed in Table 1. The
+acetate production by H. uvarum (0-5 g I-') was significantly higher than by S. cereviszae (0.03 g 1-I). The values
+of glycerol and ethanol production did not differ significantly. Hanseniaspora uvarum produced a glycerol content
+of 5.47 g 1-' and S. cerevisiae 4.97 g 1-'. The ethanol production by H. uvarum was 78.3 g I-', and by s. cerevisiae
+
+554 M . SCHUTZ AND J. GAFNER
+
+(a1
+
+I00
+
+60
+40
+
+-0
+
+a
+
+E
+
+-
+
+'
+
+IT7
+
+Beginning of fermentation
+
+V
+
+0
+
+c
+
+2 60
+r
+
+0
+
+$
+
+a
+
+Mrddle phose of fermentation
+
++
+m
+
+:100
+-U
+v)
+
+End of fermentotion
+
+Fig. 1 Karyotype of different yeast strains
+and their frequencies of appearance during
+the spontaneous fermentations. S,
+Standard yeast strain YNN295; Mp,
+Metschnikowia pulcherrima ; Hu,
+Hanseniaspora uvarum ; Sc, Saccharomyces
+cerevisiae; I, Nebbiolo grape must from I..
+Sandrone (Fig. la); 11, Pinot Noir grape
+must from W.R. Sponholz (Fig. lb); 111,
+Pinot Noir grape must from D. Marugg
+(Fig. lc)
+
+YEAST F L O R A D U R I N G F E R M E N T A T I O N S 555
+
+100
+
+60
+
+$'
+-0
+
+Beginning of fermentotion
+
+-6
+
+u
+0
+
+Beginning of fermentatlon
+
+0
+
+u
+
+e 1oor
+
+& !.,&
+N
+
+r
+
+,"Y)
+
+4 0 1
+
+8 20
+
+-
+
+-
+
+.,....,.......... ..
+..,.........,,...........,.............,,........
+.....
+,...... . . .
+I .
+
+0
+
+c
+C
+
+a
+"
+
+8
+
+I .
+I...
+
+"n Middle phase of
+
+fermentation
+
+Middle phaae of fermentation
+
+D
+P
+
++
+UI
+
++
+a
+
+End o f fermentation
+End of fermentation
+
+Fig. 1
+
+556 M . SCHUTZ AND J . GAFNER
+
+Table 1 Quantities of acetate, glycerol and ethanol produced
+
+during the fermentation of a pasteurized must of the grape variety
+Muller-Thurgau by either Hanseniaspora uvarum or
+Saccharomyces cerevisiae (n = random sample)
+Saccharomyces
+cerevisiae
+
+n-3
+
+Hanseniaspora
+uvarum
+M (S.D.)
+(g 1- 7
+
+Acetate
+Glycerol
+Ethanol
+
+0.50 (0.06)
+5.47 (0.48)
+78.3 (1.89)
+
+0.03 (0.05)
+5.07 (0.34)
+79.3 (1.25)
+
+hf
+
+(S.D.)
+
+(g 1-
+
+l)
+
+M, Mean values of three independent fermentation trials;
+standard deviation of mean values.
+
+Beginning of f e r r n e n t a t l o n
+
+Fig. 2 Karyotype of yeasts detected during the first phase of
+fermentations (&lo% conversion of total sugar) with either
+
+Siha7, W27 or Oenoprox68-72 (two strains) and their percentages
+of total analysed colonies
+
+s.D.,
+
+typing as described. In addition yeast colonies were prepared from a rehydrated sample before inoculation into the
+grape must (rehydration was done as recommended by the
+supplier). Of 13 colonies of the rehydrated sample three
+(23%) represented strain L2868 and 10 (77%) strain
+L2872. After inoculation, when fermentation began the
+ratio between L2868 and L2872 changed already: 14 of 25
+colonies (56%) were L2868 and 11 (44%) were L2872.
+Strain L2872 was not detected after the middle phase of
+fermentation. T h e total number of colonies examined in the
+middle phase and at the end of fermentation were 19 and
+12, respectively (Fig. 3).
+
+79.3 g 1-' (H. uvarum could not completely ferment the
+sugar and the residual content was 8.2 g 1 - ').
+DISCUSSION
+Competltlon of two stralns of a drled yeast product
+durlng the fermentatlon
+
+Speclflcity of the spontaneous yeast flora
+
+T o monitor the competition of the strains OenoproxL2868
+and OenoproxL2872 from the mixed dried yeast product
+Oenoprox68-72 samples were taken at three different time
+points, at the beginning, in the middle phase and at the end
+of fermentation and yeast colonies were prepared for karyo-
+
+The three spontaneous fermentations with musts from the
+grape varieties Nebbiolo and Pinot Noir from different
+regions showed similarities in the composition and
+dynamics of yeast species. At the beginning of each fermentation the yeast species M. pulcherrima and H. uvarum were
+
+I
+
+2
+
+3
+
+4
+
+Course of f e r m e n t o t i o n
+
+Fig. 3 Karyotype of the two strains of Oenoprox68-72 and their competition throughout the fermentation process. A, Strain L2872; B,
+
+strain L2868; S, standard yeast strain YNN295; 1, rehydrated yeast; 2, beginning of fermentation; 3, middle phase of fermentation; 4, end
+of fermentation
+
+YEAST FLORA DURING FERMENTATIONS 557
+
+predominant. Saccharomyces cerevisiae began to predominate in the middle phase and end of fermentation. T h e
+presence of yeasts of the genera Metschnikowia and Hanseniaspora ( K l o c k e r a ) in early phases of fermentations was
+also reported by Fleet e t al. (1984). The genus- or speciesspecific pattern of yeast chromosomes during the alcoholic
+fermentation seems therefore to be relatively uniform irrespective of the origin of the grape must. However, differences occurred between the analysed fermentations in the
+composition and dynamics of yeast strains. T h e composition of the yeast strain population changed from one fermentation
+to
+another. Therefore
+the
+different
+strain-specific patterns can be postulated as typical for each
+fermentation.
+
+Development of the mlcroflora by inoculation of drled
+yeasts
+According to the results obtained from induced fermentations the succession of the dried yeast strain Siha7 during
+the first phase of fermentation seems to be stronger in comparison with the other strains W27 and Oenoprox68-72
+where strains of H. uvarum have also been detected. T h e
+presence of H. uvarum at the beginning of fermentation
+may be important with respect to the taste and flavour of
+wine. Benda (1982) and Lafon-Lafourcade (1983) reported
+that yeast species such as H. uvarum (Klockera apicutata)
+can produce large amounts of volatile acids. Acetate and
+glycerol may also be produced at the expense of ethanol. I t
+has been shown in this work that H. u v a r u m indeed produces more acetate than, for instance, s. cerevisiae, but not
+at the expense of ethanol. Examination of the influence of
+strains of H. uvarum, which are active during the first
+phase of fermentation, on the taste and flavour of wines will
+be the subject of further investigations.
+
+Strain dynamics of the drled yeast product
+Oenoprox68-72
+T h e investigation of the mixed dried yeast product
+Oenoprox68-72 showed that the present two strains were
+not able to develop simultaneously. Although strain L2872
+was dominant in the rehydrated sample it could not
+succeed against strain L2868. According to the rapid
+decline of strain L2872, it may be concluded that its influence is rather weak. T o increase its influence it would be
+necessary to increase the percentage of L2872 in the dried
+yeast product. Recent studies with mixed cultures have
+shown that it is very important to investigate the competition of component strains to produce mixed dried yeasts
+in which all strains are able to influence the fermentation
+process.
+
+ACKNOWLEDGEMENTS
+T h e authors wish to thank Professor W . R. Sponholz, M r
+L. Sandrone and Mr D. Marugg for their helpful support
+in preparing the wine samples.
+
+REFERENCES
+Barnett, J.A., Payne, R.W. and Yarrow, D. (1990) Yeasts: Characteristics and IdentiJcation. Cambridge : Cambridge University
+Press.
+Benda, I. (1982) Wine and brandy. In Prescott and Dunn’s Industrial MicrobiologV ed. Reed, G . pp. 293402. Westport, C T :
+Avi-Publication Company.
+Carle, G.F. and Olson, M.V. (1985) An electrophoretic karyotype
+for yeast. Proceedings of the National Academy of Sciences of the
+USA 82, 3756-3760.
+Cuinier, P. (1976) La microflore des sols du vignoble. Revue
+Francaise d’oenologie 102, 42-49.
+De Jonge, P., De Jonge, F.C.M., Meijers, R., Steensma, H.Y. and
+Scheffers, W.A. (1986) Orthogonal-field-alternation gel electrophoresis banding patterns of DNA from yeast. Yeast 2, 193204.
+Dubourdieu, D. and Frezier, V. (1990) Application de
+I’tlectrophorise en champs pulsCs d I’kude de I’ecologie des
+levures en fermentation spontanee. Revue Franraise d’0enologie
+30, 3740.
+Fleet, G.H., Lafon-Lafourcade, S. and Ribereau-Gayon, P. (1984)
+Evolution of yeasts and lactic acid bacteria during fermentation
+and storage of Bordeaux wines. Applied and Environmental
+Microbiology 48, 1034-1038.
+Hallet, J.N., Craneguy, B., Daniel, P. and Poulard, A. (1990)
+CaractCrisation des souches levuriennes des mouts et des lies
+par le polymorphisme de restriction de leur ADN mitochondrial. In Actualitiis Oenologiques 89, C R 4th International Symposium of Enology, pp. 227-232. Bordeaux: Dunod.
+Lafon-Lafourcade, S. (1983) Wine and brandy. In Biotechnology
+ed. Rehm, H.H. and Reed, G. pp. 81-163. Weinheim: Verlag
+Chemie.
+Lee, S.Y. and Knudsen, F.B. (1985) Differentiation of brewery
+yeast strains by restriction endonuclease analysis of their mitochondrial DNA. Journal of the Institute of Brewing 91, 169-173.
+Longo, E., Cansado, J., Agrelo, D. and Villa, T.G. (1991) Effect
+of climatic conditions on yeast diversity in grape musts from
+Northwest Spain. American Journal of Enology and Viticulture
+42, 141-144.
+Martini, A., Federichi, F. and Rosini, G. (1980) A new approach
+to the study of yeast ecology of natural substrates. Canadian
+Journal of Microbiology 26, 856-859.
+Querol, A., Barrio, E., Huerta, T and Ramon, D. (1992) Molecular monitoring of wine fermentations conducted by active dry
+yeast strains. Applied and Environmental Microbiology 58, 29482953.
+Rosini, G., Federichi, F. and Martini, A. (1982) Yeast flora of
+grape berries during ripening. Microbial EcoCog~8, 83-89.
+Schutz, M. and Gafner, J. (1992) Pro und Kontra Reinzuchthefe.
+Weinwirtschaf-Technik I, 14-1 5.
+
+558 M . SCHUTZ AND J . GAFNER
+
+Schwartz, D.C and Cantor, C.R. (1984) Separation of yeast
+chromosome-sized DNAs by pulsed field gradient gel electrophoresis. Cell 37,67-75.
+Sponholz, W.R. and Dittrich, H.H. (1974) Die Bildung von SOzbindenden Garungs-Nebenprodukten, hoheren Alkoholen und
+Estern bei einigen Reinzuchthefestammen und bei einigen fur
+die Weinbereitung wichtigen “wilden ” Hefen. WeinWissenschafi 29, 301-314.
+Vezinhet, F., Blondin, B. and Hallet, J.N. (1990) Chromosomal
+DNA patterns and mitochondria1 DNA polymorphism as tools
+
+for identification of enological strains of Saccharomyces cerevisiae. Applied Microbiology and Biotechnology 32, 568-57 1.
+Vezinhet, F., Hallet, J.N., Valade, M. and Poulard, A. (1992)
+Ecological survey of wine yeast strains by molecular methods of
+identification. American Journal of Enology and Viticulture 43,
+83-86.
+Wucherpfennig, K. and Bretthauer, G. (1970) Uber die Bildung
+von fliichtigen Aromastoffen in Traubenwein in Abhangigkeit
+von der Mostbehandlung sowie von der verwendeten Heferasse.
+Mitteilungen Klosterneuburg 20, 36-46.
+
+

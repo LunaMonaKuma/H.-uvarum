@@ -1,0 +1,2553 @@
+Chapter 32
+
+Hanseniaspora Zikes (1912)
+Neza Cadez and Maudy Th. Smith
+
+DIAGNOSIS OF THE GENUS
+Asexual reproduction: Budding is bipolar, and blastoconidia are formed in basipetal succession on a broad base. Cells are apiculate and ovoid
+to long-ovoid or elongate. Pseudohyphae may be present but are rarely well-developed. Colonies are smooth and cream in color. The anamorph genus is Kloeckera.
+Sexual reproduction: Asci, which are persistent or deliquescent, form one to four ascospores that are hat- or helmet-shaped, spherical with
+warts, spherical and smooth with an equatorial ledge or spherical and warty with an equatorial ledge. Asci arise without conjugation.
+Physiology/biochemistry: Glucose is fermented. Nitrate is not assimilated. myo-Inositol and pantothenate are required for growth. Acetic acid
+is not produced. Where determined, coenzyme CoQ-6 is present. The diazonium blue B reaction is negative.
+Phylogenetic placement: Saccharomycetales. Hanseniaspora is a sister genus to Saccharomycodes (Figs 13.1, 32.1).
+
+TYPE SPECIES
+Hanseniaspora valbyensis Klöcker
+
+SPECIES ACCEPTED
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+9.
+10.
+11.
+
+Hanseniaspora clermontiae Cadez, Poot, Raspor & M.Th. Smith (2003)
+Hanseniaspora guilliermondii Pijper (1928)
+Hanseniaspora lachancei Cadez, Poot, Raspor & M.Th. Smith (2003)
+Hanseniaspora meyeri Cadez, Poot, Raspor & M.Th. Smith (2003)
+Hanseniaspora occidentalis M.Th. Smith (1974)
+a. Hanseniaspora occidentalis M.Th. Smith var. occidentalis (2006)
+b. Hanseniaspora occidentalis M.Th. Smith var. citrica Cadez, Raspor & M.Th. Smith (2006)
+Hanseniaspora opuntiae Cadez, Poot, Raspor & M.Th. Smith (2003)
+Hanseniaspora osmophila (Niehaus) Phaff, M.W. Miller & Shifrine ex M.Th. Smith (1984)
+Hanseniaspora pseudoguilliermondii Cadez, Raspor & M.Th. Smith (2006)
+Hanseniaspora uvarum (Niehaus) Shehata, Mrak & Phaff ex M.Th. Smith (1984)
+Hanseniaspora valbyensis Klöcker (1912)
+Hanseniaspora vineae van der Walt & Tscheuschner (1957)
+
+KEY TO SPECIES OF HANSENIASPORA AND KLOECKERA
+1.
+
+2(1).
+3(2).
+
+4(3).
+5(2).
+6(1).
+
+a.
+b.
+c.
+a.
+b.
+a.
+
+b.
+a.
+b.
+a.
+b.
+a.
+
+Ascospores are hat-shaped ........................................................................................................................................................................................... 2
+Ascospores are spherical................................................................................................................................................................................................ 6
+Ascospores are absent ................................................................................................................................................................................ K. lindneri1:
+2-Keto-D-gluconate is assimilated.............................................................................................................................................................................. 3
+2-Keto-D-gluconate is not assimilated...................................................................................................................................................................... 5
+Growth occurs at 37 C..................................................................................................................................................................... H. guilliermondii:
+H. opuntiae:
+H. pseudoguilliermondii:
+Growth is absent at 37 C............................................................................................................................................................................................... 4
+Growth occurs at 30 C ................................................................................................................................................................................. .H. meyeri:
+Growth is absent at 30 C.....................................................................................................................................................................H. clermontiae:
+Growth occurs at 37 C.............................................................................................................................................................................. H. lachancei:
+Growth is absent at 37 C...................................................................................................................................................................... H. valbyensis1:
+Sucrose is fermented....................................................................................................................................................................................................... 7
+
+The Yeasts, a Taxonomic Study
+© 2011 Elsevier B.V. All rights reserved.
+
+p. 1288
+
+p. 423
+p. 427
+p. 429
+p. 425
+p. 423
+p. 424
+p. 431
+
+421
+
+422
+
+7(6).
+8(6).
+
+1
+
+PART | IVB
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+
+b.
+a.
+b.
+a.
+
+Sucrose is not fermented................................................................................................................................................................................................. 8
+Trehalose is assimilated ................................................................................................................................................... H. occidentalis var. citrica:
+Trehalose is not assimilated .................................................................................................................................H. occidentalis var. occidentalis:
+Growth is absent with 0.01% cycloheximide............................................................................................................................................H. vineae:
+H. osmophila:
+b. Growth occurs with 0.01% cycloheximide ............................................................................................................................................. H. uvarum:
+
+p. 426
+p. 426
+p. 432
+p. 428
+p. 429
+
+Kloeckera lindneri has the same physiological reactions on standard growth tests as Hanseniaspora valbyensis.
+
+Wickerhamomyces anomalus CBS 5759NT
+Pichia membranifaciens CBS 107T
+Hanseniaspora osmophila CBS 313T
+
+100
+
+Hanseniaspora vineae CBS 2171T
+
+100
+
+Hanseniaspora occidentalis var. occidentalis CBS 2592T
+
+100
+
+Hanseniaspora occidentalis var. citrica CBS 6783T
+70
+
+Kloeckera lindneri CBS 285T
+
+94
+
+Hanseniaspora valbyensis CBS 479T
+Hanseniaspora guilliermondii CBS 465T
+
+100
+
+67
+
+100
+
+Hanseniaspora lachancei CBS 8818T
+
+58 Hanseniaspora pseudoguilliermondii CBS 8772T
+59 Hanseniaspora opuntiae CBS 8733T
+Hanseniaspora uvarum CBS 314T
+
+75
+
+Hanseniaspora meyeri CBS 8734T
+
+100 Hanseniaspora clermontiae CBS 8821T
+
+10 changes
+
+FIGURE 32.1 Phylogenetic relationships among species of Hanseniaspora and its anamorph Kloeckera determined from maximum parsimony
+analysis of combined gene sequences from actin, D1/D2 LSU rRNA and ITS/5.8S. GenBank accession numbers are given with each species
+description and by Cadez et al. (2006). Bootstrap percentages are from 1000 replicates. T 5 type strain, NT 5 neotype strain.
+
+TABLE 32.1 Key Characters of Species Assigned to the Genera Hanseniaspora and Kloeckera
+Growth1
+
+Fermentation
+
+Ascospores
+
+Sucrose
+
+Tre
+
+2Kgl
+
+0.01% Cycl
+
+30 C
+
+37 C
+
+H. clermontiae
+H. guilliermondii3
+H. lachancei
+H. meyeri
+H. occidentalis var. occidentalis
+
+2
+2
+2
+2
+1
+
+2
+2
+2
+2
+2
+
+1
+1
+2
+1
+2
+
+1
+1
+1
+1
+2
+
+2
+1
+1
+1
+1
+
+2
+1
+1
+2
+2
+
+H. occidentalis var. citrica
+
+1
+
+1
+
+2
+
+2
+
+1
+
+2
+
+H. opuntiae3
+H. osmophila4
+H. pseudoguilliermondii3
+H. uvarum
+
+2
+2
+2
+2
+
+2
+2
+2
+2
+
+1
+2
+1
+1
+
+1
+2
+1
+1
+
+1
+1
+1
+1
+
+1
+2
+1
+2
+
+H. valbyensis5
+H. vineae4
+K. lindneri5
+
+2
+2
+2
+
+2
+2
+2
+
+2
+2
+2
+
+1
+2
+1
+
+1
+1
+1
+
+2
+2
+2
+
+Species
+
+1
+2
+3
+4
+5
+
+Abbreviations: Tre, trehalose; 2Kgl, 2-keto-D-gluconate; Cycl, cycloheximide.
+The number in parentheses refers to the number of spores per ascus most frequently observed.
+H. guilliermondii, H. opuntiae and H. pseudoguilliermondii cannot be differentiated by phenotypic characters.
+H. osmophila and H. vineae cannot be discriminated by phenotypic characters.
+H. valbyensis and K. lindneri cannot be separated on standard growth tests.
+
+Shape
+Hat
+Hat
+Hat
+Hat
+Spherical, smooth with
+equatorial ledge
+Spherical, smooth with
+equatorial ledge
+Hat
+Spherical, warty
+Hat
+Spherical, warty with
+equatorial ledge
+Hat
+Spherical, warty
+Absent
+
+Number2
+2-4
+1-4(4)
+4
+2-4
+1-2
+1-2
+4
+1-2
+4
+1-2
+1-4(2)
+1-2
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+423
+
+SYSTEMATIC DISCUSSION OF THE SPECIES
+32.1. Hanseniaspora clermontiae Cadez, Poot,
+Raspor & M.Th. Smith (2003)
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is cream colored, butyrous, smooth, glossy,
+flat to slightly raised at the center, and with an entire to slightly
+undulate margin.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid to elongate, 3.5 18 3 2.5 5 μm,
+and occur singly or in pairs. Budding is bipolar. Sediment is present.
+After 1 month a very thin ring is formed.
+Dalmau plate culture on potato agar: Poorly developed pseudohyphae are present.
+Formation of ascospores: Two to four hat-shaped ascospores are
+formed per ascus. Ascospores were observed on 5% Difco malt
+extract agar after 2 weeks at 25 C.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+n
+n
+2
+2
+
+Origin of the strains studied: CBS 8821 (UWO-PS 87-2370.1, NRRL
+Y 27515), isolated from stem rot of a lobelioid plant (Clermontia
+spp., Campanulaceae) Hawaii, USA, M.-A. Lachance; CBS 8822 (UWOPS 87-2440.2), from stem rot of Clermontia sp., Hawaii, USA, M.-A.
+Lachance (Cadez et al. 2003).
+Type strain: CBS 8821.
+Systematics: The close relationship between this species and
+Hanseniaspora meyeri is discussed in the section of the latter species.
+H. clermontiae differs from its sister species H. meyeri and H. uvarum
+by the absence of growth at 30 C, and from H. valbyensis by its ability
+to assimilate 2-keto-D-gluconate.
+Ecology: Lachance et al. (2005) reported that H. clermontiae might
+be endemic to the Hawaiian Islands.
+Biotechnology: Unknown.
+Agriculture and food: Unknown.
+Clinical importance: Unknown. H. clermontiae does not grow at
+37 C and is unlikely to be a human pathogen.
+
+32.2. Hanseniaspora guilliermondii Pijper
+(1928)
+Anamorph: Kloeckera apis Lavie ex M.Th. Smith, Simione & S.A. Meyer
+Synonyms:
+?Willia guilliermondii (Pijper) Vuillemin (1931)
+Hanseniaspora melligeri Lodder (1932)1
+Hanseniaspora apuliensis Castelli (1948)1
+?Acaromyces laviae Lavie (1950)
+Kloeckera apiculata (Reess) Janke var. apis Lavie (1954)
+Kloeckera apis Lavie ex M.Th. Smith, Simione & S.A. Meyer (1977)1
+1
+
+Synonymy determined by DNA reassociation (Meyer et al. 1978).
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth, glossy,
+and slightly raised at the center.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid or elongate, 2.2 5.8 3 4.5 10.2 μm,
+or occasionally longer, and single or in pairs. Reproduction is by bipolar
+budding (Fig. 32.2). Sediment is present. After 1 month a thin ring is
+formed.
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+1
+1
+2
+
+Growth at 25 C
+Growth at 30 C
+
+1
+2
+
+CoQ: Not determined.
+Mol% G 1 C: 35.7 37.2, CBS 8821, CBS 8822 (Tm: Cadez et al. 2003).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+AJ512452, ITS 5 AJ512441, actin 5 AM039472.
+Cell carbohydrates: Not determined.
+
+FIGURE 32.2 Hanseniaspora guilliermondii CBS 465. Bipolar budding
+cells that are single, in pairs and in clusters, Yeast Nitrogen Base with
+glucose. Bar 5 10 μm (from CBS website, T. van Beers and T. Boekhout).
+
+424
+
+PART | IVB
+
+Dalmau plate culture on potato agar: Pseudohyphae are poorly
+developed or absent.
+Formation of ascospores: One to four, mostly four, hat- to helmetshaped ascospores, are normally released from the mature ascus.
+Ascospores often aggregate after liberation. Abundant ascosporulation is usually observed on 5% Difco malt extract agar and on potato
+dextrose agar at a low temperature (15 C) after 7 or more days
+(Fig. 32.3).
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+v
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+1
+1
+2
+
+Growth at 34 C
+Growth at 37 C
+Growth at 40 C
+
+1
+1
+2
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+CoQ: 6, three strains CBS 465, CBS 6619 (AJ 5176), AJ 5175 (BillonGrand 1987, Yamada et al. 1976a).
+Mol% G 1 C: 32.9 34.2, 11 strains, including CBS 95, CBS 465, CBS
+466, CBS 1972, CBS 2574, CBS 2591, CBS 5060 (Tm: Meyer et al. 1978).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+U84230, ITS 5 AJ512433, SSU rRNA 5 AY046256, actin 5
+AM039457.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 465 (ATCC 10630, NRRL Y-1625),
+isolated from infected nail, South Africa, A. Pijper; CBS 95, fermenting bottled tomatoes, The Netherlands, G. van Rhee; CBS 466 (No. 88
+in Melliger 1931), dates (Phoenix dactylifera) originating from Egypt,
+deposited by R. Chodat, type strain of Hanseniaspora melligeri; CBS
+1972, grape juice, Italy, T. Castelli, authentic strain of Hanseniaspora
+apuliensis; CBS 2567, grape must, Israel, A. Capriotti; CBS 2574, grape
+juice, Italy, A. Capriotti; CBS 2591, bee trachea, France, R. Chauvin,
+type strain of Kloeckera apis; CBS 4378, cecum of baboon, L. do
+Carmo Sousa; CBS 5060, culture contaminant, H.J. Phaff; CBS 6619
+(AJ 5176), unknown, T. Nakase (Nakase and Komagata 1970a).
+Type strain: CBS 465.
+Systematics: The species H. apuliensis, H. guilliermondii and H. melligeri
+were placed in synonymy with and maintained as synonyms of
+H. valbyensis by Lodder and Kreger-van Rij (1952) and Phaff (1970a),
+respectively. Meyer et al. (1977) demonstrated H. guilliermondii to be a
+species separate from H. valbyensis on the basis of low DNA homology.
+A high degree of reassociation was revealed between H. apuliensis,
+H. guilliermondii, H. melligeri and K. apis. Based on D1/D2 sequencing,
+H. guilliermondii and H. uvarum are closely related species, differing by
+only six base substitutions (1%) (Boekhout et al. 1994). Whole genome
+relatedness for this species pair, as determined from nuclear DNA reassociation, ranges from 11 to 29 % (Meyer et al. 1978).
+Ecology: Hanseniaspora guilliermondii is a widespread species, associated mainly with various fruits (Abranches et al. 2000, Trindade
+et al. 2002), insects (Morais et al. 1992, 1995b, 1996), plants (Yurkov
+and Chernov 2005) and fermenting musts. However, the type strain
+was isolated from clinical material (Pijper 1928).
+Biotechnology: Aromatic compounds, such as acetoin (Romano et al.
+1993, Teixeira et al. 2002) and acetate esters (Rojas et al. 2001) produced by wine strains of H. guilliermondii were studied as food and
+beverage flavorings.
+Agriculture and food: Because H. guilliermondii is one of the prevailing apiculate yeast species on wine grapes, and is present at the
+beginning of wine fermentations (Moore et al. 1988, Mrak and
+McClung 1940, Nisiotou and Nychas 2007), its influence on wine aromas was studied by Zironi et al. (1993), Romano et al. (1997a) and
+Moreira et al. (2005). The species was also reported as a predominant species in early stages of cocoa bean fermentations in Indonesia
+(Ardhana and Fleet 2003) and in Ghana in West Africa (Jespersen
+et al. 2005, Nielsen et al. 2007). Occurrence of the species in processed black table olives was detected by Arroyo-López et al. (2006)
+using molecular methods.
+Clinical importance: Pijper (1928) isolated the type strain from an
+infected nail in South Africa. Even though the species can grow at
+37 C, there are no other reports of the species from clinical material.
+
+32.3. Hanseniaspora lachancei Cadez, Poot,
+Raspor & M.Th. Smith (2003)
+FIGURE 32.3 Hanseniaspora guilliermondii. Asci with ascospores on
+5% malt extract agar after 7 days at 25 C. Bar 5 10 μm (H.J. Phaff
+1970a).
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is cream colored, butyrous, smooth, glossy,
+flat to slightly raised at the center.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid to elongate, 2.5 18.5 3 1 5.5 μm,
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+425
+
+and occur singly or in pairs. Budding is bipolar. Sediment is present.
+After 1 month a thin ring is formed.
+Dalmau plate culture on potato agar: Poorly developed pseudohyphae are present.
+Formation of ascospores: Four hat-shaped ascospores are formed
+per ascus. Ascospores were observed on 5% Difco malt extract agar
+after 7 days or longer at 25 C.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+n
+n
+2
+2
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+2
+1
+2
+
+Growth at 37 C
+Growth at 40 C
+
+1
+2
+
+CoQ: Not determined.
+Mol% G 1 C: 34.8 35.6, CBS 8818, CBS 8819 (Tm: Cadez et al. 2003).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+AJ512457, ITS 5 AJ512439, actin 5 AM039469.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 8818 (UWO-PS 92-218.1, NRRL
+Y-27514), isolated from fermenting agave juice (Agave tequilana),
+Mexico; CBS 8819 (UWO-PS 92-232.4), Drosophila sp., fermenting
+agave juice, Mexico (Cadez et al. 2003); CBS 9197 (UWO-PS
+92-221.1), fermenting agave juice, Mexico, M.-A. Lachance.
+Type strain: CBS 8818.
+Systematics: Strains of H. lachancei were isolated from a traditional
+tequila fermentation in Mexico and referred to by Lachance (1995) as
+atypical H. guilliermondii strains due to their lack of assimilation of
+2-keto-D-gluconate. Comparisons of nDNA complementarity showed
+H. lachancei to have low relatedness (29%) with H. guilliermondii
+and intermediate relatedness (53% and 51%, respectively) with
+H. opuntiae and H. pseudoguilliermondii (Cadez et al. 2003). Based on
+the sequence analyses of two ribosomal gene regions and two
+
+protein-coding genes, the four species are phylogenetically closely
+related (Fig. 32.1, Cadez et al. 2006). They differ from the other
+Hanseniaspora species by the presence of growth at 37 C.
+Ecology: The three strains of this species were isolated from fermenting agave juice and from Drosophila spp. captured inside a traditional tequila distillery in Mexico (Lachance 1995).
+Biotechnology: Unknown.
+Agriculture and food: Unknown.
+Clinical importance: Unknown. The species can grow at 37 C.
+
+32.4. Hanseniaspora meyeri Cadez, Poot,
+Raspor & M.Th. Smith (2003)
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth, glossy,
+and flat to raised at the center.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid or elongate, 2.5 12.5 3 1.5 6 μm,
+and occur singly or in pairs. Budding is bipolar. Sediment is present.
+After 1 month a very thin ring may be formed.
+Dalmau plate culture on potato agar: Poorly developed pseudohyphae are present.
+Formation of ascospores: Two to four hat- to helmet-shaped ascospores are formed per ascus. Ascospores were observed on 5% Difco
+malt extract agar after 7 or more days at 25 C.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+CoQ: Not determined.
+
+1
+1
+2
+
+Growth at 30 C
+Growth at 35 C
+
+1
+2
+
+426
+
+PART | IVB
+
+Mol% G 1 C: 36.6 37.4, CBS 8734, CBS 8771, CBS 8773, CBS 8815
+(Tm: Cadez et al. 2003).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+AJ512454, ITS 5 AJ512436, actin 5 AM039466.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 8734 (UWO-PS 91-661.1, NRRL
+Y-27513), isolated from from fruit of soapberry (Sapindus sp.,
+Sapindaceae), Hawaii, USA, M.-A. Lachance; CBS 8771 (NCAIM Y.725),
+from spoiled grape punch, Georgia, USA, T. Deak; CBS 8773, CBS 8774,
+CBS 8775, isolated from flowers of Schotia sp. (Fabaceae) tree, South
+Africa, P. Meyer; CBS 8815 (UWO-PS 91-643.1), CBS 8823 (UWO-PS 91732.2), isolated from drosophilids on berries of Sapindus sp., Hawaii,
+USA, M.-A. Lachance (Cadez et al. 2003); CBS 9195 (UWO-PS 872361.1), from stem rot of lobelioid (Clermontia sp., Camapnulaceae),
+Hawaii, USA; CBS 9196 (UWO-PS 91-637.1), from drosophilid species
+on berries of Sapindus sp., Hawaii, USA, M.-A. Lachance.
+Type strain: CBS 8734.
+Systematics: In a survey of genetic diversity within species of
+Hanseniaspora, Cadez et al. (2002) determined a divergent group of
+isolates that were physiologically indistinguishable from H. uvarum.
+DNA reassociation analysis confirmed that the group of strains represent a distinct species as DNA similarity values between H. meyeri
+and the other Hanseniaspora species were usually lower than 40%
+(Cadez et al. 2003). An exception was a DNA similarity value of 62%
+between H. meyeri and H. clermontiae, suggesting that the species
+represent a diverging complex. The rates for substitutions in the
+D1/D2 and ITS regions were low as H. meyeri differed from
+H. clermontiae by only two and one base substitutions, respectively.
+The two species can be physiologically distinguished by their maximal growth temperature (Cadez et al. 2003).
+Ecology: Hanseniaspora meyeri has been isolated mainly from natural
+habitats (flowers, fruits, stem rots and drosophilids) in Hawaii and
+South Africa. However, its presence in spoiled grape punch in
+Georgia, USA, suggests its association with a man-made environment
+as well (Cadez et al. 2003a).
+Biotechnology: Unknown.
+Agriculture and food: Unknown.
+Clinical importance: Unknown. The species does not grow at 37 C.
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+Pseudosaccharomyces occidentalis Klöcker (1912b)3
+Kloeckera occidentalis (Klöcker) Janke (1928)3
+Kloeckeraspora occidentalis (M.Th. Smith) Yamada, Maeda & Banno
+(1992e)3
+Pseudosaccharomyces willi Klöcker (1912b)1
+Kloeckera willi (Klöcker) Janke (1928)1
+?Kloeckera cacaoicola Ciferri (1931b)
+
+1
+Synonymy determined from phenotype (Meyer et al. 1978, Miller and Phaff
+1958).
+2
+Synonymy determined from DNA reassociations (Meyer et al. 1978).
+3
+Synonymy determined from rRNA sequence (Yamada et al. 1992e).
+
+b. Hanseniaspora occidentalis M.Th. Smith var. citrica Cadez,
+Raspor & M.Th. Smith (2006)
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth, glossy,
+and has a raised center and a flat periphery.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are lemon-shaped, ovoid or sometimes spherical,
+1.8 6.2 3 3 11 μm, and occur singly or in pairs. Sediment is formed.
+After 1 month a thin ring is present.
+Dalmau plate culture on potato agar: Pseudohyphae are generally
+lacking, but some strains produce pseudohyphae that are either
+poorly developed or well developed.
+Formation of ascospores: One or two ascospores are formed per
+ascus and are spherical and smooth with an equatorial ledge.
+Ascospores are not released from the ascus. Ascosporulation occurs
+on 5% Difco malt extract agar at 25 C after 7 or more days.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+1
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+1
+2
+2
+2
+2
+v
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+v
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+
+32.5. Hanseniaspora occidentalis M.Th. Smith
+(1974)
+This species has two varieties:
+a. Hanseniaspora occidentalis M.Th. Smith var. occidentalis (2006)
+Anamorph: Kloeckera javanica (Klöcker) Janke
+Synonyms:
+Pseudosaccharomyces antillarum Klöcker (1912b)2
+Kloeckera antillarum (Klöcker) Janke (1928)1
+Hanseniaspora antillarum (Klöcker) Kudryavtsev (1954)
+Pseudosaccharomyces indicus Klöcker (1912b)3
+Kloeckera indica (Klöcker) Janke (1928)2
+Pseudosaccharomyces javanicus Klöcker (1912b)2
+Kloeckera javanica (Klöcker) Janke (1928)2
+Hanseniaspora javanica (Klöcker) Kudryavtsev (1954)2
+Pseudosaccharomyces jensenii Klöcker (1912b)1
+Kloeckera jensenii (Klöcker) Janke (1928)1
+Pseudosaccharomyces lafarii Klöcker (1912b)1,2
+Kloeckera lafarii (Klöcker) Janke (1928)1,2
+Kloeckera javanica (Klöcker) Janke var. lafarii (Klöcker) Miller & Phaff
+(1958)1,2
+Pseudosaccharomyces malaianus Klöcker (1912b)
+Kloeckera malaiana (Klöcker) Janke (1928)
+
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+2
+2
+2
+
+Growth at 30 C
+Growth at 37 C
+
+1
+2
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+CoQ: 6, seven strains, including CBS 280, CBS 283, CBS 2578, CBS
+2592, CBS 6623, CBS 6624 (Billon-Grand 1987, Yamada et al. 1976a).
+Mol% G 1 C: 34.9 35.9, ten strains, including CBS 282, CBS 283, CBS
+284, CBS 2578, CBS 2592, CBS 6782, CBS 6783 (Tm: Meyer et al. 1978).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+U84225, ITS 5 AJ512429, actin 5 AM039463.
+Cell carbohydrates: Not determined.
+Origin of the strains of the variety occidentalis: CBS 2592 (ATCC
+32053, NRRL Y-7946), isolated from soil, West Indies, St. Croix,
+H. Kufferath, type strain of Pseudosaccharomyces occidentalis; CBS 280,
+from soil, West Indies, St. Thomas, Ö. Winge, type strain of
+Pseudosaccharomyces antillarum; CBS 282, from soil, Java, H. Kufferath,
+type strain of Pseudosaccharomyces javanicus; CBS 283 (NCTC 494), from
+soil, Java, A. Klöcker, type strain of Pseudosaccharomyces jensenii; CBS 284
+(NCTC 489), from soil, Java, A. Klöcker; CBS 2569, Drosophila sp., Brazil;
+CBS 2578 (NCTC 488), from soil, West Indies, St. Thomas, A. Klöcker; CBS
+6623 (AJ 5195), CBS 6624 (AJ 5197), unknown, T. Nakase (Nakase and
+Komagata 1970a).
+Type strain: CBS 2592.
+Supplementary description of H. occidentalis var. citrica: The variety citrica differs from the variety occidentalis by the ability to grow
+weakly on trehalose.
+Origin of the strains belonging to the variety citrica: CBS 6782,
+CBS 6783, isolated from orange juice, Italy, A.M. van Grinsven; CBS
+9921 (DBVPG 4654), CBS 9922 (DBVPG 4656), rotten orange, Argentina.
+Type strain: CBS 6783.
+Systematics: Nuclear DNA reassociation studies by Meyer et al.
+(1978) showed H. occidentalis and Kloeckera javanica to have
+high base sequence complementarity, thus establishing the
+teleomorph anamorph relationship, as suggested by Smith (1974) on
+the basis of physiological characteristics. The species differs from other
+species of Hanseniaspora by the ability to ferment sucrose. The division
+of H. occidentalis into the two varieties occidentalis and citrica was based
+on genetic heterogeneity of the strains, as first shown by the analysis of
+chromosomes using electrophoretic karyotypes, RAPD-PCR profiles and
+restriction patterns of the ITS regions (Cadez et al. 2002) and was later
+confirmed by AFLP fingerprinting and DNA reassociation measurements
+(Cadez et al. 2006). Moreover, the phylogenetic relationships among
+H. occidentalis strains determined from the partial sequences of the two
+protein-coding genes and the ITS regions were incongruent, indicating
+genetic exchange between the varieties (Cadez et al. 2006).
+Ecology: The variety occidentalis was mostly isolated from soil, whereas
+the variety citrica was isolated from oranges and their products (Cadez
+et al. 2006). On the basis of incongruent gene genealogies, Cadez et al.
+(2006) predicted that the two varieties of H. occidentalis are isolated by
+habitat preference. Additionally, Morais et al. (1992) found a specialized
+association between H. occidentalis with Drosophila melanogaster in an
+urban wooded area in Rio de Janeiro, Brazil. They suggested that this association reflects specific physiological profiles of H. occidentalis and the availability of a sucrose-rich food source for D. melanogaster at this location.
+Biotechnology: Unknown.
+Agriculture and food: Arias et al. (2002) reported the predominance
+of H. occidentalis (together with H. uvarum) in fresh-squeezed orange
+juice in Florida, USA. Frequent isolation of H. occidentalis from fruit
+juice concentrates was reported also by Deak and Beuchat (1993).
+Oliveira et al. (2005) studied the influence of H. occidentalis on sensory characteristics of cachaca beverage in Brazil.
+Clinical importance: Unknown. The species does not grow at 37 C.
+
+32.6. Hanseniaspora opuntiae Cadez, Poot,
+Raspor & M.Th. Smith (2003)
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is cream colored, butyrous, smooth, glossy,
+and flat to slightly raised at the center.
+
+427
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid to elongate, 3 16 3 1.5 5 μm, and
+occur singly or in pairs. Budding is bipolar. Sediment is present. After
+1 month a very thin ring is formed.
+Dalmau plate culture on potato agar: Poorly developed pseudohyphae are present.
+Formation of ascospores: Four hat-shaped ascospores are formed
+per ascus.
+Ascospores were observed on 5% Difco malt extract agar after
+7 days or longer at 25 C.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+1
+1
+2
+
+Growth at 37 C
+Growth at 40 C
+
+1
+2
+
+CoQ: Not determined.
+Mol% G 1 C: 33.6 35.3, CBS 8733, CBS 8820 (Tm: Cadez et al. 2003).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+AJ512453, ITS 5 AJ512435, actin 5 AM039465.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 8733 (UWO-PS 87-2121.3, NRRL Y27512), isolated from cactus (Opuntia ficus-indica) rot, Hawaii, USA;
+CBS 8820 (UWO-PS 87-2120.3), Opuntia ficus-indica rot, Hawaii, USA,
+M.-A. Lachance (Cadez et al. 2003); CBS 9791 (FST, UNSW E90), grapes
+from vineyards, New South Wales, Australia, A.L. Beh.
+Type strain: CBS 8733.
+Systematics: Genetic diversity among strains of H. opuntiae was
+detected by RAPD-PCR fingerprinting. On the basis of previous experience (Cadez et al. 2002), this was suggestive that the strains belong to
+a distinct species. Subsequent DNA reassociation analysis confirmed its
+status as a separate species. H. opuntiae cannot be distinguished from
+
+428
+
+PART | IVB
+
+H. guilliermondii and H. pseudoguilliermondii by conventional physiological criteria. For accurate identification of these species, sequencing of
+the ITS regions is recommended because the species differ by only two
+to four base substitutions in the D1/D2 region (Cadez et al. 2003).
+Ecology: Hanseniaspora opuntiae was found to be primarily associated with Cactaceae in the Hawaiian islands (Cadez et al. 2003).
+Later the species was also isolated from grape berries in Australia
+(strain CBS 9791) and in Greece (Nisiotou and Nychas 2007).
+Biotechnology: Unknown.
+Agriculture and food: Unknown.
+Clinical importance: Unknown, but the species can grow at 37 C.
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+ascus. Ascosporulation occurs on 5% Difco malt extract agar at 25 C
+after 7 or more days.
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+v
+2
+2
+2
+2
+2
+v
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+
+32.7. Hanseniaspora osmophila (Niehaus) Phaff,
+M.W. Miller & Shifrine ex M.Th. Smith (1984)
+Anamorph: Kloeckera corticis (Klöcker) Janke
+Synonyms:
+Pseudosaccharomyces corticis Klöcker (1912b)
+Kloeckera corticis (Klöcker) Janke (1928)1
+Pseudosaccharomyces magnus de Rossi (1920)
+Kloeckera magna (de Rossi) Janke (1928)1
+Pseudosaccharomyces santacruzensis Klöcker (1912b)
+Kloeckera santacruzensis (Klöcker) Janke (1928)1
+?Kloeckera domingensis Ciferri (1930a)
+Kloeckeraspora osmophila Niehaus (1932)
+Hanseniaspora osmophila (Niehaus) Phaff, M.W. Miller & Shifrine
+(1956) nom. inval.
+1
+
+Synonymy determined from DNA reassociations (Meyer et al. 1978).
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth and
+glossy; the center is raised and the periphery is flat.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are lemon-shaped, ovoid or long-ovoid,
+3.5 6 3 7.2 18.2 μm, and single or in pairs (Fig. 32.4). Sediment is
+present. After 1 month, a thin ring is formed.
+Dalmau plate culture on potato agar: Branched pseudohyphae are
+formed.
+Formation of ascospores: One to two ascospores are formed per
+ascus and are spherical and warty. They are not released from the
+
+FIGURE 32.4 Hanseniaspora osmophila CBS 313. Bipolar budding
+cells in Yeast Nitrogen Base with glucose. Bar 5 5 μm (CBS website, T.
+van Beers and T. Boekhout).
+
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+2
+2
+2
+
+Growth at 30 C
+Growth at 34 C
+
+1
+2
+
+CoQ: 6, CBS 106, CBS 313, CBS 6622, AJ 5198 (Billon-Grand 1987,
+Yamada et al. 1976a).
+Mol% G 1 C: 39.8 40.5, seven strains, including CBS 105, CBS 106,
+CBS 313, CBS 1999 (Tm: Meyer et al. 1978).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+U84228, ITS 5 AJ512431, actin 5 AM039455.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 313 (ATCC 24231, NRRL Y-1613),
+isolated from Riesling grapes, Germany, K. Kroemer and
+G. Krumbholz; CBS 105 (ATCC 10640, NRRL Y-1611), from grapes,
+Italy, T. Castelli, type strain of Pseudosaccharomyces magnus; CBS 106
+(ATCC 10635, NRRL Y-1381), from tree bark, Denmark, A. Klöcker,
+type strain of Pseudosaccharomyces corticis; CBS 1999, from soil, West
+Indies, A. Klöcker, type strain of Pseudosaccharomyces santacruzensis;
+CBS 2157, from flower of Trifolium repens, Denmark, A. Lund; CBS
+4266, from cider, UK, F.W. Beech; CBS 6554 (ATCC 20111), origin
+unknown, Takeda Chem. Ind. Ltd.; CBS 6622 (IFO 0670), origin
+unknown; CBS 6704 (AJ 5172), origin unknown, T. Nakase (Nakase
+and Komagata 1970a); NCAIM Y.726, from pineapple juice concentrate, Georgia, USA, T. Deak.
+Type strain: CBS 313.
+Systematics: The close relationship between H. osmophila and
+H. vineae is discussed in the description of the latter species. The two
+species are physiologically indistinguishable.
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+429
+
+Ecology: Hanseniaspora osmophila is found mainly in association
+with different parts of plants (fruits, flowers, bark), soil, honeydew
+systems of Southern beech (Nothofagus sp.) (Serjeant et al. 2008) and
+in fruit-based fermented food such as vinegar and wine (Bujdoso
+et al. 2002, Hierro et al. 2006a, Solieri et al. 2006).
+Biotechnology: Manzanares et al. (1999, 2000) found that wine isolates of H. osmophila have beta-D-xylosidase and beta-D-glucosidase
+activity, which are important for aroma and flavor releasing processes in winemaking.
+Agriculture and food: Hanseniaspora osmophila is reported as one of
+the apiculate yeast species in wine fermentations (Bujdoso et al.
+2002, Hierro et al. 2006a) but, unlike H. uvarum, Granchi et al.
+(2002) showed that H. osmophila has similar detrimental properties
+to Saccharomycodes ludwigii. The species was also detected in traditional balsamic vinegar fermentation by Solieri et al. (2006) using
+molecular methods.
+Clinical importance: Unknown. The species does not grow at 37 C.
+
+32.8. Hanseniaspora pseudoguilliermondii
+Cadez, Raspor & M.Th. Smith (2006)
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is cream colored, butyrous, smooth, glossy,
+and flat to slightly raised at the center.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, ovoid to elongate, 2.2 8.7 3 1.6 4.2 μm,
+and occur singly or in pairs. Budding is bipolar. Sediment is present.
+After 1 month a very thin ring is formed.
+Dalmau plate culture on potato agar: Poorly developed pseudohyphae are present.
+Formation of ascospores: Four hat-shaped ascospores are formed
+per ascus. Ascospores were observed on 5% Difco malt extract agar
+after 7 days or more at 25 C.
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+1
+1
+2
+
+Growth at 37 C
+Growth at 40 C
+
+1
+2
+
+CoQ: Not determined.
+Mol% G 1 C: 31.5%, CBS 8772 (Tm: Cadez et al. 2003).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA
+5 AJ512455, ITS 5 AJ512437, actin 5 AM039467.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 8772 (NCAIM Y.741), isolated
+from orange juice concentrate, Georgia, USA.
+Type strain: CBS 8772.
+Systematics: Hanseniaspora pseudoguilliermondii belongs to a complex of closely related species, including H. pseudoguilliermondii,
+H. guilliermondii, H. opuntiae and H. lachancei, as determined by DNA
+reassociation analysis, and sequencing of the rRNA gene complex
+and two protein-coding genes (Cadez et al. 2003, 2006; Fig. 32.1).
+There is also considerable phenotypic similarity between these
+recently described species. H. pseudoguilliermondii cannot be distinguished from H. guilliermondii and H. opuntiae by conventional physiological criteria and it differs from H. lachancei by its ability to
+assimilate 2-keto-D-gluconate. The four closely related species differ
+from the other Hanseniaspora species by growing at 37 C.
+Ecology: The only known strain of H. pseudoguilliermondii was isolated from orange juice concentrate.
+Biotechnology: Unknown.
+Agriculture and food: Unknown.
+Clinical importance: Unknown.
+
+32.9. Hanseniaspora uvarum (Niehaus)
+Shehata, Mrak & Phaff ex M.Th. Smith (1984)
+Anamorph: Kloeckera apiculata (Reess emend. Klöcker) Janke
+Synonyms:
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+Additional Growth Tests and Other Characteristics
+
+Saccharomyces apiculatus Reess (1870)1
+Pseudosaccharomyces apiculatus (Reess) Klöcker (1912b)1
+Kloeckera apiculata (Reess emend. Klöcker) Janke (1928)1
+Hanseniaspora apiculata (Reess emend. Klöcker) Kudryavtsev (1954)
+Pseudosaccharomyces austriacus Klöcker (1912b)1
+Kloeckera austriaca (Klöcker) Janke (1928)1
+Pseudosaccharomyces germanicus Klöcker (1912b)1
+Kloeckera germanica (Klöcker) Janke (1928)1
+Pseudosaccharomyces malaianus Klöcker (1912b)
+Pseudosaccharomyces muelleri Klöcker (1912b)1
+Kloeckera muelleri (Klöcker) Janke (1928)1
+Kloeckeraspora uvarum Niehaus (1932)
+Hanseniaspora uvarum (Niehaus) Shehata, Mrak & Phaff (1955)
+nom. inval.
+Kloeckera brevis Lodder (1934)1
+Kloeckera lindneri (Klöcker) Janke var. pelliculosa Lodder (1934)1
+Kloeckera brevis Lodder var. rohrbachense von Szilvinyi & Kaulich
+(1948) nom. inval.1
+Kloeckera lodderi van Uden & Assis-Lopez (1953a)1
+1
+
+Synonymy determined by DNA reassociations (Meyer et al. 1978).
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to creamy, smooth, glossy, and
+slightly raised at the center.
+
+430
+
+PART | IVB
+
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, spherical to ovoid, or elongate,
+1.5 5 3 2.5 11.5 μm, and occur singly or in pairs. Sediment is present. After 1 month, a very thin ring is formed.
+Dalmau plate culture on potato agar: Poorly developed branched
+pseudohyphae may be present or absent.
+Formation of ascospores: One to two warty, spherical ascospores
+are formed per ascus and have an equatorial or subequatorial ledge.
+Warts and ledge may be inconspicuous under the light microscope.
+Ascospores are not released from the ascus. Ascosporulation occurs
+on 5% Difco malt extract agar after 4 days or more at 25 C (Fig. 32.5).
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+v
+2
+2
+2
+2
+v
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+1
+
+1
+1
+2
+
+Growth at 30 C
+Growth at 34 C
+Growth at 37 C
+
+1
+v1
+2
+
+2 out of 33 strains are positive.
+
+FIGURE 32.5 Hanseniaspora uvarum. Asci with ascospores on 5%
+malt extract agar after 7 days at 25 C. Bar 5 10 μm (H.J. Phaff 1970a).
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+CoQ: 6, eight strains, including CBS 104, CBS 314, CBS 2570, CBS 6617
+(Billon-Grand 1987, Yamada et al. 1976a).
+Mol% G 1 C: 32.7 35.1, 20 strains, including CBS 104, CBS 279, CBS
+286, CBS 287, CBS 314, CBS 2579, CBS 2580, CBS 2585, CBS 2587 (Tm:
+Meyer et al. 1978).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA
+5 U84229, ITS 5 AJ512432, actin 5 AM039456.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 314 (ATCC 32369, NRRL Y-1614),
+isolated from Muscat grape, Russia, C.J.G. Niehaus; CBS 104 (ATCC
+32856), unknown, Ö. Winge, type strain of Pseudosaccharomyces apiculatus; CBS 279, unknown, Central Laboratory, South Manchurian
+Railway (CLSMR), type strain of Kloeckera brevis; CBS 286 (ATCC
+10639), from soil, Java, NCTC, type strain of Pseudosaccharomyces
+malaianus and Kloeckera lindneri var. pelliculosa; CBS 287, from soil,
+Java, Ö. Winge, type strain of Pseudosaccharomyces muelleri; CBS 312,
+from fermenting cacao, Ghana, H.A. Dade; CBS 2566, from fruit fly of
+the Drosophila obscura group, H.J. Phaff; CBS 2570, from Drosophila
+sp., Brazil, A.M. El-Tabey; CBS 2579 (NCTC 492), from soil, Austria, A.
+Klöcker, type strain of Pseudosaccharomyces austriacus; CBS 2580,
+from soil, H. Kufferath, type strain of Pseudosaccharomyces germanicus; CBS 2582, from throat, The Netherlands, N.G.M. Orie; CBS 2583,
+from fermenting cucumber brine, USA, J.L. Etchells; CBS 2585, from
+sour dough, Portugal, N. van Uden, type strain of Kloeckera lodderi;
+CBS 2586, from caterpillar, N. van Uden; CBS 2587, from fruit must,
+Austria, A. Szilvinyi, authentic strain of Kloeckera brevis var. rohrbachense; CBS 2588, from tanning fluid, France, J. Boidin; CBS 5073,
+from wine grape, Chile, J. Grinbergs; CBS 5450, from seawater,
+Florida, USA, S.A. Meyer; CBS 6617 (AJ 4800), from banana (Musa
+sapientum), Japan, T. Nakase (Nakase and Komagata 1970a); and 12
+additional strains isolated from soil (1), seawater (3), cider (1),
+unknown (2), fruit must (2), fresh water (3).
+Type strain: CBS 314.
+Systematics: In the study of Smith et al. (1977), Kloeckera apiculata
+was considered the asexual state of Hanseniaspora uvarum based on
+physiological characteristics. From DNA similarity, Meyer et al. (1978)
+confirmed the teleomorph anamorph relationships. Standard physiological tests do not discriminate H. uvarum and H. meyeri.
+Ecology: Hanseniaspora uvarum is a widespread yeast species, most
+frequently isolated from soil, insects, various fruits and fermenting
+musts. It has also been collected from marine and freshwater ecosystems (de Araujo et al. 1995, Hagler and Mendonca-Hagler 1981) as
+well as medical samples (García-Martos et al. 1999). Detailed ecological studies by Miller and Phaff (1962), Spencer et al. (1992) and
+Morais et al. (1995b) showed that H. uvarum and other apiculate
+yeast species are the most frequently isolated yeasts that colonize
+mature fruits and, moreover, cause their fermentative spoilage.
+Additionally, they showed that these apiculate yeasts are dispersed
+and served as food for Drosophila spp.
+Biotechnology: Several H. uvarum strains of oenological origin were
+reported to have beta-D-glucosidase (Palmeri and Spagna 2007,
+Rodríguez et al. 2007, Rosi et al. 1994) and beta-D-xylosidase activity
+(Manzanares et al. 1999). Both glycosidases are important for enzymatic release of aromatic compounds in winemaking.
+Agriculture and food: Hanseniaspora uvarum is mostly a predominant yeast species at the beginning of natural fermentations of fruit
+juices among which the fermentations of grape juice have been studied most intensively. Several authors suggested that the presence of
+apiculate yeasts in the initial phases of wine fermentation contributed to a more complex aroma of the wine because of high production of aromatic compounds (Ciani and Maccarelli 1998, Romano and
+Suzzi 1996, Romano et al. 1997,). These oenological properties were
+found to be strain dependent (Capece et al. 2005, Comi et al. 2001,
+Romano et al. 2003).
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+Hanseniaspora uvarum is frequently isolated from industrial food
+production processes; e.g., the malting process of kilning in an industrial malting facility in Finland (Laitila et al. 2006), processing of coffee beans by fermentation in Tanzania (Masoud et al. 2004) and
+fresh-squeezed orange juice in Florida, USA (Arias et al. 2002).
+As a biocontrol agent, it was shown that strains of H. uvarum isolated from vineyard environments and coffee samples, respectively,
+inhibited growth of the phytopathogenic fungus Botrytis cinerea
+(Rabosto et al. 2006) and growth and mycotoxin production by
+Aspergillus ochraceus (Masoud and Kaltoft 2006, Masoud et al. 2005).
+Clinical importance: García-Martos et al. (1999) reported on three
+cases of H. uvarum isolation from clinical material (stool and infected
+nails). They suggested that the source of the infection is related to
+the handling and consumption of raw fish and prawns. Additionally,
+strain CBS 2582 was obtained by N.G.M. Orie (unpublished data)
+from a throat in The Netherlands. Nevertheless, the isolation of
+H. uvarum from humans is regarded as a clinical rarity and we consider that the species is not an important human pathogen.
+
+431
+
+FIGURE 32.7 Hanseniaspora valbyensis CBS 6618. Asci with ascospores on 5% malt extract agar after 7 days at 25 C. Bar 5 10 μm
+(M.Th. Smith 1998).
+
+Fermentation
+
+32.10. Hanseniaspora valbyensis Klöcker
+(1912b)
+
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+n
+n
+2
+2
+
+Anamorph: Kloeckera japonica Saito & Ohtani
+Synonyms:
+Endomyces valbyensis (Klöcker) Zender (1925a)
+Kloeckera japonica Saito & Ohtani (1931)1
+Kloeckera corticis (Klöcker) Janke var. pulquensis Ulloa & Herrera (1973)1
+1
+
+Synonymy determined by DNA reassociations (Meyer et al. 1978).
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth, glossy,
+and slightly raised at the center.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate and spherical, ovoid or elongate,
+2 5.5 3 3 10.2 μm, and occur singly or in pairs (Fig. 32.6). Sediment
+is present. After 1 month a thin ring may be formed.
+Dalmau plate culture on potato agar: Poorly developed branched
+pseudohyphae may be present or absent.
+Formation of ascospores: Usually two, but occasionally four hat- to
+helmet-shaped ascospores are formed per ascus and they are usually
+released at maturity. Liberated ascospores often aggregate.
+Ascospores were observed on 5% Difco malt extract agar and potato
+dextrose agar after 7 or more days at 25 C (Fig. 32.7).
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+FIGURE 32.6 Hanseniaspora valbyensis CBS 479. Budding cells in
+Yeast Nitrogen Base with glucose. Bar 5 5 μm (CBS website, T. van
+Beers and T. Boekhout).
+
+2
+1
+2
+
+Growth at 30 C
+Growth at 34 C
+Growth at 37 C
+
+v
+2
+2
+
+CoQ: 6, five strains including CBS 479, CBS 281 (Billon-Grand 1987,
+Yamada et al. 1976a).
+Mol% G 1 C: 28.8 30.0, 10 strains, including CBS 281, CBS 311, CBS
+479, CBS 6558 (Tm: Meyer et al. 1978).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+U73596, ITS 5 AJ512434, actin 5 AM039458.
+Cell carbohydrates: Glucose, mannose and galactose are present
+(Kodama et al. 1978, Stewart-Tull et al. 1966).
+Origin of the strains studied: CBS 479 (ATCC 10631, NRRL Y-1626),
+isolated from soil, Denmark, A. Klöcker; CBS 281 (NRRL Y-1382),
+
+432
+
+PART | IVB
+
+from tree exudate, Japan, type strain of Kloeckera japonica; CBS 311,
+from beer, Hungary, H. de Graaf; CBS 480, origin unknown, Ö.
+Winge; CBS 481 (ATCC 2108), origin unknown, W.L. Miller; CBS 2590,
+from draught beer, UK, isolated by A.E. Wiles; CBS 6558 (NRRL
+Y-7575), from pulque, Mexico, C.P. Kurtzman, type strain of Kloeckera
+corticis var. pulquensis; CBS 6618, from tomato, Japan, T. Nakase;
+NCYC 468, from spoiled beer, L. Hemmons; NCYC 766, origin
+unknown, R.R. Davenport; NCAIM Y.642, from cauliflower, California,
+T. Török; NCAIM Y.330, origin unknown, F. Kevei.
+Type strain: CBS 479.
+Systematics: Phylogenetic analyses of different parts of the ribosomal rRNA gene (Boekhout et al. 1994, Cadez et al. 2003, Kurtzman
+and Robnett 1998a) as well as multigene datasets (Cadez et al. 2006,
+Kurtzman and Robnett 2003) showed H. valbyensis to be the sister
+species of Kloeckera lindneri, an anamorph without a known teleomorphic state (Fig. 32.1). The two species cannot be separated with
+standard growth tests.
+Ecology: The ecology of H. valbyensis is similar to that of other apiculate species, because most strains have been isolated from soil, various parts of plants and fermented beverages. Morais et al. (1992)
+reported isolating the species from Drosophila spp. in the forests of
+Rio de Janeiro, Brazil. H. valbyensis, H. guilliermondii and H. occidentalis
+were the most frequently isolated yeast species, which suggests a
+close association of these species with Drosophila spp.
+Biotechnology: Unknown.
+Agriculture and food: Hanseniaspora valbyensis is associated with
+fermented foods such as traditional balsamic vinegar (Solieri et al.
+2006), sobia, a fermented beverage from Saudi Arabia, and cider
+(Gassem 2002). The results on the yeast communities' dynamics during spontaneous fermentations of cider in Asturias, Spain showed
+that either H. valbyensis or H. uvarum was the predominant nonSaccharomyces yeast species present (Valles et al. 2007). Additionally,
+Panon (1997) and Xu et al. (2006) studied the role of H. valbyensis on
+the formation of major volatile components in cider and its putative
+use as mixed starter culture.
+Clinical importance: Unknown. The identity of the strain that
+occurred in skin lesions, as reported by Batista et al. (1960), could
+not be confirmed (de Hoog et al. 2000).
+
+32.11. Hanseniaspora vineae van der Walt &
+Tscheuschner (1957b)
+Anamorph: Kloeckera africana (Klöcker) Janke
+Synonyms:
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+pairs. Sediment is formed. After 1 month a thin ring may be
+present.
+Dalmau plate culture on potato agar: Pseudohyphae are formed
+that may be either poorly developed or well-developed.
+Formation of ascospores: One to two spherical and warty ascospores are produced per ascus and are spherical and warty. Ascospores
+are not released from the ascus. Sporulation was observed on 5%
+Difco malt extract agar and YM agar after 7 days or more at 25 C
+(Fig. 32.8).
+
+Fermentation
+Glucose
+Galactose
+Sucrose
+Maltose
+
+1
+2
+2
+2
+
+Lactose
+Raffinose
+Trehalose
+
+2
+2
+2
+
+1
+2
+v
+2
+2
+2
+2
+2
+v
+2
+2
+2
+1
+1
+2
+2
+2
+2
+2
+
+D-Ribose
+Methanol
+Ethanol
+Glycerol
+Erythritol
+Ribitol
+Galactitol
+D-Mannitol
+D-Glucitol
+myo-Inositol
+DL-Lactate
+Succinate
+Citrate
+D-Gluconate
+D-Glucosamine
+N-Acetyl-D-glucosamine
+Hexadecane
+Nitrate
+Vitamin-free
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+n
+n
+2
+2
+
+Growth (in Liquid Media)
+Glucose
+Inulin
+Sucrose
+Raffinose
+Melibiose
+Galactose
+Lactose
+Trehalose
+Maltose
+Melezitose
+Methyl-α-D-glucoside
+Soluble starch
+Cellobiose
+Salicin
+L-Sorbose
+L-Rhamnose
+D-Xylose
+L-Arabinose
+D-Arabinose
+
+Additional Growth Tests and Other Characteristics
+2-Keto-D-gluconate
+Cycloheximide 0.01%
+Starch formation
+
+2
+2
+2
+
+Growth at 34 C
+Growth at 37 C
+
+v
+2
+
+Pseudosaccharomyces africanus Klöcker (1912b)1
+Kloeckera africana (Klöcker) Janke (1928)1
+Vanderwaltia vineae (van der Walt & Tscheuschner) Novák & Zsolt
+(1961)
+Hanseniaspora nodinigri Lachance (1981)2
+Kloeckeraspora vineae (van der Walt & Tscheuschner) Y. Yamada,
+Maeda & Banno (1992e)3
+1
+
+Synonymy determined from DNA reassociations (Meyer et al. 1978).
+Synonymy determined from DNA reassociations (Smith and Poot 1985).
+3
+Synonymy determined from rRNA sequences (Yamada et al. 1992e).
+2
+
+Growth on glucose-peptone-yeast extract agar: After 1 month at
+25 C, the streak culture is white to cream colored, smooth and
+glossy; the center is raised, and the periphery is flat.
+Growth in glucose-peptone-yeast extract broth: After 2 days at
+25 C, the cells are apiculate, spherical to ovoid or elongate,
+2 7.5 3 4 14.5 μm, and usually occur singly or sometimes in
+
+FIGURE 32.8 Hanseniaspora vineae CBS 2171. Budding cells on YM
+agar after 7 days at 25 C. Bar 5 10 μm (M.Th. Smith 1984).
+
+Chapter | 32
+
+Hanseniaspora Zikes (1912)
+
+CoQ: 6, CBS 277, CBS 2171, CBS 2568, CBS 5068, CBS 6706, CBS 8031
+(Billon-Grand 1987, Yamada et al. 1976a).
+Mol% G 1 C: 38.8 40.7, nine strains, including CBS 277, CBS 2171,
+CBS 6555 (Tm: Meyer et al. 1978); 39.6, CBS 8031 (Tm: Smith and
+Poot 1985).
+Gene sequence accession numbers, type strain: D1/D2 LSU rRNA 5
+U84224, ITS 5 AJ512443, actin 5 AM039459.
+Cell carbohydrates: Not determined.
+Origin of the strains studied: CBS 2171 (ATCC 58436), isolated from
+soil in a vineyard, South Africa, J.P. van der Walt; CBS 277 (ATCC
+24232), from soil, Algeria, A. Klöcker, type strain of Pseudosaccharomyces africanus; CBS 2568, from Drosophila persimilis, H.J. Phaff; CBS
+2827, from soil, Sardinia, A. Capriotti; CBS 5068, origin unknown,
+O. Verona; CBS 6555 (ATCC 20109), unknown, Takeda Chem. Ind.; CBS
+6706, origin unknown, T. Nakase; CBS 8031 (ATCC 46412), type strain
+of Hanseniaspora nodinigri, from black knot gall on chokeberry (Prunus
+virginiana, Rosaceae) Canada, M.-A. Lachance; ATCC 10632, from sour
+Calimyrna fig (a variety of Ficus carica), California; ATCC 16512, origin
+unknown, Kyowa Ferm. Ind. Co., Ltd.
+Type strain: CBS 2171.
+Systematics: Hanseniaspora vineae was placed in synonymy with
+H. osmophila by Miller and Phaff (1958) and maintained as a synonym by Phaff (1970a). However, Meyer et al. (1978) separated the
+two species since the average DNA reassociation value was 48%.
+Sequence analysis of the D1/D2 region of the LSU rRNA gene confirmed the separation of the species since H. vineae differed by seven
+nucleotide substitutions from H. osmophila (Boekhout et al. 1994).
+The closely related species also share similar electrophoretic karyotypes (Cadez et al. 2002, Vaughan-Martini et al. 2000). The conspecificity of H. nodinigri and H. vineae was suggested by DNA homology
+studies (Smith and Poot 1985). H. vineae is physiologically indistinguishable from H. osmophila as some strains of H. vineae fail to grow
+at 34 C, the key characteristic to differentiate the species as suggested by Meyer et al. (1978).
+Ecology: Strains of H. vineae were mostly obtained from soil, insects
+and fruits worldwide. In the study of yeast communities associated
+with guava fruit in Rio de Janeiro, Brazil (Abranches et al. 2000), the
+apiculate yeasts H. vineae and H. guilliermondii were found among
+the prevailing species. In a further study, Abranches et al. (2001)
+observed competitive interactions between these apiculate isolates
+and isolates of Pichia membranifaciens or Pichia (Issatchenkia) occidentalis growing in guava and tomato fruit tissues. They also demonstrated that growth characteristics of apiculate yeasts are habitat
+dependent. Nguyen et al. (2007) isolated H. vineae together with
+Lachancea fermentati and L. thermotolerans repeatedly from the gut of
+corydalids (Neuroptera) and suggested a close association of these
+species and their insect hosts.
+Biotechnology: Vasserot et al. (1989) characterized ß-glucosidase of
+the strain H. vineae CBS 2171 for its use in fruit aroma liberation.
+Agriculture and food: Unknown.
+Clinical importance: Unknown, but the species does not grow at
+37 C.
+
+COMMENTS ON THE GENUS
+Miller and Phaff (1958) published a detailed study of the history,
+nomenclature, physiology, morphology and life cycle of all
+Hanseniaspora species. Antigenic analyses of some Kloeckera and
+Hanseniaspora species were carried out by Tsuchiya et al. (1966) and
+Tsuchiya and Imai (1968). In the former study, three serological
+groups were found, viz. K. javanica, K. africana and K. apiculata, and
+the relationship of K. apiculata with H. valbyensis was recognized. In
+addition, it was stated that K. javanica appeared to be a hybrid
+
+433
+species of K. apiculata and K. africana. In the latter study, the authors
+concluded that: 1) K. apiculata was serologically the anamorph of H.
+uvarum and H. guilliermondii; and 2) K. africana was the anamorph of
+H. osmophila and H. vineae.
+A comparative study on the ultrastructure of the different types
+of ascospores in Hanseniaspora species was performed by Kreger-van
+Rij and Ahearn (1968) and by Kreger-van Rij (1977b). These studies
+showed the presence of three types of ascospores: 1) hat-shaped in
+H. guilliermondii and H. valbyensis; 2) spherical with an equatorial or
+subequatorial ledge, and either a smooth or warty surface in
+H. occidentalis and H. uvarum; and 3) spherical with warts in
+H. osmophila and H. vineae.
+Novak and Zsolt (1961) proposed a new system of yeast taxonomy and introduced the genus Vanderwaltia with H. vineae as type
+species to accommodate bipolar budding yeasts with globose, warty
+ascospores. However, Phaff (1970a) did not accept this genus and
+considered the morphology of ascospores as an unsuitable criterion
+for generic differentiation. From the description of the asexual morphology, the species Vanderwaltia almaatensis introduced by Zubkova
+and Lucasheva (1979) represented a bipolar budding yeast. Because
+the type culture of this species was not available for examination,
+the correct identity of the species remains uncertain.
+Yamada et al. (1976a) studied the coenzyme Q systems in apiculate yeast genera, namely Hanseniaspora, Kloeckera, Nadsonia,
+Saccharomycodes and Wickerhamia. The CoQ-6 system was found in
+all species analyzed except for Wickerhamia, which had a CoQ-9 system. The authors discussed their results in relation to other criteria
+like proton magnetic resonance (PMR) spectra of cell wall polysaccharide (Spencer and Gorin 1968), DNA base composition and serological characteristics. Billon-Grand (1987) investigated the
+occurrence of minor components of coenzyme Q systems in
+Hanseniaspora and Kloeckera. In addition to the major component
+CoQ-6, this author found CoQ-7 as a minor component in H. uvarum,
+H. valbyensis and H. nodinigri. Fiol and Billon-Grand (1978a) examined the production of intracellular oxidases, nitrite and nitrate
+reductases in some species of Hanseniaspora and Kloeckera and discussed the taxonomic relationships between the two genera. The significance of DNA base composition in the classification of
+Hanseniaspora was studied by Nakase and Komagata (1970a) and
+Meyer et al. (1978). The last mentioned authors established the status of various Hanseniaspora species by DNA-DNA reassociation
+experiments and correlated Hanseniaspora teleomorphs with
+Kloeckera anamorphs.
+Yamada et al. (1992c) estimated the phylogenetic relationships of
+the teleomorphic apiculate yeast genera Hanseniaspora, Nadsonia and
+Saccharomycodes on the basis of partial rRNA sequences. Their data
+demonstrated that the three genera are distinct from each other.
+However, the six species of the genus Hanseniaspora were divided
+into two clusters; one cluster consisted of H. guilliermondii, H. uvarum
+and H. valbyenesis, the second cluster consisted of H. occidentalis,
+H. osmophila and H. vineae. Considering the two clusters sufficient distant at the generic level, Yamada et al. (1992e) reinstated the genus
+Kloeckeraspora to accommodate the latter three species, which are
+characterized by spherical, warty ascospores. This genus, introduced
+by Niehaus in 1932 to accommodate apiculate species producing
+spherical ascospores, was considered a synonym of Hanseniaspora by
+various authors (Lodder and Kreger-van Rij 1952, Meyer et al. 1978,
+Phaff 1970a, Smith 1984). A second phylogenetic study on
+Hanseniaspora and presumably related genera was published by
+Boekhout et al. (1994). From partial LSU rRNA gene sequences, it was
+demonstrated that the genus Hanseniaspora is monophyletic and
+could be divided into the same subgroups as in the study of Yamada
+et al. (1992c, e). However, Boekhout et al. (1994) argued the maintenance of all species in Hanseniaspora on the basis of both the heterogeneous distribution of phenetic properties among species of this
+
+434
+
+PART | IVB
+
+genus and the high statistical support for their LSU rRNA gene tree.
+The chromosomal make-up of the Hanseniaspora species was studied
+by Vaughan-Martini et al. (2000), Esteve-Zarzoso et al. (2001a) and
+Cadez et al. (2002). These studies showed that the six Hanseniaspora
+species exhibited only four types of electrophoretic karyotypes. The
+phylogenetically similar species H. vineae/H. osmophila and H. uvarum/
+H. guilliermondii shared identical karyotypes.
+Five genetically distinct Hanseniaspora species, H. meyeri,
+H. clermontiae, H. lachancei, H. opuntiae and H. pseudoguilliermondii,
+were recognized by rapid genomic fingerprinting and DNA reassociation studies. Analysis of D1/D2 LSU rRNA gene and ITS sequences
+showed that the five species are closely related to H. uvarum and
+H. guilliermondii, which was in agreement with phenotypic similarities. However, the rates for sequence substitutions in those regions
+were not in accordance with the overall genetic similarity (Cadez
+et al. 2003). This prompted the subsequent study of Cadez et al.
+(2006) in which they reconstructed the phylogeny of the
+
+Descriptions of Teleomorphic Ascomycetous Genera and Species
+Hanseniaspora species by using multigene sequence analysis. It was
+demonstrated that the species of Hanseniaspora belong to several
+groups of closely related taxa that are separated by long phylogenetic
+distances. In the view of results presented by Jindamorakot et al.
+(2007), putative new species of Hanseniaspora and Kloeckera were isolated from natural habitats in Thailand. Based on D1/D2 sequencing
+their closest relatives are H. meyeri and H. clermontiae.
+
+SPECIES RECEIVED TOO LATE FOR
+INCLUSION IN THIS CHAPTER
+1. Hanseniaspora singularis Jindamorakot, Ninomiya, Limtong,
+Kawasaki & Nakase (Jindaramot et al. 2009)
+2. Hanseniaspora thailandica Jindamorakot, Ninomiya, Limtong,
+Kawasaki & Nakase (Jindaramot et al. 2009)
+
+

@@ -1,0 +1,542 @@
+Ann Microbiol
+DOI 10.1007/s13213-013-0793-8
+
+ORIGINAL ARTICLE
+
+Production of single-cell protein from wasted date fruits
+by Hanseniaspora uvarum KKUY-0084 and Zygosaccharomyces
+rouxii KKUY-0157
+Mohamed Hashem & Abd El-Latif Hesham &
+Saad A. Alamri & Sulaiman A. Alrumman
+
+Received: 1 March 2013 / Accepted: 17 December 2013
+# Springer-Verlag Berlin Heidelberg and the University of Milan 2014
+
+Abstract The aim of this study was to produce single-cell
+protein by using two yeast strains, KKUY-0084 and KKUY0157, from spoiled date fruits. Based on the sequence of the
+variable D1/D2 domain of the large subunit (26S) ribosomal
+DNA of these strains, their identity was Hanseniaspora
+uvarum and Zygosaccharomyces rouxii, respectively. The
+two strains were assessed for their single-cell protein productivity in vitro and in a bioreactor. Both yeasts were able to
+utilise the juice of spoiled dates in a concentration gradient up
+to 25 %; however, 20 % juice was the best concentration for
+production of the maximum amounts of dry biomass by
+H. uvarum KKUY-0084 and Z. rouxii KKUY-0157 (23.5
+and 20.71 g/l, respectively) at 60 h. Biomass productivity
+reached a maximum when the yeasts were incubated at
+25 °C and pH 5.0–6.0. Addition of Mn (0.3 g/l) or Mg
+(0.5 g/l) had a stimulative effect on biomass production.
+Addition of 0.6 g/l of Mn resulted in the production of maximum dry biomass by H. uvarum KKUY-0084, while 0.4 g/l
+of the same metal was more appropriate for Z. rouxii KKUY0157. Tryptone (8 g/l) as a nitrogen source increased the yield
+of the biomass to 34.25 and 30.75 g/l by H. uvarum KKUY0084 and Z. rouxii KKUY-0157, respectively. In a 7-l fermentor, the highest production (48.9 g/l) of the two strains was
+achieved after 60 h.
+
+M. Hashem (*)
+Faculty of Science, Botany Department, Assiut University, Assiut,
+Egypt
+e-mail: drmhashem69@yahoo.com
+M. Hashem : A. E.<. Hesham : S. A. Alamri : S. A. Alrumman
+Faculty of Science, Biology Department, King Khalid University,
+Abha, Saudi Arabia
+A. E.<. Hesham
+Faculty of Agriculture, Genetics Department, Assiut University,
+Assiut, Egypt
+
+Keywords Single-cell protein . Wasted date fruits .
+Hanseniaspora uvarum . Zygosaccharomyces rouxii
+
+Introduction
+The world deficiency in protein supply has been increasing
+steadily in recent years and is a main challenge facing humankind. It is important to search for new and unconventional
+protein sources to fill the gap between the demand and supply.
+Microorganisms have been used as direct and indirect sources
+of protein in food sources for fortification of the food supply
+(Wijeyaratne and Jayathilake 2000). Microorganisms have
+high protein content and short growth times leading to rapid
+biomass production, which can be continuous and is independent of the environmental conditions. The use of yeasts for
+single-cell protein (SCP) production is more convenient, as
+they can be easily propagated using cheap waste materials and
+easily harvested due to their bigger cell sizes and flocculation
+abilities (Ravindra and Anupama 2000). Yeasts are a good
+source of protein or amino acids. Approximately 50–52 % of
+the weight of dried yeast consists of protein, 30–37 % carbohydrate, 4–7 % lipids, 6–8 % nucleic acids and 7–8 % minerals (Nasseri et al. 2011).
+Yeast protein is most commonly included in poultry food
+formulations. However, the advent of aquaculture has recently
+seen the emergence of ever-more sophisticated feeds for fish
+cultivation, and SCP of fungal origin has proved to be well
+digested by fish. In addition, the ingestion of yeast biomass
+appears to increase resistance to mycoses, which often decimate fish farms, particularly at water temperatures above
+10 °C (Nell 1985).
+The poultry industry has played a major role in providing
+animal protein (in the form of eggs and meat) to man. But the
+feed industry is facing immense shortages of both vegetableand animal-based feed ingredients, which are the major
+
+Ann Microbiol
+
+constraints in the development of this industry. For more than
+10 years, broiler production has been the focus of the poultry
+industry, but costs of poultry feed must be reduced so that
+product cost may be maintained at a reasonable price. One
+possible option is to ferment low-cost, non-conventional agroindustrial residues to produce single-cell protein to reduce the
+overall production cost. The protein obtained from the microorganisms is not only cheap but may also provide balanced
+nutrition. It is also a potential supplemental protein source for
+feeding poultry, livestock and humans (Singh et al. 1991;
+Pacheco et al. 1997).
+Saudi Arabia is famous for having a huge number of date
+palm trees. It produces about 13 % of the world production of
+dates. There are more than six million date palm trees distributed all over the Saudi landscape, and date manufacturing is
+one of the most popular industries in Saudi Arabia. However,
+a large proportion of the dates are exposed to spoilage because
+of improper transporting, handling, lack of cold stores and
+lack of marketing. In addition, many insects are known to
+attack date palm fruits and trees (El-Juhany 2010).
+Mycotoxigenic fungi, particularly aflatoxigenic Aspergilli,
+have been associated with dates and date products (Shenasi
+et al. 2002). The spoiled or rotten dates are problematic for
+manufacturing, farmers and the environment. Giving the
+farmers a way to profit from the wasted dates may help to
+minimise the risk. Farmers will be happy to sell their rotten
+dates instead of throwing them away. The high sugar content
+and abundance of the wasted dates make them an important
+renewable agro-industrial waste material in Saudi Arabia.
+Their low cost is an additional factor that makes sustainable
+production of single-cell protein economically feasible on a
+large scale.
+Therefore, the aim of this study was to produce single-cell
+protein by new yeast strains from spoiled date fruits to benefit
+from the agricultural wastes and reduce the total cost of singlecell protein production. Also, we optimised the cultural conditions for maximising the productivity.
+
+Materials and methods
+Yeast strains
+Yeast strains (KKUY-0157 and KKUY-0084) were isolated
+from spoiled date samples (Berhi), collected from the Abha
+markets in Saudi Arabia, on yeast peptone agar medium
+(YPA) (Scharlau). They were identified by the sequencing of
+D1/D2 domain of the 26S rDNA region and phylogenetic
+analysis. The extraction of total yeast genomic DNA was performed according to procedures described by Hesham et al.
+(2006). The DNA was amplified using primers described by
+Kurtzman and Robnett (1998). These were NL1 (5′–GCATAT
+CAATAAGCGGAGGAAAAG-3′) and NL4 (5′ GGTCCGTG
+
+TTTCAAG ACGG –3′). PCR reaction was performed in a final
+volume of 50 μl containing GoTaq green master mix (Promega,
+Madison, WI, USA), 1 μl of each primer at a concentration of
+0.5 mM, and 1 μl template DNA. The PCR conditions were as
+described by Kurtzman and Robnett (1998). The amplified
+DNA was purified using the GFXTM–PCR DNA and gel band
+purification kit (Amersham Biosciences), and the purified PCR
+was sequenced at Macrogen (Seoul, Korea). The DNA sequence
+was analysed using the DNA Blast at the NCBI (http://www.
+ncbi.nlm.nih.gov/BLAST/), and the obtained nucleotide
+sequences was deposited in the Genbank under specific
+accession numbers (KC110831 and KC110836, respectively).
+Date juice preparation and yeast screening
+To prepare the spoilage date juice (SDJ), 200 g of stone-free
+date fruits were put in 500 ml of distilled water, followed by
+blending in a blender for 1 min at low speed, and 3 min at high
+speed. The homogenised extract was filtered through a double
+layer of cheese cloth. The residue was then washed with hot
+water and the solution was made up to a concentration of
+20 %. Conical flasks (250 ml) containing 100 ml of SDJ were
+inoculated with 5 ml of desired yeast isolates (108 cell/ml).
+The inoculated flasks were incubated at 25 °C and 150 rpm for
+72 h in a rotatory incubator. All treatments were performed in
+triplicate and arranged in a completely randomised design.
+The culture medium (10 ml) was transferred into a clean,
+weighed and dry glass tube to calculate the biomass of the
+yeasts as single-cell protein production. The tubes containing
+the culture medium were centrifuged at 10,000 rpm for
+15 min. The supernatant was decanted and the pellets were
+dried in an oven at 80 °C for 24 h to calculate the dry weight of
+the biomass.
+Optimisation of the conditions for single-cell protein
+production
+Various production conditions such as incubation period (12,
+24, 36, 48, 60, 72, 84 and 96 h), incubation temperature (25,
+30 and 35 °C), initial pH (4, 5, 6, 7 and 8), different date juice
+concentrations (10, 15, 20 and 25 %), different metals (Zn,
+Mn, Co and Mg) and different nitrogen compounds (yeast
+extract, malt extract, tryptone, ammonium nitrate and ammonium dihydrogen phosphate) were optimised for
+Zygosaccharomyces rouxii KKUY-0157 and Hanseniaspora
+uvarum KKUY-0084 in 250-ml conical flasks. Cultures were
+shaken at 150 rpm. Biomass production was measured at the
+end of each experiment as the dry weight of the cell yield.
+Pilot test
+The experiment was carried out in a bioreactor BioFlo/
+CelliGen 115 by New Brunswick, USA, with all the necessary
+
+Ann Microbiol
+
+controls. The reactor was of 7-l capacity and the working
+volume was 3 l. The reactor is equipped with an agitator,
+pH, and temperature control systems. The reactor was cleaned
+and steam sterilised at 121 °C for 15 min. The sterilised
+medium [20 % of date juice, tryptone (8 g/l), Mg (0.6 g/l)
+and Mn (0.8 g/l)] containing the inoculum was transferred to
+the fermentor. The seed culture was grown at 25 °C for 24 h in
+a 250-ml flask containing 100 ml of YPD medium. The
+temperature of fermentation was maintained at 25±1 °C.
+The pH of the fermentation broth was regulated at 5.0 within
+pH 0.1 unit by the peristaltic pump, which injected a fine
+stream of sulfuric acid or sodium hydroxide. The agitator
+speed was maintained constant throughout the experiment at
+200 rpm. The reactor was maintained under aerobic conditions. Samples were taken during the course of 96 h to monitor
+the dry cell weight as an indicator of single-cell protein
+production.
+Statistical analysis
+All experiments were repeated twice. With the experiment, the replicates were arranged in a completely
+randomised design, and the data were analysed using
+one-way analysis of variance (ANOVA). The significance of differences among the treatments was determined according to Least Significant Difference (LSD)
+(P<0.05) (Gomez and Gomez 1984).
+
+was detected in high cell densities during fermentation
+of grapes (Rojas et al. 2003). It was recorded among
+frutophilic species of Hanseniaspora yeasts (Ciani and
+Fatichenti 1999).
+Optimisation of the production of dry biomass (SCP)
+Effect of incubation period
+Figure 2a shows that the highest production of dry
+biomass by the two yeast strains was attained after
+60 h. It was noticed that the yield of H. uvarum
+KKUY-0084 was higher than that of Z. rouxii KKYU0157 during the growing period. The maximum yield of
+H. uvarum KKUY-0084 was 21.35 g/l after 60 h compared with that of Z. rouxii KKUY-0157 (19.07 g/l). A
+noticeable decline in the yield of the yeast strains occurred after 72 h and slowly decreased until 96 h.
+These results are consistent with those obtained by
+Adoki (2008), who mentioned that the peak growth of
+Candida sp. on orange, plantain and banana wastes was
+obtained after 60 h. However, we suppose that the peak
+growth varies greatly depending on many factors such
+as yeast strain, substrate, temperature, pH, inoculum size
+and others.
+Effect of substrate concentration
+
+Results and discussion
+Biomass production potentiality from SDJ by the yeast strains
+The two yeast strains, Hanseniaspora uvarum KKUY-8004
+and Zygosaccharomyces rouxii KKUY-0157, were selected
+among 150 yeast strains isolated from different natural
+sources collected from the Asir region (Abha) of Saudi Arabia
+based on their potential to grow and propagate well on SDJ
+(data not shown). H. uvarum KKUY-8004 and 200 Z. rouxii
+KKUY-0157 emerged as the highest biomass producers from
+the SDJ. They produced 94.76 and 89.69 g/l of fresh biomass,
+and 22.18 and 20.97 g/l of dry weight, respectively (Fig. 1).
+Previous isolation of Zygosaccharomyces rouxii from sugarrich products such as sugar syrups, honey and fruit juices
+(Leandro et al. 2011) and here from the date fruits proves its
+fructophilic affinity. It can also survive and grow in the presence of weak-acid preservatives and high concentrations of
+salt or sugars and tolerate high temperatures (Martorell et al.
+2007) which confirms its osmotolerance characteristic.
+Hanseniaspora uvarum was frequently isolated from many
+natural sources (Romano 2002). In addition to its ability to
+ferment different sources, this yeast can generate many secondary compounds (Romano 1997). Hanseniaspora uvarum
+
+The concentration of the date syrup significantly affected the
+productivity of biomass of the two yeasts. The biomass yield
+increased proportionally with the increase in concentration of
+the substrate up to 20 % (Fig. 2b). The maximum yields of
+H. uvarum KKUY-0084 and Z. rouxii KKUY-0157 were 23.5
+and 20.71 g/l, respectively, when they were grown in 20 % of
+date syrup after 60 h at 25 °C. When the concentration of the
+substrate increased up to 25 %, the yield of the two strains
+decreased by 50 and 41 %, respectively. These results proved
+that 20 % of date syrup is the most appropriate concentration
+to encourage the growth and production of the biomass by the
+two yeasts. They seemed to carry out all normal physiological
+processes in a moderate concentration of sugars, while the
+increase in date juice concentration slowed down their growth.
+The decrease in growth rate in high concentrations of date
+juice could be attributed to the viscosity of the medium and
+plasmolysis of yeast cells that retard or stop their growth
+(Pramanik 2003). In similar studies, Adoki (2008) used the
+optimisation of the cultural conditions for production of
+single-cell protein by Candida sp. from orange, plantain and
+banana wastes. He reported that the optimum substrate concentration for growth of the yeast was 2.0 % (w/v), and the
+growth levels were approximately equal at substrate concentrations of 1.2 and 1.5 % (w/v).
+
+Ann Microbiol
+
+Fig. 1 Production of fresh and dry biomass from spoilage date fruits by
+Zygosaccharomyces rouxii KKUY-0157 and Hanseniaspora uvarum
+KKUY-0084 at 25 °C after 72 h of incubation. Columns with the same
+letter in the same colour are not significant at P<0.05. Bars standard error
+
+Effect of temperature
+Figure 2c represents the effect of temperature on biomass
+production by H. uvarum KKUY-0084 and Z. rouxii KKUY0157. The moderate temperature, 25 °C, was the most appropriate one for both yeasts. They were able to grow up to 35 °C;
+however, Z. rouxii KKUY-01576 was affected by the increase
+in temperature more than H. uvarum KKUY-0084. The maximum yield of H. uvarum KKUY-0084 was 21.96 g/l at 25 °C
+and decreased to 19.01 g/l at 35 °C. These results demonstrate
+the ability of the yeast strains to resist the increase in temperature to 35 °C; however, 25 °C is the optimum degree for
+biomass production. Based on the information available in the
+literature, the optimum temperature varies widely among the
+yeast strains. In this respect, Murad et al. (1992) mentioned
+Fig. 2 Effect of different cultural
+conditions on single-cell
+production from spoilage date
+fruits by Zygosaccharomyces
+rouxii KKUY-0157 and
+Hanseniaspora uvarum KKUY0084; incubation time (a),
+concentration of date juice (b),
+temperature (c) and pH (d).
+Columns with the same letter in
+the same colour are not significant
+at P<0.05 (b and d). Columns
+with the same letter opposite to
+each yeast strain are not
+significant at P<0.05 (c). Bars
+standard error
+
+that 28 °C is the most favourable temperature for biomass
+production by Kluyveromyces lactis grown on whey permeate.
+Lee et al. (1993) reported that the optimum temperature for
+thermotolerant Candida tropicalis used for SCP production
+was 38 °C. Rajoka et al. (2006) studied the production of SCP
+by Candida utilis at different temperatures (20–45 °C) in a
+stirred fermentor and reported that the maximum production
+of crude protein was realised when the fermentation temperature was maintained at 35 °C. They also found that the
+production of crude protein decreased above 35 °C. High
+temperature can cause inactivation of enzymes of the metabolic pathway, while low temperature may not permit the flow
+of nutrients across the cell membrane, resulting in a high
+demand for maintenance energy. However, at low temperature, the enzyme activities are expectedly low (Roels 1983;
+Converti and Dominguez 2001). Processing temperature is a
+relevant parameter affecting growth rate, oxygen diffusion
+and the metabolic pattern of the culture. The metabolic activity associated with substrate oxidation and biomass synthesis
+yields an exothermic balance, which is dependent on the type
+of substrate used (Forage and Righelato 1979; Cooney et al.
+1969).
+Effect of pH
+The slightly acidic pH (4.0–6.0) was appropriate for biomass
+production by the two yeast strains (Fig. 2d). The yield decreased in neutral and alkaline medium. The maxima of
+biomass of the H. uvarum strain KKUY-0084 and Z. rouxii
+
+Ann Microbiol
+
+strain KKUY-0157 were obtained at pH 5.0 and 6.0, respectively. The first strain yielded 22.8 g/l and the second isolate
+yielded 22.4 g/l. Our finding is supported by the suggestion
+that a weak acidic medium is more appropriate for the overall
+growth of yeasts (Pramanik 2003). The results are confirmed
+by those of Martorell et al. (2007), who stated that Z. rouxii
+can survive and grow in the presence of weak acid preservatives and high concentrations of salt or sugars. This unique
+ability is based on its high resistance to weak acids and
+extreme osmotolerance. Different isolates of Z. rouxii were
+able to grow at 90 % (w/v) glucose, low pH and tolerated high
+temperatures. Early studies of Farid (1977) showed that the
+maximum dry yeast weight and the protein content of
+S. cerevisiae were recorded when the initial pH was adjusted
+to 6.0. He noticed, that below and above pH 6.0, both dry
+weight and protein content decreased gradually with the decrease or increase of the initial pH values. In other cases,
+Abou-Zeid and Ashy (1984) and Pessoa et al. (1996) reported
+that the maximum production of SCP by Candida tropicalis
+on diesel oil and sugar cane bagasse hydrolyse occurred at
+pH 6.0. Rajoka et al. (2006) reported that pH 6.0 was the
+optimum for SCP production from rice polishings by Candida
+utilis. Paraskevopoulou et al. (2003) found that the optimum
+pH for SCP production using Kefir yeasts Kluyveromyces,
+Candida, Saccharomyces and Pichia was 5.5. However, other
+observations suggest that the pH range of any yeast strain
+could vary depending on the medium composition. In this
+Fig. 3 Effect of metals addition
+on single-cell production from the
+spoilage date juice by
+Zygosaccharomyces rouxii
+KKUY-0157 and Hanseniaspora
+uvarum KKUY-0084 (a), different
+concentrations of Mg (b) and
+different concentrations of Mn (c).
+Columns with the same letter
+opposite each yeast strain are not
+significant at P<0.05 (a). Bars
+standard error
+
+context, Onishi (1963) showed that the pH range for the
+growth of Z. rouxii strain isolated from the soy sauce process
+without NaCl is very broad (pH 3.0–7.0), while in a medium
+containing 18 % NaCl, the pH range for growth is narrow
+(pH 4.0–5.0).
+Effect of metal addition
+The effect of some metals on single-cell protein production is
+shown in Fig. 3a. Both Mn (0.3 g/l) and Mg (0.5 g/l) significantly enhanced the growth and dry biomass of the two
+yeasts. The maximum yield of the H. uvarum strain KKUY0084 was achieved as 25.94 and 25.22 g/l when Mn and Mg
+were added to the medium, respectively. Addition of either Co
+or Zn decreased the productivity of both strains, but it was still
+higher than the control yield. Addition of different concentrations of Mg or Mn induced the biomass production of the two
+strains. The peaks of biomass production by both yeasts were
+detected when 0.6 g/l of Mg was added (Fig. 3b). Addition of
+0.6 g/l of Mn induced the production of biomass of H. uvarum
+KKUY-0084, while 0.4 g/l of the same metal was more
+appropriate for the growth of Z. rouxii KKUY-0157
+(Fig. 3c). This reveals the importance of such metals to enhance the growth of the yeast strains but in various concentrations based on the strain requirement. Generally, various
+elements, such as potassium, manganese, zinc, iron and gaseous ammonia, are important to add to the medium for
+
+Ann Microbiol
+Fig. 4 Effect of nitrogen sources
+addition on single-cell production
+from spoilage date fruits by
+Zygosaccharomyces rouxii
+KKUY-0157 and Hanseniaspora
+uvarum KKUY-0084 (a) and
+different concentration of
+tryptone (b). Columns with the
+same letter opposite each yeast
+strain are not significant at
+P<0.05 (a). Bars standard error
+
+cultivating many microorganisms (Nasseri et al. 2011).
+Inorganic nutrients are assimilated through membrane
+transport mechanisms and are then incorporated into
+organic molecules (Soumalainen and Oura 1971). However, introduction of these elements in excess amount
+has a negative effect on the yeast cell. For example,
+cadmium can cause structural damage in the plasma of
+the membranes of the yeast cells due to binding with
+organic ligands (Brady and Duncan 1994).
+Effect of nitrogen sources
+Nitrogen sources, including three organic and two inorganic, were tested for their effects on biomass production by the two yeasts (Fig. 4a). Results showed that all
+nitrogen sources increased the productivity of the two
+yeasts significantly compared to the control. It was
+noticed that the organic nitrogen source increased the
+production of the biomass compared with the inorganic
+sources. Among the organic nitrogen sources, tryptone
+had the best result by increasing the yield of the biomass to 34.25 and 30.75 g/l by H. uvarum KKUY-0084
+and Z. rouxii KKUY-0157, respectively. The optimum
+dose of tryptone was 8 g/l for both yeasts (Fig. 4b).
+Ammonia and ammonium salts are assimilable by all
+commonly used yeasts and fungi. Farid (1977) examined the effect of different concentrations of each of
+diammonium hydrogen phosphate (1.0–100.0 g/l) and
+yeast extract (2.0–30.0 g/l) as nitrogen sources for fodder yeast production by S. cerevisiae. He found that the
+maximum levels of dry biomass were recorded at 0.5 %
+(NH4)2HPO4 or 1.2 % yeast extract, while the highest
+total protein concentrations were obtained at 0.4 %
+(NH 4 ) 2 HPO 4 or 1.0 % yeast extract. Moeini et al.
+(2004) studied the improvement of SCP production
+from whey using mixed yeast cultures and tested the
+effect of the addition of 0.9 g/l of ammonium sulphate
+as nitrogen supplementation to the growth medium; this
+addition had a significant effect on increasing SCP
+production.
+
+Pilot test
+The productivity of both strains was assessed in a 7-l fermentor with optimisation of all conditions. The results showed that
+the maximum production was achieved at 60 h for both strains
+to corroborate the results obtained from conical flask experiments. Both strains gave the highest yield (48.9 g/l) after 60 h
+of incubation (Fig. 5). The production gradually decreased
+after this time. The results indicate that biomass production in
+batch culture is significantly higher compared to the production in conical flasks. This could be due to the large quantity of
+substrate and availability of other factors such as dissolved
+oxygen, which induces the vegetative growth of yeast.
+Based on our results, we conclude that Hanseniaspora
+uvarum KKUY-0084 and Zygosaccharomyces rouxii KKUY0157 are good producers of single-cell protein from spoiled
+date fruits. They showed the best growth and production of
+biomass at 25 °C in a 20 % date juice concentration, they
+could resist an increase in temperature to 30 °C, and they
+could grow in higher concentrations of date juice. We noticed
+that the growth and biomass productivity of the two strains
+were greatly enhanced by adding metals such as Mn or Mg as
+well as a nitrogen source (tryptone). We encourage researchers
+to seek new yeasts that have the ability to produce large
+
+Fig. 5 Single-cell protein production in batch culture from spoilage date
+fruits by from spoilage date fruits by Zygosaccharomyces rouxii KKUY0157 and Hanseniaspora uvarum KKUY-0084. Bars standard error
+
+Ann Microbiol
+
+amounts of single-cell protein to narrow the gap between
+demand and production. Based on our results, we propose
+that it is very important to study the cultural and nutritional
+conditions for each new yeast to maximise productivity.
+Acknowledgment This research was supported by King Khalid University through the grant No. KKU-SCI-11/005.
+
+References
+Abou-Zeid AZA, Ashy MA (1984) The potential of yeast for the production of single cell protein. Arab-Gulf J Sci Res 2(1):315–326
+Adoki A (2008) Factors affecting yeast growth and protein yield production from orange, plantain and banana wastes processing residues
+using Candida sp. Afr J Biotechnol 7(3):290–295
+Brady D, Duncan JR (1994) Cation loss during accumulation of heavy
+metal by Saccharomyces cerevisiae. Biotechnol Let 16:543–548
+Ciani M, Fatichenti F (1999) Selective sugar consumption by apiculate
+yeasts. Lett Appl Microbiol 28:203–206
+Converti A, Dominguez JM (2001) Influence of temperature and pH on
+xylitol production from xylose by Debarryomyces hansenii.
+Biotechnol Dioeng 75:39–45
+Cooney CL, Wang DIC, Mateles RI (1969) Measurement of heat evolution and correlation with oxygen consumption during microbial
+growth. Biotechnol Bioeng 11:269–281
+El-Juhany L (2010) Degradation of date palm trees and date production in
+Arab countries: causes and potential rehabilitation. Aust J Basic
+Appl Sci 4(8):3998–4010
+Farid MA-F M (1977) Chemical and biochemichal studies on the byproducts remaining after onion dehydrating industry. MSc Thesis,
+National Research Centre, Riyadh
+Forage AJ, Righelato RC (1979) Biomass from carbohydrates. In: Rose
+AH (ed) Microbial biomass. Economic microbiology, vol 4.
+Academic Press, London, p 289
+Gomez KA, Gomez AA (1984) Statistical procedures for agricultural
+research, 2nd edn. Wiley, New York, ISBN: 13-9780471879312
+Hesham A, Wang Z, Zhang Y, Zhang J, Lv W, Yang M (2006) Isolation
+and identification of a yeast strain capable of degrading four and five
+ring aromatic hydrocarbons. Ann Microbiol 56:109–112
+Kurtzman CP, Robnett CJ (1998) Identification and phylogeny of ascomycetous yeasts from analysis of nuclear large subunit (26S) ribosomal
+DNA partial sequences. Antonie Van Leeuwenhoek 73:331–371
+Leandro MJ, Sychrová H, Prista C, Loureiro-Dias MC (2011) The
+osmotolerant fructophilic yeast Zygosaccharomyces rouxii employs
+two plasma membrane fructose uptake systems belonging to a new
+family of yeast sugar transporters. Microbiology 157:601–608
+Lee C, Yamakawa T, Kodama T (1993) Rapid growth of thermotolerant
+yeast on palm oil. Biotechnology 9:187–190
+Martorell P, Stratford M, Steels H, Fernández-Espinar MT, Querol A
+(2007) Physiological characterization of spoilage strains of
+Zygosaccharomyces bailii and Zygosaccharomyces rouxii isolated
+from high sugar environments. Int J Food Microbiol 114:234–242
+
+Moeini H, Nahvi I, Tavassoli M (2004) Improvement of SCP production
+and BOD removal of whey with mixed yeast culture. Electric J
+Biotechnol 7:249–255
+Murad HA, Abd-El-Ghani S, El-Shenawy K (1992) Bioconversion of
+whey permeates into Kluyveromyces lactis biomass. Egyptian J
+Dairy Sci 20:261–271
+Nasseri AT, Rasoul-Amini S, Moromvat MH, Ghasemi Y (2011)
+Single cell protein: production and process. Am J Food
+Technol 6:103–116
+Nell JA (1985) Comparison of some single cell proteins in the diet of the
+Sidney rock oyster (Saccostrea commercialis). Prog Fish Cult 47:
+110
+Onishi H (1963) Osmophilic yeasts. Adv Food Res 12:53–94
+Pacheco MT, Caballero-Cordoba GM, Sgarbieri VC (1997) Composition
+and nutritive value of yeast biomass and yeast protein concentrates. J
+Nutr Sci Vitaminol 43:610–612
+Paraskevopoulou A, Athanasiadis I, Kanellaki M, Bekatorou A,
+Bletas G, Kiosseoglou V (2003) Functional properties of
+single cell protein produced by Kefir microflora. Food Res
+Int 36:431–438
+Pessoa AT, Mancilha IM, Sato S (1996) Cultivation of candida tropicalis
+on sugar cane hemicellulose hydrolyzed for microbial protein production. J Biotechnol 51:83–88
+Pramanik K (2003) Parametric studies on batch alcohol fermentation
+using Saccharomyces yeast extracted from toddy. J Chin Inst
+Chem Engrs 34:487–492
+Rajoka MI, Khan SH, Jabbar MA, Awan MS, Hashim AS (2006)
+Kinetics of batch single cell protein production from rice polishings
+in continuously aerated tank reactors. Bioresour Technol 97:1934–
+1941
+Ravindra P, Anupama (2000) Value-added food: single cell protein.
+Biotechnol Adv 18:459–463
+Roels JA (1983) Energetics and kinetics in biotechnology. Elsevier,
+Amsterdam
+Rojas V, Gil J, Piñaga F, Manzanares P (2003) Acetate ester formation in
+wine by mixed cultures in laboratory fermentations. Int J Food
+Microbiol 86:181–188
+Romano P (1997) Metabolic characteristics of wine strains during spontaneous and inoculated fermentation. Food Technol Biotechnol 35:
+255–260
+Romano P (2002) Role of apiculate yeasts on organoleptic characteristics
+of wine. In: Ciani M (ed) Biodiversity and biotechnology. Research
+Signpost, Trivandrum
+Shenasi M, Aidoo KE, Candlish AAG (2002) Microflora of date fruits
+and production of aflatoxins at various stages of maturation. Int J
+Food Microbiol 79:113–119
+Singh A, Abidi AB, Agrawal AK, Darmwal NS (1991) Single cell protein
+production by Aspergillus niger and its evaluation. Zentralbl
+Mikrobiol 146:181–184
+Soumalainen H, Oura E (1971) Yeast nutrition and solute uptake. In: Rose
+AH, Harrison JS (eds) The yeasts, vol 2, 1st edn. Academic,
+London, p 3
+Wijeyaratne SC, Jayathilake AN (2000) Characteristics of two yeast
+strains (Candida tropicalis) isolated from Caryota urens (Kithul)
+toddy for single cell protein production. J Natl Sci Found Sri
+Lanka 28:79–86
+
+

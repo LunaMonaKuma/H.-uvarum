@@ -1,0 +1,910 @@
+International Journal of Food Microbiology 191 (2014) 1–9
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+journal homepage: www.elsevier.com/locate/ijfoodmicro
+
+Monitoring of Saccharomyces cerevisiae, Hanseniaspora uvarum, and
+Starmerella bacillaris (synonym Candida zemplinina) populations during
+alcoholic fermentation by ﬂuorescence in situ hybridization
+Chunxiao Wang, Braulio Esteve-Zarzoso ⁎, Albert Mas
+Departament de Bioquímica i Biotecnologia, Facultat d' Enologia, Universitat Rovira i Virgili, Marcel·lí Domingo s/n, Tarragona 43007, Spain
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 10 April 2014
+Received in revised form 31 July 2014
+Accepted 9 August 2014
+Available online 19 August 2014
+Keywords:
+Culture-independent techniques
+Wine ecology
+FISH
+Epiﬂuorescence microscopy
+Flow cytometry
+
+a b s t r a c t
+Various molecular approaches have been applied as culture-independent techniques to monitor wine fermentations over the last decade. Among them, those based on RNA detection have been widely used for yeast cell detection, assuming that RNA only exists in live cells. Fluorescence in situ hybridization (FISH) targeting
+intracellular rRNA is considered a promising technique for the investigation of wine ecology. For the present
+study, we applied the FISH technique in combination with epiﬂuorescence microscopy and ﬂow cytometry to directly quantify populations of Saccharomyces cerevisiae, Hanseniaspora uvarum, and Starmerella bacillaris during
+alcoholic fermentations. A new speciﬁc probe that hybridizes with eight species of Hanseniaspora genus and a
+second probe speciﬁc for Starm. bacillaris were designed, and the conditions for their application to pure cultures,
+mixed cultures, and wine samples were optimized. Single and mixed fermentations were performed with natural, concentrated must at two different temperatures, 15 °C and 25 °C. The population dynamics revealed that the
+Sacch. cerevisiae population increased to 107–108 cells/ml during all fermentations, whereas H. uvarum and
+Starm. bacillaris tended to increase in single fermentations but remained at levels similar to their inoculations
+at 106 cells/ml in mixed fermentations. Temperature mainly affected the fermentation duration (slower at the
+lower temperature) but did not affect the population sizes of the different species. The use of these probes in
+natural wine fermentations has been validated.
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Wine fermentation is an ecologically complex process, and it is
+widely accepted that the yeast population changes as the fermentation
+proceeds (Fleet, 2008; Wang and Liu, 2013). Yeast species play important roles in the wine-making processes: transforming sugar to ethanol,
+producing speciﬁc secondary metabolites, and ﬁnally, contributing to
+wine ﬂavor characteristics. The main yeast involved in this transformation process belongs to the Saccharomyces (Sacch.) genus, but other
+wine yeasts can also be isolated during the process, producing varying
+impacts on the wine composition (Andorrà et al., 2012; Fleet, 2003).
+Most of the knowledge generated concerning wine yeast ecology has
+been derived from plating, which has incorporated molecular analysis
+in the past 25 years (Ribéreau-Gayon et al., 2006). However, in the
+past 15 years, culture-independent techniques have provided a new
+view of microbial ecology during the wine production process.
+The culture-independent molecular techniques employed to study
+the ecology of wine yeasts have mainly been based on the detection of
+⁎ Corresponding author at: Biotecnologia Enològica, Departament de Bioquimica i
+Biotecnologia, Facultat d'Enologia, Universitat Rovira i Virgili, Marcel·lí Domingo s/n,
+43007 Tarragona, Spain. Tel.: +34 977 55 84 64; fax: +34 977 55 82 32.
+E-mail address: braulio.esteve@urv.cat (B. Esteve-Zarzoso).
+
+http://dx.doi.org/10.1016/j.ijfoodmicro.2014.08.014
+0168-1605/© 2014 Elsevier B.V. All rights reserved.
+
+DNA in wine samples (Andorrà et al., 2010a; Cocolin et al., 2000;
+Hierro et al., 2006). However, it is possible to detect DNA from dead
+cells when using these techniques (Andorrà et al., 2010b; Hierro et al.,
+2006). Furthermore, the presence of viable but non-culturable (VBNC)
+or injured cells in wine (Divol and Lonvaud-Funel, 2005; Millet and
+Lonvaud-Funel, 2000) introduces a new bias into the analysis of the
+wine yeast ecosystem. More recently, a small modiﬁcation of the same
+culture-independent methods, QPCR coupled with ethidium monoazide
+(EMA)/PMA (Andorrà et al., 2010b; Rawsthorne and Phister, 2009), has
+been proposed to reveal the actual viable yeast population structure and
+resolve the differences observed between plate counting and molecular
+results. Other methodologies based on RNA detection, such as RT-PCRDGGE (Mills et al., 2002) and RT-QPCR (Hierro et al., 2006), have also
+been proposed. A main hurdle of these techniques is that all of these
+methods rely on a high-quality DNA/RNA extraction and PCR/QPCR operation to provide accurate results. Fluorescence in situ hybridization
+(FISH) probes directly hybridize with intracellular ribosomal RNA at
+speciﬁc sites, and the target cells with ﬂuorescent signals can be easily
+observed and recorded by epiﬂuorescence microscopy and ﬂow cytometry (Amann and Fuchs, 2008). In addition to its simplicity and rapidity,
+the ability to observe the cell morphology by a microscope and the high
+sensitivity obtained using a ﬂow cytometer (ten ﬂuorescent cells can be
+detected among ten million non-ﬂuorescent cells, as the ﬂow cytometer
+
+2
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+can detect up to ten million events) make FISH a very promising
+technique for wine ecology studies (Andorrà et al., 2011; Branco et al.,
+2012; Díaz et al., 2010; Röder et al., 2007).
+To our knowledge, only a few wine ecology studies have reported on
+the detection of yeast populations by FISH, mainly because of the difﬁculty of designing probes. Although early studies (Inácio et al., 2003;
+Stender et al., 2001; Xufre et al., 2006) were based on culturedependent techniques, probes for several wine-related yeast species
+have been proposed, and the data can be used to design new probes
+for other species as well. Xufre et al. (2006) developed nine different
+probes for the detection of Saccharomyces and non-Saccharomyces
+wine yeasts. The ﬁrst approximation of population monitoring during
+wine fermentation accomplished using FISH combined with ﬂow cytometry was proposed by Andorrà et al. (2011). These authors found
+that the Hanseniaspora (H.) guilliermondii probe demonstrated a low
+ﬂuorescent intensity compared to the Saccharomyces cerevisiae probe,
+whereas H. guilliermondii cells could be differentiated easily from
+Sacch. cerevisiae cells by ﬂow cytometry based on the cell size and
+granularity. Upon analyzing the changes in the ﬂuorescence intensity
+of the stained cells during the fermentation, the intensity of the Sacch.
+cerevisiae probes decreased while H. guilliermondii maintained a similar
+intensity as that of the initial conditions (Andorrà et al., 2011). Because
+of the high background ﬂuorescence in wine, only high-intensity signal
+probes, which have only been applied for detecting Dekkera bruxellensis
+and Sacch. cerevisiae in direct wine sample analysis, can be used
+(Andorrà et al., 2011; Röder et al., 2007). Therefore, the development
+of speciﬁc probes with sufﬁcient ﬂuorescence is still required for further
+assays of yeast populations directly from wine samples by FISH.
+Yeast diversity studies of red and white musts from our faculty
+cellar (Tarragona, Spain) have been performed for several years, with
+Saccharomyces, Hanseniaspora, and Candida (C.) comprising the main
+yeast genera detected. Thus, the present study aims to analyze the
+applicability of culture-independent FISH techniques coupled with
+epiﬂuorescence microscopy and ﬂow cytometry in determining changes in these yeast populations during alcoholic fermentations. Sterile
+
+musts were inoculated with Sacch. cerevisiae, Hanseniaspora uvarum,
+and Starmerella (Starm.) bacillaris (synonym Candida zemplinina) to
+perform single and mixed fermentations. In this study, we have detailed
+the design of new probes with improved ﬂuorescence intensity for
+monitoring Hanseniaspora and Starm. bacillaris in wine fermentations.
+The fermentations were performed at two temperatures that are
+relevant from the wine-making point of view.
+2. Materials and methods
+2.1. Yeast strains
+The yeast strains and species used in this study are listed in Table 1.
+Yeasts were grown overnight in YPD (1% yeast extract, 2% peptone, and
+2% glucose, w/v) medium at 28 °C before use. All yeasts were identiﬁed
+by 5.8S-ITS-RFLP analysis according to Csoma and Sipiczki (2008) and
+Esteve-Zarzoso et al. (1999) and by sequence analysis of the D1/D2
+domain of the 26S rDNA (Kurtzman and Robnett, 1998).
+2.2. Design of oligonucleotide probe
+Prior to designing the new probe, the published probes of Sacch.
+cerevisiae, H. guilliermondii, and Candida stellata (Xufre et al., 2006)
+were synthesized and checked by hybridization with target species.
+Because of the undesirable results of the probes for H. guilliermondii
+and C. stellata in our initial assays, new oligonucleotide probes for
+Hanseniaspora and Starm. bacillaris that target within the D1/D2 domain
+of the 26S rRNA were designed (sequences were obtained from the
+GenBank database, accession numbers are shown in Table 2). Speciesspeciﬁc sequences were selected according to the alignment by Clustal
+Omega (EMBL-EBI) and the accessibility map of Sacch. cerevisiae
+(Inácio et al., 2003). Subsequently, general and mismatch analyses
+with mathFISH (Yilmaz et al., 2011) were used to evaluate the sequences of these probes. To overcome a potential unspeciﬁc hybridization site, a competitor was designed to combine with the mismatched
+
+Table 1
+Yeast strains and species used in this study and the speciﬁcity results for the three probes in pure cultures (sources: CECT, Spanish Type Culture Collection, Universitat de València; CBS,
+Centraalbureau voor Schimmelcultures, Delft, Netherlands; MCYC, Microbiology Collection of Yeast Cultures, Universidad Politécnica de Madrid; NS, natural isolates from our group
+collection; NCYC, National Collection of Yeast Cultures, Norwich, United Kingdom). Positive (+) or negative (−) hybridization is indicated.
+Strains
+
+Candida boidinii
+Candida mesenterica
+Candida sake
+Candida stellata
+Starmerella bacillaris
+(synonym Candida zemplinina)a
+
+Hanseniaspora opuntiae
+Hanseniaspora guilliermondii
+Hanseniaspora osmophila
+Hanseniaspora uvarum
+
+Hanseniaspora vineae
+Metschnikowia pulcherrima
+Saccharomyces cerevisiae
+Torulaspora delbrueckii
+T
+a
+b
+
+CECT designation
+
+11168
+1014T
+1025
+10034
+1044
+11918T
+11046
+11109
+–
+–
+11027b
+11029
+11102
+11206
+1444T
+10389
+11105
+11106
+11107
+–
+1471
+–
+1942T
+–
+–
+
+Other designation
+
+CBS 6990
+CBS 2428
+CBS 602
+MCYC 123
+CBS 617
+CBS 157
+CBS 2649
+CBS 1713
+NS c
+NS d
+NCYC 2380
+CBS 465
+CBS 1972
+CBS 313
+CBS 314
+MCYC 1857
+CBS 2589
+CBS 5073
+CBS 8130
+NS b
+CBS 6555
+NS f
+CBS 1171
+NS a
+NS e
+
+Isolation source
+
+Tepache
+Tanning ﬂuid
+Brewery
+Feces of sheep
+Lambic beer
+Wine grapes
+Grape juice
+Wine
+Grape must
+Grape must
+Grape must
+Infected nail
+Grape juice
+Ripe Riesling grape
+Muscadet grape
+Grape juice
+Grape must
+Wine grape
+Grapes
+Grape must
+Grape juice
+Grape must
+Beer
+Grape must
+Grape must
+
+Speciﬁcity results for each probe
+Sce-FITC
+
+H8b-FITC + H8b-Com
+
+Sba-FITC
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
+−
+
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
++
++
+−
++
++
++
++
++
++
+−
+−
+−
+−
+−
+
+−
+−
+−
+−
+−
+−
++
++
++
++
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
+
+means Type strain.
+A new name change according to Duarte et al. (2012); the two strains CECT 11046 and CECT 11109 were preserved as C. stellata until November 2012 by CECT.
+CECT11027, which is recorded as H. guilliermondii by CECT, was identiﬁed as H. opuntiae in this study.
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+3
+
+Table 2
+Sequences of oligonucleotide probes labeled with FITC at the 5′ end and the non-labeled competitor used in this study.
+Target species
+
+Probe
+
+Positiona
+
+Sequence (5′–3′)
+
+ΔGooverallb (kcal/mol)
+
+C. stellata
+Eight species of Hanseniasporad
+
+Cst-FITCc
+H8a-FITC
+H8b-FITC
+H8b-Come
+Hgu-FITCc
+Huv-FITCc
+Sce-FITCc
+Sba-FITC
+
+D133
+D402
+D2
+D2
+D506
+D507
+D526
+D133
+
+CTCTATGGCGTTTCTTTC
+TGAGAGGCCCAAGCCCAC
+AGGTAATCCCAGTTGGTT
+AGGCAATCCCGGTTGGTT
+CAATCCCAGCTAGCAGTAT
+TCAATCCCGGCTAACAGTA
+TGACTTACGTCGCAGTCC
+CTCCATGGCGCTCCTTTC
+
+−11.9
+−15.8
+−14.3
+
+Sacch. cerevisiae
+H. guilliermondii
+H. uvarum
+Sacch. cerevisiae
+Starm. bacillarisf
+
+−10.0
+−9.3
+−13.9
+−15.0
+
+a
+
+Sequence positions refer to the D1/D2 domain of the 26S rRNA gene of Sacch. cerevisiae (U44806).
+The data rely on the general analysis of mathFISH (Yilmaz et al., 2011) under the same conditions of temperature (46 °C), [Na+] (0.9 M), and probe concentration (1000 nM).
+c
+Probes designed by Xufre et al. (2006).
+d
+H. clermontiae (sequence accession numbers: AJ512456, AJ512452), H. guilliermondii (AB618029, EF449520, U84230), H. lachancei (AJ512457, AJ512459), H. meyeri (AJ512454,
+AJ512458, AJ512461), H. opuntiae (AJ512453, AJ512451, FM180532), H. pseudoguilliermondii (AJ512455, AB525689), H. uvarum (EU807899, JX103173, U84229), and H. valbyensis
+(U73596, JQ689026, JN938929).
+e
+Oligonucleotide competitor used together with probe H8b-FITC to increase the speciﬁcity.
+f
+Sequence accession numbers from GenBank database were AY160761, JX103187, EF452193, and EF452215.
+b
+
+species to block the probe hybridization site on the non-target species.
+Competitor analysis from mathFISH (Yilmaz et al., 2011) was used to
+evaluate the effect of the competitor. Finally, the probes and the competitor were synthesized (Table 2) and tested ﬁrst by hybridization
+with target species, and then, the ﬂuorescence intensity and speciﬁcity
+of each probe were evaluated by FISH tests in pure cultures, mixed
+cultures, and wine samples using both methodologies, epiﬂuorescence
+microscopy and ﬂow cytometry. During the entire evaluation process,
+a multifactor trial of FISH techniques was performed until suitable
+probe and experimental conditions were found. All probes were labeled
+with ﬂuorescein isothiocyanate (FITC).
+2.3. Speciﬁcity test of probes
+The speciﬁcity of each probe was tested in pure cultures, mixed cultures, and wine samples. All of the samples were collected by centrifugation (1 ml sample, 10,000 rpm for 5 min) and then hybridized
+separately with each probe. For pure cultures, the cells of each strain
+in Table 1 were collected directly from their YPD media. Mixed cultures
+were inoculated by mixing the same order of cells (2–5 × 107 cells/ml)
+from overnight cultures of Sacch. cerevisiae, H. uvarum, Starm. bacillaris,
+Torulaspora delbrueckii, and Metschnikowia pulcherrima. Six different
+wine samples from Macabeo (white) and Garnatxa Negra (red) varieties were prepared in this study. Grapes were picked and fermented in
+two different vats of the experimental cellar of the Oenology Faculty
+in Tarragona (Spain) separately, with Sacch. cerevisiae inoculated at
+the beginning. Two wine samples, W and R, were sampled at the end
+of the two fermentations. Samples MW1 and MR1 were created by
+adding an H. uvarum pure culture at the end of the two fermentations,
+and MW2 and MR2 were created by adding Starm. bacillaris pure cultures. These additions were necessary because no H. uvarum or Starm.
+bacillaris was observed at the end of fermentation.
+Natural must from the Macabeo variety from our experimental
+facility was used to validate the probes. After settling, the must was
+left for 48 h prior to its simultaneous inoculation with 3 different strains
+of Sacch. cerevisiae (1 × 106 cells/ml from each strain). Samples were
+collected from the initial must after settling (time 0), at 12, 48, 60, and
+84 h and at the end of fermentation. The samples were plated on YPD
+(1% yeast extract, 2% peptone, 2% glucose, and 2% Agar, w/v) and 25
+colonies were sampled for species identiﬁcation by sequencing their
+D1/D2 26S rRNA coding region. The fermentations were performed in
+triplicates.
+2.4. FISH procedure
+The multifactor trial for each probe focused on four different
+parameters: ﬁxation time (1 h, 2 h, 3 h, and overnight), percentage of
+formamide in the hybridization buffer (0%, 1%, 2%, 5%, 10%, and 20%),
+
+hybridization temperature (37 °C, 42 °C, and 46 °C), and time (3 h
+and overnight), which were evaluated to optimize the hybridization
+potential of each probe. The effect of each parameter was assessed by
+performing single-factor tests based on the procedure of Andorrà et al.
+(2011).
+The published FISH procedure used in Andorrà et al. (2011) was
+adjusted as follows. Collected cells were suspended with 1 ×
+phosphate-buffered saline (PBS) and incubated with 4% (v/v) of paraformaldehyde for 1 h at 4 °C and 1000 rpm agitation in a shaker. Fixed
+cells were centrifuged at 10,000 rpm for 2 min, resuspended with a 1:1
+solution of 1 × PBS and absolute ethanol, and then stored at − 20 °C
+until required. Approximately 106 cells were hybridized at 46 °C for
+3 h in 50 μl of hybridization buffer (0.9 M NaCl, 0.01% w/v SDS,
+20 mM Tris–HCl, and 1% v/v formamide) with 10 ng/μl of probe and
+10 ng/μl of competitor (when it was required). After hybridization,
+cells were centrifuged at 10,000 rpm for 5 min, resuspended in 100 μl
+of washing buffer (25 mM Tris/HCl and 0.5 M NaCl), and incubated at
+48 °C for 30 min. Then, the cells were centrifuged again, resuspended
+in 1 × PBS, and analyzed immediately if possible but always within
+4 h. A Neubauer chamber and epiﬂuorescence microscope (Leica
+DM4000B, Wetzlar, Germany) equipped with ﬁlter I3 were used for
+cell observation and enumeration.
+2.5. Flow cytometry
+The ﬂuorescence of the cell suspension in PBS (the same cells indicated in Section 2.4) was quantiﬁed using a BD FACSAria III ﬂow
+cytometer (BD Biosciences, California, USA) equipped with a 15 mW,
+488 nm argon-ion laser. Fluorescence was detected using a 530 (±30)
+nm band pass ﬁlter. Daily instrument quality control, including ﬂuorescence standardization, linearity assessment, and spectral compensation
+were performed to ensure operational consistency from day to day. At
+least 10,000 events were acquired and recorded in the linear mode for
+side scatter and in the log mode for ﬂuorescent signals. The data were
+collected and analyzed using the FACSDiva software (BD Biosciences,
+California, USA).
+2.6. Alcoholic fermentations
+Fermentations were performed in triplicate in 50 ml conical tubes
+ﬁlled with 40 ml of natural concentrated must diluted to a sugar concentration of 240 g/l, the common concentration of local grape must
+(DOQ Priorat). After plating, no colonies were recovered; hence, we
+considered this must to be sterile. Single fermentations of Sc (Sacch.
+cerevisiae), Hu (H. uvarum), and Sb (Starm. bacillaris) and mixed
+fermentations of ScHu (1:1 of Sacch. cerevisiae and H. uvarum), ScSb
+(1:1 of Sacch. cerevisiae and Starm. bacillaris), and ScHuSb (1:1:1 of
+Sacch. cerevisiae, H. uvarum, and Starm. bacillaris) were performed
+
+4
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+separately with 2 × 106 cells/ml of total yeast inocula obtained from
+overnight YPD cultures. Fermentations were conducted with constant
+agitation (120 rpm) at two different temperatures, 15 °C and 25 °C,
+and the entire process was monitored by weight every 12 h until
+there was no weight loss. Samples (1 ml) were collected at ﬁve points
+(1, 2, 3, 4, and 5) according to the CO2 releases of 0% (starting point),
+25%, 50%, 75%, and 100%, respectively. Cells from each sample were collected after centrifugation at 10,000 rpm for 5 min. Each sample was
+ﬁxed and then hybridized separately with each species-speciﬁc probe.
+Species were monitored by epiﬂuorescence microscopy and ﬂow
+cytometry using the same sampling process for both methodologies.
+3. Results
+3.1. Development of oligonucleotide probes
+Four published probes and three new probes were tested in this
+study (Table 2) to ﬁnd suitable probes for wine-related yeast species
+of Saccharomyces, Hanseniaspora, and Starmerella. The published probe
+Sce-FITC (Xufre et al., 2006) worked well in our initial assays, whereas
+Hgu-FITC and Cst-FITC (Xufre et al., 2006) exhibited low ﬂuorescence
+intensities when hybridized with target species and were considered
+unsuitable.
+The three new probes targeting the D1/D2 domain of the 26S
+rRNA were designed, with two probes (H8a-FITC and H8b-FITC)
+for eight species of the Hanseniaspora genus (Hanseniaspora
+clermontiae, H. guilliermondii, Hanseniaspora lachancei, Hanseniaspora
+meyeri, Hanseniaspora opuntiae, Hanseniaspora pseudoguilliermondii,
+H. uvarum, and Hanseniaspora valbyensis) and one (Sba-FITC) for
+Starm. bacillaris. H8a-FITC and H8b-FITC were the only two possible
+probes for Hanseniaspora according to an in silico analysis. Both probes
+could hybridize with the eight species of this genus because the
+D1/D2 sequences of these eight species are closely related phylogenetically (Jindamorakot et al., 2009). However, both probes exhibited
+some limitations according to the in silico analysis: the target site of
+H8a-FITC incorporated a complex second structure according to the accessibility map; for H8b-FITC, there were only two mismatch bases between the target sequences of this probe and the corresponding
+sequence of Sacch. cerevisiae. The in silico analysis was not sufﬁcient
+for selecting between H8a-FITC and H8b-FITC; thus, both probes were
+synthesized and tested. H8a-FITC exhibited a low ﬂuorescence intensity
+when hybridized with Hanseniaspora species, while H8b-FITC presented a positive signal when hybridized with Sacch. cerevisiae. Because of
+the high intensity exhibited by H8b-FITC, this probe was selected and
+a competitor (H8b-Com) was designed to block the hybridization
+of this probe with Sacch. cerevisiae, resulting in the removal of the
+unspeciﬁc signal from Sacch. cerevisiae.
+Furthermore, after the optimization of the protocol, the results revealed that 1 h of ﬁxation was sufﬁcient for sample preparation. One
+percent of formamide in the hybridization buffer was necessary for
+the optimal hybridization efﬁciency of H8b-FITC, whereas Sce-FITC
+and Sba-FITC also performed well with 5% and 10% formamide. The results obtained from varying the hybridization temperature and time did
+not reveal any improvement. However, the percentage of formamide in
+the hybridization buffer was more critical in determining the hybridization efﬁciency of H8b-FITC when using the competitor.
+3.2. Speciﬁcity tests of probes in pure cultures, mixed cultures, and wine
+samples
+For pure cultures, as indicated in Table 1, the probes provided positive signals only when hybridized with strains of the target species. To
+consider any potential background signal interference from non-target
+species, a mixed culture was created to provide the same background
+for all of the species. Cells of Sacch. cerevisiae, H. uvarum, and Starm.
+bacillaris were distinguished clearly within the mixed yeast cultures
+
+by an epiﬂuorescence microscope and ﬂow cytometer (Fig. 1). In the
+ﬂow cytometry results, the difference between the non-stained cells
+(FITC less than 103) and the stained cells (FITC higher than 103) is clear.
+The non-hybridized wine samples W and R contained high background ﬂuorescent signals because of the absorption of polyphenol pigments from the wine. However, for all three probes, the ﬂuorescence
+intensities of the hybridized cells were much higher than the background signal (Fig. 2). The hybridization results of the six wine samples
+demonstrated that the three target species, Sacch. cerevisiae, H. uvarum,
+and Starm. bacillaris, can be differentiated in wine samples using both
+the epiﬂuorescence microscope and the ﬂow cytometer (Fig. 2). This
+capability was primarily achievable because the ﬂuorescent color from
+the hybridized target cells differed from the background color and
+non-target cells in wine and because the target signal was more intense
+when using the ﬁlter for FITC. The H8b-FITC, when coupled with
+H8b-Com, Sce-FITC and Sba-FITC probes presented high speciﬁcity
+to the target species in the FISH tests performed on pure cultures,
+mixed cultures, and wine samples.
+3.3. Yeast population analysis during alcoholic fermentations
+At 25 °C, all of the fermentations with Sacch. cerevisiae (pure and
+mixed fermentations) were completed by 192 h, whereas the pureculture fermentations with Starm. bacillaris (Sb) and H. uvarum (Hu)
+were slower and required 264 h and 336 h, respectively. All of the fermentations were relatively longer at 15 °C: ScHu and ScHuSb terminated after 264 h; ScSb and Sc required 336 h; and Sb and Hu did not
+complete their fermentations until 336 h. For the pure-culture fermentations, Sb reached point 3 of the fermentation, whereas Hu only
+reached point 2 (25% CO2 release). The FISH methodology was used to
+monitor the yeast population dynamics during the entire fermentation
+process and the population dynamics are shown in Fig. 3. The population dynamics of Sacch. cerevisiae were similar in all of the mixed
+fermentations, regardless of whether the results were obtained by
+epiﬂuorescence microscopy or ﬂow cytometry. In contrast, the populations of H. uvarum and Starm. bacillaris were slightly larger according to
+the microscopy results compared to those recorded by ﬂow cytometry.
+The populations of Sacch. cerevisiae and Starm. bacillaris in the single
+fermentations increased from their initial concentration of 106 cells/ml
+to 107–108 cells/ml, whereas H. uvarum grew more slowly with a population level of 106–107 cells/ml. In all of the mixed fermentations, the
+Sacch. cerevisiae populations increased to 107–108 cells/ml after inoculation, whereas the populations of H. uvarum and Starm. bacillaris did
+not increase and remained at approximately 106 cells/ml. The temperature affected the fermentation process: the fermentations at 15 °C were
+slower than those at 25 °C, while mixed fermentations inoculated with
+H. uvarum were faster than the others at the low temperature. The population dynamics of Sacch. cerevisiae, H. uvarum, and Starm. bacillaris at
+both 15 °C and 25 °C were similar for both the single and mixed fermentations and did not seem to be affected by the temperature.
+While, the ﬂuorescence intensity of the hybridized Sacch. cerevisiae
+cells varied during the fermentation process, those of the H. uvarum
+and Starm. bacillaris cells did not. At point 1 of the fermentation, most
+of the Sacch. cerevisiae cells had achieved the highest ﬂuorescence intensity. This intensity declined in the later stages of the fermentations
+(decreasing by up to 10-fold from the initial ﬂuorescence); however,
+the Sacch. cerevisiae cells always exhibited a higher intensity than the
+background. These changes in intensity were always observed with
+the Sacch. cerevisiae probes, but the cells within a sample yield did not
+always produce the same intensity. This result can be observed by the
+formation of two peaks in the ﬂow cytometry data (Supplementary
+data).
+Finally, the validation of the probes was also tested in a natural fermentation of Macabeo must. As seen in Fig. 4, we detected the presence
+of H. uvarum and Starm. bacillaris as the main non-Saccharomyces
+species in the must (approximately 106 cfu/ml) as well as traces of
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+5
+
+A
+
+B
+
+C
+
+A’
+
+B’
+
+C’
+
+A’’
+
+B’’
+
+C’’
+
+Fig. 1. Fluorescent signal of target species in mixed yeast cultures visualized by microscopy and ﬂow cytometry. Cells hybridized with probes Sce-FITC (A, A′, A″), H8b-FITC coupled with
+H8b-Com (B, B′, B″), and Sba-FITC (C, C′, C″) and recorded with white light (A, B, C) and ﬁlter I3 (A′, B′, C′) of the microscope and by ﬂow cytometry (A″, B″, C″).
+
+T. delbrueckii and M. pulcherrima (1 colony each at 0 and 12 h), which
+disappeared after the inoculation of Sacch. cerevisiae. During the start
+of the alcoholic fermentation, the values obtained on plates and by
+FISH were very similar. However, at the end of the fermentation, these
+values differed greatly; H. uvarum was not detected by plating, while
+Starm. bacillaris differed by two log units and S. cerevisiae by 5-fold.
+For the total cell count, the values were greater on plates than under
+the microscope during the initial stages of fermentation and one order
+of magnitude lower at the end of the fermentation.
+4. Discussion
+Culture-independent techniques have been developed for the rapid
+enumeration of yeast populations during the wine-making process,
+with special emphasis on the determination of both the live and VBNC
+cells (Andorrà et al., 2010b, 2011; Branco et al., 2012; Cocolin and
+Mills, 2003; Hierro et al., 2006; Röder et al., 2007). Among them, FISH
+is a promising technique for detecting target cells directly from wine
+samples because FISH probes are designed to hybridize with the rRNA
+inside of cells. In the present study, suitable probes and experimental
+conditions for detecting Sacch. cerevisiae, Hanseniaspora, and Starm.
+bacillaris were selected and used for the quantiﬁcation of each yeast
+species during the entire fermentation process. Thus, the evaluation of
+the potential for employing FISH in wine fermentation analyses was
+the goal of this study. Notably, the yeast cells detected by FISH should
+be strictly deﬁned as cells with non-degraded rRNA. The stability of
+rRNA is species dependent (Andorrà et al., 2011); for example, 99%
+of the 26S rRNA of Sacch. cerevisiae was found to be degraded within
+24 h after cell death by heat-shock (Hierro et al., 2006).
+Early reports have described FISH probes for several wine-related
+yeast species (Röder et al., 2007; Stender et al., 2001; Xufre et al.,
+
+2006); however, only probes for D. bruxellensis and Sacch. cerevisiae
+have been successfully used for direct wine sample analyses (Andorrà
+et al., 2011; Röder et al., 2007). This is the ﬁrst report of the use of oligonucleotide probes for Hanseniaspora and Starm. bacillaris in direct wine
+sample analysis. In addition, the design and evaluation of the oligonucleotide probes followed the important guidelines (regarding speciﬁc
+sequences, accessible sites, and high afﬁnity) suggested by Inácio et al.
+(2003) and Yilmaz et al. (2011). For example, probes should be designed with −13 to −17 kcal/mol of ΔGooverall under typical FISH conditions according to principles of the mathFISH program (Yilmaz et al.,
+2011). However, the ΔGooverall values of the three probes (Hgu-FITC,
+Cst-FITC, and Huv-FITC) designed by Xufre et al. (2006) were outside
+of this recommended range, indicating a low afﬁnity of those probes
+for target sites, which can most likely explain their low hybridization efﬁciencies. Unfortunately it could be difﬁcult to achieve a good balance
+among these guidelines for some yeast species because the possible speciﬁc site for speciﬁc hybridization (for Hanseniaspora species, it was
+D441–D518) was located in an inaccessible region according to the accessibility map (Inácio et al., 2003). Subsequently, the experimental
+evaluation provided the ﬁnal evidence. Furthermore, the probes should
+be subject to a multifactor trial to evaluate the conditions for the
+optimal hybridization efﬁciency. The percentage of formamide in the
+hybridization buffer is a relevant factor that should be tested for each
+probe, and mathFISH was demonstrated to be a useful tool with theoretical references for determining the appropriate formamide concentration (Yilmaz et al., 2011).
+The high background of the ﬂuorescent signal found in the white and
+red wine samples was the most likely reason for the limited use of FISH
+probes for the direct analysis of wine samples in past years. The polyphenols absorbed by yeast walls cause an intensive yellow ﬂuorescence,
+while the anthocyanins that often form aggregates that include yeast
+
+6
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+A
+
+B
+
+A
+
+B
+
+C
+
+D
+
+E
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+G
+
+H
+
+F
+
+Fig. 2. Fluorescent signals of background and target species in samples W, R, MW1, MW2, MR1, and MR2 visualized by microscopy (A, B, C, D, E, F, G, H) and ﬂow cytometry (A′, B′, C′, D′, E′,
+F′, G′, H′). Samples W (A, A′) and R (B, B′) without staining. Cells from samples W (C, C′), MW1 (D, D′), MW2 (E, E′), R (F, F′), MR1 (G, G′), and MR2 (H, H′) hybridized with probes Sce-FITC
+(C, C′, F, F′), H8b-FITC coupled with H8b-Com (D, D′, G, G′), and Sba-FITC (E, E′, H, H′).
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+7
+
+Fig. 3. Yeast population dynamics during alcoholic fermentations at 15 °C (A, C, E, G) and 25 °C (B, D, F, H). Solid lines indicate populations measured by epiﬂuorescence microscopy,
+and dotted lines indicate populations assessed by ﬂow cytometry (the population quantity shown is the mean of triplicate values). Single fermentations of Sc, Hu, and Sb (A, B). Mixed
+fermentations of ScHu (C, D), ScSb (E, F), and ScHuSb (G, H). Symbols: ( , ) Sacch. cerevisiae; ( , ) H. uvarum; ( , ) Starm. bacillaris.
+
+cells cause intense red ﬂuorescence. Thus, probes labeled with ﬂuorochromes of these wavelengths or similar wavelengths (such as the
+FITC probe used in this study) should be tested for their clear discrimination between the background and the ﬂuorescence of the target.
+As proposed in Andorrà et al. (2011), FISH combined with
+epiﬂuorescence microscopy and ﬂow cytometry was used to monitor
+the yeast populations during the entire fermentation process. FISH combined with microscopy was useful for analyzing each cell in detail; however, for ecological studies, there is a need for the observation of a large
+number of cells and a highly experienced operator if the goal is an accurate quantiﬁcation of the yeast populations present in small numbers.
+The analysis of a large number of cells under a microscope is tedious
+
+and time consuming, and the percentage of cells found in small populations can be biased by the subjectivity of the operator if they speciﬁcally
+look for those minor species. In contrast, the use of FISH combined with
+ﬂow cytometry is fast, sensitive, and accurate because thousands of cells
+can be recorded in several seconds. Thus, it is suitable for the high
+throughput analysis of large numbers of wine samples. For our results,
+special attention should be paid to the aggregation of cells caused by
+the ﬁxation step of FISH and this portion of cells should be excluded
+by gating when using ﬂow cytometry. The aggregation of cells was a
+common phenomenon observed when using the FISH technique.
+Fortunately, the aggregation of yeast cells was not as serious as that of
+bacteria, making FISH combined with ﬂow cytometry easier for yeast.
+
+8
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+
+stages of alcoholic fermentation in Sacch. cerevisiae cells (Novo et al.,
+2007).
+The actual state of the cells detected by FISH was difﬁcult to determine and most likely included VBNC cells, injured cells, and even dead
+cells with high rRNA stability. Herrero et al. (2006) and Regan et al.
+(2003) have suggested that the viability of the cells could be assessed
+using ﬂuorescent dyes such as EMA and propidium iodide (PI) to stain
+cells with compromised membranes. Branco et al. (2012) reported
+that direct live/dead staining combined with FISH (LDS–FISH) can
+be used to effectively assess the viability of Sacch. cerevisiae and
+H. guilliermondii during alcoholic fermentation. Thus, the combined
+use of such dyes and FISH could be evaluated for the detection of the
+true, viable target yeast population in future work.
+In summary, the present study developed speciﬁc oligonucleotide
+probes for Hanseniaspora and Starm. bacillaris, which were applied in
+FISH combined with ﬂow cytometry. We were able to directly identify
+Sacch. cerevisiae, H. uvarum, and Starm. bacillaris in complex wine samples and thus demonstrated the potential for using FISH techniques in
+wine ecological studies. The design of new probes for other species will
+help to monitor the population dynamics of various yeast species (including minor populations) during industrial wine fermentations and
+to detect spoilage yeasts during wine aging and storage. We also demonstrated the successful application of FISH in natural fermentations.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.ijfoodmicro.2014.08.014.
+Acknowledgments
+
+Fig. 4. Yeast population dynamics during the natural fermentation of Macabeo must. Solid
+lines refer to populations assessed by ﬂow cytometry and dashed lines to plates. Sampling
+points were: 0, must after settling (density = 1100, 0 h); 1, 12 h; 2, 48 h (time of
+Sacch. cerevisiae inoculation); 3, 60 h; 4, mid-fermentation (density = 1060, 84 h); and
+5, ﬁnal fermentation (density b 1000, 312 h).
+
+Considering the complementary advantages of both methodologies,
+their combined use would be a better choice for the precise enumeration of yeast populations in wine samples.
+Two interesting phenomena concerning yeast population dynamics
+during wine fermentations were observed in this study. On the one
+hand, the two non-Saccharomyces species maintained their inoculated
+population sizes in the mixed fermentations, while their populations increase in the single culture fermentations. This result could suggest that
+the capacity of the non-Saccharomyces population to grow was limited
+and that environmental pressure caused by Sacch. cerevisiae might be
+the primary factor. This ﬁnding was also observed in the natural fermentation. Meanwhile, the non-Saccharomyces populations did not decrease
+sharply in the late stages of mixed fermentations as normally observed
+by culture-dependent methods and as indicated in former ecological
+studies based on other culture-independent techniques (Andorrà et al.,
+2010b, 2011; Cocolin and Mills, 2003). Non-Saccharomyces yeasts can
+enter a viable but non-culturable state; under these conditions, they
+lose their cultivability but maintain their ribosomal RNA (without
+degradation), and a portion of these cells likely maintain their metabolic
+activities. However, we cannot completely rule out the possibility that
+the cells died and their rRNA persisted. In fact, at the end of the natural
+fermentation, we observed a meaningful difference between the number of cells observed under the microscope and the number of those
+able to grow on plates, which could have been attributed to either
+dead cells that maintained their cell structure (and thus their rRNA)
+or cells that remained alive but were not able to be grown on plates
+(viable but unculturable). Furthermore, the variation in the ﬂuorescence intensity of the stained Sacch. cerevisiae cells during the fermentation, similar to the phenomenon observed by Andorrà et al. (2011),
+could be related to an increase in ribosome synthesis during the initial
+
+The present work was supported by the Wildwine EU Project (grant
+agreement 315065). Chunxiao Wang is the recipient of a grant from the
+China Scholarship Council (State Scholarship Fund No. 201206300028).
+References
+Amann, R., Fuchs, B.M., 2008. Single-cell identiﬁcation in microbial communities by
+improved ﬂuorescence in situ hybridization techniques. Nat. Rev. Microbiol. 6 (5),
+339–348.
+Andorrà, I., Landi, S., Mas, A., Esteve-Zarzoso, B., Guillamón, J.M., 2010a. Effect of fermentation temperature on microbial population evolution using culture-independent and
+dependent techniques. Food Res. Int. 43, 773–779.
+Andorrà, I., Esteve-Zarzoso, B., Guillamón, J.M., Mas, A., 2010b. Determination of viable
+wine yeast using DNA binding dyes and quantitative PCR. Int. J. Food Microbiol.
+144, 257–262.
+Andorrà, I., Monteiro, M., Esteve-Zarzoso, B., Albergaria, H., Mas, A., 2011. Analysis and
+direct quantiﬁcation of Saccharomyces cerevisiae and Hanseniaspora guilliermondii
+populations during alcoholic fermentation by ﬂuorescence in situ hybridization,
+ﬂow cytometry and quantitative PCR. Food Microbiol. 28, 1483–1491.
+Andorrà, I., Berradre, M., Mas, A., Esteve-Zarzoso, B., Guillamón, J.M., 2012. Effect of mixed
+culture fermentations on yeast populations and aroma proﬁle. LWT Food Sci. Technol.
+49, 8–13.
+Branco, P., Monteiro, M., Moura, P., Albergaria, H., 2012. Survival rate of wine-related
+yeasts during alcoholic fermentation assessed by direct live/dead staining combined
+with ﬂuorescence in situ hybridization. Int. J. Food Microbiol. 158, 49–57.
+Cocolin, L., Mills, D.A., 2003. Wine yeast inhibition by sulfur dioxide: a comparison of
+culture-dependent and independent methods. Am. J. Enol. Vitic. 54 (2), 125–130.
+Cocolin, L., Bission, L.F., Mills, D.A., 2000. Direct proﬁling of the yeast dynamics in wine
+fermentations. FEMS Microbiol. Lett. 189, 81–87.
+Csoma, H., Sipiczki, M., 2008. Taxonomic reclassiﬁcation of Candida stellata strains reveals
+frequent occurrence of Candida zemplinina in wine fermentation. FEMS Yeast Res. 8,
+328–336.
+Díaz, M., Herrero, M., García, L.A., Quirós, C., 2010. Application of ﬂow cytometry to
+industrial microbial bioprocesses. Biochem. Eng. J. 48, 385–407.
+Divol, B., Lonvaud-Funel, A., 2005. Evidence for viable but nonculturable yeasts in
+botrytis-affected wine. J. Appl. Microbiol. 99, 85–93.
+Duarte, F.L., Pimentel, N.H., Teixeira, A., Fonseca, Á., 2012. Saccharomyces bacillaris is not a
+synonym of Candida stellata: reinstatement as Starmerella bacillaris comb. nov.
+Antonie Van Leeuwenhoek 102, 653–658.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identiﬁcation of yeasts by
+RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed
+spacers. Int. J. Syst. Bacteriol. 49, 329–337.
+Fleet, G.H., 2003. Yeast interactions and wine ﬂavour. Int. J. Food Microbiol. 86, 11–22.
+Fleet, G.H., 2008. Wine yeast for the future. FEMS Yeast Res. 8, 979–995.
+Herrero, M., Quirós, C., García, L.A., Díaz, M., 2006. Use of ﬂow cytometry to follow the
+physiological states of microorganisms in cider fermentation processes. Appl.
+Environ. Microbiol. 72 (10), 6725–6733.
+
+C. Wang et al. / International Journal of Food Microbiology 191 (2014) 1–9
+Hierro, N., Esteve-Zarzoso, B., González, Á., Mas, A., Guillamón, J.M., 2006. Real-time quantitative PCR (QPCR) and reverse transcription-QPCR for detection and enumeration of
+total yeasts in wine. Appl. Environ. Microbiol. 72 (11), 7148–7155.
+Inácio, J., Behrens, S., Fuchs, B.M., Fonseca, Á., Spencer-Martins, I., Amann, R., 2003. In situ
+accessibility of Saccharomyces cerevisiae 26S rRNA to Cy3-labeled oligonucleotide
+probes comprising the D1 and D2 domains. Appl. Environ. Microbiol. 69 (5),
+2899–2905.
+Jindamorakot, S., Ninomiya, S., Limtong, S., Yongmanitchai, W., Tuntirungkij, M.,
+Potacharoen, W., Tanaka, K., Kawasaki, H., Nakase, T., 2009. Three new species of bipolar budding yeasts of the genus Hanseniaspora and its anamorph Kloeckera isolated
+in Thailand. FEMS Yeast Res. 9, 1327–1337.
+Kurtzman, C.P., Robnett, C.J., 1998. Identiﬁcation and phylogeny of ascomycetous yeasts
+from analysis of nuclear large subunit (26S) ribosomal DNA partial sequences.
+Antonie Van Leeuwenhoek 73, 331–371.
+Millet, V., Lonvaud-Funel, A., 2000. The viable but non-culturable state of wine microorganisms during storage. Lett. Appl. Microbiol. 30, 136–141.
+Mills, D.A., Johannsen, E.A., Cocolin, L., 2002. Yeast diversity and persistence in botrytisaffected wine fermentations. Appl. Environ. Microbiol. 68 (10), 4884–4893.
+Novo, M., Beltran, G., Rozes, N., Guillamon, J.M., Sokol, S., Leberre, V., Francois, J., Mas, A.,
+2007. Early transcriptional response of wine yeast after rehydration: osmotic shock
+and metabolic activation. FEMS Yeast Res. 7, 304–316.
+Rawsthorne, H., Phister, T.G., 2009. The presence of Saccharomyces cerevisiae DNA in
+various media used to propagate yeasts and its removal by ethidium monoazide.
+Lett. Appl. Microbiol. 49, 652–654.
+
+9
+
+Regan, J.M., Oldernburg, P.S., Park, H.D., Harrington, G.W., Noguera, D.R., 2003. Simultaneous determination of bacterial viability and identity in bioﬁlms using ethidium
+monoazide and ﬂuorescent in situ hybridization. Water Sci. Technol. 47 (5), 123–128.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., Lonvaud, A., 2006. Handbook of enology,
+2nd ed. The Microbiology of Wine and Viniﬁcations. vol. 1. John Wiley and Sons Ltd,
+West Sussex, England.
+Röder, C., König, H., Fröhlich, J., 2007. Species-speciﬁc identiﬁcation of Dekkera/
+Brettanomyces yeasts by ﬂuorescently labeled DNA probes targeting the 26S rRNA.
+FEMS Yeast Res. 7, 1013–1026.
+Stender, H., Kurtzman, C., Hyldig-Nielsen, J.J., Sørensen, D., Broonmer, A., Oliverira, K.,
+Perry-O'keefe, H., Sage, A., Young, B., Coull, J., 2001. Identiﬁcation of Dekkera
+bruxellensis (Brettanomyces) from wine by ﬂuorescence in situ hybridization using
+peptide nucleic acid probes. Appl. Environ. Microbiol. 67 (2), 938–941.
+Wang, C., Liu, Y., 2013. Dynamic study of yeast species and Saccharomyces cerevisiae
+strains during the spontaneous fermentations of Muscat blanc in Jingyang, China.
+Food Microbiol. 33, 172–177.
+Xufre, A., Albergaria, H., Inácio, J., Spencer-Martins, I., Gírio, F., 2006. Application of
+ﬂuorescence in situ hybridisation (FISH) to the analysis of yeast population dynamics
+in winery and laboratory grape must fermentations. Int. J. Food Microbiol. 108,
+376–384.
+Yilmaz, L.S., Parnerkar, S., Noguera, D.R., 2011. MathFISH, a web tool that uses
+thermodynamics-based mathematical models for in silico evaluation of oligonucleotide probes for ﬂuorescence in situ hybridization. Appl. Environ. Microbiol. 77 (3),
+1118–1122.
+
+

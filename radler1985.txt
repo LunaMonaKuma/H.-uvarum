@@ -1,0 +1,597 @@
+FEMS MicrobiologyLetters 29 (1985) 269-272
+Published by Elsevier
+
+269
+
+FEM 02209
+
+Killer toxins in new isolates of the yeasts Hanseniaspora uvarum
+and Pichia kluyveri
+(Hanseniaspora," Pichia; yeast; killer toxin)
+
+F. R a d l e r *, P. Pfeiffer a n d M. D e n n e r t
+Institut ff~rMikrobiologieund Weinforschung,Johannes Gutenberg-Unioersiti~tMainz, Postfaeh 3980, D-6500 Mamz, F.R.G.
+Received and accepted 12 June 1985
+
+1. S U M M A R Y
+From various habitats (plant material, fruits,
+soil), yeasts belonging to the species of Pichia
+kluyveri and Hanseniaspora uvarum were isolated
+that showed killer activity. According to the activity spectrum against other yeasts these strains belonged to 11 different groups that were distinguishable from the killer strains Ka-K10. The
+isoelectric points of the killer proteins were in the
+range of p H 3.5-3.9, the activity optimum was
+observed at pH 4.2-4.6. Above p H 5 and above a
+temperature of 25-35°C the killer proteins were
+inactivated.
+
+2. I N T R O D U C T I O N
+Since the first description of killer toxin of
+yeast by Makower and Bevan [1], the genetic and
+biochemical aspects of this phenomenon have been
+primarily investigated [2,3]. In Saccharomyces the
+production of the active toxin, an extracellular
+protein, depends on the presence of virus-like-particles, consisting of two species of protein-enDedicated to Prof. Dr. F. Lingens, Stuttgart-Hohenheim, on
+the occasionof his 60th birthday.
+* To whom correspondenceshould be addressed.
+
+capsidated ds-RNA. Killer strains have been found
+in yeast culture collections [4,5] and have been
+isolated from natural habitats [6,7]. So far, killer
+strains have been reported among strains of the
+genera Saccharomyces, Candida, Debaryornyces,
+Kluyveromyces, Hansenula, Pichia, Torulopsis [4]
+and Cryptococcus [8]. This paper describes an
+unexpected seasonal variation when it was attempted to isolate killer yeast strains from natural
+habitats. Among the strains isolated and identified, the species Hanseniaspora uoarum and Pichia
+kluyveri were found, of which the former is so far
+unknown to produce killer toxin. The killer activity was compared by cross-reaction with known
+killer strains and the temperature and pH stability
+as well as the isoelectric point of the toxins were
+determined.
+
+3. MATERIALS A N D M E T H O D S
+
+3.1. Yeast strains and growth conditions
+The following yeasts were used as test strains:
+K 1 (Saccharomyces cerevisiae, Fink D 587-2A);
+K 2 (S. cerevisiae NCYC738); K2 399 (S.
+cerevisiae); K 3 (S. capensis NCYC761); K4
+(Torulopsis glabrata NCYC388); K 5 (Hansenula
+subpelliculosa NCYC16); K6 (Kluyveromyces
+fragilis NCYC587); K 7 ( Pichia membranaefaciens
+
+0378-1097/85/$03.30 © 1985 Federation of European MicrobiologicalSocieties
+
+270
+NCYC333); K 8 (Hansenula anomala NCYC435);
+K 9 (Hansenula mrakii NCYC500); K10 (Kluyveromyces drosophilarum NCYC575); 28 ( S. cerevisiae); 392-395 (Pichia kluyveri); 67 (381) (S.
+cerevisiae, sensitive). The strains K 1 and 67 (381)
+were from the Wissenschaftliche Station for
+Brauerei, Mianchen. Strains K2-K10 were generously supplied by Dr. T.W. Young. All other
+strains were from the collection of this institute.
+The strains were cultured as described previously
+[9].
+
+3.2. Isolation of yeasts and testing for killer activity
+Various samples of leaves, fruit, stems, bark
+and soil were incubated for 2 days at 25°C in
+YEP-medium (glucose 2% w / v , peptone 2% w / v ,
+yeast extract, 1% w / v ) to which 0.02% streptomycin sulphate had been added. Dilutions of this
+culture were plated on YEP-agar and incubated
+for 3 days at 25°C. Yeast colonies were streaked
+for purification and tested for killer activity on
+methylene blue agar according to the method of
+Somers and Bevan [10] using the sensitive strain S.
+cerevisiae 67. The same method was used for determining the cross reaction of the strains by using
+the various test strains indicated.
+
+3.3. Production and concentration of killer toxins
+The yeasts were grown in modified B-medium
+as previously described [9] at p H 3.5 for 3 days at
+21°C. The ceils were removed by centrifugation
+and subsequent filtration (0.2 /~m filters). The
+
+killer toxin was concentrated lO0-fold by passing
+the solution through an Amicon P M - t 0 membrane. The activity was determined according to
+the method of Somers and Bevan [10] by pipetting
+0.1 ml into wells cut into the agar.
+
+4. R E S U L T S
+F r o m autumn 1982 to summer 1984 various
+random samples of plant material were collected
+and used for the isolation of yeast strains that
+were tested for killer activity (Table 1). The samples were mainly plant material: leaves, fruit, stems,
+b a r k and some soil samples, all from the area
+around Mainz. The collection of samples was
+purely incidental and no attempt was made to
+collect samples systematically. Random colonies,
+preferably different appearing colonies obtained
+from the same sample, were streaked for purification and used for the further tests. Killer yeast
+strains were frequently isolated in summer and
+autumn and no or only few such strains were
+found in the first half of the year.
+The killer strains were found to belong to species
+of the genera Pichia and Hanseniaspora (Table 2).
+To study the strains the methods described by
+Barnett et al. [11] were used. The strains marked
+by an asterisk were identified by Dr. Yarrow,
+CBS, Delft, whose help is greatly acknowledged.
+All isolated killer yeast strains were tested for
+killer activity against the killer strains K1-K10
+
+Table 1
+Seasonal variation in the frequency of killer toxin producing yeast strains
+Date of sampling
+
+September
+November
+May
+June
+July
+August
+November
+February
+May
+June
+
+1982
+1982
+1983
+1983
+1983
+1983
+1983
+1984
+1984
+1984
+
+Number of
+samples
+
+Number of
+yeast colonies
+investigated
+
+Number of
+killer strains
+
+1
+1
+5
+15
+31
+8
+10
+27
+3
+4
+
+40
+30
+47
+81
+71
+11
+19
+27
+40
+79
+
+7
+2
+0
+0
+15
+4
+9
+1
+0
+0
+
+271
+Table 2
+The newly isolated killer toxin producing yeast strains of Hanseniaspora uoarum and Pichia kluyveri and their activity against various
+known killer yeasts
+Newly isolated
+
+Test strains (lawn)
+
+yeast
+(streak)
+
+K1
+
+H. uvarum
+
+P. kluyveri
+
+469
+470 a
+478
+471,472 a,473,474
+
++
+-
+
+476 a,479,480
++
+484
++
+487,490 ~ +
+475,477,481,482
++
+468
+(+)
+485 a +
+488 a +
+
+K2
+379
+
+K2
+399
+
+Arbitrary
+
+K3
+
+K4
+
+K5
+
+K6
+
++
+-
+
+(+)
++
+-
+
++
+(+)
+(+)
++
+(+)
+(+)
+
++
+
++
+
+-
+
++
++
++
++
+
++
+
++
+
++
++
++
++
++
++
+
++
++
++
++
++
++
++
+
++
+(+)
++
++
++
+
++
++
+_
+_
+
+K7
+
+K8
+
++
++
++
+
+K9
+
+(+)
+(+)
+(+)
+
+K10
+
++
++
++
++
++
++
++
+
+28
+
+396
+
+(+)
+-
+
+-
+
++
+
+-
+
++
+(+)
++
++
+
++
++
++
++
+
+67 group
+designation
++
++
++
++
+
+G
+G
+G
+G
+
+1
+2
+3
+4
+
++
++
++
++
++
++
++
+
+G 5
+G 6
+G 7
+G 8
+G 9
+G10
+Gll
+
+a Identified by Dr. Yarrow.
++ killer activity, distinct inhibition or blue zone on lawn of test strain, ( + ) weak killer activity, - no killer activity.
+
+f r o m Y o u n g [7] a n d s o m e o t h e r killer s t r a i n s . A l l
+
+Killer toxins of yeasts are k n o w n
+
+to b e in-
+
+n e w s t r a i n s i n h i b i t e d Torulopsis glabrata K 4 ; n o n e
+o f t h e s e s t r a i n s i n h i b i t e d t h e k i l l e r s t r a i n Pichia
+
+activated by high pH and
+
+membranaefaciens K 7 o r Pichia klvyveri ( 3 9 2 - 3 9 5 ) .
+
+o f Hanseniaspora uvarum is r e p o r t e d h e r e f o r t h e
+
+A varying activity was observed against the test
+strains used. A c c o r d i n g to the activity s p e c t r u m
+
+f u r t h e r i n v e s t i g a t e d ( T a b l e 3). T h e t o x i n s o f t h e 4
+
+t h e y e a s t s t r a i n s c o u l d b e a r r a n g e d i n 11 a r b i t r a r y
+groups that were designated G1-Gll.
+The strains
+
+k e p t at p H
+
+o f Hanseniaspora uvarum b e l o n g e d t o 4, a n d t h e
+
+by elevated tempera-
+
+t u r e s [12]. A s t h e t o x i n p r o d u c t i o n b y t h e s p e c i e s
+f i r s t t i m e , t h e s e t o x i n s a n d t h o s e o f Pichia w e r e
+investigated strains were very pH-labile. When
+2, 3 o r 4 t h e a c t i v i t y r e m a i n e d u n -
+
+s t r a i n s o f Pichia kluyveri t o 7 g r o u p s . A l l s t r a i n s
+
+c h a n g e d , b u t at p H 5 t h e t o x i n w a s a l m o s t c o m p l e t e l y i n a c t i v a t e d w i t h i n 24 h. T h e t o x i n s w e r e
+
+o f Hanseniaspora w e r e i n a c t i v e w h e r e a s all s t r a i n s
+
+also
+
+o f Pichia w e r e a c t i v e a g a i n s t t h e t e s t s t r a i n K10.
+All n e w killer strains were tested against each
+
+a c t i v a t e d a b o v e 25 t o 3 5 ° C as i n d i c a t e d . S o m e
+
+other. However, none of these was sensitive to any
+
+investigated. The isoelectric point of the various
+
+of the toxins.
+
+toxins was
+
+temperature-labile;
+
+they
+
+were
+
+rapidly
+
+in-
+
+differences exist b e t w e e n the toxins of the yeasts
+determined
+
+by isoelectric focussing.
+
+Table 3
+Comparison of the killer toxins of Hanseniaspora uvarum and Pichia kluyveri (pH of inactivation, temperature stability, isoelectric
+point and pH of optimum activity)
+Yeast
+
+pH a
+
+°C b
+
+Ip
+
+pH c
+optimum
+
+P. kluyveri strain
+
+468
+485
+
+5
+5
+
+30
+35
+
+3.5-3.8
+3.7-3.9
+
+4.2
+4.4
+
+1-1. uvarum strain
+
+470
+471
+
+5
+5
+
+25
+25
+
+3.7-3.9
+3.4-3.7
+
+4.2
+4.6
+
+" pH value leading to almost complete inactivation within 24 h at 4°C.
+b Stable at this temperature when incubated for 1 h at pH 4.2.
+Tested against the sensitive strain S. cerevisiae 67 (381).
+
+272
+The activity was found in the p H range 3.4 to 3.9,
+with only minor differences between the strains.
+The optimum activity was observed with the agar
+diffusion test in the p H range 4.2 to 4.6.
+
+5. D I S C U S S I O N
+So far the biological significance of the killer
+toxins of yeast is unknown. Of course, it can be
+speculated that killer strains might have an advantage when competing with sensitive strains. It
+has been shown that in certain fermentations killer
+strains become dominant when inoculated together with other strains [13]. This is the rationale
+for attempts to introduce the killer factor into
+commercially used yeasts [14]. This paper confirms
+the observation of seyeral authors that killer yeasts
+are quite frequent. However, the results indicate
+that a seasonal variation of this frequency might
+exist. Of course, the available figures are by no
+means sufficient for a general statement. But
+among the incidental and arbitrary samples no, or
+very few killer strains were found early in the year,
+whereas in the second half of the year killer yeasts
+were quite frequent. Naturally the samples were
+different during the seasons, for no leaves are
+available in winter and no ripe fruit in spring. If
+this observed seasonal variation of the frequency
+of killer yeast is not due to the different samples,
+the following hypothesis might be used for an
+explanation. If killer yeasts have an ecological
+advantage, they should be able to compete successfully. Perhaps these killer strains are less persistent than non-killers, thus they might tend to
+disappear in the 'off-season'. This assumption
+might be supported by the observation of Rosini
+[5] who investigated the killer activity of the strains
+of the yeast collection of Perugia, N o killer yeasts
+were found among the strains isolated before 1955,
+and the frequency of the killer activity decreased
+with the age of the strains. However, a later investigation of this laboratory showed that killer yeasts
+can be isolated from the same soil sample all year
+round.
+T o our knowledge the occurrence of killer strains
+has been observed in 8 different genera. Therefore
+it is not surprising that killer strains have been
+f o u n d t h a t b e l o n g to a f u r t h e r g e n u s
+
+(Hanseniaspora). Probably
+
+other yeast genera will
+be found that harbor killer strains if more strains
+will be tested.
+So far at least two more killer types have been
+observed in Saccharomycesthan the three (K 1- K 3)
+described by Young and Yagiu [7]. None of the
+killer strains investigated in this paper is identical
+with any of the types K1-K10. Obviously a great
+number of yeast strains exists that produce somewhat different toxins. On the basis of the cross-reaction with the strains K1-K10, the new killer
+strains were designated arbitrary group numbers,
+only to demonstrate that differences are detectable. However, it is not known if these spectra of
+activity are influenced by the amount of toxin
+produced by the tested strains, It is hoped that
+when more toxin-producing strains become available some sort of reasonable classification will be
+developed. A useful approach might be the determination of the nature of the nucleic acid coding the protein component of the various toxins.
+REFERENCES
+[11 Makower, M. and Bevan, E.A. (1963) Proc. Int. Congr.
+Genet. XI !, 202.
+I21 Wickner, R.B. (1981) in The Molecular Biology of the
+Yeast Saccharomyces (Strathern, J.N., Jones, E.W. and
+Broach, J.R., Eds.) 415-444, Cold Spring Harbor Laboratory, New York.
+[3] Tipper, D.J. and Bostian, K.A. (1984) Microbiol. Rev. 48,
+125-156.
+[4] Philliskirk, G. and Young, T.W. (1975) Antonie van
+Leeuwenhoek, J. Microbiol, Serol. 41, 147-151.
+[5] Rosini, G, i(1983) Can. J. Microbiol. 29, 1462-1464.
+[6] ,Stumm, C., Hermans, J.M., Middelbeek, E.J., Croes, A.F.
+and De Vries, G.J.M.L. (1977) Antonie van Leeuwenhoek,
+J. Microbiol. Serol. 43, 125-128.
+[7] Young, T.W. and Yagiu, M. (1978) Antonie van Leeuwenhoek, J. Microbiol. Serol. 44, 59-77.
+[8] Middelbeek, E.J., Peters, J.G.W.H., Stumm,C. and Vogels,
+G.D. (1980) FEMS Microbiol. Lett. 9, 81-84.
+[9] Pfeiffer, P. and Radler, F. (1982) J. Gen. Microbiol. 128,
+2699-2706.
+[10] Somers, J.M. and Bevan, E.A. (1969) Genet. Res. 13,
+71-83.
+[11] Barnett, J.A., Payne, R.W. and Yarrow, D. (1983) Yeasts:
+Characteristics and Identification, CambridgeUniv. Press.
+[12] Woods, D.R. and Bevan, E.A. (1968) J. Gen. Microbiol.
+51,115-126.
+[13] Maule, A.P. and Thomas, P.D. (1973) J. inst. Brew.
+(London) 79, 137-141.
+~
+[14] Hara, S., Iimura, Y. and Otsuka, K. (1980),Am. J. Enol.
+Vitic. 31, 28-33.
+
+

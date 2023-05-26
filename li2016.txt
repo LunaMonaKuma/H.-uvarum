@@ -1,0 +1,928 @@
+Accepted Manuscript
+Biocontrol of postharvest green mold of oranges by Hanseniaspora uvarum Y3
+in combination with phosphatidylcholine
+Wanhai Li, Hongyin Zhang, Pengxia Li, Apaliya Maurice Tibiru, Qiya Yang,
+Yaping Peng, Xiaoyun Zhang
+PII:
+DOI:
+Reference:
+
+S1049-9644(16)30136-0
+http://dx.doi.org/10.1016/j.biocontrol.2016.07.014
+YBCON 3471
+
+To appear in:
+
+Biological Control
+
+Received Date:
+Revised Date:
+Accepted Date:
+
+24 March 2016
+29 July 2016
+29 July 2016
+
+Please cite this article as: Li, W., Zhang, H., Li, P., Tibiru, A.M., Yang, Q., Peng, Y., Zhang, X., Biocontrol of
+postharvest green mold of oranges by Hanseniaspora uvarum Y3 in combination with phosphatidylcholine,
+Biological Control (2016), doi: http://dx.doi.org/10.1016/j.biocontrol.2016.07.014
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and
+review of the resulting proof before it is published in its final form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Biocontrol of postharvest green mold of oranges by Hanseniaspora
+uvarum Y3 in combination with phosphatidylcholine
+
+Wanhai Li1, Hongyin Zhang1,*, Pengxia Li2, Apaliya Maurice Tibiru1, Qiya Yang1,
+Yaping Peng1, Xiaoyun Zhang1
+
+1
+
+School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013,
+
+Jiangsu, People’s Republic of China.
+2
+
+Institute of Agricultural Products Processing, Jiangsu Academy of Agricultural
+
+Sciences, Nanjing 210014, Jiangsu, People’s Republic of China.
+
+*Corresponding author: Hongyin Zhang
+Tel.: +86-511-88780174; Fax: +86-511-88780201.
+E-mail address: zhanghongyin126@126.com
+
+1
+
+ABSTRACT
+The effect of phosphatidylcholine (soybean extract) on the biocontrol efficacy of
+the antagonistic yeast Hanseniaspora uvarum Y3 against green mold of oranges was
+investigated. The results showed that H. uvarum Y3 significantly inhibited green
+mold of oranges at different concentrations compared with the control. Besides,
+phosphatidylcholine was observed to enhanced the biocontrol efficacy of H. uvarum
+Y3. Among the different concentrations, phosphatidylcholine at 1.5% w/v combined
+with H. uvarum Y3 exhibited the best control effect, the green mold incidence of
+oranges was only 4.63%, while the incidence was 33.33% when treated with H.
+uvarum Y3. After 24 h incubation, phosphatidylcholine at the different concentrations
+did not significantly influence the population of H. uvarum Y3 in NYDB. However, it
+was found that, phosphatidylcholine (1.5% w/v) significantly improved the population
+dynamics of H. uvarum Y3 in orange wounds at 20°C. The scanned electron
+microscope
+
+(SEM)
+
+results
+
+showed
+
+that
+
+H.
+
+uvarum
+
+Y3
+
+combined
+
+with
+
+phosphatidylcholine (1.5% w/v) significantly inhibited the spore germination and
+mycelial growth of Penicillium digitatum in orange wounds. Moreover, H. uvarum Y3
+in combination with 1.5% phosphatidylcholine treatment did not impair postharvest
+qualities of oranges. Conclusively,
+
+H. uvarum Y3 in combination with
+
+phosphatidylcholine offers a great potential as an alternative method against
+postharvest green mold of oranges.
+Keywords: phosphatidylcholine; Hanseniaspora uvarum Y3; oranges; green mold;
+biocontrol
+2
+
+1. Introduction
+Green mold, caused by Penicillium digitatum, is one of the most endemic
+postharvest diseases of oranges (Eckert and Ogawa, 1985). This pathogen is of main
+concern as it is responsible for 90% of oranges deterioration during the storage period,
+resulting in serious economic losses (Ariza et al., 2002). Control of postharvest
+diseases of oranges is mainly carried out by the application of fungicides (Eckert and
+Ogawa, 1985; Palou et al., 2001). However, a growing environmental contamination
+and human health problems caused by misapplication of synthetic fungicides on food
+crops have raised global concern (Norman, 1988). Besides, the frequent application of
+synthetic fungicides have led to the proliferation of fungicide-resistant strains and
+increasingly degenerated the effectiveness of these fungicides (Holmes and JW, 1999;
+Kinay et al., 2007; Salvatore et al., 2006; Spotts and Cervantes, 1986). Geotrichum
+citri-aurantii, for instance, has recently been found to be resistant to thiabendazole
+(TBZ) and imazalil (IMZ) (Montesinos-Herrero and Palou, 2010). Therefore, it is
+necessary to develop alternative methods to synthetic chemicals.
+Microbial antagonists have shown potential as alternative measures to synthetic
+fungicides for disease control (Ippolito et al., 2000; Smilanick, 2004). Many microbial
+antagonists including Bacillus subtilis (Rodrigues et al., 2010), Candida oleophila
+(Droby et al., 2002), Pichia guilliermondii (Lahlali et al., 2011), Cryptococcus
+laurentii (Zhang et al., 2005) were reported to greatly inhibit P. digitatum and P.
+italicum of oranges. However, their biocontrol efficacy under semi-commercial
+conditions are often lower than synthetic fungicides (Droby et al., 1998; Spadaro and
+
+3
+
+Gullino, 2004). In order to replace synthetic fungicides, the efficacies of antagonists
+need to be enhanced (Janisiewicz and Korsten, 2002). Previous studies showed that,
+sodium bicarbonate improved the efficacy of antagonistic microorganisms B.
+amyloliquefaciens (Hong et al., 2014), Pantoea agglomerans (Usall et al., 2008) and
+Trichoderma harzianum (Alvindia, 2013) against postharvest green mold, blue mold
+and sour rot of oranges. Chitosan combined with Rhodosporidium paludigenum (Lu et
+al., 2014) and C. saitoana (El-Ghaouth et al., 2000) respectively inhibited postharvest
+green mold and blue mold of oranges and the efficacies were better than the
+antagonists treated alone.
+Soybean lecithin is an excellent natural amphoteric surfactant with the
+characteristics of good surface activity, unique physiological activity, non-toxic, nonpollutant, non-stimulant and easily biodegradable. Phosphatidylcholine is regarded as
+an emulsifier, dispersion agent, viscous blending agent, lubricant, anti-splashing oil
+agent, leavening agent, antioxidant and nutritional agent (Rydhag and Wilton, 1981).
+Phosphatidylcholine is widely used in pharmaceutical, chemical, textile, food,
+pesticides, cosmetics and other industries. In the last decade, Japanese scholars found
+that, lecithin greatly controlled preharvest powdery mildew of cucumber, eggplant,
+strawberry and green pepper and developed the lecithin organic pesticide (Lecithinon).
+However, to the best of our knowledge, there is no research on the prevention of
+postharvest green mold of orange fruits by using the combination of yeast and
+phosphatidylcholine.
+Hanseniaspora uvarum has been previously reported as a potential biological
+
+4
+
+control agent for the control of postharvest gray mold decay of grapes (Liu et al.,
+2010a; Liu et al., 2010b; Qin et al., 2015) and preharvest disease of strawberry (Cai et
+al., 2015). However, there is little information concerning the effect of H. uvarum on
+postharvest green mold of oranges and its effect on quality parameters of fruits. The
+objective of this study was to evaluate the synergetic effect of H. uvarum Y3 and
+phosphatidylcholine on postharvest control of green mold of oranges and (1) to
+determine its efficacy in biocontrol of green mold of oranges, (2) to determine the
+population of H. uvarum Y3 in virto and in vivo, (3) to determine the spore
+germination and mycelial growth of P. digitatum, (4) to evaluate the effects of H.
+uvarum Y3 and phosphatidylcholine on the natural decay and storage quality of
+oranges, and (5) to investigate the inhibition of the growth of P. digitatum hyphase on
+orange woulds by H. uvarum Y3 treated with water and phosphatidylcholine, using
+Scanned electron microscope, in order to explore the possible mechanisms involved.
+
+2. Materials and methods
+2.1. Fruits
+Oranges (Citrus sinensis (L.) Osbeck) cultivar 'Gongchuan' were harvested from
+the orchard in Zhenjiang, China, and selected randomly based on uniformity of size,
+ripeness and absence of apparent injuries or infections before any commercial
+postharvest treatments were applied. Fruits were soaked by 0.1% sodium hypochlorite
+(Sangon Biotech (Shanghai) Co., Ltd) for 1-2 min, rinsed with tap water, and allowed
+to air dry at room temperature.
+
+5
+
+2.2. Phosphatidylcholine
+Phosphatidylcholine (soybean lecithin powder), was obtained from Guangzhou
+Haisha Biological Technology Co. Ltd., China.
+
+2.3. Pathogen
+P. digitatum was isolated from decayed oranges and inoculated on potato
+dextrose agar medium (PDA: 200 mL of extract from boiled potatoes, 20 g of
+dextrose, 20 g of agar and 800 mL of distilled water). PDA plates were incubated at
+25°C for 7 days, then transferred to 4°C refrigerated condition before use. Spore
+suspensions were prepared by removing the spores from the sporulating edges of PDA
+culture with inoculating loop and suspended in sterile distilled water. Spore
+concentrations were adjusted as required to 1 × 105 spores/mL in sterile distilled water
+by a hemocytometer (XB-K-250, Jianling Medical Device Co., Danyang, China).
+
+2.4. Antagonist
+The yeast antagonist H. uvarum Y3 was isolated by Wanhai Li, from the surfaces
+of unsprayed grapes in vineyard, Zhenjiang, China and maintained at 4°C on nutrient
+yeast dextrose agar (NYDA; 8 g of nutrient broth, 5 g of yeast extract, 10 g of
+dextrose, 20 g of agar and 1000 mL of distilled water). The yeast strain was preserved
+in the China General Microbiological Culture Collection Center, and numbered as
+CGMCC2.5414. H. uvarum Y3 was cultured in 250 mL Erlenmeyer flasks containing
+
+6
+
+50 mL of nutrient yeast dextrose broth (NYDB; 8 g of nutrient broth, 5 g of yeast
+extract, 10 g of dextrose and 1000 mL of distilled water). Flasks were incubated in a
+rotary shaker at 180 rpm for 20 h at 28°C. Following incubation, cells were
+centrifuged (TGL-16M Centrifuge, Xiangyi Company, Changsha, China) at 8000 × g
+for 6 min and washed twice with sterile distilled water in order to remove the growth
+medium. Yeast cell pellets were re-suspended in sterile distilled water and
+phosphatidylcholine solution, adjusted to the required concentration by a
+hemocytometer (XB-K-250, Jianling Medical Device Company, Danyang, China).
+
+2.5. Effect of H. uvarum Y3 at different concentrations on green mold incidence and
+lesion diameter of oranges
+Treatments used in this experiment were sterile distilled water (CK), and H.
+uvarum Y3 at different concentrations (1 × 106 cells/mL; 1 × 107 cells/mL; 1 × 108
+cells/mL; 1 × 109 cells/mL). Three uniform wounds (5 mm diameter and 3 mm deep)
+were made at the equator of each orange fruit using a sterile borer (using a spirit lamp
+to sterilize, 5 mm diameter). An aliquot (30 µL) of cell suspensions of each treatment
+was pipetted into each wound site, respectively. Two hours later, 30 µL of P. digitatum
+suspension (1 × 105 spores/mL) was inoculated into each wound. Treated fruits were
+stored in incubator at 20°C and 95% RH, and the fruits were randomized block. Seven
+days later, decay incidence and lesion diameter of the H. uvarum Y3 and the control
+treatments on the fruits were measured with a slide caliper. There were three
+replicates of twelve fruits for each treatment, and the experiment was repeated twice.
+
+7
+
+2.6. Effect of phosphatidylcholine on biocontrol efficacy of H. uvarum Y3 (1 × 10 8
+cells/mL) to inhibit green mold of oranges
+The treatments applied on the fruits were sterile distilled water (CK),
+phosphatidylcholine (P) at the different concentrations (0.1%, 0.5%, 1%, 1.5%, 2%,
+2.5%, 3%, 4%, and 5% w/v), H. uvarum Y3 (Y) (1 × 108 cells/mL), H. uvarum Y3
+combined with phosphatidylcholine (P) at the different concentrations (0.1%, 0.5%,
+1%, 1.5%, 2%, 2.5%, 3%, 4%, and 5% w/v), and make the final concentration of H.
+uvarum Y3 was 1 × 10 8 cells/mL (yeast cells were resuspended in phosphatidylcholine
+suspension at different concentrations). Three uniform wounds (5 mm diameter and 3
+mm deep) were made at the equator of each orange fruit using a sterile borer. An
+aliquot (30 µL) of cell suspensions of each treatment was pipetted into each wound
+site, respectively. Two hours later, 30 µL of P. digitatum suspension (1 × 105
+spores/mL) was inoculated into each wound. Treated fruits were stored in incubator at
+20°C and 95% RH, and the fruits were randomized block. After 7 days, decay
+incidence and lesion diameter of the treated fruits were measured with a slide caliper.
+There were three replicates of twelve fruits for each treatment, and the experiment
+was repeated twice.
+
+2.7 Effect of phosphatidylcholine at various concentrations on population dynamics of
+H. uvarum Y3 in NYDB
+H. uvarum Y3 was cultured in 250 mL Erlenmeyer flasks containing 50 mL of
+
+8
+
+nutrient yeast dextrose broth (NYDB) at 180 rpm for 20 h at 28°C. Afterwards, 1 mL
+of H. uvarum Y3 was added into 50 mL NYDB alone or amended with
+phosphatidylcholine at the different concentrations (0.1%, 0.5%, 1%, 1.5%, 2%, 2.5%,
+3%, 4%, and 5% w/v). All flasks were incubated in rotary shaker at 180 rpm and 28°C
+for 24 h. The total cells of H. uvarum Y3 in the various liquid media were determined
+by optical microscope and expressed as Log10 cfu/mL. Serial 10-fold dilutions of
+various liquid media were made and 0.1 mL of each dilution was spread on NYDA.
+NYDA plates were incubated at 28°C and 95% RH. The live cells of H. uvarum Y3 in
+the various media were determined by counting single yeast colony on NYDA after
+36-48 h incubation and expressed as Log10 cfu/wound. There were three replicates per
+treatment and the experiment was conducted twice.
+
+2.8. Effect of phosphatidylcholine in combination with H. uvarum Y3 on green mold
+of oranges after inoculation with P. digitatum
+The treatments applied on the fruits were sterile distilled water (CK),
+phosphatidylcholine (1.5% w/v), H. uvarum Y3 alone（1 × 108 cells/mL）or combined
+with phosphatidylcholine (1.5% w/v). The experiment was conducted according to the
+method of Abraham et al. (2010) with some slight modifications. Three uniform
+wounds (5 mm diameter and 3 mm deep) were made at the equator of each orange
+fruit using a sterile borer. An aliquot of 30 µL of P. digitatum suspension (1 × 105
+spores/mL) was inoculated into each wound, respectively. Half an hour later, 30 µl of
+cell suspensions of each treatment was pipetted into each wound site. Treated fruits
+
+9
+
+were incubated at 20°C and 95% RH, and the fruits were randomized block. After 7
+days, decay incidence and lesion diameter of the treated fruits were measured with a
+slide caliper. There were three replicates of twelve fruits for each treatment, and the
+experiment was repeated twice.
+
+2.9 Effect of phosphatidylcholine on population dynamics of H. uvarum Y3 in wounds
+of oranges
+The populations of H. uvarum Y3 were monitored in wounds of oranges. The
+oranges were wounded (5 mm diameter and approximately 3 mm deep) using a sterile
+borer. Each wound was treated with 30 µL suspension of H. uvarum Y3 (1 × 10 8
+cells/mL) alone or in combination with phosphatidylcholine (1.5% w/v). H. uvarum
+Y3 was recovered from the wounds after incubation at 20°C for 0 (1 h after treatment),
+1, 2, 3, 4, 5, 6 and 7 days, respectively. The wounded tissues were removed with a
+sterile knife and macerated in 30 mL of sterile 0.85% sodium chloride solution and
+quartz sand in a mortar. Serial 10-fold dilutions were made and 0.1 mL of each
+dilution was spread on NYDA. NYDA plates were stored in incubator at 28°C and
+95% RH. The population of H. uvarum Y3 in wounds were determined by counting
+single yeast colony on NYDA after 36-48 h incubation and expressed as Log10
+cfu/wound. There were three fruits replicates per treatment and the experiment was
+conducted twice.
+
+2.10. Effects of phosphatidylcholine and H. uvarum Y3 on spore germination and
+
+10
+
+mycelial development of P. digitatum in vitro
+The effects of phosphatidylcholine (1.5% w/v) and H. uvarum Y3 on spore
+germination and mycelial growth of P. digitatum were measured in potato-dextrose
+broth (PDB). Spores of P. digitatum and H. uvarum Y3 suspensions were prepared as
+described above. Erlenmeyer flasks of PDB 50 mL were prepared and 1mL of sterile
+distilled water was added as a control, in the second flask, 1 mL of H. uvarum Y3 was
+added and adjusted to a concentration of 1 × 108 cells/mL, and in the third flask, 1 mL
+of phosphatidylcholine combined with H. avarum was added and adjusted to a
+concentration of phosphatidylcholine at 1.5% w/v and H. uvarum Y3 concentration of
+1 × 108 cells/mL. Aliquots of 1mL P. digitatum spore suspension (adjusted to the final
+concentration of 1 × 10 5 spores/mL) were added to each PDB flask, respectively. All
+flasks were incubated in rotary shaker at 75 rpm and 25°C for 18 h. Approximate 100
+spores were observed by microscope and micrometer to determine germination rate
+and hyphae length per treatment within each replicate. Each treatment was replicated
+three times and the experiment was conducted twice.
+
+2.11. Scanned electron microscope (SEM) analysis
+Three treatments were tested in this experiment: (1) Control (sterile distilled
+water), (2) H. uvarum Y3, and (3) phosphatidylcholine (1.5% w/v) combined with H.
+uvarum Y3. Three uniform wounds of diameter 5 mm and depth 3 mm were made at
+the equator of each orange fruit using a sterile borer. An aliquot of 30 µL cell
+suspensions of each treatment was pipetted into each wound site, respectively. Two
+
+11
+
+hours later, 30 µL of P. digitatum suspension (1 × 105 spores/mL) was inoculated into
+each wound. Treated fruits were stored in incubator at 20°C and 95% RH. After 6
+days, the effects of treatments were observed in wounds of oranges by SEM
+(XL30-ESEM).
+
+2.12. Effects of H. uvarum Y3 and phosphatidylcholine on natural decay and storage
+quality of oranges
+To evaluate the effects of H uvarum and phosphatidylcholine on natural decay
+and storage quality of postharvest oranges, we sprayed the disinfected oranges with (1)
+the control treatment (sterile distilled water), (2) H. uvarum Y3 (1 × 108 cells/mL) and
+(3) phosphatidylcholine (1.5% w/v) combined with H. uvarum Y3 (1 × 108 cells/mL),
+and then air dried. The treated fruits were sealed in polyethylene-lined plastic baskets
+to retain high humidity. Fruits were stored in incubator (20°C, 95% RH) for 30 days,
+and the fruits were randomized block. Natural decay (the rate of the decay fruits in all
+treated fruits) and quality parameters were measured after storage. There were three
+replicates of 48 fruits for each treatment. The storage quality parameters of the treated
+fruits were determined as described below:
+Weight loss: The weight of orange was measured by an MP2000-2 balance (±0.001
+g) (Shanghai Balance Instruments, China). Weight loss of treated fruits was
+determined by the formula (A-B)/A where A is defined as weight before treatment and
+B is the weight after treatment.
+Fruit firmness: Firmness values of each individual orange were measured at the
+
+12
+
+points of the equatorial region by using the TA-XT Plus Texture Analyser
+(Microstable Instruments, UK) with a 3 mm diameter flat probe (Zhang et al., 2008).
+The probe descended towards the sample at 1.0 mm/s, and the distance that the probe
+travelled through the sample is 6 mm. The maximum force (N) was defined as
+firmness.
+Total soluble solids: Total soluble solids (TSS) were determined by measuring the
+refractive index of the
+
+fruits juice with a hand refractometer and the results
+
+expressed as percentages (g per 100 g fruit weight) (Manganaris et al., 2007).
+Titratable acidity: Titratable acidity was determined according to the method of
+Wright and Kader (1997) with some slight modifications. Titratable acidity was
+measured by titrating 0.1 N NaOH to pH 8.1; 4 g of juice diluted with 20 mL of
+distilled water. All replicates were evaluated. Titratable acidity was calculated as
+percent citric acid.
+Ascorbic acid: Ascorbic acid was evaluated using UV spectrophotometer method.
+Firstly, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6 mL of 100 µg/mL vitamin C standard solution were
+added into test tubes and adjusted with distilled water to 10.0 mL. The solution was
+homogenized. The absorbance of vitamin C in the solution was determined at the
+wavelength of 243 nm. Taking the content of vitamin C (g) as the horizontal
+coordinates, the absorbance (A243) was used as y-coordinates to make the standard
+curve. Thirty grams of pulp from 5 oranges was placed in a mortar and 20 mL of 1%
+HCl was added to it. The homogenate was then transferred to a 50 mL volumetric
+flask and adjusted to 50 mL with distilled water. The solution was centrifuged at
+
+13
+
+10000 × g for 10 min and 0.4 mL supernatant was added to a 10 mL volumetric flask
+with 0.8 mL 10% HCl, adjusted with distilled water to the required mark and vortexed
+to homogenize the solution. In the other sample, distilled water as blank, the
+absorbance was determined at the wavelength of 243 nm, 0.4 mL extraction solution,
+4 mL distilled water and 1.6 mL1 mol/L NaOH solution were added to the 10 mL
+volumetric flask, mixed, 15 min later, 1.6 mL 10% HCl was added, mixed, distilled
+water was added to the required mark. Distilled water as the blank, the absorbance of
+solution was measured at 243 nm. According to the absorbance differences between
+analyte liquid and alkali treatment liquid. The results of vitamin C content in the
+sample were determined automatically on the Vc standard curve of the UV
+spectrophotometer.
+
+2.13. Statistical analysis
+The data were analyzed by the analysis of variance (ANOVA) in the statistical
+program SPSS/PC version II.x, (SPSS Inc. Chicago, Illinois, USA) and the Duncan’s
+Multiple Range Test and Tukey's Test were used for means separation. The statistical
+significance was applied at the level P < 0.05. In order to determine the type of effect
+(additive, synergistic or antagonistic) of phosphatidylcholine and H. uvarum Y3, the
+methodology and statistical analysis by De Curtis et al. (2012) was cited.
+
+3. Results
+3.1. Effect of H. uvarum Y3 at different concentrations on green mold incidence and
+
+14
+
+lesion diameter of oranges
+Efficacy of H. uvarum Y3 at different concentrations against green mold
+incidence and lesion diameter of oranges was examined. The results of the decay
+incidence of orange wounds treated with H. uvarum Y3 at different concentrations
+reduced by 75.3%, 60.5%, 35.8% and 27.2%. The decay incidence of all treatments
+were significantly lower than the control treatment (Fig. 1A). From Fig. 1A, the
+lowest decay incidence was observed at concentrations of 1 × 10 8 cells/mL and 1 ×
+109 cells/mL. For lesion diameter, the same trend was observed. H. uvarum Y3 at
+different concentrations significantly inhibited lesion diameter of oranges compared
+with the control. When H. uvarum Y3 concentration was 1 × 108 cells/mL or 1 × 109
+cells/mL, the lesion diameter recorded the least value (Fig. 1B).
+
+3.2. Efficacy of H. uvarum Y3 in combination with phosphatidylcholine in inhibiting
+postharvest green mold of oranges
+The effect of phosphatidylcholine on the antagonistic activity of H. uvarum Y3
+against P. digitatum on oranges was examined. After 7 days, phosphatidylcholine at
+all tested different concentrations did not reduce the green mold incidence but
+inhibited lesion diameter of P. digitatum in postharvest orange wounds. H. uvarum Y3
+alone
+
+and
+
+H.
+
+uvarum
+
+Y3
+
+combined
+
+with
+
+different
+
+concentrations
+
+of
+
+phosphatidylcholine all significantly reduced the green mold incidence and lesion
+diameter of P. digitatum compared with the control (Fig. 2A and B). Different
+concentrations of phosphatidylcholine provided synergistic effect of H. uvarum Y3 on
+
+15
+
+postharvest P. digitatum in orange wounds (SF>1). Especially, the combined
+treatment of phosphatidylcholine (1.5% w/v) with H. uvarum Y3 was the most
+effective treatment and reduced the green mold incidence and lesion diameter of fruits
+up to 93.5% and 5.6 mm, respectively.
+
+3.3 Effect of phosphatidylcholine at various concentrations on population dynamics of
+H. uvarum Y3 in NYDB
+As shown in Fig. 3, after 24 h incubation, NYDB amended with
+phosphatidylcholine at the different concentrations (0.5%, 1%, 1.5%, 2%, 2.5%, 3%,
+4%, and 5% w/v) did not significantly affected the total and live cells of H. uvarum
+Y3 compared with NYDB alone.
+
+3.4. Effect of phosphatidylcholine (1.5% w/v) in combination with H. uvarum Y3 on
+green mold of oranges after inoculation with P. digitatum
+When orange wounds were treated with H. uvarum Y3 alone or combined with
+phosphatidylcholine (1.5% w/v) after inoculation with the pathogen at 20°C, both
+treatments significantly reduced green mold incidence and lesion diameter of
+postharvest oranges compared with the control (Fig. 4. A and B and Fig. 5.).
+
+3.5. Effects of phosphatidylcholine on population growth of H. uvarum Y3 in orange
+wounds
+The population of H. uvarum Y3 in orange wounds treated with water or
+16
+
+phosphatidylcholine both increased to more than 30-fold in the first day at 20°C. H.
+uvarum Y3 treated with phosphatidylcholine (1.5% w/v) multiplied rapidly in orange
+wounds within 3 days at 20°C, and reached the maximum at the 3rd day, which was
+approximately 4.2-fold as H. uvarum Y3 treated with water at the same day (2.45 ×
+108 cells/wound) (Fig. 6). After the 3rd day, H. uvarum Y3 decreased then stabilized
+at a high level (3.75-7.67 × 108 cells/wound). Similarly, H. uvarum Y3 treated with
+water multiplied rapidly in orange wounds within 4 days, and reached the maximum
+at the 4th day (6.69 × 108 cells/wound), after which H. uvarum Y3 decreased then
+stabilized at a high level (2.83-5.50 × 108 cells/wound). The population of H. uvarum
+Y3 in orange wounds treated with phosphatidylcholine was higher than that treated
+with water at 2, 3 and 7d.
+
+3.6. Effects of phosphatidylcholine and H. uvarum Y3 on spore germination and
+mycelial growth of P. digitatum in vitro
+The
+
+results
+
+showed
+
+that
+
+H.
+
+uvarum
+
+Y3
+
+alone
+
+or
+
+combined
+
+with
+
+phosphatidylcholine (1.5% w/v) significantly decreased spore germination and
+hyphae length of P. digitatum in vitro from 86.7% and 321.6 µm to 24.3% and 87.6
+µm, 11.7% and 26.4 µm compared with the control, respectively (Fig. 7A and B).
+
+3.7. Scanned electron microscope (SEM) of the germination and growth of P.
+digitatum in orange wounds
+Scanned electron micrographs showed that there were dense long mycelia in
+
+17
+
+orange wounds for control treatment (Fig. 8A). Spore germination and mycelial
+growth of P. digitatum in orange wounds were inhibited with H. uvarum Y3 treatment
+alone (Fig. 8B). There were just a few short mycelia together with some yeast cells in
+orange wounds treated with H. uvarum Y3 alone (Fig. 8B). However, when H.
+uvarum Y3 was treated with phosphatidylcholine (1.5% w/v), more yeast cells and
+almost no mycelia were found in orange wounds (Fig. 8C).
+
+3.8. Effects of H. uvarum Y3 combined with phosphatidylcholine on storage quality of
+oranges
+As shown in Table 1, H. uvarum Y3 treatment alone and H. uvarum Y3
+combined with phosphatidylcholine (1.5% w/v) all significantly reduced natural decay
+of postharvest oranges compared with the control, the natural decay of oranges treated
+with H. uvarum Y3 combined with phosphatidylcholine (1.5% w/v) was 20.83%,
+significantly lower than treated with H. uvarum Y3 (31.94%) and the control
+(44.44%). Phosphatidylcholine (1.5% w/v) enhanced the efficacy of H. uvarum Y3 in
+controlling natural decay of postharvest oranges. There were no significant influences
+with respect to storage quality parameters such as firmness, soluble solids, titratable
+acidity, ascorbic acid except weight loss to oranges in three treatments. Weight loss of
+oranges treated with H. uvarum Y3 in combination with phosphatidylcholine (1.5%
+w/v) was significantly less than control treatment or H. uvarum Y3 treatment alone.
+
+4. Discussion
+
+18
+
+H. uvarum has been previously reported as a potential biological control agent
+for the control of postharvest gray mold decay of grapes (Liu et al., 2010a; Liu et al.,
+2010b; Qin et al., 2015) and preharvest disease of strawberry (Cai et al., 2015).
+However, there is little information concerning the effect of H. uvarum on postharvest
+green mold of oranges and its effect on quality parameters of fruits. Combination of
+biocontrol agents with additives have proved to be effective methods to inhibit
+postharvest pathogens and reduce chemical residues on fruits in other studies
+(Arrebola et al., 2010). The objective of the study was evaluating the feasibility of
+combined application of microbial antagonist H. uvarum Y3 and soybean extract
+phosphatidylcholine to control postharvest green mold of oranges.
+The results showed that H. uvarum Y3 has a potential as a biocontrol agent for
+the control of postharvest green mold of oranges caused by P. digitatum. H. uvarum
+Y3 at different concentrations significantly inhibited green mold of oranges compared
+with the control. The higher the concentration, the better and the efficacy was. This
+finding is in agreement with Lahlali et al. (2004), Lahlali et al. (2005) , Droby et al.
+(1989) and Nunes et al. (2001) who indicated that the biological efficacy of
+antagonistic yeasts dependent on the biocontrol agent’s concentration and the
+pathogen inoculum concentration. Different concentrations of phosphatidylcholine
+significantly improved the efficacy of H. uvarum Y3 against postharvest green mold
+incidence compared with control at 20°C.
+The ability of antagonists to survive and proliferate in fruits wounds when
+applied in orchards is a critical factor (Li et al., 2014; Macarisin et al., 2010). The
+
+19
+
+efficacy of antagonistic yeasts in inhibiting fruits decay caused by pathogen decreased
+because of the lower viability in wounds or on fruit surfaces (Liu et al., 2011). The
+population dynamics of H. uvarum Y3 in vitro suggested that, after 24 h incubation,
+phosphatidylcholine at the different concentrations did not significantly influence the
+total and live cells of H. uvarum Y3. While the population of H. uvarum Y3 in vivo
+showed that H. uvarum Y3 increased rapidly in orange wounds in both control and
+phosphatidylcholine at 20°C . The nutritional environment at the wounds might have
+favored H. uvarum Y3, which rapidly colonized the fruit tissues and allowed the yeast
+to easily have access to nutrients and space. The population of H. uvarum Y3 were
+greatly increased in wounds treated with phosphatidylcholine (1.5% w/v) at 20°C.
+Competition for nutrients and space has been cited as a main mechanism of
+antagonistic microorganisms (Droby et al., 2002; Sharma et al., 2009). These results
+suggest the possible mechanism by which H. uvarum Y3 might achieve biological
+control is through effective competition with the pathogen for space and nutrients.
+Phosphatidylcholine enhanced the biocontrol efficacy of H. uvarum Y3 to postharvest
+green mold of oranges by facilitating the growth of H. uvarum Y3 in orange wounds
+through the supply of nutrients.
+H. uvarum Y3 alone or combined with phosphatidylcholine (1.5% w/v)
+significantly inhibited spore germination and mycelial development of P. digitatum in
+vitro. It was observed that, 1.5% phosphatidylcholine significantly improved the
+efficacy of H. uvarum Y3 in controlling germination and mycelial development of P.
+digitatum compared with H. uvarum Y3 treatment alone.
+
+20
+
+By scanning electron microscope (SEM) of the growth of P. digitatum and H.
+uvarum Y3 in orange wounds, we found spore germination and mycelial growth of P.
+digitatum in orange wounds were inhibited when treated with H. uvarum Y3 alone
+(Fig. 8B) or H. uvarum Y3 combined with 1.5% phosphatidylcholine (Fig. 8C). The
+results also showed that, the more the yeast cells grew in orange wounds, the less the
+spores of P. digitatum germinated. This study further showed that, antagonistic H.
+uvarum Y3 could rapidly colonized fruit wounds first and gained advantage to
+nutrients and space over the pathogen. Under these conditions, spore germination and
+mycelial development were greatly restricted and inhibited. These results suggest that
+the inhibitory effect on spore germination and mycelium growth may be one of the
+major mechanisms of H. uvarum Y3 and phosphatidylcholine inhibiting postharvest
+fungal disease. However, the precise interaction among H. uvarum Y3,
+phosphatidylcholine and spores of postharvest fungal pathogens remains unknown
+and needs to be studied further.
+With regards to natural decay, the results showed that phosphatidylcholine (1.5%
+w/v) significantly enhanced the efficacy of H. uvarum Y3 against natural decay
+incidence of postharvest oranges. Results of the postharvest storage parameters
+showed that, there were no significant influence on storage quality parameters such as
+firmness, total soluble solids, titratable acidity and ascorbic acid to orange among
+three treatments. Furthermore, postharvest treatment with H. uvarum Y3 combined
+with 1.5% phosphatidylcholine significantly reduced weight loss in comparison with
+the control treatment. These results agree with the findings of Qin et al. (2015) who
+
+21
+
+used H. uvarum Y3 together with salicylic acid or sodium bicarbonate to reduce
+weight loss in grapes.
+In conclusion, phosphatidylcholine at 1.5% w/v significantly enhanced the
+biocontrol activity of H. uvarum Y3 against postharvest green mold of oranges and
+influenced H. uvarum Y3 to increase rapidly in fruit wounds. Application of H.
+uvarum Y3 alone or combined with phosphatidylcholine significantly inhibited spore
+germination and mycelial development in orange wounds and had no influence on
+storage quality parameters. Postharvest treatment of H. uvarum Y3 combined with
+1.5% phosphatidylcholine significantly reduced weight loss in comparison with the
+control treatment. Thus, H. uvarum Y3 in combination with phosphatidylcholine
+(1.5% w/v) may be a potential biocontrol method against postharvest green mold of
+oranges.
+
+Funding
+This work was supported by Jiangsu Agriculture Science and Technology
+Innovation Found (JASTIF, CX(15)1048), the Technology Support Plan of Jiangsu
+Province (BE2014372), and the Technology Support Plan of Zhenjiang (NY2013020).
+
+References
+Abraha, O., Mark, D., John, p., 2010. Isolation and in vivo screening of yeast and
+Bacillus antagonists for the control of Penicillium digitatum of citrus fruit.
+Biol. Control 53, 32-38.
+
+22
+
+Alvindia, D.G., 2013. Sodium bicarbonate enhances efficacy of Trichoderma
+harzianum DGA01 in controlling crown rot of banana. J. Gen. Plant Pathol. 79,
+136-144.
+Ariza, M.R., Larsen, T.O., Duus, J., Barrero, A.F., 2002. Penicillium digitatum
+metabolites on synthetic media and citrus fruits. J. Agric. Food Chem. 50,
+6361-6365.
+Arrebola, E., Jacobs, R., Korsten, L., 2010. Iturin A is the principal inhibitor in the
+biocontrol activity of Bacillus amyloliquefaciens against postharvest fungal
+pathogens. J. Appl. Microbiol. 108, 386-395.
+Cai, Z., Yang, R., Xiao, H., Qin, X., Si, L., 2015. Effect of preharvest application of
+Hanseniaspora uvarum on postharvest diseases in strawberries. Postharvest
+Biol. Technol. 100, 52-58.
+De Curtis, F., De Cicco, V., Lima, G., 2012. Efficacy of biocontrol yeasts combined
+with calcium silicate or sulphur for controlling durum wheat powdery mildew
+and increasing grain yield components. Field Crops Res. 134, 36-46.
+Droby, S., Chalutz, E., Wilson, C., Wisniewski, M., 1989. Characterization of the
+biocontrol activity of Debaryomyces hansenii in the control of Penicillium
+digitatum on grapefruit. Can. J. Microbiol. 35, 794-800.
+Droby, S., Cohen, L., Daus, A., Weiss, B., Horev, B., Chalutz, E., Katz, H.,
+Keren-Tzur, M., Shachnai, A., 1998. Commercial testing of Aspire: a yeast
+preparation for the biological control of postharvest decay of citrus. Biol.
+Control 12, 97-101.
+
+23
+
+Droby, S., Vinokur, V., Weiss, B., Cohen, L., Daus, A., Goldschmidt, E., Porat, R.,
+2002. Induction of resistance to Penicillium digitatum in grapefruit by the
+yeast biocontrol agent Candida oleophila. Phytopathology 92, 393-399.
+Eckert, J.W., Ogawa, J.M., 1985. The chemical control of postharvest diseases:
+subtropical and tropical fruits. Ann. Rev. Phytopathol. 23, 421-454.
+El-Ghaouth, A., Smilanick, J.L., Wilson, C.L., 2000. Enhancement of the
+performance of Candida saitoana by the addition of glycolchitosan for the
+control of postharvest decay of apple and citrus fruit. Postharvest Biol.
+Technol. 19, 103-110.
+Holmes, G.J., JW, E., 1999. Sensitivity of Penicillium digitatum and P. italicum to
+Postharvest Citrus Fungicides in California. Phytopathology 89, 716-721.
+Hong, P., Hao, W., Luo, J., Chen, S., Hu, M., Zhong, G., 2014. Combination of hot
+water, Bacillus amyloliquefaciens HF-01 and sodium bicarbonate treatments
+to control postharvest decay of mandarin fruit.Postharvest Biol. Technol. 88,
+96-102.
+Ippolito, A., Ghaouth, A.E., Wilson, C.L., Wisniewski, M., 2000. Control of
+postharvest decay of apple fruit by Aureobasidium pullulans and induction of
+defense responses. Postharvest Biol. Technol. 19, 265–272.
+Janisiewicz, W.J., Korsten, L., 2002. Biological control of postharvest diseases of
+fruits. Ann. Rev. Phytopathology 40, 411-441.
+Kinay, P., Mansour, M.F., Gabler, F.M., Margosan, D.A., Smilanick, J.L., 2007.
+Characterization of fungicide-resistant isolates of Penicillium digitatum
+
+24
+
+collected in California. Crop Prot. 26, 647–656.
+Lahlali, R., Hamadi, Y., Jijakli, M.H., 2011. Efficacy assessment of Pichia
+guilliermondii strain Z1, a new biocontrol agent, against citrus blue mould in
+Morocco under the influence of temperature and relative humidity. Biol.
+Control 56, 217-224.
+Lahlali, R., Serrhini, M., Jijakli, M., 2004. Efficacy assessment of Candida oleophila
+(strain O) and Pichia anomala (strain K) against major postharvest diseases of
+citrus fruits in Morocco. Commun. Agric. Appl. Biol. Sci. 69, 601-609.
+Lahlali, R., Serrhini, M., Jijakli, M., 2005. Development of a biological control
+method against postharvest diseases of citrus fruits. Commun. Agric. Appl.
+Biol. Sci. 47-58.
+Li, C., Zhang, H., Yang, Q., Komla, M.G., Zhang, X., Zhu, S., 2014. Ascorbic acid
+enhances oxidative stress tolerance and biological control efficacy of Pichia
+caribbica against postharvest blue mold decay of apples. J. Agric. Food Chem.
+62, 7612-7621.
+Liu, H., Guo, J., Cheng, Y., Liu, P., Long, C., Deng, B., 2010a. Inhibitory activity of
+tea polyphenol and Hanseniaspora uvarum against Botrytis cinerea infections.
+Letters in Appl. Microbiol. 51, 258-263.
+Liu, H.M., Guo, J.H., Cheng, Y.J., Luo, L., Liu, P., Wang, B.Q., Deng, B.X., Chao’an,
+A., 2010b. Control of gray mold of grape by Hanseniaspora uvarum and its
+effects on postharvest quality parameters. Annals Microbiol. 60, 31-35.
+Liu, J., Wisniewski, M., Droby, S., Vero, S., Tian, S., Hershkovitz, V., 2011. Glycine
+
+25
+
+betaine improves oxidative stress tolerance and biocontrol efficacy of the
+antagonistic yeast Cystofilobasidium infirmominiatum. Int. J. Food Microbiol.
+146, 76-83.
+Lu, L., Liu, Y., Yang, J., Azat, R., Yu, T., Zheng, X., 2014. Quaternary chitosan
+oligomers enhance resistance and biocontrol efficacy of Rhodosporidium
+paludigenum to green mold in satsuma orange. Carbohydr. Polym. 113,
+174-181.
+Macarisin, D., Droby, S., Bauchan, G., Wisniewski, M., 2010. Superoxide anion and
+hydrogen peroxide in the yeast antagonist–fruit interaction: a new role for
+reactive oxygen species in postharvest biocontrol. Postharvest Biol. Technol.
+58, 194-202.
+Manganaris, G., Vasilakakis, M., Diamantidis, G., Mignani, I., 2007. The effect of
+postharvest calcium application on tissue calcium concentration, quality
+attributes, incidence of flesh browning and cell wall physicochemical aspects
+of peach fruits. Food Chem. 100, 1385-1392.
+Montesinos-Herrero, C., Palou, L., 2010. Combination of physical and low-toxicity
+chemical postharvest treatments for integrated disease management of citrus
+fruit: A Review. Stewart Postharvest Rev. 6, 1-11(11).
+Norman, C., 1988. EPA sets new policy on pesticide cancer risks. Science 242,
+366-367.
+Nunes, C., Usall, J., Teixidó, N., Viñas, I., 2001. Biological control of postharvest
+pear diseases using a bacterium, Pantoea agglomerans CPA-2. Int. J. Food
+
+26
+
+Microbiol. 70, 53-61.
+Palou, L., Smilanick, J.L., Usall, J., Viñas, I., 2001. Control of postharvest blue and
+green molds of oranges by hot water, sodium carbonate, and sodium
+bicarbonate. Plant Dis. 85, 371-376.
+Qin, X., Xiao, H., Xue, C., Yu, Z., Yang, R., Cai, Z., Si, L., 2015. Biocontrol of gray
+mold in grapes with the yeast Hanseniaspora uvarum alone and in
+combination with salicylic acid or sodium bicarbonate. Postharvest Biol.
+Technol. 100, 160-167.
+Rodrigues, L.B., Santos, L.R.d., Tagliari, V.Z., Rizzo, N.N., Trenhago, G., Oliveira,
+A.P.d., Goetz, F., Nascimento, V.P.d., 2010. Quantification of biofilm
+production on polystyrene by Listeria, Escherichia coli and Staphylococcus
+aureus isolated from a poultry slaughterhouse. Brazilian J. Microbiol. 41,
+1082-1085.
+Rydhag, L., Wilton, I., 1981. The function of phospholipids of soybean lecithin in
+emulsions. J. Am. Oil Chem. Soc. 58, 830-837.
+Salvatore, D.A., Mario, S., Amedeo, P., Alberto, A., Paolo, C., Quirico, M., 2006.
+Residue levels and effectiveness of pyrimethanil vs imazalil when using
+heated postharvest dip treatments for control of Penicillium decay on citrus
+fruit. J. Agric. Food Chem. 54, 4721-4726.
+Sharma, R., Singh, D., Singh, R., 2009. Biological control of postharvest diseases of
+fruits and vegetables by microbial antagonists: A Review. Biol. Control 50,
+205-221.
+
+27
+
+Smilanick, J.L., 2004. Postharvest Diseases of Fruits and Vegetables: Development
+and Control: R. Barkai-Golan, Elsevier, Amsterdam, 2001, pp. 418, ISBN
+0-444-50584-9. Postharvest Biol. Technol. 31, 213.
+Spadaro, D., Gullino, M.L., 2004. State of the art and future prospects of the
+biological control of postharvest fruit diseases. Int. J. Food Microbiol. 91,
+185-194.
+Spotts, R.A., Cervantes, L.A., 1986. Populations, pathogenicity, and benomyl
+resistance of Botrytis spp., Penicillium spp., and Mucor piriformis in
+packinghouses. Plant Dis. 70, 106-108.
+Usall, J., Smilanick, J., Palou, L., Denis-Arrue, N., Teixidó, N., Torres, R., Viñas, I.,
+2008. Preventive and curative activity of combined treatments of sodium
+carbonates and Pantoea agglomerans CPA-2 to control postharvest green
+mold of citrus fruit. Postharvest Biol. Technol. 50, 1-7.
+Wright, K.P., Kader, A.A., 1997. Effect of controlled-atmosphere storage on the
+quality and carotenoid content of sliced persimmons and peaches. Postharvest
+Biol. Technol. 10, 89-97.
+Zhang, H.Y., Zheng, X.D., Xi, Y.F., 2005. Biological control of postharvest blue
+mold of oranges by Cryptococcus laurentii (Kufferath) Skinner. Biol. Control
+50, 331-342.
+Zhang, H.Y., Wang, L., Dong, Y., Jiang, S., Zhang, H.H., Zheng, X.D., 2008. Control
+of postharvest pear diseases using Rhodotorula glutinis and its effects on
+postharvest quality parameters. Int. J. Food Microbiol. 126, 167-171.
+
+28
+
+Table 1 Effects of H. uvarum Y3 combined with phosphatidylcholine on natural
+decay and storage quality of oranges at 20 °C for 30 days. The values are means ±
+standard deviations of three independent experiments, different letters represent
+significant difference (P < 0.05). CK: oranges treated with sterile distilled water as the
+control, Y: oranges treated with H. uvarum Y3, Y+1.5%P: oranges treated with H.
+uvarum Y3 combined with phosphatidylcholine (1.5%, w/v).
+Natural decay
+
+Weight loss
+
+Treatment
+(%)
+CK
+Y
+Y+1.5%P
+
+Titratable
+Firmness（N）
+
+44.444±8.420a
+
+（%）
+
+acidity（%）
+
+10.705±0.301a 11.745±0.795a 11.733±0.977a
+
+31.944±3.182b 10.043±0.409a 11.860±0.664a
+20.833±2.083c
+
+8.963±0.325b
+
+Vc（mg/100g）
+
+TSS（%）
+
+11.4±0.921a
+
+11.344±0.437a 11.567±0.175a
+
+29
+
+0.496±0.010a 18.183±0.040a
+0.505±0.005a 18.827±0.192a
+0.490±0.018a 19.044±0.732a
+
+Figure Captions:
+Fig. 1 Effect of H. uvarum Y3 at different concentrations on green mold incidence (A)
+and lesion diameter (B) in orange wounds at 20°C for 7 days. Bars represent standard
+errors. Within plots, means with the different letters are significantly different
+according to Duncan’s Multiple Range Test at P<0.05.
+
+Fig. 2 Effect of H. uvarum Y3 and phosphatidylcholine on green mold incidence (A)
+and lesion diameter (B) in orange wounds at 20°C for 7 days. Bars represent standard
+errors. Data in columns with the different letters are significantly different according
+to Duncan’s Multiple Range Test at P<0.05.
+
+Fig. 3 Effect of phosphatidylcholine at various concentrations on population
+dynamics of H. uvarum Y3 in NYDB. Bars represent standard errors. Data in columns
+with the different letters are significantly different according to Duncan’s Multiple
+Range Test at P<0.05.
+
+Fig. 4 Effect of phosphatidylcholine (1.5% w/v) in combination with H. uvarum Y3
+on green mold of oranges after inoculation with P. digitatum. Bars represent standard
+errors. Data in columns with the different letters are significantly different according
+to Duncan’s Multiple Range Test at P<0.05. CK: oranges treated with sterile distilled
+water as the control, 1.5%P: oranges treated with phosphatidylcholine (1.5%, w/v), Y:
+oranges treated with H. uvarum Y3, Y+1.5%P: oranges treated with H. uvarum Y3
+30
+
+combined with phosphatidylcholine (1.5%, w/v).
+
+Fig. 5 Control of P. digitatum on oranges by H. uvarum Y3 in combination with
+phosphatidylcholine (1.5% w/v). CK: oranges treated with sterile distilled water as the
+control, 1.5%P: oranges treated with phosphatidylcholine (1.5%, w/v), Y: oranges
+treated with H. uvarum Y3, Y+1.5%P: oranges treated with H. uvarum Y3 combined
+with phosphatidylcholine (1.5%, w/v).
+
+Fig. 6 Effect of phosphatidylcholine (1.5% w/v) on population dynamics of H.
+uvarum Y3 in wounds of oranges at 20°C. Bars represented standard errors. Data in
+columns with the different letters are significantly different according to Tukey's Test
+at P<0.05. Y: oranges treated with H. uvarum Y3, Y+1.5%P: oranges treated with H.
+uvarum Y3 combined with phosphatidylcholine (1.5%, w/v).
+
+Fig. 7 Effects of phosphatidylcholine and H. uvarum Y3 on spore germination (A)
+and mycelial development (B) of P. digitatum. Germination rate and mycelial
+development were measured by microscope and micrometer after 18 h incubation at
+25°C in PDB. Bars represent standard errors. Data in columns with different letters
+are statistically different according to Duncan’s Multiple Range Test at P<0.05
+
+31
+
+Fig.8 Scanned electron micrographs of the germination and growth of Penicillium
+digitatum in orange wounds treated with H. uvarum Y3 at 20°C for 6 days. Fruit
+treatments were as follows: A=CK (sterile distilled water), B= H. uvarum Y3 and C =
+H. uvarum Y3 combined with phosphatidylcholine
+
+32
+
+Figure1
+
+Figure2
+
+Figure3
+
+Figure4
+
+Figure5
+
+Figure6
+
+Figure7
+
+Figure8
+
+Highlights:
+
+
+
+H. uvarum significantly inhibited green mold of oranges.
+
+
+
+Phosphatidylcholine significantly improved the biocontrol efficacy of H. uvarum.
+
+
+
+Phosphatidylcholine increased the population of H. uvarum in orange wounds.
+
+
+
+Phosphatidylcholine and H. uvarum controlled germination of P. digitatum.
+
+33
+
+

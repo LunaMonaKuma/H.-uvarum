@@ -1,0 +1,1099 @@
+International Journal of Food Microbiology 108 (2006) 239 – 245
+www.elsevier.com/locate/ijfoodmicro
+
+Fermentation behaviour and metabolic interactions of multistarter
+wine yeast fermentations
+Maurizio Ciani ⁎, Luca Beco, Francesca Comitini
+Dipartimento di Scienze degli Alimenti, Università Politecnica delle Marche, via Brecce Bianche, 60121, Ancona, Italy
+Received 19 February 2005; received in revised form 3 August 2005; accepted 29 November 2005
+
+Abstract
+Multistarter fermentations of Hanseniaspora uvarum, Torulaspora delbrueckii and Kluyveromyces thermotolerans together with Saccharomyces
+cerevisiae were studied. In grape musts with a high sugar content, mixed trials showed a fermentation behaviour and analytical profiles of wines
+comparable to or better than those exhibited by a pure culture of S. cerevisiae. Sequential trials of T. delbrueckii and K. thermotolerans revealed a
+sluggish fermentation, while those of H. uvarum exhibited an unacceptable increase in ethyl acetate content (175 ml l− 1). A low fermentation
+temperature (15 °C) of multistarter trials of H. uvarum resulted in a stuck fermentation that was not due to a deficiency of assimilable nitrogenous
+compounds since lower amounts of these compounds were used. Sequential fermentation carried out by H. uvarum at 15 °C confirmed the high
+production of ethyl acetate. The persistence and level of non-Saccharomyces yeasts during multistarter fermentations under stress conditions (high
+ethanol content and/or low temperature) can cause stuck fermentations.
+© 2006 Elsevier B.V. All rights reserved.
+Keywords: Wine; Fermentation; Analytical profile; Hanseniaspora uvarum; Torulaspora delbrueckii; Kluyveromyces thermotolerans
+
+1. Introduction
+The natural fermentation of grape must is usually started by
+low-alcohol-tolerant apiculate yeasts (Kloeckera/Hanseniaspora) that predominate the first stages of fermentation. After
+3–4 days, they are replaced by elliptical yeasts (Saccharomyces
+cerevisiae) that continue and finish the fermentation process
+(Amerine et al., 1980; Martini, 1993). In addition, during the
+various stages of fermentation, it is possible to isolate other
+cultures belonging to other yeast genera, such as Candida,
+Torulaspora, Kluyveromyces and Metschnikowia (Fleet et al.,
+1984; Heard and Fleet, 1986; Pardo et al., 1989). Recently,
+there has been a re-evaluation of the role of non-Saccharomyces yeasts in winemaking (Fleet and Heard, 1993; Ciani,
+1997; Heard, 1999). Their presence and permanence throughout inoculated and non-inoculated fermentations are well
+documented (Heard and Fleet, 1985; Martinez et al., 1989), as
+
+⁎ Corresponding author. Tel.: +39 071 2204987; fax: +39 071 2204858.
+E-mail address: m.ciani@univpm.it (M. Ciani).
+0168-1605/$ - see front matter © 2006 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2005.11.012
+
+well as their contributions to the analytical composition and
+the sensorial characteristics of wine (Romano et al., 1992;
+Schütz and Gafner; Lema et al., 1996; Egli et al., 1998).
+Several studies have indicated that the contribution of nonSaccharomyces yeasts leads to a more complex aroma and an
+improved wine quality (Romano et al., 1997; Egli et al., 1998;
+Ciani and Maccarelli, 1998; Henick-Kling et al., 1998).
+However, natural multistarter cultures remain uncontrolled
+processes and multistarter cultures need to be used under
+better-defined conditions.
+For these reasons, several studies have evaluated the
+possibility of using controlled multistarter cultures to improve
+the quality of wines (Mora et al., 1990; Herraiz et al., 1990;
+Zironi et al., 1993; Ciani and Ferraro, 1996, 1998; Erten, 2002;
+Toro and Vazquez, 2002). In this context, our knowledge of the
+metabolic interactions between S. cerevisiae and non-Saccharomyces wine yeasts under winemaking conditions needs to be
+improved. Recently, the effect of oxygen on the survival of nonSaccharomyces yeasts (Hansen et al., 2001) and esters
+formation (Rojas et al., 2003) during mixed cultures has been
+investigated.
+
+240
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+
+CO2 evolved (g)
+
+A
+
+2. Materials and methods
+
+30
+25
+20
+15
+10
+5
+0
+
+2.1. Microorganisms and media
+
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+Time (days)
+
+B
+CO2 evolved (g)
+
+30
+25
+20
+15
+10
+5
+0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+Time (days)
+
+C
+CO2 evolved (g)
+
+30
+25
+20
+15
+10
+5
+0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+Time (days)
+Fig. 1. Fermentations at 20 °C. ■, pure S. cerevisiae culture. (A) □, mixed H.
+uvarum/S. cerevisiae culture. ♦, sequential H. uvarum/S. cerevisiae culture.
+⋄, pure H. uvarum culture. (B) □, mixed K. thermotolerans/S. cerevisiae
+culture. ♦, sequential K. Thermotolerans/S. cerevisiae culture. ⋄, pure K.
+thermotolerans culture. (C) □, mixed T. delbrueckii/S. cerevisiae culture. ♦,
+sequential T. delbrueckii/S. cerevisiae culture. ⋄, pure T. delbrueckii culture.
+
+In the present study, we report on the fermentation behaviour
+and the metabolic interactions of mixed and sequential cultures
+of S. cerevisiae and three potential non-Saccharomyces wine
+yeast starter species, Hanseniaspora uvarum, Torulaspora
+delbrueckii and Kluyveromyces thermotolerans.
+
+2.2. Fermentation conditions
+Duplicate experiments were carried out in 300 ml Erlenmeyer flasks containing 200 ml of grape must at 20 or 15 °C by
+inoculation with 48-h pre-cultures (grown in the same medium
+at 20 °C) to obtain an initial inoculation level of 106 cells ml− 1.
+Mixed fermentation trials were simultaneously inoculated with
+106 cells ml− 1 of the non-Saccharomyces cultures and 106 cells
+ml− 1 of the S. cerevisiae strain. Sequential fermentations trials
+were inoculated with 106 cells ml− 1 of the non-Saccharomyces
+
+B
+10
+
+10
+
+8
+
+8
+
+Log cfu/ml
+
+Log cfu/ml
+
+A
+
+S. cerevisiae DBVPG 1014, H. uvarum DBVPG 3037 and T.
+delbrueckii DBVPG 6168 were from the Industrial Yeast
+Collection of the University of Perugia (DBVPG), and K.
+thermotolerans (known as M8 (Ciani and Pepe, 2001) was
+isolated from the winery environment. All of the strains were
+sub-cultured at 6-month intervals on malt agar medium and
+maintained at 6 °C.
+The grape must used in the fermentation tests (cultivar pinot
+grigio, 18.5% (w/v) sugar, pH 3.10, 149.1 mg l− 1 ammonia,
+139.4 mg l− 1 primary amino acids) was brought to a sugar
+content of 27% (w/v) by the addition of sucrose, and pasteurized
+at 90 °C for 15 min.
+The total yeast populations were prepared in YPD medium
+(10 g l− 1 Bacto yeast extract, 10 g l− 1 Bacto peptone, 20 g l− 1
+glucose). Lysine agar (Unipath, Basingstoke Hampshire,
+England), which is unable to support the growth of S. cerevisiae
+(Lin, 1975), was used to assess the non-Saccharomyces yeasts.
+In order to check the S. cerevisiae populations, the following
+selective medium containing SO2 was used: YPD medium
+buffered at pH 3.0 (citrate–phosphate buffer) was used after
+sterilization and following the addition of a concentrated
+solution of SO2 (as K2O5S2) to achieve a final concentration
+in the medium of 50 mg l− 1 SO2. Plates with YPD medium were
+incubated at 25 °C for 2 days before counting, whereas plates
+with lysine agar were incubated at 25 °C for 4 days before
+counting.
+
+6
+Sp
+
+4
+
+Sm
+
+2
+
+6
+Sp
+4
+
+Ss
+
+2
+
+Hm
+
+0
+
+Hs
+
+incolumn
+
+0
+0
+
+7
+
+14
+
+21
+
+28
+
+Time (days)
+
+35
+
+42
+
+0
+
+7
+
+14
+
+21
+
+28
+
+35
+
+42
+
+Time (days)
+
+Fig. 2. Biomass evolution in S. cerevisiae/H. uvarum multistarter fermentations at 20 °C. ■, pure S. cerevisiae culture (S p). (A) □, mixed S. cerevisiae culture (S m).
+⋄, mixed H. uvarum culture (H m). (B) □, sequential S. cerevisiae culture (S s). ⋄, sequential H. uvarum culture (H s).
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+
+A
+
+241
+
+B
+8
+
+8
+
+Log cfu/ml
+
+10
+
+Log cfu/ml
+
+10
+
+6
+Sp
+4
+
+Sm
+Km
+
+2
+
+6
+Sp
+4
+
+Ss
+
+2
+
+0
+
+Ks
+
+inoculum
+
+0
+0
+
+7
+
+14
+
+21
+
+28
+
+35
+
+0
+
+42
+
+7
+
+14
+
+21
+
+28
+
+35
+
+42
+
+Time (days)
+
+Time (days)
+
+Fig. 3. Biomass evolution in S. cerevisiae/K. thermotolerans multistarter fermentations at 20 °C. ■, pure S. cerevisiae culture (S p). (A) □, mixed S. cerevisiae
+culture (S m). ⋄, mixed K. thermotolerans culture (K m). (B) □, sequential S. cerevisiae culture (S s). ⋄, sequential K. thermotolerans culture (K s).
+
+cultures with the addition of the S. cerevisiae after 4 days
+(fermentations at 20 °C) or 7 days (fermentations at 15 °C).
+After the aseptic stoppering of the flasks with a special valve
+containing sulphuric acid to allow only CO2 to escape from the
+system (Ciani and Rosini, 1987), the weight loss was followed
+for several days until the end of fermentation (constant weight
+for two consecutive days). Fermentations were carried out in
+static conditions.
+
+160 °C (4 °C min− 1). The temperature of the injector and the
+detector was 220 °C. Glucose and fructose (kit no. 139106)
+were determined by using specific enzymatic kits (Boehringer,
+Mannheim, Germany). Volatile acidity was quantified by steam
+distillation according to official analytical methods (EEC,
+1990). Ammonia was assayed by diagnostic kits (no. 171-UV,
+Sigma Aldrich, S. Louis MI), while primary amino acids
+(assimilable nitrogen) were evaluated following the procedures
+described by Dukes and Butzke (1998).
+
+2.3. Analytical determinations
+3. Results and discussion
+Viable cell counts were evaluated by a traditional plate
+counting technique using three different substrates, YPD
+medium, lysine agar, and YPD + SO2, to estimate the total
+yeast populations, the non-Saccharomyces yeasts, and the S.
+cerevisiae cultures, respectively.
+Ethanol was measured by gas-liquid chromatography (GLC)
+analysis (AOAC, 1990). Acetaldehyde, ethyl acetate and
+acetoin were determined by direct injection into the GLC
+system. Samples were injected into a 2 m by 2 mm (inner
+diameter) glass column packed with 80/100 Carbopack C/0.2%
+Carbowax 1500 (Supelco, Sigma-Aldrich, Milan, Italy), with an
+internal standard of 3-methyl-2-butanol. Nitrogen (20 ml
+min− 1) was used as the carrier gas. A Mega gas chromatograph
+(Carlo Erba, Milan, Italy), equipped with a flame ionization
+detector and linked to a DP 700 integrator (Carlo Erba, Milan,
+Italy), was used. The oven temperature ranged from 45 to
+
+A
+
+3.1. Course of fermentation and biomass evolution
+It is well known that non-Saccharomyces wine yeasts can
+influence the fermentation kinetics of fermentations inoculated
+with starter cultures of S. cerevisiae (Heard and Fleet, 1998;
+Erten, 2002). Our results for the fermentation kinetics of
+multistarter fermentations initially confirmed this behaviour
+(Fig. 1). All of the multistarter cultures showed a reduced
+fermentation rate when compared with the pure cultures of
+S. cerevisiae. Moreover, sequential trials showed a further
+decrease in comparison with mixed trials. However, the final
+CO2 evolution was quite similar between the pure and the
+multistarter fermentations at 20 °C.
+The evolution of viable cells of multistarter fermentations
+of S. cerevisiae/H. uvarum is shown in Fig. 2, where apiculate
+
+B
+10
+
+10
+
+8
+
+Log cfu/ml
+
+Log cfu/ml
+
+8
+6
+Sp
+
+4
+
+Sm
+
+2
+
+Tm
+
+0
+
+6
+Sp
+4
+
+Ss
+
+2
+
+Ts
+
+incolumn
+
+0
+0
+
+7
+
+14
+
+21
+
+28
+
+Time (days)
+
+35
+
+42
+
+0
+
+7
+
+14
+
+21
+
+28
+
+35
+
+42
+
+Time (days)
+
+Fig. 4. Biomass evolution in S. cerevisiae/T. delbrueckii multistarter fermentations at 20 °C. ■, pure S. cerevisiae culture (S p). (A) □, mixed S. cerevisiae culture
+(S m). ⋄, mixed T. delbrueckii culture (K m). (B) □, sequential S. cerevisiae culture (S s). ⋄, sequential T. delbrueckii culture (K s).
+
+242
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+
+Table 1
+Principal enological characters of multistarter fermentations at 20 °C
+Culture trial
+
+Ethanol
+(vol.%)
+
+Volatile acidity
+(g l− 1)
+
+Glucose residue
+(g l− 1)
+
+Fructose residue
+(g l− 1)
+
+Assimilable nitrogenous
+compounds used (mg l− 1)
+
+Pure S. cerevisiae
+Pure H. uvarum
+Mixed S. cerevisiae/H. uvarum
+Sequential S. cerevisiae/H. uvarum
+Pure K. thermotolerans
+Mixed S. cerevisiae/K. thermotolerans
+Sequential S. cerevisiae/K. thermotolerans
+Pure T. delbreueckii
+Mixed S. cerevisiae/T. delbreueckii
+Sequential S. cerevisiae/T. delbreueckii
+
+15.9 ± 0.1a
+4.5 ± 0.1b
+15.8 ± 0.1a
+16.0 ± 0.1a
+13.6 ± 0.8c
+15.9 ± 0.1a
+15.6 ± 0.2a
+10.7 ± 0.8c
+15.7 ± 0.1a
+15.6 ± 0.1a
+
+0.71 ± 0.01a
+1.24 ± 0.12b
+0.71 ± 0.05a
+0.66 ± 0.01a
+0.45 ± 0.05a c
+0.60 ± 0.14a
+0.51 ± 0.04a
+0.22 ± 0.04c
+0.40 ± 0.05c
+0.32 ± 0.04c
+
+0.0
+53.8 ± 2.0
+0.0
+0.0
+0.0
+0.0
+0.0
+31.3 ± 8.4
+0.0
+0.0
+
+0.0
+51.8 ± 2.3
+0.0
+0.0
+30.2 ± 0.5
+0.0
+2.9 ± 2.0
+70.5 ± 14.5
+1.9 ± 0.5
+5.5 ± 3.7
+
+236.7 ± 6.4a
+235.0 ± 1.0a
+193.9 ± 4.2b
+194.9 ± 5.3b
+236.0 ± 4.9a
+262.2 ± 0.9c
+259.9 ± 1.0c
+148.8 ± 6.0d
+145.4 ± 0.3d
+208.8 ± 0.6b
+
+The amount of sugar at the start was 270 g l− 1.
+The initial yeast assimilable nitrogenous compounds were 288.5 mg l− 1 (149.1 mg l− 1 ammonia and 139.4 mg l− 1 primary amino acids).
+Values are means ± standard deviations.
+Values displaying different superscript letters (a, b, c, d) within each column are different according to the Duncan test (0.01%).
+
+3.2. Analytical profile of wines
+The results of the principal enological characters of
+microfermentations of our H. uvarum/S. cerevisiae trials
+(Table 1) show that despite its consistent production of volatile
+Table 2
+Secondary products of multistarter fermentations at 20 °C
+Culture trial
+
+Acetaldehyde Ethyl acetate
+(mg l− 1)
+(mg l− 1)
+
+Pure S. cerevisiae
+99.7 ± 15.3a
+Pure H. uvarum
+72.5 ± 2.1b
+Mixed S. cerevisiae/H. uvarum
+69.0 ± 2.0b
+Sequential S. cerevisiae/H. uvarum 59.6 ± 2.2b
+Pure K. thermotolerans
+18.7 ± 1.4c
+Mixed S. cerevisiae/
+63.7 ± 6.6b
+K. thermotolerans
+Sequential S. cerevisiae/
+36.2 ± 10.1c
+K. thermotolerans
+Pure T. delbreueckii
+122.3 ± 2.1d
+Mixed S. cerevisiae/T. delbreueckii 66.9 ± 8.6b
+Sequential S. cerevisiae/
+32.5 ± 7.2c
+T. delbreueckii
+
+Acetoin
+(mg l− 1)
+
+59.6 ± 5.3a 11.9 ± 3.7a
+1606.0 ± 22.6b 87.7 ± 3.4b
+111.5 ± 18.0c 8.5 ± 6.8a
+180.9 ± 18.1d 6.9 ± 1.3a
+77.3 ± 0.3a
+3.4 ± 1.4a
+69.4 ± 1.3a
+7.5 ± 2.4a
+75.0 ± 7.6a
+
+2.2 ± 0.6a
+
+61.7 ± 13.9a
+59.7 ± 5.6a
+60.5 ± 5.8a
+
+7.3 ± 0.8a
+5.4 ± 0.8a
+2.7 ± 1.0a
+
+Values are means ± standard deviations.
+Values displaying different superscript letters (a, b, c, d) within each column are
+different according to the Duncan test (0.01%).
+
+compounds in pure culture, H. uvarum did not cause an increase
+in volatile acidity in mixed cultures (Erten, 2002). This
+behaviour was also confirmed in sequential cultures, where a
+prolonged cell survival of H. uvarum was seen (Fig. 2). Both
+mixed and sequential cultures did not show sugar residues,
+highlighting the correct evolution of the fermentations.
+Furthermore, in all multistarter trials, less nitrogen (present in
+non-deficient concentrations: 288.5 mg l− 1) was used than in
+pure cultures, indicating the absence of competition for
+assimilable nitrogenous compounds between the apiculate and
+the S. cerevisiae yeasts.
+In both the K. thermotolerans/S. cerevisiae and the
+T. delbrueckii/S. cerevisiae multistarter trials, acetic acid
+production was lower than that seen for pure S. cerevisiae
+cultures, confirming the peculiar characteristic under these
+conditions, of the low acetic acid production of these yeasts
+(Castelli, 1969; Mora et al., 1990). In contrast to the mixed
+fermentations that did not exhibit sugar residues (b2 g l− 1),
+sequential trials exhibited fructose residues, confirmed by a
+feeble reduction of final ethanol concentration compared with
+the pure cultures of S. cerevisiae showing a sluggish
+fermentation. Moreover, in both mixed and sequential cultures
+of T. delbrueckii/S. cerevisiae, lower assimilable nitrogenous
+compound consumption was seen than that exhibited by pure
+S. cerevisiae cultures, showing a similar behaviour to the
+30
+
+CO2 evolved (g)
+
+yeasts in sequential cultures exhibited a persistence and
+amounts of cells higher than those seen for mixed trials.
+As expected, in multistarter cultures, S. cerevisiae did not
+reach the cell concentration of a pure culture (approximately
+108 CFU ml− 1).
+The biomass evolutions of multistarter trials of K. thermotolerans/S. cerevisiae cultures and T. delbrueckii/S. cerevisiae
+cultures are shown in Figs. 3 and 4, respectively. These show
+that in mixed trials, non-Saccharomyces yeasts persist during
+the first stages of fermentation (10–14 days), while in the
+sequential cultures they persist for longer period (21–28 days).
+Moreover, in sequential cultures, both non-Saccharomyces
+yeasts were the dominant species also after the inoculation of
+the S. cerevisiae strain (for 7–10 days).
+
+25
+20
+15
+10
+5
+0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+Time (days)
+Fig. 5. Fermentations at 15 °C. ■, pure S. cerevisiae culture. □, mixed H.
+uvarum/S. cerevisiae culture. ♦, sequential H. uvarum/S. cerevisiae culture.
+⋄, pure H. uvarum culture.
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+
+243
+
+Table 3
+Enological profiles of multistarter fermentations of S. cerevisiae and H. uvarum at 15 °C
+Culture trial
+
+Ethanol
+(vol.%)
+
+Volatile
+acidity (g l− 1)
+
+Glucose
+residue (g l− 1)
+
+Fructose
+residue (g l− 1)
+
+Assimilable nitrogenous
+compounds used (mg l− 1)
+
+Pure S. cerevisiae
+Pure H. uvarum
+Mixed S. cerevisiae/
+H. uvarum
+Sequential S. cerevisiae/
+H. uvarum
+
+15.4 ± 0.4a
+4.3 ± 0.2b
+14.1 ± 0.6c
+
+0.78 ± 0.08a
+0.99 ± 0.20a
+0.78 ± 0.11a
+
+0.0
+67.3 ± 3.0
+0.0
+
+7.9 ± 1.6
+52.7 ± 1.1
+25.0 ± 14.2
+
+234.0 ± 5.0a
+127.5 ± 1.0b
+214.3 ± 14.6ac
+
+14.2 ± 0.1c
+
+0.71 ± 0.01a
+
+3.3 ± 1.3
+
+30.6 ± 0.5
+
+196.4 ± 8.4c
+
+Acetaldehyde
+(mg l− 1)
+
+Ethyl acetate
+(mg l−1)
+
+Acetoin
+(mg l−1)
+
+50.3 ± 4.4a
+24.2 ± 2.8b
+72.1 ± 2.1a
+
+64.9 ± 6.1a
+648.0 ± 11.1b
+117.0 ± 19.2c
+
+3.3 ± 0.7a
+340.1 ± 4.4b
+12.1 ± 4.8a
+
+100.6 ± 7.6c
+
+263.4 ± 13.6d
+
+15.6 ± 1.5a
+
+The amount of sugar at the start was 270 g l− 1.
+The initial yeast assimilable nitrogenous compounds were 288.5 mg l− 1 (149.1 mg l− 1 ammonia, 139.4 mg l− 1 primary amino acids).
+Values are means ± standard deviations.
+Values displaying different superscript letters (a, b, c, d) within each column are different according to the Duncan test (0.01%).
+
+H. uvarum strain. In contrast, all of the K. thermotolerans/
+S. cerevisiae trials exhibited an increase in nitrogen consumption, suggesting possible competition at the critical nitrogen
+concentrations during mixed and sequential fermentations.
+Evaluations of some of the volatile compounds confirmed
+that apiculate yeasts consistently formed higher amounts of
+ethyl acetate in pure cultures (Table 2) (Ciani and Picciotti,
+1995; Ciani and Maccarelli, 1998; Romano, 2002). In mixed
+and sequential cultures, apiculate yeasts influenced the final
+amounts of ethyl acetate in wines. However, in mixed cultures,
+the levels of ethyl acetate concentrations achieved could
+contribute to the fruity notes and add to the general complexity
+(Gil et al., 1996; Ciani, 1997), while the sequential cultures
+surpassing the threshold taste level (150 mg l− 1) (Jackson,
+1994) produced a sour-vinegar off odour.
+The amounts of ethyl acetate produced by apiculate yeasts
+appear to be linked to their level of contribution to the
+fermentation (more in sequential than in mixed cultures). These
+results are of interest considering the possible use of apiculate
+yeasts in winemaking. A different behaviour was shown by
+H. uvarum regarding acetoin production in multistarter trials.
+Pure cultures of H. uvarum were high producers of acetoin
+(Table 2), confirming the results of previous studies (Ciani and
+Picciotti, 1995; Ciani and Maccarelli, 1998; Romano, 2002).
+However, in contrast to this ethyl acetate production, in
+multistarter fermentations the presence of apiculate yeasts did
+not cause an increase in acetoin, which was probably
+
+3.3. Influence of low temperature on apiculate multistarter
+cultures
+Since several studies have indicated a higher persistence of
+apiculate yeasts and different fermentation behaviours at low
+temperatures (Gao and Fleet, 1988; Heard and Fleet, 1988;
+Erten, 2002), we investigated the influence of low temperature
+on the fermentation behaviour of H. uvarum in multistarter
+cultures. Fermentations carried out at 15 °C showed that the
+pure S. cerevisiae cultures had a limited sugar residue (8 g l− 1
+fructose). Mixed and sequential trials of H. uvarum/
+S. cerevisiae carried out at this temperature showed a reduction
+in CO2 formation and lower amounts of ethanol production, as
+
+B
+10
+
+10
+
+8
+
+8
+
+Log cfu/ml
+
+Log cfu/ml
+
+A
+
+metabolised by the actively fermenting S. cerevisiae yeast
+strain (Romano, 2002).
+The amounts of acetaldehyde, an important by-product of
+fermentation (Ciani, 1997), did not appear to be negatively
+influenced by mixed or sequential cultures of H. uvarum, since
+lower amounts were exhibited in the presence of apiculate yeasts.
+As expected, K. thermotolerans and T. delbrueckii multistarter trials did not cause substantial modifications in the
+secondary products evaluated, as compared with the pure
+S. cerevisiae cultures. Moreover, the constant reduction of
+acetaldehyde content in multistarter fermentations of these two
+species compared with pure culture of S. cerevisiae is also worth
+highlighting.
+
+6
+Sp
+
+4
+
+Sm
+
+2
+
+6
+Sp
+4
+
+Ss
+inoculum
+
+2
+
+Hm
+
+0
+
+Hs
+
+0
+0
+
+7
+
+14
+
+21
+
+28
+
+Time (days)
+
+35
+
+42
+
+0
+
+7
+
+14
+
+21
+
+28
+
+35
+
+42
+
+Time (days)
+
+Fig. 6. Biomass evolution in S. cerevisiae/H. uvarum multistarter fermentations at 15 °C. ■, pure S. cerevisiae culture (S p). (A) □, mixed S. cerevisiae culture (S m).
+⋄, mixed H. uvarum culture (H m). (B) □, sequential S. cerevisiae culture (S s). ⋄, sequential H. uvarum culture (H s).
+
+244
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+
+compared to the pure cultures of S. cerevisiae (Fig. 5, Table 3).
+This lower fermentation activity was confirmed by a consistent
+presence of final sugar residues, indicating a stuck fermentation. However, this reduced fermentation activity was not due
+to a deficiency of assimilable nitrogenous compounds, since
+lower amounts of these compounds were used (Table 3). At the
+low fermentation temperature, all multistarter trials showed
+higher cell numbers and increases in persistence of viable
+biomass of H. uvarum than was seen at 20 °C (Fig. 6),
+confirming the results of previous studies (Heard and Fleet,
+1988; Erten, 2002). With respect to the analytical compounds,
+the fermentations of apiculate yeasts at 15 °C confirmed the
+behaviours showed at 20 °C.
+4. Conclusions
+To enhance the complexity of wine flavours in winemaking,
+multistarter fermentations could be an interesting alternative to
+a guided fermentation using a starter culture of S. cerevisiae
+(Grossman et al., 1996; Ciani, 2001). In this context, interactive
+behaviours between the different species need to be considered
+(Fleet, 2003). The results of the present study show that mixed
+fermentations of all of the species evaluated do not negatively
+influence the evolution of fermentation and wine flavour,
+producing dry wines with similar or better analytical profiles to
+those produced by pure S. cerevisiae cultures. Due to the higher
+persistence of non-Saccharomyces yeasts during fermentation,
+the sequential trials show some possible limitations. Sequential
+cultures of T. delbrueckii and K. thermotolerans cause a limited
+sugar residue, indicating the endurance of fermentation, while
+sequential trials with H. uvarum reveal an excessive increase in
+ethyl acetate, which surpasses the threshold taste level
+(150 mg l− 1) (Jackson, 1994). Low temperatures (15 °C)
+negatively influence the evolution of fermentations, causing
+stuck multistarter fermentations of H. uvarum. This behaviour
+does not appear to be due to the competition for nitrogen, but
+rather to the competition for other nutrients (e.g. thiamine)
+(Bisson, 1999).
+In conclusion, multistarter fermentations of H. uvarum, T.
+delbrueckii and K. thermotolerans are influenced by the level
+and persistence of these yeasts during fermentation. Prolonged
+persistence and high levels of these yeast species during
+multistarter fermentations could result in stress conditions (high
+ethanol contents and/or low temperatures), stuck or sluggish
+fermentations.
+References
+Amerine, M.A., Kunkee, R.E., Ough, C.S., Singleton, V.L., Webb, A.D., 1980.
+The Technology of Wine Making, 2th edn. AVI Publishing, Westport.
+AOAC (Association of Official Analytical Chemists), 1990. 15th edn. Official
+Methods of Analyses, vol. 2. AOAC Publisher, VA, USA, p. 700.
+Bisson, F.L., 1999. Stuck and sluggish fermentations. Am. J. Enol. Vitic. 50,
+107–119.
+Castelli, T., 1969. Vino al microscopio. Scialpi Editore, Roma, Italy.
+Ciani, M., 1997. Role, enological properties and potential use of nonSaccharomyces wine yeasts. In: Pandalai, S.G. (Ed.), Recent Res. Develop.
+Microbiol., vol. 1. Research Signpost, Kerala, India, pp. 317–331.
+
+Ciani, M., 2001. Wine fermentation by multistarter inoculum. Ind. Bevande 30,
+35–39.
+Ciani, M., Ferraro, L., 1996. Enhanced glycerol content in wines made with
+immobilized Candida stellata cells. Appl. Environ. Microbiol. 62,
+128–132.
+Ciani, M., Ferraro, L., 1998. Combined use of immobilized Candida stellata
+cells and Saccharomyces cerevisiae to improve the quality of wines. J. Appl.
+Microbiol. 85, 247–254.
+Ciani, M., Maccarelli, F., 1998. Oenological properties of non-Saccharomyces
+yeasts associated with wine-making. World J. Microbiol. Biotechnol. 14,
+199–203.
+Ciani, M., Pepe, V. Evidence for yeast flora selection by the winery
+environment. 52° Annual Meeting ASEV, S. Diego, CA, USA, 28–30
+June 2001.
+Ciani, M., Picciotti, G., 1995. The growth kinetics and fermentation behaviour
+of some non-Saccharomyces yeasts associated with wine-making. Biotechnol. Lett. 17, 1247–1250.
+Ciani, M., Rosini, G., 1987. Definizione dell'indice di moltiplicazione della CO2
+nella valutazione, per via ponderale, della capacità alcoligena di un lievito.
+Ann. Fac. Agr. Univ. Perugia 41, 753–762.
+Dukes, B.C., Butzke, C.E., 1998. Rapid determination of primary amino acids in
+grape juice using an o-Phthaldialdehyde/N-Acetyl-L-Cysteine Spectrophotometric Assay. Am. J. Enol. Vitic. 49, 125–134.
+EEC, 1990. Methods of community analyses of wines. Regulation n. 2676/90 of
+the Commission September 17, 1990. Brussels.
+Egli, C.M., Ediger, W.D., Mitrakul, C.M., Henick-Kling, T., 1998. Dynamics of
+indigenous and inoculated yeast populations and their effects on the sensory
+character of Riesling and Chardonnay wines. J. Appl. Microbiol. 85,
+779–789.
+Erten, H., 2002. Relations between elevated temperatures and fermentation
+behaviour of Kloeckera apiculata and Saccharomyces cerevisiae associated
+with winemaking in mixed cultures. World J. Microbiol. Biotechnol. 18,
+373–378.
+Fleet, G.H., 2003. Yeast interactions and wine flavour. Int. J. Food Microbiol.
+86, 11–22.
+Fleet, G.H., Heard, G.M., 1993. Yeasts-growth during fermentation. In: Fleet, G.
+H. (Ed.), Wine Microbiology and Biotechnology. Harwood Academic
+Publishers, Chur, Switzerland, pp. 27–54.
+Fleet, G.H., Lafon-Lafourcade, S., Ribéreau-Gayon, P., 1984. Evolution of
+yeasts and lactic acid bacteria during fermentation and storage of Bordeaux
+wines. Appl. Environ. Microbiol. 48, 1034–1038.
+Gao, C., Fleet, G.H., 1988. The effects of temperature and pH on the ethanol
+tolerance of the wine yeasts, Saccharomyces cerevisiae, Candida stellata
+and Kloeckera apiculata. J. Appl. Bacteriol. 65, 405–410.
+Gil, J.V., Mateo, J.J., Jiménez, M., Pastor, A., Huerta, T., 1996. Aroma
+compounds in wine ad influenced by apiculate yeasts. J. Food Sci. 61,
+1247–1266.
+Grossman, M., Linsemeyer, H., Muno, H., Rapp, A., 1996. Use of oligo-strain
+yeast cultures to increase complexity of wine aroma. Vitic. Enol. Sci. 51,
+175–179.
+Hansen, E.H., Nissen, P., Sommer, P., Nielsen, J.C., Arneborg, N., 2001. The
+effect of oxygen on the survival of non-Saccharomyces yeasts during mixed
+culture fermentations of grape juice with Saccharomyces cerevisiae. J. Appl.
+Microbiol. 91, 541–547.
+Heard, G.M., 1999. Novel yeasts in winemaking — looking to the future. Food
+Aust. 51, 347–352.
+Heard, G.M., Fleet, G.H., 1985. Growth of natural yeast flora during the
+fermentation of inoculated wines. Appl. Environ. Microbiol. 50, 727–728.
+Heard, G.M., Fleet, G.H., 1986. Occurrence and growth of yeast species during
+the fermentation of some Australian wines. Food Technol. Austr. 38,
+22–25.
+Heard, G.M., Fleet, G.H., 1988. The effects of temperature and pH on the
+growth of yeast species during the fermentation of grape juice. J. Appl.
+Bacteriol. 65, 23–28.
+Henick-Kling, T., Ediger, W.D., Daniel, P., Monk, P., 1998. Selective effects of
+sulfur dioxide and yeast starter culture addition on indigenous yeast
+populations and sensory characteristics of wine. J. Appl. Microbiol. 84,
+865–876.
+
+M. Ciani et al. / International Journal of Food Microbiology 108 (2006) 239–245
+Herraiz, T., Reglero, G., Herraiz, M., Martin-Alvarez, P.J., Cabezudo, M., 1990.
+The influence of the yeast and type of culture on the volatile composition of
+wine fermented without sulfur dioxide. Am. J. Enol. Vitic. 41, 313–318.
+Jackson, R., 1994. Wine Science. Principles and Applications. Academic Press,
+San Diego, USA, pp. 178–219.
+Lema, C., Garcia-Jares, C., Orriols, I., Angulo, L., 1996. Contribution of
+Saccharomyces and non-Saccharomyces populations to the production of
+some components of Albariño wine aroma. Am. J. Enol. Vitic. 47, 206–216.
+Lin, Y., 1975. Detection of wild yeasts in the brewery. Efficiency of differential
+media. J. Inst. Brew. 81, 410–417.
+Martinez, J., Millan, C., Ortega, J.M., 1989. Growth of natural flora during the
+fermentation of inoculated musts from ‘Pedro Ximenez’ grapes. South
+Africa J. Enol. Vitic. 10, 31–35.
+Martini, A., 1993. Origin and domestication of the wine yeast Saccharomyces
+cerevisiae. J. Wine Res. 3, 165–176.
+Mora, J., Barbas, J.I., Mulet, A., 1990. Growth of yeast species during the
+fermentation of musts inoculated with Kluyveromyces thermotolerans and
+Saccharomyces cerevisiae. Am. J. Enol. Vitic. 41, 156–159.
+Pardo, I., Garcìa, M.J., Zuniga, M., Uruburu, F., 1989. Dynamics of microbial
+populations during fermentations of wines from the Utiel Requena region of
+Spain. Appl. Environ. Microbiol. 55, 539–541.
+
+245
+
+Rojas, V., Gil, J.V., Piñaga, F., Manzanares, P., 2003. Acetate ester formation in
+wine by mixed cultures in laboratory fermentations. Int. J. Food Microbiol.
+86, 181–188.
+Romano, P., 2002. Role of apiculate yeasts on organoleptic characteristics of
+wine. In: Ciani, M. (Ed.), Biodiversity and Biotechnology of Wine Yeasts.
+Research Signpost, Kerala, India, pp. 99–109.
+Romano, P., Suzzi, G., Comi, G., Zironi, R.J., 1992. Higher alcohol and acetic
+acid production by apiculate wine yeasts. J. Appl. Bacteriol. 73, 126–130.
+Romano, P., Suzzi, G., Comi, G., Zironi, R., Maifreni, M., 1997. Glycerol and
+other fermentation products of apiculate wine yeasts. J. Appl. Microbiol. 82,
+615–618.
+Schütz, M., Gafner, J. Analysis of yeast diversity during spontaneous and
+induced alcoholic.
+Toro, M.E., Vazquez, F., 2002. Fermentation behaviour of controlled mixed and
+sequential cultures of Candida cantarellii and Saccharomyces cerevisiae
+wine yeasts. World J. Microbiol. Biotechnol. 18, 347–354.
+Zironi, R., Romano, P., Suzzi, G., Battistuta, F., Comi, G., 1993. Volatile
+metabolites produced in wine by mixed and sequential cultures of
+Hanseniaspora guilliermondii or Kloeckera apiculata and Saccharomyces
+cerevisiae. Biotechnol. Lett. 15, 235–238.
+
+

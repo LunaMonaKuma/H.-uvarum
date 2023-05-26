@@ -1,0 +1,5085 @@
+Accepted Manuscript
+Efficacy of gaseous ozone to counteract postharvest table grape sour rot
+L. Pinto, L. Caputo, L. Quintieri, S. de Candia, F. Baruzzi
+PII:
+
+S0740-0020(16)31111-X
+
+DOI:
+
+10.1016/j.fm.2017.05.001
+
+Reference:
+
+YFMIC 2787
+
+To appear in:
+
+Food Microbiology
+
+Received Date: 28 December 2016
+Revised Date:
+
+28 April 2017
+
+Accepted Date: 1 May 2017
+
+Please cite this article as: Pinto, L., Caputo, L., Quintieri, L., de Candia, S., Baruzzi, F., Efficacy of
+gaseous ozone to counteract postharvest table grape sour rot, Food Microbiology (2017), doi: 10.1016/
+j.fm.2017.05.001.
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+ACCEPTED MANUSCRIPT
+1
+
+Efficacy of gaseous ozone to counteract postharvest table grape sour rot
+
+2
+
+Pinto L., Caputo L., Quintieri L., de Candia S. and Baruzzi F.*
+
+3
+
+Institute of Sciences of Food Production, National Research Council of Italy, Via G. Amendola
+
+5
+
+122/O, 70126 Bari, Italy
+
+RI
+PT
+
+4
+
+6
+7
+
+9
+
+SC
+
+8
+
+*Corresponding author. Institute of Sciences of Food Production, National Research Council of
+Italy, Via G. Amendola 122/O, 70126 Bari, Italy. Tel.: +39 080 5929319
+
+11
+
+E-mail address: federico.baruzzi@ispa.cnr.it (Baruzzi F.)
+
+M
+AN
+U
+
+10
+
+AC
+C
+
+EP
+
+TE
+D
+
+12
+
+1
+
+ACCEPTED MANUSCRIPT
+Abstract
+
+14
+
+This work aims at studying the efficacy of low doses of gaseous ozone in postharvest control of the
+
+15
+
+table grape sour rot, a disease generally attributed to a consortium of non-Saccharomyces yeasts
+
+16
+
+(NSY) and acetic acid bacteria (AAB). Sour rot incidence of wounded berries, inoculated with 8
+
+17
+
+NSYstrains, or 7 AAB, or 56 yeast-bacterium associations, was monitored at 25 °C up to six days.
+
+18
+
+Sour rot incidence in wounded berries inoculated with yeast-bacterium associations resulted higher
+
+19
+
+than in berries inoculated with one single NSY or AAB strain. Among all NSY-AAB associations,
+
+20
+
+the yeast-bacterium association composed of Candida zemplinina CBS 9494 (Cz) and Acetobacter
+
+21
+
+syzygii LMG 21419 (As) showed the highest prevalence of sour rot; thus, after preliminary in vitro
+
+22
+
+assays, this simplified As-Cz microbial consortium was inoculated in wounded berries that were
+
+23
+
+stored at 4 °C for ten days under ozone (2.14 mg m-3) or in air. At the end of cold storage, no
+
+24
+
+berries showed sour-rot symptoms although ozonation mainly affected As viable cell count. After
+
+25
+
+additional 12 days at 25 °C, the sour rot index of inoculated As-Cz berries previously cold-stored
+
+26
+
+under ozone or in air accounted for 22.6 ± 3.7 % and 66.7 ± 4.5 %, respectively. Molecular analyses
+
+27
+
+of dominant AAB and NSY populations of both sound and rotten berries during post-
+
+28
+
+refrigeration period revealed the appearance of new strains mainly belonging to Gluconobacter
+
+29
+
+albidus and Hanseniaspora uvarum species, respectively. Cold ozonation resulted an effective
+
+30
+
+approach to extend the shelf-life of table grapes also after cold storage.
+
+32
+33
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+31
+
+RI
+PT
+
+13
+
+Keywords: grape decay, microbial control, shelf-life, ethanol, acetic acid
+
+2
+
+ACCEPTED MANUSCRIPT
+1.Introduction
+
+35
+
+Italy is one of the leading grape (Vitis vinifera L.) producers and consumers, and is also among the
+
+36
+
+most important trade markets for this fruit in the world (USDA-FAS, 2014; 2015). The
+
+37
+
+marketability of this product is strongly affected by postharvest microbial tissue decay resulting in
+
+38
+
+undesirable physiological and chemico-physical changes and shelf-life reduction.
+
+39
+
+Sour rot is a grape disease (Guerzoni and Marchetti, 1987; Nigro et al., 2006) caused by
+
+40
+
+opportunistic non-Saccharomyces yeasts (NSY) and acetic acid bacteria (AAB) (Barata et al., 2008;
+
+41
+
+Barata et al., 2012b, c; Loureiro et al., 2012) mainly affecting late ripening cultivars under
+
+42
+
+postharvest conditions (Hashim-Buckey et al., 2008; Puelles Tamsec and Sepulveda Ramirez,
+
+43
+
+2012). Rotten bunches show a strong and pungent odour of vinegar as the result of the production
+
+44
+
+of microbial metabolites such as acetic acid, glycerol, ethyl acetate, ethanol, galacturonic acid,
+
+45
+
+acetaldehyde and gluconic acid (Marchetti et al., 1984; Zoecklein et al., 2001). In particular, acetic
+
+46
+
+and gluconic acid are usually considered chemical markers of sour rot development (Barata et al.,
+
+47
+
+2012c).
+
+48
+
+The NSY-AAB consortium can be composed of different microbial species such as Acetobacter
+
+49
+
+malorum, A. cibinongensis, Gluconobacter oxydans, Pichia terricola, Hanseniaspora uvarum,
+
+50
+
+Candida zemplinina, and Zygoascus hellenicus as recently reported by Barata et al. (2012c).
+
+51
+
+The severity of grape sour rot is strongly promoted by the action of Drosophila spp. flies, attracted
+
+52
+
+by volatile organic compounds released from sour rotten berries, that contribute to inoculate and
+
+53
+
+disperse sour rot related microorganisms (Barata et al., 2012c).
+
+54
+
+To date, the control of microbial spoilage of table grapes under postharvest conditions is almost
+
+55
+
+exclusively performed by using sulphur dioxide fumigation or applying SO2-releasing pads (Lichter
+
+56
+
+et al., 2006). However, excess of sulphur dioxide induces fruit and stem bleaching (Snowdown,
+
+57
+
+1990; Crisosto and Mitchell, 2002) and may result in sulphite accumulation on table grape;
+
+58
+
+thus, the content of sulphur dioxide residuals is internationally regulated (EPA, 1989; EU
+
+59
+
+directive 2006/52/CE). Therefore, alternative tools for controlling postharvest decays of table
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+34
+
+3
+
+ACCEPTED MANUSCRIPT
+grapes such as natural antimicrobials, decontaminating agents and physical methods have been
+
+61
+
+recently proposed (Romanazzi et al., 2012). Among alternative postharvest decay control means
+
+62
+
+(Feliziani et al., 2016; Pinto et al., 2015; 2016), ozone is increasingly gaining success owing to its
+
+63
+
+broad antimicrobial spectrum and the lack of harmful residues, so as to be a compound generally
+
+64
+
+recognised as safe (GRAS; Graham et al. 1997; FDA, 2001). High ozone concentrations were
+
+65
+
+effective in controlling the germination of Botrytis cinerea conidia reducing grey mould
+
+66
+
+development during grape cold storage (Gabler et al., 2010; Ozkan et al., 2011). Low doses of
+
+67
+
+gaseous ozone (0.21-0.31 mg m-3) were also successfully used to limit the spread of grey mould on
+
+68
+
+grape during postharvest refrigerated period (Feliziani et al., 2014). The antimicrobial action of
+
+69
+
+ozone is generally attributed to its oxidant activity, also sustained by the release of reactive
+
+70
+
+oxygen species, causing microbial cell membrane disruption, enzyme inactivation and nucleic
+
+71
+
+acids damages (Hinze et al., 1987; Khadre et al., 2001).
+
+72
+
+Despite these results, to the best of our knowledge, there are no studies reporting antimicrobial
+
+73
+
+efficacy of ozone treatments against the yeast-bacterium consortium responsible for grape sour
+
+74
+
+rot. Thus, in this work one single yeast-bacterium consortium responsible for grape sour rot
+
+75
+
+was selected. Then, ozone treatments were carried out to reduce viable load of selected
+
+76
+
+microbial consortium when inoculated healthy berries to counteract sour rot development
+
+77
+
+during cold storage and post-refrigeration period.
+
+79
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+78
+
+RI
+PT
+
+60
+
+80
+
+2. Materials and Methods
+
+81
+
+The flow chart, describing the experiments carried out in this work, is depicted in Fig. 1.
+
+82
+83
+
+2.1 Yeast and bacteria strains and culture conditions
+
+84
+
+In this work, eight yeast strains (Candida vanderwaltii CBS 5524, C. zemplinina CBS 9494;
+
+85
+
+Hanseniaspora guilliermondii DSM 3432, H. meyerae CBS 8734, H. uvarum CBS 2585,
+4
+
+ACCEPTED MANUSCRIPT
+Zygoascus hellenicus CBS 6736, Z. meyerae CBS 4099, Z. meyerae CBS 6173) and seven AAB
+
+87
+
+(Acetobacter aceti LMG 1504, A. malorum LMG 1746, A. orleanensis LMG 1583, A. syzygii LMG
+
+88
+
+21419, Gluconacetobacter intermedius LMG 18909, Gl. saccharivorans LMG 1582 and
+
+89
+
+Gluconobacter oxydans LMG 1408) were chosen as representative strains of species usually
+
+90
+
+identified in rotten berries and putatively involved in sour rot (Barata et al., 2012b; Barata et al.,
+
+91
+
+2012c).
+
+92
+
+They were purchased from BCCM/LMG Bacteria Collection and CBS-KNAW Fungal Biodiversity
+
+93
+
+Centre and Leibniz-Institut DSMZ, German Collection of Microorganisms and Cell Cultures,
+
+94
+
+respectively. Bacteria were grown in YPM broth (D-mannitol 2.5 %; yeast extract 0.5 %; peptone
+
+95
+
+0.3 %) for 72 h at 30 °C in mild stirring whilst yeasts were grown in YPD broth (glucose 2 %; yeast
+
+96
+
+extract 0.5 %; peptone 1%) at 30 °C for 48 h. Gl. intermedius LMG 18909 was grown in 10 mL of
+
+97
+
+AE medium (glucose 1 %; yeast extract 0.2 %; peptone 0.3 %; acetic acid (100%) 1% v/v; ethanol
+
+98
+
+(96%) 2% v/v) for 5 days at 30 °C. All strains were stored in Nutrient Broth (NB; Becton Dickinson
+
+99
+
+Difco) with 20% glycerol at -80 °C in the Agro-Food Microbial Culture Collection (ITEM) at the
+
+100
+
+Institute of Sciences of Food Production of Bari, Italy (http://server.ispa.cnr.it/ITEM/Collection/).
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+101
+
+RI
+PT
+
+86
+
+2.2 Sour rot development assay
+
+103
+
+The ability of NSY and AAB strains to cause sour rot on berries was evaluated as shown in Fig. 1
+
+104
+
+panel A1. Healthy grape berries of table grape cv. Sublima, received from the packing house
+
+105
+
+Giuliano Srl (Apulia, Turi, Italy), were detached from the bunches, removing the pedicel, surface-
+
+106
+
+sterilized with 2 % sodium hypochlorite for 5 min, rinsed with sterile tap water, air-dried for 30 min
+
+107
+
+under a laminar flow cabinet and then inoculated with 1 x105 cfu berry-1 of single NSY strains (8),
+
+108
+
+or AAB strains (7) or their associations (56). Control samples were represented by berries without
+
+109
+
+pedicel amended or not with sterile saline solution, and by intact berries inoculated or not with
+
+110
+
+strains. The preparation of fresh microbial broth cultures for berry inoculation is explained in
+
+111
+
+the supplementary material section (SM 1).
+
+AC
+C
+
+EP
+
+102
+
+5
+
+ACCEPTED MANUSCRIPT
+Rotten berries, characterized by skin and pulp browning, dehydration, loss of grape juice and
+
+113
+
+vinegar odor, were enumerated after 3 and 6 days of incubation at 25 °C. The assay was performed
+
+114
+
+in triplicate (fifteen berries for each technical replicate; N = 3), measuring pH, redox potential and
+
+115
+
+colorimetric coordinates as detailed in the supplementary material section (SM 1). At the end of
+
+116
+
+experiments, the yeast-bacterium association showing the highest sour rot incidence was defined
+
+117
+
+as a simplified microbial consortium and subsequently evaluated.
+
+118
+
+RI
+PT
+
+112
+
+2.3 Antimicrobial assays of gaseous ozone
+
+120
+
+Antimicrobial assays were performed, as depicted in Fig. 1 panel A2, in a controlled ozone chamber
+
+121
+
+endowed with 4 compartments with an internal volume of 0.038 m3 and set at 4 °C. Ozone was
+
+122
+
+generated via cold plasma using an OGS347 apparatus (Pipo 1962, Santa Giustina in Colle, PD,
+
+123
+
+Italy) with a maximum production rate of 2.14 mg m−3 (1 ppm); the ozone emission and its
+
+124
+
+concentration (every 10 minutes) were both monitored by a semiconductor SnO2 probe and a
+
+125
+
+specific data logger (Oneset Hobo datalogger, CapeCod, MA, USA). Further details related to the
+
+126
+
+ozone chamber (Fig. 1S) are described in SM 2. Temperature and relative humidity for each
+
+127
+
+compartment were measured every 30 min and recorded on Button® temperature/humidity logger
+
+128
+
+model DS1923 (Maxim Integrated, San Jose, CA, USA).
+
+129
+
+Serial decimal dilutions in sterile saline solution of NSY and AAB strains (described in SM 1) were
+
+130
+
+spread onto YPD or YPM agar in ventilated Petri dishes (Nuova Aptaca Srl, Canelli, Italy; 85 mm
+
+131
+
+of diameter); the initial estimated surface cell density ranged from 1 to 10000 cfu plate-1. The
+
+132
+
+inoculated plates were incubated for 10 days at 4 °C in the ozone chamber flowing the gas at 0 or
+
+133
+
+1.07 mg m-3. Petri dishes were removed after 3, 7 and 10 days of ozone exposure, and incubated at
+
+134
+
+30 °C for 72 h in order to allow microbial colony development and enumeration..
+
+135
+
+The effect of cold ozonation on cell viability for all strains was evaluated calculating the surface
+
+136
+
+cell density, as reported in SM 2.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+119
+
+6
+
+ACCEPTED MANUSCRIPT
+At the end of the experiments described in section 2.2, and the related supplementary content (SM
+
+138
+
+2), a single yeast-bacterium association was selected among 56 microbial associations assayed. This
+
+139
+
+microbial consortium was additionally incubated at 4 °C under ozonation at 2.14 mg m-3 for ten
+
+140
+
+days. Each assay was performed in triplicate (N = 3).
+
+141
+
+RI
+PT
+
+137
+
+2.4 Effect of gaseous ozone on contaminated table grape berries
+
+143
+
+The scheme followed for the evaluation of sour rot development in berries after cold ozone
+
+144
+
+treatment and during the post-refrigeration period is shown in Fig. 1, panel B.
+
+145
+
+2.4.1 Sample preparation and incubation conditions
+
+146
+
+Grape bunches cv. Italia were received from Giuliano Srl immediately after harvesting, stored at 4
+
+147
+
+°C and processed within 48 h. Berries were inoculated with the selected AAB, or NSY strain
+
+148
+
+or with their association resulting from the previous sour rot screening, at ca. 104-105 cfu berry-1, as
+
+149
+
+described in section SM 1. The assay was repeated three times (N = 3). After the inoculum, berries
+
+150
+
+were stored in a climate controlled storage chamber at 25 °C, 95% RH and at ventilation rate of 0.1
+
+151
+
+L min-1 for 48 h (sample T48h) in order to allow microbial cells to adapt to the berry environment
+
+152
+
+and to simulate pre-harvest berry contamination before cold storage. After the adaptation period,
+
+153
+
+samples were splitted in two groups. The first group of berries (3 replicates composed of 15
+
+154
+
+berries for each sample and sampling time) was kept in the climate controlled storage chamber for
+
+155
+
+additional 12 days (samples T7 and T12). Conversely, the second group (3 replicates composed of
+
+156
+
+15 berries for each sample, sampling time and incubation in air or under ozone) was cold-stored (4
+
+157
+
+°C). Refrigerated berries were incubated in air or under gaseous ozone (2.14 mg m-3) for ten days
+
+158
+
+(samples T10). After cold storage, the inoculated and non-inoculated berries, exposed or not
+
+159
+
+exposed to cold gaseous ozone, were further stored in the climate controlled storage chamber (25
+
+160
+
+°C, 95% RH) until 12 days in order to simulate sale conditions (samples T17 and T22).
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+142
+
+161
+
+7
+
+ACCEPTED MANUSCRIPT
+2.4.2 Evaluation of sour rot development, microbiological and molecular analyses, HPLC analyses
+
+163
+
+of berry samples
+
+164
+
+The percentage of rotten berries and the disease severity were recorded according to an empirical
+
+165
+
+scale with five degrees (Fig. 2S) at each sampling time. The empirical scale allowed the
+
+166
+
+calculation of the McKinney’s index, expressed as the weighted average of the disease on the
+
+167
+
+maximum possible level (McKinney, 1923). AAB and total yeast loads were enumerated
+
+168
+
+immediately after the inoculum (T0), after the adaptation period at 25 °C (T48h), after additional
+
+169
+
+seven days at 25 °C (T7), at the end of cold storage (T10) and, during the post-refrigeration period
+
+170
+
+at day seven (T17), as reported in SM 3.1.
+
+171
+
+Isolates from AAB and yeast populations from berry samples were characterized employing
+
+172
+
+molecular biotyping techniques in order to ascertain their belonging to AAB and NSY strains
+
+173
+
+inoculated in healty berries at T0. The composition of dominant AAB and total yeast populations
+
+174
+
+was defined as reported in SM 3.1.
+
+175
+
+The extraction of sugars (glucose and fructose), organic acids (tartaric acid, malic acid, gluconic
+
+176
+
+acid, acetic acid), ethanol and glycerol from grape samples was adapted from Mikulic‐Petkovsek et
+
+177
+
+al., (2012), as detailed in the SM 3.1.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+178
+
+RI
+PT
+
+162
+
+2.5 Statistical analysis
+
+180
+
+A square root arcsin transformation (Sokal and Rohlf, 1995) was applied to percentages of spoiled
+
+181
+
+berries and to McKinney’s index values before carrying out the analysis of variance. Homogeneity
+
+182
+
+of variance was assessed by Levene's test. The univariate General Linear Model (GLM) procedure,
+
+183
+
+applying one- or two-way ANOVA (P ≤ 0.05) through the SPSS software (SPSS, Inc., Chicago,
+
+184
+
+IL), was used to evaluate the effects of the storage period and ozone treatment on the severity
+
+185
+
+disease index values of berries and microbial cell counts and concentrations of different sugars and
+
+186
+
+organic acids. Multiple comparisons among individual means of the severity index for each sample
+
+187
+
+were made by Fisher’s least significant difference (LSD) multiple range test at the 95% confidence
+
+AC
+C
+
+179
+
+8
+
+ACCEPTED MANUSCRIPT
+188
+
+interval. Differences among mean values of yeasts and bacteria loads on sound and rotten berries
+
+189
+
+during post-refrigeration (samples T17) were evaluated applying Tukey test (P< 0.05).
+
+190
+191
+
+3. Results
+
+193
+
+3.1 Sour rot development assay
+
+194
+
+The development of sour rot in wounded berries inoculated with 8 NSYstrains, or 7 AAB, or
+
+195
+
+56 yeast-bacteria associations was monitored at 25 °C up to six days (Fig. 1, panel A1).
+
+196
+
+A significant (P < 0.05) increase in sour rotten berries, regardless microbial species or their
+
+197
+
+associations, was registered for inoculated berries incubated at 25 °C and 95% RH (Table 1S); all
+
+198
+
+control berry samples did not develop any sour rot symptom. NSY-AAB associations usually
+
+199
+
+determined a percentage of sour rot significantly higher than that recorded for berries
+
+200
+
+inoculated only with the NSY strain or the AAB strain (Table 1S). After three days of incubation,
+
+201
+
+a percentage of sour rotten berries higher than 50% was observed only in berries inoculated
+
+202
+
+with associations composed of C. zemplinina CBS 9494 and A. malorum LMG 1746, or A.
+
+203
+
+syzygii LMG 21419 or Gl. saccharivorans LMG 1582. With the extension of the incubation
+
+204
+
+period, also the remaining yeast-bacterium associations were able to develop sour rot in different
+
+205
+
+extent as reported in SR 1. However, among all microbial associations, only those including C.
+
+206
+
+zemplinina CBS 9494 were able to produce high sour rot percentage starting from three days of
+
+207
+
+incubation (Table 1S). At day six, the highest sour rot severity (scored four) was achieved by
+
+208
+
+combining CBS 9494 with LMG 1746 or with LMG 21419 AAB strains. However, the 100% of
+
+209
+
+rotten berries (15 berries for three replicates) was determined only together with the LMG 21419
+
+210
+
+strain.
+
+211
+
+Therefore, based on these results, the association A. syzygii LMG 21419 - C. zemplinina CBS 9494
+
+212
+
+(As-Cz) was selected as a simplified yeast-bacterium consortium for further experiments.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+192
+
+213
+9
+
+ACCEPTED MANUSCRIPT
+3.2 Evaluation of antimicrobial activity of gaseous ozone against yeasts and bacteria
+
+215
+
+The antimicrobial effect of gaseous ozone against 8 NSY and 7 AAB strains was monitored during
+
+216
+
+10 days of incubation (Fig. 1, panel A2).
+
+217
+
+Cold incubation determined a reduction in the surface cell density independently from ozone
+
+218
+
+exposure, depending on the NSY or AAB strain assayed; in addition, the inhibitory effect on cell
+
+219
+
+viability of these strains increased by combining low temperature and ozone treatment (Fig. 4S).
+
+220
+
+The survival of AAB at 1.07 mg m-3 cold ozonation was strain-dependent (Fig. 4S). In fact, A. aceti
+
+221
+
+LMG 1504 cells were not detected already after the third day of incubation, whereas A. malorum
+
+222
+
+LMG 1746 was found to be resistant until the end of cold ozonation period.
+
+223
+
+Conversely, NSY strains were overall found to be more resistant than AAB. After ten days of cold
+
+224
+
+storage, ozone flowed at 1.07 mg m-3, was more effective against C. zemplinina CBS 9494 (Cz)
+
+225
+
+than A. syzygii LMG 21419 (As). Therefore, in order to reduce viability of both microbial strains, a
+
+226
+
+higher ozone concentration (2.14 mg m-3) was assayed.
+
+227
+
+The surface cell density of Cz at the begin of incubation (15.25 ± 9.34 cfu cm-2) decreased after 10
+
+228
+
+days to 9.81 ± 4.07 cfu cm-2 and to 1.14 ± 0.38 cfu cm-2 in air or under ozone, respectively. In the
+
+229
+
+case of As, initial surface cell density at 127.12 ± 28.38 cfu cm-2 was reduced to 103.32 ± 23.80 cfu
+
+230
+
+cm-2 when Petri dishes were cold incubated without ozone. On the contrary, plates exposed to
+
+231
+
+ozone previously seeded with the lower microbial decimal dilution did not show colonies.
+
+232
+
+Based on these results, the exposure for 10 days at ozone concentration of 2.14 mg m-3 was used in
+
+233
+
+the subsequent experiments for the control of sour rot under postharvest
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+234
+
+RI
+PT
+
+214
+
+235
+
+3.3 Effect of cold ozone treatment on berries inoculated with simplified yeast-bacterium association
+
+236
+
+In order to stimulate the onset of sour rot, grape berries, inoculated with As, or Cz, or the As-Cz
+
+237
+
+consortium, were incubated at room temperature for 48 h. After the adaptation period, a group of
+
+238
+
+berries were stored in the climate controlled storage chamber whereas another group of berries
+
+10
+
+ACCEPTED MANUSCRIPT
+239
+
+were cold-stored (4 °C) with or without ozonation (Fig. 1, panel B); both group of samples were
+
+240
+
+additionally incubated for 12 days (samples T17 and T22)
+
+241
+
+3.3.1 Assessment of microbial viability and table sour rot development
+
+243
+
+At the end of the adaptation period (T48h at 25 °C), no rotten berries were found (herein and
+
+244
+
+subsequently in the paper, when berries were scored with a McKinney’s index ≥ 15%). Viable
+
+245
+
+cell counts of AAB and total yeast populations are shown in Table 1.
+
+246
+
+At the end of the adaptation period (T48h at 25 °C, Table 1) AAB population reached ca. 6.5 log
+
+247
+
+cfu g-1 in sound berries (disease severity = 0) inoculated with As or the As-Cz association whereas
+
+248
+
+AAB were not detected in remaining samples. Natural yeast population showed a moderate
+
+249
+
+increase throughout nine days of incubation at 25 °C (sample SS in Table 1). On the contrary, in
+
+250
+
+berries inoculated with Cz (approximately at 5 log cfu g-1) total yeast population increased their
+
+251
+
+cell density by ca. two magnitude orders within 48h. In comparison with natural yeast population
+
+252
+
+enumerated in SS samples, berries inoculated with As, but non-amended with Cz, displayed an
+
+253
+
+increase in total yeast population by ca. three magnitude orders at T48h. After nine days of
+
+254
+
+storage at 25 °C (corresponding to T7 samples, Table 1) microbial population of sound berries was
+
+255
+
+characterized by a decrease in AAB population (As and As-Cz samples) and an increase in yeast in
+
+256
+
+SS control berries; samples inoculated with As or Cz showed values of viable yeasts close to those
+
+257
+
+found at T48h. T7 samples displayed sour rot symptoms that, expressed as McKinney’s index, were
+
+258
+
+significantly (P ≤ 0.05; LSD ± 13.7 %.) higher in As (23.9 ± 2.6 %) and As-Cz (39.4 ± 13.9%)
+
+259
+
+inoculated berries than in those with Cz (7.8 ± 2.1); As, Cz and As-Cz berries showed different
+
+260
+
+disease severities that, according to the 1-4 empirical scale, fell in the 1-2 range for Cz berries, 2
+
+261
+
+for As berries and 3 for As-Cz berries. In SS samples no rotten berries were detected.
+
+262
+
+Rotten berries showed AAB population in As inoculated samples close to 6 log cfu g-1, whereas the
+
+263
+
+same population increased to 6.97 ± 0.29 log cfu g-1 in As-Cz berries; these values were found
+
+264
+
+significantly different, by Tukey test for P ≤ 0.05, with those found in sound As and As-Cz
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+242
+
+11
+
+ACCEPTED MANUSCRIPT
+inoculated berries. At the same time, total yeast population, occurring in these fruits, were higher
+
+266
+
+than 7 log cfu g-1; in this case, significant differences were found only in the As inoculated samples.
+
+267
+
+After 14 days of storage at room temperature (corresponding to T12 samples, see Fig. 1), disease
+
+268
+
+severity for rotten berries showed values of 4 with McKinney’s index of 37.8 ± 3.9, 22.2 ± 10.2,
+
+269
+
+and 55.6 ± 13.9 (LSD = 13.7 %) for As, Cz and As-Cz inoculated berries, respectively. SS amended
+
+270
+
+berries were still completely sound.
+
+271
+
+At the end of the adaptation period (T48h) a group of berries was incubated at 4 °C in air or
+
+272
+
+under gaseous ozone (2.14 mg m-3; Fig. 1, panel B), for ten days (samples T10). Changes in AAB
+
+273
+
+and total yeast populations related to cold storage and gaseous ozone treatment of berries are shown
+
+274
+
+in Table 2. AAB were not found in berries not inoculated with As, as already observed during the
+
+275
+
+adaptation period (48 h at 25 °C). As concerns samples inoculated with As, AAB population of
+
+276
+
+ozonated berries resulted significantly lower in comparison with the samples incubated in air after
+
+277
+
+ten days of cold storage (Table 2, T10). In the case of yeasts, natural population in control (SS) and
+
+278
+
+As samples resulted well controlled by ozone treatment. On the contrary, the same population
+
+279
+
+enumerated in Cz inoculated berries incubated in air and treated with ozone was not significantly
+
+280
+
+different.
+
+281
+
+After the end of cold storage, the additional storage at 25 °C resulted in sound and rotten berries
+
+282
+
+(Table 2, T17). In particular, no sound berries were detected in samples, previously cold-stored in
+
+283
+
+air (Table 2, T17: un = sound berries unavailable). AAB population enumerated in sound berries
+
+284
+
+were found at values still close to 6 log cfu g-1 only in samples previously exposed to ozone. Sound
+
+285
+
+berries from both air and ozone cold-stored samples, did not show any significant difference
+
+286
+
+in the density of viable yeast cells .
+
+287
+
+The McKinney’s index values redorded for T10, T17 and T22 berry samples are shown in Table 3.
+
+288
+
+At the end of cold storage period (T10), no berry with sour rot symptoms was found independently
+
+289
+
+by samples (SS, As, Cz and As-Cz) or storage conditions (Air vs Ozone). In addition, the visual
+
+290
+
+appearance of berries did not show tissue damages potentially related to cold or cold/ozone
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+265
+
+12
+
+ACCEPTED MANUSCRIPT
+exposition. McKinney’s indexes of SS berries increased significantly only at the end of post-
+
+292
+
+refrigration period (T22) without differences between air or ozone cold-stored berries. McKinney’s
+
+293
+
+index of the remaining samples (inoculated berries at T17 and T22) was significantly lower in cold
+
+294
+
+ozonated berries than that recorded for fruits cold-stored in air.
+
+295
+
+Disease severity score of 3-4 was recorded for As and As-Cz inoculated rotten berries after seven
+
+296
+
+days in air at 25 °C, regardless the cold storage conditions previously applied.
+
+297
+
+On the contrary, disease severity of 1-2 or 2-3 distinguished Cz samples in relation to their previous
+
+298
+
+cold storage under ozone or in air, respectively. These results were similar to those previously
+
+299
+
+found at T7 and T12 in non-refrigerated berries stored at 25 °C under air when As inoculated
+
+300
+
+fruits always showed McKinney’s indexes higher than Cz inoculated berries.
+
+301
+
+In rotten berries AAB population at T17 ranged from 6.40 ± 0.20 log cfu g-1 to 6.90 ± 0.31 log cfu
+
+302
+
+g-1 for As-Cz (cold-stored in air) and As (cold-stored under ozone), respectively; total yeast
+
+303
+
+population of rotten berries showed average values of 7.37 ± 0.15 log cfu g-1 .Tukey test revaled
+
+304
+
+that both microbial loads were significantly different in comparison to those found in sound berries
+
+305
+
+previously reported in Table 2 and subjected to the same treatments.
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+291
+
+306
+
+3.3.2 Biotyping and taxonomic identification of microbial colonies isolated from sound and rotten
+
+308
+
+berries
+
+309
+
+A total of 146 bacterial colonies and 175 yeast isolates were clustered by RAPD-PCR fingerprint
+
+310
+
+following the flow chart showed in Fig 1. The results of identification of colonies isolated from
+
+311
+
+sound berries are reported in Table 4. AAB isolates, collected from berries of samples T0, T48, T7,
+
+312
+
+T10 under air and T10 under ozone, generated only the banding pattern of A. syzygii LMG 21419
+
+313
+
+strain. Two new RAPD-PCR profiles from representative isolates of AAB population from T17
+
+314
+
+sound berries belonged to Gluconobacter albidus species. As reported in Tables 3 and 4, no sound
+
+315
+
+berries were found at T17 in samples previously cold-stored in air; for this reason it was possible to
+
+316
+
+characterize AAB dominant populations only in rotten berries. The analysis of isolates from rotten
+
+AC
+C
+
+EP
+
+307
+
+13
+
+ACCEPTED MANUSCRIPT
+berries of T17 samples showed, in addition to both G. albidus RAPD-PCR profiles, four new
+
+318
+
+patterns belonging to A. syzygii, A. pasteurianus/cerevisiae, G. oxydans, and G. frateurii strains.
+
+319
+
+AAB dominant populations of T17 As and As-Cz rotten berries were represented by new strains
+
+320
+
+accounting, for the 73.2 ± 2.5 % in air samples and for 86.4 ± 6.4 % on average, in ozonated
+
+321
+
+samples. The RAPD-PCR pattern of the LMG 21419 strain was identified only in T17 rotten As
+
+322
+
+and As-Cz berries in the range of 9-28% (regardless of previous refrigeration in air or under
+
+323
+
+ozone).
+
+324
+
+Yeast population, naturally occurring in sound berries, was mostly composed of Hanseniaspora
+
+325
+
+uvarum and Metschnikowia pulcherrima strains; these species were found in all control samples
+
+326
+
+and in As inoculated berries. H. uvarum strains dominated many of these samples, whereas the
+
+327
+
+isolation of Aureobasidium pullulans strains was sporadic. Sound berries inoculated with As
+
+328
+
+showed a new C. zemplinina strain at T17 (indicated as Cz* in Table 4). Cz inoculated sound
+
+329
+
+berries (Cz and As-Cz samples, Table 4) always showed dominant population largely represented
+
+330
+
+by CBS 9494, although some samples showed few isolates belonging to H. uvarum.
+
+331
+
+Yeast populations of As and As-Cz rotten berries after 7 days at 25 °C (T7) were dominated by C.
+
+332
+
+zemplinina strains.
+
+333
+
+In absence of sound inoculated As and As-Cz berries (Tables 3 and 4), As rotten berries showed
+
+334
+
+only yeasts belonging to H. uvarum; the dominant yeast population of As-Cz rotten berries was
+
+335
+
+instead composed of both H. uvarum (60%) and C. zemplinina species (40%). On the contrary, the
+
+336
+
+dominant population of ozonated rotten berries, for both As and As-Cz samples, was composed
+
+337
+
+only of C. zemplinina strains.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+317
+
+338
+339
+
+3.3.3 Identification and quantification of carbohydrates, alcohols and organic acids
+
+340
+
+Berry samples were analysed for reducing sugars, organic acids and alcohol concentrations
+
+341
+
+(expressed as g per Kg of fresh weight) following the sampling scheme showed in Fig 1. In
+
+342
+
+particular, their content did not show significant (P< 0.05) differences beetween sound berries
+14
+
+ACCEPTED MANUSCRIPT
+sampled at the end of the adaptation period (T48h) and after the additional (T7) incubation at
+
+344
+
+25 °C (Table 2S). However, acetic acid and glycerol were detected in As rotten berries
+
+345
+
+(McKinney’s index of 23.9 ± 2.6 %) at 3.84 ± 0.02 and 2.13 ± 0.37 g Kg-1, on average,
+
+346
+
+respectively; unexpectedly, these compounds were not detected in the As-Cz inoculated rotten
+
+347
+
+berries that recorded a higher McKinney’s index (39.4 ± 13.9%). No samples, including rotten
+
+348
+
+berries, showed detectable traces of ethanol.
+
+349
+
+The severity of sour rots reached the highest values after 12 days at room temperature
+
+350
+
+(samples T12, see Fig. 1); at the same time, glucose and fructose concentration halved (from
+
+351
+
+44.15 ± 0.73 and 116.65 ± 1.83 g Kg-1 to 27.47 ± 2.24 and 52.93 ± 5.33 g Kg-1, for control and
+
+352
+
+inoculated rotten samples, respectively) showing the appearance of ethanol, acetic acid and glycerol
+
+353
+
+in As, Cz and As-Cz samples.
+
+354
+
+As and As-Cz rotten berries showed average values of 14.11 and 7.05 g Kg-1 of acid acetic and
+
+355
+
+ethanol (rough ratio 2:1), respectively. On the contrary, the average concentration of
+
+356
+
+these metabolites showed a rough ratio 1:2 (acid acetic 5.04 g Kg-1; ethanol 11.5 g Kg-1) in
+
+357
+
+rotten berries inoculated only with C. zemplinina CBS 9494.
+
+358
+
+Malic acid concentration was found to be stable in sound berries of control samples at values close
+
+359
+
+to 5 g Kg-1. In T12 rotten samples, the estimated gluconic acid concentration, a metabolite we
+
+360
+
+can suppose produced only by AAB population, was significantly higher in As and As-Cz than
+
+361
+
+in Cz samples ranged from 2.5 to 8.8 g Kg-1. Glycerol found in the range of 1.7 - 2.3 g Kg-1 did
+
+362
+
+not seem related to As or Cz inoculum. Carbohydrate and organic acid content in sound berries
+
+363
+
+after cold storage (T10 and T17, Table 3S) showed values similar to the sound berry samples
+
+364
+
+previously analysed (Table 2S).
+
+365
+
+Different concentrations in acetic acid, ethanol and glycerol were found only in rotten berries after
+
+366
+
+post-refrigeration period (T17, Table 5).
+
+367
+
+Rotten berries from As and As-Cz samples after 12 days at room temperature, as well as those from
+
+368
+
+As and As-Cz at T17 refrigerated in air (Table 5), showed higher concentration of acetic acid than
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+343
+
+15
+
+ACCEPTED MANUSCRIPT
+ethanol, so their ratio was always higher than 1. In particular, ratios higher than 2 were found in
+
+370
+
+air samples inoculated with A. syzygii LMG 21419 at T17 (Table 5).
+
+371
+
+On the other hand, rotten berries from Cz samples after 12 days and ozonated rotten berries of T17
+
+372
+
+As samples showed higher amounts of ethanol compared to acetic acid, so the ratio of their
+
+373
+
+concentration was less than 1.
+
+374
+
+In these latter samples, gluconic and malic acid concentrations were close to that of malic acid
+
+375
+
+measured in sound samples; therefore the estimation of gluconic acid produced by AAB was
+
+376
+
+considered not feasible.
+
+SC
+
+RI
+PT
+
+369
+
+377
+
+4. Discussion
+
+379
+
+Sour rot is an emergent grape disease distributed in different geographical areas such as USA,
+
+380
+
+Chile, China and Europe (Barata et al., 2012b; Hall et al., 2015; Puelles Tamsec and Sepulveda
+
+381
+
+Ramirez, 2012; Wei et al., 2015). The etiology of this grape rot was attributed to Candida spp.,
+
+382
+
+Hanseniaspora spp., Issatchenkia spp. and Saccharomycopsis spp. yeast species (Blancard et al.,
+
+383
+
+2000; Guerzoni and Marchetti, 1987) or to AAB of the genera Acetobacter, Gluconobacter and
+
+384
+
+Gluconacetobacter (Barata et al., 2012c; Blancard et al., 2000; Oliva et al., 1999). Our results
+
+385
+
+sustain the association between AAB and NSY as the causal agent of grape sour rot development,
+
+386
+
+even though only certain AAB-NSY associations lead to a high percentage of rotten berries.
+
+387
+
+These results are consistent with those of Huber (2016) reporting a strain-dependent Candida
+
+388
+
+zemplinina pathogenicity.
+
+389
+
+Furthermore, sour rot development in vineyard was widely reported associated with Drosophila
+
+390
+
+spp. (Gravot et al., 2001; Marchetti et al., 1984). In particular, Barata et al. (2012c) demonstrated
+
+391
+
+that Drosophila spp. flies are the origin and/or the vector of AAB; likewise, Hall et al. (2015)
+
+392
+
+showed that axenic Drosophila spp. flies were unable to develop sour rot onto wounded
+
+393
+
+berries.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+378
+
+16
+
+ACCEPTED MANUSCRIPT
+Since the aim of this work was to counteract table grape sour rot during postharvest refrigerated
+
+395
+
+storage, we were forced to find a yeast-bacteria association able to spoil berries in absence of flies.
+
+396
+
+Nevertheless, sour rot can also develop during and/or after cold storage thanks to a pre-harvest
+
+397
+
+latent infection. Thus, to simulate a field contamination, an incubation of two days (T48h samples)
+
+398
+
+at 25 °C, was considered useful for microbial adaptation to berry environment before the cold
+
+399
+
+storage.
+
+400
+
+Sour rot development assays allowed to select the A. syzygii LMG 21419 and C. zemplinina CBS
+
+401
+
+9494 as a simplified microbial consortium model useful for carrying out trials on table grape
+
+402
+
+under postharvest conditions. Likewise, in vitro assays informed that strains belonging to this
+
+403
+
+AAB-NSY association were controlled after 10 days of cold incubation under continuous ozone
+
+404
+
+flow at 2.14 mg m-3. The effect of gaseous ozone treatment against natural yeast population on
+
+405
+
+table grape berry was slightly higher than that recently reported by Cravero et al. (2016) on wine
+
+406
+
+grape berries. Moreover, natural yeast population load in berries inoculated with A. syzygii
+
+407
+
+LMG 21419 increased significantly in comparison with that enumerated in control berries,
+
+408
+
+suggesting a possible role of this bacterial strain in promoting the growth of wild NSY.
+
+409
+
+The use of ozone for controlling both AAB and NSY has been rarely reported. The main effect
+
+410
+
+against A. syzygii LMG 21419 was recorded under ozone at 2.14 mg m-3; however, this strain was
+
+411
+
+more efficiently controlled when it was seeded onto Petri dishes than when it was inoculated in
+
+412
+
+healthy berries. The reduction of antibacterial efficacy of ozone treatment could be due to several
+
+413
+
+factors, as the reaction with organic matter (de Candia et al., 2015; Sarig et al., 1996; Segat et al.,
+
+414
+
+2014), the reduced penetration in wounds and the leakage of ozone-reactive substances reducing the
+
+415
+
+ozone content (Smilanick et al., 1999). In addition, a different exposure of colonies grown in
+
+416
+
+wound or leaves has been reported to improve microbial resistance to ozone treatments (Palou et
+
+417
+
+al., 2002; Wani et al., 2016).
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+394
+
+17
+
+ACCEPTED MANUSCRIPT
+As concerns C. zemplinina CBS 9494, the low efficacy of ozonation of inoculated berries is in
+
+419
+
+accordance with the results of Guzzon et al. (2013) who demonstrated the complete inactivation of
+
+420
+
+several NSY strains after ozonated water treatment only at ozone concentration of 2.5 mg L-1.
+
+421
+
+However, the exposure to ozone affected both berry microbial composition and sour rot
+
+422
+
+development. After the refrigeration period, cold-stored non-ozonated berries developed sour
+
+423
+
+rot with a higher incidence than that found among ozonated samples. The highest McKinney’s
+
+424
+
+index was found in As inoculated berries previously cold-stored in air. On the other hand, A.
+
+425
+
+syzygii LMG 21419 was not detected in AAB dominant population of ozonated As inoculated
+
+426
+
+sound berries.
+
+427
+
+Even though dominant AAB population showed new non-inoculated strains, potentially
+
+428
+
+responsible for an additional tissue decay, A. syzygii LMG 21419 was still found in both As and As-
+
+429
+
+Cz rotten berries. Our results partially reflect changes in microbiota of sour rotten berries evaluated
+
+430
+
+under pre-harvest conditions (Barata et al., 2012b).
+
+431
+
+These results suggest that the survival of A. syzygii LMG 21419 over cold storage, under the
+
+432
+
+experimental conditions here applied, plays a pivotal role for the development of sour rot during
+
+433
+
+the post-refrigeration period.
+
+434
+
+The isolation of both C. zemplinina and H. uvarum strains immediately after cold storage under
+
+435
+
+ozone is in accordance with the survival of these species naturally occurring onto wine grape
+
+436
+
+surface after ozonation in gaseous and water form (Cravero et al., 2016). Thus, the growth of
+
+437
+
+these new strains could be co-responsible for sour rot development together with CBS 9494. The
+
+438
+
+new C. zemplinina strain was isolated only from As rotten berries in which the strain C. zemplinina
+
+439
+
+CBS 9494 was not inoculated. However, slight differences (>95% of similarity) were found
+
+440
+
+between the molecular fingerprints of C. zemplinina isolates and that of the strain CBS 9494,
+
+441
+
+confirming the low level of diversity found among C. zemplinina (synonym of Starmerella
+
+442
+
+bacillaris, Duarte et al., 2012) strains also when different molecular-based methods were applied
+
+443
+
+(Englezos et al., 2015; Masneuf-Pomarede et al., 2015).
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+418
+
+18
+
+ACCEPTED MANUSCRIPT
+Our assays showed that ozonation, thanks to the ozone antimicrobial activity, significantly reduced
+
+445
+
+the extent of sour rot during the post-refrigeration period. However, other authors reported that
+
+446
+
+ozone treatments induced a tissue response responsible for delaying or reducing the vegetable decay
+
+447
+
+(Sarig et al., 1996; Rodoni et al., 2009). For these reasons, ozonation could control the table grape
+
+448
+
+sour rot also thanks to additional non-antimicrobial effects.
+
+449
+
+In addition to the microbial composition, changes in main sugars, organic acids and alchohols
+
+450
+
+during sour rot development were monitored. Reduction in sugar concentration cannot be an
+
+451
+
+affordable marker for the evaluation of the early phases of sour rot, as significant changes were
+
+452
+
+evident only in heavily rotten berries.
+
+453
+
+As concerns acetic acid and ethanol found in rotten berries, their concentration changed
+
+454
+
+depending on the cold storage conditions applied. Conversely, the acetic acid concentration was
+
+455
+
+lower in ozonated than in air cold-stored rotten berries of As and As-Cz samples; this result
+
+456
+
+suggests that the release of acetic acid by microbial populations responsible for sour rot in table
+
+457
+
+grape berries could be affected by cold ozonation.
+
+458
+
+In addition, in ozonated sound berries, as well as in Cz samples, ethanol was more concentrated
+
+459
+
+than acetic acid, suggesting that it was not further oxidized to acetic acid and/or water and carbon
+
+460
+
+dioxide (Guillamón and Mas, 2011). Conversely, samples cold-stored in air and displaying a high
+
+461
+
+McKinney’s index (>30%) were always characterized by an acetic acid to ethanol ratio higher than
+
+462
+
+1. Acetic acid, ethanol and glycerol found in berries inoculated only with C. zemplinina CBS 9494,
+
+463
+
+suggested the ability of this yeast to produce these metabolites. However, we could not ascertain if
+
+464
+
+the low amount of acetic acid found in Cz rotten berries was released by C. zemplinina CBS
+
+465
+
+9494, as already reported for this species by Englezos et al. (2015), or, indeed, by the naturally
+
+466
+
+occurring AAB, mainly composed of Gluconobacter spp.. This latter bacterial genus was
+
+467
+
+previously reported to be involved in grape sour rot (Gravot, 2001; Huber, 2016) and able to
+
+468
+
+convert ethanol and glycerol into acetic acid and dihydroxyacetone, respectively (Guillamón and
+
+469
+
+Mas, 2011).
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+444
+
+19
+
+ACCEPTED MANUSCRIPT
+Gluconic acid, an AAB metabolite (Couto et al., 2003) and a well- known marker of grape sour rot
+
+471
+
+(Zoecklein et al., 2001), was detected only in rotten berries scored with high McKinney’s
+
+472
+
+index, as previously reported in wine grapes (Barata et al., 2012c; Zoecklein et al., 2001). In rotten
+
+473
+
+berries, the glycerol to gluconic acid ratio was found to be close to that considered typical of sour
+
+474
+
+rot (Zoecklein et al., 2001) and far from values recorded for B. cinerea ‘‘noble rot’’, characterized
+
+475
+
+by a high level of glycerol and a low concentration of gluconic acid (Hausinger et al., 2015).
+
+476
+
+Since AAB can release acetic and gluconic acids metabolizing ethanol and sugars (Lu et al., 1999;
+
+477
+
+Mamlouk and Gullo, 2013), our findings suggest that the direct oxidation of glucose into gluconic
+
+478
+
+acid, carried out by AAB, is not detectable until distinct and clearly recognizable sour rot
+
+479
+
+symptoms can be observed.
+
+480
+
+In conclusion, ozone treatment, applied under cold storage, controlled sour rot of heavily
+
+481
+
+contaminated berries during the post-refrigeration period and counteracted spoilage activity caused
+
+482
+
+by AAB. Rotten berries, characterized by high viable loads of AAB and NSY populations, usually
+
+483
+
+showed increasing concentrations of a series of microbial metabolites represented by ethanol,
+
+484
+
+then by acetic acid and finally by gluconic acid. This pattern, that needs to be validated after
+
+485
+
+specific trials, reflected the grape sour rot severity and was modified under cold ozonation.
+
+486
+
+Although ozone application needs larger scale trials, cold storage of table grape under low doses of
+
+487
+
+gaseous ozone is a promising method for preventing microbial postharvest decay and for replacing
+
+488
+
+sulphur dioxide–releasing systems.
+
+490
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+489
+
+RI
+PT
+
+470
+
+491
+
+Acknowledgments
+
+492
+
+This work was carried out under research activities of the Project “Development of innovative food
+
+493
+
+products through biotechnological, plant design and technological solutions” (PROINNO_BIT-
+
+494
+
+PON02_00657_00186_3417037) funded by Italian Ministry of Education, University and Research
+
+495
+
+and Ministry of Economic Development. The Authors thank Giuliano Srl (Turi, Apulia, Italy) for
+20
+
+ACCEPTED MANUSCRIPT
+496
+
+the supply of table grape, Mr. Stea Gaetano for its technical help in performing molecular analysis
+
+497
+
+and Dr. Maria Morea for her valuable suggestions for the proofreading of this manuscript.
+
+498
+499
+
+References
+
+501
+
+Bai, J. W., Sun, D. W., Xiao, H. W., Mujumdar, A. S., Gao, Z. J., 2013. Novel high-humidity hot air impingement
+
+502
+
+blanching (HHAIB) pretreatment enhances drying kinetics and color attributes of seedless grapes. Innov. Food
+
+503
+
+Sci. Emerg. Technol., 20, 230-237.
+
+506
+507
+508
+509
+
+SC
+
+505
+
+Barata, A., González, S., Malfeito‐Ferreira, M., Querol, A., Loureiro, V., 2008. Sour rot‐damaged grapes are sources of
+wine spoilage yeasts. FEMS Yeast Res., 8, 1008-1017.
+
+Barata, A., Malfeito-Ferreira, M., Loureiro, V., 2012a. The microbial ecology of wine grape berries. Int. J. Food
+
+M
+AN
+U
+
+504
+
+RI
+PT
+
+500
+
+Microbiol., 153, 243-259.
+
+Barata, A., Malfeito-Ferreira, M., Loureiro, V., 2012b. Changes in sour rotten grape berry microbiota during ripening
+and wine fermentation. Int. J. Food Microbiol., 154, 152-161.
+
+Barata, A., Santos, S. C., Malfeito-Ferreira, M., and Loureiro, V., 2012c. New insights into the ecological interaction
+
+511
+
+between grape berry microorganisms and Drosophila flies during the development of sour rot. Microbial Ecol.,
+
+512
+
+64, 416-430.
+
+TE
+D
+
+510
+
+Baruzzi, F., Pinto, L., Quintieri, L., Carito, A., Calabrese, N., Caputo, L., 2015. Efficacy of lactoferricin B in
+
+514
+
+controlling ready-to-eat vegetable spoilage caused by Pseudomonas spp. Int. J. Food Microbiol., 215, 179-
+
+515
+
+186. doi:10.1016/j.ijfoodmicro.2015.09.017
+
+517
+518
+519
+
+Blancard, D., Gravot, E., Jailloux, F., Fermaud, M., 2000. Etiology of sour rot in vineyards located in south-west of
+
+AC
+C
+
+516
+
+EP
+
+513
+
+France. IOBC/wprs Bulletin Integrated Control in Viticulture, 23, 51-54.
+Caputo, L., Quintieri, L., Baruzzi, F., Borcakli, M., Morea, M., 2012. Molecular and phenotypic characterization of
+Pichia fermentans strains found among Boza yeasts. Food Res. Int., 48, 755-762.
+
+520
+
+Couto, J. A., Graça, A. R., Soares-Franco, J. M., Hogg, T., 2003. The use of gluconic acid level as an indicator of the
+
+521
+
+activity of acetic acid bacteria in grapes. Presented at the VII Symposium International d'Oenologie, Bordeaux,
+
+522
+
+France.
+
+523
+
+Cravero, F., Englezos, V., Rantsiou, K., Torchio, F., Giacosa, S., Segade, S. R., Gerbi, V., Rolle, L., Cocolin, L., 2016.
+
+524
+
+Ozone treatments of post harvested wine grapes: Impact on fermentative yeasts and wine chemical properties.
+
+525
+
+Food Res. Int. 87, 134-141.
+
+21
+
+ACCEPTED MANUSCRIPT
+526
+
+Crisosto, C., Mitchell, F. G., 2002. Postharvest handling systems: Small fruits. I. Table grapes. In: Kader, A.A. (ed.),
+
+527
+
+Postharvest technology of horticultural crops, Pub. 3311 University of California, ANR Publications, Oakland,
+
+528
+
+CA, pp. 357-363
+
+530
+531
+532
+
+de Candia, S., Morea, M., Baruzzi, F., 2015. Eradication of high viable loads of Listeria monocytogenes contaminating
+food-contact surfaces. Front. Microbiol., 6, 733-745.
+Duarte, F. L., Pimentel, N. H., Teixeira, A., Fonseca, A., 2012. Saccharomyces bacillaris is not a synonym of Candida
+
+RI
+PT
+
+529
+
+stellata: reinstatement as Starmerella bacillaris comb. nov. A. Van Leeuw., 102, 653-658.
+
+Englezos, V., Rantsiou, K., Torchio, F., Rolle, L., Gerbi, V., Cocolin, L., 2015. Exploitation of the non-Saccharomyces
+
+534
+
+yeast Starmerella bacillaris (synonym Candida zemplinina) in wine fermentation: physiological and molecular
+
+535
+
+characterizations. Int. J. Food Microbiol., 199, 33-40.
+
+537
+
+EPA (US Environmental Protection Agency), 1989. Pesticide tolerance for sulfur dioxide. Federal Register 54, 384385.
+
+M
+AN
+U
+
+536
+
+SC
+
+533
+
+538
+
+EU Directive 2006/52/CE Official J. Europ. Comm. L. 204, 10-22.
+
+539
+
+FDA, 2001. Hazard analysis and critical control point (HACCP): procedures forthe safe and sanitary processing and
+
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+
+diseases after harvest. Postharvest Biol. Tec., 122, 53-69.
+
+TE
+D
+
+542
+
+Feliziani, E., Lichter, A., Smilanick, J. L., Ippolito, A., 2016. Disinfecting agents for controlling fruit and vegetable
+
+Feliziani, E., Romanazzi, G., Smilanick, J. L., 2014. Application of low concentrations of ozone during the cold storage
+of table grapes. Postharvest Biol. Tec., 93, 38-48.
+
+Gabler, F. M., Smilanick, J. L., Mansour, M. F., Karaca, H., 2010. Influence of fumigation with high concentrations of
+
+EP
+
+541
+
+importing of juice; final rule, Federal Register, 66, 6137–6202.
+
+ozone gas on postharvest gray mold and fungicide residues on table grapes. Postharvest Biol. Tec., 55, 85-90.
+Gabler, F. M., Smilanick, J.L., 2001. Postharvest control of table grape gray mold on detached berries with carbonate
+
+AC
+C
+
+540
+
+and bicarbonate salts and disinfectants. Am. J. Enol. Viticult., 52, 12–20.
+Graham, D.M., Pariza, M.W., Glaze, W.H., Erdman, J.W., Newell, G.W. Borzelleca, J.F., 1997. Use of ozone for food
+processing, Food Technol., 51, 72–6.
+Gravot, E., Blancard, D., Fermaud, M., Lonvaud, A., Joyeux, A., 2001. La pourriture acide. I-Etiologie: recherche de
+causes de cette pourriture dans le vignoble bordelais: Vigne. Phytoma-La Défense des végétaux, 543, 36-39.
+Guerzoni, E., Marchetti, R., 1987. Analysis of yeast flora associated with grape sour rot and of the chemical disease
+markers. Applied Environ. Microbiol., 53, 571-576.
+Guillamón J. M., Mas A., 2011. Acetic Acid Bacteria. In: Carrascosa Santiago, A. V., Munoz, R., Gonzales Garcia, R.,
+(Eds.), Molecular Wine Microbiology, Elsevier B.V., pp. 227-255.
+
+22
+
+ACCEPTED MANUSCRIPT
+557
+
+Guzzon, R., Nardin, T., Micheletti, O., Nicolini, G., Larcher, R., 2013. Antimicrobial activity of ozone. Effectiveness
+
+558
+
+against the main wine spoilage microorganisms and evaluation of impact on simple phenols in wine. Aust. J.
+
+559
+
+Grape Wine Res., 19, 180-188.
+
+560
+
+Hall, M. E., Loeb G. M., Wilcox W. F., 2015. Etiology and management strategies for sour rot on grapes.In APS
+
+561
+
+Annual Meeting, Pasadena, California (USA), August, 1-5, 2015.
+Hashim-Buckey, J., Gabler, F. M., Mansour, M. F., Schrader, P., Pryor, M., Margosan, D. A., Smilanick, J. L., 2008.
+
+563
+
+Effectiveness of preharvest applications of fungicides on preharvest Bunch rot and postharvest Sour Rot of
+
+564
+
+‘Redglobe’. In: Grapes Proceedings of the 2nd Annual National ViticultureResearch Conference, University of
+
+565
+
+California, Davis, pp. 33-36.
+
+SC
+
+RI
+PT
+
+562
+
+Hausinger, K., Lipps, M., Raddatz, H., Rosch, A., Scholten, G., Schrenk, D., 2015. Automated optical grape-sorting of
+
+567
+
+rotten grapes: effects of rot infections on gluconic acid concentrations and glycerol/gluconic acid ratios in must
+
+568
+
+and wine. J. Wine Res. 26, 18-28.
+
+Hinze, H., Prakash, D., Holzer, H., 1987. Effect of ozone on ATP, cytosolic enzymes and permeability of
+
+570
+571
+572
+573
+574
+
+Saccharomyces cerevisiae. Arch. Microbiol., 147, 105-108.
+Huber,
+
+C.,
+
+2016.
+
+Etiology
+
+and
+
+Management
+
+of
+
+Grape
+
+Sour
+
+Rot.
+
+PhD
+
+thesis
+
+available
+
+at
+
+http://dr.library.brocku.ca/handle/10464/9305
+
+Khadre, M. A., Yousef, A. E., Kim, J. G., 2001. Microbiological aspects of ozone applications in food: a review. J.
+Food Sci., 66, 1242-1253.
+
+TE
+D
+
+569
+
+M
+AN
+U
+
+566
+
+Lichter, A., Gabler, F. M., Smilanick, J. L., 2006. Control of spoilage in table grapes. Stewart Postharvest Rev., 2, 1-10.
+
+576
+
+Loureiro, V., Ferreira, M. M., Monteiro, S., Ferreira, R. B., 2012. The microbial community of grape berry. In: Gerós,
+
+577
+
+H., Chaves, M., and Delrot, S. (Eds.), The biochemistry of the grape berry. Bentham Science
+
+578
+
+Publishers,Sharjah, United Arab Emirates, pp. 241-268.
+
+580
+581
+582
+583
+584
+
+AC
+C
+
+579
+
+EP
+
+575
+
+Lu, S. F., Lee, F. L., Chen, H. K., 1999. A thermotolerant and high acetic acid‐producing bacterium Acetobacter sp.
+I14–2. J. Appl. Microbiol., 86, 55-62.
+Mamlouk, D., Gullo, M., 2013. Acetic acid bacteria: physiology and carbon sources oxidation. Ind. J. Microbiol., 53,
+377-384.
+Marchetti, R., Guerzoni, E., Gentile, M., 1984. Research on the etiology of a new disease of grapes: sour rot. Vitis, 23,
+55–65.
+
+585
+
+Masneuf-Pomarede, I., Juquin, E., Miot-Sertier, C., Renault, P., Laizet, Y. H., Salin, F., Alexandre, H., Capozzi, V.,
+
+586
+
+Cocolin, L., Colonna-Ceccaldi, B., Englezos, V., Girard, P., Gonzalez, B., Lucas, P., Mas, A., Nisiotou, A.,
+
+587
+
+Sipiczki, M., Spano, G., Tassou, C., Bely, M., Albertin, W., 2015. The yeast Starmerella bacillaris (synonym
+
+23
+
+ACCEPTED MANUSCRIPT
+588
+
+Candida zemplinina) shows high genetic diversity in winemaking environments. FEMS Yeast Res., 15:
+
+589
+
+fov045.
+
+592
+593
+594
+595
+596
+597
+
+vineyards. Int. J. Food Microbiol., 178, 98-106.
+McKinney, H.H., 1923. Influence of soil temperature and moisture on infection of wheat seedlings by Helmintosporium
+sativum. J. Agr. Res., 26, 195–218.
+
+RI
+PT
+
+591
+
+Mateo, E., Torija, M. J., Mas, A., Bartowsky, E. J., 2014. Acetic acid bacteria isolated from grapes of South Australian
+
+Mikulic‐Petkovsek, M., Schmitzer, V., Slatnar, A., Stampar, F., Veberic, R., 2012. Composition of sugars, organic
+acids, and total phenolics in 25 wild or cultivated berry species. J. Food Sci., 77, C1064-C1070.
+
+Nigro, F., Schena, L., Ligorio, A., Pentimone, I., Ippolito, A., Salerno, M. G., 2006. Control of table grape storage rots
+
+SC
+
+590
+
+by pre-harvest applications of salts. Postharvest Biol. Tec., 42, 142-149.
+
+Oliva, J., Navarro, S., Navarro, G., Camara, M. A., Barba, A., 1999. Integrated control of grape berry moth (Lobesia
+
+599
+
+botrana), powdery mildew (Uncinula necator), downy mildew (Plasmopara viticola) and grapevine sour rot
+
+600
+
+(Acetobacter spp.). Crop Prot., 18, 581-587.
+
+M
+AN
+U
+
+598
+
+601
+
+Ozkan, R., Smilanick, J. L., Karabulut, O. A., 2011. Toxicity of ozone gas to conidia of Penicillium digitatum,
+
+602
+
+Penicillium italicum, and Botrytis cinerea and control of gray mold on table grapes. Postharvest Biol. Tec., 60,
+
+603
+
+47-51.
+
+Palou, L., Crisosto, C. H., Smilanick, J. L., Adaskaveg, J. E., Zoffoli, J. P., 2002. Effects of continuous 0.3 ppm ozone
+
+605
+
+exposure on decay development and physiological responses of peaches and table grapes in cold storage.
+
+606
+
+Postharvest Biol. Tec., 24, 39-48.
+
+609
+610
+611
+612
+613
+614
+
+EP
+
+608
+
+Pfliegler, W. P., Horváth, E., Kállai, Z., Sipiczki, M., 2014. Diversity of Candida zemplinina isolates inferred from
+RAPD, micro/minisatellite and physiological analysis. Microbiol. Res., 169, 402-410.
+Pinto, L., Baruzzi, F., Ippolito, A., 2016. Recentadvances to control spoilagemicroorganisms in washing water of fruits
+
+AC
+C
+
+607
+
+TE
+D
+
+604
+
+and vegetables: the use of electrolyzed water. Acta Hortic., 1144, 379-384.
+Pinto, L., Ippolito, A., Baruzzi, F., 2015. Control of spoiler Pseudomonas spp. on fresh cut vegetables by neutral
+electrolyzed water. Food Microbiol., 50, 102-108.
+Puelles Tamsec, J., Sepulveda Ramirez, P., 2012. Pudriciónácida- Instituto de InvestigacionesAgropecuarias. Chile.
+Cartilla divulgativa 5, 1-4.
+
+615
+
+Rodoni, L., Casadei, N., Concellón, A., Chaves Alicia, A. R., Vicente, A. R., 2009. Effect of short-term ozone
+
+616
+
+treatments on tomato (Solanum lycopersicum L.) fruit quality and cell wall degradation. J. Agr. Food Chem.,
+
+617
+
+58, 594-599.
+
+24
+
+ACCEPTED MANUSCRIPT
+618
+
+Romanazzi, G., Lichter, A., Gabler, F. M., Smilanick, J. L., 2012. Recent advances on the use of natural and safe
+
+619
+
+alternatives to conventional methods to control postharvest gray mold of table grapes. Postharvest Biol. Tec.,
+
+620
+
+63, 141-147.
+
+623
+624
+625
+626
+627
+628
+
+table grapes caused by Rhizopus stolonifer. Physiol. Mol. Plant P., 48, 403-415.
+Segat, A., Biasutti, M., Iacumin, L., Comi, G., Baruzzi, F., Carboni, C., Innocente, N., 2014. Use of ozone in production
+
+RI
+PT
+
+622
+
+Sarig, P., Zahavi, T., Zutkhi, Y., Yannai, S., Lisker, N., Ben-Arie, R., 1996. Ozone for control of post-harvest decay of
+
+chain of high moisture Mozzarella cheese. LWT- Food Sci. Technol., 55, 513-520.
+
+Smilanick, J. L., Crisosto, C., Mlikota, F., 1999. Postharvest use of ozone on fresh fruit. Perishables Handling Q, 99,
+10-14.
+
+SC
+
+621
+
+Snowdon, A. L., 1990. Grapes. In: A colour post-harvest diseases of disorders of fruits and vegetables. Vol. 1. General
+introduction and fruits, Wolfe Scientific, London, pp. 255-266.
+
+Sokal, R. R., Rohlf, F. J., 1995. Biometry: the principles and practice of statistics in biological research. In
+
+630
+
+SokalBiometry: The Principles and Practice of Statistics in Biological Research. WH. Freeman & Co., San
+
+631
+
+Francisco.
+
+634
+635
+636
+637
+
+GAIN Report Number:IT14100. http://gain.fas.usda.gov/...../2014_Rome_Italy_10-28-2014.pdf
+USDA FAS, 2015. Fresh Deciduous Fruit Annual 2015. Approved by Christine Sloop; prepared by Ornella Bettini.
+
+TE
+D
+
+633
+
+USDA FAS, 2014. Fresh Deciduous Fruit Annual 2014. Approved by Christine Sloop; prepared by Ornella Bettini.
+
+GAIN Report Number: IT1576.http://gain.fas.usda.gov/…../2015_Rome_Italy_11-25-2015.pdf
+Wani, S., Barnes, J., Singleton, I., 2016. Investigation of potential reasons for bacterial survival on ‘ready-to-eat’leafy
+produce during exposure to gaseous ozone. Postharvest Biol. Tec., 111, 185-190.
+
+EP
+
+632
+
+M
+AN
+U
+
+629
+
+Wei, Y., Wang, C., Zhao, X., Shang, Q., Liu, Z., 2015. Identification and biological characteristics of the pathogenic sf-
+
+639
+
+19 strain of grape sour rot from Beijing.In APS Annual Meeting, Pasadena, California (USA), August, 1-5,
+
+640
+
+2015. Available online at http://www.apsnet.org/
+
+641
+642
+
+AC
+C
+
+638
+
+Zoecklein, B. W., Williams, J. M., Duncan, S. E., 2001. Effect of sour rot on the composition of White Riesling (Vitis
+vinifera L.) grapes. Small Fruits Rev., 1, 63-77.
+
+643
+
+25
+
+ACCEPTED MANUSCRIPT
+644
+
+Figure Captions
+
+645
+646
+647
+
+Fig. 1 Flow chart of the experiments carried out in this work.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+648
+
+26
+
+ACCEPTED MANUSCRIPT
+
+SUPPLEMENTARY CONTENT
+
+649
+650
+651
+
+Efficacy of gaseous ozone to counteract postharvest table grape sour rot
+
+653
+
+Pinto L., Caputo L., Quintieri L., de Candia S. and Baruzzi F.*
+
+RI
+PT
+
+652
+
+654
+
+Institute of Sciences of Food Production, National Research Council of Italy, Via G. Amendola
+
+656
+
+122/O, 70126 Bari, Italy
+
+SC
+
+655
+
+M
+AN
+U
+
+657
+658
+659
+
+*Corresponding author. Institute of Sciences of Food Production, National Research Council of
+
+661
+
+Italy, Via G. Amendola 122/O, 70126 Bari, Italy. Tel.: +39 080 5929319
+
+662
+
+E-mail address: federico.baruzzi@ispa.cnr.it (Baruzzi F.)
+
+EP
+
+664
+
+AC
+C
+
+663
+
+TE
+D
+
+660
+
+27
+
+ACCEPTED MANUSCRIPT
+Supplementary Methods (SM)
+
+665
+666
+
+SM 1 - Sour rot development assay
+
+668
+
+Each strain was cultivated inoculating a loopful of fresh yeast or bacterial cultures (24-48 h) in
+
+669
+
+10 mL of YPD or YPM, respectively. All cultures were incubated at 30 °C with mild shaking
+
+670
+
+(120 rpm) for 48 h. Then, microbial pellets were harvested by centrifugation (13000 rpm for 5
+
+671
+
+min), and washed twice in sterile saline solution (0.85% NaCl). The bacterial inoculum was
+
+672
+
+prepared from a cell suspension with an OD600 of 0.3 ± 0.05 (corresponding to approximately 1
+
+673
+
+x108 cfu mL-1) and diluted with sterile saline solution by reaching 107 cfu mL-1; cellular density of
+
+674
+
+yeasts (107 cfu mL-1) was assessed using a Thoma counting chamber (HGB Henneberg-Sander
+
+675
+
+GmbH, Lutzellinden, Germany). Cell suspension (10 µL) of each strain and their combinations
+
+676
+
+were inoculated in the pedicel cavity of 15 sterilized berries for each sampling time (final
+
+677
+
+concentration of 1 x104-105 cfu berry-1) in order to minimize the healing effect. Samples were
+
+678
+
+incubated in a climate controlled chamber for 6 days at 25 °C, 95% RH and at a ventilation rate of
+
+679
+
+0.1 L min-1 (Everlasting cabinet model 700 Glass, Everlasting S.r.l., Suzzara, Italy).
+
+680
+
+Color analysis of rotten berries was carried out determining colorimetric CIE (Commission
+
+681
+
+Internationale de l'Eclairage) coordinates L* (lightness), a* (redness) and b* (yellowness) on 3
+
+682
+
+random points of each sample. To this purpose, the ChromaMeter CR-400 (Konica Minolta, Osaka,
+
+683
+
+Japan) equipped with a D65 illuminant (6504 K), was used following the manufacturer's
+
+684
+
+instructions. The visible color differences (∆E) among berries samples, recorded at the sixth day of
+
+685
+
+incubation, were calculated using the equation reported by Bai et al. (2013). The measurements of
+
+686
+
+pH and oxidation reduction potential in grape juice and grape pulp were also determined by a pH
+
+687
+
+meter (Model pH50 Lab pH Meter XS-Instrument, Concordia, Italy).
+
+688
+
+At the end of experiments, the yeast-bacterium association showing the highest sour rot incidence
+
+689
+
+was defined as a simplified microbial consortium and evaluated in the subsequent experimental
+
+690
+
+activities.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+667
+
+28
+
+ACCEPTED MANUSCRIPT
+691
+
+SM 2 - Antimicrobial activity of gaseous ozone
+
+693
+
+The ozone chamber was realised connecting a commercial refrigerator with four independent ozone
+
+694
+
+generators (Fig. 1S, panel A). The refrigerator included four independent airtight compartments,
+
+695
+
+with an approximate volume of 0.04 m3; in each compartment, endowed with an independent probe
+
+696
+
+for monitoring ozone concentration, gas flowed from its own generator (Fig. 1S, panel B). Control
+
+697
+
+(unozonated) Petri dishes or berry samples were incubated in compartments whose generators were
+
+698
+
+switched off.
+
+699
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+692
+
+Fig. 1S: The ozone chamber. Panel A, independent ozone generators connected with the
+refrigerator. Panel B, a compartment in which the ozone inlet (1) and the probe for monitoring
+ozone concentration (2) are present.
+
+704
+
+In order to evaluate the effect of cold ozonation, plates were inoculated with decimal dilutions of
+
+705
+
+broth cultures up to 10.000 times. After ozone exposure, plates seeded with different decimal
+
+706
+
+dilutions were incubated as described in Material and Methods section. Then, the number of cells,
+
+707
+
+occurring on the plate seeded with the broth culture (E), was estimated by enumerating colonies
+
+708
+
+developed. The E value was calculated as reported in the formula:
+
+AC
+C
+
+EP
+
+700
+701
+702
+703
+
+10
+
++ 10
+
++ 10
+
+=
+
+29
+
++ 10
+
+ACCEPTED MANUSCRIPT
+where, a, b, c, d, are the average number of colonies enumerated onto plates inoculated with
+
+710
+
+different decimal dilutions, x is the exponent corresponding to the decimal dilution, and n is the
+
+711
+
+number of dilutions showing countable colonies and used for the calculation of E.
+
+712
+
+Once the E value was calculated, the surface cell density was obtained dividing it by the plate
+
+713
+
+surface (63.6 cm2).
+
+714
+
+RI
+PT
+
+709
+
+SM 3 - Effect of gaseous ozone on contaminated table grape berries
+
+716
+
+SM 3.1 Evaluation of sour rot development, microbiological and molecular analyses, HPLC
+
+717
+
+analyses of berry samples
+
+718
+
+The empirical scale used for the calculation of incidence and severity, expressed as McKinney’s
+
+719
+
+index (McKinney 1923), is shown in Fig. 2S.
+
+M
+AN
+U
+
+SC
+
+715
+
+TE
+D
+
+720
+
+Fig. 2S Empirical scale with five degrees used for severity evaluation of sour rot: sound berries, 0;
+surface of berries spoiled from 1 to 10%, 1; surface of berries spoiled from 11 to 20%, 2; surface of
+berries spoiled from 21 to 50%, 3; more than 50% of spoiled surface, 4.
+
+726
+
+Microbiological analyses were carried out as follows: berries (15 g) were homogenized in 15 mL of
+
+727
+
+sterile saline solution for 1 min at 11000 rpm using an Ultra-Turrax T 25 digital (IKA,
+
+728
+
+Wilmington, NC); the slurries were decimal diluted in sterile saline solution and plated on GYC
+
+729
+
+(glucose 0.1%; yeast extract 0.1%; calcium carbonate 0.2%; agar 1.6%; pimaricin 100 mg L-
+
+730
+
+1
+
+731
+
+of cloramphenicol, Biolife Italiana Srl, Milan, Italy) for enumeration of AAB and total yeasts,
+
+732
+
+respectively. Plates were incubated at 30 °C for 72 h for GYC plates and for 48 h for YPDA plates.
+
+733
+
+The composition of dominant AAB and total yeast populations was defined by picking up a number
+
+734
+
+of microbial colonies representing at least 10% of the colonies enumerated on agar plates from
+
+AC
+C
+
+EP
+
+721
+722
+723
+724
+725
+
+) or YPDA medium (YPD broth supplemented with agar 1.6% and amended with 100 mg L-1
+
+30
+
+ACCEPTED MANUSCRIPT
+higher decimal dilutions. Following this approach, 146 AAB isolates and 175 yeasts were
+
+736
+
+subjected to molecular typing. DNA from bacterial colonies was extracted according to Barata et
+
+737
+
+al. (2012b), whereas DNA from yeasts was extracted using the Masterpure yeast DNA purification
+
+738
+
+kit (Epicentre Biotechnologies, WI, USA) according to manufacturer’s instructions. Bacterial and
+
+739
+
+yeast isolates were typed applying different RAPD-PCR protocols (Baruzzi et al., 2015; Pfliegler et
+
+740
+
+al., 2014). Biotypes, representing different microbial clusters, were identified according to Mateo et
+
+741
+
+al. (2014) and Caputo et al. (2012) for bacteria and yeasts, respectively.
+
+742
+
+The extraction of sugars, organic acids and alcohols from grape samples was carried out as
+
+743
+
+reported by Mikulic‐‐Petkovsek et al. (2012) with minor changes. Briefly, 15 grams of berries,
+
+744
+
+were homogenized with 15 mL of bidistilled water for 1 min at 11000 rpm by using Ultra-
+
+745
+
+Turrax T-25 digital. Then, the homogenate was centrifuged at 14000 rpm for 10 min at 4 °C.
+
+746
+
+Depending on the metabolites (organic acids and alcohols or sugars), supernatant from each sample
+
+747
+
+was appropriately diluted and filtered using 0.45 µm filters before the injection (20 µL) in the
+
+748
+
+HPLC system (Jasco Inc., Tokyo, Japan) equipped with a refractive index detector (RI-2031), an
+
+749
+
+UV detector (UV-2077) and an autosampler (AS-2057). JASCO ChromeNAVsoftware (Version
+
+750
+
+1.19.03 Build 6) was used for data acquisition, peak integration and standard calibration. Each
+
+751
+
+sample was analysed in triplicate and concentrations were expressed as g per Kg of fresh weight (g
+
+752
+
+Kg-1).
+
+753
+
+Glucose and fructose were isocratically separated on a Rezex RCM monosaccharide Ca+2 column
+
+754
+
+(300 mm x 7.8 mm; 8µm; Phenomenex, Torrance, CA) preceded by a SecurityGuard Cartridge
+
+755
+
+(Carbo-H 4 x 3.0 mm; 8µm; Phenomenex). Elution was performed in MQ water at 0.6 mL min-1
+
+756
+
+and 75°C. RI detector was set at 25 °C. A glucose and fructose calibration curve was built in the
+
+757
+
+range from 0.03 to 1%.
+
+758
+
+For the determination of organic acids and alcohols (tartaric acid, malic acid, gluconic acid, acetic
+
+759
+
+acid, ethanol and glycerol), the diluted berry supernatants were injected on a RezexROA H+ 8%
+
+760
+
+column (300 mm × 7.8 mmid, 8µm; Phenomenex) preceded by a SecurityGuard Cartridge (Carbo-H
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+735
+
+31
+
+ACCEPTED MANUSCRIPT
+4 x 3.0 mm, 8 µm; Phenomenex). The elution of metabolites was performed isocratically with
+
+762
+
+sulphuric acid (0.005 N) at the flow rate of 0.6 mL min-1 and at 60 °C. RI detector was set at 40 °C.
+
+763
+
+Malic and gluconic acids (expressed as sum of malic and gluconic acid peak areas) and tartaric acid
+
+764
+
+were also UV detected at 210 nm after connecting UV and RI detectors in series. Calibration curves
+
+765
+
+(acetic acid, glycerol and ethanol in the range from 0.0625 to 1%; tartaric acid from 0.0078 to
+
+766
+
+0.125%; malic and gluconic acids from 0.0078 to 0.5%) were built to correlate the peak area with
+
+767
+
+each reference concentration. Due to gluconic acid and malic acid coelution in HPLC run, the
+
+768
+
+calculation of gluconic acid concentration of rotten berries was estimated by subtracting the malic
+
+769
+
+acid concentration measured in control (sound) berries.
+
+M
+AN
+U
+
+770
+
+SC
+
+RI
+PT
+
+761
+
+771
+
+AC
+C
+
+EP
+
+TE
+D
+
+772
+
+32
+
+ACCEPTED MANUSCRIPT
+Supplementary Results (SR)
+
+773
+774
+
+SR 1 - Sour rot development assay
+
+776
+
+Results of sour rot in berries inoculated with single AAB (7) or NSY (8) strains as well as their
+
+777
+
+associations (56 combinations) are shown in Table 1S.
+
+778
+
+After three days of incubation, only three out of the seven associations including C. zemplinina
+
+779
+
+CBS 9494 promoted a percentage of sour rotten berries higher than 50%. At day six, nine microbial
+
+780
+
+associations were found to be responsible for a significant (P < 0.05) increase in the percentage of
+
+781
+
+sour rotten berries in comparison with that recorded at day three. In particular, they were
+
+782
+
+composed of H. meyerae CBS 8734 or C. zemplinina CBS 9494 associated with Gl. saccharivorans
+
+783
+
+LMG 1582 or Gl. intermedius LMG 18909 or A. malorum LMG 1746, and C. zemplinina CBS
+
+784
+
+9494 associated with A. syzygii LMG 21419, and H. guillermondii DSM 3432 together with A.
+
+785
+
+malorum LMG 1746 or Gl. saccharivorans LMG 1582.
+
+786
+
+At day three and six, berries inoculated with G. oxydans LMG 1408 as single culture showed a
+
+787
+
+high percentage of sour rot that was not confirmed when it was associated with NSY strains.
+
+788
+
+Rotten berries underwent grape pulp acidification and increase in the oxidation reduction potential
+
+789
+
+value (data not shown), as well as they drastically turned towards the red-brown with an increase
+
+790
+
+in a* opposed to the luminosity (L*) reduction (data not shown). Examples of sound and rotten
+
+791
+
+berries are showed in Fig. 3S.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+792
+
+RI
+PT
+
+775
+
+33
+
+ACCEPTED MANUSCRIPT
+
+Table 1S Mean values (N = 3) of percentages of rotten berries after inoculum with a single acetic acid bacteria (control A), or a
+single yeast (control Y), or their associations on grape cv Sublima seedless after 3 and 6 days at 25 °C
+
+61
+
+AAB:
+NSY:
+
+Control Y
+Aa
+Am
+Ao
+As
+Gi
+Go
+Gs
+
+Control A
+
+Cv
+
+Cz
+
+Hg
+
+Hm
+
+23.3 ± 15.3
+26.7 ± 11.5
+23.3 ± 15.3
+26.7 ± 11.5
+26.7 ± 11.5
+70.0 ± 10.0
+20.0 ± 11.5
+
+11.1 ± 3.8
+6.7 ± 11.5
+6.7 ± 11.5
+6.7 ± 11.5
+13.3 ± 11.5
+6.7 ± 11.5
+6.7 ± 11.5
+20.0 ± 20.0
+
+15.5 ± 3.9
+20.0 ± 20.0
+80.0 ± 20.0
+6.7 ± 11.5
+100.0 ± 0.0
+80.0 ± 20.0
+53.3 ± 11.5
+90.0 ± 10.0
+
+17.8 ± 3.9
+46.7 ± 11.5
+66.7 ± 11.5
+33.3 ± 11.5
+26.7 ± 11.5
+40.0 ± 20.0
+13.3 ± 11.5
+66.7 ± 11.5
+
+15.5 ± 3.9
+26.7 ± 23.1
+86.7 ± 11.5
+6.7 ± 11.5
+40.0 ± 20.0
+86.7 ± 11.5
+66.6 ± 11.5
+86.7 ± 11.5
+
+Hu
+Zh
+Zm4
+Zm6
+6.7 ± 11.5 13.3 ± 11.5 0.0 ± 0.0
+0.0 ± 0.0
+6.7 ± 11.5
+0.0 ± 0.0
+0.0 ± 0.0
+6.7 ± 11.5
+26.7 ± 11.5 0.0 ± 0.0 13.3 ± 23.1 46.7 ± 11.5
+13.3 ± 11.5 0.0 ± 0.0
+6.7 ± 11.5 6.7 ± 11.5
+6.7 ± 11.5
+0.0 ± 0.0
+0.0 ± 0.0 46.7 ± 11.5
+6.7 ± 11.5 6.7 ± 11.5
+0.0 ± 0.0
+0.0 ± 0.0
+13.3 ± 11.5 0.0 ± 0.0
+0.0 ± 0.0
+6.7 ± 11.5
+20.0 ± 20.0 0.0 ± 0.0
+6.7 ± 11.5 33.3 ± 23.1
+
+RI
+PT
+
+Hm
+6.7 ± 11.5
+0.0 ± 0.0
+26.7 ± 11.5
+6.7 ± 11.5
+33.3 ± 23.1
+46.7 ± 23.1
+13.3 ± 11.5
+40.0 ± 20.0
+
+SC
+
+Hg
+13.3 ± 11.5
+0.0 ± 0.0
+20.0 ± 0.0
+6.7 ± 11.5
+20.0 ± 20.0
+26.7 ± 23.1
+6.7 ± 11.5
+46.7 ± 11.5
+
+M
+AN
+U
+
+Day
+
+20.0 ± 20.0
+26.7 ± 11.5
+6.7 ± 11.5
+26.7 ± 11.5
+20.0 ± 20.0
+53.3 ± 11.5
+20.0 ± 20.0
+
+Cz
+6.7 ± 11.5
+6.7 ± 11.5
+60.0 ± 20.0
+6.7 ± 11.5
+60.0 ± 0.0
+26.7 ± 11.5
+26.7 ± 23.1
+66.7 ± 23.1
+
+TE
+D
+
+3
+
+Control Y
+Aa
+Am
+Ao
+As
+Gi
+Go
+Gs
+
+Cv
+6.7 ± 11.5
+6.7 ± 11.5
+6.7 ± 11.5
+6.7 ± 11.5
+13.3 ± 11.5
+6.7 ± 11.5
+6.7 ± 11.5
+20.0 ± 20.0
+
+EP
+
+Control A
+
+Day
+
+Hu
+
+Zh
+
+Zm4
+
+Zm6
+
+17.8 ± 3.9 17.8 ± 3.9
+0.0 ± 0.0
+0.0 ± 0.0
+20.0 ± 20.0 6.7 ± 11.5
+0.0 ± 0.0
+6.7 ± 11.5
+46.7 ± 11.5 0.0 ± 0.0 26.7 ± 23.1 46.7 ± 11.5
+13.3 ± 11.5 0.0 ± 0.0
+6.7 ± 11.5 6.7 ± 11.5
+40.0 ± 20.0 0.0 ± 0.0
+0.0 ± 0.0 53.3 ± 11.5
+33.3 ± 11.5 13.3 ± 23.1 0.0 ± 0.0
+0.0 ± 0.0
+26.6 ± 11.5 0.0 ± 0.0
+6.7 ± 11.5 6.7 ± 11.5
+33.3 ± 11.5 6.7 ± 11.5 6.7 ± 11.5 33.3 ± 23.1
+
+Aa = Acetobacter aceti LMG 1504; Am = A. malorum LMG 1746; Ao = A. orleanensis LMG 1583; As = A. syzygii LMG 21419; Gi = Gluconacetobacter
+intermedius LMG 18909; Go = Gluconobacter oxydans LMG 1408; Gs = G. saccharivorans LMG 1582.
+Cv = Candida vanderwaltii CBS 5524; Cz = C. zemplinina CBS 9494; Hg = Hanseniaspora guillermondii DSM 3432; Hm = H. meyerae CBS 8734; Hu =
+Hanseniaspora uvarum CBS 2585; Zh = Zygoascus hellenicus CBS 6736; Zm4 = Z. meyerae CBS 4099; Zm6 = Z. meyerae CBS 6173
+
+AC
+C
+
+793
+794
+
+1: The least significant difference comparison value (LSD, 95% confidence interval) expressed as % was calculated among the samples inoculated with yeasts, or AAB, or
+their associations: ± 46.22.
+Control A: berries inoculated only with AAB strains; Control Y: berries inoculated only with NSY strains
+
+795
+796
+34
+
+EP
+
+TE
+D
+
+Fig. 3S Comparison among grape berries after 6 days of incubation at 25 °C. 1) wounded berries at the beginning of the assay; from 2 to 13 after 6
+days at 25 °C; 2) sound berries; 3) wounded berries amended with sterile saline solution; 4) wounded berries non-amended with sterile saline
+solution; 5-9) berries inoculated with a single strain: 5) C. zemplinina CBS 9494; 6) A. malorum LMG 1746; 7) A. syzygii LMG 21419; 8) Gl.
+saccharivorans LMG 1582; 9) Gl. intermedius LMG 18909; 10-13) berries inoculated with C. zemplinina CBS 9494 associated with different AAB
+strains: 10) A. malorum LMG 1746; 11) A. syzygii LMG 21419; 12) Gl. saccharivorans LMG 1582; 13) G. intermedius LMG 18909.
+
+AC
+C
+
+797
+798
+799
+800
+801
+802
+803
+804
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+ACCEPTED MANUSCRIPT
+
+35
+
+ACCEPTED MANUSCRIPT
+SR 2 - Antimicrobial activity of gaseous ozone against yeasts and bacteria
+
+806
+
+In the ozonation chambers temperature was stable at 4.61 ± 0.47 °C, and the average RH value was
+
+807
+
+65.24.± 2.15%, as recorded by different data loggers. The ozone concentration was affected by
+
+808
+
+weak fluctuations in the order of 2 and 7% CV when ozone generator was set at 1.07 mg m-3 and
+
+809
+
+2.14 mg m-3, respectively.
+
+810
+
+The results related to antimicrobial activity of 1.07 mg m-3 gaseous ozone against AAB and yeasts
+
+811
+
+are shown in Fig. 4S. A. malorum LMG 1746 resisted well to cold ozonation whereas A.
+
+812
+
+orleanensis LMG 1583 was sensitive to ozone but resistant to cold storage conditions (Fig. 4S,
+
+813
+
+panel A). Surface cell density of the remaining AAB strains was significantly (P ≤ 0.05) affected
+
+814
+
+by both (low temperature and ozone) storage conditions. With regards to yeasts (Fig. 3S, panel B),
+
+815
+
+H. meyerae CBS 8734, Z. meyerae CBS 6173 and C. vanderwaltii CBS 5524 strains reduced
+
+816
+
+significantly (P ≤ 0.05) their surface cell density under ozone, whereas the viability of the
+
+817
+
+remaining strains were mostly affected by the low temperature.
+
+818
+819
+820
+821
+822
+823
+824
+825
+826
+
+Fig. 4S. Mean values of surface cell density (expressed as cfu cm-2) of AAB (A) and NSY (B)
+strains recorded after 3, 7 and 10 days of ozone exposure (1.07 mg m-3) at 4°C (N = 3). LSD G.
+oxydans LMG 1408, 2.36; Gl. saccharivorans LMG 1582, 1.59; A. aceti LMG 1504, 2.98; A.
+syzygii LMG 21419, 4.84; A. malorum LMG 1746, 4.40; A. orleanensis LMG 1583, 3.59; Gl.
+intermedius LMG 18909, 2.84; C. zemplinina CBS 9494, 8.89; H. uvarum CBS 2585, 14.83; Z.
+hellenicus CBS 6736, 13.11; Z. meyerae CBS 4099, 8.90; Z. meyerae CBS 6173, 9.36; H.
+guillermondii DSM 3432, 4.29; C. vanderwaltii CBS 5524, 6.67; H. meyerae CBS 8734, 3.36.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+805
+
+36
+
+ACCEPTED MANUSCRIPT
+SR 3 - Effect of cold ozone treatment on berries inoculated with a simplified yeast-bacterium
+
+828
+
+association
+
+829
+
+SR 3.1 Biotyping and taxonomic identification of microbial colonies isolated from sound and
+
+830
+
+rotten berries
+
+831
+
+The seven AAB representative strains were typed, after the application of a rough DNA extraction
+
+832
+
+method from plate colonies (Barata et al., 2012b), by applying a RAPD-PCR protocol originally
+
+833
+
+defined for Pseudomonas spp. (Baruzzi et al., 2015). Electrophoretic patterns were well
+
+834
+
+distinguishable among strains and the molecular fingerprint of A. syzygii LMG 21419 was stable
+
+835
+
+using amounts of template within the range of 10-30 ng per reaction (data not shown). This method
+
+836
+
+was used to estimate the ratio of A. syzygii LMG 21419 strain on AAB population enumerated onto
+
+837
+
+GYC plates after the adaptation period, during storage at 25 °C, after cold storage (in air or
+
+838
+
+ozone) and during the post refrigeration period.
+
+839
+
+As regards molecular analysis of yeast isolates, 1283 and Rf2 primers were used for RAPD-PCR
+
+840
+
+protocols as described by Pfliegler et al., (2014). However, after the analysis of more than 50% of
+
+841
+
+isolates, Rf2 was preferred due to its better electrophoretic fingerprint.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+AC
+C
+
+842
+
+RI
+PT
+
+827
+
+37
+
+ACCEPTED MANUSCRIPT
+843
+
+SR 3.2 Identification and quantification of carbohydrates, alcohols and organic acids
+
+844
+
+The concentrations of sugars, organic acids and alcohols registered in sound berries after the
+
+845
+
+adaptation period (T48h) and after additional (T7) incubation at 25 °C are showed in Table 2S.
+
+846
+
+Fructose
+
+Tartaric acid
+
+T0
+
+SS
+
+48.57 ± 4.41
+
+117.75 ± 8.83
+
+T48
+
+SS
+As
+Cz
+As-Cz
+
+47.83 ± 1.47
+49.31 ± 5.15
+54.46 ± 5.15
+48.94 ± 1.10
+
+117.75 ± 4.41
+116.28 ± 12.51
+124.37 ± 9.56
+117.01 ± 2.20
+
+SC
+
+RI
+PT
+
+Glucose
+
+Gluconic/Malic
+acids
+4.79 ± 0.19
+
+4.87 ± 0.36
+4.94 ± 0.21
+5.13 ± 0.44
+6.41 ± 0.70
+
+3.87 ± 0.28
+3.88 ± 0.20
+4.47 ± 0.33
+5.24 ± 0.45
+
+M
+AN
+U
+
+5.02 ± 0.33
+
+66.60 ± 1.83
+153.81 ± 5.88
+7.61 ± 0.99
+5.95 ± 0.33
+SS
+As
+51.14 ± 7.72
+115.54 ± 24.28
+6.06 ± 0.54
+5.34 ± 0.28
+T7
+Cz
+60.34 ± 3.68
+142.04 ± 11.77
+6.29 ± 0.59
+5.49 ± 0.25
+As-Cz
+66.23 ± 4.41
+148.29 ± 9.93
+5.84 ± 0.23
+5.41 ± 0.17
+The least significant difference comparison values (LSD, 95% confidence interval , expressed as g Kg-1) were calculated among the
+different samples at each sampling time and for each metabolite:
+Glucose, T48h = 14.29; T7 = 18.45; Fructose, T48h = 31.07; T7 = 55.27;
+Tartaric acid, T48h = 1.75; T7 = 2.44; Gluconic/Malic acids, T48h = 1.74; T7 = 0.99.
+
+TE
+D
+
+857
+
+Sample
+
+EP
+
+852
+853
+854
+855
+856
+
+Table 2S Mean concentrations (g Kg-1) of sugars and organic acids detected on berries amended
+with sterile saline solution (SS; control) or inoculated with A. syzygii LMG 21419 (As), C.
+zemplinina CBS 9494 (Cz), or both microorganisms (As-Cz) immediately after the inoculum (T0),
+after 48 h at 25 °C (adaptation period, T48h) and after seven days at 25 °C (T7).
+
+AC
+C
+
+847
+848
+849
+850
+851
+
+38
+
+ACCEPTED MANUSCRIPT
+858
+
+In Table 3S the concentrations of carbohydrates and organic acids in sound berries after the cold
+
+859
+
+storage period (T10) and during the post-refrigeration (T17) are reported.
+
+860
+
+Fructose
+
+Tartaric acid
+
+Gluconic/Malic
+acids
+
+Air
+Ozone
+Air
+Ozone
+Air
+Ozone
+Air
+Ozone
+
+50.78 ± 2.94
+
+118.85 ± 10.67
+
+4.61 ± 0.29
+
+4.57 ± 0.25
+
+64.02 ± 7.36
+
+152.71 ± 12.87
+
+57.03 ± 1.83
+
+135.41 ± 7.35
+
+T10
+
+56.30 ± 6.99
+
+121.80 ± 30.54
+
+Cz
+As-Cz
+
+SS
+
+Air
+Ozone
+Ozone
+Air
+Ozone
+Ozone
+
+T17
+
+As
+Cz
+As-Cz
+
+873
+874
+875
+
+4.10 ± 0.14
+
+5.99 ± 0.56
+
+5.33 ± 0.27
+
+4.53 ± 0.25
+
+4.17 ± 0.16
+
+6.59 ± 0.70
+
+5.75 ± 0.41
+
+180.31 ± 11.03
+
+5.66 ± 0.60
+
+5.85 ± 0.33
+
+150.50 ± 9.19
+
+6.07 ± 0.74
+
+4.88 ± 0.28
+
+129.53 ± 2.94
+
+6.53 ± 1.01
+
+5.87 ± 0.35
+
+44.15 ± 11.03
+
+100.82 ± 25.02
+
+4.88 ± 0.18
+
+4.42 ± 0.19
+
+67.70 ± 3.68
+
+157.12 ± 8.46
+
+6.99 ± 0.55
+
+6.23 ± 0.34
+
+68.07 ± 8.46
+
+162.28 ± 19.50c
+
+7.15 ± 0.80
+
+4.61 ± 0.26
+
+66.97 ± 3.68
+
+121.43 ± 30.17
+
+6.55 ± 0.57
+
+5.25 ± 0.37
+
+48.20 ± 4.04
+
+112.97 ± 8.46
+
+6.48 ± 0.14
+
+5.90 ± 0.38
+
+63.66 ± 7.72
+
+116.65 ± 15.82
+
+6.35 ± 0.28
+
+78.38± 6.25
+68.44 ± 1.47
+51.88 ± 3.31
+
+4.53 ± 0.20
+-1
+
+The least significant difference comparison values (LSD, 95% confidence interval, expressed as g Kg ) were calculated among the
+different samples at each sampling time and for each metabolite:
+Glucose T10 = 12.17, T17 = 15.97; Fructose T10 =38.09; T17 = 44.76;
+Tartaric acid T10 = 1.20; T17 = 1.47; Gluconic/Malic acids T10 = 0.69; T17 = 0.67.
+
+EP
+
+872
+
+4.54 ± 0.33
+
+122.17 ± 21.34
+
+AC
+C
+
+867
+868
+869
+870
+871
+
+55.56 ± 5.52
+
+TE
+D
+
+As
+
+SC
+
+Glucose
+
+Sample
+SS
+
+RI
+PT
+
+Tab. 3S Mean concentrations (g Kg-1 FW) of sugars, organic acids and alcohols detected on berries
+amended with sterile saline solution (SS; control) or inoculated with A. syzygii LMG 21419 (As), C.
+zemplinina CBS 9494 (Cz), or both microorganisms (As-Cz) at the end of cold storage period (T10)
+with or without gaseous ozonation (2.04 mg m-3) and then incubated under air for seven days at 25
+°C (T17).
+
+M
+AN
+U
+
+861
+862
+863
+864
+865
+866
+
+39
+
+ACCEPTED MANUSCRIPT
+Tables
+
+Table 1 Viable cell counts of acetic acid bacteria (AAB) and total yeasts (log cfu g-1 ± SD; N = 3)
+of sound grape berries amended with sterile saline solution (SS; control) or inoculated with A.
+syzygii LMG 21419 (As). or C. zemplinina CBS 9494 (Cz), or both microorganisms (As-Cz).
+
+days at 25 °C (T7).
+
+SS
+As
+Cz
+As-Cz
+
+T0
+
+AAB
+T48h
+
+T7
+
+T0
+
+nd
+4.73 ± 0.31
+nd
+3.43 ± 0.06
+
+nd
+6.75 ± 0.15
+nd
+6.45 ± 0.06
+
+nd
+5.35 ± 0.24
+nd
+4.74 ± 0.06
+
+3.15 ± 0.30
+3.07 ± 0.22
+5.24 ± 0.21
+5.20 ± 0.16
+
+Total yeasts
+T48h
+
+T7
+
+3.94 ± 0.08
+6.07 ± 0.21
+7.00 ± 0.15
+6.85 ± 0.18
+
+5.01 ± 0.06
+5.96 ± 0.05
+7.30 ± 0.14
+6.88 ± 0.08
+
+SC
+
+Sample
+
+RI
+PT
+
+immediately after the inoculum (T0), after 48 h a 25 °C (adaptation period, T48h) and after seven
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+nd = not detected (detection limit 1.30 log cfu g-1). The least significant difference comparison values (LSD, 95%
+confidence interval, expressed as log cfu g-1 ) were calculated among the different samples for each sampling time:
+AAB: T0 = 0.74, T48h = 0.32. T7 = 0.32; Total yeasts: T0 = 0.91, T48h = 0.60. T7 = 1.12.
+
+ACCEPTED MANUSCRIPT
+Table 2 Viable cell counts of acetic acid bacteria (AAB) and total yeasts (log cfu g-1 ± SD; N = 3)
+on sound grape berries amended with sterile saline solution (SS; control) or inoculated with A.
+syzygii LMG 21419 (As). or C. zemplinina CBS 9494 (Cz), or both microorganisms (As-Cz)
+immediately at the end of cold storage period (T10) in air or under ozone (2.14 mg m-3) and
+
+T10
+
+SS
+As
+Cz
+As-Cz
+
+AAB
+
+T17
+
+Total yeasts
+Air
+Ozone
+
+Air
+
+Ozone
+
+nd
+6.96 ± 0.08
+nd
+6.02 ± 0.21
+
+nd
+6.04 ± 0.06
+nd
+5.67 ± 0.04
+
+4.67 ± 0.26
+6.24 ± 0.23
+6.89 ± 0.17
+6.81 ± 0.14
+
+3.80 ± 0.21
+4.35 ± 0.08
+6.85 ± 0.12
+6.63 ± 0.24
+
+AAB
+Air
+
+Ozone
+
+nd
+un
+nd
+un
+
+nd
+6.06 ± 0.02
+nd
+5.91 ± 0.06
+
+SC
+
+Sample
+
+RI
+PT
+
+subsequently incubated in air for seven days at 25 °C (T17).
+
+Total yeasts
+Air
+Ozone
+
+5.33 ± 0.23
+un
+6.49 ± 0.11
+un
+
+5.54 ± 0.12
+6.63 ± 0.24
+6.63 ± 0.25
+6.32 ± 0.16
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+nd = not detected (detection limit 1.30 log cfu g-1); un = unavailable sound berries.
+The least significant difference comparison values (LSD, 95% confidence interval, expressed as log cfu g-1) were
+calculated among samples at each sampling time. AAB: T10 = 0.14, T17 = 0.34.Total yeasts: T10 = 0.33, T17 = 0.34.
+
+ACCEPTED MANUSCRIPT
+Table 3 McKinney index (mean value ± SD; n = 3) recorded on grape berries amended with sterile
+saline solution (SS; control) or inoculated with A. syzygii LMG 21419 (As). or C. zemplinina CBS
+9494 (Cz), or both microorganisms (As-Cz) immediately at the end of cold storage period (T10) in
+air or under ozone (2.14 mg m-3) and then incubated in air for seven and 12 days at 25 °C (T17
+and T22).
+T10
+Air
+
+T17
+Ozone
+
+Air
+
+T22
+Ozone
+
+RI
+PT
+
+Sample
+
+Air
+
+Ozone
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+SS
+0.0 ± 0.0
+0.0 ± 0.0
+0.0 ± 0.0
+0.0 ± 0.0
+9.5 ± 4.1
+11.9 ± 4.1
+As
+0.0 ± 0.0
+0.0 ± 0.0
+62.2 ± 7.5
+28.9 ± 11.7
+69.1 ± 4.1
+29.2 ± 3.7
+Cz
+0.0 ± 0.0
+0.0 ± 0.0
+12.2 ± 7.5
+5.6 ± 4.8
+26.1 ± 12.5
+20.2 ± 4.5
+As-Cz
+0.0 ± 0.0
+0.0 ± 0.0
+51.1 ± 3.5
+18.3 ± 7.6
+66.7 ± 4.5
+22.6 ± 3.7
+The least significant difference comparison values (LSD, 95% confidence interval) were calculated for each
+type of sample: SS = 3.4%; As = 2.9 %; Cz = 5.6 %; As-Cz = 1.7 %.
+At T17 mean values (Air or Ozone) were additionally separated for the least significant difference value
+(LSD, 95% confidence interval): 7.69 %
+
+ACCEPTED MANUSCRIPT
+Tab. 4 Composition of dominant total non-Saccharomyces yeasts population (NSY) and acetic acid
+bacteria (AAB) isolated from sound grape berries amended with sterile saline solution (SS; control)
+or inoculated with A. syzygii LMG 21419 (As). or C. zemplinina CBS 9494 (Cz), or both
+microorganisms (As-Cz).
+Sampling time: T0, after the inoculum; T48h, after 48 h a 25 °C (adaptation period); T7, after seven
+
+RI
+PT
+
+days at 25 °C; T10, at the end of cold storage period; T17, after seven days at 25 °C in air. Samples
+T10 and T17 were differentiated for cold storage in air or under ozone (2.14 mg m-3).
+Sample
+
+Population
+
+T0
+
+T48h
+
+T7
+
+T10
+Air
+
+T17
+
+Ozone
+
+Air
+
+Ozone
+
+Hu-Mp
+Hu
+Hu
+Hu
+Hu-Mp-Ap
+Hu-Mp
+Hu-Mp
+NSY
+nd
+nd
+nd
+nd
+nd
+nd
+nd
+AAB
+Hu-Mp
+Hu
+Hu
+Hu
+Hu-Mp
+un
+Cz*
+NSY
+As
+As
+As
+As
+As
+As
+un
+Ga
+AAB
+Cz
+Cz
+Cz
+Cz-Hu
+Cz-Hu
+Cz
+Cz
+NSY
+Cz
+nd
+nd
+nd
+nd
+nd
+nd
+nd
+AAB
+Cz
+Cz
+Cz
+Cz-Hu
+Cz-Hu
+un
+Cz
+NSY
+As-Cz
+As
+As
+As
+As
+As
+un
+Ga
+AAB
+Legend of species:
+Hu, Hanseniaspora uvarum; Mp, Metschnikowia pulcherrima; Ap, Aureobasidium pullulans; Cz, Candida
+zemplinina CBS 9494; Cz*, new C. zemplinina strain
+As = Acetobacter syzygii LMG 21419; Ga = Gluconobacter albidus; un = sound berries unavailable;
+nd = absence of presumptive AAB strains for undetectable level of AAB population
+un = unavailable sound berries.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+SS
+
+ACCEPTED MANUSCRIPT
+Tab. 5 Mean concentrations (g Kg-1) of acetic acid and alcohols detected in sound (s) and rotten (r)
+berries amended with sterile saline solution (SS; control) or inoculated with A. syzygii LMG 21419
+(As), or C. zemplinina CBS 9494 (Cz), or both microorganisms (As-Cz) after seven days of postrefrigeration period (T17) of samples previously cold-stored in air or under ozone (2.14 mg m-
+
+As
+
+Cz
+
+Ozone
+Air
+Ozone
+Air
+
+Ethanol
+
+Glycerol
+
+s
+
+nd
+
+nd
+
+nd
+
+s
+
+nd
+
+nd
+
+r
+
+3.63 ± 0.10
+
+1.58 ± 0.18
+
+1.07 ± 0.10
+
+nd
+
+nd
+
+r
+
+1.23 ± 0.31
+
+3.64 ± 0.40
+
+2.52 ± 1.46
+
+s
+
+nd
+
+nd
+
+nd
+
+s
+
+nd
+
+nd
+
+nd
+
+r
+
+2.53 ± 0.17
+
+0.95 ± 0.22
+
+nd
+
+nd
+
+nd
+
+nd
+
+1.58 ± 0.10
+
+nd
+
+nd
+
+s
+
+Ozone
+
+nd
+
+s
+
+r
+
+EP
+
+TE
+D
+
+As-Cz
+
+Air
+Ozone
+Air
+
+Acetic acid
+
+SC
+
+SS
+
+Berries
+
+M
+AN
+U
+
+Sample
+
+RI
+PT
+
+).
+
+AC
+C
+
+3
+
+nd
+
+A2
+
+A1
+8 yeasts
+
+56 YeastACCEPTED
+MANUSCRIPT
+
+7 bacteria
+
+bacterium
+associations
+
+RI
+PT
+
+Selection of one single
+yeast-bacterium association
+
+Antimicrobial assay
+with 2.14 mg m-3
+gaseous ozone on the
+single strains belonging
+to the selected
+association
+
+SC
+
+In vitro sour rot development
+
+Antimicrobial assay at
+1.07 mg m-3 gaseous
+ozone
+
+M
+AN
+U
+
+Sour rot development assay
+
+7 bacteria
+
+EP
+
+TE
+D
+
+Grape berries inoculated with the selected yeast, or bacterium, or
+their association as well as berries amended with sterile saline
+solution (samples T0)
+48 h at 25°C (samples T48h)
+
+AC
+C
+
+Challenge tests under cold ozonation
+
+B
+
+Storage for 10 days at
+4°C (samples T10)
+Air
+
+2.14 mg m-3
+gaseous ozone
+
+Post-refrigeration storage for 12 days at
+25°C (samples T17 and T22)
+
+Storage in air for 12 days at
+25°C (samples T7 and T12)
+
+Antimicrobial assays of gaseous ozone
+
+8 yeasts
+
+ACCEPTED MANUSCRIPT
+
+Efficacy of gaseous ozone to counteract postharvest table grape sour rot
+Pinto L., Caputo L., Quintieri L., de Candia S. and Baruzzi F.*
+
+Institute of Sciences of Food Production, National Research Council of Italy, Via G. Amendola
+
+RI
+PT
+
+122/O, 70126 Bari, Italy
+
+Highlights
+
+Development of table grape sour rot is specific for different AAB-NSY associations
+
+•
+
+A. syzygii LMG 21419 and C. zemplinina CBS 9494 constituted a simplified microbial
+
+SC
+
+•
+
+M
+AN
+U
+
+consortium
+
+Cold ozonation at 2.14 mg m-3 reduced significantly the LMG 21419 viability
+
+•
+
+Cold ozonation delayed sour rot development also in post-refrigeration period.
+
+AC
+C
+
+EP
+
+TE
+D
+
+•
+
+

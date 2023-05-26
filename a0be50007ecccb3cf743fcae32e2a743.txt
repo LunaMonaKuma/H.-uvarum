@@ -1,0 +1,804 @@
+Food Research International xxx (xxxx) xxx–xxx
+
+Contents lists available at ScienceDirect
+
+Food Research International
+journal homepage: www.elsevier.com/locate/foodres
+
+Inﬂuence of microbial communities on the chemical and sensory features of
+Falanghina sweet passito wines
+Francesca De Filippisa,b, Maria Apontea, Paola Piombinob,c, Maria Tiziana Lisantic, Luigi Moioc,
+⁎
+Danilo Ercolinia,b, Giuseppe Blaiottac,
+a
+
+Department of Agricultural Sciences, Division of Microbiology, University of Naples Federico II, Via Università 100, 80055 Portici, Naples, Italy
+Task Force on Microbiome Studies, University of Naples Federico II, Naples, Italy
+c
+Department of Agricultural Sciences, Division of Vine and Wine Sciences, University of Naples Federico II, Viale Italia, 83100 Avellino, Italy
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Falanghina
+Passito sweet wine
+Microbiota
+Quantitative Descriptive Analysis (QDA)
+Volatile Organic Compounds (VOCs)
+
+Natural (N) as well as starter inoculated (S, inoculated with Saccharomyces cerevisiae M3–5; CZS, Candida
+zemplinina T13, Zygosaccharomyces bailii NS113 and Saccharomyces cerevisiae M3–5) fermentations of Falanghina
+must from dehydrated grape were monitored. Culture dependent analyses and amplicon-based high-throughput
+sequencing targeting 18S rRNA and 16S rRNA genes were used to monitor the fungal and bacterial communities
+(8 sampling points during 65 days). The resulting wines were subject to both sensory evaluation and volatile
+organic compounds analysis.
+Fungal community of un-inoculated musts (N) at beginning of the fermentation was mainly represented by
+Aureobasidium, Cladosporium, Sclerotinia, while Candida, Debaryomyces, Hanseniaspora, Metschnikowia, Pichia,
+Saccharomyces and Zygosaccharomyces showed a very low occurrence. The dominance of Hanseniaspora vineae
+and/or Hanseniaspora uvarum was clear up to 29th days of fermentation. S. cerevisiae occurred in all the phases
+but become dominant only at the end of the process.
+The odour proﬁles as evaluate by Quantitative Descriptive Analysis (QDA) highlighted a signiﬁcant impact of
+the fungal populations on the olfactory proﬁles of the wines. Raisins, dried fruits, Sherry and liqueur were
+stronger in both S and CZS, while N was mostly discriminated by solvent/chemical and ﬂoral features. Outcomes
+underpin the impact of microbiota on the chemical and odour traits of Falanghina passito wines.
+
+1. Introduction
+From the Vins de paille of France to Austrian Strohwein, wines made
+from dried grapes are a centuries-old tradition. From this perspective,
+Italy can boast excellence of many notorious and time-honored sweet or
+dry passito wines, both from white or red grapes dehydrated on-vine or
+post-harvest under the sun, in shaded aerated rooms or in fully controlled environmental conditions. Withering (Appassimento) is a lost-intime process whereby grapes are partially dried mostly to concentrate
+sugars and ﬂavors prior to viniﬁcation. Moreover, the production
+technologies may be deeply variable and may include important parameters, such as slow/long multiple fermentations, the addition of fresh
+must during the fermentation, the wine ageing in oak barrels and many
+others. All these gives rise to diﬀerent wine styles, corresponding to
+typical products characterized by distinctive sensory characteristics and
+ﬂavor complexity (Moio & Piombino, 2013).
+The basic Appassimento styles diﬀer markedly depending on the
+
+⁎
+
+area. Diﬀerent grape varieties are dried in distinctive ways and for a
+variable time, depending on the quality of the harvest, as well as on the
+local tradition or DOC/DOCG (Appellation of Controlled Origin/
+Appellation of Controlled and Guaranteed Origin) regulations. In other
+words, the high number of variables involved makes such phase hard to
+standardize. As grapes are slowly dehydrated in fruttaio without environmental conditioning in the traditional passito wine production, the
+incidence of noble rot on the grapes can be extremely variable, according to the weather conditions.
+Indeed, a crucial aspect in passito wines production is the fermentation step. Such phase is often delegated to the fresh must microbiota
+although cellar residential yeasts can play an important role as shown
+by diﬀerent researchers (Aponte & Blaiotta, 2016a; De Filippis, La
+Storia, & Blaiotta, 2017; Tofalo et al., 2009). However, in Vin Santo
+production, a natural starter culture (known as the mother sediment) is
+used to enrich the must (Domizio et al., 2007). Musts for passito wine
+production are characterized by a high sugar content (over 300 g/L),
+
+Corresponding author.
+E-mail address: blaiotta@unina.it (G. Blaiotta).
+
+https://doi.org/10.1016/j.foodres.2018.11.033
+Received 26 July 2018; Received in revised form 13 November 2018; Accepted 16 November 2018
+0963-9969/ © 2018 Elsevier Ltd. All rights reserved.
+
+Please cite this article as: De Filippis, F., Food Research International, https://doi.org/10.1016/j.foodres.2018.11.033
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+cerevisiae M3–5 at about 105 CFU/mL. The remaining two batches “N”
+were left to spontaneous fermentation, thus serving as controls. Strains
+were previously grown in a medium with high sugar content (yeast
+extract 10 g/L, peptone 20 g/L, sucrose 350 g/L, pH 3.5) at 25 °C for
+3 days. At the onset of fermentation, all batches were supplemented
+with 100 mg/L of Nutistart (Laﬀort, Bordeaux Cedex), containing assimilable nitrogen and thiamine, was used as fermentation activator
+(100 mg/L provides 14 mg/l of total available nitrogen and 0.13 mg/L
+of thiamine). Such addition was repeated after 7 days (at 50 mg/L).
+Fermentations were carried out at 18–20 °C. After 49 days, a ﬁrst
+racking was performed and lees were discarded. At 66 days, after a
+second racking, wines were further sulphitated (50 mg/L), bottled and
+stored at 10 °C. Fermentations were physico-chemically and microbiologically monitored by collecting samples at 0, 4, 7, 13, 20, 29, 34,
+42, 63, and 66 days of fermentation. After one month of storage at
+10 °C, wines were subjected to sensory evaluation and volatile organic
+compounds (VOCs) analysis.
+
+coupled to a high concentration of acids, polyphenols, metal ions and
+Maillard reaction's by-products, that may contribute to stuck or sluggish
+fermentation (Tofalo et al., 2009). To address this problem, many
+winemakers inoculate pure yeast cultures into the must after pressing
+instead.
+Only a few works have focused on the selection of autochthonous
+yeast strains to eﬃciently lead the main fermentation. Aponte and
+Blaiotta (2016a) adopted indigenous yeast strains for the fermentation
+on a pre-competitive scale of Moscato di Saracena, a passito wine produced in Southern Italy, while Azzolini and co-workers (2013) coupled
+the use of selected yeast strains in fermentation, with the use of Botrytis
+cinerea cultures during drying in the viniﬁcation of Amarone and Recioto
+wines. Moreover, Rantsiou et al. (2012) demonstrated that mixed
+starters including S. cerevisiae and C. zemplinina could be proﬁtably used
+to reduce the production of acetic acid by S. cerevisiae in sweet wine
+fermentations.
+In the present study, natural and starter-inoculated fermentations of
+musts of sun dried Falanghina grapes were monitored. This typical
+grape cultivar of the Campania Region (Southern Italy) is characterized
+by a middle trunk-conical bunch, winged with medium-sized grapes
+provided with thick and waxy peel, crispy pulp from slightly ﬂoral
+ﬂavor, which gives rise to musts with a strong acidity. Physico-chemical
+and microbiological evaluations were performed from the beginning
+until the end of the fermentation to describe the kinetics and to depict
+fungal and bacterial population changes. Finally, we evaluated the
+sensorial proﬁle and the volatile organic compounds (VOCs) of the
+resulting wines to investigate the impact of the microbial populations
+on the chemical and odour proﬁles of this wine.
+
+2.3. Physico-chemical analyses
+Brix degrees and pH were assessed by using a portable refractometer
+(0–80% Sper Scientiﬁc, PBI International) and a lab pH-meter (XS,
+model pH 50), respectively. Total acidity of samples was estimated by
+titration with NaOH 0.25 N on 25 mL of must/wine samples, and expressed as tartaric acid (g/L). Glucose, fructose, glycerol, and ethanol
+contents were evaluated by HPLC analyses as previously described
+(Aponte & Blaiotta, 2016a). A Gilson 307 Series HPLC system equipped
+with a refractive index detector (RID 133, Gilson) coupled to a MetCarb68H column (6.5 × 300 mm, Varian) was used. Tartaric, malic,
+acetic and lactic acids were estimated HPLC by using an Agilent 1100
+Series HPLC system equipped with a DAD detector (Agilent 1100 series
+G13114B) and a Spherisorb ODS2 column (5 μm 4,6 × 250 mm, SigmaAldrich).
+Color intensity and tonality were evaluated by spectrophotometer
+reading the absorbance at 420, 520 and 620 nm (Eppendorf Basic
+BioSpectrometer), after dilution (1:5) in tartaric acid solution (9 g/L of
+tartaric acid, pH 3.2). Color intensity was calculated as the sum of
+A420, A520, A620 values, while the color tonality was assessed by ratio
+A420/A520. All analyses were performed in triplicate. Signiﬁcant differences (p < .05) among the three fermentations were tested by
+ANOVA and post-hoc Tukey's test, carried out in R environment.
+
+2. Material and methods
+2.1. Passito must production
+Grapes used for this study were cultivated in Castelvenere
+(Benevento province) at an altitude of about 150 m above the sea level
+by Geneva Double Courtain (GDC) farmed system, planted
+2.40 × 1.40 m. Guyot pruning was carried out by leaving three bosses
+in fruit per plant. Soil was characterized by steep slope and mediumlow fertility. The grapes were harvested in the second half of October,
+already over-ripened and, precisely, characterized by an average sugar
+content of 25.5°Brix. Bunches quality was excellent nevertheless a
+further selection was made by removing berries exhibiting small lesions
+or evidence of alteration. Grapes were placed in perforated plastic trays
+sized 50 × 30 × 20 cm (about 2.5 kg each), covered with a thin nonwoven sheet and brought into the so-called fruttaio: a well-ventilated
+drying room. After about one month of withering, a further selection
+was carried out by eliminating berries evidently aﬀected by Botrytis not
+in the noble form. Before pressing (beginning of March), withered
+grapes were subjected to a ﬁnal selection. Bunches were de-stemmed
+and lightly crushed before being pressed with a steel mini wine press.
+We extracted about 50 L of Passito must starting from 140 Kg withered
+grapes (about 35%). The must obtained had the following main features: total sugars, 37°Brix; pH, 3.81; total acidity, 8.9 g/L (expressed as
+tartaric acid).
+
+2.4. Microbiological analyses
+Must and wine samples were serially diluted in quarter strength
+Ringer's solution (Oxoid, Basingstoke, UK) and spread-plated (in duplicate) on WL-nutrient agar (Oxoid) supplemented with 100 mg/L of
+chloramphenicol and on MRSm1 medium, for yeast and lactic acid
+bacteria (LAB) counts, respectively. MRSm1 was developed ad hoc,
+adding to 26 g/L of MRS broth (Oxoid) the following ingredients: yeast
+extract (5 g/L), fructose (5 g/L), L-cysteine hydrochloride monohydrate
+(0.5 g/L), calcium chloride (0.25 g/L), bromocresol green (22 mg/L),
+agar (20 g/L), 170 mg/L of cycloheximide and 10 mg/L of pantothenic
+acid (all from Sigma-Aldrich). pH was adjusted to 5.2 with 20% malic
+acid solution. Plates were incubated at 30 °C for 5 days.
+
+2.2. Fermentations trials
+2.5. DNA isolation from must/wines, high-throughput sequencing analysis
+(HTS) and data analysis
+
+Must was sulphitated (100 mg/L of potassium metabisulphite) and
+divided into six batches. Four batches were inoculated with selected
+yeast starters. Speciﬁcally, two batches “S” were added with S. cerevisiae M3–5 (about 106 CFU/mL), previously isolated from Passito of
+Moscato di Saracena (Aponte & Blaiotta, 2016a); two batches “CZS”
+were inoculated with Candida zemplinina T13 (about 106 CFU/mL)
+isolated from Aglianico of Taurasi (Aponte & Blaiotta, 2016b) and Zygosaccharomyces bailii NS113 from Falanghina wine (Aliberti, Aponte, &
+Blaiotta, 2012), both at a populations level of about 106 CFU/mL, and S.
+
+Total DNA extraction from samples collected at the diﬀerent sampling points was carried out by using the Biostic Bacteremia DNA extraction kit (MoBio Laboratories Inc., Carlsbad, CA), starting from the
+pellet obtained from 2 mL of must/wine (10,000 ×g, 2 min). Before
+DNA isolation, pellets from the two replicates for each sample, were
+joined, washed twice with 1.5 mL of STE (Sodium Chloride-Tris-EDTA,
+pH 8.0) buﬀer and centrifuged at 12,000 ×g for 2 min.
+2
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+for each descriptor: frequency of citation of a sensory term and intensity
+assigned to it. In this way are properly considered cases in which a term
+has been used frequently but with low scores, and cases in which the
+same descriptor has been poorly cited but with high scores. Data were
+analyzed by one-way ANOVA, and the mean scores for each descriptor
+of the three experimental wines were compared by a Tukey t-test
+(p < .05) (XLStat 2012.6.02 statistical pocket, Addinsoft Corp., Paris,
+France).
+
+The bacterial and eukaryotic diversity were studied through HTS.
+Fungal communities were studied by sequencing of a portion (V4 subregion) of the small subunit of ribosomal RNA gene (18S rRNA), using a
+recently described primer set (18S-580f/18S-997r) (De Filippis, Laiola,
+Blaiotta, & Ercolini, 2017). Library preparation and sequencing on a
+454 GS Junior platform were carried out as previously reported (De
+Filippis, Laiola, et al., 2017). Bacterial community was studied through
+sequencing of the V3-V4 region of the 16S rRNA gene amplicons obtained by using primer S-D-Bact-0341F/S-D-Bact-0785R (Klindworth
+et al., 2013). Libraries were prepared and sequenced on an Illumina
+MiSeq platform as recently described (Berni Canani et al., 2017).
+Paired-end reads were joined by using FLASH (Magoc & Salzberg,
+2011).
+Quality ﬁltered reads (average quality score below 25, length <
+250 or 300 bp, for Bacteria and Fungi, respectively) were then analyzed
+and further ﬁltered by using QIIME 1.9.1 software, with a pipeline recently described (Berni Canani et al., 2017). OTUs deﬁned by 97% similarity threshold were identiﬁed by using the Silva SSU/LSU rRNA
+gene release 119 for Fungi (Quast et al., 2013) and the Greengenes 13.5
+database for Bacteria (McDonald et al., 2012), respectively.
+Statistical analyses and plotting were carried out in R environment
+(http://www.r-project.org). Principal Component Analysis (PCA) was
+carried out on the Log transformed abundance table by using dudi.pca
+function in made4 package. Spearman's pairwise correlations were
+computed between fungal and bacterial OTU abundance or microbiota
+and VOCs (corr.test function in psych package) and plotted by using the
+corrplot function. Correction of p-values for multiple testing was performed (Benjamini & Hochberg, 1995).
+The 18S and 16S rRNA gene sequences are available at the Sequence
+Read Archive (SRA) of the National Center for Biotechnology
+Information (NCBI), under accession number SRP149165.
+
+2.7. VOCs analysis
+For VOCs extraction, 100 mL of wine were extracted by liquid-liquid
+extraction with 5 mL of CH2Cl2 as a solvent spiked with 250 μL of an
+alcoholic solution of 2-octanol (258 ppm/EtOH) as internal standard.
+The mix was kept under magnetic stirring for 1 h at the constant temperature of 21 °C. After 12 h at 2 °C, the organic phase was recovered
+through a separating funnel, dried over Na2SO4, and stored at −20 °C
+until the GC/MS analysis. Each extraction was carried out in triplicate.
+For High Resolution Gas-Chromatography/Mass Spectrometry
+(HRGC/MS) analysis, 2 μL of organic extract were injected in splitless
+mode, while the injection port of a GC/MS-QP2010 quadrupole mass
+spectrometer (Shimadzu, Shimadzu corp., Kyoto, Japan) was maintained at 250 °C. The GC/MS was equipped with a DB-WAX column
+(60 m, 0.25 mm i.d., 0.25 μm ﬁlm thickness; J&W Scientiﬁc Inc.,
+Folsom, CA 95360, USA). The carrier gas was helium (1.3 mL/min) and
+the temperature program used was the following: 40 °C for 5 min, raised
+up to 220 °C at a rate of 2 °C/min, and held for 20 min at the maximum
+temperature. Electron impact mass spectra were recorded with ion
+source energy of 70 eV, while the temperature was kept at 230 °C. The
+peak areas were measured using a GC/MS solution program Shimadzu
+version 2.30 (Shimadzu corp., Kyoto, Japan). Compounds concentrations and identiﬁcation were computed and performed as previously
+reported (Piombino et al., 2010). In a few cases, the pure chemical
+standard was not available, and the identiﬁed compounds were labelled
+as tentative (t). Signiﬁcant diﬀerences among the wines were tested by
+ANOVA (p < .05) performed with the XLStat 2012.6.02 statistical
+pocket (Addinsoft Corp., Paris, France).
+
+2.6. Sensory analysis
+A quantitative descriptive sensory analysis (QDA) of the experimental wines was performed. The odour proﬁles (orthonasal evaluation) were obtained employing apanel composed of 8 judges (4 males
+and 4 females, 21 to 48 years old). They were recruited from the staﬀ
+and the students of the Department of Agricultural Sciences of the
+University of Naples Federico II, selected on the basis of their sensory
+abilities, trained in recognize and describe odours (chemical standards),
+in performing sensory descriptive analysis of wine and with extensive
+experience in sensory descriptive analyses of various wine typologies
+including sweet wines. Thirty mL of each wine were served at 10 °C in
+black tulip-shaped glasses, coded with random three-digit codes.
+Samples were evaluated in duplicate (two duplicate sessions). Each
+judge evaluated all the wines in each session and the wines were served
+according to a randomized service design. The judges were asked to
+focus on the perceived odour descriptors and rate the corresponding
+intensities on a 9- point scale (1 = very weak, 2 = weak, 3 = medium,
+4 = strong, 5 = very strong, half values being allowed). They were
+provided with a list of 25 odour descriptors (the order was randomized
+among the judges) associated with sweet wines (Reboredo-Rodríguez,
+González-Barreiro, Rial-Otero, Cancho-Grande, & Simal-Gándara,
+2015). Furthermore, under the item “More” the judges had the opportunity to add and rate descriptors eventually perceived and not included in the list.
+Only the descriptors cited at least 4 times (citation frequency ≥ 50%) in one sample and one repetition were retained for data
+elaboration. Sensory data were computed as the geometric mean of
+frequency and mean intensity (Mean Sensory Modiﬁed Frequency - MF)
+as described by Dravnieks (1982): MF = (F * I)1/2; where F is the frequency of citation expressed as a percentage of the maximum frequency
+of citation (i.e. total number of judges) and I is the mean intensity expressed as a percentage of the maximum rate (i.e. the value of 5). This
+method takes into account both types of values produced by assessors
+
+3. Results and discussion
+Viable yeasts in uninoculated, sulphitated must (sample N, t0) were
+about 4.4 Log CFU/mL at the beginning of the fermentation, thus lower
+than those usually recorded for other passito musts (5–6 Log CFU/mL),
+such as “Vino cotto”, “Vinsanto”, “Mondeuse Black” and “Erbaluce”
+(Alessandria et al., 2013; Domizio et al., 2007; Rantsiou et al., 2013;
+Tofalo et al., 2009). This may be due to the high quality of the sun dried
+berries used, that were manually selected.
+As expected, in inoculated batches (S and CZs), fermentation started
+with a higher level of viable yeasts: 6.0 ± 0.01 and 6.8 ± 0.06 Log
+CFU/mL in S and CZS, respectively (Supplementary Table 1). After
+4 days of fermentation, yeasts reached about 8 Log CFU/mL in both S
+and CZS trials, and then remained quite stable up to 20 days of fermentation (Supplementary Table 1). From the 20th day on, the yeast
+microﬂora in inoculated fermentations showed a diﬀerent behavior:
+both experienced a drop, but the decline was faster in CZS if compared
+to S (Supplementary Table 1). In sample N, yeast microﬂora reached
+about 7 Log CFU/mL after one week and did not change signiﬁcantly up
+to 44 days (Supplementary Table 1; 7.2–6.5 Log CFU/mL). At the end of
+monitoring (66 days), yeasts were below one Log CFU/mL in starter-led
+fermentations, while they reached about 4 Log CFU/mL in the natural
+fermentation (Supplementary Table 1). In all batches, LAB were undetectable (< 10 CFU/mL) up to the 66th day (Data not shown). Just
+few cycloheximide-resistant yeast colonies were retrieved on MRSm1
+agar plates used for LAB counting (Data not shown).
+A culture-independent approach, based on HTS analyses, was applied to monitor both fungal and bacterial communities during
+3
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+Fig. 1. Stacked bar showing the eukaryotic populations in Passito musts and wines analyzed in this study: N, natural fermentation; S, samples inoculated with S.
+cerevisiae; CZS, samples inoculated with C. zemplinina, Z. bailii, S. cerevisiae.
+
+zemplinina increased from 44 to 66 days (Fig. 1). The persistence, until
+the end of the fermentation, of Candida, Zygosaccharomyces and Pichia
+was also shown in Vinsanto and Vincotto passito wines by Domizio et al.
+(2007) and Tofalo et al. (2009), respectively.
+Bacterial community was dominated by Proteobacteria and
+Actinobacteria, while Firmicutes showed lower levels (Supplementary
+Fig. 1). Most abundant genera in all the fermentations included Methylobacterium, Sphingomonas, Propionibacterium and Acinetobacter. Previous HTS analyses of the grapevine phyllosphere, ﬂowers and grape
+berry surface, demonstrated that the bacterial communities were predominated by Proteobacteria followed by Firmicutes, Actinobacteria,
+Acidobacteria, and Bacteroidetes (Morgan et al., 2017). In our fermentations Propionibacterium and Staphylococcus showed an increasing
+trend up to 66 days. Acinetobacter reached abundance > 10% in N fermentation after 29 days, while it developed faster in S (11.3% at
+13 days) and CZS (16.9% at 20 days). Acinetobacter as well as other
+bacterial genera including Methylobacterium, Sphingomonas, Pseudomonas, Wolbachia, and Paracoccus were detected until the end of alcoholic fermentation in previous studies (Bokulich, Joseph, Allen, Benson,
+& Mills, 2012; Portillo & Mas, 2016). A low abundance of both LAB and
+acetic acid bacteria was shown during fermentations (Supplementary
+Fig. 1). Similar results were previously reported (Bokulich et al., 2012).
+Among LAB, Lactobacillus and Streptococcus occurred in all fermentation
+phases, while the other genera were found sporadically only. Both
+Gluconobacter and Gluconacetobacter were often found, while Acetobacter was never detected.
+Finally, we evaluated the co-occurrence pattern between bacterial
+and fungal communities (Supplementary Fig. 2). Acinetobacter signiﬁcantly (FDR < 0.05) co-excluded with ﬁlamentous fungi (Sclerotinia, Cladosporium), while Methylobacterium and Sphingomonas showed
+an opposite correlative pattern. S. cerevisiae co-occurred with Streptococcus spp. and C. zemplinina showed only one signiﬁcant negative
+correlation with Pseudomonas.
+Consequently, diﬀerent kinetics in sugars consumption, were detected along the three fermentations (Supplementary Table 1). Must at
+t0 showed a level of total sugars of about 400 g/L (388–397 g/L).
+Fermentation N showed a one week long lag phase, since during this
+period only 21 g/L of sugars were consumed. By contrast, S and CZs
+fermentations promptly began, and > 100 g/L of sugars were consumed
+in the same time frame: about 105 and 137 g/L, in S and CZS,
+
+fermentations. HTS technologies have become the tool of choice in
+deciphering both vineyard and wine microbiome (De Filippis, La Storia,
+& Blaiotta, 2017; De Filippis, Parente, & Ercolini, 2018; Morgan, du
+Toit, & Setati, 2017). These technologies have revealed more ﬁlamentous fungal species than yeast species especially those associated
+with the grape berry surface, and a higher diversity compared to other
+culture-independent methods (Morgan et al., 2017).
+In this study, ﬁlamentous fungi, such as Aureobasidium,
+Cladosporium and Sclerotinia spp., prevailed in all the samples at the
+beginning of the fermentation (Fig. 1). These genera are part of the
+fungal microbiota of Vitis vinifera showing diﬀerent types of life modes
+(pathogen, endophyte, saprotroph) and are responsible for diseases like
+“Fruit rot” and “Shoot blight” (Jayawardena et al., 2018). A high occurrence of Aureobasidium (A.) pullulans was also shown by Alessandria
+et al. (2013) during on-vine withering of Mondeuse black cultivar winegrapes by culture-dependent methods. However, A. pullulans is a technologically irrelevant species that as soon as the fermentation started
+has disappeared (Alessandria et al., 2013; this study Fig. 1).
+Yeasts retrieved in sample N at time 0 included Hanseniaspora (H.)
+uvarum, Saccharomyces cerevisiae (S.), Metschnikowia fructicola, Candida
+(C.) etchellsii, Hanseniaspora vineae, Debaryomyces (D.) hansenii. Also
+other yeast genera were previously retrieved in natural musts from
+dehydrated grapes, such as Pichia, Zygosaccharomyces, and
+Kluyveromyces (Alessandria et al., 2013; Aponte & Blaiotta, 2016a;
+Domizio et al., 2007; Tofalo et al., 2009). Besides other factors, the
+higher sugar content (about 400 g/L) may explain the diﬀerent microbial composition of our passito must compared to that previously reported.
+About 20% of S. cerevisiae was found in sample S at time 0, while its
+abundance was about 10 times lower in CZS, consistent with the starter
+inoculum (Fig. 1). Both C. zemplinina and Zygosaccharomyces (Z.) bailii
+were found at t0 only in CZS. Naturally fermented samples showed a
+diﬀerent fungal community and clearly clustered apart from the inoculated samples (Fig. 2). S. cerevisiae prevailed in both the inoculated
+fermentations after 4 days, but Z. bailii was still detectable in CZS until
+20 days, as well as C. zemplinina, which increased in abundance at the
+end of the fermentation. Higher diversity was found in natural fermentation. It was mainly carried out by H. uvarum and H. vinae until
+29 days, when S. cereviasiae abundance started increasing. Moreover, Z.
+rouxii persisted from day 13th until the end of the process and C.
+4
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+Fig. 2. Principal Component Analysis (PCA) based
+on eukaryotic community composition. The two
+principal components were plotted using the vegan
+package in R. Samples were coloured according to
+the type of inoculum: blue, natural fermentation (N);
+green, S. cerevisiae (S); red, C. zemplinina, Z. bailii, S.
+cerevisiae (CZS). (For interpretation of the references
+to color in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+(20–23 g/L) but very diﬀerent fructose concentration (121 g/L in S and
+85 g/L in CZS) at the end of fermentation (Supplementary Table 1).
+Kinetics of ethanol production substantially reﬂected those of sugar
+depletion (Supplementary Table 1). Wines showed variable ethanol
+content, with the lowest value in N (8.9 ± 0.4%, v/v) and the highest
+in CZS (16.5 ± 0.2%, v/v). Ethanol yield, namely the ratio ethanol/
+sugar consumed (g/g) was variable as well: 0.42, 0.48 and 0.46 in N, S
+and CZS, respectively. As expected, glycerol was already detectable in
+musts at the beginning of fermentation, with values ranging from
+3.0 ± 0.2 in CZS to 3.6 ± 0.2 g/L in S (Supplementary Table 1).
+Indeed, due to water loss stress, the cell metabolism of dehydrated
+grape shift from aerobic to anaerobic and the osmotic potential due to
+higher sugar levels improve the synthesis of glycerol together with
+acetic acid (Cirilli et al., 2012). Although the glycerol content of wines
+at 66 days did not diﬀer signiﬁcantly (14.2–14.5 g/L), diﬀerent production kinetics were highlighted depending on the fermentation: glycerol was produced mainly during the ﬁrst week in S and CZS, while it
+reached the same value in the natural fermentation N after 20 days
+(Supplementary Table 1). This suggest that in the inoculated musts,
+yeast cells were able to quickly counteract osmotic stress, by producing
+glycerol at higher rates in order to limit water loss from the cytoplasm
+and prevent dehydration of the yeast (Erasmus, van der Merwe, & van
+Vuuren, 2003). Acetic acid was low (0.18–0.24 g/L) in musts, but
+reached levels ranging from 1.15 ± 0.07 in N to 1.39 ± 0.07 g/L in S
+after 66 days (Supplementary Table 1). Moreover, regarding acid acetic
+content, no signiﬁcant diﬀerences were found between S and CZS
+wines. The concentration of acetic acid may seems too high compared
+to others passito wine previously studied such as Vinsanto, Amarone,
+Mondeuse Blanck and Moscato of Saracena (Alessandria et al., 2013;
+Aponte & Blaiotta, 2016a; Azzolini et al., 2013; Domizio et al., 2007).
+However, the acetic acid produced during alcoholic fermentation
+
+respectively. Such diﬀerence in sugar consumption (about 30–40 g/L)
+between fermentations S and CZS continued until 66th days and could
+be ascribed to the fructophilic character of some yeasts inoculated in
+CZS. Finally, all the samples at 66 days were characterized by diﬀerent
+residual sugar content: 230, 144 and 105 g/L for N, S and CZS, respectively (Supplementary Table 1). High residual sugar is a typical
+feature of most wines obtained from over-ripened/dehydrated grapes
+(Alessandria et al., 2013; Aponte & Blaiotta, 2016a; Domizio et al.,
+2007; Moio & Piombino, 2013; Rantsiou et al., 2012; Tofalo et al.,
+2009). However, also dry wines with low residual sugars can be produced from passito musts by using technological and/or microbiological
+tools such as starter cultures (Alessandria et al., 2013; Azzolini et al.,
+2013). Diﬀerences in the residual sugars of this type of wine can be
+mainly related to the initial sugar content of musts that generally ranges
+from around 280 g/L (eg. Vinsanto must; Domizio et al., 2007) to about
+400 g/L (Erbaluce must; Rantsiou et al., 2012), similarly to that used in
+this study.
+The fructose/glucose ratio (F/G) at the onset of the fermentation
+was that typical of over ripened grapes: 1.16 ± 0.02 (Supplementary
+Table 1). In spontaneous fermentation N, such value remained unchanged until the day 13th, then slightly increased up to 2 at the day
+66th. On the other hand, F/G ratio showed a similar trend in both yeastinoculated trials, reaching values around 2 after 20 days. Values signiﬁcantly diverged later, reaching 4.2 and 5.2 at the end of monitoring,
+in CZS and S respectively (Supplementary Table 1). The lower F/G ratio
+in CZS compared to S may be related to the occurrence of C. zemplinina
+in the starter culture. In fact, as reported by Rantsiou et al. (2012) and
+Aponte and Blaiotta (2016b), C. zemplinina strains are characterized by
+a higher consumption of fructose than glucose, and some strains show a
+total fructophilic character. Data obtained in this study further conﬁrm
+this behavior. Indeed, S and CZS wines showed similar glucose content
+5
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+S resulted as the richest in esters, followed by CZS (−5.8%) and
+then by N (−32%).
+S and CZS were both richer in ethyl esters compared to N, but ethyl
+hexanoate, ethyl octanoate and ethyl decanoate were higher in S.
+Acetates were higher in N, where isoamyl acetate and β-phenylethyl
+acetate, two important wine odour-active molecules, were around two
+or twenty times more concentrated compared to S and CZS. Ethyl vanillate was detected only in S and CZS.
+Three aldehydes linked to the lipoxygenase activity were identiﬁed.
+The two saturated, hexanal and heptanal, showed the same concentration in N, S and CZS, while the unsaturated cis-3-hexenal was
+detected only in S. The concentration of benzaldehyde was signiﬁcantly
+aﬀected by yeasts conducting the alcoholic fermentation, with the
+highest amount detected in S, followed by CZS (−16%) and ﬁnally N
+(−46%).
+Among ketones, 2-pentanone was detected only in N. Other two
+ketones directly related to the alcoholic fermentation were detected in
+the three wines: diacetyl was not signiﬁcantly diﬀerent but, comparing
+the spontaneous fermentation to the inoculated wines, it showed an
+increasing trend; acetoin was signiﬁcantly diﬀerent among the three
+samples; however, it was much higher in N compared to S and CZS.
+Accordingly, 2,3-butanediol, a compound directly metabolized from
+acetoin, showed higher levels in CZS compared to N, in line with the
+higher levels of glycerol. Indeed, 2,3-butanediol is linked to yeasts
+metabolism and glycerol production, as well as to ethanol oxidation and
+acetaldehyde. C. zemplinina could be responsible for the production of
+this compound. Indeed, its ability to produce high amount of glycerol
+was recently conﬁrmed and associated to the low production of ethanol
+and acetic acid (Englezos et al., 2015). However, from a sensory point
+of view, we have to consider that both acetoin and 2,3-butanediol have
+detection threshold values of about 150 mg/L in wine (Romano & Suzzi,
+1996) therefore at the detected levels they cannot inﬂuence the aroma
+of any of the studied wines.
+γ-Butyrolactone, probably formed by yeast catabolism of glutamic
+acid (Wurz, Kepner, & Webb, 1988) was the most abundant lactone in
+all samples, with a signiﬁcantly higher concentration in CZS; δ-hexalactone was detected in N and S at similar concentrations, while γnonalactone was present only in N.
+The level of total furans importantly diﬀers among the wines, being
+CZS the richest both at quantitative and qualitative level, followed by S
+(−42%) and ﬁnally N (−89%). Furfural and 5-hydroxymethylfurfural
+were the most abundant furans in both the inoculated wines. Sotolon
+was detected at concentrations higher than its odour detection
+threshold (10 μg/L in wine) in all the wines, at similar levels and with
+the highest value in CZS.
+Acetals were detected in all the wines and S showed the highest
+total amount. 2,4,5-Trimethyl-1,3-dioxolane was the most abundant in
+the three samples, while 2-methyl-1,3-dioxane was detected only in N.
+The wine CZS was the richest in sulphur compounds. Methionol was
+identiﬁed in the three wines at very diﬀerent levels: the highest in CZS,
+followed by S (−56%) and then N (−90%). Furthermore, an unknown
+thiol was detected in N and CZS but not in S; its concentration was >
+3.5 times higher in CZS compared to N.
+Linalool, 4-terpineol, α-terpineol and citronellol were identiﬁed in
+N and S, while only α-terpineol and citronellol were detected in CZS in
+similar amounts.
+The odour sensory proﬁles (Fig. 3) of the three wines showed some
+diﬀerences that seem in accord with results on VOCs. The three wines
+showed common odour traits, namely the dominance of the descriptors
+“raisins”, “dry fruits”, “Sherry/Marsala” and “liquor” (Fig. 3). All these
+descriptors are commonly elicited in the odour proﬁle of sweet wines
+(Piombino et al., 2010; Reboredo-Rodríguez et al., 2015). Despite these
+common characteristics, the fermentative microbiota had a signiﬁcant
+impact in diﬀerentiating the odour proﬁles of the wines. Indeed, the
+CZS wine got signiﬁcantly higher values for the descriptors “plastic/
+gum” and “woody”, being woody notes related to the oxidative
+
+should be correlated with both initial sugar content of must and the
+sugar consumed during fermentation (ethanol content of wine) also in
+relation to the winemaking steps, that can importantly diﬀer in the
+production of the mentioned wines. Sugar content of musts used to
+produce Vinsanto, Amarone Mondeuse Blanck and Moscato of Saracena
+wines was about 300–310 g/L (Alessandria et al., 2013; Aponte &
+Blaiotta, 2016a; Azzolini et al., 2013; Domizio et al., 2007), lower than
+the must fermented here (400 g/L). Moreover, the fermentation purity
+index [(acetic acid g/L)/(ethanol % vol)], as deﬁned by Comitini et al.
+(2011), of the wines produced during this study (0.130, 0.092, and
+0,075 for N, S and CZS, respectively) supports the idea that mixed
+starter cultures including C. zemplinina and Z. bailii could be a means to
+manage the alcoholic fermentation in musts from withered grapes. C.
+zemplinina strains are osmotolerant and fructophilic and generally
+produce low amounts of acetic acid, together with relevant quantities of
+glycerol from sugar fermentation (Magyar & Toth, 2011), its presence
+in co-culture with S. cerevisiae, consuming sugars at the beginning of
+fermentation, contributes to reduce the osmotic stress, therefore reducing production of acetic acid by S. cerevisiae (Rantsiou et al., 2012). Z.
+bailii is also considered an osmotolerant species (Martorell, FernàndezEspinar, & Querol, 2005) and often occurs and persists during passito
+wine fermentations (Domizio et al., 2007; Tofalo et al., 2009). Rantsiou
+et al. (2012) performed laboratory scale fermentations of Erbaluce
+dried grape musts (about 400 g/L of total sugars) with 15 diﬀerent
+combination of C. zemplinina (5 strains) and S. cerevisiae (3 strains) by
+co-inoculum and sequential inoculum. Co-inoculation technique led to
+higher production of both ethanol (10.6 to 14.9% v/v) and acetic acid
+(0.96–1.62 g/L); by contrast, wine produced through sequential inoculum, were characterized by lower ethanol (7.7 to 11.9% v/v) and
+acetic acid (0.37–1.03 g/L). In this study the use of S. cerevisiae M3–5
+alone (fermentation S) or in co-inoculum with C. zemplinina T13 and Z.
+bailii NS113 (fermentation CZS) allowed production of wines with
+higher ethanol content and acceptable acetic acid concentration. S.
+cerevisiae M3–5 was isolated from passito wine and previously showed
+good performances in high sugar environments in both laboratory scale
+fermentation (38°Brix) and during of the fermentation of passito must
+(30°Brix) (Aponte & Blaiotta, 2016a).
+Lactic acid, detected at 0.31 ± 0.09 g/L in must samples, remained
+almost constant until the day 66th reaching 0.27 ± 0.04 (data not
+shown). This is in accordance with the low occurrence of LAB in all
+samples analyzed by HTS.
+Finally, wines presented diﬀerent color features (data not shown). N
+wines showed the highest intensity (0.544 ± 0.001) coupled to the
+lowest hue (2.278 ± 0.016); by contrast, CZS wines exhibited the
+lowest
+intensity
+(0.283 ± 0.001)
+and
+the
+highest
+hue
+(3.146 ± 0.031).
+Mean concentrations of volatiles quantiﬁed by GC/MS in the wines
+are reported in Supplementary Table 2. The three wines diﬀered in their
+volatile proﬁles: diﬀerences in total alcohols, acids and esters suggest a
+diverse course of the fermentation process. N was the richest in alcohols
+and the poorest in acids and esters, while S and CZS were quite similar
+in terms of total amount of VOCs belonging to these chemical classes.
+The concentration of 3-methyl-1-butanol and 2-phenylethanol,
+which are the main alcohols produced during the alcoholic fermentation, diﬀered in the three wines, reaching the highest levels in N and the
+lowest in CZS. Although signiﬁcantly diﬀerent in their concentrations,
+alcohols linked to the enzymatic oxidation of fatty acids, 1-hexanol and
+3-hepten-1-ol, showed comparable levels in the three wines.
+Diﬀerently, 2,3-butanediol was signiﬁcantly higher in CZS. Finally, 4penten-1-ol was not detected in N, while 4-methyl-1-pentanol was detected only in S.
+The lowest levels of each of the identiﬁed volatile acids were detected in N. Isovaleric and 9-decenoic acids showed the highest concentrations in CZS, while isobutyric, hexanoic and octanoic acids in S;
+the amounts of propanoic, decanoic and dodecanoic acids were similar
+in S and CZS.
+6
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+Fig. 3. Odour proﬁles of the experimental Falanghina sweet passito wines (Mean Sensory Modiﬁed Frequency %).
+
+4. Conclusions
+
+evolution of wine (Escudero, Asensio, Cacho, & Ferreira, 2002), while N
+wine received signiﬁcantly higher scores for “solvent/chemical” and
+“ﬂoral” descriptors. The chemical odour of sweet wines has been previously associated to higher alcohols (Ruiz, Zea, Moyano, & Medina,
+2010), while terpenes are the major responsible for ﬂoral notes (Del
+Caro et al., 2012; Genovese, Gambuti, Piombino, & Moio, 2007).
+The major persistence of Aureobasidium pullulans and the clear
+dominance of Hanseniaspora spp. in wine N may be related to both
+higher alcohols and terpenes production. Increased concentration of
+higher alcohols have been previously observed by several authors in
+diﬀerent wines fermented by non-Saccharomyces yeast (Herjavec,
+Podgorski, Redzepovic, & Mirosevic, 2003; Varela et al., 2009; Vilanova
+& Sieiro, 2006) having a very active synthetic or Ehrlich pathway for
+aminoacids metabolism. Moreover, a recent study (Davis, Boundy-Mills,
+& Landolt, 2012) showed that the major headspace volatiles emitted by
+Aureobasidium pullulans isolated from apples, were 2-methyl-1-butanol,
+3-methyl-1-butanol, and 2-phenylethanol.
+The higher concentration of 2-phenylethanol and terpenes (linalool,
+4-terpineol, α-terpineol and citronellol) in N, could also be ascribed to
+the hydrolysis of odourless aroma precursors, as a consequence of the
+high β-glucosidases activity of non-Saccharomyces yeasts driving the
+natural fermentation (Varela et al., 2009).
+The “plastic/rubber” descriptors were signiﬁcantly more perceivable in CZS which was the wine richest in sulphur compounds. Sulphur
+compounds may be synthesised by yeasts and are associated with unpleasant notes like rubber, garlic and cabbage (Swiegers, Bartowsky,
+Henschke, & Pretorius, 2005). High sulphur compounds production has
+been previously associated to Star. bacillaris strains (synonym Candida
+zemplinina) (Aponte & Blaiotta, 2016b). Moreover, the woody notes
+were perceived as stronger in CZS and this could be related to its higher
+furans concentration. Indeed, furfural was correlated with the “cooked
+vegetables” descriptor and could also contribute to the “woody note” of
+aged wines (Escudero et al., 2002). Wine sugars may be converted to
+furfural, 5-hydroxymethylfurfural, and other correlated volatiles
+through acid-catalyzed degradation, a pathway of particular importance to sweet wines (Waterhouse, Sacks, & Jeﬀrey, 2016). Furfural
+has also been identiﬁed as being one of the compounds linked with the
+tendency of wine to brown (Ferreira, Escudero, Fernańdez, & Cacho,
+1997). The woody notes and higher furans concentration in CZS lead to
+suppose that in this wine a stronger oxidation process occurred. This
+hypothesis, is also supported by color parameters above reported: CZS
+wines exhibited the highest hue.
+
+This study is the ﬁrst describing the impact of microbial community
+on both physico-chemical parameters and odour active compounds in
+passito wines produced from Falanghina wine-grapes cultivar.
+Indigenous yeasts of the fresh must are often inadequate or too stressed
+by the high osmotic conditions of the must (hyperosmotic shock) to
+eﬃciently carry out the fermentative process, leading to a low-quality
+wine (high residual sugar content, low alcohol content and with high
+“solvent/chemical” notes). The use of selected starter cultures, especially if acclimated to the high sugar environment, is conﬁrmed as an
+optimal solution for passito wines production. Moreover, the co-inoculum of osmotolerant C. zemplinina and Z. bailii with S. cerevisiae is
+conﬁrmed a good solution for production passito wines with higher
+ethanol and relative lower acetic acid. However, the wine produced by
+mixed starter cultures, during this study, was rich in sulphur compounds and some negative descriptors as “plastic/gum” and “woody”
+were highly perceived.
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.foodres.2018.11.033.
+Fundings
+This research did not receive any speciﬁc grant from funding
+agencies in the public, commercial, or not-for-proﬁt sectors.
+References
+Alessandria, V., Giacosa, S., Campolongo, S., Rolle, L., Rantsiou, K., & Cocolin, L. (2013).
+Yeast population diversity on grapes during on-vine withering and their dynamics in
+natural and inoculated fermentations in the production of icewines. Food Research
+International, 54, 139–147.
+Aliberti, A., Aponte, M., & Blaiotta, G. (2012). Molecular and technological characterization
+of yeasts isolated from Falanghina grapes of diﬀerent origin (Benevento, Campi Flegrei,
+Vesuvio). III conference SIMTREA, 26–28 June, Bari (Italy).
+Aponte, M., & Blaiotta, G. (2016a). Selection of an autochthonous Saccharomyces cerevisiae strain for the viniﬁcation of “Moscato di Saracena”, a southern Italy (Calabria
+Region) passito wine. Food Microbiology, 54, 30–39.
+Aponte, M., & Blaiotta, G. (2016b). Potential role of yeast strains isolated from grapes in
+the production of Taurasi DOCG. Frontiers in Microbiology, 7, 809.
+Azzolini, M., Tosi, E., Faccio, S., Lorenzini, M., Torriani, S., & Zapparoli, G. (2013).
+Selection of Botrytis cinerea and Saccharomyces cerevisiae strains for the improvement
+and valorization of Italian passito style wines. FEMS Yeast Research, 13, 540–552.
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and
+powerful approach to multiple testing. Journal of the Royal Statistical Society, Series B:
+Statistical Methodology, 57, 289–300.
+Berni Canani, R., De Filippis, F., Nocerino, R., Laiola, M., Paparo, L., Calignano, A., ...
+Ercolini, D. (2017). Speciﬁc signatures of the gut microbiota and increased levels of
+butyrate in children treated with fermented cow's milk containing heat-killed
+Lactobacillus paracasei CBA L74. Applied and Environmental Microbiology, 83,
+
+7
+
+Food Research International xxx (xxxx) xxx–xxx
+
+F. De Filippis et al.
+
+Saccharomyces cerevisiae. Food Microbiology, 28, 94–100.
+Martorell, P., Fernàndez-Espinar, M. T., & Querol, A. (2005). Molecular monitoring of
+spoilage yeasts during the production of candied fruit nougats to determine food
+contamination sources. International Journal of Food Microbiology, 101, 293–302.
+McDonald, D., Price, M. N., Goodrich, J., Nawrocki, E. P., De Santis, T. Z., Probst, A., ...
+Hugenholtz, P. (2012). An improved Greengenes taxonomy with explicit ranks for
+ecological and evolutionary analyses of bacteria and archaea. The ISME Journal, 6,
+610–618.
+Moio, L., & Piombino, P. (2013). Management of viniﬁcation and stabilization to preserve
+the aroma characteristic of dehydrated grape. In F. Mencarelli, & P. Tonutti (Eds.).
+Sweet, reinforced and fortiﬁed wines: Grape Biochemistry, Technology and Viniﬁcation,
+Whiley online library (pp. 131–144). .
+Morgan, H. H., du Toit, M., & Setati, M. E. (2017). The grapevine and wine microbiome:
+Insights from high-throughput amplicon sequencing. Frontiers in Microbiology, 8, 820.
+Piombino, P., Genovese, A., Gambuti, A., Lamorte, S. A., Lisanti, M. T., & Moio, L. (2010).
+Eﬀects of oﬀ-vine bunches shading and cryomaceration on free and glycosilated
+ﬂavours of Malvasia delle Lipari wine. International Journal of Food Science and
+Technology, 45(2), 234–244.
+Portillo, M. C., & Mas, A. (2016). Analysis of microbial diversity and dynamics during
+wine fermentation of Grenache grape variety by high-throughput barcoding. LWT Food Science and Technology, 72, 317–321.
+Quast, C., Pruesse, E., Yilmaz, P., Gerken, J., Schweer, T., Yarza, P., ... Glöckner, F. O.
+(2013). The SILVA ribosomal RNA gene database project: Improved data processing
+and web-based tools. Nucleic Acids Research, 41(D1), D590–D596.
+Rantsiou, K., Campolongo, S., Alessandria, V., Rolle, L., Torchio, F., & Cocolin, L. (2013).
+Yeast populations associated with grapes during withering and their fate during alcoholic fermentation of high-sugar must. Australian Journal of Grape and Wine
+Research, 19, 40–46.
+Rantsiou, K., Dolci, P., Giacosa, S., Torchio, F., Tofalo, R., Torriani, S., ... Cocolin, L.
+(2012). Candida zemplinina can reduce acetic acid produced by Saccharomyces cerevisiae in sweet wine fermentations. Applied and Environmental Microbiology, 78, 1987.
+Reboredo-Rodríguez, P., González-Barreiro, C., Rial-Otero, R., Cancho-Grande, B., &
+Simal-Gándara, J. (2015). Eﬀects of sugar concentration processes in grapes and wine
+aging on aroma compounds of sweet wines—A review. Critical Reviews in Food Science
+and Nutrition, 55, 1053–1073.
+Romano, P., & Suzzi, G. (1996). Origin and production of acetoin during wine yeast
+fermentation. Applied and Environmental Microbiology, 62, 309–315.
+Ruiz, M. J., Zea, L., Moyano, L., & Medina, M. (2010). Aroma active compounds during
+the drying of grapes cv. Pedro Ximenez destined to the production of sweet Sherry
+wine. European Food Research and Technology, 230, 429.
+Swiegers, J. H., Bartowsky, E. J., Henschke, P. A., & Pretorius, I. S. (2005). Yeast and
+bacterial modulation of wine aroma and ﬂavour. Australian Journal of Grape and Wine
+Research, 11, 139–173.
+Tofalo, R., Chaves-Lopez, C., Di Fabio, F., Schirone, M., Felis, G. E., Torriani, S., ... Suzzi,
+G. (2009). Molecular identiﬁcation and osmotolerant proﬁle of wine yeasts that
+ferment a high sugar grape must. International Journal of Food Microbiology, 130,
+179–187.
+Varela, C., Siebert, T., Cozzolino, D., Rose, L., McLean, H., & Henschke, P. A. (2009).
+Discovering a chemical basis for diﬀerentiating wines made by fermentation with
+‘wild’ indigenous and inoculated yeasts: Role of yeast volatile compounds. Australian
+Journal of Grape and Wine Research, 15, 238–248.
+Vilanova, M., & Sieiro, C. (2006). Contribution by Saccharomyces cerevisiae yeast to fermentative ﬂavour compounds in wines from cv. Albarino. Journal of Industrial
+Microbiology and Biotechnology, 33, 929–933.
+Waterhouse, A. L., Sacks, G. L., & Jeﬀrey, D. W. (2016). Understanding wine chemistry.
+John Wiley & Sons, Chichester, 2016 (470 pp).
+Wurz, R. E. M., Kepner, R. E., & Webb, A. D. (1988). The biosynthesis of certain gammalactones from glutamic acid by ﬁlm yeast activity on the surface of ﬂor sherry.
+American Journal of Enology and Viticulture, 39, 234–238.
+
+e01206–e01217.
+Bokulich, N. A., Joseph, C. M. L., Allen, G., Benson, A. K., & Mills, D. A. (2012). Nextgeneration sequencing reveals signiﬁcant bacterial diversity of botrytized wine. PLoS
+One, 7, e36357.
+Cirilli, M., Bellincontro, A., De Santis, D., Botondi, R., Colao, M. C., Muleo, R., &
+Mencarelli, F. (2012). Temperature and water loss aﬀect ADH activity and gene expression in grape berr during postharvest dehydration. Food Chemistry, 132, 447–454.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., & Ciani, M.
+(2011). Selected non-Saccharomyces wine yeasts in controlled multistarterfermentations with Saccharomyces cerevisiae. Food Microbiology, 28, 873–882.
+Davis, T. S., Boundy-Mills, K., & Landolt, P. J. (2012). Volatile emissions from an epiphytic fungus are semiochemicals for eusocial wasps. Microbial Ecology, 64,
+1056–1063.
+De Filippis, F., La Storia, A., & Blaiotta, G. (2017). Monitoring the mycobiota during
+Greco di Tufo and Anglianico wine fermentation by 18S rRNA gene sequencing. Food
+Microbiology, 63, 117–122.
+De Filippis, F., Laiola, M., Blaiotta, G., & Ercolini, D. (2017). Diﬀerent amplicon targets
+for sequencing-based studies of fungal diversity. Applied and Environmental
+Microbiology, 83(17), e905.
+De Filippis, F., Parente, E., & Ercolini, D. (2018). Recent past, present, and future of the
+food microbiome. Annual Review of Food Science and Technology, 9, 589–608.
+Del Caro, A., Fanara, C., Genovese, A., Moio, L., Piga, A., & Piombino, P. (2012). Free and
+enzymatically hydrolysed volatile compounds of sweet wines from Malvasia and
+Muscat grapes (Vitis vinifera L.) grown in Sardinia. South African Journal of Enology
+and Viticulture, 33(1), 115–121.
+Domizio, P., Lencioni, L., Ciani, M., Di Biasi, S., Pontremolesi, C., & Sabatelli, M. P.
+(2007). Spontaneous and inoculated yeast population dynamics and their eﬀect on
+organoleptic characters of Vinsanto wine under diﬀerent process conditions.
+International Journal of Food Microbiology, 115, 281–289.
+Dravnieks, A. (1982). Odor quality: Semantically generated multidimensional proﬁles are
+stable. Sciences, 218, 799–801.
+Englezos, V., Rantsiou, K., Torchio, F., Rolle, L., Gerbi, V., & Cocolin, L. (2015).
+Exploitation of the non-Saccharomyces yeast Starmerella bacillaris (synonym Candida
+zemplinina) in wine fermentation: Physiological and molecular characterizations.
+International Journal of Food Microbiology, 199, 33–40.
+Erasmus, D. J., van der Merwe, G. K., & van Vuuren, H. J. J. (2003). Genome-wide expression analyses: Metabolic adaptation of Saccharomyces cerevisiae to high sugar
+stress. FEMS Yeast Research, 3, 375–399.
+Escudero, A., Asensio, E., Cacho, J., & Ferreira, V. (2002). Sensory and chemical changes
+of young white wines stored under oxygen. An assessment of the role played by aldehydes and some other important odorants. Food Chemistry, 77, 325–331.
+Ferreira, V., Escudero, A., Fernańdez, P. E., & Cacho, J. F. (1997). Changes in the proﬁle
+of volatile compounds in wines stored under oxygen and their relationship with the
+browning process. Z. Lebensm. -Forsch. A, 205, 392–396.
+Genovese, A., Gambuti, A., Piombino, P., & Moio, L. (2007). Sensory properties and
+aroma compounds of sweet Fiano wine. Food Chemistry, 103, 1228–1236.
+Herjavec, S., Podgorski, V., Redzepovic, S., & Mirosevic, N. (2003). The inﬂuence of some
+commercial Saccharomyces cerevisiae strains on the quality of Chardonnay wines. Food
+Technology and Biotechnology, 41, 77–81.
+Jayawardena, R. S., Purahong, W., Zhang, W., Wubet, T., Li, X. H., Liu, M., ... Yan, J.
+(2018). Biodiversity of fungi on Vitis viniferaL. revealed by traditional and high-resolution culture-independent approaches. Fungal Diversity, 90, 1–84.
+Klindworth, A., Pruesse, E., Schweer, T., Peplies, J., Quast, C., Horn, M., & Glockne, F. O.
+(2013). Evaluation of general 16S ribosomal RNA gene PCR primers for classical and
+next-generation sequencing-based diversity studies. Nucleic Acids Research, 4, e1.
+Magoc, T., & Salzberg, S. L. (2011). FLASH: Fast length adjustment of short reads to
+improve genome assemblies. Bioinformatics, 27, 2957–2963.
+Magyar, I., & Toth, T. (2011). Comparative evaluation of some oenological properties in
+wine strains of Candida stellata, Candida zemplinina, Saccharomyces uvarum, and
+
+8
+
+

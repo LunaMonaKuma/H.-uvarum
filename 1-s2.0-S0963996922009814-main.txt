@@ -1,0 +1,1331 @@
+Food Research International 162 (2022) 111923
+
+Contents lists available at ScienceDirect
+
+Food Research International
+journal homepage: www.elsevier.com/locate/foodres
+
+Hanseniaspora uvarum FS35 degrade putrescine in wine through the direct
+oxidative deamination pathway of copper amine oxidase 1
+Bing Han a, Jie Gao a, Xiaoyu Han a, Huan Deng a, Tianyang Wu a, Chenyu Li a, b, Jicheng Zhan a, *,
+Weidong Huang a, *, Yilin You a, *
+a
+
+College of Food Science and Nutritional Engineering, Beijing Key Laboratory of Viticulture and Enology, China Agricultural University, Tsinghua East Road 17, Haidian
+District, Beijing 100083, China
+Xinghua Industrial Research Centre for Food Science and Human Health, China Agricultural University, Xinghua 225700, Jiangsu, China
+
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Putrescine degradation
+Hanseniaspora uvarum
+Copper amine oxidase 1
+Wine fermentation
+Aromatic compounds
+
+Putrescine is abundant in wine and have toxicological risks for the health of consumers. Certain microbes with
+oxidative deamination activity are considered to be one of the most effective ways to degrade putrescine. The
+characterization and possible mechanism of putrescine degradation by Hanseniaspora uvarum FS35 were studied
+in this work. Hanseniaspora uvarum FS35 was selected from 111 yeast strains by UPLC analysis and exhibited the
+ability to eliminate > 44.5 mg/L of putrescine after 12 h of culture. Transcriptome analysis showed that by
+adding putrescine as a nitrogen source, the gene expression level of copper amine oxidase 1 (CuAO1) increased,
+leading to a coordinated response in the oxidative deamination of putrescine to 4-amino-butanal and subsequent
+dehydrogenation to 4-amino-butanoate. The purified recombinant protein CuAO1 could degrade 25.8 and 21.8
+mg/L of putrescine in Marselan and Cabernet Sauvignon wines, respectively. H. uvarum FS35 was then inoculated
+sequentially with Saccharomyces cerevisiae into Cabernet Sauvignon grape juice, and the physiochemical indexes
+and aroma compounds were detected by HPLC and HS-SPME/GC–MS, respectively. wines produced from
+sequential inoculations showed significantly lower level of putrescine and higher amounts of glycerol, lactic acid,
+acetic acid, phenylethyl alcohol, ethyl acetate and β-phenylethyl acetate compared with the control fermentation
+of commercial S. cerevisiae, which proved the potential of H. uvarum FS35 as a promising strategy to reduce
+biogenic amines in wines.
+
+1. Introduction
+Biogenic amines (BAs) are low-molecular-weight basic nitrogenous
+compounds that are formed by decarboxylation of amino acids or
+transamination of aldehydes and ketones (Dabadé, Jacxsens, Miclotte,
+Abatih, Devlieghere, & De Meulenaer, 2021). Putrescine belongs to the
+group of aliphatic diamine and can be formed via ornithine decarbox­
+ylase pathway, agmatinase pathway, or arginine deiminase pathway
+(Callejón, Sendra, Ferrer, & Pardo, 2015). This amine is naturally pre­
+sent in plants, as well as in animals and microorganisms and plays
+important roles in cellular development and proliferation at low con­
+centrations (Lorenzo et al., 2017). Both the no observed adverse effect
+level and oral toxicity level for putrescine is 2000 mg/L (Naila, Flint,
+Fletcher, Bremer, & Meerdink, 2010). Although putrescine has low
+toxicological activity by itself, it can enhance the toxicological effects of
+other amines through the inhibition of detoxifying enzymes (diamine-
+
+oxidase and hydroxymethyl transferase), and can be detrimental to the
+organoleptic properties of wine, conferring putrefaction and a rotten
+meat smell (Alvarez, & Moreno-Arribas, 2014). The occurrence of BAs in
+98 wine samples readily available to Chinese consumers were deter­
+mined in our previous study, and it was found that putrescine was
+detected in all the samples and showed the highest concentration,
+reaching values of up to 31.17 mg/L in red wines and 19.43 mg/L in
+white wines (Han et al., 2022). However, it is difficult to establish the
+maximum limit for this amine in wine because of complex interactions
+with wine matrix. In particular, the presence of alcohol and acetalde­
+hyde in wine can enhance the toxicological effect of putrescine due to
+their inhibitory effect on detoxifying enzymes in the intestinal tract of
+human (Callejón et al., 2015). Therefore, controlling putrescine within
+the limited level is critical for the quality of wine.
+The investigations in recent years have focused on the possible
+strategies to inhibit putrescine formation in wine (Russo, Capozzi,
+
+* Corresponding authors.
+E-mail addresses: zhanjicheng@cau.edu.cn (J. Zhan), huanggwd@263.net (W. Huang), yilinyou@cau.edu.cn (Y. You).
+https://doi.org/10.1016/j.foodres.2022.111923
+Received 3 June 2022; Received in revised form 23 July 2022; Accepted 7 September 2022
+Available online 15 September 2022
+0963-9969/© 2022 Elsevier Ltd. All rights reserved.
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Spano, Corbo, Sinigaglia, & Bevilacqua, 2016). However, when putres­
+cine is already presented in wine, or when the production of putrescine
+relies on indigenous microbes, the use of amine-degrading strains or
+amine-degrading enzymes will help to eliminate this amine (Capozzi,
+Fragasso, & Russo, 2020). It was reported in several studies that certain
+LAB and yeast have the capability to degrade putrescine during wine
+fermentation (Capozzi et al., 2012; García-Ruiz, González-Rompinelli,
+Bartolomé, & Moreno-Arribas, 2011). Additionally, flavin amine oxi­
+dases (FlavAO) and copper amine oxidases (CuAO), which differed with
+respect to the redox cofactor, have been applied to reduce putrescine
+(Callejón, Sendra, Ferrer, & Pardo, 2017). A flavin-dependent putrescine
+oxidase identified from Kocuria varians was applied to degrade putres­
+cine in wine (Callejón et al., 2015). However, the physicochemical
+conditions of wine, primarily ethanol and low pH, prevent the optimal
+performance of most described amine oxidases (Li & Lu, 2020). There­
+fore, the selection of microorganisms producing BA-degrading enzymes
+as starters should be taken into account to solve the problem of high
+amine concentration in wine, so as to improve the quality, safety, and
+competitiveness of wine in the market.
+Non-Saccharomyces yeasts are a heterogeneous consortium of mi­
+croorganisms applied in the initial step of AF which strongly contribute
+to the chemical composition and the sensorial characteristics of wine
+(Han et al., 2021). In fact, the addition of non-Saccharomyces yeasts as
+part of mixed starter formulations, together with S. cerevisiae, has been
+recently indicated as a way to increase the aroma complexity of the wine
+with reducing risks for wine safety compared to uncontrolled sponta­
+neous fermentation (Tristezza, Tufariello, Capozzi, Spano, Mita, &
+Grieco, 2016; Tristezza et al., 2013). It was found that putrescine was
+not detected in Chardonnay real wines under H. vineae fermentation and
+the histamine and tyramine were significantly decrease by other species
+of Hanseniaspora under mixed cultures (Medina et al., 2013). Similarly,
+the H. uvarum strain in co-inoculation and sequential inoculation with
+S. cerevisiae has also been found to contribute to reducing the content of
+BAs, and improving the overall quality of wine (Li et al., 2020). These
+indicate that non-Saccharomyces yeasts may have the potential to favor
+wine to be safer and more characteristic (Wei et al., 2020).
+Considering the toxicological risks of BAs in wine to the health of
+consumers, the main purpose of this study was to describe the putrescine
+degradation characterization and mechanism of H. uvarum FS35 in wine,
+and the biochemical properties of recombinant CuAO1 responsible for
+putrescine degradation was studied. Moreover, in order to highlight its
+potential in winemaking, sequential fermentations with H. uvarum FS35
+and S. cerevisiae were performed for the production of a typical red wine,
+as well as principal component analysis (PCA) was applied to underline
+possible correlations between samples and various wine aromas. Over­
+all, present results suggest the use of H. uvarum FS35 in winemaking as a
+potential strategy to degrade BAs, which is of great significance for
+improving the safety and quality of wine.
+
+different grape species and origins and properly identified by 16S rRNA
+partial gene sequencing as described by Li et al. (2021). These strains
+were kept frozen at − 80 ◦ C in a sterilized mixture of YPD medium and
+glycerol (50:50, v/v).
+Referring to the method of Yang et al. (2020), all 111 strains were
+first grown in YPD broth at 28 ◦ C for 12 h. Then a 100 μL culture was
+coated on YPD agar medium supplemented with amino acids (L-arginine,
+L-ornithine monohydrochloride, L-histidine, L-tyrosine, L-lysine, L-tryp­
+tophan and L-phenylalanine) at 0.5 % each, and pyridoxal-5-phosphate
+at 0.005 %. Hydrochloric acid (0.1 M or 1 M) was added to adjust a
+pH of the medium to 5.3 ± 0.1. Incubation was performed at 28 ◦ C for 4
+d, then the agar medium containing 0.006 % BCP was poured on each
+plate and set for 5 min. The strains with yellow shade were selected for
+the next stage trial. The medium without yeast was treated as negative
+control.
+2.2.2. Qualification of BA-degrading capacity by UPLC analysis
+Based on the research of Cueva et al. (2012), a total of 69 yeast
+isolates were screened for their capacity to degrade BAs in assay broth
+consisting of must simulated medium (MSM, main components: 100 g/L
+glucose; 100 g/L fructose; 3 g/L tartaric acid; 0.3 g/L citric acid; 0.3 g/L
+L-malic acid; 0.2 g/L MgSO4⋅7H2O; 2 g/L KH2PO4; 0.3 g/L (NH4)2SO4;
+0.6 g/L asparagine; 0.3 g/L inositol; pH 5.8) supplemented with BAs
+(tryptamine, 2-phenylethylamine, putrescine, cadaverine, histamine,
+tyramine, spermidine, and spermine) at 25 mg/L each. The assay broth
+(pH 5.8) was filter-sterilized (Millipore Express, 0.22 µm). Strains with
+an initial cell density of 6 log CFU/mL were inoculated in this assay
+broth. After incubation at 28 ◦ C for 4 d, the culture was centrifuged
+(5000g, 5 min, 4 ◦ C) and filtered through 0.45 μm PES filter. 1 mL of the
+supernatant was derivatized with dansyl chloride, separated, and
+analyzed with a Waters Acquity UPLC system (Waters Corp., MA, USA)
+as described in our previous study (Han et al., 2022). Chromatographic
+separation was carried on a Waters Acquity UPLC BEH C18 column (100
+× 2.1 mm, 1.7 μm) connected to guard-column of the same matrix, both
+set at 40 ◦ C. A binary mobile phase composed of 0.01 mol/L ammonium
+acetate (A) and acetonitrile (B) was used applying the following gradient
+program at a flow rate of 0.3 mL/min: 0–2 min 60 % A, 2–3 min 60–20 %
+A, 3–4 min 20–10 % A, 4–6 min 10–60 % A, achieving a complete
+separation in 6 min. The injection volume was 10 μL, and the pressure
+during the analysis was 6000 psi. Detection was performed at the
+wavelength of 216 nm. The data obtained was processed using Empower
+2.0 software (Waters Corp., MA, USA). The medium without strain was
+used as negative control.
+2.2.3. Evaluation of BA-producing ability of selected yeasts
+6 log CFU/mL of H. uvarum FS35, S. cerevisiae HL10, and S. cerevisiae
+HL17 were incubated at 28 ◦ C for 4 d in MSM contained 0.5 % of each
+amino acids and 0.005 % of pyridoxal-5-phosphate as mentioned above,
+previously described by Li et al. (2018). The medium without yeast was
+treated as negative control. The capacity of isolates to produce BAs was
+assayed by UPLC as described in 2.2.2.
+
+2. Materials and methods
+2.1. Chemical reagents and standards
+
+2.3. Characterization of putrescine degradation of H. Uvarum FS35
+
+Standards of D- (+)-glucose, D- (− )-fructose, glycerol, ethanol,
+organic acids, and biogenic amines were purchased from Sigma-Aldrich
+(Shanghai, China). Chromatographic grade reagents were provided by
+ThermoFisher Scientific (Shanghai, China). All other chemicals were of
+analytical grade and supplied by Sinopharm Chemical Reagent Co., ltd.
+(Beijing, China). Ultra-pure water was obtained from Milli-Q system
+(Millipore Corp., Shanghai, China).
+
+2.3.1. Growth curve
+6 log CFU/mL of H. uvarum FS35 was inoculated in yeast carbon base
+(YCB) medium added with 50 mg/L of putrescine at 28 ◦ C. The medium
+without putrescine was used as negative control. During the incubation
+period, the optical density was measured at 600 nm by means of a UV
+spectrophotometer (Shimadzu UV-1800, Japan) at regular intervals.
+
+2.2. Screening of yeasts with high BA-degrading ability
+
+2.3.2. The mode of action to degrade putrescine
+The cells cultured in 1 L of YCB medium supplemented with 50 mg/L
+of putrescine for 8 h were collected by centrifugation (5000g, 5 min,
+4 ◦ C) and washed twice with 0.1 M PBS (pH 7.4). Cells were further
+suspended in 0.1 M PBS (pH 7.4) and half of them were autoclaved. After
+
+2.2.1. High-throughput BCP staining method for preliminary selection
+A total of 111 yeasts were used as shown in Table A.1. These strains
+were previously isolated in our laboratory from grape juice and wines of
+2
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+incubation with 50 mg/L of putrescine at 28 ◦ C for 72 h, the suspension
+was centrifuged (10000g, 10 min, 4 ◦ C) and the supernatant was
+collected. The active cells were further suspended in 0.1 M PBS (pH 7.4),
+sonicated in an ice bath for 20 min (sonication of 3 s, interval of 3 s) and
+then centrifuged at 10000g for 10 min at 4 ◦ C to collect the supernatant.
+The content of putrescine in all supernatants was determined by UPLC as
+mentioned above.
+
+2.4. Transcriptome analysis of the putrescine degradation mechanism of
+H. Uvarum FS35
+
+2.3.3. Dynamics of putrescine degradation
+Based on the research of Callejón et al. (2015), H. uvarum FS35 at 6
+log CFU/mL was inoculated in YCB medium or MSM containing 50 mg/L
+of putrescine, and stirred at 28 ◦ C for 24 h. The aliquots were taken at
+different time points and putrescine content was determined by UPLC as
+mentioned above.
+
+2.4.1. Transcriptome analysis
+The transcriptome changes of the cells separately cultivated in YCB
+media (C_8 h) and YCB media added with 50 mg/L of putrescine (T_8 h)
+at 28 ◦ C for 8 h with string were analyzed. These cells were obtained by
+centrifugation, washed with cold sterile normal saline, frozen in liquid
+nitrogen, and stored at − 80 ◦ C. According to the method of Li et al.
+(2020), the total RNA extraction, express chart library construction, and
+transcriptome sequencing of H. uvarum FS35 were carried out by
+Majorbio Bio-Pharm Technology Co., ltd. (China). Differentially
+expressed genes (DEGs) were obtained on the basis of the false discovery
+rate (FDR) value ≤ 0.05 and |log2(Fold Change)| ≥ 1.
+
+2.3.4. Determination of monoamine oxidase (MAO), diamine oxidase
+(DAO) and laccase activities
+The activities of MAO, DAO and laccase were determined following
+the corresponding instructions of assay kits (Solarbio, Beijing, China).
+Cells of H. uvarum FS35 were prepared regularly by centrifugation
+(5000g, 5 min, 4 ◦ C) from 50 mL of YCB medium with 50 mg/L of pu­
+trescine addition. The cells were washed twice and re-suspended in 500
+µL of 0.1 M PBS (pH 7.4). After ultrasound in an ice bath for 15 min
+(sonication of 3 s, interval of 3 s) and centrifugation at 10000g for 10
+min at 4 ◦ C, the cell-free supernatant (CFS) was obtained to determine
+the activities of MAO, DAO and laccase at the absorption of 242 nm, 500
+nm, and 420 nm, respectively by a microplate reader (SPARK 10 M,
+TECAN, Switzerland). Control assays were carried out without
+putrescine.
+
+2.4.2. Quantitative real-time PCR (qRT-PCR) for validation of RNA-seq
+To validate the transcriptome results, the expression changes of the
+selected key genes were analyzed by qRT-PCR. RNA extraction and
+reverse transcriptase were done using the spin column yeast total RNA
+purification kit (Sangon, China) and the EasyQuick RT MasterMix
+(CWBio, China) according to the manufacturer’s instructions. Referring
+to the method of Li et al. (2020), the qRT-PCR was performed on a
+CFX96 real-time PCR detection system (Bio-Rad, CA, USA) with the
+commercial kit 2X M5 HiPer SYBR Premix EsTaq (with Tli RNaseH)
+(Mei5bio, China). ACT1 (actin) was used as an internal control to
+normalize the PCRs, and the relative changes in the gene expression
+level were calculated using the 2− ΔΔCt method. The primers used in the
+qRT-PCR assay were synthesized by Sangon (Beijing, China) and were
+listed in Table A.2.
+
+2.3.5. Determination of γ-amino-butyric acid (GABA) content
+The content of extracellular GABA was detected by GABA ELISA kit
+(Nanjing Jiancheng, Nanjing, China). The supernatant was collected
+periodically by centrifugation (5000g, 5 min, 4 ◦ C) from 50 mL of cell
+culture with or without 50 mg/L of putrescine addition. Briefly, 50 µL of
+the supernatant or standard was mixed with 100 µL of HRP-conjugate
+reagent in micro-elisa strip plate. After incubation at 37 ◦ C for 1 h, the
+mixture was washed four times and 50 µL of chromogen solution was
+added. Then the solution was incubated at 37 ◦ C for 15 min protected
+from light and the absorbance of 450 nm was determined. 50 µL of
+ddH2O replaced with the supernatant was treated as blank.
+
+2.5. Expression and purification of recombinant CuAO1
+The recombinant strain of GS115/pPIC9K/CuAO1 was constructed
+by Sangon (Beijing, China). The protein expression experiment was
+started by inoculating single colonies of the recombinant strain in BMGY
+medium (25 mL) at 28 ◦ C and 180 rpm until an OD600 reached to 2–6.
+Afterward, the cells were centrifuged (5000g, 5 min, 4 ◦ C), re-suspended
+in BMMY medium (20 mL) and induced by 1 % methanol at 28 ◦ C and
+180 rpm for 72 h. Then, the supernatant was harvested by centrifugation
+at 4 ◦ C, 12000 rpm for 10 min, and purified using Ni-NTA 6FF sefinose
+(TM) resin kit (Sangon, China) according to the manufacturer’s in­
+structions. The eluted fractions containing CuAO1 were pooled and
+analyzed using western blot. The specific activity was measured by
+mixing 10 µL of enzyme solution with 190 µL of a peroxidase-coupled
+reaction solution as described by Callejón et al. (2015). Then, the ab­
+sorption of 515 nm was detected by a microplate reader (SPARK 10 M,
+TECAN, Switzerland), over a period of 30 min, and the initial slope of
+plots of OD515 versus time, representing CuAO1 activity, was
+calculated.
+
+2.3.6. Effects of wine matrix on the growth and putrescine-degrading ability
+of H. Uvarum FS35
+The effects of temperature and pH on the growth and putrescine
+degradation activity of H. uvarum FS35 was investigated by adding 0.5
+mL of the inoculum (8 log CFU/mL) to 50 mL of MSM supplemented
+with 50 mg/L of putrescine, based on previous study (Zaman, Bakar,
+Selamat, Bakar, Ang, & Chong, 2014). The mixed solution was then
+incubated at 10, 20, 30, 40, or 50 ◦ C for 48 h or adjusted to a range of pH
+values (3, 4, 5, 6, or 7) using 1 M HCl and 1 M NaOH, and cultured at
+28 ◦ C for 48 h. Then, the 600 nm absorbance and putrescine content of
+the ultimate solution were determined by UV spectrophotometer and
+UPLC, respectively.
+To analyze the effects of wine components on the growth and
+putrescine-degrading ability of H. uvarum FS35, ethanol (0 %, 3 %, 6 %,
+9 % or 12 % (v/v)), SO2 (0, 30, 60, 90 or 120 mg/L), glucose (100, 200,
+300, 400 or 500 g/L), arginine (0 %, 0.1 %, 0.3 %, 0.5 % or 0.7 % (w/v)),
+and ornithine (0 %, 0.1 %, 0.3 %, 0.5 % or 0.7 % (w/v)) were added to
+the mixed solution at the final concentration, respectively, based on the
+previous study (García-Ruiz et al., 2011). The mixture was then incu­
+bated at 28 ◦ C for 48 h, and the 600 nm absorbance and putrescine
+content were measured as mentioned above.
+
+2.6. Characterization of recombinant CuAO1
+2.6.1. The optimal temperature and pH
+The optimal temperature and pH were evaluated by incubating the
+enzyme mixture at temperature ranges from 4 to 85 ◦ C, and at pH ranges
+from 2.5 to 8.5, respectively. The maximum enzyme activity was taken
+as 100 %, and relative activities were then calculated by the ratio of
+enzyme activity to the maximum enzyme activity (Callejón et al., 2015).
+2.6.2. Temperature stability, ethanol and glucose tolerance
+The temperature stability and ethanol tolerance were evaluated by
+incubating the CuAO1 at different temperatures (25–85 ◦ C), and in
+different ethanol concentrations (0–15 % (v/v)) for 10 min, respectively.
+Similarly, the effect of glucose on CuAO1 activity was assayed at
+different contents (0–300 g/L) for 3 h. Then the relative activities were
+measured (Callejón et al., 2015).
+3
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+2.6.3. The effects of metal ions, enzyme inhibitors, proteases, and
+surfactants on CuAO1 activity
+The effects of metal ions on CuAO1 activity were investigated by
+incubating the CuAO1 with 2.5 mM of Ca2+, Fe3+, Fe2+, Ba2+, Li+, Na+,
+K+, Ni2+, and Al3+ in the form of hydrochloride, or Cu2+, Mg2+, Mn2+,
+Co2+, and Zn2+ in the form of sulfate salts for 5 min. The relative ac­
+tivities were measured, where 100 % of the activity was taken in absence
+of any metal ions (Callejón et al., 2015).
+The effects of 1 mM enzyme inhibitors (bipyridyl, EDC, rasagiline,
+pargyline, semicarbazide, cyclopropilamine, phenanthroline, clorgiline,
+EDTA, dithiothreitol, and L-cysteine) on CuAO1 activity were conducted
+by incubating the enzyme-inhibitor mixture for 10 min. Enzyme activity
+in absence of inhibitor was considered as 100 % and relative activities
+were calculated (Callejón et al., 2015).
+In order to understand the sensitivity of CuAO1 to proteases, the
+CuAO1 was treated with 1 mg/mL of proteinase K at 55 ◦ C for 1 h, and 1
+mg/mL of papain or trypsin at 37 ◦ C for 1 h, respectively. Similarly, the
+CuAO1 was exposed to 0.01 % SDS, 0.05 % Triton-100, and 0.05 %
+Tween-20, respectively, for 3 h to evaluate its sensitivity to surfactants.
+Enzyme activity was regarded as 100 % without treatment with protease
+and surfactant, and relative activities were determined (Wu, Guo, Zhao,
+Ding, & Chen, 2018).
+
+2.8. Determination of classical oenological parameters
+The contents of sugars, glycerol, ethanol, and organic acids were
+determined by a high-performance liquid chromatography (HPLC) sys­
+tem (Waters, Dublin, Ireland) equipped with a refractive index detector
+(RID) and a diode array detector (DAD) as described by Han et al.
+(2021). Chromatographic separation was performed on a Aminex HPX87H column (300 × 7.8 mm, 9 μm) with a flow rate of 0.5 mL/min by
+using 5 mM sulfuric acid as mobile phase. The column temperature was
+55 ◦ C and the injection volume was 10 µL. Sugar and organic acid
+analysis were conducted by using RID and DAD at 210 nm, respectively.
+Before the injection, the samples were filtered through PES filters (0.45
+µm). The quantification was carried out using the respective calibration
+curve of each compound.
+2.9. Analysis of volatile compounds
+The volatile compounds were extracted by the method of headspace
+solid phase microextraction (HS-SPME) (Diez-Ozaeta, Lavilla, &
+Amárita, 2021). Briefly, 10 mL of wine was transferred into a 20 mL
+headspace vial, together with 200 µL of 2-methyl-3-heptanone internal
+standard (100 mg/L) and 2 g of NaCl. Samples were incubated at 80 ◦ C
+for 20 min with agitation. Then, the fibre was inserted into the head­
+space for 20 min, and desorbed in GC injection port at 280 ◦ C for 5 min
+in splitless mode.
+The chromatographic analysis was performed by a Thermo 1300 gas
+chromatography mass spectrometry (GC–MS) equipped with a TG-5 MS
+capillary column (30 m × 0.25 mm × 0.25 µm) (Thermo, MA, USA). The
+temperature of GC column was initially programmed at 60 ◦ C for 5 min,
+and increased at 3.5 ◦ C/min to 100 ◦ C for 5 min, then to 200 ◦ C at 8 ◦ C
+/min for 5 min and held at 280 ◦ C for 15 min. High purity helium was
+used as carrier gas at a flow rate of 1.2 mL/min. For the MS system, the
+temperatures of the quadrupole and ionization source were 280 ◦ C, and
+acquisitions were carried out in full scan mode. The volatile compounds
+were identified based on NIST 8.0 and Willey 7 libraries, and semiquantified by calculating the relative peak area in relation to that of
+the internal standard.
+
+2.6.4. Kinetic parameters for putrescine
+Kinetic parameters Km and Vmax for putrescine were determined by
+adding amine to the reaction mixture to a concentration between 0.05
+and 5 mM. Rate constants were deduced from the slope and intercept of
+double-reciprocal plots of initial velocity versus putrescine concentra­
+tion (Callejón et al., 2015).
+2.6.5. Substrate specificity
+To determine substrate specificity, various BAs with a concentration
+of 2 mM were used as substrates to test enzyme activity. Relative activity
+on putrescine was considered as 100 % (Callejón et al., 2015).
+2.6.6. Evaluation of CuAO1 on putrescine degradation in wine
+To investigate the ability of CuAO1 to degrade putrescine in wine,
+300 µL of enzyme solution was mixed with 2.7 mL of Marselan or
+Cabernet Sauvignon wine (pH adjusted to 3.5), then 50 mg/L of pu­
+trescine was added. The physicochemical parameters of Cabernet Sau­
+vignon and Marselan wines were shown in Table A.3. Following
+incubation at 28 ◦ C for 24 h, putrescine content was quantified by UPLC
+as described above. Samples without enzyme but cultured under the
+same conditions as the test samples were considered as control (Callejón
+et al., 2015).
+
+2.10. Sensory evaluation
+Sensory evaluation was conducted by a trained team of 12 panel
+members, who were trained with different wine samples for at least 3
+months. According to a previously published method (Han et al., 2021),
+the samples were scored by 1–5 points to evaluate the aroma of Cabernet
+Sauvignon wines from 8 aspects (alcohol, sweetness, acidity, floral,
+tropical fruit, citrus fruit, herbal, spice). Each set of samples was pre­
+sented to each panel member in a fixed order.
+
+2.7. Lab-scale vinification of H. Uvarum FS35
+The grape juice applied to vinification was obtained from Cabernet
+Sauvignon grape variety (glucose 118.53 g/L; fructose 129.27 g/L; total
+acidity 6.63 g/L; yeast assimilable nitrogen 175.37 mg/L; pH 3.47; ◦Brix
+21.6) of Fangshan region (2021 vintage). Referring to the method of Li
+et al. (2020), the grapes were destemmed, crushed, and sterilized
+through 0.45 µm filter. Sulfur dioxide was added in the form of potas­
+sium sulfite, and the final concentration was 60 mg/L. Two types of
+fermentation were carried out: (1) pure culture with commercial
+S. cerevisiae Vintage Red (Enartis, Spain); (2) sequential fermentation
+(H. uvarum FS35 was 48 h prior to S. cerevisiae). All yeasts were precultured in sterile grape juice at 28 ◦ C for 24 h, and the initial inocu­
+lation concentration was 6 log CFU/mL. All fermentations were carried
+out at 23 ◦ C and ended with a stable ◦Brix measured by a Pocket Pal-3
+model refractometer (Atago, Japan). Then, the wine samples were
+centrifuged (5000g, 10 min, 4 ◦ C) and the supernatants were stored at −
+20 ◦ C for further analysis.
+
+2.11. Statistical analysis
+All experiments were performed in triplicate. Data were expressed as
+the mean ± standard deviation (SD) of triplicate measurements. Sig­
+nificance differences (P < 0.05) were evaluated using one-way analysis
+of variance (ANOVA) with Duncan’s test by SPSS 25.0 Software (SPSS
+Inc., Chicago, IL, USA). The statistical analyses of data were performed
+using GraphPad Prism 8.0 software (San Diego, CA, USA). The heatmap
+and PCA were performed using Origin 2018 software (Northampton,
+MA, USA).
+3. Results and discussion
+3.1. H. Uvarum FS35 was selected with high potential to degrade BAs
+BCP has a yellow color under pH 5.2 and has a purple color under pH
+6.8. The production of alkaline substances such as amines could increase
+the pH of the culture containing BCP and change its color. Thus, the
+4
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+violet shade in the plate could visually reflect the unwanted BAproducing ability of strains, while the yellow shade indicated that
+some strains may not produce or may have the ability to degrade BAs.
+The coloration results were shown in Fig. 1a. The results demonstrated
+that 42 strains of yeast showed obvious violet, and 69 strains showed
+obvious yellowish color. Because the production of other alkaline/acidic
+substances may interfere with the chromogenic results, and the ability to
+degrade BAs depends not only on the species but also on the strains, BCP
+staining method is unable to accurately evaluate the strains with po­
+tential to degrade BAs. Therefore, in the next stage, UPLC method was
+used to quantitatively determine the BA-degrading activity of 69
+selected strains. According to the results shown in Fig. 1b, none of the
+strains were able to eliminate all the BAs completely under the experi­
+mental conditions, and 13 strains exhibited high ability to degrade ≥ 20
+mg/L of at least two amines. In general, putrescine and cadaverine were
+degraded to a greater extent than any other amines by all selected
+strains, while spermine, and spermidine were degraded to a less extent.
+With regards to S. cerevisiae, H. uvarum, and S. bacillaris, the main species
+involved in AF, seemed to have great potential for BA degradation,
+which was consistent with the previous literature (Nisiotou et al., 2018;
+Tristezza et al., 2016). Furthermore, the following three strains of
+H. uvarum FS35, S. cerevisiae HL10, and S. cerevisiae HL17 exhibited the
+highest degradation activity of total amines and the major amines
+(histamine, tyramine, cadaverine and putrescine) (Fig. 1c). Among
+them, H. uvarum FS35 showed better degradation ability for 2-phenyl­
+ethylamine, spermine and spermidine than the other two strains and
+had the highest ability to degrade 79.51 % of total amines. Then, the BAproducing capacity of the three selected strains was performed. As
+shown in Fig. 1d, H. uvarum FS35 was unable to produce any BAs, but
+S. cerevisiae HL10 and S. cerevisiae HL17 showed the ability to produce
+tryptamine and 2-phenylethylamine, suggesting that H. uvarum FS35
+able to degrade BAs do not contribute to BA formation. Thus, H. uvarum
+FS35 was finally selected to evaluate its potential applicability in
+removing putrescine from culture medium and actual wine fermentation
+process, proposing a technological improvement to reduce the abundant
+putrescine content in wine.
+
+enzymes catalyzing the degradation of BAs to metabolites that can be
+used by microorganisms as an energy source for growth. Laccase is the
+largest protein superfamily of MCO, which catalytically oxidize poly­
+phenols and diamine while reducing molecular oxygen to water (Li &
+Lu, 2020). Several studies have described these enzymes and oxidation
+pathways of BAs (Wang, Billett, Borchert, Kuhn, & Ufer, 2013; Kan­
+dasamy et al., 2016). Thus, we determined the activities of a class of AOs
+(MAO, DAO) and laccase to explore the probable mechanism of pu­
+trescine degradation by H. uvarum FS35. As shown in Fig. 2e, the ac­
+tivities of these enzymes in the strain increased first and then decreased
+over time, and the strongest activities were exhibited at 4–6 h, which
+was consistent with the significant decrease of putrescine content in the
+same period. In addition, the activities of AOs in the medium added with
+putrescine was significantly higher (P < 0.05) than that of laccase,
+indicating that the presence of putrescine could upregulate the expres­
+sion level of genes regulating amine-degrading enzymes, and AOs may
+play an important role in putrescine degradation of H. uvarum FS35.
+Furthermore, the concentration of GABA, the main product of putrescine
+degradation via AOs, was detected in the medium supernatant of
+H. uvarum FS35. The results showed that GABA content was significantly
+higher (P < 0.05) in the medium added with putrescine than that of the
+control group, and the highest content was detected at 6–8 h (Fig. 2f),
+suggesting that GABA may be one of the metabolites of putrescine
+degradation by AOs in H. uvarum FS35, but more degradation products
+and their detailed pathways need to be further studied and verified at
+the molecular level.
+3.3. Influence of enological factors on the growth and putrescine
+degradation ability of H. Uvarum FS35
+3.3.1. Temperature and pH
+Because yeast and other microorganisms have to face stress condi­
+tions such as low pH, ethanol and SO2 during wine fermentation, un­
+derstanding better the enological conditions affecting the growth and
+putrescine-degrading ability of H. uvarum FS35 might be practically
+important for its further application in wine production.
+As shown in Fig. 2g, H. uvarum FS35 grew well at temperatures
+ranging from 20 ◦ C to 30 ◦ C, and the highest putrescine degradation
+activity occurred at 30 ◦ C, at this temperature, > 47 mg/L of the pu­
+trescine was degraded. In addition, the fact that the growth of H. uvarum
+FS35 is retarded at 40 and 50 ◦ C might explain why of its putrescine
+degradation ability is limited at the same temperatures.
+All pH values showed good results for the growth and putrescine
+reduction of H. uvarum FS35, and the putrescine-degrading ability at pH
+3–4 was slightly lower in comparison to that of the pH 6–7 (Fig. 2h),
+indicating that either genes encoded amine-degrading enzymes were not
+totally activated or the activities of the amine-degrading enzymes were
+not optimal at lower pH values.
+
+3.2. Putrescine degradation characterization of H. Uvarum FS35
+New experiments were conducted to gain a deeper insight into the
+putrescine-degrading activity exhibited by H. uvarum FS35. The YCB
+medium provides less nitrogen source which may support the use of
+putrescine as an alternative source of nutrient. As shown in Fig. 2a, the
+OD600 values of H. uvarum FS35 in YCB medium supplemented with
+putrescine was not significantly different from that of the control group,
+indicating that the addition of 50 mg/L of putrescine would not have a
+negative effect on the growth of this strain. Then, the mode of action to
+degrade putrescine was studied in active and inactive cells. The results
+showed that autoclaved cells lost its ability to remove putrescine, while
+active cells were able to eliminate up to 96 % of this amine, and almost
+no putrescine was detected in the intracellular extract of the active cells
+(Fig. 2b), suggesting that the putrescine was eliminated through
+biodegradation rather than simple physical adsorption or bio­
+accumulation. We therefore started out to investigate the dynamics of
+putrescine degradation by H. uvarum FS35. The results demonstrated
+that putrescine was degraded gradually in YCB medium within 24 h, in
+particular, >17.5 mg/L and 44.5 mg/L of this amine were eliminated
+after 4 h and 12 h of incubation, respectively (Fig. 2c). Similarly, in
+MSM, putrescine of>21.5 mg/L and 45.5 mg/L were eliminated after 24
+h and 48 h of incubation, respectively (Fig. 2d). The degradation time of
+putrescine in MSM was longer than that in YCB medium, which may be
+due to the preferential use of other yeast assimilable nitrogen in MSM by
+H. uvarum FS35. The ability to degrade BAs in culture media or food­
+stuffs is based on the fact that some microorganisms can produce BAdegrading enzymes, such as amine oxidases (AOs) and multi-copper
+oxidase (MCO) (Alvarez et al., 2014). AOs are a large group of
+
+3.3.2. Ethanol, glucose and SO2
+Results showed that the presence of wine components such as
+ethanol (Fig. 2i) and glucose (Fig. 2j) strongly inhibited the growth and
+putrescine-degrading ability of H. uvarum FS35. In the presence of 12 %
+(the normal degree in wine) of ethanol, the growth was almost
+completely inhibited and only 6.9 % of the putrescine were degraded.
+Similarly, 26.5 % of putrescine were degraded when supplemented with
+500 g/L of glucose. The results showed that the strain and aminedegrading enzymes seemed to be sensitive to the presence of ethanol,
+but exhibit high tolerance to glucose, which was consistent with the
+previous study (Zaman et al., 2014), suggesting that this strain may be
+suitable for degrading putrescine present in grape must or in the initial
+stage of AF.
+The effect of SO2, the additive most employed in winemaking
+because of its antioxidant and selective antimicrobial properties, was
+tested at normal concentrations (Fig. 2k). The growth and putrescinedegrading ability of H. uvarum FS35 reduced slightly with the increase
+5
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 1. a. The chromogenic results of BCP staining screening. b. Heatmap of BA content in the presence of yeasts in MSM supplemented with 25 mg/L of each amine.
+c. The BA content in the presence of BA-degrading yeasts in MSM supplemented with 25 mg/L of each amine. d. The ability of selected strains to produce BAs. TRY:
+tryptamine; 2-PHE: 2-phenylethylamine; PUT: putrescine; CAD: cadaverine; HIS: histamine; TYR: tyramine; SPD: spermidine; SPM: spermine. Different letters
+represent significant difference (P < 0.05).
+
+6
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 2. a. The growth of H. uvarum FS35 in YCB medium. b. The mode of action of putrescine degradation by H. uvarum FS35 in PBS (0.1 M, pH 7.4). c. The dynamics
+of putrescine degradation by H. uvarum FS35 in YCB medium added with 50 mg/L of putrescine. d. The dynamics of putrescine degradation by H. uvarum FS35 in
+MSM added with 50 mg/L of putrescine. e. Changes of monoamine oxidase, diamine oxidase and laccase activities of H. uvarum FS35 in YCB medium added with 50
+mg/L of putrescine. f. Changes of γ-amino-butyric acid content of H. uvarum FS35 in YCB medium. Effects of (g) temperature, (h) pH, (i) ethanol, (j) glucose, (k) SO2,
+(l) arginine, and (m) ornithine on the growth and putrescine-degrading activity of H. uvarum FS35 in MSM supplemented with 50 mg/L of putrescine. Different letters
+represent significant difference (P < 0.05). **, P < 0.01 in comparison to the control group.
+
+7
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 2. (continued).
+
+of SO2 concentration, and exhibited the ability to degrade 88.7 % of
+putrescine in the presence of 120 mg/L of SO2, suggesting that this strain
+could be used to degrade putrescine at high SO2 levels.
+
+polyamines. Importantly, the expression of CuAO1 involved in the
+degradation of phenyl-ethylamine, tyramine, and putrescine to phenylacetaldehyde, 4-hydroxy-phenylacetaldehyde, and 4-amino-butanal,
+respectively, was upregulated, indicating that this gene may play an
+important role in putrescine degradation, and CuAO1 (EC 1.4.3.22)
+protein may have a wide range of substrates.
+
+3.3.3. Arginine and ornithine
+Arginine and ornithine are important precursor amino acids in the
+synthesis of putrescine, and their existence may affect the degradation of
+putrescine as an available nitrogen source. As shown in Fig. 2l-m,
+H. uvarum FS35 grew well in the absence or presence of various levels of
+arginine and ornithine, and the highest level of putrescine degradation
+occurred in the presence of 0.5 % arginine and ornithine, respectively, in
+which up to 98 % of putrescine was degraded, suggesting that the
+presence of arginine and ornithine would not have a negative effect on
+the putrescine degradation.
+
+3.4.2. Validation of RNA-seq by qRT-PCR
+The transcription results were verified using qRT-PCR analysis of the
+key genes related to putrescine metabolism. It was found that the
+pearson correlation coefficient between the qRT-PCR results and the
+data of transcriptomic analysis was 0.9747, which suggested that the
+RNA-seq data were convincible (Fig. 3f-g). Therefore, based on the
+detected upregulated key genes and the literature survey, the possible
+putrescine degradation pathway of H. uvarum FS35 can be described as
+follows (Fig. 3h). The degradation started with the transport of putres­
+cine into cells under the action of Tpo1, then the upregulated of CuAO1
+indicated that putrescine was oxidized to 4-amino-butanal, which was
+further oxidized to 4-amino-butanoate through the regulation of ALDH.
+4-amino-butanoate was a main intermediate of putrescine degradation
+detected in H. uvarum FS35, as shown in Fig. 2f. Finally, succinate was
+produced with the upregulation of gabT and gabD, and entered the TCA
+cycle.
+
+3.4. Transcriptome analysis of putrescine degradation mechanism of H.
+Uvarum FS35
+3.4.1. Differential gene expression profile analysis
+The gene expression profile of H. uvarum FS35 was different between
+C_8 h and T_8 h (Fig. 3a). The existence of DEGs induced by adding 50
+mg/L of putrescine was confirmed, of which 929 DEGs were upregu­
+lated, whereas 832 DEGs were downregulated (Fig. 3b). As shown in
+Fig. 3c, The DEGs encoding binding, cell part and cellular process
+occupied an important position in the biological process, cellular
+component and molecular function category of GO annotation, respec­
+tively. Notably, many DEGs related to catalytic activity, cell part,
+cellular and metabolic process displayed ascending expression by pu­
+trescine induction.
+The expression profile of genes involved in different kinds of meta­
+bolism pathways annotated and classified by the KEGG database was
+shown in Fig. 3d-e. The number of upregulated DEGs related to amino
+acid, carbohydrate, energy, lipid, cofactor, and vitamin metabolism was
+higher than that of downregulated DEGs, illustrating that putrescine
+may promote the growth and metabolism of H. uvarum FS35 as an
+additional nutrient source. Most of the upregulated DEGs in metabolism
+category were connected with amino acid, illustrating that putrescine
+degradation may improve the metabolism and biosynthesis of other
+amino acids, such as glycine, serine and threonine metabolism, lysine
+biosynthesis, cysteine and methionine metabolism, phenylalanine,
+tyrosine and tryptophan biosynthesis. The DEGs in arginine and proline
+metabolic pathways revealed that ALDH was upregulated in the direct
+oxidation and acetylation pathway of putrescine degradation, while
+PAO4 was downregulated to limit the oxidation of spermine and sper­
+midine to putrescine, resulting in poor degradation of these two
+
+3.5. Expression and purification of recombinant CuAO1
+To characterize the biochemical properties of CuAO1 from H. uvarum
+FS35, the expression and purification of recombinant CuAO1 protein
+were performed. For expression, CuAO1 gene was ligated to pPIC9K
+expression vector and transformed into P. pastoris GS115 (Fig. 4a). A
+positive recombinant pPIC9K-CuAO1 plasmid was isolated from
+P. pastoris GS115 (Fig. 4b). Western blot was further used to assess
+whether the expression of recombinant CuAO1 was successful. The band
+with a molecular weight of approximately 130 kDa was identified
+(Fig. 4c), indicating that the target protein was successfully expressed
+with some modification. The purified CuAO1 showed a specific activity
+of 0.56 ± 0.009 U/mg prot with putrescine as a substrate.
+3.6. Biochemical characterization of recombinant CuAO1
+3.6.1. Effects of temperature, pH, ethanol and glucose on CuAO1 activity
+The optimal temperature of CuAO1 activity was found to be 55 ◦ C,
+although the enzyme remained active over a rather wide temperature
+range, from 4 to 75 ◦ C (Fig. 5a). Besides, the heat inactivation experi­
+ment revealed that CuAO1 is a relatively thermostable enzyme (Fig. 5b),
+8
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 3. Transcriptome analysis of H. uvarum FS35 treated with or without 50 mg/L of putrescine. a. Venn assay showed the profiles of gene expression in C_8h and
+T_8h. b. Volcano plot of differentially expressed genes (DEGs) between C_8h and T_8h. Red (upregulation) and green (downregulation) dots indicated DEGs (|log2
+(Fold Change)| > 1, P-adjust (FDR) < 0.05). Gray dots were not considered as significantly DEGs. c. Function annotation analysis of the DEGs in C_8h vs T_8h. d. The
+upregulated DEGs of KEGG annotation analysis in C_8h vs T_8h. e. The downregulated DEGs of KEGG annotation analysis in C_8h vs T_8h. f. Validation of RNA-seq
+data using qRT-PCR analysis of the selected key genes. g. Comparison of the expression levels of key genes involved in putrescine degradation obtained from RNA-seq
+with those from qRT-PCR. h. Proposed degradation pathways of putrescine by H. uvarum FS35. Tpo1: polyamine transporter 1; CuAO1: copper amine oxidase 1; ALDH:
+aldehyde dehydrogenase; gabT: 4-aminobutyrate aminotransferase; gabD: succinate-semialdehyde dehydrogenase. The red arrows indicated the upregulation of gene
+expression levels.
+
+which retained > 30 % of the activity after a pre-incubation treatment at
+65 ◦ C. In contrast, it was found that the putrescine oxidase from
+K. varians suffered rapid inactivation at 65 ◦ C (Callejón et al., 2015).
+Moreover, H. uvarum FS35 CuAO1 was found to be active over a rela­
+tively broad range of pH, including values from 6.5 to > 8.5 (Fig. 5c).
+Low activity was detected below pH 5.5, suggesting that the pH of grape
+must (3.5–4.5) or wine (3.0–4.0) would inhibit the activity of CuAO1.
+CuAO1 activity was evaluated in the presence of different
+
+concentrations of ethanol and glucose. Ethanol strongly inhibited
+CuAO1, reducing the activity to<41 % at 15 % (v/v%) concentration
+(Fig. 5d). Glucose had little effect on the activity of CuAO1, because its
+activity did not change significantly in the concentration range of 0–300
+g/L (Fig. 5e).
+
+9
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 3. (continued).
+
+Fig. 5f. Na+, Fe3+, and Al3+ severely inhibited CuAO1 activity. In
+contrast, Cu2+, Zn2+, Ni2+, Li+, and Co2+ were able to slightly enhance
+its activity compared to the control. It has been hypothesized that the
+
+3.6.2. Effects of metal ions, enzyme inhibitors, surfactants and proteinases
+on CuAO1 activity
+The effects of different metal ions on CuAO1 activity were shown in
+10
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 4. a. The construction of recombinant plasmid
+pPIC9K-CuAO1. b. PCR identification of yeast
+transformants. M: 5000 Da Marker; +: postive con­
+trol; -: negative control; 2–8, 10, 12–15, and 17–19:
+PCR results of high copy recombinant strains. 1, 9,
+11,16, and 20: PCR results of low copy recombinant
+strains. c. Western blot of induced expression su­
+pernatants of recombinant strains. -: Western blot of
+the supernatant of the uninduced recombinant
+strain; M: the standard protein marker (180 kDa);
+1–2, and 4–9: recombinant strains successfully
+expressing CuAO1; 3 and 10: recombinant strains
+that failed to express CuAO1.
+
+positive effect of Cu2+ is due to its filling in the catalytic active sites of
+CuAO1. However, the inhibition by some other metal ions was mainly by
+chelating copper atoms or modifying amino acid residues in the protein
+to change its structure (Das, Li, Mai, & An, 2018).
+The relative activity of CuAO1 after adding different inhibitors for
+amine oxidases, were shown in Fig. 5g. CuAO1 retained 100 % activity
+in the presence of four MAO inhibitors (clorgiline, rasagiline, pargyline,
+or cyclopropylamine), suggesting that no FAD cofactor is involved in
+catalytic activity. EDC, a carboxyl-modifying agent, produced a 14.8 %
+decrease in enzyme activity. Similarly, the carbonyl modifier
+
+semicarbazide, which inhibited a specific subgroup of copper-containing
+amine oxidases, caused an inhibition of nearly 55.4 %. On the other
+hand, although EDTA did not reduce the catalytic activity, the other two
+metal chelating agents, bipyridyl and phenanthroline, significantly
+inhibited the activity of CuAO1 by 90.5 and 60.6 %, respectively, indi­
+cating that metallic cofactor was involved in catalytic activity. In
+addition, as strong reducing agents, L-cysteine and dithiothreitol
+revealed important inhibitor effects on CuAO1 activity.
+CuAO1 activity was slightly inhibited by 0.05 % Tween 20 and 0.05
+% Triton-100. However, 0.01 % SDS significantly inhibited the activity
+11
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+Fig. 5. Effects of temperature on (a) activity and (b) stability of recombinant CuAO1. Effects of (c) pH, (d) ethanol concentration, (e) glucose concentration, (f) metal
+ions, (g) enzyme inhibitors, (h) surfactants, and (i) proteases on activity of recombinant CuAO1. j. The kinetic parameters (Km and Vmax) of recombinant CuAO1 for
+putrescine. k. Substrate specificity analysis of recombinant CuAO1.
+
+12
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+of CuAO1 by 70.8 %, because SDS denatured the protein as a strong
+anionic surfactant (Fig. 5h). In addition, the CuAO1 activity was
+completely lost when treated with proteinase K, and was obviously
+affected after being treated with papain and trypsin (Fig. 5i).
+
+polyamines (spermidine and spermine) were oxidized by H. uvarum
+FS35 CuAO1. The 2-phenylethylamine was by far the best substrate for
+this enzyme, although the monoamines (histamine and tyramine), the
+diamines (putrescine and cadaverine) and, to a much less extent, the
+monoamine tryptamine were also oxidized by the enzyme, as can be
+deduced from the relative activity data obtained from each substrate
+(Fig. 5k). These results were consistent with previous data reported for
+known putrescine oxidases from Candida sp. (Gunasekaran & Gunase­
+karan, 1999). Similar to these enzymes, H. uvarum FS35 CuAO1 had
+different preferences for substrates and, moreover, given that spermi­
+dine and spermine cannot act as substrates, these two polyamines
+showed potential competitive inhibition of CuAO1 activity.
+
+3.6.3. The steady state kinetic parameters for putrescine
+The double-reciprocal plot of calculated initial velocities versus
+substrate concentrations was used to derive Km and Vmax. The resulting
+kinetic parameters were as follows: Km = 39 μM and Vmax = 0.064 μmol/
+L⋅min (Fig. 5j). The Km of CuAO1 for putrescine was slightly higher than
+that reported by Candida guilliermondii of 20 μM (Gunasekaran &
+Gunasekaran, 1999), and lower than that reported by Callejón et al.
+(2015) of 94 μM, indicating that CuAO1 showed a great affinity with
+putrescine.
+3.6.4. Substrate specificity analysis
+The substrate specificity analysis showed that none of the tested
+
+Fig. 6. a. Putrescine content in Marselan and Cabernet Sauvignon wines treated with recombinant CuAO1. b. Loading and score plot of first two principal com­
+ponents for classification of Cabernet Sauvignon wine samples inoculated with different strain combinations according to their volatile compounds. c. Aroma radar
+map of sensory evaluation.
+13
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+3.7. The performance of recombinant CuAO1 and H. Uvarum FS35 in
+wine production
+
+producers of acetic acid (Contreras, Hidalgo, Henschke, Chambers,
+Curtin, & Varela, 2014). Higher acetic acid content was observed in the
+fermentation with H. uvarum FS35 in our study, but the concentration in
+all treatments was within the acceptable level of grape wine (≤1.2 g/L)
+(Viana, Gil, Genovés, Vallés, & Manzanares, 2008).
+
+3.7.1. Putrescine degradation in wine by recombinant CuAO1
+As shown in Fig. 6a, the recombinant CuAO1 was able to degrade
+25.8 and 21.8 mg/L of putrescine in Marselan and Cabernet Sauvignon
+wines, respectively. Obviously, wine conditions are not optimal for
+CuAO1 activity, and the limiting factors may be ethanol and low pH.
+According to our previous study, the highest putrescine content in
+Marselan and Cabernet Sauvignon wines were 27.6 and 21.6 mg/L,
+respectively (Han et al., 2022). Therefore, for the wine samples readily
+available to Chinese consumers we investigated, although CuAO1 had
+limited activity in wine, it could effectively reduce putrescine content to
+a safe level. Therefore, the purified CuAO1 would be a potential measure
+to eliminate putrescine in wines with very low pH or high ethanol
+content.
+
+3.7.3. The volatile component analysis of wines fermented with H. Uvarum
+FS35
+A total of 86 different aroma compounds were detected. All aroma
+components other than ethanol were classified into esters, alcohols,
+acids, and carbonyls, which varied with the yeast species. Compared
+with grape juice, the variety of aroma compounds detected in all fer­
+mentations were significantly higher, and numerically more kinds of
+aroma compounds were detected in sequential fermentation groups,
+almost double to that of grape juice.
+Although esters and alcohols were originally present in grape juice,
+they were mainly produced by yeast during AF. In our study, the results
+revealed that esters were the group with the highest content, which had
+an important impact on the wine flavor. Among them, ethyl acetate was
+the most abundant, with concentrations of 14.2–21.2 mg/L (rOAV:
+89.9–134.1), and wines involving H. uvarum FS35 had significantly
+higher levels of it, which confirmed the high production of acetate ester
+and the characteristics of sweet and fruity aromas by H. uvarum FS35
+(Peinado, Moreno, Bueno, Moreno, & Mauricio, 2004). In addition, H.u
+FS35 + S.C VR group produced the highest level of ethyl palmitate
+(rOAV: 20.6), and ethyl caprate (rOAV: 61.7) and diethyl succinate
+(rOAV: 11.7) were also largely synthesized in this group, indicating that
+H.u FS35 + S.C VR group may possess fruity, floral, and sweet features.
+Importantly, the production of hexanoic acid was negatively correlated
+with the level of ethyl caproate (-0.530, P < 0.05). This result may be
+explained by the esterification of acids during the synthesis of corre­
+sponding ethyl esters. In agreement with a previous study (Song et al.,
+2015), alcohols were also one of the largest groups of volatiles identified
+in wine. In this experiment, the concentration of higher alcohols was
+within the acceptable range (≤350 mg/L) (Wei et al., 2020). Variations
+were noticed among yeasts with respect to their ability to produce
+phenylethyl alcohol (rOAV: 45.8–138.6), and fermentations involving
+H. uvarum FS35 produced the highest concentration of this compound,
+suggesting that H. uvarum FS35 may contribute rose and honey flavors to
+wine aroma (Peinado, Moreno, Bueno, Moreno, & Mauricio, 2004).
+
+3.7.2. The physicochemical analysis of wines fermented with H. Uvarum
+FS35
+The physicochemical parameters, including putrescine, glucose,
+fructose, glycerol, ethanol, and organic acid content, of wines fermented
+with different strain combinations were shown in Table 1. The highest
+level of putrescine was detected in wines from a single culture with
+commercial yeast S. cerevisiae VR, whereas no putrescine was detected in
+wines from sequential inoculation with H. uvarum FS35, indicating that
+H. uvarum FS35 performed prominent putrescine-degrading ability in
+practical fermentation. High amount of residual fructose was detected in
+groups with S. cerevisiae VR, and all groups were able to use up almost all
+glucose, which confirmed that S. cerevisiae HL17 was capable of utilize
+glucose as adequate as S. cerevisiae VR, and its affinity to fructose is more
+satisfying. In addition, the group with S. cerevisiae HL17 exhibited
+higher ethanol content, which is most likely due to the complete con­
+sumption of sugars by this strain. Glycerol affects the fullness of the wine
+when the concentration exceeds its taste threshold of 5.2 g/L (Wei et al.,
+2020). The groups with H. uvarum FS35 could produce more glycerol,
+indicating that H. uvarum FS35 exhibited a property of high-yield
+glycerol.
+Organic acid content is an important indicator relating to the balance
+of wine taste and aroma. Lower level of citric acid and higher level of
+lactic acid were detected in groups involving H. uvarum FS35, which
+may have a positively influence on the mouthfeel perception of wine.
+Malic acid is an acid with a green and astringent taste that can be syn­
+thesized by yeast during AF (Han et al., 2021). Higher malic acid level
+could be found in groups involving S. cerevisiae VR, suggesting that
+S. cerevisiae VR may have the ability to produce malic acid. Moreover,
+succinic acid is an acid with a salty and bitter taste that might have an
+adverse impact on the quality of wine at high concentration (Restuccia
+et al., 2017). The succinic acid content of the group involving
+S. cerevisiae HL17 was notably lower, suggesting that S. cerevisiae HL17
+may have the potential to weaken the adverse effects caused by succinic
+acid. In addition, non-Saccharomyces yeasts are considered to be high
+
+3.7.4. PCA of main volatile compounds
+49 main aroma compounds were selected for PCA, as shown in
+Fig. 6b. It could be observed that the variance contribution rate of the
+first principal component (PC1) was 42.6 %, that of the second principal
+component (PC2) was 26.8 %, and the cumulative variance contribution
+rate reached 69.4 %, indicating that most of the information about the
+original aroma could be retained. The PC1 could be interpreted as an
+indicator to evaluate the richness of the fermentative aroma of the
+samples and distinguish grape juice from wine. The grape juice con­
+tained little fermentative aroma was located in the negative axis of the
+
+Table 1
+The profile of physicochemical parameters in wines fermented by different strain combinations.
+
+Grape
+juice
+S.C VR
+FS35 + S.
+C VR
+FS35 +
+HL17
+
+PUT
+(mg/L)
+
+Glucose
+(g/L)
+
+Fructose
+(g/L)
+
+Glycerol
+(g/L)
+
+Ethanol (v/
+v%)
+
+Citric acid
+(g/L)
+
+Tartaric acid
+(g/L)
+
+Malic acid
+(g/L)
+
+Succinic acid
+(g/L)
+
+Lactic acid
+(g/L)
+
+Acetic acid
+(g/L)
+
+46.10±
+1.71a
+17.40±
+1.26b
+N.D.
+
+118.53±
+0.49a
+0.63±
+0.02c
+0.63±
+0.00c
+1.40±
+0.10b
+
+129.27±
+0.78a
+3.50±
+0.07b
+1.72±
+0.03c
+0.56±
+0.11d
+
+0.64±
+0.23d
+6.95±
+0.02c
+8.10±
+0.02a
+7.55±
+0.01b
+
+0.15±
+0.03d
+13.60±
+0.03b
+13.03±
+0.04c
+14.23±
+0.04a
+
+1.03±
+0.08b
+1.14±
+0.04a
+1.05±
+0.01b
+1.03±
+0.03b
+
+5.05±
+0.05a
+4.91±
+0.07b
+4.24±
+0.02c
+2.96±
+0.03d
+
+2.40 ±
+0.03d
+4.06 ±
+0.11a
+3.71 ±
+0.06b
+3.24 ±
+0.12c
+
+0.39±
+0.08c
+2.19±
+0.03a
+2.17±
+0.05a
+1.67±
+0.05b
+
+1.00 ±
+0.03c
+0.97 ±
+0.03c
+2.86 ±
+0.36a
+1.98 ±
+0.16b
+
+0.30±
+0.01c
+0.46±
+0.01b
+1.09±
+0.01a
+1.12±
+0.01a
+
+N.D.
+
+PUT: Putrescine; N.D.: not detected or below limit of quantitation. Results are expressed as mean ± S.D. (n = 3). Different superscripts in the same column indicated
+significant difference in the content of the measured index, P < 0.05.
+14
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+
+PC1, while the wine samples were all located in the positive axis. Among
+the 3 wine samples, the PC1 scores of groups involving H. uvarum FS35
+were significantly higher, indicating that the sequential inoculation with
+H. uvarum FS35 could significantly increase the content of esters and
+other fermented fragrances in wine. The PC2 could be regarded as an
+index to evaluate the richness of typical aroma. The groups cultured
+with H. uvarum FS35 (except grape juice) were located in the positive
+axis of the PC2, while the group monoculture with S. cerevisiae VR were
+located in the negative axis, which may due to the obvious floral and
+fruity characteristics contributed by H. uvarum FS35. Therefore, there
+were significant differences in aroma between wine fermented by
+indigenous yeast and wine produced by commercial S. cerevisiae VR,
+demonstrating the great potential of native yeast in wine fermentation.
+
+Acknowledgements
+This work was supported by the Science and Technology Project in
+Beijing [grant no. Z201100008920003], and the National Key R&D
+Program of China[grant no. 2016YFD0400500].
+Appendix A. Supplementary material
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.foodres.2022.111923.
+References
+Alvarez, A. M., & Moreno-Arribas, V. M. (2014). The problem of biogenic amines in
+fermented foods and the use of potential biogenic amine-degrading microorganisms
+as a solution. Trends in Food Science and Technology, 39, 146–155. https://doi.org/
+10.1016/j.tifs.2014.07.007
+Callejón, S., Sendra, R., Ferrer, S., & Pardo, I. (2015). Ability of Kocuria varians LTH 1540
+to degrade putrescine: Identification and characterization of a novel amine oxidase.
+Journal of Agricultural and Food Chemistry, 63, 4170–4178. https://doi.org/10.1021/
+jf5026967
+Callejón, S., Sendra, R., Ferrer, S., & Pardo, I. (2017). Recombinant laccase from
+Pediococcus acidilactici CECT 5930 with ability to degrade tyramine. Plos One, 12,
+Article e186019. https://doi.org/10.1371/journal.pone.0186019
+Capozzi, V., Fragasso, M., & Russo, P. (2020). Microbiological safety and the
+management of microbial resources in artisanal foods and beverages: The need for a
+transdisciplinary assessment to conciliate actual trends and risks avoidance.
+Microorganisms, 8, 306. https://doi.org/10.3390/microorganisms8020306
+Capozzi, V., Russo, P., Ladero, V., Fernández, M., Fiocco, D., Alvarez, M. A., … Spano, G.
+(2012). Biogenic amines degradation by Lactobacillus plantarum: Toward a potential
+application in wine. Frontiers in Microbiology, 3. https://doi.org/10.3389/
+fmicb.2012.00122
+Contreras, A., Hidalgo, C., Henschke, P. A., Chambers, P. J., Curtin, C., & Varela, C.
+(2014). Evaluation of non-Saccharomyces yeasts for the reduction of alcohol content
+in wine. Applied and Environmental Microbiology, 80, 1670–1678. https://doi.org/
+10.1128/AEM.03780-13
+Cueva, C., Garcia-Ruiz, A., Gonzalez-Rompinelli, E., Bartolome, B., Martin-Alvarez, P. J.,
+Salazar, O., … Moreno-Arribas, M. V. (2012). Degradation of biogenic amines by
+vineyard ecosystem fungi. Potential use in winemaking. Journal of Applied
+Microbiology, 112, 672–682. https://doi.org/10.1111/j.1365-2672.2012.05243.x
+Dabadé, D. S., Jacxsens, L., Miclotte, L., Abatih, E., Devlieghere, F., & Meulenaer, B. D.
+(2021). Survey of multiple biogenic amines and correlation to microbiological
+quality and free amino acids in foods. Food Control, 120, Article 107497. https://doi.
+org/10.1016/j.foodcont.2020.107497
+Das, R., Li, G., Mai, B., & An, T. (2018). Spore cells from BPA degrading bacteria Bacillus
+sp. GZB displaying high laccase activity and stability for BPA degradation. Science of
+the Total Environment, 640-641, 798–806. https://doi.org/10.1016/j.
+scitotenv.2018.05.379
+Diez-Ozaeta, I., Lavilla, M., & Amárita, F. (2021). Wine aroma profile modification by
+Oenococcus oeni strains from Rioja Alavesa region: Selection of potential malolactic
+starters. International Journal of Food Microbiology, 356, Article 109324. https://doi.
+org/10.1016/j.ijfoodmicro.2021.109324
+García-Ruiz, A., González-Rompinelli, E. M., Bartolomé, B., & Moreno-Arribas, M. V.
+(2011). Potential of wine-associated lactic acid bacteria to degrade biogenic amines.
+International Journal of Food Microbiology, 148, 115–120. https://doi.org/10.1016/j.
+ijfoodmicro.2011.05.009
+Gunasekaran, M., & Gunasekaran, U. (1999). Partial purification and properties of
+putrescine oxidase from Candida guilliermondii. Applied Biochemistry & Biotechnology,
+76, 229–236. https://doi.org/10.1385/abab:76:3:229
+Han, B., Han, X., Deng, H., Wu, T., Li, C., Zhan, J., … You, Y. (2022). Profiling the
+occurrence of biogenic amines in wine from Chinese market and during fermentation
+using an improved chromatography method. Food Control, 136, Article 108859.
+https://doi.org/10.1016/j.foodcont.2022.108859
+Han, X., Qing, X., Yang, S., Li, R., Zhan, J., You, Y., & Huang, W. (2021). Study on the
+diversity of non-Saccharomyces yeasts in Chinese wine regions and their potential in
+improving wine aroma by β-glucosidase activity analyses. Food Chemistry, 360,
+Article 129886. https://doi.org/10.1016/j.foodchem.2021.129886
+Kandasamy, S., Muniraj, I. K., Purushothaman, N., Sekar, A., Sharmila, D. J. S.,
+Kumarasamy, R., & Uthandi, S. (2016). High level secretion of laccase (LccH) from a
+newly isolated white-rot basidiomycete, hexagonia hirta MSF2. Frontiers in
+Microbiology, 7. https://doi.org/10.3389/fmicb.2016.00707
+Li, B., & Lu, S. (2020). The importance of amine-degrading enzymes on the biogenic
+amine degradation in fermented foods: A review. Process Biochemistry, 99, 331–339.
+https://doi.org/10.1016/j.procbio.2020.09.012
+Li, L., Wen, X., Wen, Z., Chen, S., Wang, L., & Wei, X. (2018). Evaluation of the biogenic
+amines formation and degradation abilities of Lactobacillus curvatus from Chinese
+bacon. Frontiers in Microbiology, 9, 1015. https://doi.org/10.3389/
+fmicb.2018.01015
+Li, R., Lin, M., Guo, S., Yang, S., Han, X., Ren, M., … Huang, W. (2021). A fundamental
+landscape of fungal biogeographical patterns across the main Chinese wineproducing regions and the dominating shaping factors. Food Research International,
+150, Article 110736. https://doi.org/10.1016/j.foodres.2021.110736
+
+3.7.5. Sensory analysis
+The sensory evaluation results of 3 samples were shown in Fig. 6c. It
+can be noticed that H. uvarum FS35 has great influence on aroma
+characteristics of wine. Among them, both H.u FS35 + S.C VR group and
+H.u FS35 + S.C HL17 group showed high intensity of sweetness, floral,
+tropical fruit and citrus fruit aroma. S.C VR group showed obvious
+characteristics in herbal and spice, but relatively weak in overall aroma
+intensity. Although H.u FS35 + S.C VR and H.u FS35 + S.C HL17 group
+exhibited obvious characteristics in alcohol and acidity, respectively,
+their floral and fruity aroma intensity was outstanding, and all sensory
+evaluators found significant differences in aroma between the two
+groups and S.C VR group, this may due to the presence of relatively high
+concentration of phenylethyl alcohol, ethyl acetate and β-phenylethyl
+acetate in both samples, resulting in a certain amount of floral and fruity
+aroma.
+4. Conclusions
+Various fermented, seasoned or conserved foodstuffs (wine, beer,
+cheese, fish, chocolate and soybean products) were reported to contain
+high content of BAs, resulting in harmful effects on human body. In this
+study, H. uvarum FS35, a strain with great ability to degrade BAs,
+especially putrescine was finally selected from 111 strains of yeast
+through screening, stress tolerance and winemaking performance eval­
+uation. Then, CuAO1 of H. uvarum FS35, an amine oxidase leading to a
+direct oxidative deamination of putrescine to 4-aminobutyrate and, ul­
+timately, to succinate, was characterized through the analysis of tran­
+scriptome and enzymatic activity. It is expected to further study the
+fermentation characteristics in pilot production and other putrescine
+degradation pathways of this strain, which is of great significance for
+brewing safe and high-quality wine in practical production.
+CRediT authorship contribution statement
+Bing Han: Data curation, Methodology, Formal analysis, Software,
+Validation, Visualization, Writing – original draft. Jie Gao: Investiga­
+tion, Methodology, Visualization. Xiaoyu Han: Formal analysis, Vali­
+dation, Visualization. Huan Deng: Investigation, Methodology,
+Visualization. Tianyang Wu: Formal analysis, Investigation, Visualiza­
+tion. Chenyu Li: Investigation, Methodology, Validation. Jicheng
+Zhan: Validation, Writing – review & editing. Weidong Huang:
+Conceptualization, Funding acquisition, Project administration, Writing
+– review & editing. Yilin You: Writing – review & editing, Conceptu­
+alization, Funding acquisition, Project administration, Resources,
+Supervision.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+15
+
+B. Han et al.
+
+Food Research International 162 (2022) 111923
+and Cabernet Sauvignon wines. Scientia Horticulturae, 194, 237–245. https://doi.
+org/10.1016/j.scienta.2015.08.026
+Tristezza, M., Tufariello, M., Capozzi, V., Spano, G., Mita, G., & Grieco, F. (2016). The
+oenological potential of Hanseniaspora uvarum in simultaneous and sequential cofermentation with Saccharomyces cerevisiae for industrial wine production. Frontiers
+in Microbiology, 7. https://doi.org/10.3389/fmicb.2016.00670
+Tristezza, M., Vetrano, C., Bleve, G., Spano, G., Capozzi, V., Logrieco, A., … Grieco, F.
+(2013). Biodiversity and safety aspects of yeast strains characterized from vineyards
+and spontaneous fermentations in the Apulia Region, Italy. Food Microbiology, 36,
+335–342. https://doi.org/10.1016/j.fm.2013.07.001
+Viana, F., Gil, J. V., Genovés, S., Vallés, S., & Manzanares, P. (2008). Rational selection of
+non-Saccharomyces wine yeasts for mixed starters based on ester formation and
+enological traits. Food Microbiology, 25, 778–785. https://doi.org/10.1016/j.
+fm.2008.04.015
+Wang, C. C., Billett, E., Borchert, A., Kuhn, H., & Ufer, C. (2013). Monoamine oxidases in
+development. Cellular and Molecular Life Sciences. https://doi.org/10.1007/s00018012-1065-7
+Wei, J., Zhang, Y., Wang, Y., Ju, H., Niu, C., Song, Z., … Yue, T. (2020). Assessment of
+chemical composition and sensorial properties of ciders fermented with different
+non-Saccharomyces yeasts in pure and mixed fermentations. International Journal of
+Food Microbiology, 318, Article 108471. https://doi.org/10.1016/j.
+ijfoodmicro.2019.108471
+Wu, Y., Guo, W., Zhao, J., Ding, L., & Chen, X. (2018). Isolation and identification of a
+novel LCI like antibacterial protein from Bacillus sp. MD-5 reveals its potential
+application in controlling Staphylococcus aureus in food industry. Food Control, 89,
+142–149. https://doi.org/10.1016/j.foodcont.2018.01.026
+Yang, Q., Meng, J., Zhang, W., Liu, L., He, L., Deng, L., … Ye, C. (2020). Effects of amino
+acid decarboxylase genes and pH on the amine formation of enteric bacteria from
+Chinese traditional fermented fish (suan yu). Frontiers in Microbiology, 11. https://
+doi.org/10.3389/fmicb.2020.01130
+Zaman, M. Z., Bakar, F. A., Selamat, J., Bakar, J., Ang, S. S., & Chong, C. Y. (2014).
+Degradation of histamine by the halotolerant Staphylococcus carnosus FS19 isolate
+obtained from fish sauce. Food Control, 40, 58–63. https://doi.org/10.1016/j.
+foodcont.2013.11.031
+
+Li, X., Cen, N., Liu, L., Chen, Y., Yang, X., Yu, K., … Shi, B. (2020). Collagen peptide
+provides Saccharomyces cerevisiae with robust stress tolerance for enhanced
+bioethanol production. ACS Applied Materials & Interfaces, 12, 53879–53890.
+https://doi.org/10.1021/acsami.0c18919
+Lorenzo, C., Bordiga, M., Pérez-Álvarez, E. P., Travaglia, F., Arlorio, M., Salinas, M. R., …
+Garde-Cerdán, T. (2017). The impacts of temperature, alcoholic degree and amino
+acids content on biogenic amines and their precursor amino acids content in red
+wine. Food Research International, 99, 328–335. https://doi.org/10.1016/j.
+foodres.2017.05.016
+Medina, K., Boido, E., Fariña, L., Gioia, O., Gomez, M. E., Barquet, M., … Carrau, F.
+(2013). Increased flavour diversity of Chardonnay wines by spontaneous
+fermentation and co-fermentation with Hanseniaspora vineae. Food Chemistry, 141,
+2513–2521. https://doi.org/10.1016/j.foodchem.2013.04.056
+Naila, A., Flint, S., Fletcher, G., Bremer, P., & Meerdink, G. (2010). Control of biogenic
+amines in food-existing and emerging approaches. Journal of Food Science, 75,
+R139–R150. https://doi.org/10.1111/j.1750-3841.2010.01774.x
+Nisiotou, A., Sgouros, G., Mallouchos, A., Nisiotis, C., Michaelidis, C., Tassou, C., &
+Banilas, G. (2018). The use of indigenous Saccharomyces cerevisiae and Starmerella
+bacillaris strains as a tool to create chemical complexity in local wines. Food Research
+International, 111, 498–508. https://doi.org/10.1016/j.foodres.2018.05.035
+Peinado, R. A., Moreno, J., Bueno, J. E., Moreno, J. A., & Mauricio, J. C. (2004).
+Comparative study of aromatic compounds in two young white wines subjected to
+pre-fermentative cryomaceration. Food Chemistry, 84, 585–590. https://doi.org/
+10.1016/S0308-8146(03)00282-6
+Restuccia, D., Sicari, V., Pellicanò, T. M., Spizzirri, U. G., & Loizzo, M. R. (2017). The
+impact of cultivar on polyphenol and biogenic amine profiles in Calabrian red grapes
+during winemaking. Food Research International, 102, 303–312. https://doi.org/
+10.1016/j.foodres.2017.10.012
+Russo, P., Capozzi, V., Spano, G., Corbo, M. R., Sinigaglia, M., & Bevilacqua, A. (2016).
+Metabolites of microbial origin with an impact on health: Ochratoxin A and biogenic
+amines. Frontiers in Microbiology, 7. https://doi.org/10.3389/fmicb.2016.00482
+Song, C. Z., Zuo, L. L., Shi, P. B., Meng, J. F., Wang, Y. J., Zhang, Z. W., & Xi, Z. M.
+(2015). Aroma characterization of Chinese Hutai-8 wines: Comparing with Merlot
+
+16
+
+

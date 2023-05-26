@@ -1,0 +1,998 @@
+Food Research International 123 (2019) 559–566
+
+Contents lists available at ScienceDirect
+
+Food Research International
+journal homepage: www.elsevier.com/locate/foodres
+
+Enhancing wine ester biosynthesis in mixed Hanseniaspora uvarum/
+Saccharomyces cerevisiae fermentation by nitrogen nutrient addition
+
+T
+
+Kai Hua,1, Guo-Jie Jina,1, Yin-Hu Xub,c, Shi-Jin Xuea, Shu-Jing Qiaoa, Yu-Xi Tenga,
+⁎
+Yong-Sheng Taoa,d,
+a
+
+College of Enology, Northwest A&F University, Yangling, Shaanxi 712100, China
+National Center for Yeast Technology Research and Promotion, Yichang, Hubei 443003, China
+c
+Angel Yeast Co., Ltd, Yichang, Hubei 443003, China
+d
+Shaanxi Engineering Research Center for Viti-viniculture, Yangling, Shaanxi 712100, China
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Chemical compounds studied in this article:
+Ethyl acetate (PubChem CID: 8857)
+Isobutyl acetate (PubChem CID: 8038)
+Isoamyl acetate (PubChem CID: 31276)
+Phenethyl acetate (PubChem CID: 7654)
+Ethyl hexanoate (PubChem CID: 31265)
+Ethyl octanoate (PubChem CID: 7799)
+Ethyl decanoate (PubChem CID: 8048)
+
+The dynamic changes of wine ester production during mixed fermentation with Hanseniaspora uvarum Yun268
+and Saccharomyces cerevisiae F5 was investigated at diﬀerent levels and timings of nitrogen nutrient addition.
+Nitrogen additions were performed by supplementing yeast assimilable nitrogen (YAN) into a synthetic grape
+must with deﬁned composition. Ester precursors and extracellular metabolites involved in ester synthesis were
+analyzed throughout the fermentation. Results showed that nitrogen additions covering 50–200 mg/L YAN at the
+point of yeast inoculation slightly aﬀected yeast competition and ester proﬁles. Interestingly, when YAN was
+supplemented in the mid-stage, the survival of H. uvarum Yun268 was enhanced, resulting in more than a 2-fold
+increase in the levels of higher alcohol acetates compared to that at the initial stage. Furthermore, carbon ﬂuxes
+may be redistributed in the central pathway, which contributed to the production of medium-chain fatty acids
+and eventually triggered a 1.2-fold elevation in corresponding ethyl ester levels.
+
+Keywords:
+Flavour
+Mixed culture
+Yeast assimilable nitrogen
+Alcoholic fermentation
+Non-Saccharomyces
+Saccharomyces cerevisiae
+
+1. Introduction
+Within the last decade, mixed fermentation of non-Saccharomyces
+and Saccharomyces cerevisiae yeasts has received a growing interest in
+winemaking industry due to great potentials in improving ﬂavour
+component of fermented beverages such as wine, beer, and spirits
+(Varela, 2016). When creating and conducting mixed fermentation of
+these products, esters are considered as one of the most targeted components because of their olfactory contribution to desired fruity and
+ﬂoral attributes (Poivet et al., 2018; Renault, Coulon, de Revel, Barbe, &
+Bely, 2015; Sáenz-Navajas et al., 2016; Waterhouse, Sacks, & Jeﬀery,
+2016). Even at a concentration below threshold, esters in alcohol solution can also impart aroma perception through synergistic eﬀects
+(Lytra, Tempere, Le Floch, de Revel, & Barbe, 2013). The most important aromatic esters in wines include acetate esters and fatty acid
+ethyl esters, which are mainly produced by yeasts through their
+
+metabolism via the reaction between fatty acids and alcohols during
+alcoholic fermentation (Ebeler, 2001; Sumby, Grbin, & Jiranek, 2010).
+To enhance ester levels of wine mixed fermentation, various approaches
+have been considered, such as non-Saccharomyces strain selection
+(Domizio et al., 2011; Sáenz-Navajas et al., 2016), inoculation strategies (Hu, Jin, Xu, & Tao, 2018), and grape choice (Englezos et al.,
+2018). Although non-Saccharomyces strains will typically die oﬀ as the
+fermentation progresses, they act as the key contributor to ester enhancement by interacting with S. cerevisiae. During their growth interaction, nitrogen nutrient competition is thought to be one of the
+main drivers (Ciani & Comitini, 2015).
+As a critical nutrient, yeast assimilable nitrogen (YAN) supports
+yeast growth and regulates sugar consumption during alcoholic fermentation. Grape must with a YAN concentration below 140–150 mg/L
+notably raises the risk of slow or stuck fermentation (Bell & Henschke,
+2005; Butzke, 1998). To overcome nitrogen deﬁciency and assure an
+
+⁎
+
+Corresponding author at: College of Enology, Northwest A&F University, 22 Xinong Road, Yangling, Shaanxi 712100, China.
+E-mail address: taoyongsheng@nwsuaf.edu.cn (Y.-S. Tao).
+1
+These authors equally contributed to this work.
+https://doi.org/10.1016/j.foodres.2019.05.030
+Received 20 March 2019; Received in revised form 12 May 2019; Accepted 20 May 2019
+Available online 21 May 2019
+0963-9969/ © 2019 Elsevier Ltd. All rights reserved.
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+purchased from the Laﬀort Wine Accessory Co., France. Prior to inoculation, yeast cells were cultivated at 28 °C with agitation at 170 rpm
+for 48 h in yeast-peptone-dextrose (YPD) medium (2% glucose, 2%
+peptone, 1% yeast extract, and unadjusted pH), collected by centrifugation at 4500 ×g for 3 min, and then washed twice with the
+0.85% (w/v) NaCl solution.
+To mimic winemaking practices and ensure reproducibility of media
+composition, a synthetic grape must that simulated natural grape must
+was used (Bely et al., 1990; Rollero et al., 2015). It contained 100 g/L
+glucose, 100 g/L fructose, 6 g/L malic acid, 6 g/L citric acid, 750 mg/L
+KH2PO4, 500 mg/L K2SO4, 250 mg/L MgSO4·7H2O, 155 mg/L
+CaCl2·2H2O, 200 mg/L NaCl, vitamins (20 mg/L myo-inositol, 1.5 mg/L
+calcium pantothenate, 0.223 mg/L thiamin hydrochloride, 2 mg/L nicotinic acid, 0.25 mg/L pyridoxine, and 0.003 mg/L biotin), and oligoelements (4 mg/L MnSO4·H2O, 4 mg/L ZnSO4·7H2O, 1 mg/L CuSO4·5H2O, 0.4 mg/L CoCl2·6H2O, 1 mg/L H3BO3, and 1 mg/L
+(NH4)6Mo7O24). The nitrogen sources were composed of ammonium
+chloride and amino acids. Their addition amounts could be changed to
+control YAN levels of the medium. The stock solution of amino acids
+included 1.4 g/L tyrosine, 13.7 g/L tryptophan, 2.5 g/L isoleucine,
+3.4 g/L aspartate, 9.2 g/L glutamate, 28.6 g/L arginine, 3.7 g/L leucine,
+5.8 g/L threonine, 1.4 g/L glycine, 38.6 g/L glutamine, 11.1 g/L alanine, 3.4 g/L valine, 2.4 g/L methionine, 2.9 g/L phenylalanine, 6.0 g/L
+serine, 2.5 g/L histidine, 1.3 g/L lysine, 1.0 g/L cysteine. The stock solution of amino acids also included 46.8 g/L proline, which, however,
+was not considered assimilable nitrogen (Beltran et al., 2005). YAN
+content was checked using the formaldehyde titration method
+(Zoecklein, Fugelsang, Gump, & Nury, 1995). Final pH value of the
+synthetic grape must was adjusted to 3.3 with 10 M sodium hydroxide.
+
+appropriate population of yeast, winemakers generally supplement
+YAN source, such as ammonium salts, or the mixture with amino acids,
+into grape musts (Bely, Sablayrolles, & Barre, 1990; Henschke &
+Jiranek, 1993; Torrea et al., 2011). Extensive studies on single fermentation with S. cerevisiae have revealed that YAN management is
+critical for shaping wine ester proﬁles. The increase in initial YAN
+content generally stimulates S. cerevisiae growth and acetate ester
+production; whereas fatty acid ethyl ester production shows uncertain
+relationship with initial YAN levels (Carrau et al., 2008; Saerens et al.,
+2008; Ugliano, Travis, Francis, & Henschke, 2010). This suggests that
+ethyl esters may be more related to fatty acid metabolism (Saerens
+et al., 2006). Moreover, when supplementing the same amount of YAN
+at diﬀerent fermentation stages, S. cerevisiae biomass is not increased,
+whereas ester production is diversely inﬂuenced (Beltran, EsteveZarzoso, Rozès, Mas, & Guillamón, 2005; Seguinot et al., 2018).
+Therefore, nitrogen supplementation at diﬀerent time-points during
+single S. cerevisiae fermentation seems to intervene in the existing
+pathway of ester production.
+Since competition for nitrogen sources is a major driver of yeast
+succession during mixed culture fermentation, nitrogen supplementation may trigger greater inﬂuence on yeast behavior and thus can impact ester productivity. Regarding this attempt, only few eﬀorts have
+been made, and mainly, these studies focus on yeast growth. For instance, Andorrà, Berradre, Mas, Esteve-Zarzoso, and Guillamón (2012)
+initially revealed that S. cerevisiae dominates over non-Saccharomyces
+yeast through highly taking up nitrogen sources. The non-Saccharomyces species could also aﬀect nutrient availability for S. cerevisiae
+strain when inoculated prior to S. cerevisiae (Medina, Boido, Dellacassa,
+& Carrau, 2012). Following study indicated that the initial nitrogen
+concentration was not the factor aﬀecting yeast growth interaction, but
+was able to impact ester components of ﬁnal wines (Lage et al., 2014).
+Further work is, however, required to better understand the eﬀects of
+nitrogen nutrient addition on ester production during mixed fermentation, which can enable the eﬀective use of nitrogen nutrients, and the
+enhancement of ester proﬁles with lower winemaking costs.
+We recently identiﬁed a Hanseniaspora uvarum Yun268 strain capable of enhancing wine ester content when fermented with S. cerevisiae
+F5. The ﬁnal ester components were greatly aﬀected by the growth
+interaction between two yeasts (Hu, Jin, Mei, Li, & Tao, 2018). In this
+work, mixed-culture fermentation of these two strains was conducted
+using a synthetic grape must to investigate yeast growth interaction and
+ester production dynamics under varying levels and timings of nitrogen
+addition. Furthermore, the levels of precursors and extracellular metabolites involved in ester production were determined throughout the
+fermentation, which can provide insights into the possible mechanism
+of ester production inﬂuenced by nitrogen nutrition addition.
+
+2.3. Fermentation conditions
+Static fermentations were conducted at 22 °C using 1 L blue cap ﬂask
+(Shuniu®, Sichuan, China) containing 750 mL synthetic must in which
+2 × 106 cells/mL of H. uvarum Yun268 and 4 × 106 cells/mL of S.
+cerevisiae F5 were simultaneously inoculated (Hu, Jin, Mei, et al.,
+2018). The ﬂasks were sealed by hydrophobic membranes. During
+fermentation, CO2 was released through an air outlet membrane. Yeast
+biomass was counted using Wallerstein nutrient (WL) agar medium that
+allowed H. uvarum Yun268 to grow as “green ﬂat” colonies, and S.
+cerevisiae F5 as “white convex” colonies.
+Regarding diﬀerent levels of nitrogen addition, fermentation with
+threshold YAN content of 150 mg/L was the control (NL0). Treatments
+included supplementation of 50, 100, 150, and 200 mg/L YAN to NL0 at
+the point of yeast inoculation to obtain wines corresponding to
+NL50–NL200 (200–350 mg N/L). According to the result obtained from
+nitrogen addition levels, two treatments that performed similarly were
+used to evaluate whether nitrogen addition at various fermentation
+stages aﬀected mixed fermentation signiﬁcantly. Therefore, nitrogen
+additions of varying timings were performed by supplementing 50 mg/
+L YAN into the medium initially containing 250 mg/L YAN when the
+sugar content was 200 g/L (0 d, inoculation point, the control), 175 g/L
+(0.5 d), 150 g/L (1.5 d), 100 g/L (2 d), and 25 g/L (6 d), which corresponded to wines NT200 to NT25. Fermentations were considered
+complete when the sugar content dropped below 2 g/L. Wine samples
+were centrifuged at 4 °C and 4500 ×g for 5 min, ﬁltered using a 0.22μm membrane, and stored at −20 °C until further analysis. Each fermentation was done in duplicate.
+
+2. Materials and methods
+2.1. Chemical standards
+Volatile chemical standards with purity ≥97.0% were from SigmaAldrich (Shanghai, China), including ethyl acetate, isobutyl acetate,
+isoamyl acetate, phenylethyl acetate, ethyl butyrate, ethyl isovalerate,
+ethyl hexanoate, ethyl octanoate, ethyl decanoate, isobutyl alcohol,
+isoamyl alcohol, 2-phenylethanol, 2-octanol, hexanoic acid, octanoic
+acid, and decanoic acid (Table S1). Non-volatile standards (≥98.0%
+purity), i.e. citric acid, L-malic acid, acetic acid, succinic acid, and
+glycerol were from J&K (Beijing, China) (Table S2). Water was obtained
+from a Milli-Q puriﬁcation system (Millipore, Bedford, USA).
+
+2.4. Volatile analysis
+
+2.2. Yeast strains and fermentation media
+
+Volatiles were analyzed using headspace solid-phase microextraction (HS-SPME) coupled with GC–MS adapted from Tao, Li, Wang, and
+Zhang (2008). A 50/30 μm DVB/CAR/PDMS ﬁber (Supelco, Bellefonte
+PA, USA) was used for volatile extraction. In a 20 mL gas-tight vial, 2 g
+NaCl, 2 mL wine, 6 mL pure water, and 20 μL internal standard (16 mg/
+
+H. uvarum Yun268 was isolated from Blue French (V. vinifera L.)
+grape and identiﬁed using sequence analysis of the 26S rDNA D1/D2
+domain (Hu et al., 2016). Commercial S. cerevisiae (Actiﬂore® F5) was
+560
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+NT100 and NT25, in which a higher maximum biomass was detected.
+As reported previously, S. cerevisiae dominates over H. uvarum
+yeasts not only by producing killer metabolites (Wang, Mas, & EsteveZarzoso, 2015), but also by stronger competitiveness for nitrogen nutrients during co-fermentation (Andorrà et al., 2012). Our results suggested that nitrogen addition with high levels or early timings could
+drive the competition of S. cerevisiae F5 over H. uvarum Yun268.
+However, their competition could be eased when nitrogen addition was
+introduced at middle or later stages, which may result into certain response of ester production.
+
+L, 2-octanol) were added, placed in a 40 °C water bath with stirring for
+15 min at 600 rpm, extracted for 30 min, and then desorbed in the GC
+injection port (230 °C) for 5 min using a Shimadzu QP2020 GC–MS
+(Shimadzu Corporation, Kyoto, Japan) and a DB-WAX column
+(60 m × 0.25 mm × 0.25 μm, Agilent J & W, USA). The carrier gas was
+helium (99.999%) with ﬂow rate of 1.5 mL/min. The GC program was
+as follows: 40 °C for 3 min, raised to 160 °C at 4 °C/min, followed by
+increase to 220 °C at 7 °C/min, and hold for 8 min. MS transfer line and
+ion source temperatures were 220 °C and 200 °C, respectively. Electron
+ionization (EI) mass spectrometric data from m/z 35 to 350 were
+scanned at 0.2 s intervals. Volatiles were identiﬁed by comparing their
+retention times and mass spectra with those of pure standards using the
+NIST 17 mass spectral library. Volatile concentrations were quantitated
+by interpolating the relative areas versus the area of the internal standard (2-octanol) using calibration graphs established for pure standards
+(Ferreira, López, & Cacho, 2000) (Table S1).
+
+3.2. Ester production under nitrogen nutrient additions
+
+3.1. Yeast growth in response to nitrogen nutrient additions
+
+3.2.1. Acetates of higher alcohols
+Yeasts catabolize nitrogen source to form higher alcohols via the
+Ehrlich pathway (Swiegers, Bartowsky, Henschke, & Pretorius, 2005),
+thereby directly deﬁning the production of resulting acetate esters,
+namely acetates of higher alcohols (AHAs). Three kinds of AHAs were
+characterized in ﬁnal synthetic wines, including isobutyl acetate, isoamyl acetate, and phenethyl acetate (Table 1). Under diﬀerent levels of
+nitrogen addition, the concentrations of the AHAs seemed to be unchanged. Interestingly, a striking increment of their concentrations was
+observed in NT100, with 1.6-fold isobutyl acetate, 3.1-fold isoamyl
+acetate, and 1.4-fold phenethyl acetate higher than that in NT200.
+Nitrogen addition in the late stage enhanced these acetate esters to a
+lesser extent in NT25, while early-stage additions in NT150 and NT175
+aﬀected AHA proﬁles negligibly. We have characterized H. uvarum
+Yun268 as a strong producer of AHAs when co-fermented with S. cerevisiae species (Hu, Jin, Mei, et al., 2018; Hu, Jin, Xu, & Tao, 2018).
+Thus, the increase of AHA levels in NT100 and NT25 ﬁtted with the
+increased H. uvarum Yun268 biomass. This positive relationship was
+clearly found in the variation of ethyl acetate, a metabolic marker of
+Hanseniaspora species (Domizio et al., 2011).
+To provide insight into the addition process, the production dynamics of these AHAs in three typical conditions (i.e. NT200, NT100
+and NT25) were analyzed (Fig. 2a, for details see Fig. S1a, S1b, and
+S1c). We detected a rapid increase of total AHA production when nitrogen was supplemented in NT200. Such positive response was more
+pronounced in NT100, of which the maximum concentration of AHAs
+was 1.2-fold higher. Nitrogen addition in NT25 had minimal eﬀect on
+the maximum concentration (especially for phenethyl acetate, Fig. S1c),
+but prevented their sharp decline at later stages. The data proved that
+nitrogen addition at the middle stage increased the AHA production
+during mixed fermentation. Notably, the total concentrations of AHAs
+in NT100 and NT25 exceeded that in NT200 occurred at days 4 and 8,
+respectively. At the both time points H. uvarum Yun268 yeasts had been
+replaced by S. cerevisiae F5 (Fig. 1b), indicating that H. uvarum-induced
+increase in acetate ester levels occurred during the death phase of H.
+uvarum Yun268 and not during their growth stage. This observation
+was quite similar with the impact of Lachancea thermotolerans on chemical changes of mixed fermentation (Peng, Viana, Petersen, Larsen, &
+Arneborg, 2018).
+
+At diﬀerent levels of nitrogen addition, yeast growth dynamics were
+slightly aﬀected (Fig. 1a). Brieﬂy, only at the addition level exceeding
+200 mg N/L (NL200) the dominance of S. cerevisiae F5 over H. uvarum
+Yun268 was improved. Meanwhile, the increased biomass of S. cerevisiae F5 supported the positive eﬀect of YAN content on the growth
+(Mendes-Ferreira et al., 2007; Tesnière, Brice, & Blondin, 2015). When
+supplementing nitrogen at diﬀerent fermentation stages, the growth
+interaction between two yeasts was changed dramatically (Fig. 1b). For
+instance, nitrogen addition at the early stage (NT175) did not aﬀect H.
+uvarum Yun268 growth compared to that at initial stage (NT200). As
+the addition delayed, however, the survival time of H. uvarum Yun268
+was gradually increased by 1 day in NT150 and NT100, and by 2 days in
+NT25. The growth of S. cerevisiae F5 was simultaneously enhanced in
+
+3.2.2. Fatty acid ethyl esters
+Fatty acid ethyl esters are mainly produced from fatty acids involving in yeast carbon nutrition (Swiegers et al., 2005). We thus evaluated whether the nitrogen addition enabled the enhancement of these
+esters by aﬀecting central carbon pathway. Despite no response from
+short-chain fatty acid levels, medium-chain fatty acid (MCFA) ethyl
+esters, such as ethyl octanoate and ethyl decanoate, were found as the
+targeted components induced by nitrogen addition (Table 1). Similarly,
+NT100 signiﬁcantly increased their ﬁnal concentrations in comparison
+with NT200. Such gap increased from 0%, 10% to 39% as the carbon
+chain length increased from C6, C8 to C10, which implied that fatty
+acid chain extension may be also induced by the nitrogen addition. This
+issue, however, needs to be further investigated. Diﬀerent levels of
+
+2.5. Non-volatile analysis
+Citric acid, malic acid, acetic acid, and succinic acid were determined by a Shimadzu LC-2010AHT HPLC (Shimadzu Corporation,
+Kyoto, Japan) with a Rezex™ ROA-Organic Acid H+ (8%) column
+(150 × 7.8 mm; Phenomenex, USA) at 55 °C. The column was eluted
+with 2.5 mM H2SO4 at a ﬂow rate of 0.6 mL/min. Compound concentrations were quantitated using the calibration curves built for pure
+standards (Table S2). Glycerol content was determined using a Y15
+enzymatic autoanalyzer (Biosystems, Barcelona, Spain) with corresponding kit (http://www.biosystems.es).
+2.6. Statistical analysis
+All data were expressed as mean ± standard deviation. Total yeast
+biomass was quantitated as average biomass × survival time (day).
+Data diﬀerences were compared using one-way analysis of variance
+(ANOVA) with Duncan test, data correlation was measured using twotailed Pearson correlation coeﬃcient (R), and underlying relationship
+between fermentation characteristics and nitrogen addition were revealed using principal component analysis (PCA) of the SPSS 20.0
+(SPSS Inc., Chicago IL, USA).
+3. Results and discussion
+All the fermentations were completed (residual sugars < 2 g/L),
+with approximately 11.0% v/v ethanol (Table S3). Yeast population
+dynamics and chemical composition remained the most similar proﬁles
+between wines of NL100 and NL150, corresponding to initial YAN levels of 250 mg/L and 300 mg/L. Thereby, 50 mg/L YAN was added into
+the medium initially containing 250 mg/L YAN at various fermentation
+stages to evaluate whether nitrogen addition with various timings affected mixed fermentation signiﬁcantly.
+
+561
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+Fig. 1. Yeast populations of H. uvarum Yun268 (gray
+line) and S. cerevisiae F5 (black line) in mixed fermentations. (a) Nitrogen addition levels: NL0 (solid
+diamond), NL50 (open diamond), NL100 (open
+circle), NL150 (solid circle), and NL200 (solid triangle). (b) Nitrogen addition timings: NT200 (solid
+diamond), NT175 (open diamond), NT150 (open
+circle), NT100 (solid circle), and NT25 (solid triangle). Data are mean ± standard deviation.
+
+result supported that the fatty acid level is the most limiting factor in
+the ethyl ester production (Saerens et al., 2006), and thus the increase
+of MCFA ethyl ester production may possibly beneﬁt from the enhanced
+MCFA metabolism that was induced by nitrogen addition.
+To prove our hypothesis, yeast extracellular metabolites involved in
+MCFA pathway were analyzed. It was found that NL100 and NL150 had
+the similar metabolite proﬁles, such as glycerol and organic acids
+(Table S4). Surprisingly, supplementing 50 mg/L YAN at the middle
+stage (NT100) dramatically inﬂuenced the existing pathway, resulting
+into a decreased production of glycerol and acetic acid, but an increased production of succinic acid during fermentation (Fig. 3a, b and
+c). Such changes indicated that the carbon ﬂuxes tended to participate
+in the formation of pyruvate and acetyl CoA, the precursors for the
+MCFA production. A previous study reported a similar positive eﬀect of
+nitrogen management on the fatty acid biosynthesis, with intensiﬁed
+glycolysis, impaired TCA cycle and enhanced metabolic ﬂuxes channeling pyruvate and acetyl-CoA to fatty acids (Zhu et al., 2012). In this
+study, the enhanced MCFA production was achieved in NT100 owing to
+the suppressed production of glycerol and acetic acid. Taken together,
+nitrogen addition at the middle stage seemed to trigger a redistribution
+of carbon ﬂuxes in the central pathway, which ﬁnally activated the
+production of MCFAs and their ethyl esters (Fig. 4).
+Ester compositions, total yeast biomass, precursor levels, and extracellular metabolites under diﬀerent timings of nitrogen addition
+were analyzed through PCA to further explore their underlying relationships (Fig. 5). Both H. uvarum Yun268 and S. cerevisiae F5 were
+located closely to NT100 and NT25 at the positive part of PC1 (76.8%)
+and PC2 (17.8%). The enhanced growth of two yeasts may take responsible for the greatest outcomes of esters and precursors in these two
+treatments, and especially in NT100. Succinic acid was positively related to both MCFAs and their ethyl esters, as opposed to acetic acid
+and glycerol. Therefore, the increase in succinic acid level could be
+considered as a metabolic indicator of the enhanced MCFA ethyl ester
+production that was induced by the nitrogen addition. NT175 and
+NT150, however, clustered together with NT200 which stayed away
+from esters, emphasizing the poor eﬃciency of nitrogen additions at the
+early stage of mixed fermentation.
+
+nitrogen addition only increased ethyl decanoate concentration at addition level beyond 200 mg/L (NL200). Whereas, supplementing grape
+must with 200 mg/L YAN exceeded the enological limits recommended
+in Europe (64 mg N/L) and Australia (85 mg N/L) (Fugelsang &
+Edwards, 2007).
+Production dynamics of ethyl octanoate and ethyl decanoate further
+proved the highest productivity triggered in NT100 (Fig. 2b, for details
+see Fig. S1d and e). Similar to the modulation of AHAs, nitrogen addition caused a quick inducement of MCFA ethyl ester production, and
+their concentrations in NT100 and NT25 exceeded that in NT200 occurred during the death phase of H. uvarum Yun268. However, both
+MCFA ethyl esters and acetate esters in all fermentations decreased at
+later stages, which may be attributed to the increase in the hydrolysisrelated esterase activity (Mauricio et al., 1993). Previously, we have
+shown that the raise in MCFA ethyl ester levels during mixed fermentation is a biomass-dependent process, in which H. uvarum Yun268
+contributed to the increase of the precursor (fatty acids) level, and S.
+cerevisiae F5 provided high esterase activity (Hu, Jin, Mei, et al., 2018).
+Little response of MCFA ethyl ester production at diﬀerent levels of
+nitrogen addition was consistent with the slight changes of yeast
+growth. Indeed, the greatest increase of MCFA ethyl ester production
+was achieved in NT100 where the growth of both H. uvarum Yun268
+and S. cerevisiae F5 increased.
+The above results suggested that the timings but not the levels of
+nitrogen addition markedly encouraged the ester production during
+mixed fermentation. Nitrogen addition at the middle stage gained the
+greatest outcome, which seemed to associate with the eased competition between two yeasts.
+3.3. Possible mechanism for ester enhancement under nitrogen nutrient
+additions
+To illustrate the chemical mechanism by which nitrogen additions
+enhanced ester productions, the corresponding ester precursors were
+assessed. For the ﬁnal concentrations, both higher alcohols and fatty
+acids showed a clear relationship with the timings than the levels of
+nitrogen addition (Table 1). Compared with NT200, the early-stage
+addition in NT175 and NT150 hardly changed the proﬁles of higher
+alcohols and MCFAs, such as isobutyl/isoamyl/2-phenyl alcohols and
+octanoic/decanoic acids. Surprisingly, their concentrations were dramatically increased as the addition performed in NT100 and NT25.
+Production dynamics further revealed that these higher alcohols were
+supremely enhanced in NT100 but were suppressed in NT200 (Fig. 2c,
+for details see Fig. S2a, S2b, and S2c). In contrast, the production dynamics of MCFA precursors were well ﬁtted with that of MCFA ethyl
+esters (Fig. 2d, for details see Fig. S2d and e), and the overall decrease
+in MCFA production during the later stage may derive from weak
+carbon metabolism activity of yeast (Swiegers et al., 2005). As a result,
+the Pearson correlation coeﬃcient between higher alcohol and AHA
+production was rather low (R = 0.347), while R value between MCFA
+and MCFA ethyl ester production reached 0.744 (Fig. 2e and f). The
+
+4. Conclusion
+In conclusion, this work provides an insight into the ester production in response to nitrogen nutrient management during mixed fermentation of a synthetic grape must. Our results demonstrated that the
+timings rather than the levels of nitrogen addition drove ester productions during mixed fermentation with H. uvarum Yun268 and S.
+cerevisiae F5. Nitrogen addition at the early stage increased the dominance of S. cerevisiae over H. uvarum Yun268, which reduced the
+contribution of H. uvarum Yun268 to ester production. Supplementing
+YAN at the mid-stage signiﬁcantly eased yeast competition. As a result,
+the increased survival of H. uvarum Yun268 contributed to the production of higher alcohol acetates, such as isobutyl acetate, isoamyl
+562
+
+165 ± 4
+3±0
+168 ± 4
+
+563
+
+5.83 ± 0.29b
+5.59 ± 0.38b
+0.79 ± 0.10bc
+12.21 ± 0.77b
+±
+±
+±
+±
+
+0.71ab
+0.18a
+0.07a
+0.96a
+
+b
+
+b
+
+4.89 ± 0.32ab
+4.98 ± 0.18ab
+0.70 ± 0.03b
+10.57 ± 0.53ab
+
+30.03 ± 3.68
+79.74 ± 5.54
+47.17 ± 1.20ab
+156.94 ± 10.42
+
+593 ± 29
+435 ± 37
+48 ± 6a
+1076 ± 72
+
+150 ± 1
+3±0
+153 ± 1
+
+19 ± 1
+140 ± 31
+255 ± 24
+414 ± 56
+
+32,092 ± 4808
+
+NL150
+a
+
+4.40 ± 0.09a
+5.47 ± 0.78b
+0.88 ± 0.05c
+10.75 ± 0.92ab
+
+38.19 ± 4.32
+85.10 ± 4.71
+53.47 ± 3.61b
+176.76 ± 12.64
+
+612 ± 5
+482 ± 21
+68 ± 3b
+1162 ± 29
+
+166 ± 11
+3±0
+169 ± 11
+
+20 ± 2
+172 ± 25
+297 ± 46
+489 ± 73
+
+23,605 ± 1929
+
+NL200
+
+4.06
+4.11
+0.45
+8.62
+
+±
+±
+±
+±
+
+0.17
+0.29A
+0.01AB
+0.47
+
+30.46 ± 3.55A
+84.94 ± 7.45A
+42.69 ± 2.47A
+158.09 ± 13.47A
+
+504 ± 32
+473 ± 30AB
+44 ± 4AB
+1021 ± 66
+
+113 ± 6
+2±0
+115 ± 6
+
+18 ± 2A
+189 ± 24A
+253 ± 10B
+460 ± 36A
+
+29,254 ± 2321
+
+A
+
+A
+
+4.33
+4.30
+0.52
+9.15
+
+±
+±
+±
+±
+
+0.22
+0.22AB
+0.03AB
+0.47
+
+30.51 ± 2.84A
+83.66 ± 3.51A
+45.70 ± 3.07A
+159.87 ± 9.42A
+
+522 ± 30
+467 ± 23AB
+45 ± 4AB
+1034 ± 57
+
+133 ± 25
+2±0
+135 ± 25
+
+16 ± 3A
+213 ± 7A
+233 ± 8AB
+462 ± 18A
+
+29,730 ± 1411
+
+NT175
+AB
+
+4.06
+4.12
+0.44
+8.62
+
+±
+±
+±
+±
+
+0.31
+0.34A
+0.03A
+0.68
+
+29.40 ± 4.22A
+81.72 ± 4.81A
+44.98 ± 6.55A
+156.10 ± 15.58A
+
+512 ± 34
+485 ± 20AB
+40 ± 4A
+1037 ± 58
+
+118 ± 8
+2±1
+120 ± 9
+
+19 ± 1A
+231 ± 10A
+211 ± 13A
+461 ± 24A
+
+31,813 ± 2333
+
+NT150
+
+BC
+
+3.84 ± 0.32
+5.09 ± 0.16B
+0.54 ± 0.05B
+9.47 ± 0.53
+
+53.00 ± 9.58B
+134.70 ± 12.36B
+95.20 ± 1.82C
+282.90 ± 23.76B
+
+502 ± 40
+519 ± 15B
+61 ± 3C
+1082 ± 58
+
+134 ± 20
+3±1
+137 ± 21
+
+28 ± 4B
+586 ± 31C
+364 ± 8C
+978 ± 43C
+
+35,491 ± 1048
+
+NT100
+
+3.65 ± 0.29
+4.43 ± 0.41AB
+0.64 ± 0.04C
+8.72 ± 0.74
+
+46.60 ± 8.48B
+122.22 ± 9.81B
+70.82 ± 2.28B
+239.64 ± 20.57B
+
+502 ± 41
+439 ± 35A
+55 ± 8BC
+996 ± 84
+
+132 ± 10
+2±0
+134 ± 10
+
+20 ± 1A
+418 ± 15B
+229 ± 23AB
+667 ± 39B
+
+39,491 ± 1414C
+
+NT25
+
+Data are mean ± standard deviation. Values displaying diﬀerent letters within each row are signiﬁcantly diﬀerent according to the Duncan test at 95% conﬁdence level. The highest concentration was presented in bold
+font.
+NL0, NL50, NL100, NL150, and NL200: wines obtained from diﬀerent levels of nitrogen addition through supplementing 0, 50, 100, 150, and 200 mg/L YAN into the medium initially containing 150 mg/L YAN,
+respectively.
+NT200, NT175, NT150, NT100, and NT25: wines obtained from diﬀerent timings of nitrogen addition when the sugar content was 200, 175, 150, 100, and 25 g/L, respectively.
+
+Medium-chain fatty acids (MCFAs) (mg/L)
+Hexanoic acid
+5.18 ± 0.59ab
+Octanoic acid
+5.97 ± 0.30b
+Decanoic acid
+1.11 ± 0.01d
+∑
+12.26 ± 0.90b
+5.12
+4.25
+0.53
+9.90
+
+34.53 ± 1.55
+78.99 ± 3.45
+43.71 ± 0.31a
+157.23 ± 5.31
+
+30.53 ± 4.80
+78.51 ± 3.34
+48.45 ± 2.91ab
+157.49 ± 11.05
+
+Higher alcohols (HAs)
+Isobutyl alcohol
+Isoamyl alcohol
+2-Phenylethanol
+∑
+
+(mg/L)
+35.81 ± 1.86
+77.24 ± 4.49
+65.09 ± 4.65c
+178.14 ± 11.00
+
+597 ± 6
+483 ± 31
+52 ± 3ab
+1132 ± 94
+
+152 ± 16
+3±1
+155 ± 17
+
+20 ± 1
+164 ± 17
+250 ± 1
+434 ± 19
+
+34,983 ± 2036
+
+NL100
+
+Medium-chain fatty acid ethyl esters (MCFAEEs) (μg/L)
+Ethyl hexanoate
+547 ± 39
+663 ± 61
+Ethyl octanoate
+447 ± 51
+512 ± 57
+ab
+Ethyl decanoate
+54 ± 8
+62 ± 7ab
+∑
+1048 ± 98
+1237 ± 125
+
+ethyl esters (μg/L)
+144 ± 16
+3±0
+147 ± 16
+
+Short-chain fatty acid
+Ethyl butyrate
+Ethyl isovalerate
+∑
+
+33,403 ± 1202
+
+18 ± 3
+163 ± 27
+275 ± 29
+456 ± 59
+
+31,685 ± 1899
+
+b
+
+NT200
+
+NL50
+
+NL0
+
+b
+
+Nitrogen addition timing
+
+Nitrogen addition level
+
+Acetates of higher alcohols (AHAs) (μg/L)
+Isobutyl acetate
+19 ± 1
+Isoamyl acetate
+160 ± 7
+Phenethyl acetate
+288 ± 12
+∑
+467 ± 20
+
+Ethyl acetate
+
+Compounds
+
+Table 1
+Concentrations of esters and their precursors in the synthetic wines obtained from diﬀerent levels and timings of nitrogen addition.
+
+K. Hu, et al.
+
+Food Research International 123 (2019) 559–566
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+Fig. 2. Production dynamics of esters and their precursors under three typical timings of nitrogen addition: NT200 (◆), NT100 (●), and NT25 (▲). (a)
+AHAs, acetates of higher alcohols = ∑(isobutyl
+acetate + isoamyl acetate + phenethyl acetate); (b)
+MCFAEEs, medium-chain fatty acid ethyl esters = ∑(ethyl octanoate + ethyl decanoate); (c)
+HAs, higher alcohols = ∑ (isobutyl alcohol + isoamyl alcohol +2-phenylethanol); (d) MCFAs,
+medium-chain fatty acids = ∑(octanoic acid + decanoic acid); (e) Pearson correlation scatter plot of
+AHA and HA production; (f) Pearson correlation
+scatter plot of MCFAEE and MCFA production.
+Correlation is signiﬁcant at 99% (**) conﬁdence
+level. Data are mean ± standard deviation.
+
+Fig. 3. The accumulation of (a) glycerol, (b) acetic
+acid, and (c) succinic acid under three typical timings
+of nitrogen addition: NT200 (◆), NT100 (●), and
+NT25 (▲). Data are mean ± standard deviation.
+
+564
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+Fig. 4. The redistribution of carbon ﬂuxes in the
+central metabolism network under diﬀerent timings
+of nitrogen addition. PYR, pyruvate; GA3P,
+Glyceraldehyde 3-phosphate; ACTA, acetaldehyde;
+MCFAEEs, medium-chain fatty acid ethyl esters;
+MCFAs, medium-chain fatty acids. Data are
+mean ± standard deviation. Diﬀerence signiﬁcant at
+95% (*), 99% (**), and 99.9% (***) conﬁdence level.
+Changes of metabolite levels in NT100 are given as a
+percentage compared to that in NT200.
+
+Acknowledgments
+This work was ﬁnancially supported by the National Natural Science
+Foundation of China (31771966 and 31801528), the Science and
+Technology Project of China Central Finance (106001000000150012),
+and State Scholarship Fund of China Scholarship Council
+(201806300074 and 201806305042).
+Conﬂict of interest
+The authors declare no competing ﬁnancial interest.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.foodres.2019.05.030.
+Referen`ces
+Andorrà, I., Berradre, M., Mas, A., Esteve-Zarzoso, B., & Guillamón, J. M. (2012). Eﬀect of
+mixed culture fermentations on yeast populations and aroma proﬁle. LWT - Food
+Science and Technology, 49, 8–13.
+Bell, S. J., & Henschke, P. A. (2005). Implications of nitrogen nutrition for grapes, fermentation and wine. Australian Journal of Grape and Wine Research, 11, 242–295.
+Beltran, G., Esteve-Zarzoso, B., Rozès, N., Mas, A., & Guillamón, J. M. (2005). Inﬂuence of
+the timing of nitrogen additions during synthetic grape must fermentations on fermentation kinetics and nitrogen consumption. Journal of Agricultural and Food
+Chemistry, 53, 996–1002.
+Bely, M., Sablayrolles, J.-M., & Barre, P. (1990). Automatic detection of assimilable nitrogen deﬁciencies during alcoholic fermentation in oenological conditions. Journal
+of Fermentation and Bioengineering, 70, 246–252.
+Butzke, C. E. (1998). Survey of yeast assimilable nitrogen status in musts from California,
+Oregon, and Washington. American Journal of Enology and Viticulture, 49, 220–224.
+Carrau, F. M., Medina, K., Farina, L., Boido, E., Henschke, P. A., & Dellacassa, E. (2008).
+Production of fermentation aroma compounds by Saccharomyces cerevisiae wine
+yeasts: Eﬀects of yeast assimilable nitrogen on two model strains. FEMS Yeast
+Research, 8, 1196–1207.
+Ciani, M., & Comitini, F. (2015). Yeast interactions in multi-starter wine fermentation.
+Current Opinion in Food Science, 1, 1–6.
+Domizio, P., Romani, C., Lencioni, L., Comitini, F., Gobbi, M., Mannazzu, I., & Ciani, M.
+(2011). Outlining a future for non-Saccharomyces yeasts: Selection of putative spoilage wine strains to be used in association with Saccharomyces cerevisiae for grape
+juice fermentation. International Journal of Food Microbiology, 147, 170–180.
+Ebeler, S. E. (2001). Analytical chemistry: Unlocking the secrets of wine ﬂavor. Food
+Reviews International, 17, 45–64.
+Englezos, V., Rantsiou, K., Cravero, F., Torchio, F., Giacosa, S., Ortiz-Julien, A., ...
+Cocolin, L. (2018). Volatile proﬁles and chromatic characteristics of red wines
+
+Fig. 5. PCA of fermentation characteristics obtained from diﬀerent timings of
+nitrogen addition. AHAs, acetates of higher alcohols; HAs, higher alcohols;
+MCFAEEs, medium-chain fatty acid ethyl esters; MCFAs, medium-chain fatty
+acids. H. uvarum Yun268 and S. cerevisiae F5 was quantitated as total biomass.
+
+acetate and phenethyl acetate. Meanwhile, the MCFA metabolism was
+promoted may derive from a redistribution of carbon ﬂuxes in the
+central pathway, which enhanced corresponding MCFA ethyl ester
+production. Since fermentation performance or aroma production can
+be also aﬀected by nitrogen sources (Kemsawasd, Viana, Ardö, &
+Arneborg, 2015; Liu, Yu, Li, Duan, & Yan, 2018), further work is needed
+to elucidate the eﬀect of nitrogen sources on ester biosynthesis of these
+two yeasts during mixed fermentation, and to understand the sensory
+changes of ﬁnal wines by using natural grape must.
+
+565
+
+Food Research International 123 (2019) 559–566
+
+K. Hu, et al.
+
+esters enhancement. International Journal of Food Microbiology, 207, 40–48.
+Rollero, S., Bloem, A., Camarasa, C., Sanchez, I., Ortiz-Julien, A., Sablayrolles, J.-M., ...
+Mouret, J.-R. (2015). Combined eﬀects of nutrients and temperature on the production of fermentative aromas by Saccharomyces cerevisiae during wine fermentation. Applied Microbiology and Biotechnology, 99, 2291–2304.
+Sáenz-Navajas, M.-P., Alegre, Y., de-la-Fuente, A., Ferreira, V., García, D., Eizaguirre, S.,
+... Hernández-Orte, P. (2016). Rapid sensory-directed methodology for the selection
+of high-quality aroma wines. Journal of the Science of Food and Agriculture, 96,
+4250–4262.
+Saerens, S. M. G., Delvaux, F., Verstrepen, K. J., Van Dijck, P., Thevelein, J. M., &
+Delvaux, F. R. (2008). Parameters aﬀecting ethyl ester production by Saccharomyces
+cerevisiae during fermentation. Applied and Environmental Microbiology, 74, 454–461.
+Saerens, S. M. G., Verstrepen, K. J., Van Laere, S. D. M., Voet, A. R. D., Van Dijck, P.,
+Delvaux, F. R., & Thevelein, J. M. (2006). The Saccharomyces cerevisiae EHT1 and
+EEB1 genes encode novel enzymes with medium-chain fatty acid ethyl ester synthesis
+and hydrolysis capacity. The Journal of Biological Chemistry, 281, 4446–4456.
+Seguinot, P., Rollero, S., Sanchez, I., Sablayrolles, J.-M., Ortiz-Julien, A., Camarasa, C., &
+Mouret, J.-R. (2018). Impact of the timing and the nature of nitrogen additions on the
+production kinetics of fermentative aromas by Saccharomyces cerevisiae during
+winemaking fermentation in synthetic media. Food Microbiology, 76, 29–39.
+Sumby, K. M., Grbin, P. R., & Jiranek, V. (2010). Microbial modulation of aromatic esters
+in wine: Current knowledge and future prospects. Food Chemistry, 121, 1–16.
+Swiegers, J. H., Bartowsky, E. J., Henschke, P. A., & Pretorius, I. S. (2005). Yeast and
+bacterial modulation of wine aroma and ﬂavour. Australian Journal of Grape and Wine
+Research, 11, 139–173.
+Tao, Y., Li, H., Wang, H., & Zhang, L. (2008). Volatile compounds of young Cabernet
+Sauvignon red wine from Changli County (China). Journal of Food Composition and
+Analysis, 21, 689–694.
+Tesnière, C., Brice, C., & Blondin, B. (2015). Responses of Saccharomyces cerevisiae to
+nitrogen starvation in wine alcoholic fermentation. Applied Microbiology and
+Biotechnology, 99, 7025–7034.
+Torrea, D., Varela, C., Ugliano, M., Ancin-Azpilicueta, C., Francis, I. L., & Henschke, P. A.
+(2011). Comparison of inorganic and organic nitrogen supplementation of grape juice
+- Eﬀect on volatile composition and aroma proﬁle of a Chardonnay wine fermented
+with Saccharomyces cerevisiae yeast. Food Chemistry, 127, 1072–1083.
+Ugliano, M., Travis, B., Francis, I. L., & Henschke, P. A. (2010). Volatile composition and
+sensory properties of Shiraz wines as aﬀected by nitrogen supplementation and yeast
+species: Rationalizing nitrogen modulation of wine aroma. Journal of Agricultural and
+Food Chemistry, 58, 12417–12425.
+Varela, C. (2016). The impact of non-Saccharomyces yeasts in the production of alcoholic
+beverages. Applied Microbiology and Biotechnology, 100, 9861–9874.
+Wang, C., Mas, A., & Esteve-Zarzoso, B. (2015). Interaction between Hanseniaspora
+uvarum and Saccharomyces cerevisiae during alcoholic fermentation. International
+Journal of Food Microbiology, 206, 67–74.
+Waterhouse, A. L., Sacks, G. L., & Jeﬀery, D. W. (2016). Understanding wine chemistry (1st
+ed.). Chichester, United Kingdom: John Wiley & Sons.
+Zhu, Z., Zhang, S., Liu, H., Shen, H., Lin, X., Yang, F., ... Zhao, Z. K. (2012). A multi-omic
+map of the lipid-producing yeast Rhodosporidium toruloides. Nature Communications, 3,
+1112.
+Zoecklein, B. W., Fugelsang, K. C., Gump, B. H., & Nury, F. S. (1995). Wine analysis and
+production. New York: Chapman & Hall.
+
+produced with Starmerella bacillaris and Saccharomyces cerevisiae. Food Reseach
+International, 109, 298–309.
+Ferreira, V., López, R., & Cacho, J. F. (2000). Quantitative determination of the odorants
+of young red wines from diﬀerent grape varieties. Journal of the Science of Food and
+Agriculture, 80, 1659–1667.
+Fugelsang, K. C., & Edwards, C. G. (2007). Wine microbiology: Practical applications and
+procedures (2nd ed.). New York: Springer Science and Business Media.
+Henschke, P. A., & Jiranek, V. (1993). Yeasts-metabolism of nitrogen compounds. In G. H.
+Fleet (Ed.). Wine microbiology and biotechnology (pp. 77–164). Chur, Switzerland:
+Harwood Academic Publishers.
+Hu, K., Jin, G.-J., Mei, W.-C., Li, T., & Tao, Y.-S. (2018). Increase of medium-chain fatty
+acid ethyl ester content in mixed H. uvarum/S. cerevisiae fermentation leads to wine
+fruity aroma enhancement. Food Chemistry, 239, 495–501.
+Hu, K., Jin, G.-J., Xu, Y.-H., & Tao, Y.-S. (2018). Wine aroma response to diﬀerent participation of selected Hanseniaspora uvarumin mixed fermentation with Saccharomyces
+cerevisiae. Food Research International, 108, 119–127.
+Hu, K., Qin, Y., Tao, Y.-S., Zhu, X.-L., Peng, C.-T., & Ullah, N. (2016). Potential of glycosidase from non-Saccharomyces isolates for enhancement of wine aroma. Journal of
+Food Science, 81, M935–M943.
+Kemsawasd, V., Viana, T., Ardö, Y., & Arneborg, N. (2015). Inﬂuence of nitrogen sources
+on growth and fermentation performance of diﬀerent wine yeast species during alcoholic fermentation. Applied Microbiology and Biotechnology, 99, 10191–10207.
+Lage, P., Barbosa, C., Mateus, B., Vasconcelos, I., Mendes-Faia, A., & Mendes-Ferreira, A.
+(2014). H. guilliermondii impacts growth kinetics and metabolic activity of S. cerevisiae: The role of initial nitrogen concentration. International Journal of Food
+Microbiology, 172, 62–69.
+Liu, P.-T., Yu, K.-J., Li, Y.-T., Duan, C.-Q., & Yan, G.-L. (2018). The content of linoleic acid
+in grape must inﬂuences the aromatic eﬀect ofbranched-chain amino acids addition
+on red wine. Food Research International, 114, 214–222.
+Lytra, G., Tempere, S., Le Floch, A., de Revel, G., & Barbe, J.-C. (2013). Study of sensory
+interactions among red wine fruity esters in a model solution. Journal of Agricultural
+and Food Chemistry, 61(36), 8504–8513.
+Mauricio, J. C., Moreno, J. J., Valero, E. M., Zea, L., Medina, M., & Ortega, J. M. (1993).
+Ester formation and speciﬁc activities of in vitro alcohol acetyltransferase and esterase
+by Saccharomyces cerevisiae during grape must fermentation. Journal of Agricultural
+and Food Chemistry, 41, 2086–2091.
+Medina, K., Boido, E., Dellacassa, E., & Carrau, F. (2012). Growth of non-Saccharomyces
+yeasts aﬀects nutrient availability for Saccharomyces cerevisiae during wine fermentation. International Journal of Food Microbiology, 157, 245–250.
+Mendes-Ferreira, A., del Olmo, M., García-Martínez, J., Jiménez-Martí, E., Mendes-Faia,
+A., Pérez-Ortín, J. E., & Leão, C. (2007). Transcriptional response of Saccharomyces
+cerevisiae to diﬀerent nitrogen concentrations during alcoholic fermentation. Applied
+and Environmental Microbiology, 73, 3049–3060.
+Peng, C., Viana, T., Petersen, M. A., Larsen, F. H., & Arneborg, N. (2018). Metabolic
+footprint analysis of metabolites that discriminate single and mixed yeast cultures at
+two key time-points during mixed culture alcoholic fermentations. Metabolomics,
+14, 93.
+Poivet, E., Tahirova, N., Peterlin, Z., Xu, L., Zou, D.-J., Acree, T., & Firestein, S. (2018).
+Functional odor classiﬁcation through a medicinal chemistry approach. Science
+Advances, 4 (eaao6086).
+Renault, P., Coulon, J., de Revel, G., Barbe, J.-C., & Bely, M. (2015). Increase of fruity
+aroma during mixed T. delbrueckii/S. cerevisiae wine fermentation is linked to speciﬁc
+
+566
+
+

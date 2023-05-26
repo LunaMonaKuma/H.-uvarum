@@ -1,0 +1,1129 @@
+Postharvest Biology and Technology 100 (2015) 160–167
+
+Contents lists available at ScienceDirect
+
+Postharvest Biology and Technology
+journal homepage: www.elsevier.com/locate/postharvbio
+
+Biocontrol of gray mold in grapes with the yeast Hanseniaspora
+uvarum alone and in combination with salicylic acid or sodium
+bicarbonate
+Xiaojie Qin a , Hongmei Xiao a,∗ , Changhui Xue b , Zhifang Yu a , Rong Yang a , Zikang Cai a ,
+Linyuan Si a
+a
+b
+
+College of Food Science and Technology, Nanjing Agricultural University, Nanjing, Jiangsu 210095, PR China
+China Certiﬁcation & Inspection Group Jiangsu Co., Ltd, Nanjing, Jiangsu 210001, PR China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 2 April 2014
+Received in revised form 2 September 2014
+Accepted 14 September 2014
+Keywords:
+Biocontrol
+Hanseniaspora uvarum
+Salicylic acid (SA)
+Sodium bicarbonate (SBC)
+Botrytis cinerea
+Grape berries
+
+a b s t r a c t
+The yeast Hanseniaspora uvarum alone or in combination with salicylic acid or sodium bicarbonate
+was investigated for control of gray mold, postharvest quality and antioxidant enzymes of grapes. The
+results indicated that the treatment of H. uvarum suspension of 1 × 108 CFU mL−1 combined with either
+2 mmol L−1 SA or 2% SBC resulted in a remarkably improved control of Botrytis cinerea infections on
+grapes. Disease incidence and lesion diameter in treated fruit by H. uvarum alone or combined with SA
+or SBC were signiﬁcantly lower than those of the control fruit (P < 0.05) at 25 ◦ C, RH 90–95%. Integration
+of H. uvarum with SA and with SBC both signiﬁcantly reduced the browning index, the decay incidence,
+weight loss while maintained the fruit appearance, ﬁrmness, total soluble solids (TSS) and titratable
+acidity (TA) of the grapes (P < 0.05) at 2 ± 1 ◦ C, RH 90–95%. Furthermore, the combination of yeast and
+aforementioned chemicals led to increases of peroxidase (POD), superoxide dismutase (SOD), catalase
+(CAT), phenylalanine ammonia lyase (PAL), ascorbate peroxidase (APX) and polyphenoloxidase (PPO)
+activities. Enhanced control by SA or SBC could be due to either induced resistance or direct effects of
+these chemicals on Botrytis. The proper combination of H. uvarum and chemical reagent can thus provide
+an effective strategy to reduce postharvest decay of grape berries.
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Postharvest diseases limit the storage period and marketing
+life of grapes. Gray mold caused by Botrytis cinerea is one of
+the most destructive postharvest diseases of grapes (Masih et al.,
+2001). Although the use of synthetic fungicide is still the primary
+means for controlling postharvest diseases, the indiscriminate use
+of synthetic fungicides has caused increasingly worldwide concerns over their possible side effects on human health and the
+environment (Droby et al., 2009). Biological control utilizing antagonistic microorganisms has shown great potential as an alternative
+measure to synthetic fungicides for disease control (Kinay and
+Yildiz, 2008; Manso and Nunes, 2011; Liu et al., 2013). However,
+application of antagonistic microorganisms alone does not provide
+commercially acceptable control of postharvest diseases (Spadaro
+et al., 2004). Therefore, more environmentally friendly and
+
+∗ Corresponding author. Tel.: +86 13921431029.
+E-mail address: xhm@njau.edu.cn (H. Xiao).
+http://dx.doi.org/10.1016/j.postharvbio.2014.09.010
+0925-5214/© 2014 Elsevier B.V. All rights reserved.
+
+harmless compounds should be developed as alternative methods for postharvest diseases (Ippolito et al., 2005; Janisiewicz et al.,
+2008; De Curtis and De Cicco, 2012; Ebrahimi et al., 2013).
+Hanseniaspora uvarum, in inhibiting spore germination and
+lesion growth of B. cinerea, has an antagonistic property. Previous
+studies have demonstrated that competition for living space may be
+one of the mechanisms of action (Liu et al., 2010a). Liu et al. (2010b)
+found that H. uvarum could affect POD, SOD and CAT activity, which
+were considered to be the main enzymatic systems for protecting
+cells against oxidative damage and signiﬁcantly increased the activities of PPO, PAL and ␤-1,3-glucanase, which were considered as key
+enzymes related to defense reaction against pathogen infections
+(Wallace and Fry, 1999).
+Salicylic acid (SA), a natural phenolic compound, has been
+involved in local and systemic resistance to pathogens (Meena et al.,
+2001). Anthracnose disease caused by Colletotrichum gloeosporioides in mango (Joyce et al., 2001), occurance of P. expansum in
+sweet cherry fruit (Qin et al., 2003) and gray mold decay in peach
+(Zhang et al., 2008) can all be signiﬁcantly controlled by SA treatment. Sodium bicarbonate (SBC), a commonly used food additive
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+
+and listed as generally regarded as safe by the United States Food
+and Drug Administration, has shown ability in postharvest decay
+control of fruit (Larrigaudiere et al., 2002). The biocontrol efﬁcacies
+of Metschnikowia pulcherrima against blue mold of apples (Spadaro
+et al., 2004) and Aureobasidium pullulans against rots caused by B.
+cinerea on sweet cherries (Ippolito et al., 2005) have been effectively
+improved by the use of sodium bicarbonate (SBC). The integration
+of an antagonist microbe with other treatments has been proposed
+and combined treatments with SA or SBC and different antagonist microbes have been tested and reported (Wan et al., 2003;
+Janisiewicz et al., 2008; Cao et al., 2013).
+To our knowledge, no study has been conducted to determine
+the ability of SA or SBC to improve the biocontrol activity of H.
+uvarum. The objectives of this study were, ﬁrst to optimize the
+concentrations of SA and SBC, combined with H. uvarum on inhibiting postharvest disease of grapes at 25 ◦ C. Second, the effects of
+the treatments of H. uvarum alone, combined with SA and combined with SBC on postharvest quality and enzyme activities of
+grapes (2 ± 1 ◦ C, RH 90–95%), including quality (browning index,
+decay incidence, weight loss, ﬁrmness, TSS, TA), and the defensive
+enzymes (POD, PPO, SOD, CAT, PAL, APX) were investigated.
+2. Materials and methods
+2.1. Pathogen inoculum
+B. cinerea was isolated from a grape berry showing typical gray
+mold and stored on potato dextrose agar (PDA, 200 mL extract of
+boiled potatoes, 20 g dextrose and 20 g agar in 1000 mL distilled
+water) at 4 ◦ C. Before use, B. cinerea was freshly cultured on PDA
+plates at 23 ◦ C Spore suspensions were prepared by removing the
+spores from a 7-day old culture with a sterile inoculator and then
+suspending in sterile distilled water to the required concentration
+of 1 × 105 spores mL−1 , which was estimated using a hemacytometer (XB-K-25; Shanghai, China).
+2.2. Antagonist
+The antagonist yeast was isolated from the surface of strawberries and identiﬁed as H. uvarum based on the similarity analysis
+of its morphologies, physiological–biochemical characteristics and
+26S rDNA D1/D2 domain sequence (GenBank accession number:
+JX125041). The yeast was cultured in 250 mL Erlenmeyer ﬂasks
+with 100 mL potato dextrose (PDB, 200 mL extract of boiled potatoes, 20 g dextrose in 1000 mL distilled water) on a gyratory shaker
+at 180 r min−1 , 28 ◦ C for 24 h. The yeast cells were acquired by
+centrifuging at 6000 × g for 15 min (at 4 ◦ C) and then re-suspended
+in sterile distilled water. The yeast concentrations were adjusted
+as needed for different experiments using a hemacytometer.
+2.3. Fruit
+Grape berries (Vitis vinifera L. cv. Kyoho) were harvested early
+in the morning from a vineyard in Jiangxin Zhou, Nanjing City,
+China, and selected depending on the size and the absence of physical injuries or infection. Grapes were surface-disinfected with 2%
+sodium hypochlorite for 2 min, rinsed with tap water and dried in
+air before use.
+
+161
+
+was used as the control. After air-drying, the treated fruit were
+stored at 25 ◦ C, RH 90–95% condition for 1 day. A uniform wound
+of 4 mm deep and 3 mm wide was made at the equator of each
+fruit using the tip of sterile dissecting needle. Aliquots (10 ␮L) of
+1 × 108 CFU mL−1 yeast suspensions were pipetted into the wound
+site, except for the control group which was treated with sterile
+water. After 2 h, 10 ␮L of the 1 × 105 spores mL−1 suspension of B.
+cinerea was inoculated into each wound. All these fruit were airdried again and then stored at 25 ◦ C, RH 90–95% for 3 days. The
+lesion diameters and disease incidence were determined after incubation. Thirty fruit constituted a single replicate. The experiment
+was repeated twice with three replicates per treatment.
+The effect of H. uvarum combined with different concentrations
+of SBC on grape lesion diameter and disease incidence of B. cinerea
+infection was studied using the similar procedure as for SA. The SBC
+solutions of 1, 2 and 4% concentrations were used.
+2.5. Effects of H. uvarum in combination with SA or SBC on
+postharvest quality and enzyme activities of intact fruit during
+cold storage
+The intact fruit were sprayed with: Control – sterile distilled water as the control, H – the cell suspension of H. uvarum
+(1 × 108 CFU mL−1 ), H + SA − SA (2 mmol L−1 ) after 2 h ﬁrst and then
+in combination with H. uvarum suspension (1 × 108 CFU mL−1 ),
+H + SBC − SBC (2%) after 2 h ﬁrst and then in combination with H.
+uvarum suspension (1 × 108 CFU mL−1 ). The fruit were air-dried and
+sealed in polyethylene-lined plastic boxes at 2 ± 1 ◦ C, RH 90–95% to
+retain high humidity. Postharvest quality and enzyme activities of
+the fruit were evaluated at intervals of 10 days. 100 fruit constituted a single replicate. The experiment was repeated twice with
+three replicates per treatment.
+2.6. Quality analysis of grapes
+2.6.1. Browning index
+Browning index (BI) of spike-stalk and pedicel was assessed
+according to the different browning of scales as follows: 0, no
+browning; 1, browning of scales less than a quarter of browning
+area; 2, browning of scales less than 1/2 of browning area; 3, browning of scales less than three-quarters of browning area; 4, more
+than 3/4 of browning
+ area. The browning index was calculated by
+the formula, BI = (df)/ND, where d is the browning of scales on
+the grape and f is its respective quantity; N is the total number of
+grapes examined and D is the highest browning of scales.
+2.6.2. Decay incidence and weight loss
+The number of decayed fruit (A) against the number of all fruit
+(B) was calculated as the decay incidence (A/B). Results were shown
+as percentage of fruit with decay. The mass of the grapes was measured by an MP2000-2 balance (±0.001 g) before treatment (a) and
+after storage (b). The mass loss was calculated as (a − b)/a.
+
+2.4. Efﬁcacy of H. uvarum combined with different concentrations
+of SA (or SBC) on control of gray mold in grape fruit
+
+2.6.3. Firmness
+The ﬁrmness value of each individual grape was measured at the
+point of the equatorial region using the TA-XT2i Texture Analyser
+(Stable Micro Systems Ltd, UK) equipped with a 6 mm diameter
+ﬂat probe. The probe descended toward the sample at the speed of
+1 mm s−1 and the maximum force (N) was deﬁned (Castillo et al.,
+2010).
+
+Grapes berries were divided into 5 groups. Three groups of
+berries were immersed in SA solutions with concentration of 1, 2
+and 4 mmol L−1 for 2 min, respectively. The fourth group was not
+treated. The last group that was immersed in sterile distilled water
+
+2.6.4. Total soluble solids
+The total soluble solids (TSS) were determined by measuring the
+refractive index of the fruit with a hand refractometer (WYT-4, Top
+instrument Co., Ltd.), China at room temperature and the result was
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+
+2.6.5. Titratable acidity
+The titratable acidity of the grape was measured by titration
+with 0.1 mM NaOH to pH 8.3; 10 g of grape diluted with 100 mL of
+distilled water was evaluated for each replicated. The results were
+expressed as tartaric acid (%) (Porat et al., 2000).
+2.7. Defensive enzyme assays
+2.7.1. POD activity
+For the determination of POD activity, fresh grapes (1.5 g) were
+ﬁrst mixed with 8 mL of ice-cold Phosphate Buffered Saline solution (50 mM, pH 7.8) and then mashed thoroughly. The homogenate
+was centrifuged at 10,000 r min−1 for 15 min at 4 ◦ C, and the supernatant was used for the POD activity assay. Guaiacol and H2 O2 were
+used as the substrates for POD activity determination (Lurie et al.,
+1997). Enzyme activity was deﬁned as the increase in absorbance
+at 460 nm with a spectrophotometer (UV Bluestar A, Beijing, China)
+at 25 ◦ C within 2 min. The speciﬁc activity was expressed as units
+per gram of fresh weight. Each sample consisted of fruit tissues
+that were collected from ﬁve grapes. There were four samples per
+treatment.
+2.7.2. SOD activity
+For the determination of SOD activity, fresh grapes (1.5 g) were
+mixed with 8 mL of ice-cold sodium phosphate buffer (50 mM, pH
+7.8), ground thoroughly and centrifuged as described above. SOD
+activity was evaluated following the method of (Wang et al., 2004).
+The reaction mixture was illuminated with a ﬂuorescent lamp at
+400 lx for 10 min and the absorbance was measured at 560 nm. The
+same solutions held in the dark were used as the blank. One unit
+of SOD activity was deﬁned as the amount of enzyme that caused
+a 50% decrease of the SOD-inhibitable NBT reduction. The speciﬁc
+activity was expressed as units per gram of fresh weight. Each sample consisted of fruit tissues that were collected from ﬁve grapes.
+There were four samples per treatment.
+2.7.3. CAT activity
+For the determination of CAT activity, fresh grapes (1.5 g) were
+mixed with 8 mL of ice-cold sodium phosphate buffer (100 mM, pH
+7.0) and ground thoroughly. The homogenate was centrifuged as
+above. CAT activity determination was performed following the
+method of (Wang et al., 2004). The reaction mixture contained
+2 mL of sodium phosphate buffer, 0.4 mL of H2 O2 and 1 mL of
+crude extract. The decomposition of H2 O2 was measured at 240 nm.
+One unit was deﬁned as the change in 0.001 absorbance units per
+minute and the speciﬁc activity was expressed as units per gram
+of fresh weight. Each sample consisted of fruit tissues that were
+collected from ﬁve grapes. There were four samples per treatment.
+2.7.4. APX activity
+For the determination of APX activity, fresh grapes (1.5 g) were
+ﬁrst mixed with 8 mL of ice-cold phosphate buffered saline solution
+(50 mM, pH 7.8) and then mashed thoroughly. The homogenate was
+centrifuged at 10,000 r min−1 for 15 min at 4 ◦ C. APX activity was
+evaluated according to the method described by Nakano and Asada
+(1981). One unit was deﬁned as the change in 0.001 absorbance
+units per minute at 290 nm. The speciﬁc activity was expressed as
+units per gram of fresh weight. Each sample consisted of fruit tissues that were collected from ﬁve grapes. There were four samples
+per treatment.
+
+2.7.5. PAL activity
+For the determination of PAL activity, fresh grapes (1.5 g) were
+mixed with 8 mL of ice-cold boracic acid buffer (100 mM, pH 8.7),
+ground thoroughly and centrifuged as described above. PAL activity was analyzed using the method of Assis et al. (2001). One unit
+was deﬁned as the change in 0.001 absorbance units per minute
+at 290 nm. The speciﬁc activity was expressed as units per gram
+of fresh weight. Each sample consisted of fruit tissues that were
+collected from ﬁve grapes. There were four samples per treatment.
+2.7.6. PPO activity
+For the determination of PPO activity, fresh grapes (1.5 g) were
+homogenized with 8 mL of ice-cold citric acid buffer (0.2 M, pH 6.8)
+and centrifuged at 10,000 r min−1 for 15 min at 4 ◦ C. PPO activity
+was evaluated according to the method described by Tian et al.
+(2002). The assay was performed using 2 mL of citric acid buffer
+(pH 6.8), 1 mL of 100 mM 4-methylcatechol and 2 mL of the supernatant. The increase in absorbance at 398 nm at 25 ◦ C within 2 min
+was recorded. The speciﬁc activity was expressed as units per gram
+of fresh weight. Each sample consisted of fruit tissues that were
+collected from ﬁve grapes. There were four samples per treatment.
+2.8. Statistical analysis
+All statistical analyses were performed using SAS Software (Version8.2; SAS Institute, Cary, NC, USA). The data were analyzed by
+one-way analysis of variance (ANOVA). Comparison of means was
+performed by Duncan’s multiple range tests. Statistical signiﬁcance
+was assessed at the level of P = 0.05 or P = 0.01.
+3. Results
+3.1. Efﬁcacy of H. uvarum combined with different concentrations
+of SA (or SBC) on control of gray mold in grape fruit
+Disease incidence and lesion diameter in all treated fruit were
+signiﬁcantly lower than those of the control fruit (P < 0.05) (Fig. 1).
+H. uvarum, as a stand-alone treatment, reduced the disease incidence from 93.1% (control) to 51.8%. The combination of the
+chemical reagents and yeast decreased the disease incidence to a
+lower level, 38.5% for H. uvarum combined with 2 mmol L−1 SA and
+34.3% for H. uvarum combined with 2% SBC, respectively.
+At the same concentration of H. uvarum, the lesion diameter
+of fruit treated by 2 mmol L−1 SA was signiﬁcantly (P < 0.05) lower
+than in those treated by 1 mmol L−1 SA and 4 mmol L−1 SA (Fig. 1)
+after 3 days of incubation. The lesion diameter in fruit treated
+1.4
+
+100
+Lesion diameter
+Disease incidence
+
+a a'
+
+1.3
+1.0
+
+90
+60
+
+b
+b'
+
+b
+
+b
+
+c'
+
+0.9
+
+c'
+
+b b'c'
+
+bc
+c'
+
+c
+d'
+
+0.8
+0.7
+CK
+
+H
+H+
+
+1m
+
+M
+
+SA
+H+
+
+2m
+
+M
+
+SA
+H+
+
+4m
+
+d
+
+M
+
+SA
+H+
+
+1%
+
+SB
+
+C
+H+
+
+2%
+
+SB
+
+40
+
+e'
+C
+H+
+
+4%
+
+50
+
+SB
+
+C
+
+Disease incidence (%)
+
+expressed as a percentage (g per 100 g fruit weight) (Larrigaudiere
+et al., 2002).
+
+Lesion diameter (cm)
+
+162
+
+30
+
+Fig. 1. Effect of H. uvarum combined with SA (SBC) on grape lesion diameter and
+disease incidence of B. cinerea infection. Vertical bars represent the standard errors
+of the means. Values with different letters at the same time within the same ﬁgure
+are signiﬁcantly different according to Duncan’s multiple range test at P = 0.05 level.
+CK: control; H: H. uvarum; SA: salicylic acid; SBC: sodium bicarbonate.
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+
+163
+
+Table 1
+Effect of H. uvarum combined with SA (or SBC) on spike-stalk and pedicel browning index of grape after 90 days cold storage.
+Treatment
+
+Fruit appearance
+
+Spike-stalk appearance
+
+Pedicel appearance
+
+Spike-stalk browning index (%)
+
+Pedicel browning index (%)
+
+CK
+H
+H + SA
+H + SBC
+
+Purplish red
+Purplish red
+Purplish red/bright
+Purplish red/bright
+
+Fulvouos
+Olivine
+Light green
+Light green
+
+Fulvouos
+Olivine
+Bright green
+Bright green
+
+43.65a
+22.22b
+11.11c
+11.90c
+
+23.33a
+8.33b
+5.00b
+3.33b
+
+Values with different letters at the same time within the same ﬁgure are signiﬁcantly different according to Duncan’s multiple range test at P = 0.05 level. CK: control; H: H.
+uvarum; SA: salicylic acid; SBC: sodium bicarbonate.
+
+by 2 mmol L−1 SA together with 1 × 108 CFU mL−1 H. uvarum was
+0.81 cm, while the corresponding diameter in fruit treated by yeast
+alone was 0.97 cm. The inhibitory effects increased by 16.5% compared to the treatment of the yeast alone. As can be seen, SA was
+able to increase the inhibition of H. uvarum against B. cinerea.
+The lesion diameter in fruit treated with 2% SBC was signiﬁcantly (P < 0.05) lower than in those treated with 1% SBC or 4% SBC
+after 3 days of incubation, when the concentration of H. uvarum
+was identical (Fig. 1). The lesion diameter in fruit treated with 2%
+SBC in combination with 1 × 108 CFU mL−1 H. uvarum was 0.75 cm,
+which was 22.6% lower than that in fruit treated by H. uvarum alone.
+Therefore, the combined treatment of H. uvarum with 2% SBC gave
+a remarkably improved control of B. cinerea infections in grapes.
+
+3.2. Effect of H. uvarum combined with SA (or SBC) on quality
+appearance of grape
+As shown in Table 1, the spike-stalk browning indexes of H.
+uvarum combined with SA and with SBC were 11.11% and 11.90%,
+which were signiﬁcantly lower than those of fruit treated by 22.22%
+for H. uvarum alone and 43.65% for the control respectively. There
+was no signiﬁcant difference (P ≥ 0.05) in spike-stalk browning
+index between grapes treated by H. uvarum combined with SA
+and with SBC. The pedicel browning indexes of H. uvarum combined with SA and with SBC were 5.00% and 3.33%, which were
+signiﬁcantly lower than the 23.33% in the control. There was no
+signiﬁcant difference (P ≥ 0.05) of pedicel browning index among
+treated grapes. The results showed that H. uvarum had a signiﬁcant
+
+role. However, in terms of fruit appearance, the effect of H. uvarum
+combined with SA and with SBC was the best treatment, which
+was purplish red and bright. SA and SBC contribute to promoting
+the quality appearance of grape fruit.
+Our experiments evaluated the efﬁcacy of yeast antagonist and
+SA (or SBC), as stand-alone treatments or in combination, in reducing the natural infections after cold storage. Decayed grape fruit
+ﬁrst showed that grape stems were covered with mold, and then
+the typical symptom of gray rot developed gradually (Fig. 2). The
+appearance of treated groups was signiﬁcantly better than that of
+control.
+
+3.3. Effects of H. uvarum in combination with SA or SBC on
+quality of intact fruit at 2 ◦ C
+The results presented in Table 2 indicate that the decay incidence of grapes treated by the yeast alone and in combination with
+SA and SBC were all signiﬁcantly (P < 0.05) lower than that of the
+control treatment. The application of H. uvarum together with SBC
+resulted in an average decay incidence of 4.09% at 90 days, and
+the application of H. uvarum combined with SA, which gave the
+result of average decay incidence of 5.94%. They were both significantly (P < 0.05) lower than the results of the treatment of yeast
+alone (10.22%) and the control (15.89%). The weight loss of grapes
+treated by H. uvarum combined with SA and with SBC was 8.87%
+and 6.96% respectively, which was signiﬁcantly lower (P < 0.01) the
+treatment of the control and the yeast alone (Table 2).
+
+Fig. 2. The appearance of different treatment on grape fruit during cold storage after 90days; (A) control; (B) H. uvarum; (C) H. uvarum in combination with 2 mmol L−1 SA;
+(D) H. uvarum in combination with 2% SBC.
+
+164
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+
+Table 2
+Effect of H. uvarum combined with SA (or SBC) on Decay incidence, Weight loss, Firmness, TSS and TA of grape during cold storage.
+Storage condition
+
+Treatments
+
+2 ◦ C for 90 days
+
+CK
+H
+H + SA
+H + SBC
+
+Quality parameters
+Decay incidence (%)
+15.89
+10.22
+5.94
+4.09
+
+±
+±
+±
+±
+
+1.49a
+0.05b
+0.70c
+0.03d
+
+Weight loss (%)
+24.90
+16.71
+8.87
+6.96
+
+±
+±
+±
+±
+
+0.78a
+0.54b
+2.30c
+0.95c
+
+Firmness (N)
+4.66
+4.97
+5.40
+5.37
+
+±
+±
+±
+±
+
+0.12a
+0.23b
+0.05c
+0.16c
+
+Total soluble solids (%)
+13.25
+13.68
+13.95
+14.00
+
+±
+±
+±
+±
+
+0.14a
+0.00b
+0.10c
+0.01c
+
+Titratable acidity (%)
+0.32
+0.35
+0.39
+0.36
+
+±
+±
+±
+±
+
+0.00a
+0.00b
+0.00d
+0.00c
+
+Values with different letters at the same time within the same ﬁgure are signiﬁcantly different according to Duncan’s multiple range test at P = 0.05 level. CK: control; H: H.
+uvarum; SA: salicylic acid; SBC: sodium bicarbonate.
+
+During the ﬁrst 10 days, no signiﬁcant differences in fruit ﬁrmness, TSS and TA were observed between the treatments and
+control. As the storage period was prolonged, the treated berries
+were signiﬁcantly (P < 0.05) ﬁrmer compared to those in the control. Moreover, the fruit treated with the yeast combined with SA or
+SBC were ﬁrmer than those treated with the yeast alone. The treatments of the yeast in combination with SA or SBC generally had
+higher TSS than the other treatments. After 20 days, the combined
+treatments caused higher TA in fruit compared with the control.
+They also resulted in higher TA values compared to the yeast alone
+throughout the whole storage period (Table 2). In this study, the
+chemical reagent integrated with H. uvarum resulted in signiﬁcantly higher ﬁrmness, TA, TSS and lower decay incidence, and
+weight loss rate than the control.
+3.4. Effects of H. uvarum in combination with SA or SBC on
+enzyme activities of intact fruit at 2 ◦ C
+The result of POD activity are shown in Fig. 3A. No signiﬁcant
+changes were detected at the beginning of storage (P ≥ 0.05). After
+40 days, a more rapid increase in POD activity was observed in
+the treated fruit (H. uvarum alone, H. uvarum combined with SA
+and combined with SBC) compared to the control fruit. The POD
+activities of these treated grapes reached the highest value after 90
+days of storage and the activities of the fruit treated together with
+SA or SBC were signiﬁcantly higher than that of control samples
+after 40 days (P < 0.05). Moreover, the activities of the fruit treated
+by H. uvarum combined with SA or SBC were higher than those of
+yeast alone.
+The results in Fig. 3B showed that SOD activity increased continuously in grapes treated with and without antagonistic yeast within
+70 days of storage. After that, the SOD activity declined rapidly. The
+yeast alone and in combination with chemical reagents (SA, SBC)
+could induce the SOD activity at 2 ◦ C, which reached its maximum
+value at day 70. The SOD activities of grapes treated by H. uvarum
+alone, as well as in combination with SA or SBC were higher than
+those of the control samples before day 80. However, no signiﬁcant (P ≥ 0.05) differences were detected among grapes treated in
+different ways.
+As for the CAT activity of grapes in all treatments (Fig. 3C),
+its value increased slowly at the early stage of storage and then
+declined continuously after reaching the maximum value. On the
+other hand, the CAT activities of grapes treated by the antagonistic
+yeast with chemical reagents (SA, SBC) were signiﬁcantly (P < 0.05)
+higher than those of control grapes and grapes treated by yeast
+alone after 30 days. Furthermore, after 40 days, signiﬁcantly higher
+CAT activity in yeast alone treated fruit was observed compared
+with the control during the whole storage period except the 70th
+day (P < 0.05).
+As can be seen in Fig. 3D, the peak values of APX activities in
+yeast with chemical reagents treated fruit and control fruit were
+induced at 30 and 40 days of incubation, respectively. This suggests that the chemical reagents could induce the appearance of
+peak APX activity 10 days earlier. Additionally, the trend for APX
+
+activities to change in treated fruit and the control were similar.
+Both increased, reaching a peak value, and then declined. Throughout the whole storage period, the APX activities of grapes treated
+by the antagonistic yeast with chemical reagents (SA, SBC) were
+signiﬁcantly (P < 0.05) higher than those of control grapes.
+The change in PAL activity is shown in Fig. 3E. Both yeasttreated fruit and the control demonstrated similar changes. PAL
+activity continuously increased until it reached its peak value at
+day 60 of incubation, and then declined rapidly. With prolonged
+storage time, the yeast-treated fruit demonstrated continuously
+higher activity than the control. Especially at 30 or 50 days of incubation, the PAL activities of grapes treated by the antagonistic yeast
+with chemical reagents (SA, SBC) were signiﬁcantly (P < 0.05) higher
+than those of control grapes. This result indicated that the antagonistic yeast H. uvarum with SA or SBC could induce PAL activity
+markedly and rapidly, but this effect could not be maintained after
+80 days.
+Application of the yeast H. uvarum alone and combined with SA
+led to a marked increase of PPO activity (Fig. 3F) and the activity
+reached the maximum value at day 20 and day 60, respectively.
+The highest PPO activity of control samples was obtained at day 60.
+This result indicated that antagonistic yeast H. uvarum alone and
+combined with SA could result in the emergence of a peak value
+in PPO activity 40 days earlier. In addition, after reaching the peak
+value, PPO activity in control fruit was always lower than that in
+the treated fruit.
+4. Discussion
+The objective of the present study was to evaluate the feasibility
+of combined application of a microbial antagonist (H. uvarum) and
+chemical reagent to control postharvest rots of grape fruit. In our
+experiment, we found that H. uvarum alone or in combination with
+SA and with SBC could signiﬁcantly reduce gray mold incidence
+and induce the accumulation of defense-related enzymes. These
+results suggest that the disease resistance of fruit was enhanced by
+treatments with H. uvarum alone or in combination with SA and
+with SBC.
+Combinations with biocontrol agents have proved to be an effective method to improve control of postharvest pathogens while
+reducing chemical residues on the fruit in other studies (Arrebola
+et al., 2010). The potential of H. uvarum as a biological control agent
+has been previously reported (Liu et al., 2010a,b). This is, however,
+the ﬁrst report where H. uvarum isolate was evaluated in combination with SA and with SBC to improve its efﬁcacy. The results
+of our experiment showed that H. uvarum in combination with SA
+and with SBC resulted in better control of B. cinerea than the antagonist alone at 25 ◦ C. It is also important that the colonizing ability
+of H. uvarum in wounds is not inhibited by SA or SBC. This probably
+indicates that a proper low dosage of SA or SBC solution showed
+no statistical effect on the growth of H. uvarum and could be compatible with the antagonist. SA at 2 mmol L−1 and SBC at 2% were
+found to enhance the biocontrol efﬁcacy of H. uvarum in reducing
+the gray mold disease on grapes caused by B. cinerea signiﬁcantly,
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+80
+
+A
+
+Control
+H
+H + SA
+H + SBC
+
+50
+40
+
+SOD enzyme activity (Units.g-1FW)
+
+POD enzyme activity (Units.g-1FW)
+
+60
+
+30
+20
+10
+
+B
+
+70
+60
+50
+40
+30
+20
+10
+0
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0
+
+100
+
+10
+
+20
+
+30
+
+Storage time (d)
+
+250
+200
+150
+100
+50
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Storage time (d)
+
+300
+
+C
+
+APX enzyme activity (Units.g-1FW)
+
+CAT enzyme activity (Units.g-1FW)
+
+300
+
+D
+250
+200
+150
+100
+50
+0
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0
+
+100
+
+Storage time (d)
+
+10
+
+20
+
+30
+
+E
+60
+
+40
+
+20
+
+0
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Storage time (d)
+
+220
+
+PPO enzyme activity (Units.g-1FW)
+
+80
+
+PAL enzyme activity (Units.g-1FW)
+
+165
+
+F
+
+200
+180
+160
+140
+120
+100
+80
+60
+40
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Storage time (d)
+
+100
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Storage time (d)
+
+Fig. 3. Effects of the antagonistic yeast H. uvarum alone and in combination with SA, SBC on POD(A), SOD(B), CAT(C), APX(D), PAL(E), PPO(F) activities in grape fruits at
+2 ◦ C. Control: distilled water; H: H. uvarum; H + SA: H. uvarum combined with SA (2 mmol L−1 ); H + SBC: H. uvarum combined with SBC (2%). Vertical bars represent standard
+deviations of the means.
+
+similar to the ﬁndings in other studies (Wan et al., 2003; Yu et al.,
+2007).
+The application of H. uvarum integrated with the chemical
+reagent delayed the postharvest ripening of grapes. This delay was
+characterized by reducing the browning index and weight loss
+and retention of fruit ﬁrmness. It is known that grape shelf-life is
+affected by weight loss, since as grapes lose weight they are more
+susceptible to fungal decay (Martínez-Romero et al., 2003). Weight
+loss can lead to wilting and shriveling which reduce both market value and consumer acceptability. Our results showed that all
+postharvest treatments prevented weight loss in comparison with
+the control, which are in agreement with Castillo et al. (2010) who
+demonstrated that weight loss was reduced signiﬁcantly, while
+losses over 30% were detected in control grapes at the end of experiment. In addition, the application of H. uvarum in combination with
+SA and with SBC did not impair quality parameters including TSS
+and TA.
+One of the possible action mechanisms of yeast combined with
+chemical regents is induction of antifungal-like substances that
+
+inhibit fungal development in fruit tissue and defense-related
+enzymes (Castoria and Wright, 2010). The reason for the observed
+increase in activity is not well understood. Our present study
+showed that H. uvarum in combination with SA or SBC had higher
+activities of POD, PPO, PAL SOD, CAT and APX than the application
+of H. uvarum treatment alone and untreated group. POD, PPO and
+PAL are commonly studied in the postharvest biocontrol area and
+known to be involved in plant disease resistance (Zhao et al., 2008).
+Thus, induction of enhanced activities of POD, PPO and PAL may be
+closely correlated with the mechanism by which H. uvarum and
+chemical regents induce resistance against B. cinerea in grape fruit.
+POD controls the availability of H2 O2 in the cell wall, which is
+a prerequisite for the cross-linking of phenolic groups in response
+to various external stress, such as wounds, pathogen interactions,
+and environmental constraints (Passardi et al., 2004). Ballester et al.
+(2010) found that soluble POD contributes to the beneﬁcial effect of
+pathogen infection treatment in reducing disease incidence. Thus,
+the increase in POD is one of the markers of induced resistance.
+Besides POD, rapidly elevated levels of PPO are also important for
+
+166
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+
+resistance genotypes following infection (Mayer, 2006). PPO can
+produce antimicrobial phenolic substances through oxidizing phenolic compounds (Mayer and Harel, 1979). This result suggests
+that PPO may potentially affect the progress of plant disease resistance. This ﬁnding is in agreement with the study of Zhao et al.
+(2009), who found that PPO activity in postharvest peach fruit was
+induced by antagonistic yeast, and this phenomenon was related
+to a decline in infection rate. PAL is responsible for the biosynthesis of p-coumaric acid derivatives, phytoalexin, and lignins that
+contribute to plant defense systems (Qin et al., 2003). PAL also participates in the biosynthesis of the defense hormone salicylic acid,
+which is required for both local and systemic acquired resistance
+in plants (Dixon and Paiva, 1995).
+The accumulation of ROS has the potential to serve as barriers against invading pathogens and as signals for activating further
+plant defense reactions (Lamb and Dixon, 1997). Generally, the
+metabolism of ROS is controlled by an array of enzymes including
+SOD, CAT and APX. H2 O2 is also destroyed predominantly by APX
+and CAT. It has been reported that a salicylic acid induced increase
+in H2 O2 content is mediated by an inhibition of CAT and APX in several plants (Landberg and Greger, 2002). The present study showed
+CAT and APX were signiﬁcantly increased and correspondingly, the
+capacity of the tissue to scavenge excess ROS was increased and the
+concentration of ROS was maintained at a relatively low level. The
+balance between POD, CAT and SOD activities in cells was crucial
+for determining the steady-state level of O2 − and H2 O2 (Chan and
+Tian, 2006). Thus, treatments with H. uvarum alone or in combination with SA or SBC activated protective enzyme, balanced the
+content of O2 − and H2 O2 and induced the disease resistance.
+In general, the combination of H. uvarum and SA or SBC is more
+effective to control postharvest diseases of grape berries than the
+single treatments or the control. It may provide a reliable solution
+for control of postharvest gray mold of grape fruit. Moreover, the
+combination of SA (or SBC) with H. uvarum overcomes the limitations of each individual treatment. Thus, the increase in enzyme
+activity and the extension of storage time of grape berries by the
+yeast combined with chemical reagents demonstrated here suggests that the application of the H. uvarum combined with SA or
+SBC could be considered for use during commercial storage.
+Acknowledgements
+This study was supported by Science and Technology Department of Jiangsu Province (No. BE2010385) and A Project Funded
+by the Priority Academic Program Development of Jiangsu Higher
+Education Institutions and National College Students’ Innovation
+and Entrepreneurship (No. 201310307046).
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.postharvbio.
+2014.09.010.
+References
+Arrebola, E., Jacobs, R., Korsten, L., 2010. Iturin A is the principal inhibitor in the biocontrol activity of Bacillus amyloliquefaciens PPCB004 against postharvest fungal
+pathogens. J. Appl. Microbiol. 108, 386–395.
+Assis, J.S., Maldonado, R., Munoz, T., Escribano, M.I., Merodio, C., 2001. Effect of high
+carbon dioxide concentration on PAL activity and phenolic contents in ripening
+cherimoya fruit. Postharvest Biol. Technol. 23, 33–39.
+Ballester, A.R., Izquierdo, A., Lafuente, M.T., Gonzalez-Candelas, L., 2010. Biochemical and molecular characterization of induced resistance against Penicillium
+digitatum in citrus fruit. Postharvest Biol. Technol. 56, 31–38.
+Cao, J.K., Yan, J.Q., Zhao, Y.M., Jiang, W.B., 2013. Effects of postharvest salicylic acid
+dipping on Alternaria rot and disease resistance of jujube fruit during storage. J.
+Sci. Food Agric. 93, 3252–3258.
+
+Castillo, S., Navarro, D., Zapata, P.J., Guillen, F., Valero, D., Serrano, M., MartinezRomero, D., 2010. Antifungal efﬁcacy of Aloe vera in vitro and its use as a
+preharvest treatment to maintain postharvest table grape quality. Postharvest
+Biol. Technol. 57, 183–188.
+Castoria, R., Wright, S.A.I., 2010. Host responses to biological control agents. In:
+Prusky, D., Gullino, M.L. (Eds.), Postharvest Pathology, vol. 2. Springer, The
+Netherlands, pp. 171–181.
+Chan, Z.L., Tian, S.P., 2006. Induction of H2 O2 -metabolizing enzymes and total protein synthesis by antagonistic yeast and salicylic acid in harvested sweet cherry
+fruit. Postharvest Biol. Technol. 39, 314–320.
+De Curtis, F., De Cicco, V., 2012. Efﬁcacy of biocontrol yeasts combined with calcium
+silicate or sulphur for controlling durum wheat powdery mildew and increasing
+grain yield components. Field Crop Res. 134, 36–46.
+Dixon, R.A., Paiva, N.L., 1995. Stress-induced phenylpropanoid metabolism. Plant
+Cell 7, 1085–1097.
+Droby, S., Wisniewski, M., Macarisin, D., Wilson, C., 2009. Twenty years of postharvest biocontrol research: is it time for a new paradigm? Postharvest Biol.
+Technol. 52, 137–145.
+Ebrahimi, L., Etebarian, H.R., Aminian, H., Sahebani, N., 2013. Effect of Metschnikowia
+pulcherrima and methyl jasmonate on apple blue mold disease and the possible
+mechanisms involved. Phytoparasitica 41, 515–519.
+Ippolito, A., Schena, L., Pentimone, I., Nigro, F., 2005. Control of postharvest rots of
+sweet cherries by pre- and postharvest applications of Aureobasidium pullulans
+in combination with calcium chloride or sodium bicarbonate. Postharvest Biol.
+Technol. 36, 245–252.
+Janisiewicz, W.J., Saftner, R.A., Conway, W.S., Yoder, K.S., 2008. Control of blue
+mold decay of apple during commercial controlled atmosphere storage with
+yeast antagonists and sodium bicarbonate. Postharvest Biol. Technol. 49,
+374–378.
+Joyce, Z.D.C., Wearing, A.H., Coates, L., Terry, L., 2001. Effects of phosphonate and
+salicylic acid treatments on anthracnose disease development and ripening of
+‘Kensington Pride’ mango fruit. Aust. J. Exp. Agric. 41, 805–813.
+Kinay, P., Yildiz, M., 2008. The shelf life and effectiveness of granular formulations of
+Metschnikowia pulcherrima and Pichia guilliermondii yeast isolates that control
+postharvest decay of citrus fruit. Biol. Control 45, 433–440.
+Lamb, C., Dixon, R.A., 1997. The oxidative burst in plant disease resistance. Annu.
+Rev. Plant Physiol. Mol. Biol. 48, 251–275.
+Landberg, T., Greger, M., 2002. Differences in oxidative stress in heavy metal resistance and sensitive clones of salix viminalis. J. Plant Physiol. 159, 69–75.
+Larrigaudiere, C., Pons, J., Torres, R., Usall, J., 2002. Storage performance of clementines treated with hot water, sodium carbonate and sodium bicarbonate dips. J.
+Hortic. Sci. Biotechnol. 77, 314–319.
+Liu, H.M., Guo, J.H., Luo, L., Liu, P., Wang, B.Q., Cheng, Y.J., Deng, B.X., Long, C.A., 2010a.
+Improvement of Hanseniaspora uvarum biocontrol activity against gray mold by
+the addition of ammonium molybdate and the possible mechanisms involved.
+Crop Prot. 29, 277–282.
+Liu, H.M., Guo, J.H., Cheng, Y.J., Luo, L., Liu, P., Wang, B.Q., Deng, B.X., Long, C.A.,
+2010b. Control of gray mold of grape by Hanseniaspora uvarum and its effects
+on postharvest quality parameters. Ann. Microbiol. 60, 31–35.
+Liu, P., Luo, L., Long, C.A., 2013. Characterization of competition for nutrients in
+the biocontrol of Penicillium italicum by Kloeckera apiculata. Biol. Control 67,
+157–162.
+Lurie, S., Fallik, E., Handros, A., Shapira, R., 1997. The possible involvement of peroxidase in resistance to Botrytis cinerea in heat treated tomato fruit. Physiol. Mol.
+Plant Pathol. 50, 141–149.
+Manso, T., Nunes, C., 2011. Metschnikowia andauensis as a new biocontrol agent of
+fruit postharvest diseases. Postharvest Biol. Technol. 61, 64–71.
+Martínez-Romero, D., Guillén, F., Castillo, S., Valero, D., Serrano, M., 2003. Modiﬁed atmosphere packaging maintains quality of table grapes. J. Food Sci. 68,
+1838–1843.
+Masih, E.I., Slezack-Deschaumes, S., Marmaras, I., Barka, E.A., Vernet, G., Charpentier,
+C., Adholeya, A., Paul, B., 2001. Characterisation of the yeast Pichia membranifaciens and its possible use in the biological control of Botrytis cinerea, causing the
+grey mould disease of grapevine. FEMS Microbiol. Lett. 202, 227–232.
+Mayer, A.M., 2006. Polyphenol oxidases in plants and fungi: going places? A review.
+Phytochemistry 67, 2318–2331.
+Mayer, A.M., Harel, E., 1979. Polyphenol oxidases in plants. Phytochemistry 18,
+193–215.
+Meena, B., Marimuthu, T., Velazhahan, R., 2001. Salicylic acid induces systemic resistance in groundnut against late leaf spot caused by Cercosporidium personatum.
+J. Mycol. Plant Pathol. 31, 139–145.
+Nakano, Y., Asada, K., 1981. Hydrogen peroxide is scavenged by ascorbate-speciﬁc
+peroxidase in spinach chloroplasts. Plant Cell Physiol. 22, 867–880.
+Passardi, F., Penel, C., Dunand, C., 2004. Performing the paradoxical: how plant peroxidases modify the cell wall. Trends Plant Sci. 9, 534–540.
+Porat, R., Pavoncello, D., Peretz, J., Ben-Yehoshua, S., Lurie, S., 2000. Effects
+of various heat treatments on the induction of cold tolerance and on the
+postharvest qualities of ‘Star Ruby’ grapefruit. Postharvest Biol. Technol. 18,
+159–165.
+Qin, G.Z., Tian, S.P., Xu, Y., Wan, Y.L., 2003. Enhancement of biocontrol efﬁcacy of
+antagonistic yeasts by salicylic acid in sweet cherry fruit. Physiol. Mol. Plant
+Pathol. 62, 147–154.
+Spadaro, D., Garibaldi, A., Gullino, M.L., 2004. Control of Penicillium expansum and
+Botrytis cinerea on apple combining a biocontrol agent with hot water dipping
+and acibenzolar-S-methyl, baking soda, or ethanol application. Postharvest Biol.
+Technol. 33, 141–151.
+
+X. Qin et al. / Postharvest Biology and Technology 100 (2015) 160–167
+Tian, S.P., Xu, Y., Jiang, A., Gong, Q.Q., 2002. Physiological and quality responses of
+longan fruit to high O2 or high CO2 atmospheres in storage. Postharvest Biol.
+Technol. 24, 335–340.
+Wallace, G., Fry, S.C., 1999. Action of diverse peroxidases and laccases on six cell
+wall-related phenolic compounds. Phytochemistry 52, 769–773.
+Wan, Y.K., Tian, S.P., Qin, G.Z., 2003. Enhancement of biocontrol activity of yeasts
+by adding sodium bicarbonate or ammonium molybdate to control postharvest
+disease of jujube fruits. Lett. Appl. Microbiol. 37, 249–253.
+Yu, T., Chen, J.S., Chen, R.L., Huang, B., Liu, D.H., Zheng, X.D., 2007. Biocontrol of blue
+and gray mold diseases of pear fruit by integration of antagonistic yeast with
+salicylic acid. Int. J. Food Microbiol. 116, 339–345.
+Wang, Y.S., Tian, S.P., Xu, Y., Qin, G.Z., Yao, H., 2004. Changes in the activities of proand anti-oxidant enzymes in peach fruit inoculated with Cryptococcus laurentii
+
+167
+
+or Penicillium expansum at 0 or 20◦ C. Postharvest Biology and Technology 34,
+21–28.
+Zhang, H.Y., Ma, L.C., Wang, L., Jiang, S., Dong, Y., Zheng, X.D., 2008. Biocontrol of
+gray mold decay in peach fruit by integration of antagonistic yeast with salicylic acid and their effects on postharvest quality parameters. Biol. Control 47,
+60–65.
+Zhao, Y., Tu, K., Shao, X., Jing, W., Su, Z., 2008. Effects of the yeast Pichia guilliermondii against Rhizopus nigricans on tomato fruit. Postharvest Biol. Technol. 49,
+113–120.
+Zhao, Y., Tu, K., Su, J., Hou, Y., Liu, F., Zou, X., 2009. Heat treatment in combination with antagonistic yeast reduces diseases and elicits the active
+defense responses in harvested cherry tomato fruit. J. Agric. Food Chem. 57,
+7565–7570.
+
+

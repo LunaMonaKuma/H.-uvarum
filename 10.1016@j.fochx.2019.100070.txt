@@ -1,0 +1,1741 @@
+Journal Pre-proofs
+Non-Saccharomyces Yeast and Lactic Acid Bacteria in Co-Inoculated Fermentations with Two Saccharomyces cerevisiae Yeast Strains: a Strategy to Improve
+the Phenolic Content of Syrah Wine
+P.P. Minnaar, H.W. du Plessis, N.P. Jolly, M. van der Rijst, M. du Toit
+PII:
+DOI:
+Reference:
+
+S2590-1575(19)30072-0
+https://doi.org/10.1016/j.fochx.2019.100070
+FOCHX 100070
+
+To appear in:
+
+Food Chemistry: X
+
+Received Date:
+Revised Date:
+Accepted Date:
+
+6 June 2019
+8 October 2019
+8 October 2019
+
+Please cite this article as: P.P. Minnaar, H.W. du Plessis, N.P. Jolly, M. van der Rijst, M. du Toit, NonSaccharomyces Yeast and Lactic Acid Bacteria in Co-Inoculated Fermentations with Two Saccharomyces
+cerevisiae Yeast Strains: a Strategy to Improve the Phenolic Content of Syrah Wine, Food Chemistry: X (2019),
+doi: https://doi.org/10.1016/j.fochx.2019.100070
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover
+page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will
+undergo additional copyediting, typesetting and review before it is published in its final form, but we are providing
+this version to give early visibility of the article. Please note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+© 2019 Published by Elsevier Ltd.
+
+Non-Saccharomyces Yeast and Lactic Acid Bacteria in Co-Inoculated
+Fermentations with Two Saccharomyces cerevisiae Yeast Strains: a
+Strategy to Improve the Phenolic Content of Syrah Wine
+
+P.P. Minnaara*, H.W. du Plessisa, N.P. Jollya, M. van der Rijstc, M. du Toitb
+
+aAgricultural
+bInstitute
+
+Research Council, Private Bag X5026, Stellenbosch, 7600, South Africa.
+
+for Wine Biotechnology & Department of Viticulture and Oenology, Stellenbosch University, Private
+
+Bag X1, Matieland, 7602, South Africa.
+cAgricultural
+
+Research Council, Biometry, Private Bag X5026, Stellenbosch 7600, South Africa.
+
+*Corresponding
+
+author: Email address: minnaarp@arc.agric.za
+
+ABSTRACT
+Syrah must was co-inoculated with mixed cultures of Saccharomyces+O. oeni/Lb. plantarum and
+Saccharomyces+non-Saccharomyces+O. oeni/Lb. plantarum to evaluate the effect on phenolics and sensory
+attributes. Reference wines were produced by S. cerevisiae. Malvidin-3-O-glucoside, flavan-3-ols, flavonols and
+phenolic acids were quantified using a RP-HPLC technique. Physicochemical characteristics and sensory
+attributes were measured. Total acidity and alcohol in mixed co-inoculations were different from reference
+wines. The concentration of L-malic acid was 7-times less in mixed co-inoculations. Mixed co-inoculations had
+ca. 1.3-times more malvidin-3-O-glucoside and phenolic acids than reference wines. Flavan-3-ols and flavonols
+were not different between mixed co-inoculations and reference wines. Acidity and astringency were least in
+mixed co-inoculations. Mouthfeel and bitterness least in S. cerevisiae wines. Tasters preferred mixed coinoculated wines. Mixed co-inoculation is a strategy to contemplate for Syrah vinification but the modalities of
+
+1
+
+inoculation need further investigation. Success depends on a suitable combination of yeast/bacteria and
+consideration of strain variation.
+Keywords: Co-inoculation, Hanseniaspora uvarum, Lactobacillus plantarum, Metschnikowia pulcherrima,
+Oenococcus oeni, phenolics, Saccharomyces cerevisiae, Syrah.
+Chemical compounds studied
+Caffeic acid (PubChem CID: 689043); Gallic acid (PubChem CID: 370); (+)-Catechin (PubChem: 73160);
+Chlorogenic acid (PubChem CID: 1794427); p-Coumaric acid (PubChem CID: 637542); Epigallocatechin 3-Ogallate (PubChem CID: 65064); Quercetin (PubChem CID: 5280343); Quercetin 3-O-glucoside (PubChem CID:
+25203368); Quercetin 3-O-rutinoside (PubChem CID: 5280805); Malvidin-3-O-glucoside (PubChem CID:
+443652).
+1. Introduction
+Alcoholic fermentation (AF) is an essential step in the production of red wine (Costello, Francis, &
+Bartowsky, 2012). Single yeast cultures such as Saccharomyces cerevisiae are usually inoculated into grape
+must to initiate AF. Phenolic compound concentrations can be modified during AF through enzymatic reactions
+or metabolic activities of yeasts (Ribéreau-Gayon, Glories, Maujean, & Du Bourdieu, 2006). β-glucosidase is an
+enzyme responsible for catalysing the hydrolysis of glycosidic linkages in alkyl and aryl-β-D-glucosides to
+release phenolic aglycone moieties. Wine quality can be assessed by a combination of sensory (colour, aroma,
+astringency, bitterness, acidity, body, complexity, structure and mouthfeel) and chemical (flavonoids, nonflavonoids, volatile compounds and flavour profiles) analyses. Red wine made with different S. cerevisiae strains
+resulted in decreased anthocyanin concentrations (Morata, Gomez-Cordoves, Suberviola, Bartolome, & Saurez,
+2003). The decrease may have been due to yeast-anthocyanin interaction.
+Most non-Saccharomyces yeasts have limited fermentation potential, i.e. low fermentation rates as well as
+low tolerance for SO2 and pH (Du Plessis et al., 2017). Non-Saccharomyces yeasts are therefore used in
+combination with S. cerevisiae in mixed culture fermentations to finish AF and to ensure that the wines ferment
+to dryness (Benito, Calderón-Fernandez, Palomero, & Benito, 2015; Varela, Barker, Tran, Borneman, & Curtin,
+2017).
+
+2
+
+The effect of different non-Saccharomyces yeasts species on wine quality has been evaluated by Viana,
+Belloch, Vallés, & Manzanares (2011). Medina et al. (2013) found that certain positive sensory attributes of
+Chardonnay wines and quality were correlated with increased phenolic concentrations in spontaneous
+fermentations and co-fermentations with Hanseniaspora vineae. Domizio, Liu, Bisson, & Barile (2014) reported
+that mixed fermentations of non-Saccharomyces yeasts in complex metabolic matrices can result in increased
+aroma and flavour diversity with improved wine quality. However, due to incomplete sugar catabolism, such
+fermentation lacks predictability.
+Tempranillo grape must which was inoculated with S. cerevisiae in combination with Metschnikowia
+pulcherrima added after 48 hours, resulted in wines with improved mouthfeel, compared to S. cerevisiae
+reference wines (Belda et al., 2016). However, the above-mentioned wines were not significantly different in
+colour (Belda et al., 2016).
+Mixed fermentation cultures can modulate the chemical profiles of wine (Benito, Calderón-Fernandez,
+Palomero, & Benito, 2015; Minnaar et al., 2017). Grape phenolic compounds, such as anthocyanins, flavonols,
+flavan-3-ols and phenolic acids contribute to wine quality by the amelioration of colour, astringency, bitterness,
+body, mouthfeel, fullness, complexity and structure (Rodriguez-Montealegre, Romero-Peces, ChacónVozmediano, Martinez-Gascueña, & García-Romero, 2006). Viana and co-workers (2011) found that mixed
+fermentations of S. cerevisiae and Hanseniaspora uvarum (anamorph: Kloeckera apiculate) using Muscat grape
+must have the ability to improve wine flavour, however, excessive growth of H. uvarum can result in wines with
+increased volatile acidity. Hranilovic et al. (2017) reported that Shiraz wines made with S. cerevisiae and M.
+pulcherrima had less flavan-3-ols and anthocyanins, compared to Saccharomyces wines. Medina, Boido,
+Dellacassa, & Carrau (2018) reported increased concentrations of colour intensities (anthocyanins) in Tannat
+wines made with mono cultures of M. pulcherrima and Hanseniaspora opuntiae than wines made with S.
+cerevisiae. Tannat wines made with S. cerevisiae and H. uvarum had increased colour intensity but less total
+anthocyanins than S. cerevisiae wines.
+Red wine can also undergo a secondary fermentation called malolactic fermentation (MLF) using lactic acid
+bacteria (LAB), which can be induced at the beginning or during the final stages of AF or post AF (Costello,
+Francis, & Bartowsky, 2012). Malolactic fermentation leads to the enzymatic conversion of dicarboxylic L-malic
+
+3
+
+acid to monocarboxylic L-lactic acid, which results in de-acidification of wine (Pérez-Martín, Seseña, Izquierdo,
+& Palop, 2013). Certain LAB can however cause stuck fermentations or wines with increased acetic acid.
+Oenococcus oeni (O. oeni) is associated with MLF due to its tolerance to an acidic pH and increased alcohol
+content (Hernández et al., 2007). Tempranillo wines made with a combination of S. cerevisiae yeasts
+(indigenous strains) and Lactobacillus plantarum in sequential inoculations had increased concentrations of
+flavonoids and phenolic acids, compared to Saccharomyces wines (Hernández et al., 2007).
+Lactic acid bacteria can cause secondary metabolic activities during MLF that modulate the sensory attributes
+of wine with negative or positive effects on colour and mouthfeel (López et al., 2011). The effect of LAB on
+wine sensory attributes showed that it can enhance body, complexity, structure and mouthfeel of Cabernet
+Sauvignon wine (Costello, Francis, & Bartowsky, 2012). Syrah wines made with yeast and Lb. plantarum had
+more intense mouthfeel, when compared to Saccharomyces reference wines (Minnaar et al., 2017).
+Co-inoculation of Malbec grape must with H. uvarum and S. cerevisiae yeast with O. oeni, resulted in wines
+with more phenolic aroma intensity than wines without MLF (Mendoza, Merín, Morata, & Farías, 2011). López
+et al. (2011) demonstrated that the esterase and glycosidase activities of O. oeni resulted in Tempranillo wines
+with increased total phenolics and anthocyanins, compared to wines that did not undergo MLF.
+Malolactic fermentations in combination with non-Saccharomyces yeast can result in increased phenolic
+concentrations of Cabernet Sauvignon, Nero di Troia and Syrah wines (Costello, Francis, & Bartowsky, 2012;
+Suriano, Ceci, & Tamborra, 2012). Abrahamse & Bartowsky (2012) reported that mixed inoculations after MLF
+of Chardonnay, Malbec and Syrah grape musts, were not different in the final chemical composition, compared
+to wines without MLF. Burns and Osborne (2015) reported increased anthocyanin concentrations in Pinot noir
+wines that underwent MLF, when compared to wines made with S. cerevisiae. Chescheir, Philbin, & Osborne
+(2015) reported increased concentrations of phenolic acids in Pinot noir wines made with S. cerevisiae in
+combination with O. oeni as opposed to S. cerevisiae reference wines.
+Hranilovic et al. (2017) reported that colour density increased in Syrah wines of sequentially inoculated grape
+must with M. pulcherrima and S. cerevisiae, compared to wines made with mixed cultures of S. cerevisiae,
+Torulaspora delbrueckii and Lb. plantarum. Wines made with a combination of Saccharomyces, nonSaccharomyces and O. oeni in sequential inoculations, when compared to S. cerevisiae reference wines, had
+
+4
+
+increased anthocyanin concentrations (Minnaar et al., 2017). Increased concentrations of phenolic acids were
+also reported in sequentially inoculated Syrah grape must with S. cerevisiae, M. pulcherrima and H. uvarum
+after MLF.
+The aim of this study was to investigate the effect of mixed culture co-inoculation fermentations using two
+S. cerevisiae strains and two non-Saccharomyces yeasts with two lactic acid bacteria on the phenolic
+concentrations of Syrah wines. Additionally, the effect of treatment on selected sensory attributes were also
+reported on.
+2. Material and methods
+2.1. Yeast strains and lactic acid bacteria
+Two commercial S. cerevisiae yeast strains (VIN13 and NT202, Anchor Wine Yeast, South Africa), one H.
+uvarum yeast strain (ARC Infruitec-Nietvoorbij culture collection, Y0858), one M. pulcherrima yeast strain
+(ARC Infruitec-Nietvoorbij culture collection, Y0839) and two LAB strains, i.e. O. oeni (Viniflora® oenos, Chr.
+Hansen, Denmark) and Lb. plantarum (Enoferm V22, Lallemand, France) were used to inoculate Syrah grape
+must. The following abbreviations were used: S. cerevisiae VIN13 (Sc1), S. cerevisiae NT202 (Sc2), H. uvarum
+(Hu), M. pulcherrima (Mp), O. oeni (LAB1) and Lb. plantarum (LAB2).
+2.2. Fermentation process
+Handpicked Syrah grapes from vines planted to a northwest-southeast row orientation and trained to a
+vertical shoot position trellis system on the Nietvoorbij research farm near Stellenbosch (-33.914865, 18.861047)
+South Africa were utilised for vinification at the ARC’s experimental wine cellar in Stellenbosch. Grapes were
+mechanically destemmed and crushed. Grape skins and grape pulp were separated, homogenised and
+reconstituted in equal ratios into 70 L fermentation bins. Yeast assimilable nitrogen (YAN) of the grape juice
+was measured using a Foss® Winescan (IWBT, Stellenbosch University, Stellenbosch). The YAN was 133.0
+mg/L which was considered insufficient. Therefore, a standard addition of 50 g/hL diammonium hydrogen
+phosphate (DAP) was added to the juice (Minnaar, Ntushelo, Ngqumba, Van Breda, & Jolly (2015).
+Fermentations were conducted in a temperature-controlled room at ca. 24°C using a standardised winemaking
+protocol as described by Minnaar, Ntushelo, Ngqumba, Van Breda, & Jolly (2015). Treatments included S.
+
+5
+
+cerevisiae (Sc1 or Sc2) on its own (reference wines), S. cerevisiae (Sc1 or Sc2) in combination with LAB
+(LAB1 or LAB2), and non-Saccharomyces yeasts (H. uvarum or M. pulcherrima) in combination with S.
+cerevisiae (Sc1 or Sc2) and LAB (O. oeni or Lb. plantarum). All treatments were repeated independently in
+three fermentation bins.
+Metschnikowia pulcherrima and H. uvarum were inoculated as wet cultures on day 0 at a concentration of 8.4
+x 105 and 6.4 x 105 cells/mL, respectively. Rehydrated commercial S. cerevisiae (0.3 g/L active dry yeast) was
+added 24 hours later (day 1) to complete AF in the mixed culture co-inoculation fermentations, whereas 0.3 g/L
+of the active dry yeast was added on day 0 for the reference wines. Lactic acid bacteria were added to the
+ferments after 25 hours (Day 1) and all ferments that will undergo MLF were inoculated according to the
+supplier’s recommendations, before the alcoholic fermentation became tumultuous.
+The fermentation caps were punched down twice each day and all treatments were subjected to the same
+grape-pomace contact time. Wines were racked off the lees and the total SO2 adjusted to ca. 85 mg/L after
+completion of MLF. Malolactic fermentation was considered complete for the experimental wines when L-malic
+acid concentrations were below 0.3 g/L. All wines fermented to dryness (< 0.2 g/L residual sugar). Wines were
+stored at 15°C until required for analysis. The yeast and LAB populations were monitored throughout the
+duration of fermentation to ensure yeast and bacteria multiplication, which was reported by Du Plessis et al.
+(2019).
+2.3. Physicochemical characteristics
+Total soluble solids, total acidity (TA), L-malic acid and volatile acidity (VA) were analysed in the Syrah
+must using a Foss® Winescan (IWBT, Stellenbosch University, Stellenbosch). Residual sugar (RS), L-malic
+acid, pH, TA, alcohol and VA were determined on the finished wine using an OenoFoss™ analyser (FOSS
+Analytical A/S, Denmark).
+2.4. Phenolic compounds
+Phenolics were quantified using a liquid chromatographic method (RP-HPLC-DAD) as described by
+Waterhouse and co-workers (1999). Malvidin-3-O-glucosides, flavan-3-ols, flavonols and phenolic acids were
+measured at absorbance wavelengths of 520 nm, 280 nm, 360 nm, and 316 nm, respectively. Quantification of
+
+6
+
+phenolics was performed based on calibration curves using commercially available reference standards and
+matching ultra-violet absorbance spectra. Wines were filtered through a 0.45 µm nylon membrane syringe filter
+prior to analysis.
+2.5. Sensory evaluation
+A panel of twenty-four wine tasters evaluated the wines 16 months after bottling. The panellists were
+commercial winemakers and/or staff of The Fruit, Vine and Wine Institute of the Agricultural Research Council
+in Stellenbosch. Panel members had between 2 and 20 years’ experience in wine evaluation.
+Wines were evaluated (classical profiling) during three sessions (three days) in a temperature-controlled room
+at ±20°C with fluorescent light illumination. Each panellist was allocated to a separate tasting booth and ca. 30
+mL of wine was presented in a randomised order, in a standard international wine tasting glass, labelled with a
+three-digit code. Water and wheat biscuits (neutral taste) were provided to tasters for palate cleansing between
+sample tastings. The tasters rated the attributes on a 10 cm unstructured line-scale from “low” to “high” (acidity,
+astringency, preference), “thin” to “full” (mouthfeel) and “undetectable” to “prominent” (bitterness).
+2.6. Statistical analysis
+Resulting data was subjected to analysis of variance (ANOVA) using SAS version 9.4 (SAS Institute Inc.,
+Cary, USA). Fisher’s significant difference values were calculated at a 5% probability level to facilitate
+comparisons between treatment means. Means within data sets that differed at a 5% probability level were
+considered significantly different.
+3. Results and discussion
+This paper reports on the effect of different treatments, i.e. Saccharomyces/LAB and Saccharomyces/nonSaccharomyces/LAB as strategies on Syrah wine’s physiochemical characteristics, phenolics and selected
+sensory attributes.
+3.1. Yeast development
+The naturally occurring Saccharomyces and non-Saccharomyces yeast populations in the Syrah must were
+reported in Du Plessis et al. (2019). Initial yeast counts of the wines inoculated with H. uvarum and M.
+pulcherrima at day 0 were below 1 x 106 CFU/mL, but increased to levels >10 million CFU/mL after 24 h (Du
+
+7
+
+Plessis et al., 2019). However, this trend changed after inoculation of commercial S. cerevisiae yeasts (day 1),
+which resulted in the decrease of H. uvarum and M. pulcherrima cells.
+3.2. LAB development and progression of MLF
+Naturally occurring lactic acid bacteria populations in the Syrah grape must were reported by Du Plessis et al.
+(2019). The addition of commercial LAB resulted in an expected increase of LAB cells. No notable delays in MLF
+was found in the inoculated wines, despite the decrease of Lb. plantarum and O. oeni cells.
+Mixed culture co-inoculations (Sc1/Sc2) of H. uvarum completed MLF (O. oeni, Lb. plantarum) within 18 days,
+while S. cerevisiae (Sc1), completed MLF (O. oeni, Lb. plantarum) within 34 days. A delay in MLF (Sc1, Lb.
+plantarum) can be ascribed to a decrease in LAB cells. This trend was however not observed for S. cerevisiae (Sc1)
+after MLF (O. oeni), which had LAB cell count of >1 x 106 CFU/mL throughout the fermentation (Du Plessis et al.,
+2019).
+3.3. Physicochemical characteristics
+The physicochemical characteristics of Syrah must and wine are listed in table 1. Total acidity and L-malic
+acid were 7.43 g/L and 3.1 g/L, respectively in grape must with a pH of 3.57, compared to fermented must of 4.9
+g/L and 0.5 g/L, respectively and a pH of 3.8. Saccharomyces cerevisiae (Sc1) after MLF, significantly
+increased the total acidity, compared to reference fermentations (Sc1) and mixed culture co-inoculations after
+MLF. Mixed culture co-inoculated fermentations had 4.74 g/L total acidity, compared to 5.25 g/L for Sc1 after
+MLF and 4.90 g/L for reference fermentations.
+In mixed culture co-inoculations of H. uvarum after MLF (Sc2), total acidity was 4.69 g/L, compared 4.84
+g/L for M. pulcherrima, 5.04 g/L for S. cerevisiae wines after MLF and 4.99 g/L for reference fermentations
+(Table 2). Hranilovic et al. (2017) reported reduced acetic acid production in mixed co-inoculations of T.
+delbrueckii/S. cerevisiae, Lb. thermotolerans/S. cerevisiae and S. cerevisiae/Lb. thermotolerans/T. delbrueckii,
+compared to S. cerevisiae reference wines. Puertas et al. (2018) found increased concentrations of total acidity in
+Chardonnay wines made with S. cerevisiae, compared to sequentially inoculated must with S. cerevisiae/T.
+delbrueckii. The production of acid during AF is however dependent on the initial sugar concentration of the
+must.
+
+8
+
+Reference fermentations (Sc1/Sc2) and S. cerevisiae wines after MLF had an average of 13.69% alcohol content,
+compared to mixed culture co-inoculations after MLF of 12.46%. Morales and co-workers (2019) reported
+increased alcohol in wines made with S. cerevisiae as compared to co-inoculated ferments. Puertas et al. (2018)
+reported increased concentrations of alcohol in Chardonnay wines made with S. cerevisiae, compared to coinoculated must with S. cerevisiae/T. delbrueckii. Inoculated strategy was however sequential.
+Saccharomyces cerevisiae (Sc1/Sc2) wines after MLF had an average of 0.21 g/L malic acid (L), whereas
+wines of mixed culture co-inoculations had an average of 0.26 g/L. Reference fermentations (Sc1/Sc2) had an
+average L-malic acid content of 1.76 g/L. Hranilovic et al. (2017) reported decreased L-malic acid
+concentrations in mixed co-inoculation fermentations in comparison to S. cerevisiae fermentations.
+Volatile acidity and pH were not significantly different among any of the fermentations (Sc1/Sc2), including
+reference fermentations. This agrees with work by Puertas et al. (2018) where Chardonnay must was coinoculated with S. cerevisiae/T. delbrucekii. All wines including reference wines (Sc1/Sc2) fermented to dryness
+with RS less than 0.2 g/L.
+
+9
+
+Table 1
+Physicochemical characteristics of wines obtained by alcoholic and malolactic of co-inoculated fermentations using mixed cultures of Saccharomyces (Sc1), nonSaccharomyces and lactic acid bacteria
+Physicochemical characteristics
+
+Syrah must
+
+Reference (S. cerevisiae)
+
+S. cerevisiae/MLF
+
+S. cerevisiae/co-inoculations/MLF
+
+Sc1
+
+Sc1+LAB1
+
+Sc1+LAB2
+
+Mp +Sc1+LAB1
+
+Mp+Sc1+LAB2
+
+Hu5+Sc1+LAB1
+
+Hu+Sc1+LAB2
+
+4.90*±0.32b**
+
+5.39±0.34a
+
+5.11±0.04a
+
+4.71±0.63c
+
+4.78±0.09c
+
+4.76±0.07c
+
+4.73±0.05c
+
+1
+
+2
+
+3
+
+4
+
+Total acidity (g/L)
+
+7.43
+
+pH
+
+3.57
+
+3.82±0.09a
+
+3.77±0.11a
+
+3.88±0.01a
+
+3.81±0.07a
+
+3.89±0.04a
+
+3.74±0.07a
+
+3.81±0.01a
+
+Alcohol (% v/v)
+
+ND
+
+13.54±0.35a
+
+13.51±0.44a
+
+13.57±0.37a
+
+12.49±1.23b
+
+12.41±1.16b
+
+12.11±0.27b
+
+12.76±0.61b
+
+L-malic acid (g/L)
+
+3.1
+
+2.02±0.11a
+
+0.21±0.02c
+
+0.22±0.05c
+
+0.26±0.03b
+
+0.24±0.07b
+
+0.28±0.03b
+
+0.27±0.04b
+
+Volatile acidity (g/L)
+
+0.44
+
+0.31±0.03a
+
+0.27±0.02a
+
+0.33±0.01a
+
+0.31±0.03a
+
+0.29±0.03a
+
+0.25±0.02a
+
+0.32±0.01a
+
+°Brix
+
+23.0
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+Residual sugar (g/L)
+
+NA
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+Different letters in the same row indicate significant differences in the content of the measured parameters among the different treatments according to Fischer’s least significant difference test (p ≤ 0.05)
+Standard deviation
+1Saccharomyces cerevisiae (Sc1 [VIN13], reference)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+N A: Not applicable
+N D: Not detected
+*
+
+**
+
+10
+
+Table 2
+Physicochemical characteristics of wines obtained by alcoholic and malolactic of co-inoculated fermentations using mixed cultures of Saccharomyces (Sc2), nonSaccharomyces and lactic acid bacteria
+Physicochemical characteristics
+
+Syrah must
+
+Reference (S. cerevisiae)
+Sc21
+
+S. cerevisiae/MLF
+
+S. cerevisiae/co-inoculations/MLF
+
+Sc2+LAB12
+
+Sc2+LAB23
+
+Mp4+Sc2+LAB1
+
+Mp+Sc2+LAB2
+
+Hu5+Sc2+LAB1
+
+Hu+Sc2+LAB2
+
+Total acidity (g/L)
+
+7.43
+
+4.99 ±0.18a
+
+5.11±0.20a
+
+4.98±0.05a
+
+4.86±0.07ba
+
+4.83±0.03ba
+
+4.73±0.15c
+
+4.66±0.12c
+
+pH
+
+3.57
+
+3.78±0.05a
+
+3.76±0.08a
+
+3.82±0.02a
+
+3.83±0.02a
+
+3.86±0.02a
+
+3.79±0.04a
+
+3.85±0.04a
+
+Alcohol (% v/v)
+
+ND
+
+13.84±0.34a
+
+14.03±0.27a
+
+13.65±0.32a
+
+12.26±0.15b
+
+12.74±0.48b
+
+12.22±0.01b
+
+12.75±0.72b
+
+L-malic acid (g/L)
+
+3.1
+
+1.51±0.05a
+
+0.22±0.03c
+
+0.21±0.05c
+
+0.28±0.08b
+
+0.27±0.06b
+
+0.24±0.06b
+
+0.25±0.07b
+
+Volatile acidity (g/L)
+
+0.44
+
+0.39±0.02a
+
+0.41±0.01a
+
+0.39±0.02a
+
+0.38±0.01a
+
+0.40±0.01a
+
+0.43±0.02a
+
+0.39±0.02a
+
+°Brix
+
+23.0
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+Residual sugar (g/L)
+
+NA
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+< 0.2
+
+*
+
+**
+
+Different letters in the same row indicate significant differences in the content of the measured parameters among the different treatments according to Fischer’s least significant difference test (p ≤ 0.05).
+**Standard deviation
+1Saccharomyces cerevisiae (Sc2 [NT202], reference)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+N A: Not applicable
+N D: Not detected
+*
+
+11
+
+3.4. Phenolic compounds
+3.4.1. Phenolic acids
+Mixed culture co-inoculations (Sc1) of H. uvarum after MLF, significantly increased gallic, caffeic, pcoumaric and chlorogenic acids, compared to reference fermentations, S. cerevisiae wines after MLF and mixed
+culture co-inoculations of M. pulcherrima after MLF (Table 3). Reference fermentations (Sc1) had 17.84 mg/L
+caffeic and 18.49 mg/L chlorogenic acid as opposed to 27.94 mg/L caffeic and 32.49 mg/L chlorogenic acid in S.
+cerevisiae wines after MLF and 30.07 mg/L caffeic and 31.35 mg/L chlorogenic acid in mixed culture coinoculations.
+Mixed culture co-inoculations (Sc2) after MLF, significantly increased gallic, p-coumaric and chlorogenic
+acids in comparison to reference fermentations and S. cerevisiae wines after MLF (Table 4). Caffeic acid was
+not significantly different among any of the fermentations, including reference fermentations.
+Mixed culture co-inoculations (Sc1) of H. uvarum after MLF, significantly increased the total phenolic acids,
+compared to the rest of the fermentations. For Sc2 wines, mixed culture co-inoculations of M. pulcherrima and
+H. uvarum after MLF had increased concentrations of total phenolic acids. Total phenolic acids ranged from
+83.52 mg/L- 108.27 mg/L for mixed culture co-inoculation after MLF. Saccharomyces cerevisiae (Sc1/Sc2)
+wines after MLF ranged from 80.59 mg/L-84.59 mg/L, whereas reference fermentations ranged from 61.65
+mg/L-73.21 mg/L.
+Phenolic acids quantified in the wines represent ca. 50% of the total phenolics in the different fermentations,
+including reference fermentations. Hernández et al. (2007), Chescheir, Philbin, & Osborne (2015) and Minnaar
+et al. (2017) reported increased concentrations of phenolic acids after MLF in Tempranillo, Pinot noir and Syrah
+wines respectively, in sequential inoculations of the grape musts using Saccharomyces and non-Saccharomyces
+yeast after MLF. These increased concentrations of phenolic acids indicate that there may have been other
+sources of phenolic acids in grapes, which most likely originated through the hydrolysis of cinnamoyl-glucoside
+anthocyanins or from other hydroxycinnamic derivatives by the LAB’s enzymatic activity (Hernández et
+al., 2007). Work by Boido, Lloret, Medina, Carrau, & Dellacassa (2002) reported changes in the glycoside
+
+12
+
+content of Tannat wines during MLF. Medina, Boido, Dellacassa, & Carrau (2018) describe LAB as a potential
+source of glycosidic activity.
+
+3.4.2. Flavan-3-ols
+Mixed culture co-inoculations (Sc1/Sc2) of H. uvarum after MLF, significantly increased epigallocatechin 3O-gallate (EGCG) concentrations, compared to the rest of the fermentations, including reference fermentations
+(Tables 3 and 4). Saccharomyces cerevisiae (Sc1/Sc2) after MLF and mixed culture co-inoculations of M.
+pulcherrima and H. uvarum after MLF were significantly different among each other in EGCG concentrations.
+Mixed culture co-inoculations (Sc1) after MLF had (+)-catechin levels of 5.89 mg/L, compared to 6.85 mg/L
+in reference fermentations and S. cerevisiae (Sc1) wines after MLF (Table 3). However, for Sc2 wines, increased
+(+)-catechin concentrations in mixed culture co-inoculations after MLF were found, compared to reference
+fermentations and S. cerevisiae wines after MLF (Table 4). Total flavan-3-ols were 7.03 mg/L in mixed culture
+co-inoculations (Sc1) of M. pulcherrima after MLF, compared to 8.06 mg/L in H. uvarum and 8.15 mg/L in S.
+cerevisiae and reference wines. Contrary to the above, mixed culture co-inoculations (Sc2) of M. pulcherrima
+and H. uvarum had 7.9 mg/L of total flavan-3-ols as opposed to 6.11 mg/L in S. cerevisiae wines after MLF and
+5.82 mg/L in reference fermentations. Syrah wines made with mixed co-inoculations of S. cerevisiae/Lb.
+thermotolerans/T. delbrueckii had decreased concentrations of total flavan-3-ols, compared to S. cerevisiae
+wines (Hranilovic et al., 2017). MLF was however not induced. This is in contrast to results reported in this
+paper. Aglianico red wines co-inoculated with S. cerevisiae and Lb. plantarum (MLF) had increased levels of
+proanthocyanidins as opposed to S. cerevisiae wines (Suriano, Savino, Basile, Tarricone, & Di Gennario, 2015).
+Work by Suriano and co-workers (2015) is in agreement with results of this paper, however, Aglianico grape
+cultivar was under study. Total flavan-3-ol concentrations ranged from 6.95 mg/L-8.62 mg/L for mixed culture
+co-inoculations after MLF. Fermentations of S. cerevisiae after MLF ranged from 5.98 mg/L-8.23 mg/L,
+whereas reference fermentations ranged from 5.82 mg/L-8.23 mg/L.
+3.4.3. Flavonols
+
+13
+
+Mixed culture co-inoculations (Sc1) of H. uvarum after MLF had 4.73 mg/L rutin and 1.71 mg/L
+isoquercetin, compared to 3.62 mg/L and 1.44 mg/L in mixed culture co-inoculations of M. pulcherrima with
+3.43 mg/L and 1.35 mg/L in S. cerevisiae wines after MLF (Table 3). Reference fermentations had decreased
+concentrations of rutin and isoquercetin. Saccharomyces cerevisiae (Sc2) wines after MLF contained on average
+4.48 mg/L rutin in comparison to 3.83 mg/L for reference wines and 3.28 mg/L for mixed culture co-inoculation
+fermentations of M. pulcherrima and 2.47 mg/L for H. uvarum. Isoquercetin reached a concentration of 1.38
+mg/L in S. cerevisiae (Sc2) wines after MLF, 1.31 mg/L in mixed culture co-inoculations and 1.20 mg/L in
+reference fermentations.
+Mixed culture co-inoculations of M. pulcherrima (Sc1/Sc2) after MLF were limited to an average of 1.86
+mg/L quercetin, whereas S. cerevisiae wines after MLF and reference fermentations, contained an average of
+2.46 mg/L. Hernández et al. (2007) reported increased concentrations of myricetin and quercetin in Tempranillo
+wines that underwent MLF. Romboli, Mangani, Buscioni, Granchi, & Vincenzini (2015) found increased
+concentrations of quercetin but a reduction of quercetin 3-O-glucoside in Sangiovese wines inoculated with
+Candida zemplinina (St. bacillaris)/S. cerevisiae, compared to S. cerevisiae wines. Grape must was however
+sequentially inoculated. Izquierdo-Cañas and co-workers (2016) found decreased levels of quercetin 3-Oglucoside, quercetin 3-O-rutinoside and quercetin in Petit Verdot wines made with S. cerevisiae after MLF (O.
+oeni), compared to S. cerevisiae wines without MLF. This is in contrast to result of this paper. Quercetin
+concentrations in S. cerevisiae wines after MLF increased.
+Total flavonols in mixed culture co-inoculations of M. pulcherrima (Sc1) after MLF and reference
+fermentations were both 6.80 mg/L in comparison to 7.33 mg/L in S. cerevisiae wines after MLF and 8.23 mg/L
+in mixed culture co-inoculations of H. uvarum after MLF. Contrary to Sc1 fermentations, S. cerevisiae (Sc2)
+wines after MLF had more total flavonols than mixed culture co-inoculations after MLF, including reference
+fermentations. Significantly less total flavonols were found in mixed culture co-inoculations of M. pulcherrima
+(Sc1 and Sc2) and H. uvarum (Sc2) after MLF, compared to S. cerevisiae wines (Sc1 and Sc2) after MLF.
+Tristezza et al. (2016) found increased concentrations of total flavonols in Negroamaro wines co-inoculated with
+H. uvarum/S. cerevisiae, compared to S. cerevisiae wines. Vinification was however on a micro-scale. Total
+flavonol concentrations ranged from 6.40-8.34 mg/L for mixed culture co-inoculations after MLF. Fermentations
+
+14
+
+of S. cerevisiae after MLF ranged from 7.26 mg/L-8.25 mg/L, whereas reference fermentations ranged from 6.80
+mg/L-7.43 mg/L.
+3.4.4. Malvidin-3-O-glucoside
+Mixed culture co-inoculations (Sc1) of M. pulcherrima after MLF had 81.93 mg/L malvidin-3-O-glucoside in
+comparison to an average of 65.78 mg/L for the rest of the fermentations (Table 3). Mixed culture coinoculations of M. pulcherrima and H. uvarum (Sc2) after MLF had an average of 79.86 mg/L malvidin-3-Oglucoside, compared to 56.58 mg/L in S. cerevisiae wines after MLF and 51.63 mg/L in reference fermentations
+(Table 4). Malvidin-3-O-glucoside concentrations ranged from 67.33-82.31 mg/L for mixed culture coinoculations after MLF. Saccharomyces cerevisiae wines after MLF ranged from 56.0 mg/L-65.53 mg/L,
+whereas reference fermentations ranged from 51.63 mg/L-63.49 mg/L. Saccharomyces cerevisiae wines after
+MLF and mixed culture co-inoculations after MLF had between 20.8% and 59.4% more malvidin 3-O-glucoside
+respectively, compared to reference fermentations. This is in agreement with work by Burns and Osborne (2015)
+and Minnaar et al. (2017) who reported increased malvidin-3-O-glucosides in Pinot noir and Syrah wines,
+respectively of mixed culture inoculations after MLF, compared to fermentations with Saccharomyces. Kwaw et
+al. (2018) inoculated Mulberry juice with Lb. plantarum, Lb. acidophilus and Lb. paracasei. The results showed
+that lactic acid fermentation impacted on the colour of the juice. Furthermore, the study showed that LAB
+positively affected the phenolic profile of the juice.
+The decreased concentrations of malvidin-3-O-glucosides in reference fermentations and S. cerevisiae wines
+(Sc1/Sc2) after MLF can be due to excessive adsorption of free anthocyanin molecules onto yeast cell walls as
+proposed by Guadalupe, Martinez, & Ayestaran (2010). Interaction of yeast mannoproteins and arabinogalactans
+with anthocyanins could be another cause of the decrease in malvidin-3-O-glucosides or the reaction with cell
+wall proteins. Conversely, the reduced malvidin-3-O-glucosides in reference fermentations indicate that the
+sugar moiety of malvidin-3-O-glucoside was most likely metabolised by S. cerevisiae.
+Mixed culture co-inoculations (Sc1) of H. uvarum contained an average of 187.58 mg/L total phenolics,
+while mixed culture co-inoculations of M. pulcherrima were limited to 178.97 mg/L. S. cerevisiae wines after
+MLF and reference fermentations had an average 165.00 mg/L and 140.11 mg/L, respectively. For Sc2 wines,
+
+15
+
+mixed culture co-inoculations of M. pulcherrima and H. uvarum contained an average of 191.07 mg/L total
+phenolics, followed by S. cerevisiae wines after MLF with 152.55 mg/L and reference fermentations of 138.10
+mg/L. Suriano, Savino, Basile, Tarricone and Di Gennario (2015) reported increased concentrations of total
+phenolics in Aglianico mixed culture co-inoculations, compared to S. cerevisiae fermentations. Contrary to work
+by Suriano and co-workers (2015) and result reported in this paper; Abrahamse and Bartowsky (2012) reported
+decreased levels of total phenolics in S. cerevisiae Syrah wines after MLF (O. oeni) than wines without MLF.
+Total phenolics in mixed culture co-inoculations reported in this paper were ca. 1.4 times more than reference
+fermentations, whereas S. cerevisiae wines after MLF were ca. 1.2 times more than reference wines.
+
+16
+
+Table 3
+Average concentrations of phenolic compounds (mg/L) of wines obtained by alcoholic and malolactic co-inoculated fermentations using mixed cultures of
+Saccharomyces (Sc1), non-Saccharomyces and lactic acid bacteria
+Reference (S. cerevisiae)
+
+Phenolics
+
+Sc11
+
+S. cerevisiae/MLF
+Sc1+LAB12
+
+Sc1+LAB23
+
+S. cerevisiae/co-inoculations/MLF
+Mp4+Sc1+LAB1
+
+Mp+Sc1+LAB2
+
+Hu5+Sc1+LAB1
+
+Hu+Sc1+LAB2
+
+Gallic acid (THBA )
+
+2.45 ±1.44c
+
+2.45±1.05c
+
+2.34±1.23c
+
+2.67±3.23b
+
+2.67±1.64b
+
+2.83±2.15a
+
+2.89±1.26a
+
+Caffeic acid (HCA7)
+
+17.84±1.12d
+
+27.80±2.25b
+
+27.94±1.89b
+
+28.60±2.88b
+
+28.14±1.46b
+
+31.09±0.15a
+
+32.46±1.06a
+
+6
+
+*
+
+**
+
+p-Coumaric acid (HCA7)
+
+22.86±2.97c
+
+21.69±2.12c
+
+21.03±0.59c
+
+26.31±4.24b
+
+25.06±2.31b
+
+34.62±2.38a
+
+35.37±1.69a
+
+Chlorogenic acid (ester of HCA7, two isomers)
+
+18.49±1.52d
+
+32.64±0.15b
+
+32.34±2.95b
+
+25.93±0.72c
+
+25.90±2.84c
+
+36.04±0.38a
+
+37.54±4.55a
+
+Phenolic acids
+
+61.65c
+
+84.59b
+
+83.68b
+
+83.52b
+
+83.79b
+
+104.60a
+
+108.27a
+
+Epigallocatechin 3-O-gallate (ester of EGC8)
+
+1.29±1.67c
+
+1.29±1.05c
+
+1.33±2.42c
+
+1.57±1.58b
+
+1.45±1.98b
+
+1.79±2.17a
+
+1.87±0.11a
+
+(+)-Catechin
+
+6.86±0.38a
+
+6.94±0.55a
+
+6.77±0.19a
+
+5.62±0.47c
+
+5.49±1.53c
+
+6.34±1.37b
+
+6.12±0.62b
+
+Flavan-3-ols
+
+8.15a
+
+8.23a
+
+8.10a
+
+7.19b
+
+6.95b
+
+8.13a
+
+8.00a
+
+Quercetin 3-O-rutinoside (rutin)
+
+2.94±1.76c
+
+3.34±0.17b
+
+3.53±0.30b
+
+3.52±0.11b
+
+3.72±0.80b
+
+4.75±0.42a
+
+4.72±0.49a
+
+Quercetin 3-O-glucoside (isoquercetin)
+
+1.26±2.68c
+
+1.35±1.01b
+
+1.35±1.97b
+
+1.47±1.29b
+
+1.41±3.71b
+
+1.81±1.21a
+
+1.62±0.93a
+
+Quercetin
+
+2.60±3.93a
+
+2.56±4.38a
+
+2.50±2.92a
+
+1.74±2.39b
+
+1.72±1.95b
+
+1.78±1.19b
+
+1.76±2.17b
+
+Flavonols
+
+6.80c
+
+7.26b
+
+7.39b
+
+6.74c
+
+6.86c
+
+8.34a
+
+8.12a
+
+63.49±9.71b
+
+65.53±2.97b
+
+65.21±1.46b
+
+82.31±4.04a
+
+81.55±6.37a
+
+67.35±4.62b
+
+67.33±5.94b
+
+140.11d
+
+165.63c
+
+164.39c
+
+179.77b
+
+178.17b
+
+188.43a
+
+191.74a
+
+Malvidin-3-O-glucoside (anthocyanin)
+Total phenolics
+
+Different letters in the same row indicate significant differences in the content of the measured phenolic compounds among the different treatments according to Fischer’s least significant difference test (p ≤
+
+*
+
+0.05).
+
+Standard deviation
+Saccharomyces cerevisiae (Sc1 [VIN13], reference wine)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+6Trihydroxybenzoic acid
+7Hydroxycinnamic acid
+8Epigallocatechin
+**
+1
+
+17
+
+Table 4
+Average concentrations of phenolic compounds (mg/L) of wines obtained by alcoholic and malolactic co-inoculated fermentations using mixed cultures of
+Saccharomyces (Sc2), non-Saccharomyces and lactic acid bacteria
+Reference (S. cerevisiae)
+
+Phenolics
+
+Sc21
+
+S. cerevisiae/MLF
+Sc2+LAB12
+
+Sc2+LAB23
+
+S. cerevisiae/co-inoculations/MLF
+Mp4+Sc2+LAB1
+
+Mp+Sc2+LAB2
+
+Hu5+Sc2+LAB1
+
+Hu+Sc2+LAB2
+
+Gallic acid (THBA )
+
+1.99 ±2.27b
+
+1.95±1.62b
+
+1.76±0.83b
+
+2.15±0.91a
+
+2.15±1.39a
+
+2.41±2.40a
+
+2.23±1.93a
+
+Caffeic acid (HCA7)
+
+26.87±3.37a
+
+29.68±1.50a
+
+28.05±1.53a
+
+26.07±3.39a
+
+26.28±0.45a
+
+27.60±1.47a
+
+27.41±1.41a
+
+p-Coumaric acid (HCA7)
+
+22.66±1.30b
+
+24.47±1.81b
+
+23.84±2.03b
+
+31.60±2.73a
+
+31.08±3.68a
+
+33.93±1.08a
+
+33.52±1.29a
+
+Chlorogenic acid (ester of HCA7, two isomers)
+
+21.68±1.67c
+
+26.43±0.87b
+
+26.93±2.26b
+
+35.33±0.46a
+
+34.34±2.13a
+
+36.38±1.36a
+
+36.70±0.31a
+
+6
+
+Phenolic acids
+
+*
+
+**
+
+73.21c
+
+82.55b
+
+80.59b
+
+95.16a
+
+93.86a
+
+97.92a
+
+99.86a
+
+Epigallocatechin 3-O-gallate (ester of EGC8)
+
+0.85±4.60d
+
+1.47±2.62c
+
+1.43±0.24c
+
+1.63±0.70b
+
+1.62±0.71b
+
+2.38±0.45a
+
+2.58±0.56a
+
+(+)-Catechin
+
+4.97±0.45d
+
+4.78±0.16d
+
+4.55±0.62d
+
+5.59±0.33b
+
+5.55±0.48b
+
+6.20±0.17a
+
+6.04±0.45a
+
+Flavan-3-ols
+
+5.82d
+
+6.24c
+
+5.98c
+
+7.22b
+
+7.17b
+
+8.59a
+
+8.62a
+
+Quercetin 3-O-rutinoside (rutin)
+
+3.83±0.83b
+
+4.47±0.47a
+
+4.50±0.56a
+
+3.32±0.21c
+
+3.24±0.37c
+
+2.50±0.26d
+
+2.44±0.19d
+
+Quercetin 3-O-glucoside (isoquercetin)
+
+1.20±1.77b
+
+1.39±1.83a
+
+1.38±2.10a
+
+1.31±0.63a
+
+1.51±1.53a
+
+1.21±1.68b
+
+1.24±2.13b
+
+Quercetin
+
+2.39±1.28b
+
+2.36±4.32b
+
+2.36±2.57b
+
+1.95±1.02c
+
+2.03±2.14c
+
+2.96±2.92a
+
+2.71±2.07a
+
+Flavonols
+
+7.43b
+
+8.23a
+
+8.25a
+
+6.59c
+
+6.79c
+
+6.68c
+
+6.40c
+
+51.63±2.68c
+
+56.05±2.97b
+
+57.21±1.46b
+
+81.66±4.04a
+
+82.11±6.37a
+
+78.35±4.62a
+
+77.33±5.94a
+
+138.10c
+
+153.07b
+
+152.04b
+
+190.65a
+
+189.94a
+
+191.55a
+
+192.24a
+
+Malvidin-3-O-glucoside (anthocyanin)
+Total phenolics
+
+Different letters in the same row indicate significant differences in the content of the measured phenolic compounds among the different treatments according to Fischer’s least significant difference test (p ≤
+
+*
+
+0.05).
+
+Standard deviation
+Saccharomyces cerevisiae (Sc2 [NT202], reference wine)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+6Trihydroxybenzoic acid
+7Hydroxycinnamic acid
+8Epigallocatechin
+**
+1
+
+18
+
+3.5. Sensory analysis
+The perception of acidity for S. cerevisiae wines (Sc1) after MLF was 47.3%, followed by mixed culture coinoculations of 48.5%, compared to reference fermentation of 53.9%. Contrary to Sc1 fermentations, mixed
+culture co-inoculations (Sc2) scored 46.7% in acidity perception, S. cerevisiae wines after MLF scored 47.71%
+and references fermentations 50.8%. Reference fermentations, both Sc1 and Sc2, were significantly different
+from the rest of the fermentations.
+Fermentations of mixed culture co-inoculations of Sc1 and Sc2, after MLF, scored an average of 51.7% and
+55.3% respectively in mouthfeel, followed by S. cerevisiae after MLF of 47.1% and 52.6%, respectively.
+Mixed culture co-inoculations of Sc1 and Sc2, after MLF scored an average of 40.0% and 37.5%
+respectively, in astringency, compared to 44.3% and 41.5% of S. cerevisiae wines after MLF, respectively.
+Hranilovic et al. (2017) reported that S. cerevisiae and non-Saccharomyces combination wines (M. pulcherrima)
+to be more astringent than S. cerevisiae reference wines.
+Bitterness in mixed culture co-inoculations (Sc1) after MLF scored an average of 29.5%. Conversely to the
+Sc1 fermentations, mixed culture co-inoculations (Sc2) after MLF scored 32.3% in bitterness. Hranilovic and coworkers (2017) reported that mixed cultures co-inoculations of Syrah wines with S. cerevisiae/T. delbrueckii/Lb.
+thermotolerans were more bitter than non-Saccharomyces mono-culture fermentations and S. cerevisiae
+ferments. This is in agreement with results reported in this paper for Sc2 mixed culture co-inoculations. S.
+cerevisiae wines (Sc1) after MLF scored 38.0% and reference wines scored 34.7% in bitterness. S. cerevisiae
+wines (Sc2) after MLF, scored 27.7% and reference wines 27.9% in bitterness. Mixed culture co-inoculations
+after MLF were perceived as better “quality”, compared to reference fermentations and S. cerevisiae wines after
+MLF.
+
+19
+
+Table 5
+Average percentage scores of sensory attributes of wines obtained by alcoholic and malolactic co-inoculated fermentations using mixed cultures of Saccharomyces
+(Sc1), non-Saccharomyces and lactic acid bacteria
+Sensory attributes
+
+Reference (S. cerevisiae)
+
+S. cerevisiae/MLF
+
+S. cerevisiae/co-inoculations/MLF
+
+Sc1
+
+Sc1+LAB1
+
+Sc1+LAB2
+
+Mp +Sc1+LAB1
+
+Mp+Sc1+LAB2
+
+Hu5+Sc1+LAB1
+
+Hu+Sc1+LAB2
+
+53.9*±1.22a**
+
+47.2±2.23c
+
+47.3±2.11c
+
+48.4±0.97b
+
+48.5±0.99b
+
+48.4±1.12b
+
+48.6±2.01b
+
+Mouthfeel
+
+45.2±0.89c
+
+47.4±1.44b
+
+46.8±0.98b
+
+52.1±1.09a
+
+51.5±0.78a
+
+51.7±1.01a
+
+51.3±1.45a
+
+Astringency
+
+42.1±1.11ba
+
+44.9±1.89a
+
+43.7±0.99a
+
+40.3±1.19c
+
+40.4±1.45c
+
+39.6±2.02c
+
+39.8±2.02c
+
+Bitterness
+
+34.7±2.34ba
+
+38.2±2.11a
+
+37.9±1.12a
+
+30.1±2.01c
+
+29.1±1.89c
+
+29.7±2.01c
+
+29.0±1.44c
+
+Preference (quality)
+
+51.0±1.21c
+
+53.9±2.32b
+
+53.0±1.09b
+
+55.9±1.11a
+
+55.6±0.98a
+
+56.9±11.0a
+
+55.8±2.34a
+
+Acidity
+
+1
+
+2
+
+3
+
+4
+
+Different letters in the same row indicate significant differences in the content of the measured compounds among the different treatments according to Fischer’s least significant difference test (p < 0.05)
+Standard deviation
+1Saccharomyces cerevisiae (Sc1, [VIN13], reference wine)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+*
+
+**
+
+20
+
+Table 6
+Average percentage scores of sensory attributes of wines obtained by alcoholic and malolactic co-inoculated fermentations using mixed cultures of Saccharomyces
+(Sc2), non-Saccharomyces and lactic acid bacteria
+Sensory attributes
+
+Reference (S. cerevisiae)
+
+S. cerevisiae/MLF
+
+S. cerevisiae/co-inoculations/MLF
+
+Sc2
+
+Sc2+LAB1
+
+Sc2+LAB2
+
+Mp +Sc2+LAB1
+
+Mp+Sc2+LAB2
+
+Hu5+Sc2+LAB1
+
+Hu+Sc2+LAB2
+
+50.8*±2.01a**
+
+47.0±2.11b
+
+48.3±1.98b
+
+46.0±2.22c
+
+46.1±2.88c
+
+47.4±1.99c
+
+47.5±2.44b
+
+Mouthfeel
+
+50.0±1.23c
+
+52.7±0.98b
+
+52.5±2.02b
+
+55.0±2.09a
+
+55.3±2.43a
+
+55.7±2.22a
+
+55.3±1.89a
+
+Astringency
+
+42.0±1.89a
+
+41.7±1.44a
+
+41.2±2.44a
+
+38.0±1.89b
+
+37.3±1.22b
+
+37.4±2.08b
+
+37.1±1.79b
+
+Bitterness
+
+27.9±2.03b
+
+27.4±1.09b
+
+27.9±1.88b
+
+31.6±1.22a
+
+31.8±2.01a
+
+32.9±2.23a
+
+32.8±2.77a
+
+Preference (quality)
+
+52.0±2.45d
+
+54.1±2.33c
+
+56.2±1.99c
+
+61.5±2.11b
+
+60.5±2.11b
+
+64.0±1.34a
+
+63.6±1.99a
+
+Acidity
+
+1
+
+2
+
+3
+
+4
+
+Different letters in the same row indicate significant differences in the content of the measured compounds among the different treatments according to Fischer’s least significant difference test (p < 0.05)
+Standard deviation
+1Saccharomyces cerevisiae (Sc2, [NT202], reference wine)
+2LAB1: Oenococcus oeni
+3LAB2: Lactobacillus plantarum
+4Metschnikowia pulcherrima
+5Hanseniaspora uvarum
+*
+
+**
+
+21
+
+Mixed culture co-inoculations after MLF had on average 187.8 mg/L total phenolics, compared to 152.2 mg/L
+and 49.1 mg/L for S. cerevisiae after MLF and reference fermentations, respectively. Mixed culture coinoculations after MLF can also lead to an increased aroma and flavour profile, thereby improving wine quality
+(Jolly, Varela, & Pretorius, 2014). The tasters preferred mixed culture co-inoculated (Sc1) wines, possibly owing
+to their less astringent and bitterness and improved mouthfeel. Tasters, however, also preferred mixed culture coinoculation (Sc2) wines, probably because of their decreased astringency and increased mouthfeel. The effect of
+non-Saccharomyces and LAB on sensory attributes may involve the modulation of interacting phenolics, the
+extent to which may depend upon yeast/bacterial strain and wine chemical composition (López et al., 2011).
+Differences in phenolics can also be a function of differential or partial adsorption capacities between yeast
+strains. However, Azzolini et al. (2012) reported no differences in the sensory properties of wines after MLF, as
+opposed to wines without MLF. Contrary to Azzolini et al. (2012); Gerbaux and Briffox (2003) reported a loss
+of colour in Pinot noir wines after MLF. López et al. (2011) reported that the use of commercial LAB offers less
+risk compared to spontaneous MLF, and also positively affects the sensory profile of the wine, thereby
+increasing the complexity of the wine. The use of yeast strains and LAB that adsorb fewer phenolics onto their
+cell walls, compared to yeasts/bacteria that adsorb more phenolics, may also be beneficial for red wine colour
+(Morata, Gomez-Cordoves, Suberviola, Bartolome, & Saurez, 2003). Certain yeasts may also improve the
+wine’s body, mouthfeel, complexity, structure and fullness by releasing polysaccharides and producing glycerol
+(Domizio, Liu, Bisson, Barile, 2014; Belda et al., 2016).
+4. Conclusions
+The effect of mixed culture co-inoculations on the physicochemical characteristics, phenolics and sensory
+attributes of Syrah wines was investigated. Mixed culture co-inoculations strategies of Syrah grape must with
+non-Saccharomyces, Saccharomyces and LAB resulted in wines with reduced alcohol and ameliorated phenolics
+and sensory attributes, when compared to reference wines.
+Mixed culture co-inoculations using S. cerevisiae cultures together with non-Saccharomyces and LAB
+present a practical way to improve the quality (preference) of Syrah wines. No negative effects of mixed culture
+co-inoculated MLF on the vinification process of the wines were found. Furthermore, the results indicate a
+
+22
+
+technological advantage in applying this protocol for phenolic acids, flavan-3-ols, flavonols and malvidin-3-Oglucoside with increased concentration in the wines other than reference wines, but is dependent on the yeast and
+LAB strains used. The results also suggest that mixed culture co-inoculations are feasible strategies to consider
+for Syrah wines in comparison to AF, but success is subject to the selection of the yeast/LAB combination. The
+use of other red grape cultivars may have a different outcome using the identified yeast/LAB combination
+strategy. The interactions between different yeasts and LAB during fermentation and the modalities of
+inoculation are complex and therefore need further investigation.
+Acknowledgements
+The authors thank the Agricultural Research Council, Winetech and the National Research Foundation of
+South Africa (THRIP programme; grant numbers UID 71526 and 86086) for funding. The opinions, findings and
+conclusions expressed in this paper are those of the authors. The National Research Foundation accepts no
+liability in this regard. Ms V. van Breda and P. Adonis are thanked for their technical assistance.
+References
+1. Abrahamse, C.E., & Bartowsky, E.J. (2012). Timing of malolactic fermentation inoculation in Shiraz
+grape must and wine: influence on chemical composition. World Journal of Microbiology and
+Biotechnology, 28, 255-265.
+2. Azzolini, M., Fedrizzi, B., Tosi, E., Finato, F., Vagnoli, P., Scrinzi, C., & Zapparoli, G. (2012). Effects
+of Torulaspora delbrueckii and Saccharomyces cerevisiae mixed cultures on fermentation and aroma of
+Amarone wine. European Food Research and Technology, 235, 303-313.
+3. Belda, I., Navascués, E., Marquina, D., Santos, A., Calderón, F., & Benito, S. (2016). Outlining the
+influence of non‐conventional yeasts in wine ageing over lees. Yeast, 33, 329-338.
+4. Benito, Á., Calderón-Fernandez, F., Palomero, F., & Benito, S., 2015. Combined use of selected
+Schizosaccharomyces pombe and Lachancea thermotolerans yeast as an alternative to the traditional
+malolactic fermentation in red wine production. Molecules, 20, 9510-9523.
+
+23
+
+5. Boido, E., Lloret, A., Medina, K., Carrau, F., & Dellacassa, E. (2002). Effect of beta-glycosidase
+activity of Oenococcus oeni on the glycosylated flavor precursors of Tannat wine during malolactic
+fermentation. Journal of Agricultural and Food Chemistry, 50, 2344-2349.
+6. Burns, T.R., & Osborne, J.P. (2015). Loss of Pinot noir wine colour and polymeric pigment after
+malolactic fermentation and potential causes. American Journal of Enology and Viticulture, 66, 130137.
+7. Chescheir, S., Philbin, D., & Osborne, J.P. (2015). Impact of Oenococcus oeni on wine
+hydroxycinnamic acids and volatile phenol production by Brettanomyces bruxellensis. American
+Journal of Enology and Viticulture, 66, 357-362.
+8. Costello, P.J., Francis, I.L., & Bartowsky, E.J. (2012). Variations in the effect of malolactic
+fermentation on the chemical and sensory properties of Cabernet Sauvignon wine: interactive influences
+of Oenococcus oeni strain and wine matrix composition. Australian Journal of Grape and Wine
+Research, 18, 287-301.
+9. Domizio, P., Liu, Y., Bisson, L. F., & Barile, D. (2014). Use of non-Saccharomyces wine yeasts as
+novel sources of mannoproteins in wine. Food Microbiology, 43, 5-15.
+10. Du Plessis, H., du Toit, M., Nieuwoudt, H., van der Rijst, M., Kidd, M., & Jolly, N. (2017). Effect of
+Saccharomyces, non-Saccharomyces yeasts and malolactic fermentation strategies on fermentation
+kinetics and flavor of Shiraz wines. Fermentation, 3, 64.
+11. Du Plessis, H., Du Toit, M., Nieuwoudt, H., Van der Rijst, M., Hoff, J., & Jolly, N. (2019). Modulation
+of wine flavor using Hanseniaspora uvarum in combination with different Saccharomyces cerevisiae,
+lactic acid bacteria strains and malolactic fermentation strategies. Fermentation, 5, 64.
+12. Gerbaux, V., & Briffox, C. (2003). The impact of lysozyme on the colour of red wines. Infowine.
+Internet Journal of Viticulture and Enology, 1-4.
+13. Guadalupe, Z., Martinez, L., & Ayestaran, B. (2010). Yeast mannoproteins in red winemaking: Effect
+on polysaccharide, polyphenolic, and color composition. American Journal of Enology and Viticulture,
+61, 191-200.
+
+24
+
+14. Hernández, T., Estrella, I., Pérez-Gordo, M., Alegría, E.G., Tenorio, C., Ruiz-Larrea, F., & MorenoArribas, M.V. (2007). Contribution of malolactic fermentation by Oenococcus oeni and Lactobacillus
+plantarum to the changes in the nonanthocyanin polyphenolic composition of red wine. Journal of
+Agricultural and Food Chemistry, 55, 5260-5266.
+15. Hranilovic, A., Li, S., Boss, K., Bindon, R., Ristic, R., Grbin, P. R., Van Der Westhuizen, T., & Jiranek,
+V. (2017). Chemical and sensory profiling of Shiraz wines co-fermented with commercial nonSaccharomyces inocula. Australian Journal of Grape and Wine Research, 24, 166-180.
+16. Izquierdo-Cañas, P. M., Garcia-Romero, E., Mena-Morales A., & Gómez-Alonso, S. (2016). Effect of
+malolactic fermentation on colour stability and phenolic composition of Petit Verdot red wines. Wine
+Studies, 5, 1-6.
+17. Jolly, N. P., Varela, C., & Pretorius, I. S. (2014). Not your ordinary yeast: non-Saccharomyces yeast in
+wine production uncovered. FEMS-Yeast Research, 14, 215-237.
+18. Kwaw, E., Ma, Y., Tchabo, W., Apaliya, M.T., Wu, M., Sackey, A.S., Xiao, L., & Tahir, E. (2018).
+Effect of Lactobacillus strains on phenolic profile, colour attributes and antioxidant activities of lacticacid fermented mulberry juice. Food Chemistry, 250, 148-154.
+19. López, R., López-Alfaro, I., Gutiérrez, A.R., Tenorio, C., Garijo, P., González-Arenzana, I., &
+Santamaria, P. (2011). Malolactic fermentation of Tempranillo wine: contribution of the lactic acid
+bacteria inoculation to sensory quality and chemical composition. International Journal of Food
+Science and Technology, 46, 2373-2381.
+20. Medina, K., Boido, E., Fariña, L., Gioia, O., Gomez, M.E., & Barquet, M. (2013). Increased flavour
+diversity of Chardonnay wines by spontaneous fermentation and co-fermentation with Hanseniaspora
+vineae. Food Chemistry, 141, 2513-2521.
+21. Medina, K., Boido, E., Fariña, L., Dellacassa, E., & Carrau. F. (2016). Non-Saccharomyces and
+Saccharomyces strains co-fermentation increases acetaldehyde accumulation: effect on anthocyaninderived pigments in Tannat red wines. Yeast, 33, 339-343.
+
+25
+
+22. Medina, K., Boido, E., Dellacassa, E., & Carrau, F. (2018). Effects of non-Saccharomyces yeasts on
+colour, anthocyanins and anthocyanin-derived pigments of Tannat grapes during fermentation.
+American Journal of Enology and Viticulture, 69, 148-156.
+23. Mendoza, L.M., Merín, M.G., Morata, V.I., & Farías, M.E. (2011). Characterization of wines produced
+by mixed cultures of autochthonous yeasts and Oenococcus oeni from the northwest region of
+Argentina. Journal of Industrial Microbiology & Biotechnology, 38, 1777-1785.
+24. Minnaar, P.P., Ntushelo, N.S., Ngqumba, Z., Van Breda, V., & Jolly, N.P. (2015). Effect of
+Torulaspora delbrueckii yeast on the anthocyanin and flavanol concentrations of Cabernet Franc and
+Pinotage wines. South African Journal of Enology and Viticulture, 36, 50-58.
+25. Minnaar P.P., Du Plessis, H.W., Paulsen, V., Ntushelo, N., Jolly, N.P., & du Toit, M. (2017).
+Saccharomyces cerevisiae, non-Saccharomyces yeast and lactic acid bacteria in sequential
+fermentations: Effect on phenolics and sensory attributes of South African Syrah wines. South African
+Journal of Enology and Viticulture, 38, 237-244.
+26. Morales, M. L., Fierro-Risco, J., Ríos-Reina, R., Ubeda, C. & Paneque, P. (2019). Influence of
+Saccharomyces and Lachancea thermotolerans co-inoculation on volatile profile in fermentations of a
+must with a high sugar content. Food Chemistry, 276, 427-435.
+27. Morata, A., Gomez-Cordoves, J., Suberviola, B., Bartolome, B., & Saurez, J. A. (2003). Adsorption of
+anthocyanins by yeast cell walls during the fermentation of red wines. Journal of Agricultural and Food
+Chemistry, 51, 4084-4088.
+28. Pérez-Martín, F., Seseña, S., Izquierdo, P. M., & Palop, M. L. (2013). Esterase activity of lactic acid
+bacteria isolated from malolactic fermentation of red wines. International Journal of Food
+Microbiology, 163, 153-158.
+29. Puertas, B., Jimenez-Hierro, M. J., Cantos-Villar, E., Marrufo-Curtido, A., Carbu, M., Cuevas, F. J.,
+Moreno-Rojas, J. M., Gonzálex-Rodriuez, Cantoral, J. M. & Ruiz-Moreno, M. J. (2018). The influence
+of yeast on chemical and sensory properties of dry white wines. Food Chemistry, 253, 227-235.
+30. Ribéreau-Gayon, P., Glories, Y., Maujean, A., & Du Bourdieu, D. (2006). (Ed.). Handbook of Enology:
+The chemistry of wine stabilisation and treatment. John Wiley and Sons Inc, New York.
+
+26
+
+31. Romboli, Y., Mangani, S., Buscioni, G., L., Granchi, L., & Vincenzini, M. (2015). Effect of
+Saccharomyces cerevisiea and Candida zemplinina on quercetin, Vitisin A and hydrozytyrosol content
+in Sangiovese wines. World Journal of Microbiology and Biotechnology, 31, 1137-1145.
+32. Rodriguez-Montealegre, R., Romero-Peces, R., Chacón-Vozmediano, J.L., Martinez-Gascueña, J., &
+García-Romero, E. (2006). Phenolic compounds in skins and seeds of ten grape Vitis vinifera varieties
+grown in a warm climate. Journal of Food Composition and Analysis, 19, 687-693.
+33. SAS Institute Inc., SAS software (Version 9.4), Cary, NC, USA.
+34. Suriano, S., Ceci, G., & Tamborra, P. (2012). Impact of different winemaking techniques on
+polyphenolic compounds of Nero di Troia wine. Italian Food Beverage Technology, 70, 5-15.
+35. Suriano, S., Savino, M., Basile, T., Tarricone, L., & Di Gennario, D. (2015). Management of malolactic
+fermentation and influence on chemical composition of Aglianico red wines. Italian Journal of Food
+Science, 27, 310-319.
+36. Tristezza, M., Tufariello, M., Capozzi, V., Spano, G., Mita, G., & Grieco, F. (2016). The oenological
+potential of Hanseniaspora uvarum in simultaneous and sequential co-inoculation with Saccharomyces
+cerevisiae for industrial wine production. Frontiers in Microbiology, 7, 1- 4.
+37. Varela, C., Barker, A., Tran, T., Borneman, A., & Curtin, C. (2017). Sensory profile and volatile aroma
+composition of reduced alcohol Merlot wines fermented with Metschnikowia pulcherrima and
+Saccharomyces uvarum. International Journal of Food Microbiology, 252, 1-9.
+38. Viana, F., Belloch, C., Vallés, S., & Manzanares, P. (2011). Monitoring a mixed starter of
+Hanseniaspora vineae-Saccharomyces cerevisiae in natural must: Impact on 2-phenylethyl acetate
+production. International Journal of Food Microbiology, 151, 235-240.
+39. Waterhouse, A.L., Price, S.F., & McCord, J.D. (1999). Reversed-phase high-performance liquid
+chromatography methods for analysis of wine polyphenols. Methods in Enzymology, 299, 113-122.
+
+Highlights
+ Reduced alcohol and astringency were found in wines from mixed culture co-inoculations after
+MLF,
+27
+
+
+
+
+
+Mixed culture co-inoculations after MLF resulted in increased phenolics,
+Improved quality (preference) of wine using mixed culture co-inoculations after MLF were
+evident,
+Mixed culture co-inoculations with MLF is a strategy to contemplate for Syrah wines.
+
+28
+
+

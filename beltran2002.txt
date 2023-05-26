@@ -1,0 +1,953 @@
+System. Appl. Microbiol. 25, 287–293 (2002)
+© Urban & Fischer Verlag
+http://www.urbanfischer.de/journals/sam
+
+Analysis of yeast populations during alcoholic fermentation:
+A six year follow-up study
+GEMMA BELTRAN, MARIA JESÚS TORIJA, MAITE NOVO, NOEMÍ FERRER, MONTSERRAT POBLET, JOSÉ M. GUILLAMÓN,
+NICOLAS ROZÈS, and ALBERT MAS
+Unitat d’Enologia del Centre de Referència de Tecnologia d’Aliments, Facultat d’Enologia de Tarragona, Universitat Rovira i Virgili,
+Ramón y Cajal, Tarragona, Spain
+Received: January 24, 2002
+
+Summary
+Wine yeasts were isolated from fermenting Garnatxa and Xarel.lo musts fermented in a newly built and
+operated winery between 1995 and 2000. The species of non-Saccharomyces yeasts and the Saccharomyces cerevisiae strains were identified by ribosomal DNA and mitochondrial DNA RFLP analysis respectively. Non-Saccharomyces yeasts, particularly Hanseniaspora uvarum and Candida stellata, dominated the first stages of fermentation. However Saccharomyces cerevisiae was present at the beginning of
+the fermentation and was the main yeast in the musts in one vintage (1999). In all the cases, S. cerevisiae
+took over the process in the middle and final stages of fermentation. The analysis of the S. cerevisiae
+strains showed that indigenous strains competed with commercial strains inoculated in other fermentation tanks of the cellar. The continuous use of commercial yeasts reduced the diversity and importance of
+the indigenous S. cerevisiae strains.
+Key words: wine yeast – Saccharomyces cerevisiae – Hanseniaspora uvarum – Candida stellata
+
+Introduction
+The conversion of grape must to wine is a complex biochemical process involving interactions between yeasts,
+bacteria and other microbial species. Of these microorganisms, yeasts are primarily responsible for alcoholic fermentation. Yeast species with lower fermentative activity than
+Saccharomyces cerevisiae, such as Hanseniaspora, Candida and Pichia, grow during the first period of spontaneous
+fermentations but then the population size of non-Saccharomyces species decreases progressively, leaving the most
+ethanol-tolerant species of Saccharomyces cerevisiae to
+take over the fermentation (HEARD and FLEET, 1985).
+The microbiology of wine and the origin of indigenous
+wine yeasts have been extensively studied. There are two
+possible sources of the yeasts responsible for alcoholic
+fermentation: the vineyard (including the grapes), and the
+winery (including the winery equipment). Many studies
+from several countries have described the isolation and
+identification of yeasts from grape surfaces (FLEET and
+HEARD, 1993). However, most of these ecological studies
+are now considered to be erroneous because enrichment
+methods, rather than direct plating methods, were used
+for yeast isolation (MARTINI, 1993). Subsequent quantitative studies, excluding any enrichment effect, showed that
+
+Hanseniaspora uvarum (and its anamorphic form
+Kloeckera apiculata) was the predominant species on the
+surface of grape berries (50–75% of the total yeast population), and at lesser populations there were species of
+Candida, Pichia, Cryptococcus, Rhodotorula, Metschnikowia, Kluyveromyces and Hansenula. Saccharomyces
+cerevisiae, however, was isolated with extreme difficulty
+and in low percentage from natural habitats such as vineyard soil or the surface of ripe grapes but could be found
+colonising the surfaces of the winery equipment (ROSINI,
+1982; MARTINI, 1993; FLEET and HEARD, 1993; VAUGHANMARTINI and MARTINI, 1995).
+Every vintage, the surfaces of winery equipment are
+exposed to billions of yeast cells, so they are easily
+colonised and become locations for the development of a
+resident or winery yeast flora. These Saccharomyces cerevisiae strains resident on the winery surfaces are much
+more abundant than those that might come from the
+grapes or vineyard and it is very probable that they will
+predominate during the spontaneous fermentations or
+play a role in other fermentations inoculated with pure
+yeast culture (ROSINI, 1984; MARTINI et al., 1996; CONSTANTÍ et al., 1997).
+0723-2020/02/25/01-287 $ 15.00/0
+
+288
+
+G. BELTRAN et al.
+
+Nevertheless, MORTIMER and POLSINELLI (1999)
+demonstrated that damaged grape berries were rich depositories of such microorganisms as S. cerevisiae, and
+the main source of this yeast in natural wine fermentations. But they did not exclude that they may be present
+on cellar walls and equipments.
+The diversity, composition and evolution of yeast flora
+in grape musts depend on a variety of factors: geographic
+location, climatic conditions (FLEET et al., 1984; PARISCH
+and CARROL, 1985), age of the vineyard and grape variety
+(MARTINI et al., 1980; ROSINI et al., 1982). Many studies
+have analysed the population dynamics of wild yeast during spontaneous fermentations (SCHÜTZ and GAFNER,
+1993; QUEROL et al., 1994; CONSTANTÍ et al., 1998), in
+different wine-producing cellars (VEZINHET et al., 1992;
+VERSAVAUD et al., 1995) and different wine regions
+(LONGO et al., 1991; KHAN et al., 2000; VAN DER WESTHUIZEN et al., 2000; TORIJA et al., 2001), or over several
+years in the same cellar (VEZINHET et al., 1992; SCHÜTZ
+and GAFNER, 1994; CONSTANTÍ et al., 1997; SABATÉ et al.,
+1998).
+Using active dry yeast in fermentation is becoming one
+of the most common practices in winemaking because it
+ensures a reproducible product and reduces the lag phase
+and the risk of wine spoilage. However, the winemaking
+community is still widely divided about this practice because of a widespread belief that native yeast strains give
+a distinctive style and quality to wine (MATEO et al.,
+1991; FUGELSANG 1996; HEARD, 1999). In fact, the use of
+active dry yeast reduces the number of different indigenous Saccharomyces cerevisiae strains due to the starter
+imposition, but does not completely prevent them from
+growing until several days after the inoculation. During
+this time, wild strains may have an important effect on
+wine flavour and characteristics (QUEROL et al., 1992a).
+In the present study, we analyse the yeast population in
+a new winery (and therefore with new equipment and no
+yeast resident flora) for six consecutive years and in two
+varieties. The aim of the present study was to analyse the
+cellar yeast ecology in a situation of industrial wine-making. The effect of the common practice of inoculation
+upon the diversity of indigenous S. cerevisiae strains and
+the development of alcoholic fermentation was also one
+of the main goals of the present study. The species of the
+non-Saccharomyces yeasts were identified by RFLPs of
+rDNA (GUILLAMÓN et al., 1998; ESTEVE-ZARZOSO et al.,
+1999), and Saccharomyces sensu stricto were analysed at
+species and strain level by RFLPs of mtDNA (QUEROL et
+al., 1992b; GUILLAMÓN et al., 1994).
+
+Materials and Methods
+Fermentations
+This study was made in a new winery in Tarragona (Spain).
+The cellar was built in 1994 for the Faculty of Enology, adjacent
+to its experimental fields with 6.8 ha of cultivated grapevines.
+All the equipment was brand new the first year of operation and
+had not been previously used.
+Two grape varieties were studied over 6 vintages
+(1995–2000): Xarel.lo for white fermentations and Garnatxa
+
+for red ones. Musts were fermented spontaneously in 100 l steel
+vats, at controlled temperature for Xarel.lo (18 ºC) and uncontrolled temperatures for Garnatxa (22–28 ºC). In all cases, sulphur dioxide (0.05 g l–1) was added to the musts before the fermentation started. Must samples were taken before sulphitation.
+Xarel.lo must was clarified by settling before alcoholic fermentation to separate the clear juice from the sediments. Xarel.lo
+and Garnatxa musts inoculated simultaneously with commercial
+starters were used as controls in other steel vats.
+In all cases fermentation kinetics were monitored by measuring the density of the fermenting must, which has a 99% correlation with reducing sugar content (RIBÉREAU-GAYON et al.,
+2000)
+Sampling
+Samples were taken periodically during the fermentation for
+the isolation and enumeration of yeasts. The samples were plated on YEPD agar in serial decimal dilutions and incubated at
+28 ºC for two days. Twenty colonies were randomly taken and
+isolated from each sample. A selective Lysine medium was used
+to distinguish between Saccharomyces and non-Saccharomyces
+yeasts. Saccharomyces species were unable to grow on this
+medium (ANGELO and SIEBERT, 1987).
+mtDNA and rDNA restriction analysis
+DNA was extracted and mitochondrial DNA restriction patterns of the strains were determined as previously described by
+QUEROL et al. (1992b) with the restriction endonuclease HinfI
+(Boehringer Mannheim, Germany). Restriction fragments were
+separated on horizontal 0.8% agarose gels (Ecogen, Barcelona,
+Spain) in TBE buffer (Tris 89 mM; boric acid 89 mM; EDTA
+2mM; pH 8) at 5.5 V cm-1 and visualized on a UV transilluminator after ethidium bromide staining (5 µg ml–1).
+rDNA was amplified and restricted as previously described
+by GUILLAMÓN et al. (1998). The primers used to amplify the
+ITS region were ITS1 and ITS4, described by WHITE et al.
+(1990). The PCR products were digested with 3 restriction endonucleases: HinfI, CfoI and HaeIII (Boehringer). Restriction
+fragments were separated on a horizontal 2% multipurpose
+agarose (Boehringer) gel in TBE buffer and compared with standards (100-bp DNA ladder; Gibco-BRL).
+
+Results and Discussion
+This 6-year follow-up study was carried out in a completely new experimental winery, built in 1994, ready for
+the 1995 vintage. All equipment was brand new and neither the cellar nor the equipment had been previously exposed to musts, fruit juices, wines, or any beverage or
+fruit. Thus, no resident yeast flora could be considered
+before the 1995 vintage.
+This study had several drawbacks. First, not all the
+years were good enough for harvest. For example, in
+1997, no grapes from the two varieties being studied
+were harvested because of adverse climatic conditions.
+Second, no initial estimation of population was made in
+the first year and the non-Saccharomyces population was
+only determined in Garnatxa must. Finally, it should be
+pointed out that the yeasts and strains were determined
+randomly over 20 colonies of each point. Thus, the approach was semiquantitative and this must be taken into
+account when drawing the final conclusions.
+
+Analysis of yeast populations
+
+As has been previously reported, non-Saccharomyces
+yeasts are the most usual microorganisms in grape must
+(Figure 1), probably because they are present in grape
+skins and vineyards, where Saccharomyces yeasts are
+mostly absent (PARRISH and CARROLL, 1985; MARTINII et
+al., 1996; CONSTANTÍ et al., 1997). All the species found
+were identified by RFLP analysis of the rDNA region
+(GUILLAMÓN et al., 1998; ESTEVE-ZARZOSO et al., 1999).
+Although most of the non-Saccharomyces yeasts were
+Candida stellata or Hanseniaspora uvarum, other yeasts
+were also found, but mainly in one year and in low quantities. This clearly points to a predominance of H.
+uvarum or C. stellata in vineyards and grape surfaces,
+whereas our climatic conditions probably limit the presence of other yeasts, including Saccharomyces cerevisiae
+
+Figure 1. Biodiversity of yeasts species and total population in
+Garnatxa and Xarel.lo musts in the five years studied. ( Saccharomyces,
+Hanseniaspora uvarum,
+Candida stellata,
+Candida sorbosa,
+Debaromyces hansenii,
+Issatchenkia
+terricola,
+Metschnikowia pulcherrima,
+Zygoascus hellenicus,
+Yeast Population ).
+
+289
+
+(GUILLAMÓN et al., 1996; CONSTANTÍ et al., 1997, 1998).
+However, the fact that these other species were present in
+certain years pointed toward a consistent presence of
+other non-Saccharomyces species, which in a qualitative
+study would probably show up consistently. During the
+initial stages of fermentations, some authors have also
+isolated other minor species, belonging to the genera
+Metschnikowia, Candida, Pichia, Zygosaccharomyces,
+Kluyveromyces and Hansenula (FLEET et al., 1984;
+LONGO et al., 1991; SCHÜTZ and GAFNER, 1993; TORIJA
+et al., 2001).
+The microbiota of grapes mainly depends on grape variety, climatic conditions and viticultural practices (PRETORIUS, 2000). As mentioned above, H. uvarum and C.
+stellata were the predominant non-Saccharomyces species
+in the musts obtained from both grape varieties. The proportion of these species varied in the years studied but the
+predominace of both varieties did not change, i.e. H.
+uvarum was the major non-Saccharomyces species in
+both varieties in the 1996 vintage and C. stellata was predominant in 2000. Therefore, according to our results,
+the grape variety does not have a great influence on yeast
+microbiota. As far as climatic conditions are concerned,
+temperature and rainfalls were very similar in the years
+studied. The total annual rainfall was about 400 mm and
+100 mm during the summer. The year when the grapes
+were not suitable for vinification (1997) the precipitation
+recorded was 700 mm. Therefore, the differences in the
+proportion of C. stellata and H. uvarum in the period
+studied could not be explained by these parameters. A
+more exhaustive study of other climatic and cultural conditions should be made if their influence on the development of these species is to be understood.
+It has been widely reported that H. uvarum is present
+in the initial phases of the fermentation of several musts.
+This might be important in the taste and flavour of wine,
+and could produce considerable amounts of volatile
+acids, acetate and glycerol (BENDA, 1982; LAFON-LAFOURCADE, 1983; SCHÜTZ and GAFNER, 1993). C. stellata was
+the other strain that was most found in the first stages of
+fermentation (FLEET et al., 1984). If it continues to develop in the latter stages, a film may be formed on the surface of wines, which can change their chemical composition and flavour (SPONHOLZ, 1993). Anyway, neither H.
+uvarum nor C. stellata lasted too long in the fermentations in any of the years tested and consequently the final
+product was affected little or not at all. Vinifications in
+red and white wines differ in temperature and the fact
+that skins are in contact with the fermenting musts, but
+these factors only slightly affected the permanence of
+these species (Table 1). Other non-Saccharomyces strains
+were present in these conditions. The 1999 vintage was
+surprising because most of the colonies collected from
+both musts were identified as Saccharomyces cerevisiae.
+These results are certainly difficult to reconcile with previous observations (SCHÜTZ and GAFNER, 1993; MARTINI
+et al., 1996; GUILLAMÓN et al., 1998; TORIJA et al., 2001)
+about the unfrequent presence of S. cerevisiae in grape
+musts. The principal characteristic of the vintage was the
+exceptional sanity of the grapes, which implies a very low
+
+290
+
+G. BELTRAN et al.
+
+Table 1. Percentage and permanence of yeast species during spontaneous fermentations of Garnatxa and Xarel.lo in the five years
+studied. (EF: end of fermentation).
+
+1995
+
+1996
+
+Garnatxa
+
+Garnatxa
+
+Xarel.lo
+
+1998
+
+Garnatxa
+
+Xarel.lo
+
+1999
+
+Garnatxa
+
+Xarel.lo
+
+2000
+
+Garnatxa
+
+Xarel.lo
+
+Day of
+fermentation
+
+Sac.
+cerevisiae
+
+0
+3
+5
+EF
+
+5
+90
+100
+
+0
+1
+3
+6
+EF
+0
+1
+3
+5
+EF
+0
+1
+2
+5
+EF
+0
+1
+2
+5
+EF
+
+72
+100
+
+non-Saccharomyces
+C. stellata
+60
+50
+
+30
+50
+6
+
+H. uvarum
+
+Others
+
+40
+45
+10
+100
+70
+45
+21
+
+5
+
+10
+100
+
+60
+
+30
+
+44
+79
+72
+
+39
+21
+10
+
+17
+
+96
+42
+
+4
+
+100
+100
+100
+
+14
+100
+100
+
+4
+4
+54
+
+100
+100
+100
+
+0
+2
+5
+EF
+0
+2
+5
+EF
+
+100
+100
+100
+100
+90
+100
+100
+100
+
+0
+2
+5
+EF
+0
+2
+5
+EF
+
+76
+100
+100
+72
+70
+100
+100
+
+10
+
+75
+
+population of microorganisms such as yeasts, and lactic
+and acetic acid bacteria on the grape surface. As a possibility, the low yeast population in the grape and the high
+yeast contamination in the wine environment after several years of operating may explain why S. cerevisiae
+strains were detected in the musts.
+The different presence and endurance of non-Saccharomyces species during fermentation may also be due to
+similar reasons (Table 1). In the first 3–4 vintages, nonSaccharomyces species lasted as long as 2 to 6 days in
+competition with Saccharomyces strains. However, after
+four vintages, there were fewer non-Saccharomyces yeast
+present during fermentation and Saccharomyces dominated the very early stages of fermentation. There are sev-
+
+10
+12
+
+15
+12
+
+28
+30
+
+eral explanations for this. First of all, as the winery was
+newly built in 1994, the winery itself and the equipment
+was initially ‘clean’ and without ‘resident’ microbiota.
+After several vintages and fermentations, the equipment,
+walls and the rest of the cellar became suitable for the development of microbiota adapted to the cellar environment (MARTINI et al., 1996). Thus, a certain number of
+different Saccharomyces strains were always available to
+initiate and lead the fermentation. Secondly, after several
+years of running the experimental cellar, many different
+strains of commercial Saccharomyces starters had been
+tested in the cellar. These strains were ‘selected yeasts’
+and well adapted to the winemaking process (BOULTON et
+al., 1996). So, the presence of specially selected strains
+
+Analysis of yeast populations
+
+291
+
+Table 2. Percentages of indigenous (MF) and commercial (CI) Saccharomyces strains in spontaneous fermentations of Garnatxa and
+Xarel.lo, from 1995 to 2000.
+Year of
+1st appearance
+
+Garnatxa
+
+Xarel.lo
+
+Indigenous str.
+
+1995
+
+1996
+
+1998
+
+1999
+
+2000
+
+1995
+
+MF02
+MF05
+MF09
+MF10
+MF14
+Others*
+
+23
+3
+0
+8
+3
+50 (9)
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+
+1996
+
+MF19
+MF20
+MF25
+Others*
+
+4
+3
+0
+0
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+1999
+
+MF26
+MF27
+MF32
+MF37
+MF38
+Others*
+
+Years of usage
+
+Comercial str.
+
+95,98,00
+98,99,00
+98
+99
+98,00
+
+Cl 1
+Cl 2
+Cl 3
+Cl 4
+Cl 5
+
+2
+41
+0
+57 (2)
+
+1995
+
+1996
+
+15
+30
+6
+2
+10
+0
+2
+0
+2
+0
+18 (5) 0
+0
+62
+2
+4 (2)
+
+1998
+
+1999
+
+2000
+
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+4
+0
+0
+
+0
+0
+0
+0
+9
+0
+
+0
+0
+0
+0
+
+0
+0
+10
+0
+
+0
+0
+5
+0
+
+21
+16
+11
+4
+1
+4
+4
+14
+8
+24 (1) 0
+
+13
+
+0
+
+30
+62
+0
+0
+
+0
+0
+0
+16
+22
+
+0
+0
+0
+4
+54
+
+1
+32
+71
+44
+0
+0
+1
+0
+0
+0
+9 (5) 0
+
+47
+
+0
+
+0
+88
+12
+0
+
+0
+0
+0
+1
+1
+
+0
+0
+0
+0
+10
+
+*Others means Saccharomyces cerevisiae strains that did not showed up in others vintages. In parenthesis the number of strains.
+
+would favour the rapid imposition of Saccharomyces
+over non-Saccharomyces species. Finally, neither of the
+two varieties are the first to be harvested and fermented
+in the cellar every year; so the cellar environment is already enriched with fermenting Saccharomyces strains.
+‘Cross-contamination’ between adjacent vats by means of
+insects or winery equipment (pumps, must conducts, etc)
+is very frequent (ROSINI, 1984; CONSTANTÍ et al., 1997;
+RIBÉREAU-GAYON et al., 2000), particularly on an industrial scale, and the volumes and machinery of this experimental cellar are similar to those of an industrial, commercial cellar. The presence of natural and commercial
+Saccharomyces strains contaminating the winery probably makes it easier for them to become dominant during
+fermentation.
+Table 2 shows the percentages of indigenous (MF) and
+commercial (CI) Saccharomyces strains throughout spontaneous fermentation. Each year between 80 and 100
+colonies were isolated at different stages of the fermentation and analysed. The mtDNA restriction profiles of the
+colonies analysed during the 6-year period showed that
+35 different ‘indigenous’ (or non-inoculated) Saccharomyces cerevisiae strains were involved in the fermentations at some time (Table 2). Although some strains
+showed higher percentages in the fermentation of one
+grape variety (i.e. MF27, Table 2), most were isolated in
+the same year and/or different years from fermenting
+musts of both varieties. Thus, the predominance of a spe-
+
+cific strain was more influenced by the vintage than the
+grape variety or wine making process. Interestingly, new
+strains were detected in only three years, two of which
+were the initial ones when few resident strains were present (Table 2). The other year was 1999 when few nonSaccharomyces species were detected in the must of both
+varieties. The absence of non-Saccharomyces yeasts may
+have enabled a considerable number of Saccharomyces
+strains to be detected. Indigenous yeasts, however, were
+detected in most of the vintages. In fact, indigenous yeasts
+detected in 1995, 1996 and 1999 were also detected during the last year of fermentation. These strains had probably colonised the winery environment, and the different
+conditions of each vintage (a different selective pressure
+on the S. cerevisiae population) determined whether each
+specific strain would develop to a greater or lesser extent.
+As mentioned above, the cellar that was studied operates like an industrial winery and most of the fermentations of these and other grape varieties were inoculated
+with different commercial strains. These commercial
+strains were also detected in the spontaneous fermentations (Table 2). On the basis of our data, cross contamination between spontaneous and inoculated fermentations by insects, pumps, etc. (PHAFF and KNAPP, 1956;
+LACHANCE, 1994; MORTIMER and POLSINELLI, 1999) must
+be considered to be a possibility. So, the strain observed
+in 1995 (CI1) was the one inoculated this year in other
+fermentations. This cross contamination between vats
+
+292
+
+G. BELTRAN et al.
+
+could be facilitated by the fact that these varieties were
+harvested when the winery was in operation at least one
+month before, fermentating other varieties.
+The commercial strains clearly competed with the indigenous strains throughout the spontaneous fermentation. These commercial strains were selected on the basis
+of their enological capability and were present in high
+percentages during wine fermentation. For instance, two
+commercial strains represented 92% and 100% of the
+colonies isolated from the 1998 fermentations for Garnatxa and Xarel.lo, respectively. However, high percentages of some indigenous strains were also isolated during
+the fermentation (i.e. MF27 in Xarel.lo fermentations).
+Further studies should be carried out into the enological
+properties of these major indigenous strains because they
+may be local strains that could be used as future fermentation starters.
+Recently, TORIJA et al. (2001) showed that a high degree of the variability of Saccharomyces strains (measured as the percentage of different strains found out of
+the colonies analysed) in two wine regions was due to the
+fact that no commercial starters had previously been inoculated. The variability of the strains in the present
+study is much lower than that reported by TORIJA et al.
+(2001) and similar to other studies carried out in previously inoculated cellars (QUEROL et al., 1994; SCHÜTZ and
+GAFNER, 1994; NADAL et al., 1996). Moreover, with some
+exceptions, there are fewer strains actively involved in
+fermentation after several years of operating than during
+the first vintage. Therefore, our results support the hypothesis that active dry yeasts reduce the variability of
+strains that appear in spontaneous fermentations.
+
+Despite the large number of studies about wine and
+vineyard yeast ecology, the origin of S. cerevisiae is quite
+controversial (PRETORIUS, 2000). Some authors claim that
+the primary source of this yeast is the vineyard (TÖRÖK et
+al., 1996; MORTIMER and POLSINELLY, 1999). Others postulated direct association with artificial, man-made environments such as wineries and fermentation plants, and
+that a natural origin for S. cerevisiae should be excluded
+(MARTINI, 1993; VAUGHAN-MARTINI and MARTINI, 1995).
+Unfortunately, we have not tried to isolate S. cerevisiae
+strains directly from grape berries but the study of yeast
+population in a newly established winery is an ideal situation to clarify this controversial question. A natural origin
+of the indigenous strains isolated could be proposed but a
+repeated appearance of these strains in different years
+pointed out to a colonisation of the winery environment
+with yeasts that go through generations and generations at
+each vintage. This hypothesis is supported by the analysis
+of the inoculated, commercial strains. The presence of
+these strains, even when not inoculated in the same vintage, competing with “natural” strains, in the spontaneous
+fermentations prove the establishment of these strains as
+residents of the winery surfaces. Lastly, the early isolation
+of S. cerevisiae strains in high percentages in the fermentations of the latter studied years could be understood as an
+increase of the yeast contamination in the cellar, which
+make easier the predominance in the fermentative process.
+Acknowledgments
+This work was supported by grants CiCYT ALI96–0497 and
+2FD97–1854 from the Spanish government.
+Kind assistance of Mr John Bates in preparing the
+manuscript is appreciated.
+
+Conclusions
+H. uvarum and C. stellata were the predominant nonSaccharomyces species in the fermentations studied. This
+latter species seems to be specially important in this and
+other neighboring wine regions that have previously been
+studied (TORIJA et al., 2001) compared to other areas
+where H. uvarum is clearly the majority species in must
+and during the first stages of fermentation. The importance of both species alternates in the different vintages
+but was not influenced by the grape variety. S. cerevisiae
+was isolated in high percentages in 1999 (and Xarel.lo
+fermentation in 2000). The exceptional sanity of the
+grapes and the increase in resident S. cerevisiae strains in
+the cellar could explain the high population of this
+species in the first stages of fermentation. Anyway, in all
+cases, S. cerevisiae strains took over the fermentations,
+which proceeded faster.
+The analysis of the S. cerevisiae strains showed that indigenous strains were present in several stages of the
+spontaneous fermentations. These strains competed with
+commercial strains inoculated in other fermentations of
+the cellar, which contaminated the vats. It should be
+pointed out that the continuous use of commercial and
+selected yeasts reduced the diversity and importance of
+the indigenous strains.
+
+References
+ANGELO, J. and SIEBERT, K.J.: A new medium for the detection of
+wild strains in brewing culture yeast. J. Am. Soc. Brew.
+Chem. 45, 135–140 (1987).
+BENDA, I.: Wine and brandy, pp 293–402. In: Prescott and Dunn’s Industrial Microbiology. (G. Reed ed.). AVI Publishing
+Company, Wesport 1982.
+BOULTON, R.B., SINGLETON, V.L., BISSON, L.F. and KUNKEE, R.E.
+In: Principles and Practices of Winemaking. (Chapman and
+Hall, eds.) New York, USA 1996.
+CONSTANTÍ, M., POBLET, M., AROLA, L., MAS, A. and GUILLAMÓN, J.M.: Analysis of yeast populations during alcoholic
+fermentation in a newly established winery. Am. J. Enol.
+Vitic. 48, 339–344 (1997).
+CONSTANTÍ, M., REGUANT, C., POBLET, M., ZAMORA, F., MAS, A.
+and GUILLAMÓN, J.M.: Molecular analysis of yeast population
+dynamics: Effect of sulphur dioxide and inoculum on must
+fermentation. Int. J. Food Microbiol. 41, 169–175 (1998).
+ESTEVE-ZARZOSO, B., BELLOCH, C., URUBURU, F. and QUEROL, A.:
+Identification of yeasts by RFLP analysis of the 5.8S rRNA
+gene and the two ribosomal internal transcribed spacers. Int.
+J. Syst. Bacteriol. 49, 329–337 (1999).
+FLEET, G.H. and HEARD, G.M.: Yeast: growth during fermentation, pp 27–54. In: Wine Microbiology and Biotechnology.
+(G.H. Fleet ed.). Harwood Academic Publishers. Switzerland
+1993.
+
+Analysis of yeast populations
+FLEET, G.H., LAFON-LAFOURCADE, S. and RIBÉREAU-GAYON, P.:
+Evolution of yeasts and lactic acid bacteria during fermentation and storage of Bordeaux wines. Appl. Environ. Microbiol. 48, 1034–1038 (1984).
+FUGELSANG, K.C. In: Wine microbiology. (Chapman and Hall,
+eds.). New York, USA 1996.
+GUILLAMÓN, J.M., BARRIO, E., HUERTA, T. and QUEROL, A.:
+Rapid characterization of four species of the Saccharomyces
+sensu stricto complex according to mitochondrial DNA patterns. Int. J. Syst. Bacteriol. 44, 708–714 (1994).
+GUILLAMÓN, J.M.; BARRIO, E. and QUEROL, A.: Characterization
+of wine yeast strains of the Saccharomyces Genus on the basis
+of Molecular Markers: relatioships between genetic distance
+and geographic or ecological origin. System. and Appl. Microbiol., 19,122–132 (1996).
+GUILLAMÓN, J.M., SABATÉ, J., BARRIO, E., CANO, J. and QUEROL,
+A.: Rapid identification of wine yeast species based on RFLP
+analysis of the ribosomal internal transcribed spacer (ITS) region. Arch. Microbiol. 169, 387–392 (1998).
+HEARD, G.: Novel yeasts in winemaking – looking to the future.
+Food Australia, 51, 347–352 (1999).
+HEARD, G.M. and FLEET, G.H.: Growth of natural yeast flora
+during the fermentation of inoculated wines. Appl. Environ.
+Microbiology. 50, 727–728 (1985).
+KHAN, W., AUGUSTYN, O.P.H., VAN DER WESTHUIZEN, T.J., LAMBRECHTS, M.G. and PRETORIUS, I.S.: Geographic distribution
+and evaluation of Saccharomyces cerevisiae strains isolated
+from vineyards in the warmer, inland regions of the Western
+Cape in South Africa. S. Afr. J. Enol. Vitic. 21, 17–31 (2000).
+LACHANCE, M.A. and GILBERT SRMER, WT.: Yeast communities
+associated with Drosophila spcecies and related flies in eastern oak-pine forests: a comparison with western communities. J. Industr. Microbiol. 14, 484–494 (1994).
+LAFON-LAFOURCADE, S.: Wine and brandy, pp 81–161. In:
+Biotechnology, Vol. 5. (Reed G. ed.). Verlag Chemie, Heidelberg 1983.
+LONGO, E., CANSADO, J., AGRELO, D. and VILLA, T.G.: Effect of
+climatic conditions on yeast diversity in grape musts from
+northwest Spain. Am. J. Enol. Vitic. 42, 141–144 (1991).
+MARTINI, A., FEDERICI, F. and ROSINI, G.: A new approach to the
+study of yeast ecology of natural substrates. Can. J. Microbiol.
+26, 856–859 (1980).
+MARTINI, A.: Origin and domestication of the wine yeast Saccharomyces cerevisiae. J. Wine Res. 3, 165–176 (1993).
+MARTINI, A., CIANI, M. and SCORZZETTI, G.: Direct enumeration
+and isolation of wine yeasts from grape surfaces. Am. J. Enol.
+Vitic. 47, 435–440 (1996).
+MATEO, J.J., JIMÉNEZ, M., HUERTA, T. and PASTOR, A.: Contribution of different yeasts isolated from musts of monastrell
+grapes to aroma of wines. Int. J. Food Microbiol. 14,
+153–160 (1991).
+MORTIMER, R. and POLSINELLI, M.: On the origins of wine yeast.
+Res. Microbiol. 150, 199–204 (1999).
+NADAL, D., COLOMER, B. and PIÑA, B.: Molecular Polymorphism
+Distribution in Phenotypically Distinct Populations of Wine
+Yeast Strains. Appl. Environ. Microbiol. 62, 1944–1950 (1996)
+PARRISH, M.E. and CARROLL, D.E.: Indigenous yeasts associated
+with muscadine (Vitis rotundifolia ) grapes and musts. Am. J.
+Enol. Vitic. 12, 3–31 (1985).
+PHAFF, H. J. and KNAPP, E.P.: The taxonomy of yeasts found in
+exudates of certain trees and other natural breeding sites of
+some species of Drosophila. Antonie van Leeuwenhoek. 22,
+117–130 (1956).
+PRETORIUS, I.S.: Tailoring wine yeast for the new millennium:
+novel approaches to the ancient art of winemaking. Yeast. 16,
+675–729 (2000).
+
+293
+
+QUEROL, A., BARRIO, E., HUERTA, T. and RAMON, D.: Molecular
+monitoring of wine fermentations conducted by dry yeast
+strains. Appl. Environ. Microbiol. 58, 2948–2952 (1992a).
+QUEROL, A., BARRIO, E. and RAMON, D. A: comparative study of
+different methods of yeast strain characterization. Syst. Appl.
+Microbiol. 21, 315–323 (1992b).
+QUEROL, A., BARRIO, E. and RAMON, D.: Population dynamics
+of natural Saccharomyces strains during wine fermentation.
+Int. J. Food Microbiol. 21, 315–323 (1994).
+RIBÉREAU-GAYON, P., DUBOURDIEU, D., DONÈCHE, B. and LONVAUD, A. In: Handbook of Enology, Vol.1: The microbiology of
+Wine and Vinifications. (John Wiley and Sons Ldt. eds.) West
+Sussex, England 2000.
+ROSINI, G., FEDERICI,F. and MARTINI,A.: Yeast flora of grape
+berries during ripening. Microbiol. Ecol. 8, 83–89 (1982).
+ROSINI, G.: Assesment of dominance of added yeast in wine fermentation and origin of Saccharomyces cerevisiae in winemaking. J. Gen. Appl. Microbiol. 30, 249–256 (1984).
+SABATÉ, J., CANO, J., QUEROL, A. and GUILLAMÓN, J.M.: Diversity
+of Saccharomyces strains in wine fermentation: analysis for two
+consecutive years. Lett. Appl. Microbiol. 26, 452–455 (1998).
+SCHÜTZ, M. and GAFNER, J.: Analysis of yeast diversity during
+spontaneous and induced alcoholic fermentations. J. Appl.
+Bacteriol. 75, 551–558 (1993).
+SCHÜTZ, M. and GAFNER, J.: Dynamics of the yeast strain during
+spontaneous alcoholic fermentation determinded by CHEF gel
+electrophoresis. Lett. Appl. Microbiol. 19, 253–257 (1994).
+SPONHOLZ, W.: Wine spoilage by microorganisms. pp 395–420.
+In: Wine Microbiology and Biotechnology (G.H. Fleet ed.).
+Harwood Academic Publishers, Switzerland 1993.
+TORIJA, M.J., ROZÈS, N., POBLET, M., GUILLAMÓN, J.M. and
+MAS, A.: Yeast population dynamics in spontaneous fermentations: comparison between two different wine-producing
+areas over a period of three years. Antonie van Leeuwenhoek,
+79, 345–352 (2001).
+TÖRÖK, K., MORTIMER, R.K., ROMANO, P., SUZZI, G. and
+POLSINELLI, M.: Quest for wine yeasts – an old story revisited.
+J. Industrial Microbiol. 17, 303–313 (1996).
+VAN DER WESTHUIZEN, T.J., AUGUSTYN, O.P.H. and PRETORIUS,
+I.S.: Geographical distribution of indigenous Saccharomyces
+cerevisiae strains isolated from vineyards in the Coastal Regions of the Western Cape in South Africa. S. Afr. J. Enol.
+Vitic. 21, 3–9 (2000).
+VAUGHAN-MARTINI, A. and MARTINI, A.: Facts, myths and legends on the prime industrial microorganism. J. Ind. Microbiol. 14, 514–522 (1995).
+VERSAVAUD, A., COURCOUX, P., POULLAND, C., DULAU, L. and
+HALLET, J.N.: Genetic diversity and geographical distribution
+of wild Saccharomyces cerevisiae strains from the wine-producing area of Charentes, France. Appl. Environ. Microbiol.
+61, 3521–3529 (1995).
+VEZINHET, F., HALLET, J., VALADE, M. and POULARD, A.: Ecological survey of wine yeast strains by molecular methods of identification. Am. J. Enol. Vitic. 43, 83–86 (1992).
+WHITE, T.J., BRUNS, T., LEE, S. and TAYLOR, J.: Amplification and
+direct sequencing of fungi ribosomal RNA genes for phylogenetics. pp 315–322. In: PCR protocols. A guide to methods
+and applications. (Innis M.A., Gelfand D.H., Sninsky J.J. and
+Whie T.J., eds.). Academic Press. San Diego 1990.
+Corresponding author:
+ALBERT MAS, Unitat d’Enologia del Centre de Referència de Tecnologia d’Aliments, Dept. Bioquímica i Biotecnologia. Facultat
+d’Enologia de Tarragona, Universitat Rovira i Virgili. Ramón y
+Cajal, 70, 43005 Tarragona. Spain
+Tel.: ++34-977-250000; Fax: ++34-977-250347;
+e-mail: amb@fe.urv.es
+
+

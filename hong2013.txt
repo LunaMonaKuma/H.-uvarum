@@ -1,0 +1,855 @@
+Food Microbiology 34 (2013) 207e214
+
+Contents lists available at SciVerse ScienceDirect
+
+Food Microbiology
+journal homepage: www.elsevier.com/locate/fm
+
+Role of non-Saccharomyces yeasts in Korean wines produced from
+Campbell Early grapes: Potential use of Hanseniaspora uvarum as
+a starter culture
+Young-Ah Hong a, Heui-Dong Park a, b, c, *
+a
+b
+c
+
+Graduate School, Kyungpook National University, 80 Daehakro, Daegu 702-701, South Korea
+School of Food Science and Technology, Kyungpook National University, 80 Daehakro, Daegu 702-701, South Korea
+Institute of Fermentation Biotechnology, Kyungpook National University, 80 Daehakro, Daegu 702-701, South Korea
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 13 October 2011
+Received in revised form
+9 March 2012
+Accepted 27 December 2012
+Available online 5 January 2013
+
+Several yeasts were isolated from Campbell Early grapes (Vitis labrusca cultivar Campbell Early), the
+major grape cultivar in Korea, grown in two different regions. PCR-RFLP analysis of the ITS I-5.8S-ITS II
+region showed that 34 isolates out of a total of 40 were in the same group. Phylogenetic analysis revealed
+that the major strain belonged to one species, Hanseniaspora uvarum, although they displayed some
+nucleotide mismatches between them. During spontaneous alcohol fermentation at 20  C, the two grape
+musts containing 24  Brix sugar exhibited similar fermentation patterns with differences in ﬁnal alcohol
+production and yeast viable counts. PCR analysis of the yeasts randomly isolated during the fermentation
+using an intron splice site primer showed changes in yeast ﬂora between 8 and 10 days of fermentation.
+We found that the dominant yeasts displaying various PCR patterns using the primer remained the same
+throughout the early stages of fermentation, as determined by molecular typing of their ITS regions using
+PCR-RFLP, and these yeasts were identical to those isolated from grape berries. Among the isolates, the
+strain designated SS6 was selected based on its potassium metabisulﬁte resistance, alcohol production
+(distillation method), and ﬂavor (by snifﬁng test) of grape juice. When Campbell Early grape must was
+inoculated with H. uvarum SS6 cells, no differences in fermentation pattern were observed compared
+with that inoculated with cells of Saccharomyces cerevisiae W-3, an industrial wine yeast strain. However,
+SS6 wine showed higher levels of organic acid (especially lactic acid), aldehydes, and minor alcohols
+(except n-propyl alcohol), as well as a higher score in sensory evaluation, compared to those of W-3 wine.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Campbell Early
+Grape
+Hanseniaspora uvarum
+Indigenous yeast
+Wine
+
+1. Introduction
+Wine, in general, is made from one or more varieties of the
+European species Vitis vinifera, among which are there Cabernet
+Sauvignon, Merlot, Pinot Noir, Chardonnay, etc. It can be also made
+from other grape species such as Vitis labrusca, a native North
+American grape variety, or from its hybrids (Jackson, 1994). Most
+Korean domestic wines are fermented using Campbell Early grapes
+(V. labrusca cultivar Campbell Early) since the variety constitutes
+more than 70% of the total grape production in Korea (Kim, 2005;
+Yook et al., 2007). Campbell Early grape has been reported to
+contain a low level of sugar (13e15%) and high level of malic acid
+
+* Corresponding author. Food Science and Technology, Kyungpook National
+University, 80 Daehakro, Daegu 702-701, South Korea. Tel.: þ82 53 950 5774;
+fax: þ82 53 950 6772.
+E-mail address: hpark@knu.ac.kr (H.-D. Park).
+0740-0020/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.fm.2012.12.011
+
+(4e16 mg/mL) (Kim et al., 1999; Lee and Park, 1980; Park et al.,
+2004). However, Campbell Early grape berries contain a signiﬁcantly high foxy aroma content that negatively affects wine
+quality (Hong et al., 2010). These features are believed to be the
+main barriers to making a good wine using Campbell Early grapes.
+Although there have been several attempts to grow other grape
+varieties suitable for winemaking in grape farmlands in Korea, none
+has been successful thus far. Therefore, several studies have
+recently attempted to solve the problems associated with winemaking using Campbell Early grapes, which has adapted to the
+Korean environment (Lee et al., 2004; Park et al., 2002). Among
+them, there have been studies on the fermentation of a mixture of
+Korean grapes with other fruits (Yook et al., 2007), the effects of
+sugar addition on wine fermentation (Kim et al., 1999), application
+of carbonic maceration or reduction of malic acid content (Park
+et al., 2004), the application of malo-lactic acid fermentation (Lee
+and Park, 1980), and malic acid degradation yeast (Hong et al.,
+2010; Kim et al., 2008), etc.
+
+208
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+It is generally assumed that indigenous yeasts are suppressed
+competition with starter monocultures inoculated at high-density
+due to the general use of pure yeast cultures (Pretorius, 2000;
+Rankine, 1977). However, several studies have shown that indigenous yeasts can still participate in fermentation, resulting in
+a unique style of wine depending on the grape cultivar and the
+regions where the grapes were grown (Heard and Fleet, 1985;
+Mercado et al., 2007; Querol et al., 1992; Schütz and Gafner, 1993).
+Therefore, the efﬁcacy of non-Saccharomyces yeasts in wine fermentation has received increased attention by wine microbiologists (Ciani et al., 2010; Fleet, 2008; Jolly et al., 2006). Several
+attempts have been made to perform mixed fermentation with
+non-Saccharomyces yeasts and Saccharomyces cerevisiae for the
+purpose of enhancing particular and speciﬁc characteristics of
+wines (Bely et al., 2008; Ciani et al., 2006, 2010; Kim et al., 2008;
+Mendoza et al., 2007). To produce a unique wine using indigenous
+yeasts, it is helpful to emphasize their beneﬁcial functions as well as
+inhibit their harmful effects (Ciani et al., 2010). This requires
+methods for identifying yeasts and differentiating between yeast
+isolates based on raw grapes in order to prevent the isolation of
+certain strains sharing the same genetic background.
+Despite a short history, molecular biology methods have been
+successfully applied to the differentiation as well as identiﬁcation
+of yeasts. Among such methods, DNA-based methods have the
+advantage of being able to handle many strains at once as well as
+being independent of gene expression (de Barros-Lopes et al.,
+1996; Ness et al., 1993). Especially, methods based on polymerase
+chain reaction (PCR) have been shown to be appropriate tools for
+the rapid differentiation and identiﬁcation of yeast. Differences in
+internal transcribed spacer (ITS) and 5.8S rDNA sequences can be
+used to identify yeast species based on PCR-RFLP (Granchi et al.,
+1999; Torija et al., 2001) and phylogenetic analyses (Montrocher
+et al., 1998; Oda et al., 1997; Seo et al., 2007). Although intron
+splice site primers were originally used for the differentiation of
+commercial yeast strains (de Barros-Lopes et al., 1996), use of
+these primes in PCR ampliﬁcation has been applied to the differentiation of yeast strains isolated from other sources (Park et al.,
+1999).
+The aims of this work were to analyze yeast diversity in Korean
+Campbell Early grape berry during spontaneous wine fermentation
+as well as to isolate indigenous yeasts capable of improving wine
+quality. To minimize the problems associated with multiple isolation of certain yeast strains, all of the isolates were analyzed for
+their PCR ampliﬁcation patterns using intron splice primers and
+PCR-RFLP of the ITS 1-5.8S-ITS II region. Characteristics of the yeast
+isolates were also investigated, such as the tolerance to potassium
+metabisulﬁte as well as their alcohol and ﬂavor production from
+Korean grape must.
+2. Materials and methods
+2.1. Strain, media, and culture conditions
+S. cerevisiae W-3, an industrial wine yeast strain, was used as
+a control for the wine fermentation. Yeast cells were generally
+grown at 30  C with shaking (150 rpm) in YPD media composed of
+1% yeast extract, 2% bacto-peptone, 2% glucose, and/or Difco malt
+extract media to harvest cells for wine fermentation. All isolated
+yeast cells were stored at 70  C in the presence of 15% glycerol for
+the next experiments.
+2.2. Wine fermentation
+Spontaneous wine fermentation was carried out using Campbell
+Early grapes grown in two different regions of Korea about 200 km
+
+away from each other. Grape must (10 kg) obtained by destemming and crushing of grapes was fermented at 20  C without metabisulﬁte treatment and starter yeast cells.
+To test alcohol production, yeast cells were obtained by centrifugation of their culture broth in 1 L of Difco malt extract media.
+The yeast cells were then inoculated into 10 kg of Campbell Early
+grape must to a ﬁnal concentration of w106 cfu/ml containing
+w104 cfu/ml of wild yeasts in the presence of 200 mg/ml of potassium metabisulﬁte. The inoculated must was incubated at 20  C for
+8 days to perform alcohol fermentation.
+2.3. Yeast isolation
+Yeasts were randomly isolated from Campbell Early grape berry
+and grape must during spontaneous fermentation. For isolation of
+grape indigenous yeasts during fermentation, alcohol fermentation
+of grape must was carried out at 20  C for 18 days without inoculation with starter yeast cells. Grape berry and must samples were
+collected and sequentially diluted with sterilized 0.9% NaCl solution. The diluted samples were then spread onto YPD agar plates,
+which were incubated at 30  C for 2 days. After incubation, colonies
+were randomly picked and grown on YPD plates again for isolation
+of single colonies. All colonies were observed on a microscope to
+conﬁrm their yeast-like shapes and sizes, followed by PCR analysis
+to determine their diversity.
+2.4. Triphenyl tetrazolium chloride (TTC) staining
+Yeast TTC color counts were directly determined based on their
+different colony colors on YPD plates using 2,3,5-triphenyl tetrazolium chloride (TTC) staining according to the method of Bochneri
+and Savageau (1977). Diluted wine samples were spread onto YPD
+plates, which were incubated at 30  C for 24 h to allow the yeast
+cells to form colonies. When small colonies formed, 10 ml of a warm
+solution containing 0.05% (w/v) 2,3,5-triphenyl-2H-tetrazolium
+chloride (separately sterilized), 0.5% glucose, and 1.5% agar was
+poured on top of the YPD agar plates. The plates were then incubated at 30  C overnight to stain the colonies. Colonies with a red or
+white color were counted directly on the plates. Yeast viable counts
+are expressed as the total number of colonies. Relative ratio of TTC
+red cells to white cells was calculated as the percentage of TTC red
+and white colonies per their respective total viable count.
+2.5. PCR and PCR-RFLP
+Chromosomal DNA for the PCR template was isolated from
+yeast cells grown in YPD media for 24 h by the method described
+by Kaiser et al. (1994) and Philippsen et al. (1991). Oligonucleotide
+primers for PCR were synthesized by a commercial company
+(Bioneer Co., Chongwon, Korea). Yeast intron splice site primer
+set (50 - CTGGCTTGGTGTATGT and 50 - CTGGCTTGCTACATAC) (de
+Barros-Lopes et al., 1996) and ITS primer set (ITS1, 50 -CATTTAGAGGAACTAAAAGTCG-30 and ITS4, 50 -CCTCCGCTTATTGATATGC-30 )
+were used for PCR and PCR-RFLP analysis. PCR was performed in
+a 20 ml reaction volume using TaKaRa Taq DNA polymerase (Takara
+Shuzo Co., Otsu, Japan) with a GENE cycler (BioRad Co., Richmond,
+USA). The PCR mixture consisted of 1 mg of yeast genomic DNA,
+100 pmol of each primer, 1 U of Taq DNA polymerase, 0.25 mM
+each dNTPs, 10 mM TriseHCl (pH 8.3), 50 mM KCl, and 2.5 mM
+MgCl2. The PCR cycle program for DNA ampliﬁcation consisted of
+one cycle of 94  C for 3 min, 35 cycles of 94  C for 45 s, 55  C for
+60 s, 72  C for 60 s, and ﬁnally one cycle of 72  C for 10 min. For
+PCR-RFLP, excess dNTPs and primers were removed from the PCR
+products using a PCR puriﬁcation kit (Solgent, Daejeon, Korea).
+Appropriate amounts of amplicons were digested at 37  C for 1 h
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+with 0.5 ml of Hinf I and Hae III endonucleases (Takara Shuzo Co.,
+Otsu, Japan). DNA fragments were resolved on 5% polyacrylamide
+gel or 1.5% agarose gel based on size according to general methods
+(Sambrook and Russel, 2001). One kilobase or 100 bp ladders were
+used as a marker for checking DNA size.
+2.6. Phylogenetic analysis
+The nucleotide sequences of the ITS I-5.8S rDNA-ITS II region
+were compared with those available in the GenBank database using
+the BLAST method in order to investigate their approximate phylogenetic afﬁliation, and their sequence similarities were determined at the National Center for Biotechnology Information, USA
+(Altschul et al., 1997; http://ncbi.nlm.nih.gov/BLAST). The sequences of the related taxa were acquired from the same website.
+Nucleotide sequences were initially aligned using the CLUSTAL X
+program (Thompson et al., 1997) and then manually adjusted.
+Distance matrices were calculated, and a phylogenetic tree for the
+data set was created according to the Kimura two-parameter model
+(Kimura, 1980) and neighbor-joining method (Saitou and Nei, 1987)
+using the Mega 4 (version 4.02) software package obtained from
+the website (www.megasoftware.net).
+2.7. Analytical methods
+For analysis of alcohol content during wine fermentation,
+samples were collected and ﬁltered through Whatman No. 1 paper. The ﬁltrates were distilled, cooled down to 15  C, and then
+diluted with distilled water to the same volume of the ﬁltrate
+before the distillation. Alcohol content was assayed using a hydrometer based on the speciﬁc gravity of the wine distillates and
+is expressed as % (v/v) at 15  C according to the AOAC method
+(Caputi, 1995). Contents of soluble solid and reducing sugar were
+determined by using a refractometer according to the AOAC
+method. The total acid content was assayed by titration of the
+ﬁltrates with 0.1 N NaOH and is expressed as % tartaric acid
+(Caputi, 1995). Organic acid content was determined by HPLC with
+a Shodex RSpak KC-811 column (diam. 8  300 mm, Showa Denko
+KK, Kawasaki, Japan). The column chromatography conditions
+were as follows: ﬂow rate 1 ml/min, temperature 40  C, and
+mobile phase 0.1% phosphoric acid. Organic acids were detected
+using a refractive index detector. Contents of acetaldehyde and
+minor alcohols were determined using a GC equipped with an HPFFAP column (diam. 0.25 mm  30 m) with temperature programming. An FID was used for detection. Hue and intensity
+values of the wine were obtained based on OD420/OD520 and
+OD420 þ OD520, respectively. Hunter’s value was determined using
+a vertical type spectrophotometer (Konica Minolta Holdings, Inc.
+CM-3600d, Tokyo, Japan).
+
+209
+
+3. Results and discussion
+3.1. Identiﬁcation of major wild yeasts associated with Campbell
+Early grapes
+Several yeast strains were isolated from Campbell Early grape
+berries grown in two different regions in Korea in order to identify
+major wild yeasts. Analysis of the 20 yeast isolates from each of the
+two grape types by PCR-RFLP of the ITS I-5.8S-ITS II region found
+that all isolates from each grape type showed the same patterns.
+Among the 20 isolates of each type, 14 showed the same patterns
+while six isolates showed different patterns (Fig. 1). Phylogenetic
+analysis of the 20 strains isolated from one region revealed that all
+isolates were closest to Hanseniaspora uvarm type strain CBS 2584,
+although they could be divided into ﬁve groups due to minor
+nucleotide mismatches in the ITS I-5.8S-ITS II region (Fig. 2).
+Sequence identities of the isolates were between 99 and 100%
+compared with the type strain. The signiﬁcance of the mismatches
+has not yet been elucidated.
+The two non-Saccharomyces yeasts, Hanseniaspora uvarum and
+Hanseniaspora guilliermondii, are reportedly found at high cell
+densities, up to 106e108 cells/ml in V. vinifera grape must.
+Therefore, H. uvarum (its anamorph Kloeckera apiculata) is the
+major indigenous yeast strain in grape must together with
+H. guilliermondii (Rojas et al., 2003). However, H. guilliermondii
+was not found among the 20 randomly yeasts isolated from
+Campbell Early (V. labrusca) grape berries in this study. This could
+be attributed to differences in the physicochemical properties of
+the grape varieties that affect the adaptation of wild yeasts.
+Another possible reason could be the different environmental
+conditions such as the soil, climate, etc. based on the regions
+where the grapes were grown. In order to explore these possible
+differences, the diversity of yeast ﬂora, is being studied using two
+different Korean major grape varieties grown in several different
+farm regions.
+
+2.8. Sensory evaluation
+Sensory evaluation of wine was conducted according to a 5point hedonic scale. The panel was composed of 10 judges (ﬁve
+females and ﬁve males) from the Department of Food Science and
+Technology, Kyungpook National University, Korea who were
+deemed sensitive at taste discrimination. Sensory scores were 5
+(excellent), 3 (fair), and 1 (very poor). All data were analyzed with
+the SPSS (Statistics Package for the Social Science, version 12.0 for
+Windows) package to obtain averages and standard deviations.
+ANOVA was conducted to compare physicochemical characteristics
+and sensory properties according to each wine as well as to test the
+signiﬁcance between average values of each measurement at
+P < 0.05 using Duncan’s multiple range test.
+
+Fig. 1. PCR-RFLP of ITS I-5.8S-ITS II fragments ampliﬁed from several yeasts isolated
+from Campbell Early grape berries. Yeasts (20 isolates each) were randomly isolated
+from grape berries grown in two different regions (A and B) about 200 km away from
+each other. DNAs were digested with Hae III or Hinf I and resolved on 1.5% agarose gel.
+Lane M represents a 100 bp DNA ladder.
+
+210
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+Fig. 2. Phylogenetic tree of yeast isolates based on ITS I-5.8S-ITS II sequences. Other
+related sequences were obtained by BLAST search at the NCBI website (www.ncbi.nlm.
+nih.gov) and were aligned using Clustal X software. The tree was constructed using
+MEGA 4 software with the neighbor-joining method and the Kimura two-parameter
+calculation model (ref. the Materials and methods section).
+
+3.2. Yeast population dynamics of spontaneous fermentation of
+Campbell Early grape must
+During the spontaneous fermentation of Campbell Early grape
+must, patterns of alcohol production and sugar consumption were
+similar to each other among the grapes grown in the two different
+regions. During the ﬁrst 4 days of fermentation, neither sugar
+consumption nor alcohol production was observed. High level of
+alcohol production and a rapid decrease in sugar content were
+observed between 8 and 14 days of fermentation. The highest
+alcohol contents of the two grapes were 11.0 and 13.0% (v/v),
+respectively, dependent on the region where the grapes were
+grown. Yeast viable counts were higher in the must showing higher
+ﬁnal alcohol production (Fig. 3).
+In general wine fermentation, yeast starter is prepared using an
+industrial wine yeast strain in order to reduce the lag phase period
+and to accelerate alcohol production. This can also help prevent
+contamination by undesirable microorganisms during fermentation. When yeast starter is used, the lag phase decreases according
+to the type of yeast starter and the amount used (Fleet and Heard,
+1993). It has been demonstrated that inoculation of grape must
+with a pure culture of a selected yeast strain results in rapid, reliable, and predictable fermentation (Rankine, 1968). In this study,
+alcohol production was delayed until 4 days of fermentation since
+no yeast starter was used. Since then, alcohol content increased
+rapidly along with an increase in the viable yeast count. Although
+fermentation took a long time, the maximal level of alcohol production was similar to that typically obtained with Campbell Early
+grapes using wine yeast starters.
+During the spontaneous alcohol fermentation of Campbell Early
+grapes grown in the two different regions, several yeast strains
+were randomly isolated based on fermentation time. PCR analysis
+
+Fig. 3. Characteristics of spontaneous alcohol fermentation of Campbell Early grape
+must. Grapes grown in two different regions (A and B) were fermented without starter
+inoculation at 20  C for 18 days. During fermentation, changes in the contents of
+soluble solids (B), reducing sugar (-), and alcohol (6), as well as the viable count
+(A), were monitored every 2 days.
+
+of the isolates using intron splice site primer revealed that there
+were two different typical yeasts, one at the early stage of fermentation and the other at the late stage. A signiﬁcant change in
+the yeast ﬂora occurred between 8 and 10 days of fermentation.
+Following this, yeasts showing the same PCR patterns were dominant until 18 days of fermentation (Fig. 4). Although PCR analysis
+found that there were two major yeast groups, the early stage yeast
+group showed strong diversity depending on fermentation time.
+Several early stage yeasts showing different PCR patterns were
+randomly selected (renamed SS1 to SS14) and their ampliﬁed DNA
+patterns analyzed again. Most of the yeasts showed different patterns in their ampliﬁed DNA fragment proﬁles using intron splice
+primer (Fig. 5A). However, they showed the same patterns in PCRRFLP analysis of the ITS I-5.8S-ITS II region (Fig. 5B). The yeasts
+isolated during the late stage of fermentation were also analyzed by
+PCR-RFLP of the ITS I-5.8S-ITS II region (Fig. 6). All of the isolates
+showed the same patterns as that of S. cerevisiae W-3, which was
+used as a control strain (Fig. 6, lane W).
+In order to select an early stage yeast strain capable of being
+applied to wine fermentation, all of the strains were tested for their
+resistance to potassium metabisulﬁte and a high concentration of
+glucose in YPD liquid media. They were also tested for their alcohol
+content (by the distillation method) and ﬂavor production (by the
+snifﬁng test) in wine after fermentation of ﬁlter-sterilized grape
+juice on a small scale. One strain, designated SS6, was selected
+based on its resistance to fermentation conditions as well as it
+alcohol content and ﬂavor production in wine. It was found that
+strain SS6 was highly resistant to up to potassium metabisulﬁte up
+to a concentration of 500 mg/ml. It also showed relatively strong
+sugar tolerance with a signiﬁcantly slow growth rate in YPD liquid
+media containing 30% and 50% glucose compared with that
+obtained in YPD media. However, its cell density after culture in the
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+211
+
+Fig. 4. Changes in PCR patterns of yeasts randomly isolated during alcohol fermentation of Campbell Early grape must. Yeasts randomly isolated during fermentation of grapes
+grown in two different regions (A and B) were used as PCR template DNA sources. DNA fragments were ampliﬁed using yeast intron splice primers and directly resolved on 5%
+polyacrylamide gel. Numbers inside each ﬁgure indicate fermentation day. Lane M represents a 100 bp DNA ladder.
+
+presence of 500 mg/ml of potassium metabisulﬁte or 50% glucose
+was almost the same as that in YPD media, it was even higher in the
+presence of 30% glucose (Fig. 7). DNA sequences of the ITS I-5.8S-ITS
+II region of strain SS6 were 100% identical to those of H. uvarum
+type strain MH 501. Further, many of the physiological and biochemical characteristics tested in this study were the same as those
+described by Kurtzman and Fell (1998) (data not shown). Therefore,
+strain SS6 was identiﬁed as a strain of H. uvarum.
+
+Fig. 5. PCR patterns of yeast isolates dominant at the early stage of fermentation of
+Campbell Early grape must. Yeasts were randomly isolated after 6 days of fermentation
+in which the dominant microﬂora did not shift. Panel A, Polyacrylamide gel electrophoretic patterns of the ampliﬁed with yeast intron splice primers. Panel B, Agarose gel
+electrophoretic patterns of ampliﬁed ITS I-5.8S-ITS II DNA fragments digested with Hae
+III or Hinf I.
+
+3.3. Effects of H. uvarum SS6 on the chemical and sensorial
+properties of wine
+Experimental wine fermentation was carried out using Campbell Early grape must in the presence of 200 mg/ml of potassium
+metabisulﬁte. Grape must was inoculated with H. uvarum SS6 cells
+or S. cerevisiae W-3, an industrial wine yeast strain, as a control.
+During fermentation, changes in the contents of alcohol and soluble
+solids as well as the viable counts of TTC white and red cells were
+analyzed (Fig. 8). W-3 cell-inoculated must showed a much more
+rapid decrease in soluble solid content along with an increase in
+alcohol content compared to SS6 cell-inoculated must. However,
+the maximal alcohol content reached the same level after fermentation for 8 days (Fig. 8A). Lower yeast viable counts were
+observed in SS6 cell-inoculated must compared to W-3 cellinoculated must throughout all fermentation periods, except fermentation for 2 days. During the early stage of fermentation with
+inoculated SS6 cells for 3 days, almost all yeasts were stained as
+
+Fig. 6. PCR-RFLP of ITS I-5.8S-ITS II fragments ampliﬁed from several yeasts isolated
+during the late stage of fermentation. DNAs were digested with Hae III or Hinf I and
+resolved on 1.5% agarose gel. Lane M represents a 100 bp DNA ladder and lane W
+indicates S. cerevisiae W-3. Lanes a to h represent the yeast isolates.
+
+212
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+Fig. 7. Resistance of H. uvarum SS6 to potassium metabisulﬁte (A) and high concentrations of glucose (B). Panel A, Changes in cell density during culture in YPD liquid
+media in the absence (A) or presence of 200 mg/ml (,) and 500 mg/ml (C) of potassium metabisulﬁte. Panel B, Changes in cell density during culture in YPD liquid
+media supplemented with 2% (A), 30% (,) and 50% glucose (C).
+
+white or pink. Further, the TTC white cell ratio rapidly decreased
+along with an increase in the TTC red cell ratio. After 6 days of
+fermentation, almost all of the yeast cells were stained as TTC red.
+However, no TTC white cells were observed during the entire
+
+fermentation when W-3 cells were inoculated (Fig. 8B). TTC staining was developed for the detection of biological agents (Gunz,
+1949) as well as to determine the growth activity of yeast phase
+Histoplasma capsulatum (Reca, 1968). Since then, it has been applied
+to several types of research, including yeast species differentiation
+(Sobczak, 1985). H. uvarum and S. cerevisiae cells were stained as
+white or pink (designated TTC white) and red (TTC red), respectively, on the TTC agar plates (data not shown).
+After fermentation, the physicochemical and sensorial properties of SS6 wine were analyzed and compared with those of W-3
+wine (Table 1). No signiﬁcant differences between the two strains
+were observed in terms of alcohol, sugar, and total acid contents
+during fermentation (data not shown) as well as in the wine.
+Hunter color values were also similar to each other. However, signiﬁcant differences between the two wines were observed in the
+contents of organic acids, aldehydes, and minor alcohols. Contents
+of all detected organic acids, such as malic, tartaric, citric, and lactic
+acids, were higher in SS6 wine than those in W-3 wine. Especially,
+SS6 wine contained 4.0- and 1.9-fold higher lactic and citric acid
+contents compared to W-3 wine. SS6 wine also showed higher
+content of aldehydes and minor alcohols, except n-propyl alcohol,
+than W-3 wine. In sensory evaluation, SS6 wine obtained higher
+scores in terms of color, ﬂavor, taste, and overall preference than W3 wine. Although the correlation between the physicochemical
+properties of SS6 wine and its sensory scores is not yet clear, it can
+be presumed that inoculation of Campbell Early grapes with
+H. uvarum SS6 cells into improves wine quality. Co-fermentation of
+grape must by strains SS6 and W-3 as well as fermentation of ﬁltersterilized grape juice by strain SS6 is currently being performed to
+elucidate the beneﬁcial effects of the strains on fermentation of
+Campbell Early grapes.
+Consumption of wine in Korea has greatly increased in the past
+20 years in line with economic growth, but the Korean domestic
+wine industry is still very young. The majority of wines consumed
+
+Table 1
+Physicochemical properties and sensory score of the Campbell Early wine fermented
+with inoculation of H. uvarum SS6 starter and S. cerevisiae W-3 used as a control
+wine yeast.
+Property
+
+Must
+
+Alcohol (%, v/v)
+Soluble solid
+( Brix)
+pH
+Total acid (%)
+Hunter color
+value
+
+L
+a
+b
+
+Organic acid
+(mg/ml)
+
+Malic acid
+Tartaric acid
+Citric acid
+Lactic acid
+
+Alcohols
+(mg/ml)
+
+Methyl alcohol
+n-Propyl alcohol
+io-Butyl alcohol
+io-Amyl alcohol
+
+Sensory score
+
+Color
+Flavor
+Taste
+Overall
+preference
+
+W-3 wine
+
+24.2  0.2
+
+11.8  0.2
+7.4  0.3
+
+11.7  0.3
+7.0  0.3
+
+3.54  0.02
+0.45  0.05
+
+3.40  0.02
+0.70  0.05
+
+3.42  0.02
+0.70  0.06
+
+29.3  1.8
+55.3  5.0
+15.4  1.0
+
+29.8  1.1
+53.4  4.5
+16.7  1.1
+
+4904  198
+3747  150
+283  19
+e
+
+154.2
+50.2
+134.7
+825.7
+
+
+
+
+
+
+9.6
+4.1
+11.0
+89.1
+
+4.62  0.42
+
+Aldehyde
+(mg/ml)
+
+Fig. 8. Characteristics of alcohol fermentation of Campbell Early grape must upon
+inoculation with H. uvarum SS6 and S. cerevisiae W-3 cells. Panel A, Changes in the
+contents of alcohol (B,C) and soluble solids (,,-). Panle B, Changes in viable count
+(B,C) as well as TTC (2,3,5-triphenyl-2H-tetrazolium chloride) red (,,-) and white
+cell ratios (6,:). Fermentation was carried out at 20  C for 8 days after inoculation
+with starter cells to w106 viable counts/ml. TTC color relative ratio is expressed as the
+percentage of TTC red and white colonies per total viable counts obtained for the TTC
+staining. Open and closed symbols represent inoculation with W-3 and SS6 cells,
+respectively.
+
+SS6 wine
+
+106.9
+44.9
+70.4
+204.9
+
+
+
+
+
+
+6.5
+3.8
+6.4
+14.0
+
+2.37  0.34
+
+170.9
+47.9
+209.0
+534.6
+
+
+
+
+
+
+11.2
+4.5
+13.8
+34.5
+
+155.3
+53.0
+123.8
+585.8
+
+
+
+
+
+
+10.3
+5.0
+11.2
+40.2
+
+4.17
+3.83
+3.25
+3.58
+
+
+
+
+
+
+0.36
+0.27
+0.26
+0.28
+
+3.08
+2.92
+2.67
+3.00
+
+
+
+
+
+
+0.30
+0.21
+0.22
+0.24
+
+The fermentation was carried out in the presence of 200 mg/ml potassium metabisulﬁte with the inoculation of H. uvarum SS6 or S. cerevisiae W-3 cells to a ﬁnal
+concentration of w106 cfu/ml.
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+in Korea are imported from other countries. It was previously
+found in 2006 that Korean domestic wine is limited to only 19.6%
+of the national wine consumption (Korean National Tax Service,
+2007). Campbell Early grape type, which occupies over 70% of
+the total grape production in Korea, have several disadvantages for
+winemaking, including low sugar content (13e15%), high malic
+acid content (4e16 mg/ml) (Kim et al., 1999; Lee and Park, 1980;
+Park et al., 2004), and a signiﬁcantly high foxy aroma content
+(Wang and de Luca, 2005). These are believed to be the main
+barriers to making a good wine using Campbell Early grapes.
+Several reports have attempted to overcome these weaknesses.
+Speciﬁcally, increasing the concentration of grape juice can
+increase the sugar content, resulting in a wine without capitalization, but this also increases the amounts of other constituents
+such as acids and ﬂavors that affect wine quality. To prevent a high
+level of acids, malic acid-degrading yeast has been isolated from
+Campbell Early grape wine pomace (Seo et al., 2007). Its application to co-fermentation with industrial wine yeast in an immobilized form has resulted in a signiﬁcant reduction in malic acid
+content in wine (Hong et al., 2010; Kim et al., 2008). Foxy aroma,
+known as a negative factor affecting wine quality, in V. labrusca
+grapes is reportedly caused by a high level of methyl anthranilate
+synthesized by the action of alcohol acyltransferase in grape plants
+(Wang and de Luca, 2005). Methyl anthranilate can also be synthesized by Bacillus megaterium (Taupp et al., 2005). However, not
+much research has reported decreases in foxy aroma levels in
+wines due to the fact that most wines are made from the V. vinifera
+grape cultivar, which is known to not contain foxy aroma (Jackson,
+1994). Our recent studies have largely focused on ﬁnding microbiological solutions for the above-mentioned problems associated
+with winemaking using Campbell Early grapes, such as reduction
+of acid content (Hong et al., 2010; Kim et al., 2008; Seo et al.,
+2007), isolation and characterization of wine yeasts, and reduction of foxy aroma level in wine in order to improve the quality of
+Korean domestic wine.
+Molecular biology techniques provide a simple and rapid
+method to differentiate and identify yeasts based on their genetic
+background (de Barros-Lopes et al., 1996; Granchi et al., 1999;
+Montrocher et al., 1998; Oda et al., 1997; Park et al., 1999; Seo et al.,
+2007; Torija et al., 2001). There are a good number of papers on
+wine yeast diversity featuring molecular biology methods, especially based on PCR analysis using intron splice site primer (de
+Barros-Lopes et al., 1996), microsatellite markers (MasneufPomarede et al., 2007), 5.8S-ITS region (Agnolucci et al., 2007;
+Clemente-Jimenez et al., 2004), D1-D2 region of 26S rDNA (Mills
+et al., 2002), and mtDNA (Agnolucci et al., 2007; Blanco et al.,
+2008; Gonzalez et al., 2007; Lopes et al., 2007). In this study, we
+isolated various yeast strains participating in the fermentation of
+wine from Campbell Early grapes and characterized them using
+molecular tools. H. uvarum was found to be the major non-Saccharomyces yeast in both Campbell Early grape berries and must at
+the early fermentation stage. It has been reported that non-Saccharomyces yeast are present at a high cell density in the must of
+V. vinifera grapes during the ﬁrst 4e6 days of fermentation until the
+ethanol content reaches 4e7% (v/v). However, much higher ethanol
+contents have been obtained in wines produced by inoculation
+with H. uvarum cells (Rojas et al., 2003). Yeasts grown during the
+early fermentation stage have also been shown to enhance the
+production of desirable compounds such as esters in wine without
+any negative effect on the production of higher alcohols and undesirable heavy sulfur compounds (Moreira et al., 2008). The results obtained in this study suggest that H. uvarum SS6 might be
+helpful for improving the quality of wines produced using Campbell Early grapes, which is a unique and major grape variety in
+Korea.
+
+213
+
+Acknowledgments
+This study was carried out with the support of the Cooperative Research Program for Agricultural Science & Technology
+Development (200901AFT154192334), RDA, The Republic of
+Korea.
+References
+Agnolucci, M., Scarano, S., Santoro, S., Sassano, C., Toffanin, A., Nuti, M., 2007. Genetic and phenotypic diversity of autochthonous Saccharomyces spp. strains
+associated to natural fermentation of Malvasia delle Lipari. Letters in Applied
+Microbiology 45, 657e662.
+Altschul, S.F., Madden, T.L., Schäffer, A.A., Zhang, J., Zhang, Z., Miller, W., Lipman, D.J.,
+1997. Gapped BLAST and PSI-BLAST: a new generation of protein database
+search programs. Nucleic Acids Research 25, 3389e3402.
+Bely, M., Stoeckle, P., Masnuef-Pomarede, I., Dubourdieu, D., 2008. Impact of mixed
+Torulaspora delbrueckiieSaccharomyces cerevisiae culture on high-sugar fermentation. International Journal of Food Microbiology 122, 312e320.
+Blanco, P., Vazquez-Alen, M., Losada, A., 2008. Inﬂuence of yeast population on
+characteristics of the wine obtained in spontaneous and inoculated fermentations of must from Vitis vinifera Lado. Journal of Industrial Microbiology and
+Biotechnology 35, 183e188.
+Bochneri, B.R., Savageau, M.A., 1977. Generalized indicator plate for genetic, metabolic and taxonomic studies with microorganisms. Applied and Environmental
+Microbiology 33, 434e444.
+Caputi Jr., A., 1995. Wines. In: Cunniff, P. (Ed.), Ofﬁcial Methods of Analysis of AOAC
+International, 16th ed. AOAC International, Virginia, pp. 28.1e28.6.
+Ciani, M., Beco, L., Comitini, F., 2006. Fermentation behavior and metabolic interactions of multistarter wine yeast fermentations. International Journal of
+Food Microbiology 108, 239e245.
+Ciani, M., Comitini, F., Mannazzu, I., Domizio, P., 2010. Controlled mixed culture
+fermentation: a new perspective on the use of non-Saccharomyces yeasts in
+winemaking. FEMS Yeast Research 10, 123e133.
+Clemente-Jimenez, J.M., Mingorance-Cazorla, L., Martinez-Rodriguez, S., HerasVazquez, F.J.L., Rodriguez-Vico, F., 2004. Molecular characterization and oenological properties of wine yeasts isolated during spontaneous fermentation of
+six varieties of grape must. Food Microbiology 21, 149e155.
+de Barros-Lopes, M., Soden, A., Henschke, P.A., Langridge, P., 1996. PCR differentiation of commercial yeast strains using intron splice site primers. Applied and
+Environmental Microbiology 62, 4514e4520.
+Fleet, G.H., Heard, G.M., 1993. Yeasts: growth during fermentation. In: Fleet, G.H.
+(Ed.), Wine Microbiology and Biotechnology. Harwood Academic Publishers,
+Chur, pp. 27e54.
+Fleet, G.H., 2008. Wine yeasts for the future. FEMS Yeast Research 8, 979e995.
+Gonzalez, S.S., Barrio, E., Querol, A., 2007. Molecular identiﬁcation and characterization of wine yeasts isolated from Tenerife (Canary Island, Spain). Journal of
+Applied Microbiology 102, 1018e1025.
+Granchi, L., Bosco, M., Vicenzini, M., 1999. Rapid detection and quantiﬁcation of
+yeast species during spontaneous wine fermentation by PCR-RFLP analysis of
+the rDNA ITS region. Journal of Applied Microbiology 87, 949e956.
+Gunz, F.W., 1949. Reduction of tetrazolium salts by some biological agents. Nature
+163, 98e99.
+Heard, G.M., Fleet, G.H., 1985. Growth of natural yeast ﬂora during the fermentation
+of inoculated wine. Applied and Environmental Microbiology 50, 727e728.
+Hong, S.K., Lee, H.J., Park, H.J., Hong, Y.A., Rhee, I.K., Lee, W.H., Choi, S.W., Lee, O.S.,
+Park, H.D., 2010. Degradation of malic acid in wine by immobilized Issatchenkia
+orientalis cells with oriental oak charcoal and alginate. Letters in Applied
+Microbiology 50, 522e529.
+Jackson, R.S., 1994. Wine Science: Principles and Applications. Academic Press Inc.,
+CA (Chapter 1).
+Jolly, N.P., Augustyn, O.P.H., Pretorius, I.S., 2006. The role and use of non-Saccharomyces yeasts in wine production. South African Journal of Enology & Viticulture 27, 15e39.
+Kaiser, C., Michaelis, S., Mitchell, A., 1994. Methods in Yeast Genetics. Cold Spring
+Harbor Laboratory Press, New York.
+Kim, D.H., Hong, Y.A., Park, H.D., 2008. Co-fermentation of grape must by Issatchenkia orientalis and Saccharomyces cerevisiae reduces the malic acid content in
+wine. Biotechnology Letters 30, 1633e1638.
+Kim, J.S., Kim, S.H., Han, J.S., Yoon, B.T., Yook, C., 1999. Effects of sugar and yeast
+addition on red wine fermentation using Campbell Early. Korean Journal of
+Food Science and Technology 31, 516e521.
+Kim, S.K., 2005. The present state of grape cultivation in Korea. In: Symposium on
+Development of Yeongdong Grape Cluster Regional Innovation. Yeongdong
+Grape Cluster Organization, Yeongdong, pp. 4e10.
+Kimura, M., 1980. A simple method for estimating evolutionary rates of base substitutions through comparative studies of nucleotide sequences. Journal of
+Molecular Evolution 16, 111e120.
+Korean National Tax Service, 2007. Trend of Alcohol Consumption in 2006 Based on
+the Statistics in Korea. Korean National Tax Service, Seoul (in Korean).
+Kurtzman, C.P., Fell, J.W., 1998. The Yeasts. A Taxonomic Study, fourth ed. Elsevier
+science publishers B.V, Amsterdam.
+
+214
+
+Y.-A. Hong, H.-D. Park / Food Microbiology 34 (2013) 207e214
+
+Lee, S.O., Park, M.Y., 1980. Immobilization of Leuconostoc oenos cells for wine
+deacdiﬁcation. Korean Journal of Food Science and Technology 12, 299e304.
+Lee, S.J., Lee, J.E., Kim, S.S., 2004. Development of Korean red wines using various
+grape varieties and preference measurement. Korean Journal of Food Science
+and Technology 36, 911e918.
+Lopes, C.A., Rodriguez, M.E., Sangorrin, M., Querol, A., Caballero, A.C., 2007. Patagonian wines: implantation of an indigenous strain of Saccharomyces cerevisiae
+in fermentations conducted in traditional and modern cellars. Journal of Industrial Microbiology and Biotechnology 34, 139e149.
+Masneuf-Pomarede, I., Le Jeune, C., Durrens, P., Lollier, M., Aigle, M., Dubourdieu, D.,
+2007. Molecular typing of wine yeast strains Saccharomyces bayanus var. uvarum using microsatellite markers. Systematic Applied Microbiology 30, 75e82.
+Mendoza, L.M., Manca de Nadra, M.C., Farias, M.E., 2007. Kinetics and metabolic
+behaviour of a composite culture of Kloeckera apiculata and Saccharomyces
+cerevisiae wine related strains. Biotechnology Letters 29, 1057e1063.
+Mercado, L., Dalcero, A., Masuelli, R., Combina, M., 2007. Diversity of Saccharomyces
+strains on grapes and winery surfaces: analysis of their contribution to fermentative ﬂora of Malbec wine from Mendoza (Argentina) during two consecutive years. Food Microbiology 24, 403e412.
+Mills, D.A., Johannsen, E.A., Cocolin, L., 2002. Yeast diversity and persistence in
+botrytis-affected wine fermentations. Applied and Environmental Microbiology
+68, 4884e4893.
+Montrocher, R., Verner, M.C., Gautier, C., Marmeisse, R., 1998. Phylogenetic analysis
+of the Saccharomyces cerevisiae group based on polymorphisms rDNA spacer
+sequences. International Journal of Systematic Bacteriology 48, 295e303.
+Moreira, N., Mendes, F., Guedes de Pinho, P., Hogg, T., Vasconcelos, I., 2008. Heavy
+sulphur compounds, higher alcohols and esters production proﬁle of Hanseniaspora uvarum and Hanseniaspora guilliermondii grown as pure and mixed
+cultures in grape must. International Journal of Food Microbiology 124, 231e238.
+Ness, F., Lavallee, F., Dubourdieu, D., Aigle, M., Dulan, L., 1993. Identiﬁcation of yeast
+strains using the polymerase chain reaction. Journal of the Science of Food and
+Agriculture 62, 89e94.
+Oda, Y., Yabuki, M., Tonomura, K., Fukunaga, M., 1997. A phylogenetic analysis of
+Saccharomyces species the sequence of 18S-28S rRNA spacer regions. Yeast 13,
+1243e1250.
+Park, H.D., Kim, S.H., Shin, J.H., Rhee, I.K., 1999. Genetic analysis of alcohol yeasts
+from Korean traditional liquor by polymerase chain reaction. Journal of
+Microbiology and Biotechnology 9, 744e750.
+Park, W.M., Park, H.G., Rhee, S.J., Kang, K.I., Lee, C.H., Yoon, K.E., 2004. Properties of
+wine from domestic grape, Vitis labrusca cultivar. Campbell’s Early, fermented
+by carbonic maceration viniﬁcation process. Korean Journal of Food Science and
+Technology 36, 773e778.
+Park, W.M., Park, H.G., Rhee, S.J., Lee, C.H., Yoon, K.E., 2002. Suitability of domestic
+grape, cultivar Campbell’s Early, for production of red wine. Korean Journal of
+Food Science and Technology 34, 590e596.
+
+Philippsen, P., Stotz, A., Scherf, C., 1991. DNA of Saccharomyces cerevisiae. Methods in
+Enzymology 194, 169e182.
+Pretorius, I.S., 2000. Tailoring wine yeast for the new millennium: novel approaches
+to the ancient art of winemaking. Yeast 16, 675e729.
+Querol, A., Barrio, E., Huerta, T., Ramon, D., 1992. Molecular monitoring of wine
+fermentations conducted by active dry yeast strains. Applied and Environmental Microbiology 58, 2948e2953.
+Rankine, B.C., 1968. The importance of yeasts in determining the composition and
+quality of wines. Vitis 7, 22e49.
+Rankine, B.C., 1977. Modern developments in selection and use of pure yeast
+cultures for winemaking. Australian Wine, Brewing and Spirit Review 96,
+31e33.
+Reca, M.E., 1968. Reduction of a tetrazolium salt in determining growth activity of
+yeast-phase Histoplasma capsulatum. Applied Microbiology 16, 236e238.
+Rojas, V., Gil, J., Piñaga, F., Manzanares, P., 2003. Acetate ester formation in wine by
+mixed cultures in laboratory fermentations. International Journal of Food
+Microbiology 86, 181e188.
+Saitou, N., Nei, M., 1987. The neighbor-joining method: a new method for reconstructing phylogenetic trees. Molecular Biology and Evolution 4, 406e425.
+Sambrook, J., Russel, D.W., 2001. Molecular Cloning, A Laboratory Manual, third ed.
+Cold Spring Havor Laboratory Press, Newyork, USA.
+Schütz, M., Gafner, J., 1993. Analysis of yeast diversity during spontaneous and
+induced alcoholic fermentations. Journal of Applied Bacteriology 75, 551e558.
+Seo, S.H., Rhee, C.H., Park, H.D., 2007. Degradation of malic acid by Issatchenkia
+orientalis KMBL 5774, an acidophilic yeast strain isolated from Korean grape
+wine pomace. Journal of Microbiology 45, 521e527.
+Sobczak, H., 1985. A simple disk-diffusion test for differentiation of yeast species.
+Journal of Medical Microbiology 20, 307e316.
+Taupp, M., Harmsen, D., Heckel, F., Schreier, P., 2005. Production of natural methyl
+anthranilate by microbial N-demethylation of N-methyl methyl anthranilate by
+the topsoil-isolated bacterium Bacillus megaterium. Journal of Agricultural and
+Food Chemistry 53, 9586e9589.
+Thompson, J.D., Gibson, T.J., Plewniak, F., Jeanmougin, F., Higgens, D.G., 1997. The
+CLUSTAL X windows interface, ﬂexible strategies for multiple sequence alignment aided by quality analysis tools. Nucleic Acids Research 24, 4876e4882.
+Torija, M.J., Rozes, N., Poblet, M., Guillamon, J.M., Mas, A., 2001. Yeast population
+dynamics in spontaneous fermentations: comparison between two different
+wine-producing areas over a period of three years. Antonie van Leeuwenhoek
+79, 345e352.
+Wang, J., de Luca, V., 2005. The biosynthesis and regulation of biosynthesis of
+Concord grape fruit esters, including foxy methylanthranilate. Plant Journal 44,
+606e619.
+Yook, C., Seo, M.H., Kim, D.H., Kim, J.S., 2007. Quality improvement of Campbell
+Early wine by mixing with different fruits. Korean Journal of Food Science and
+Technology 39, 390e399.
+
+

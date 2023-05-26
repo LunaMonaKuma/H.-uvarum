@@ -1,0 +1,899 @@
+Food Microbiology 63 (2017) 205e212
+
+Contents lists available at ScienceDirect
+
+Food Microbiology
+journal homepage: www.elsevier.com/locate/fm
+
+Hanseniaspora uvarum prolongs shelf life of strawberry via volatile
+production
+Xiaojie Qin a, b, 1, Hongmei Xiao a, *, 1, Xu Cheng c, Hailian Zhou d, Linyuan Si a
+a
+
+Key Laboratory of Quality and Safety Risk Assessment in Agricultural Products Preservation (Nanjing), Ministry of Agriculture /College of Food Science and
+Technology, Nanjing Agricultural University, Nanjing, Jiangsu, 210095, PR China
+b
+MOST-USDA Joint Research Center for Food Safety and Bor Luh Food Safety Center, School of Agriculture and Biology, Shanghai Jiao Tong University,
+Shanghai, 200240, PR China
+c
+Laboratory of Molecular Biology, Department of Plant Sciences, Wageningen University, Droevendaalsesteeg 1, 6708 PB, Wageningen, The Netherlands
+d
+Centre Testing International, Shanghai, 201206, PR China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 26 April 2016
+Received in revised form
+1 November 2016
+Accepted 6 November 2016
+Available online 9 November 2016
+
+Gray mold caused by Botrytis cinerea led to severe postharvest losses for strawberry industry. In recent
+years, some studies have shown that postharvest diseases of strawberry can be controlled by using
+bacterial, fungal and yeast strains. The yeast strain Hanseniaspora uvarum was shown as an effective
+antagonist against B. cinerea growth. Here, we further investigated the volatile organic compounds
+(VOCs) production of H. uvarum and how this could impact on postharvest gray mold control of
+strawberry. A total of 28 VOCs were detected by GC-MS in the headspace of H. uvarum and strawberry
+with/without B. cinerea (SI and RSI 800). Among these VOCs, 15 VOCs were detected in both conditions,
+4 VOCs were H. uvarum and strawberry without B. cinerea and the other 9 VOCs were only detected when
+B. cinerea was inoculated. Two VOCs, ethyl acetate and 1,3,5,7-cyclooctatetraene, enhanced by inoculation of B. cinerea. In in vitro assay, H. uvarum signiﬁcantly inhibited mycelial growth and spore germination of B. cinerea via VOCs production. Moreover, in vivo assay showed that H. uvarum reduced
+B. cinerea infection of strawberry and maintained fruit appearance, ﬁrmness and total soluble solids via
+VOCs production. Collectively, our results showed that H. uvarum VOCs signiﬁcantly controlled postharvest gray mold of strawberry and prolonged the storage time and shelf life.
+© 2016 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Volatile organic compounds
+Antagonistic yeast
+Hanseniaspora uvarum
+Botrytis cinerea
+Bio-fumigation
+Strawberry
+
+1. Introduction
+Strawberries (Fragaria ananassa Duch) are highly perishable
+fruits due to their extreme tenderness, vulnerability to mechanical
+damage, high level of respiration and their susceptibility to fungal
+spoilage (Dennis, 1978). Among them, gray mold caused by Botrytis
+cinerea is responsible for severe preharvest and postharvest losses
+for strawberry industry (Romanazzi et al., 2001; Droby and Lichter,
+2004). B. cinerea is a necrotrophic plant pathogen. It can secrete
+cell-wall-degrading enzymes such as cellulases, hemicellulases,
+polygalacturonases, pectin methylesterases, and phytotoxic metabolites such as botrydial, which facilitate infection of strawberry
+fruit and developments of soft rot symptoms. Thus far, there are no
+strawberry cultivars with high resistance to B. cinerea (Huang et al.,
+
+* Corresponding author.
+E-mail address: xhm@njau.edu.cn (H. Xiao).
+1
+These authors contributed equally to this work.
+http://dx.doi.org/10.1016/j.fm.2016.11.005
+0740-0020/© 2016 Elsevier Ltd. All rights reserved.
+
+2011). More efforts have been made to minimize losses through
+developing a better understanding of mechanisms of postharvest
+diseases, as well as by developing adequate postharvest handing
+technologies and control strategies (Prusky and Gullino, 2010).
+In recent years, biological control is becoming an increasingly
+effective measure to control postharvest diseases of fruit (ElNeshawy and Shetaia, 2003; Zhang et al., 2007; Fan et al., 2009;
+Costa et al., 2013; Maryam et al., 2014; Zhang et al., 2014; Parafati
+et al., 2015; Platania et al., 2012). The mechanisms of biocontrol
+agents interact with pathogens and fruit tissues including competition for limiting nutrients and space, induced resistance, produced of lytic enzymes, mycoparasitism and the role of oxidative
+stress are demonstrated (Spadaro and Droby, 2016). Biocontrol
+applications for postharvest disease control is now directed more
+towards the use of volatile organic compounds (VOCs) produced by
+microorganisms that are biodegradable, that do not leave toxic
+residues on the fruit surface (Mercier and Smilanick, 2005).
+Biological fumigation, or biofumigation, with volatile
+
+206
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+compounds produced by microorganisms has shown promise for
+killing a wide range of storage pathogens and controlling fungal
+decay. Mercier and Smilanick (2005) indicated that VOCs produced
+by Muscador albus had possibility to control fungal decays of apple
+and peach by biofumigation. Li et al. (2012, 2010) found that volatile
+substances from Streptomyces globisporus JK-1 inhibited the spore
+germination and mycelial growth of Botrytis cinerea and Penicillium
+italicum on tomato and Citrus microcarpa, respectively. Zheng et al.
+(2013) and Chen et al. (2008) indicated the VOCs of Bacillus spp.
+were antagonistic to the Botrytis cinerea, Colletotrichum gloeosporioides, Penicillium digitatum, Penicillium italicum and Penicillium
+crusto sum. Garbeva et al., 2014 analyzed the composition of volatiles produced by Collimonas on agar under different nutrient
+conditions and studied the effect on fungal growth. The volatiles
+had a negative effect on the growth of a broad spectrum of fungal
+species. Antifungal volatiles produced by Collimonas played an
+important role in realizing its mycophagous lifestyle. Di Francesco
+et al. (2015) demonstrated that the conidia germination of Penicillium spp. was completely inhibited by VOCs produced by two
+Aurebasidium pullulans L1 and L8 strains (100% inhibition). Moreover, the production of VOCs could play an essential role in the
+antagonistic activity of two A. pullulans strains against ﬁve fruit
+postharvest pathogens in vitro and in vivo tests.
+In our previous research, Hanseniaspora uvarum was an effective
+antagonist, which reduced the natural decay development of grape
+and strawberry and maintained the quality parameters (Qin et al.,
+2015; Cai et al., 2015). Meanwhile, H. uvarum has been reported
+as a potential biological control agent for control of chilli fruit rot
+(Basha and Ramanujam., 2015) and postharvest green mold of oranges (Li et al., 2016). H. uvarum has been reported to inhibit the
+growth of B. cinerea with multiple modes of action such as
+competition for nutrients and space, induction of host defense,
+morphology change and secondary metabolites (Liu et al., 2010;
+Qin et al., 2015; Cai et al., 2015; Romanazzi et al., 2012). Moreira
+et al. (2011) have identiﬁed different VOCs produced by Hanseniaspora yeasts during red wine viniﬁcations included such as 3methyl-1-butanol, ethyl acetate, phenylethyl alcohol and butanoic
+acid, ethyl ester. However, the effect of VOCs produced by
+H. uvarum as a mode of antagonism action for the control of postharvest disease is not described. Here, we identiﬁed VOCs from
+H. uvarum on strawberry with/without B. cinerea, and studied
+antifungal activity of VOCs against B. cinerea in vitro and in vivo. This
+work attempted to ﬁnd a better strategy to control gray mold of
+strawberry, and prolong the storage time and shelf time.
+2. Materials and methods
+2.1. Fungal strains
+The antagonist yeast was isolated from the surface of strawberries and identiﬁed as Hanseniaspora uvarum based on the similarity analysis of its morphologies, physiological-biochemical
+characteristics and 26S rDNA D1/D2 domain sequence (Genbank
+accession number: JX125041). The yeast was maintained on potato
+dextrose agar (PDA, 200 mL extract of boiled potatoes, 20 g
+dextrose and 20 g agar in 1000 mL distilled water) at 4  C before
+use. Liquid cultures of the yeast were grown in 250 mL Erlenmeyer
+ﬂasks with 100 mL potato dextrose (PDB, 200 mL extract of boiled
+potatoes, 20 g dextrose in 1000 mL distilled water) on a gyratory
+shaker at 180 r min1, 28  C for 24 h. The yeast cells were acquired
+by centrifuging at 6000 g for 15 min at 4  C, then washed with
+sterile distilled water twice and re-suspended in sterile distilled
+water with 0.05% Tween-20. Cells concentration was adjusted to a
+ﬁnal concentration of approximately 1  109 CFU mL1 using a
+hemacytometer (XB-K-25; Shanghai, China).
+
+B.cinerea, from infected strawberry fruit, obtained from Kang Tu,
+Department of Food Science and Technology, Nanjing Agricultural
+University, Nanjing, Jiangsu 210095, China (Wei et al., 2014) and
+stored on potato dextrose agar (PDA) at 4  C. Before use, B. cinerea
+was freshly cultured on PDA plates at 23  C. Spore suspensions
+were prepared by removing the spores from a 7-day old culture
+with a sterile inoculator and then suspending in sterile distilled
+water to the required concentration of 1  105 spores$mL1, which
+was estimated using a hemacytometer.
+2.2. Fruit
+Fragaria ananassa ‘Hong Yan’, were grown in a greenhouse
+located in Yuhua district, Nanjing city, Jiangsu province, China.
+Diurnal temperature in the greenhouses ranges from 8  C to 25  C.
+Commercially mature fruit were harvested early in the morning,
+and then transported immediately to the laboratory in 2 h. All fruits
+were selected depending on the maturity, size color, and the
+absence of physical injuries or infections.
+2.3. Gas chromatography-mass spectrometry analysis of H. uvarum
+VOCs
+The equator of fruits were hit a wide 3 mm, deep 4 mm hole
+with a sterile hole puncher and placed 30 min. The experiments
+were divided into three groups: (Control) Inoculated with 100 mL
+sterile water into the wound of strawberry fruit; (H) Inoculated
+with 100 mL 1  109 CFU mL1 H. uvarum into the wound of
+strawberry fruit; (HB) Inoculated with 100 mL 1  109 CFU mL1
+H. uvarum into the wound of strawberry fruit and then 100 mL
+1  105 spore$mL1 conidial suspension of B. cinerea. All groups
+were incubated for 3 days at 25  C and 5 g wound samples of every
+group were transferred to a 20 mL extraction glass vial. The
+experiment was repeated twice per group (15 unwounded fruits/
+group).
+Yeast VOCs composition was evaluated by SPME coupled with
+gas chromatography-mass spectrometry (GC-MS). For all subsequent experiments, an SPME ﬁber with 75 mm CAR/PDMS coating
+was used. Trapped compounds were desorbed into the GC injection
+port at 250  C for 3 min, and separated in a gas chromatograph
+equipped with a TR-5MS fused silica capillary column (30 m by
+0.25 mm inside diameter; 0.25 mm ﬁlm thickness) connected to a
+quadrupole mass detector. The oven temperature was set at 40  C
+for 2.5 min and then programmed to rise from 40 to 200  C at
+5  C$min1, from 200 to 240  C at 10  C min1 for 5 min. The
+transfer line was heated at 230  C and the ion source at 250  C.
+Helium carrier gas had a ﬂow of 1 mL min1. The mass spectrometer was operated in electron impact mode at 70 eV, scanning the
+range of 40e400 amu. Identiﬁcation of the VOCs was done by
+comparing the mass spectra and retention times of the individual
+VOC with those for the standard compounds deposited in the
+database of the National Institute of Standards and Technology
+(NIST) and the Wiley Registry of Mass Spectral Database (Wiley 7.0)
+in the MS (SI and RSI  800).
+2.4. In vitro VOCs antagonistic assay
+The efﬁcacy of the VOCs produced by the yeast on the mycelium
+growth and conidia germination of B. cinerea were tested. The
+method used was adopted by a double petri dish assay (Rouissi
+et al., 2013) with some modiﬁcations. The PDA plates were inoculated spreading 100 mL of antagonist cell suspension
+(1  109 CFU mL1). Equivalent amounts of sterile distilled water
+were used as the control. The lid of plate was replaced, by a base
+plate of PDA inoculated with an agar plug (5 mm) from the
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+periphery of an actively growing culture of B. cinerea. The two base
+plates were sealed immediately with double layer of paraﬁlm and
+incubated for 5 days at 25  C. The fungal hyphal diameter was
+assessed and the percentage of inhibition was calculated using the
+formula: (Control value  Treatment value)/Control value  100%.
+Spore suspensions (1  105 spore$mL1) were prepared from
+exposed to volatiles treatment and control on the ﬁfth day and then
+inoculated in PDB. Four hours later, conidial germination and germ
+tube length were examined via optical light microscope. For each
+experiment, there were three replicates, and the experiments were
+repeated twice.
+2.5. In vivo VOCs antagonistic assay
+2.5.1. Effects of H. uvarum VOCs on control of gray mold in
+strawberry fruit at 25  C
+The bioassay was done in closed glass desiccators (6.5 cm by
+15 cm, down diameter by up diameter). Aliquots of the yeast cell
+suspension of H. uvarum (1  109 CFU mL1) were pipetted and
+plated on PDA in petri dishes at 200 mL of yeast cell suspension per
+dish. Thirty unwounded strawberry fruits of similar size individually were inoculated with the conidial suspension (z1  105
+spore$mL1) of B. cinerea on the surface of strawberry fruit for each
+treatment. The dishes with the culture of H. uvarum were placed at
+the bottom of the desiccators at six dishes per desiccator. The fruit
+were then placed on the perforated ceramic clapboard above the
+uncovered dishes containing H. uvarum cultures or uncolonized
+PDA in a desiccator. There were four different fumigation time
+treatments in each trial: (i) negative control (no fumigation), (ii)
+one day, (iii) two days, (iv) three days. After different fumigation
+time, strawberries were placed in an incubator at 25  C (RH90%e
+95%). The decay index and weight loss were evaluated on the 6th
+day. The experiment was repeated twice with three replicates per
+treatment (30 fruits/treatment).
+An additional experiment was conducted to verify the suppressive effect of the VOCs of H. uvarum on development of gray
+mold. Thirty unwounded fruits were inoculated with the conidial
+suspension (z1  105 spore$mL1) of B. cinerea on the surface of
+strawberry fruit for each treatment. There were three treatments in
+this experiment: (i) uninoculated with the yeast suspension on
+PDA, (ii) inoculated with the yeast suspension on PDA, (iii) inoculated with the yeast suspension on PDA and active carbon. There
+were three desiccators (replicates) for each treatment. For the (i)
+treatment, six uncovered dishes with uninoculated PDA were
+placed at the bottom of each desiccator. For the (ii) treatment, six
+uncovered dishes with culture of H. uvarum were placed at the
+bottom of each desiccator. For the (iii) treatment, six uncovered
+dishes with the PDA cultures of H. uvarum and 50 g of active carbon
+were placed at the bottom of each desiccator. The desiccators were
+individually covered and incubated at 25  C (RH90%e95%) for 6
+days. The decay index and weight loss were determined after incubation. The experiment was repeated twice with three replicates
+per treatment (30 fruits/treatment).
+2.5.2. Effects of VOCs on postharvest quality of strawberry fruit
+during cold storage
+The bioassay was done in closed glass desiccators (9 cm by
+27 cm, down diameter by up diameter). Aliquots of the yeast cell
+suspension of H. uvarum (1  109 CFU mL1) were pipetted and
+plated on PDA in petri dishes at 500 mL of yeast cell suspension per
+dish. Control: no inoculated yeast suspension on PDA; Treatment:
+inoculated yeast suspensions on PDA. Seventy ﬁve of unwounded
+strawberry fruits were then placed on the perforated ceramic
+clapboard above the eight uncovered dishes containing H. uvarum
+
+207
+
+cultures or uncolonized PDA in a desiccator for each treatment. The
+desiccators were individually covered and incubated at 25  C
+(RH90%e95%) for 3 days, Then all groups were taken out from the
+desiccators and placed at 2 ± 1  C, RH90%e95%. Postharvest qualities of the fruit were evaluated at intervals of 5 days. Weight loss
+was determined before treatment and after storage, and the weight
+loss was calculated as (A-B)/A  100%, A: weight before treatment,
+B: weight after storage. Commodity rate was calculated as (A þ B)/
+C  100%, where A was the number of no decay, B was the number
+of very slight decay that covering <10% of the fruit surface and C
+was the total number of fruit. The testing methods of decay index,
+ﬁrmness, pH and total soluble solids (TSS) were same with Cai et al.,
+2015. The experiment was repeated twice with three replicates per
+treatment (75 fruits/treatment).
+2.6. Statistical analysis
+All statistical analyses were performed in the SAS Software
+(Version8.2; SAS Institute, Cary, NC, USA). The data were analyzed
+by one-way analysis of variance (ANOVA). Comparison of means
+was performed by Duncan’s multiple range tests. Statistical signiﬁcance was assessed at the level of P  0.05.
+3. Results
+3.1. Identiﬁcation of VOCs from H.uvarum on strawberry with/
+without B.cinerea
+A total of 28 volatile organic compounds were detected from
+H. uvarum on strawberry with/without B. cinerea, excluding the
+VOCs of strawberry (SI and RSI  800) (Table 1). Among these VOCs,
+15 VOCs were detected in both conditions, 4 VOCs were H. uvarum
+and strawberry without B. cinerea and the other 9 VOCs were only
+detected when B. cinerea was inoculated. These volatiles were
+classiﬁed into alcohols, esters, organic acids, alkenes, ketones and
+aldehydes (Table 1). In the presence of B. cinerea, the relative peak
+areas of ethyl acetate and 1,3,5,7-cyclooctatetraene was higher than
+that of H. uvarum alone, approximately 1.6- and 17.4-fold (Table 1
+and Fig. 1A&B).
+Through analyzing the composition of H. uvarum VOCs, we
+detected several VOCs which have been demonstrated inhibiting
+fungal growth (speciﬁc annotation in Table 1). Therefore, we tested
+the antifungal activity of H. uvarum via VOCs production in vitro and
+in vivo.
+3.2. Effect of H.uvarum VOCs against B.cinerea
+Growth of B. cinerea was monitored and mycelial length was
+quantiﬁed daily for 5 days. The in vitro assay showed that H. uvarum
+was able to inhibit growth of B. cinerea via production of VOCs
+(Fig. 2A). A signiﬁcant difference (P < 0.05) in the fungal hyphal
+diameter of B. cinerea was observed between the H. uvarum treatment and the control (Fig. 2B). H. uvarum affected B. cinerea
+development via VOCs production as well. In control B. cinerea
+started sporulating 3 days after inoculation, however, sporulation
+was not observed in the H. uvarum treatment (Fig. 2A). Futhermore,
+microscopy analysis revealed differences in hypha morphology of
+B. cinerea between H. uvarum treatment and control. The hypha of
+B. cinerea in control showed a thick morphology with a disperse
+surface. However, the stunted tips and morphological abnormalities on hypha of B. cinerea were observed in the H. uvarum treatment (Fig. 2C). These results suggested that the VOCs had a
+signiﬁcant inhibitory effect on B. cinerea growth.
+
+208
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+3.3. Effects of H. uvarum VOCs on control of gray mold in
+strawberry fruit at 25  C
+After incubation at 25  C, RH90%e95% for 6 days, all strawberry
+fruits in the control treatment (uncolonized PDA) showed soft rot
+and gray mold symptoms, with the highest decay index and weight
+loss (Fig. 3). However, in the presence of the fumigation of
+H. uvarum VOCs increasing from 1st day to 3rd day, the decay index
+of strawberry decreased from 0.71 to 0.29 and the weight loss
+decreased from 2.45 to 0.73, which were signiﬁcantly lower than
+those of the control fruit (P < 0.05) (Fig. 3).
+The H. uvarum VOCs suppressed signiﬁcantly decay index and
+weight loss of strawberry (Fig. 4). In contrast, the suppressive effect
+of the H. uvarum VOCs and active carbon treatment was greatly
+nulliﬁed by active carbon. The decay index reached 0.59 (same with
+the control) and weight loss reached 4.99% (signiﬁcantly higher
+than the control) in this treatment. These values were signiﬁcantly
+higher than those in the H. uvarum treatment (P < 0.05) (Fig. 4).
+3.4. Effects of H. uvarum VOCs on postharvest quality of strawberry
+fruit during cold storage
+The effects of H. uvarum via VOCs on strawberry fruit decay
+index, commodity index, weight loss, ﬁrmness, total soluble solid
+and pH were determined (Fig. 5). Results showed that the decay
+index of strawberry treated by the H. uvarum treatment was 0.65,
+which was signiﬁcantly (P < 0.05) lower than that of the control
+(Fig. 5A) on the 25th day. Meanwhile, the commodity rate of
+strawberries treated by H. uvarum treatment was 33.3%, which was
+
+Fig. 1. (A) Total ion chromatogram of VOCs produced by H. uvarum on strawberry. (B)
+Total ion chromatogram of VOCs produced by H. uvarum on strawberry inoculated with
+B. cinerea. (C) The structures of ethyl acetate and 1,3,5,7-cyclooctatetraene.
+
+signiﬁcantly (P < 0.05) higher than that of the control (0%) on the
+25th day (Fig. 5B). The weight loss of fruit treated by the H. uvarum
+
+Table 1
+Volatile organic compounds detected from H.uvarum on strawberry with/without B.cinerea.
+Possible compounds
+
+RA (%)a
+H. uvarum
+
+H. uvarum and B. cinerea
+
+Ethanol
+Ethyl acetate
+Propanoic acid, ethyl ester
+3-Methyl-1-butanol
+1,3,5,7-Cyclooctatetraene
+Phenylethyl alcohol
+Acetic acid, 2-phenylethyl ester
+Butanoic acid, 2-methyl-, ethyl ester
+1-Hexanol
+Butanoic acid 3-hydroxy-, ethyl ester
+Benzyl alcohol
+Hexanoic acid, 3-hydroxy-, ethyl ester
+Octanoic acid, ethyl ester
+Benzenepropanol
+n-Decanoic acid
+1-Octanol
+Acetophenone
+Acetic acid, octyl ester
+Hexanoic acid, 2-hexenyl ester, (E)2-Nonanone
+3-Methyl-1-butanol, acetate
+Phenol, 4-ethylAcetic acid 2-methylpropyl ester
+Hexanoic acid
+3-Phenyl-2-propenal
+Decanoic acid, ethyl ester
+3-Phenyl-2-propenoic acid, ethyl ester
+Dodecanoic acid
+
+2.01
+21.78
+1.06
+3.19
+1.27
+2.14
+1.41
+0.19
+0.81
+0.81
+0.12
+0.09
+0.76
+0.27
+0.06
+0.25
+0.08
+0.07
+0.06
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+1.83
+34.87
+0.98
+1.86
+22.1
+1.55
+1.14
+0.12
+0.32
+0.54
+0.16
+0.12
+0.57
+0.17
+0.17
+e
+e
+e
+e
+0.11
+0.03
+0.17
+0.21
+0.41
+0.03
+0.05
+0.93
+0.14
+
+SI/RSIb
+
+MW(Da)c
+
+Antifungal activity
+
+References
+
+892/892
+900/901
+832/891
+895/892
+898/908
+944/946
+923/923
+867/908
+894/906
+926/927
+915/917
+909/914
+924/925
+807/901
+909/913
+906/911
+888/888
+901/904
+897/973
+807/879
+882/907
+840/860
+820/820
+800/800
+839/878
+914/916
+907/912
+801/801
+
+46
+88
+102
+88
+104
+122
+164
+130
+102
+132
+108
+160
+172
+136
+172
+130
+120
+172
+198
+142
+130
+122
+116
+116
+132
+200
+176
+200
+
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+※
+※
+※
+※
+※
+※
+※
+※
+※
+※
+※
+✓
+✓
+✓
+※
+※
+※
+※
+※
+※
+
+Huang
+Huang
+Huang
+Huang
+Huang
+Huang
+Huang
+Huang
+
+et
+et
+et
+et
+et
+et
+et
+et
+
+al.,
+al.,
+al.,
+al.,
+al.,
+al.,
+al.,
+al.,
+
+2011
+2011
+2011
+2011; Singh et al., 2011
+2011
+2011
+2011
+2011; Kudalkar et al., 2012
+
+Huang et al., 2011
+Huang et al., 2011; Zheng et al., 2013
+Ren et al., 2010
+
+e, Not detected or not in the scope (SI and RSI  800).
+✓, These volatiles have been demonstrated the antifungal activity in other reference according to the above table.
+※, These volatiles were detected in this study but not sure the antifungal activity.
+a
+RA, relative peak area: the value for a volatile compound represented the percentage of the area of the peak for that volatile compound in the total area of peaks for all the
+detected volatile compounds.
+b
+SI, Similarity index; RSI, Reverse similarity index; the chemical compounds (SI and RSI800) were analyzed.
+c
+MW, molecular weight.
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+209
+
+C
+
+Control
+
+H.uvarum
+
+Fig. 2. (A) Fungal growth after exposure to H. uvarum VOCs. Photographs of all the plates were taken with a ﬁxed distance between the plate and the camera. (B) In vitro antifungal
+activity with H. uvarum VOCs. Bars represent standard errors of the mean of 3 independent replicates. Asterisks indicate statistical differences compared to control according to
+Duncan’s multiple range test at P  0.05 level. (C) Microscopic view of B. cinerea hyphae exposed to H. uvarum VOCs on the 5th day (40  ).
+
+treatment was lower than that of control signiﬁcantly (P < 0.05)
+(Fig. 5C). Besides, the treatment of H. uvarum maintained greatly
+the fruit ﬁrmness, total soluble solid and pH of strawberry
+(Fig. 5DeF), which were signiﬁcantly (P < 0.05) higher than that of
+control on the 25th day.
+4. Discussion
+In previous research, H. uvarum played an important role in biocontrol of gray mold of strawberry by nutrient and space competition, suppression of conidial germination and hyphal growth of
+B. cinerea, hyperparasitism and induction of host defense (Qin et al.,
+2015; Cai et al., 2015). However, the antagonistic mechanisms of
+H. uvarum were not fully understood. In this study we focused on
+antifungal activity of the secondary metabolites, the volatile
+organic compounds (VOCs) produced by H. uvarum. Currently, most
+studies on microbial volatiles are performed in vitro under nutrient
+rich conditions (Kai et al., 2009; Weise et al., 2012; Garbeva et al.,
+2014) and may not represent the conditions that prevail in the
+microbial environment. So in this work we studied the H. uvarum
+VOCs on strawberry. Furthermore, to study the antifungal activity
+of H. uvarum VOCs, we inoculated the B. cinerea on the wound
+strawberry for further research.
+All VOCs produced by microorganisms could generally be
+chemically grouped into alcohols, esters, alkanes, alkenes, alkynes,
+organic acids, ketones, terpenoids, aldehydes and sulfur
+
+compounds (Corcuff et al., 2011; Wan et al., 2008). In this study, 28
+volatiles were classiﬁed into alcohols, esters, organic acids, alkenes,
+ketones and aldehydes, which were in accordance with the above
+categories. We just presented the volatiles in every group (SI and
+RSI 800), and deducted the components of control. The rest VOCs
+were shown in Table 1. However, some researchers demonstrated
+that VOCs such as ethyl acetate; 3-methyl-1-butanol, acetate and
+hexanoic acid were detected in strawberries (Pelayo et al., 2003;
+Kim et al., 2013). Similarly, in our study, these volatiles were also
+detected in control (strawberries), but which were not in the scope
+(SI and RSI 800). Thus, these volatiles were not included in control
+when we analyzed the results. VOCs from strawberry inoculated
+B. cinerea alone were also detected in this work (data not shown),
+we found some volatiles such as 2-undecenal; 2-undecanone; 2decenal, (Z)-2-heptenal, (Z)-; 2H-pyran-2-one, tetrahydro-4hydroxy-4-methyl-; 2,4-decadienal; benzene, 4-ethenyl-1,2dimethyl- were not in other groups. Meanwhile, Ethyl acetate and
+1,3,5,7-cyclooctatetraene were not detected in the strawberry
+inoculated with B. cinerea alone without H. uvarum (SI and RSI
+800). The VOCs assay on strawberry was quite complex due to the
+interaction between strawberry and fungi. Some volatiles may be
+from yeast or strawberry induced by yeast and pathogen. In our
+previous work, volatiles from H. uvarum and B. cinerea on pure PDB
+cultures were detected. The results showed that H. uvarum VOCs
+including ethanol; ethyl acetate; propanoic acid, ethyl ester; 3methyl-1-butanol, 1-pentanol; 3-methyl-1-butanol, acetate;
+
+210
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+Fig. 3. Effect of the H. uvarum VOCs treatment on gray mold of strawberry. All groups were stored at 25  C after fumigation. Decay index and weight loss were determined on the
+6th day. Bars represent standard errors of the mean of 3 independent replicates. Asterisks indicate statistical differences compared to control according to Duncan’s multiple range
+test at P  0.05 level.
+
+Fig. 4. Effect of the volatiles of H. uvarum plus activated carbon on decay index and
+weight loss of strawberry stored at 25  C for 6 days. Bars represent standard errors of
+the mean of 3 independent replicates. Asterisks indicate statistical differences
+compared to control according to Duncan’s multiple range test at P  0.05 level.
+
+1,3,5,7-cyclooctatetraene; phenylethyl alcohol; acetic acid; 2methyl-1propanol; acetic acid, 2-methylpropyl ester; acetic acid,
+pentyl ester; octanoic acid; octanoic acid, ethyl ester; propanoic
+acid, 2-methyl; hexanoic acid were detected. B. cinerea VOCs
+
+including 2-methyl-1-butanol; butanoic acid, 2-methyl; 3-methyl1-butanol, acetate; hexanoic acid, methyl ester; benzaldehyde;
+benzene, 1,4-dichloro-; benzeneacetaldehyde; 1-undecene; 2nonanone; 2-nonanol were detected.
+According to the references, some volatiles in Table 1 have been
+demonstrated antifungal activity, such as ethanol; ethyl acetate; 3methyl-1-butanol; 1,3,5,7-cyclooctatetraene; phenylethyl alcohol;
+propanoic acid, ethyl ester; acetic acid, 2-phenylethyl ester; butanoic acid, ethyl ester; 2-nonanone; 3-methyl-1-butanol, acetate
+and phenol, 4-ethyl- (Table 1) (Huang et al., 2011; Singh et al., 2011;
+Kudalkar et al., 2012; Ren et al., 2010; Garbeva and De Boer, 2009;
+Garbeva et al., 2014; Chen et al., 2008; Druvefors et al., 2005;
+Stinson et al., 2003). Among these compounds, 1,3,5,7cyclooctatetraene, an antifungal compound (Huang et al., 2011;
+Stinson et al., 2003), which was not detected in strawberry, was
+enhanced by the presence of B. cinerea as relative peak area
+increased to 22.1%. This indicated that volatile compound was
+
+Fig. 5. Effect of fumigation with H. uvarum VOCs on Decay index (A), Commodity rate (B), Weight loss (C), Firmness (D), pH (E) and TSS (F) of strawberry during cold storage. Bars
+represent standard errors of the mean of 3 independent replicates. Asterisks indicate statistical differences compared to control according to Duncan’s multiple range test at
+P  0.05 level.
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+induced by B. cinerea. Some antifungal volatile compounds such as
+2-nonanone, 3-methyl-1-butanol, acetate and phenol, 4-ethylwere detected in the presence of B. cinerea on strawberry. However,
+other volatiles detected in this study were needed to determine
+further for their antifungal activity by pure standard substance.
+Overall, We could combine with the previous work and indicate
+that H. uvarum produced some antifungal volatiles such as ethanol;
+propanoic acid, ethyl ester; 1,3,5,7-cyclooctatetraene and phenylethyl alcohol on pure culture and strawberries. How do the
+H. uvarum VOCs inhibit the mycelial growth and spore germination
+of B. cinerea? It is likely that different volatiles occur synergistically
+among the antagonist, pathogen and fruit.
+In vitro, B. cinerea grew the whole PDA plate almost on the 4th
+day and completely on the 5th day in the control. However, the
+mycelial growth and spore germination of B. cinerea were inhibited
+in the H. uvarum treatment. Furthermore, the antifungal effect of
+volatiles gradually increased with time (days) and the greatest inhibition (to 68.55%) of mycelial growth of B. cinerea was observed
+on the 3rd day (data not shown). Under optical light microscope,
+volatiles induced stunted tips and morphological abnormalities on
+the conidia of B. cinerea. This similar result was also found in other
+researches. For example, Using transmission electron microscopy,
+Li et al. (2012) revealed that fumigated and untreated B. cinerea
+showed excessive vesiculation or thickened cell walls in exposed
+conidia and increased vesiculation or strong retraction of plasma
+membrane in exposed hyphae. Bruce et al. (2003) showed that
+volatiles from bacteria and yeast inhibited pigment production by
+sapstain fungi. Thus, these results provided a better understanding
+of the volatiles’ mode of action.
+In order to verify the effect of H. uvarum VOCs on B. cinerea
+growth, spore suspensions (1  106 spore$mL1) were prepared
+from volatiles treatment and control on the 5th day and then
+inoculated in PDB. The results showed that there was no signiﬁcant
+difference in spore production and germ tube length of B. cinerea
+between the control and the treatment in fresh PDB (data not
+shown). Thus, we speculated that H. uvarum only inhibited the
+mycelial growth and spore germination of B. cinerea via VOCs
+production, B. cinerea renewed growth when transferred to fresh
+PDB culture.
+In vivo, our results obtained that the infection process of
+B. cinerea on strawberry fruit was suppressed in the presence of
+volatiles. The volatiles mainly affected the early stages of the
+infection process by inhibiting conidial germination and mycelial
+growth, which were veriﬁed the results in vitro. Results of different
+fumigation time showed that the longer the time of fumigation, the
+greater the inhibitory activity against the B. cinerea. The reason
+maybe the longer fumigation time produced more antifungal volatile substances. Active carbon was mainly used to absorb gas. In
+order to verify the function of volatiles, we designed active carbon
+combined with H. uvarum as another control group. The results
+showed decay index of strawberry in additional active carbon and
+control group were signiﬁcantly (P < 0.05) higher than that of
+H. uvarum treatment. However, the weight loss of strawberry in
+additional active carbon were signiﬁcantly (P < 0.05) higher than
+that of other groups, including control. This phenomenon suggested that H. uvarum could inhibit signiﬁcantly B. cinerea infection
+of strawberry via VOCs production. Meanwhile, we speculated that
+the PDA cultures may produce some volatiles which inhibit
+B. cinerea growth slightly.
+Some studies showed microbial VOCs display versatile functions: they inhibited bacterial and fungal growth, promote or
+inhibit plant growth, trigger plant resistance and attract other
+micro- and macro-organisms (Hagai et al., 2014; Schmidt et al.,
+2015). In the present study, the main quality parameters
+including ﬁrmness, total soluble solids, pH, weight loss, decay index
+
+211
+
+and commodity of strawberry fruit were assayed. It was found that
+H. uvarum VOCs treatment maintained fruit weight loss, ﬁrmness,
+TSS and pH, and improved the commodity rate during cold storage.
+This also indicated that H. uvarum VOCs not only inhibited the
+B. cinerea growth, but decreased the fruit rot and prolonged the
+storage time.
+In conclusion, the current work demonstrated that the volatiles
+from H. uvarum could inhibit B. cinerea in vitro and on strawberry
+fruit, and could potentially be an effective alternative for the control
+of postharvest diseases by fumigant action. Further studies are
+needed on improving the production of VOCs from H. uvarum and
+testing the inhibitory effect on other pathogens.
+Funding
+This study was supported by Science and Technology Department of Jiangsu Province (No. BE2010385) and A Project Funded by
+the Priority Academic Program Development of Jiangsu Higher
+Education Institutions and National College Students’ innovation
+and entrepreneurship (No. 201310307046).
+Notes
+The authors declare no competing ﬁnancial interest.
+References
+Basha, H., Ramanujam, B., 2015. Growth promotion effect of Pichia guilliermondii in
+chilli and biocontrol potential of H. anseniaspora uvarum against Colletotrichum
+capsici causing fruit rot. Biocontrol Sci. Technol. 25 (2), 185e206.
+Bruce, A., Stewart, D., Verrall, S., Wheatley, R.E., 2003. Effect of volatiles from bacteria and yeasts on the growth and pigmentation of sapstain fungi. Int. Biodeter.
+Biodegrad. 51, 101e108.
+Cai, Z.K., Yang, R., Xiao, H.M., Qin, X.J., Si, L.Y., 2015. Effect of preharvest application
+of Hanseniaspora uvarum on postharvest diseases in strawberries. Postharvest
+Biol. Tec. 100, 52e58.
+Chen, H., Xiao, X., Wang, J., Wu, L.J., Zheng, Z.M., Yu, Z.L., 2008. Antagonistic effects
+of volatiles generated by Bacillus subtilis spore germination and hyphal growth
+of the plant pathogen, Botrytis cinerea. Biotechnol. Lett. 30, 919e923.
+Corcuff, R., Mercier, J., Tweddel, R., 2011. Effect of water activity on the production of
+volatile organic compounds by Muscodor albus and their effect on three pathogens in stored potato. Fungal Biol. 115, 220e227.
+Costa, L.B., Rangel, D.E.N., Morandi, M.A.B., Bettiol, W., 2013. Effects of UV-B radiation on the antagonistic ability of Clonostachys rosea to Botrytis cinerea on
+strawberry leaves. Biol. Control 65, 95e100.
+Dennis, C., 1978. Post-harvest spoilage of strawberries. ARC Res. Rev. 4, 38e44.
+Di Francesco, A., Ugolini, L., Lazzeri, L., Mari, M., 2015. Production of volatile organic
+compounds by Aurebasidium pullulans as a potential mechanism of action
+against postharvest fruit pathogens. Biol. Control 81, 8e14.
+Droby, S., Lichter, A., 2004. Post-harvest Botrytis infection: etiology, development
+and management. In: Botrytis: Biology, Pathology and Control, pp. 349e367.
+Druvefors, A.U., Passoth, V., Schnurer, J., 2005. Nutrients effects on biocontrol of
+Penicillium roqueforti by Pichia anomala J121 during airtight storage of wheat.
+Appl. Environ. Microbiol. 71, 1865e1869.
+El-Neshawy, S.M., Shetaia, Y.M.H., 2003. Biocontrol capability of Candida spp.
+Against Botrytis rot of strawberries with respect to fruit quality. In:
+Tijskens, L.M.M., Vollebregt, H.M. (Eds.), Proceedings of the International Conference on Quality in Chains, Vols. 1 and vol. 2. An Integrated View on Fruit and
+Vegetable Quality. 727e733.
+Fan, Y., Xu, Y., Wang, D., Zhang, L., Sun, J., Sun, L., Zhang, B., 2009. Effect of alginate
+coating combined with yeast antagonist on strawberry (Fragaria  ananassa)
+preservation quality. Postharvest Biol. Technol. 53, 84e90.
+Garbeva, P., De Boer, W., 2009. Inter-spectic internations between carbon-limited
+soil bacteria affect behavior and gene expression. Microb. Ecol. 58, 36e46.
+Garbeva, P., Hordijk, C., Gerards, S., De Boer, W., 2014. Volatiles produced by the
+mycophagous soil bacterium Collimonas. FEMS Microbiol. Ecol. 87, 639e649.
+Hagai, E., Dvora, R., Havkin-blank, T., Zelinger, E., Porat, Z., Schulz, S., Helman, Y.,
+2014. Surface-motility induction, attraction and hitchhiking between bacterial
+species promote dispersal on solid surfaces. ISME J. 8, 1147e1151.
+Huang, R., Li, G.Q., Zhang, J., Yang, L., Chen, H.J., Jiang, D.H., Hunag, H.C., 2011.
+Control of postharvest Botrytis fruit rot of strawberry by volatile organic compounds of Candida intermedia. Phytopathology 101, 859e869.
+Kai, M., Haustein, M., Molina, F., Petri, A., Scholz, B., Piechulla, B., 2009. Bacterial
+volatiles and their action potential. Appl. Microbiol. Biotechnol. 81, 1001e1012.
+Kim, Y.H., Kim, K.H., Szulejko, J.E., Parker, D., 2013. Quantitative analysis of fragrance
+and odorants released from fresh and decaying strawberries. Sensors 13 (6),
+
+212
+
+X. Qin et al. / Food Microbiology 63 (2017) 205e212
+
+7939e7978.
+Kudalkar, P., Strobel, G., Riyaz-UI-Hassan, S., Geary, B., Sears, J., 2012. Muscodor
+sutura, a novel endophytic fungus with volatile antibiotic activities. Mycoscience 53, 319e325.
+Li, Q.L., Ning, P., Zheng, L., Huang, J.B., Li, G.Q., Hsiang, T., 2010. Fumigant activity of
+volatiles of Streptomyces globisporus JK-1 against Penicillium italicum on Citrus
+microcarpa. Postharvest Biol. Tec. 58, 157e165.
+Li, Q.L., Ning, P., Zheng, L., Huang, J.B., Li, G.Q., Hsiang, T., 2012. Effects of volatile
+substances of Streptomyces globisporus JK-1 on control of Botrytis cinerea on
+tomato fruit. Biol. Control 61, 113e120.
+Li, W.H., Zhang, H.Y., Li, P.X., Apaliya, M.T., Yang, Q.Y., Peng, Y.P., Zhang, X.Y., 2016.
+Biocontrol of postharvest green mold of oranges by Hanseniaspora uvarum Y3 in
+combination with phosphatidylcholine. Biol. Control 103, 30e38.
+Liu, H.M., Guo, J.H., Luo, L., Liu, P., Wang, B.Q., Cheng, Y.J., Deng, B.X., Long, C.A., 2010.
+Improvement of Hansenisapora uvarum biocontrol activity against gray mold by
+the addition of ammonium molybdate and the possible mechanisms involved.
+Crop Prot. 29, 277e282.
+Maryam, Z.Z., Sabihe, S.Z., Mahmoud, S.Z., Sayed, A.H.G., 2014. Integration of
+Lactobacillus plantarum A7 with thyme and cumin essential oils as a potential
+biocontrol tool for gray mold rot on strawberry fruit. Postharvest Biol. Tec. 92,
+149e156.
+Mercier, J., Smilanick, J.L., 2005. Control of green mold and sour rot of stored lemon
+by biofumigation with Muscodor albus. Biol. Control 32, 401e407.
+Moreira, N., Pina, C., Mendes, F., Couto, J.A., Hogg, T., Vasconcelos, I., 2011. Volatile
+compounds contribution of Hanseniaspora guilliermondii and Hanseniaspora
+uvarum during red wine viniﬁcations. Food Control 22, 662e667.
+Parafati, L., Vitale, A., Restuccia, C., Cirvilleri, G., 2015. Biocontrol ability and action
+mechanism of food-isolated yeast strains against Botrytis cinerea causing postharvest bunch rot of table grape. Food Microbiol. 47, 85e92.
+Pelayo, C., Ebeler, S.E., Kader, A.A., 2003. Postharvest life and ﬂavor quality of three
+strawberry cultivars kept at 5  C in air or airþ20 kPa CO2. Postharvest Biol. Tec.
+27 (2), 171e183.
+Platania, C., Restuccia, C., Muccilli, S., Cirvilleri, G., 2012. Efﬁcacy of killer yeasts in
+the biological control of Penicillium digitatum on Tarocco orange fruits (Citrus
+sinensis). Food Microbiol. 30, 219e225.
+Prusky, D., Gullino, M.L., 2010. Post-harvest Pathology. Springer, Dordrecht.
+Qin, X.J., Xiao, H.M., Xue, C.H., Yu, Z.F., Yang, R., Cai, Z.K., 2015. Biocontrol of gray
+mold in grapes with the yeast Hanseniaspora uvarum alone and in combination
+with salicylic acid or sodium bicarbonate. Postharvest Biol. Tec. 100, 160e167.
+Ren, Y.H., Strobel, G., Sears, J., Park, M., 2010. Geobacillus sp., a thermophilic soil
+
+bacterium producing volatile antibiotics. Microb. Ecol. 60, 130e136.
+Romanazzi, G., Nigro, F., Ippolito, A., Salerno, M., 2001. Effect of short hypobaric
+treatments on postharvest rots of sweet cherries, strawberries and table grapes.
+Postharvest Biol. Tec. 22, 1e6.
+Romanazzi, G., Lichter, A., Gabler, F.M., Smilanick, J.L., 2012. Recent advances on the
+use of natural and safe alternatives to conventional methods to control postharvest gray mold of table grapes. Postharvest Biol. Tec. 63, 141e147.
+Rouissi, W., Ugolini, L., Martini, C., Lazzeri, L., Mari, M., 2013. Control of postharvest
+fungal pathogens by antifungal compounds from Penicillium expansum. J. Food
+Prot. 11, 1879e1886.
+Schmidt, R., Cordovez, V., De Boer, W., Raaijmakers, J., Garbeva, P., 2015. Volatile
+affairs in microbial interactions. ISME J. 42, 1e7.
+Singh, S.K., Strobel, G.A., Knighton, B., Geary, B., Sears, J., Ezra, D., 2011. An Endophytic Phomopsis sp. possessing bioactivity and fuel potential with its volatile
+organic compounds. Microb. Ecol. 61, 729e739.
+Spadaro, D., Droby, S., 2016. Development of biocontrol products for postharvest
+diseases of fruit: the importance of elucidating the mechanisms of action of
+yeast antagonists. Trends Food Sci. Tech. 47, 39e49.
+Stinson, M., Ezra, D., Hess, W.M., Sears, J., Strobel, G., 2003. An endophytic Gliocladium sp. Of Eucryphia cordifolia producing selective volatile antimicrobial
+compounds. Plant Sci. 165, 913e922.
+Wan, M., Li, G., Zhang, J., Jiang, D., Huang, H.C., 2008. Effect of volatile substances of
+Streptomyces platensis F-1 on control of plant fungal disease. Biol. Control 46,
+552e559.
+Wei, Y.Y., Mao, S.B., Tu, K., 2014. Effect of preharvest spraying Cryptococcus laurentii
+on postharvest decay and quality of strawberry. Biol. Control 73, 68e74.
+Weise, T., Kai, M., Gummesson, A., Troeger, A., von Reuss, S., Piepenborn, S.,
+Kosterka, F., Sklorz, M., Zimmermann, R., Francke, W., Piechulla, B., 2012. Volatile organic compounds produced by the phytopathogenic bacterium Xanthomonas campestris pv. vesicatoria 85-10. Beilstein J. Org. Chem. 8, 579e596.
+Zhang, H., Wang, L., Dong, Y., Jiang, S., Cao, H., Meng, R., 2007. Postharvest biological
+control of gray mold decay of strawberry with Rhodotorula glutinis. Biol. Control
+40, 287e292.
+Zhang, H.Y., Ge, L.L., Chen, K.P., Zhao, L.N., Zhang, X.Y., 2014. Enhanced biocontrol
+activity of Rhodotorula mucilaginosa cultured in media containing chitosan
+against postharvest diseases in strawberries: possible mechanisms underlying
+the effect. J. Agric. Food Chem. 62, 4214e4224.
+Zheng, M., Shi, J.Y., Shi, J., Wang, Q.G., Li, Y.H., 2013. Antimicrobial effects of volatiles
+produced by two antagonistic Bacillus strains on the anthracnose pathogen in
+postharvest mangos. Biol. Control 65, 200e206.
+
+

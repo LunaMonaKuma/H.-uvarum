@@ -1,0 +1,941 @@
+Food Chemistry 274 (2019) 907–914
+
+Contents lists available at ScienceDirect
+
+Food Chemistry
+journal homepage: www.elsevier.com/locate/foodchem
+
+Proteomics proﬁle of Hanseniaspora uvarum enhanced with trehalose
+involved in the biocontrol eﬃcacy of grape berry
+
+T
+
+⁎
+
+Maurice Tibiru Apaliya, Qiya Yang, Hongyin Zhang , Xiangfeng Zheng, Lina Zhao,
+Xiaoyun Zhang, Emmanuel Kwaw, William Tchabo
+School of Food and Biological Engineering, Jiangsu University, 301 Xuefu Road, Zhenjiang 212013, Jiangsu, PR China
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Gene ontology
+Defense response
+Eﬃcacy, proteome
+Vitis vinifera
+Biocontrol
+
+This present study tested the extent to which 2% w/v trehalose enhanced the proteins expression proﬁle of
+Hanseniaspora uvarum Y3. Furthermore, it explored the relative gene expression of stilbene synthase (StSy), one
+of the vital defense-related genes found in the skin of grapes. The proteomics proﬁle revealed that 29 proteins
+were diﬀerentially expressed out of which 26 were signiﬁcantly up-regulated and 3 were download-regulated.
+The pathogenesis related (PR) and other protein spots were visible at 97.4 kDa and 14.4 kDa. Peroxiredoxin
+TSA1 and superoxide dismutase were the main proteins involved in defense response and both proteins were
+signiﬁcantly up-regulated. The carbohydrate and energy metabolism proteins were also signiﬁcantly up-regulated. The results revealed that the treatments were associated with substantial increase in peroxidase activity
+compared to the control. StSy relative gene expression level was observed to increase by 2.5-fold in grapes
+treated with the pre-enhanced H. uvarum compared to the control.
+
+1. Introduction
+Postharvest losses continue to deprive the world populace of adequate food security particularly with fruits and vegetables. Currently,
+postharvest losses of agricultural produce is between 29 and 38% for
+developed and higher for developing countries (Gustavsson, Cederberg,
+Sonesson, & Emanuelsson, 2013). In an attempt to curb the canker,
+several methods such as physical (Gündüz, Juneja, & Pazır (2015),
+chemical (Boukaew, Prasertsan, Troulet, & Bardin, 2017) and biological
+(Wicaksono, Jones, Casonato, Monk, & Ridgway, 2017) have been
+employed to control postharvest diseases of fruits and vegetables. Over
+the past few years, biological control has been touted as the best
+method for controlling postharvest diseases of fruits and vegetables
+(Schirra, D’Aquino, Cabras, & Angioni, 2011). As a result several biological control agents and bioactive compounds that play complementary roles in postharvest disease control have been studied
+(Zhang, Chen, & Wang, 2013). A better understanding of the mechanisms of postharvest biocontrol agents on fruit, is critical for the advancement of the development of successful biocontrol products.
+Hanseniaspora uvarum exhibited industrially important antagonistic
+features against the growth of molds responsible for fruits decay (López,
+Mateo, & Maicas, 2015). Previous study indicated that H. uvarum Y3, a
+non Saccharomyces cerevisiae showed biocontrol eﬃcacy against
+
+⁎
+
+Aspergillus tubingensis (Apaliya et al., 2017). Similarly results showed
+that H. uvarum Y3 signiﬁcantly inhibited grape rots caused by A. tubingensis with no negative eﬀect observed on the quality parameters
+(unpublished data). However, the mechanism(s) behind the biocontrol
+was not investigated. In this wise, the proteome proﬁle of the antagonist has been explored. Trehalose is a non-reducing sugar, which has
+successfully shown to act against oxidative stress, heat shock, dehydration, harmful chemicals and nutrient starvation (Argüelles, 2000).
+Trehalose can protect enzymes, liposomes, antibodies, and microorganisms during drying and or storage (Gancedo & Flores, 2004). Our
+previous results indicated that H. uvarum enhanced with 2% w/v trehalose demonstrated biocontrol eﬃcacy against Aspergillus tubingensis in
+grapes (Apaliya et al., 2017).
+Previously, phenylalanine ammonia lyase, CAT, chitinase, ascorbate
+peroxidase and polyphenoloxidase which are involved in defense-related and antioxidant activities were signiﬁcantly regulated (Apaliya
+et al., 2017). Proteomics are among the most important tools employed
+to investigate the mechanism(s) involved in biocontrol. To this end, the
+aim of this study was to: (i) Investigate stilbene synthase genome,
+peroxidase, superoxide dismutase, hydrogen peroxide and malondialdehyde expression levels in table grapes treated with H. uvarum
+enhanced with trehalose in NYDB. (ii) Investigate the proteomics proﬁles of H. uvarum pretreated with/without 2% w/v trehalose.
+
+Corresponding author.
+E-mail address: zhanghongyin126@126.com (H. Zhang).
+
+https://doi.org/10.1016/j.foodchem.2018.09.060
+Received 3 April 2018; Received in revised form 25 July 2018; Accepted 10 September 2018
+Available online 11 September 2018
+0308-8146/ © 2018 Elsevier Ltd. All rights reserved.
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+2. Materials and methods
+
+centrifuged at 12,000 rpm for 10 min. The absorbance was determined
+at 532 nm and subtracted from non-speciﬁc absorbance (600 nm). The
+extinction coeﬃcient used for the MDA calculated was 155 mM cm/1.
+The protein content was determined using the method of Bradford
+(1976) with bovine serum albumin as the protein standard.
+
+2.1. Source of fruit
+Grape (Vitis vinifera cv. ‘Hongti’) berries were harvested from a
+project farm in Zhenjiang, Jiangsu Province, China. The grapes were
+harvested at commercial maturity in the vineyard and selected based on
+features such as absence of blemishes and uniformity of sizes.
+Subsequently, the grapes were sent to the laboratory and surface disinfected using 0.1% v/v sodium hypochlorite for 1 min. The grapes
+were then air dried at room temperature after rinsing twice with tap
+water, stored in an incubator at room temperature and 95% relative
+humidity.
+
+2.7. Hydrogen peroxide (H2O2)
+The H2O2 content of the grapes was determined according to the
+method of Patterson, MacRae, and Ferguson (1984). Brieﬂy, 3 g of the
+grape tissues was used to extract H2O2 and the sample homogenized
+with 5 ml of cold 100% acetone. The sample was then centrifuged at
+12,000 rpm for 20 min at 4 °C. The absorbance of the sample was determined at 412 nm and the results expressed in µmol/g fresh weight
+(FW).
+
+2.2. Microbial antagonist
+Hanseniaspora uvarum strain Y3 was isolated from the surface of
+grapes in a vineyard in Zhenjiang, Jiangsu Province, China by our research team. Standard methods based on cell morphology and colony
+formation were used for preliminary characterization (Kurtzman, Fell,
+& Boekhout, 2011). Afterward, sequence analysis of 5.8S internal
+transcribed spacer (ITS) ribosomal RNA (rRNA) region was used to
+identify the yeast (Apaliya et al., 2017).
+
+2.8. Stilbene synthase RNA extraction and quantitative real-time reverse
+transcription polymerase chain reaction (qRT-PCR)
+Matured table grapes were prepared for the assay according to the
+method described by Apaliya et al. (2017). Total mRNA was extracted
+according to the manufacturer’s instructions (Sigma-Aldrich, Shanghai,
+China). qRT-PCR was conducted with the Cdna (1000 ng of mRNA was
+used for cDNA synthesis) and the gene-speciﬁc primers StSy (F: 5′
+CTCTTAGGTCTTGAAACATCGGT 3′; R: 5′AAGACCCATCACCAAA AGG
+3′) and actin (F: 5′ TTCAATAAGGAGAAGATGGTG GA 3′; R: 5′ TTGGT
+GAGGTAGTCTGTGAGGTC 3′) were conducted with an Agilent 2100
+Bioanalyzer and an ABI StepOnePlus Real-Time PCR System (Applied
+Biosystems, USA) (Zhang, Wang, Hu, & Liu, 2015).
+The ampliﬁed products were examined after the PCR reaction
+through Melting curve analyses. The melting cycle condition was: 95 °C
+for 15 s, 60 °C for 1 min, and 95 °C for 15 s. The ACTIN gene of the
+grapes was used as an internal control to normalize the expressed data
+(Liu & Ekramoddoullah, 2006). The 2−ΔΔCt method was used to calculated relative expression level of the identiﬁed genes (Livak &
+Schmittgen, 2001). The RT-qPCR analysis was conducted twice and the
+standard deviation was deternined among three biological replicates.
+
+2.3. Grapes treaments
+Commercially matured ‘Hongti’ cv. (Vitis vinefera) were wounded
+(3 mm diameter × 3 mm deep) with sterile cork borer and the following
+treatments inoculated into the wounds: (1) 30 µl sterile distilled water
+(SDW) as control, (2) 30 µl of H. uvarum (1 × 108 CFU/ml), (3) 30 µl
+2% w/v trehalose and (4) 30 µl H. uvarum T (1 × 108 CFU/ml) pretreated with 2% w/v trehalose in NYDB. The grapes were dried in
+plastic baskets, wrapped with plastic ﬁlm and incubated at 20 °C at 95%
+relative humidity. The samples were taken and enzyme activity analyzed at 0, 24, 48 and 72 h.
+2.4. Peroxidase activity
+Peroxidase (POD) activity was determined using the method described by Lurie, Fallik, Handros, and Shapira (1997). The reaction
+mixture composed of 0.2 ml supernatant (crude enzyme extract) and
+guaiacol 2.2 ml of 0.3% (50 mM sodium phosphate buﬀer, pH 6.4) was
+incubate at 30 °C for 5 min. Then 0.6 ml of 0.3% H2O2 (50 mM sodium
+phosphate, pH 6.4) was added and incubated at 30 °C for 5 min. Subsequently, POD activity was measured at 470 nm every 30 s for 3 min.
+The blank was prepared by replacing the crude enzyme with 0.2 ml
+50 mM sodium phosphate buﬀer (pH 6.4). The POD activity was expressed as unit milligram/g fresh weight (Unit mg/FW).
+
+2.9. Protein assay
+H. uvarum Y3 was dispensed into two separate 250 ml Erlenmeyer
+ﬂasks containing NYDB with/without 2% w/v trehalose and cultured in
+a rotary incubator (180×g) at 28 °C for 24 h. The cell suspensions of the
+yeasts were then harvested from both media (NYDB and NYDB containing 2% w/v trehalose) by centrifugation at 10,000 rpm for 10 min
+at 4 °C. Subsequently, the yeast cells were washed thrice using 4 °C SDW
+in order to get rid of all residual media. The protein samples were
+prepared for two-dimensional gel electrophoresis according to the
+method described by Zhao, Zhang, Lin, Zhang, and Ren (2013).
+In brief, the samples were freeze dried with liquid nitrogen and
+ground to ﬁne powder using a mortar and pestle. The powder was
+homogenized in cold 10 ml TE buﬀer (0.073 g EDTA, 1.518 g Tris-base
+adjusted to pH 8.0 with 1 M HCl). The buﬀer was dissolved using
+250 ml MilliQ H2O and kept at 4 °C. Then, 174 μl phenylmethane sulfonyl ﬂuoride (PMSF) was added to the homogenate and stored for
+30 min at 4 °C in order to make the proteins inactive. Thereafter, 174 μ1
+of 1 mM/ml PMSF was again added to the homogenate and vortexed for
+0.5 min, and placed in ice for a min. A volume of 50 μg/ml RNase A and
+200 μg/ml DNase were used to hydrolyze the RNA and DNA in the
+homogenate for 30 min at 4 °C. After centrifugation for 30 min, the
+supernatant was transferred into a micro tube.
+The homogenates were then stored overnight and 3 ml of acetone
+(20% triﬂuoroacetic acid which was pre-chilled −20 °C) added to
+precipitate the proteins. The mixture was centrifuged for 60 min and
+the precipitated proteins retained by discarding the supernatant.
+Subsequently, the proteins were washed twice using acetone for 30 min,
+
+2.5. Superoxide dismutase (SOD)
+SOD activity was assayed according to the method described by
+Wang, Tian, Xu, Qin, and Yao (2004). First, 3 ml of a reaction mixture
+composed of cold sodium phosphate buﬀer (50 mM, pH 7.8), 10 µl
+EDTA, 75 µM nitroblue tetrazolium (NBT), 13 mM methionine, 2 µM
+riboﬂavin and 0.1 ml crude enzyme extract were mixed. Then, a
+ﬂuorescent lamp was illuminated through the sample for 10 min and
+absorbance determined at 560 nm. A unit of SOD was deﬁned as the
+quantity of enzyme extract that caused a 50% decrease of SOD-nitroblue tetrazolium reduction. SOD activity was expressed as unit mg/FW.
+2.6. Malondialdehyde (MDA)
+To determine MDA activity, 2 ml of 0.5% thiobarbituric acid (TBA)
+in 15% trichloroacetic acid was added to 1 ml of the enzyme extract.
+The mixture was heated for 20 min at 95 °C, cooled in ice for 5 min then
+908
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+to identify the proteins. Allowed modiﬁcations, carbamidomethyl of
+cysteine (ﬁxed), oxidation of methionine (variable), all series, taxonomy, and peptide tolerance, ± 0.3 Da. were the MS parameters used.
+Only proteins with the highest Mowse score were considered for identiﬁcation, and was signiﬁcant (p < 0.05) when protein scores were
+N88 (NCBInr) or 70 (Swissport).
+
+and centrifuged at 15,000 rpm for 30 min at °C. Afterward, the sedimented proteins were air-dried for 5 min, solubilized in 100 μl of lysis
+buﬀer (4% w/v CHAPS, 2 M thiourea, 65 mM DTT, 7 M urea, and 0.2%
+v/v) and stored at −80 °C until used. The protein concentration was
+determined using the method of Bradford (1976) with slight modiﬁcations using bovine serum albumin as a standard.
+The 2-DE and Image Analysis were conducted to the method described by Wang et al. (2005). Brieﬂy, isoelectric focusing (IEF) was
+performed using Immobiline™ and GE Ettan IPGphor 3 dry strip gels. A
+GE Healthcare with a nonlinear pH gradient ranging from 3 to 10 based
+on the manufacturer’s manual was used. IPG gel strips of analytical
+grade were subsequently loaded with 1 mg of total protein that have
+been passively rehydrated with rehydration buﬀer (2 M thiourea, 7 M
+urea, 4% w/v CHAPS, 65 mM DTT, and 0.2% v/v of carrier ampholytes)
+overnight in a IPG-box (GE Healthcare). GE Ettan IPGphor 3 was used
+to focus the rehydrated strips in a manifold focusing tray at a current
+limit of 50 μA/strip.
+Then, the strips were covered with 7 ml mineral oil and IEF ﬁlters
+placed at the terminals. For the second dimension separation, strips
+were equilibrated by shaking them continuously in the IPG gels equilibration buﬀer (6 M urea, 2% SDS, 32% w/v glycerol, 0.375 M
+Tris–HCl and pH 8.8). The IPG strips were incubated for 15 min in
+130 mM DTT buﬀer and then alkylated for 20 min in 135 mM iodoacetamide buﬀer in order to reduce the proteins. Thereafter, the strips
+were washed using electrophoresis buﬀer and transferred into a 12.5%
+acrylamide SDS-PAGE gels (24 × 18 × 1 cm).
+The gels were covered with agarose solution (0.5% w/v agarose,
+192 mM glycine, 0.1% SDS, 0.001% bromophenol blue (BPB), 25 mM
+Tris–base and pH 8.8) and (GE Healthcare), Ettan DALT system was
+used to run the polyacrylamide gels in order to separated proteins. The
+gels obtained after the electrophoresis were stained with coomassie
+blue for 2 h and then washed (45% of methanol, 45% of MilliQ water,
+10% of glacial acetic acid and 2.5 g of R250) continuously until the
+protein spots became clear. Imagery assay was conducted with modiﬁcations (Zhang et al., 2016). The washed gels were scanned using
+Ettan DALT System (GE Healthcare, USA) with a resolution of 500 dpi.
+The analysis of the images was carried out with Image Master 7.0
+analysis software (GE Healthcare, Piscataway, NJ, USA) for the detection and matching of the protein spots. Quantitative comparative analysis between the two samples (treatment and the control) were performed taking into consideration the statistically signiﬁcant protein
+spots. Protein spots that had an average fold change > 1.5 (p < 0.05)
+were regarded as diﬀerentially expressed proteins. The experiment
+consisted of three biological replicates and each was repeated twice.
+The protein In-Gel digestion was carried out according to Zhang
+et al. (2011). Brieﬂy, diﬀerentially expressed protein spots of the gels
+were excised manually and put in a tube. Afterwards, each protein spot
+was washed twice using 350 μl deionized H2O for 10 min. This step was
+repeated till all the blue stains were washed oﬀ. Subsequently, the gel
+was dehydrated for 10 min with 50 μl acetonitrile and 10 mM
+(NH4)2CO3 (1:1 v/v). The gel pieces were dehydrated once again with
+50% acetonitrile and with 25 mM ammonium carbonate. Three (3) μl
+containing 10 ng/μl of trypsin solution in 25 mM ammonium carbonate
+was added to the samples and stored for 30 min at 4 °C until the gel
+pieces absorbed all trypsin solution.
+Then, 15 μl 25 mM (NH4)2CO3 was added to the gel pieces and
+stored at 37 °C overnight for digestion and proteolysis. Afterwards, 2%
+TFA was added to the samples and centrifuged instantly at 4 °C for
+10 min at 10,000 rpm. Then, 1 μl peptide was marked in all the wells in
+perforated plates and vaporized at room temperature. This phase was
+repeated. Mass calibrations were performed using a standard peptide
+mixture. Matrix-Assisted Laser Desorption/Ionization Time of Flight
+(MALDI-TOF) mass spectrometer (Bruker Daltonics, Germany) was used
+to ran the mass spectra and database queries used to identify all proteins (Wang et al., 2005). MASCOT search link (http://www.
+matrixscience.com) with NCBInr and Swissport databases were used
+
+2.10. Statistical analysis
+To test the signiﬁcance of the eﬀect of all treatments, one-way
+analyses of variance (ANOVA) using OriginPro version 2016 (Original,
+Northampton, USA) was performed. A two-way ANOVA was also used
+to determine the eﬀect of treatment and time on gene expression level.
+Mean separations were performed by Tukey’s test for comparison
+among treatments at regular time intervals. Diﬀerences at p < 0.05
+were considered signiﬁcant. All experiments were performed in triplicates and each experiment repeated. Bars represent the mean expressed
+from three independent experiments ( ± standard deviation).
+3. Results
+3.1. Eﬀect of H. uvarum and H. uvarum T on POD, SOD, MDA and H2O2 in
+grapes
+In Fig. 1A, the results indicated that POD activity signiﬁcantly
+(p < 0.05) increased in all the treated grapes compared to the control
+after inoculation and storage at 20 °C. All the treatments increased
+exponential from 0 to 48 h of storage and then declined at 72 h. At 48 h,
+the activity of POD in the grapes that were treated with H. uvarum T
+reached 20 mg per fresh weight (mg/FW).
+Besides the H. uvarum T signiﬁcantly (p < 0.05) impacted on SOD
+activity from 0 to 48 h (Fig. 1B). At 48 h after inoculation, SOD activity
+reached a peak of 21.7 mg/FW. H. uvarum treated grapes was also
+signiﬁcantly diﬀerent (p < 0.05) from the control. It was observed that
+the control recorded the least SOD activity throughout the experiment.
+There was no signiﬁcant diﬀerence (p < 0.05) between 2% w/v trehalose and the control treated grapes from 0 to 48 h after inoculation.
+MDA activity in all the grapes treated with the control, H. uvarum and
+the H. uvarum T increased gradually with increasing time of incubation
+till 48 h, after which there were steady declines (Fig. 1C). It was observed that there were no signiﬁcant diﬀerences (p < 0.05) among all
+the treatments from 0 to 24 h. However, at 48–72 h all the treatments
+were signiﬁcantly diﬀerent in comparison with the control. MDA level
+in grapes that were inoculated with H. uvarum T remained the lowest
+throughout the period of the experiment. As shown in Fig. 1D, H2O2
+content in the grapes treated with H. uvarum and the H. uvarum T were
+found to be generally low with maximum values below 1.0 µmol/FW.
+However, H2O2 activity in both the control and 2% w/v trehalose
+treated grapes increased sharply from 0 to 24 h and then declined.
+There were no signiﬁcant diﬀerences (p < 0.05) in H2O2 content observed between the grapes treated with the control and 2% w/v trehalose. Contrarily, there were signiﬁcant diﬀerences among grapes
+treated with H. uvarum and the H. uvarum T compared to the control
+and 2 w/v trehalose.
+3.2. Eﬀects of H. uvarum and H. uvarum T on stilbene synthase expression
+in grapes
+The qRT-PCR assay on StSy relative gene expression levels in the
+grapes showed that H. uvarum, 2% w/v of trehalose, and H. uvarum T
+signiﬁcantly (p < 0.05) enhanced the expression levels of StSy in the
+grapes compared to the control (Fig. 2). Indeed the two-way ANOVA
+revealed that time (p < 0.05) and treatment (p < 0.05) and their interaction signiﬁcantly inﬂuenced the gene expression level of StSy. The
+results also indicated that H. uvarum T grapes was signiﬁcantly higher
+(p < 0.05) compared to the 2% w/v trehalose and H. uvarum. It was
+909
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+Fig. 1. Time course change of (a) peroxidase (POD), (b) superoxide dismutase (SOD), (c) malondialdehyde (MDA), and Hydrogen peroxide (H2O2) in table grapes
+incubated at 20 °C following treatment with (a) control (sterile distilled water), (b) 2% w/v tr (2% w/v of trehalose), (c) H. uvarum and H. uvarum T (H. uvarum
+pretreated with 2% w/v trehalose NYDB). The ﬁndings show the mean of the three (3) independent replicates. Error bars indicate the SD (n = 3).
+
+noticed that at 0 h after incubation H. uvarum T increased by 1.80-fold
+compared to the control. At 24 h, the relative gene expressions of H.
+uvarum T attained a peak of 2.5-fold increase compared to the control.
+3.3. Diﬀerentially expressed protein proﬁle
+To study the possible mechanisms of action involved in the diﬀerent
+activities showed by H. uvarum and H. uvarum T on grapes, the proteomic proﬁle of both microorganisms was performed. The 2-DE analysis indicated that 93 protein spots were visualized after the stain
+buﬀer was washed oﬀ. Unclear protein spots and those with undeﬁned
+shapes were not considered. Quantitative analysis showed that a total of
+40 protein spots from the H. uvarum T were compared to spots from the
+control. The best resolved protein spots in the gel were distributed
+between 14.4 and 97.4 kDa with a pH of 7.0 (Fig. 3).
+Among the 40 protein spots, 29 protein spots (72.5%) were clearly
+identiﬁed through MALDI-TOF/MS and subsequently searched in
+NCBInr database. The ﬁndings showed that out of the 29 diﬀerentially
+expressed proteins, 26 were signiﬁcantly up-regulated while 3 were
+down-regulated compared to the control. Hence, Fig. 3 shows two-dimensional pattern of intracellular proteins of H. uvarum and H. uvarum
+T respectively. These protein spots (Fig. 3) correspond to those stated in
+the ﬁrst column of Table 1. The proteins identiﬁed were classiﬁed based
+on their functions such as cell structure and signal transduction, carbohydrate and energy metabolism, defense response, protein biosynthesis and degradation, amino acid and fatty acid metabolism and
+unclassiﬁed proteins. Majority of the diﬀerentially expressed proteins
+
+Fig. 2. Time course change of stilbene synthase (StSy). qRT-PCR was used to
+determine relative gene expression levels of table grapes inoculated and stored
+at 20 °C from 0 to 72 h. The treatments used were: control (sterile distilled
+water), 2% w/v tr (2% w/v of trehalose), H. uvarum and H. uvarum T (H. uvarum
+pretreated with 2% w/v trehalose in NYDB). 0 h (1 h after the treatments were
+performed). The results are the means of three independent replicates. Diﬀerent
+letters on each bar indicate statistical signiﬁcance at p < 0.05 among treatments. Bars represent the mean expressed from three independent experiments
+( ± standard deviation).
+
+910
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+4. Discussion
+Genomics and proteomics are some of the useful ‘omic’ technologies
+that can be employed to characterize genes and proteins expression
+proﬁles of biocontrol agents and hosts in response to various treatments
+and other environmental conditions. POD is noted to control the balance of H2O2 in the cell wall of fruits, which is essential for the crosslinking of phenolic compounds in response to several external stress
+such as injuries, pathogens attack, and environmental stress (Passardi,
+Penel, & Dunand, 2004). In this study, the antioxidant enzyme POD was
+signiﬁcantly increased in the table grapes, suggesting that the integrity
+of the cell wall ﬁrmness was enhanced, hence decreased the susceptibility of the grapes to fungal infection. Thus, the increase of POD in our
+ﬁndings is an indication of induced resistance in the grapes following
+the application of the H. uvarum T. Previous study indicated that CAT,
+ascorbate peroxidase, chitinase activities among others were noted to
+increase signiﬁcantly in grapes compared to the untreated control
+(Apaliya et al., 2017). Trehalose as a sugar has shown to oﬀer protection to yeasts in both dry and liquid formulations (Sui & Liu, 2014).
+In the nutshell, SOD activity was found to increase following the
+treatment of the grapes with H. uvarum and the H. uvarum T. These
+results may suggest that both treatments have positive impacts in the
+inducement of SOD activity in the grapes (Qin et al., 2015). Typically,
+the metabolism of H2O2 is controlled by SOD together with other enzymes such as catalase and ascorbate peroxidase. Henceforth, a balance
+among these three enzymes is important in maintaining a steady level
+of H2O2 and O2%– (Chan & Tian, 2006).
+MDA is a product formed as a result of the decomposition of polyunsaturated fatty acid hydroperoxide and mostly considered as a
+standard for determining lipid peroxidation caused by oxidative damage (Zhang et al., 2015). In this ﬁnding, grapes treated with H.
+uvarum and the H. uvarum T were very low and did not diﬀer signiﬁcantly in MDA content demonstrating that H. uvarum has no eﬀect
+on MDA activity in the grapes (Zhang et al., 2015). Similarly, chitosan
+was observed to signiﬁcantly reduce MDA level in strawberry (Zhang,
+Ge, Chen, Zhao, & Zhang, 2014). These results may be due to the sharp
+increase in POD and SOD activities which has been reported to suppress
+ROS (Fu, Zeng, Zheng, & Yu, 2015; Sharma, Jha, Dubey, & Pessarakli,
+2012). The relatively low level of H2O2 in the treated grapes could be as
+a result of the upsurge of SOD and POD (Apaliya et al., 2017).
+It is worthy to note that at all the tested times, grapes that were
+treated with the H. uvarum T and H. uvarum alone were signiﬁcantly
+diﬀerent from the control. Similar reports (Rühmann et al., 2013) indicated that Aureobasidium pullulans culture ﬁltrate induced stilbene
+synthase level in grape with the expression of the gene encoding StSy
+and a higher enzyme activity. The involvement of StSy in the defense of
+plants through the reinforcement of cell walls and phytoalexins has
+previously been investigated (Rühmann et al., 2013).
+MS-MS proteomics and functional genomics, can be used to examine
+the physiological state of biological control agents as well as the eﬀect
+imposed by environmental stress (Droby, Wisniewski, Teixidó, Spadaro,
+& Jijakli, 2016). It was observed that all the protein spots excised from
+the pretreated H. uvarum T gel were signiﬁcantly (p < 0.05) up-regulated compared to those of the control. The improvements noted in this
+study may be due to the pretreatment of the H. uvarum with 2 w/v
+trehalose in NYDB for 24 h. Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (spots 1 and 2) is a crucial protein in glycolysis that
+catalyzes the initial step of the pathway by transforming D-glyceraldehyde 3-phosphate (G3P) into 3-phospho-D-glyceroyl phosphate.
+GAPDH is a high suppressor of lethality caused by Sir2 overexpression
+in yeast cells (Ringel et al., 2013). Sir2 is an NAD+-dependent histone
+deacetylase required to mediate transcriptional silencing and suppress
+rDNA recombination in budding yeast. Therefore the up-regulation of
+GAPDH in this ﬁndings is an indication that the trehalose signiﬁcantly
+impacted on H. uvarum.
+Moreover, enolase 1 which was observed to be up-regulated is one
+
+Fig. 3. Two-dimensional gels of intracellular proteins expressed in H. uvarum
+Y3 after culturing in NYDB for 24 h (a) H. uvarum (b). H. uvarum T (H. uvarum
+pretreated with 2% w/v trehalose in NYDB). Protein spots were excised on
+24 cm strips.
+
+were involved in carbohydrate and energy metabolism constituted
+28.0% of the total proteins identiﬁed. Additionally, 20.0% of the differentially expressed proteins were classiﬁed under cell structure and
+signal transduction proteins. Eleven proteins could not be identiﬁed
+following the mass spectrometry analysis that was performed and this
+made it diﬃcult to characterize their functions. However, these proteins considered as either unknown or hypothetical may play various
+vital functions directly or indirectly in response to the application of the
+trehalose.
+All such proteins were termed as unclassiﬁed proteins (Table 1).
+Glyceraldehyde-3-phosphate dehydrogenase (spot 1 and 2), pyruvate
+decarboxylase 1 (spot 8), saccharopine dehydrogenase (spot 9), phosphomannomutase, (spot 14), enolase 1 (spot 15), fructose-bisphosphate
+aldolase (spot 17) and GDP-mannose pyrophosphorylase spot 23 were
+all involved in carbohydrate and energy metabolism. It was also observed that peroxiredoxin TSA1 (spot 13) and SOD (spot 20) were involved in defense response. Based on the gene ontology (GO) analysis
+the diﬀerentially expressed proteins were categorized into biological
+process, molecular function and cellular component.
+Under the biological process, 11 of the proteins were found to be
+involved in glycolytic process, oxidation-reduction process, glucose
+metabolic process, cellular oxidant detoxiﬁcation, superoxide metabolic
+process, and metabolic process among others. Similarly, the GO query
+also revealed that most of the proteins were found to be involved in
+molecular functions such as NADP binding, metal ion binding, ATP
+binding, ATPase activity, SOD activity and antioxidant activity (Fig. 4).
+Regarding the cellular component, it was realized that majority of the
+diﬀerentially expressed proteins were located in the cytoplasm, nucleus, cytosol, mitochondrion and membrane.
+911
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+Table 1
+Two-dimensional gel electrophoresis analysis of diﬀerentially expressed intracellular proteins in H. uvarum pretreated with 2% w/v trehalose in NYDB and analyzed
+through MS-MS. Protein spots were excised from 2D PAGE gel and digested with trypsin.
+Protein spot
+
+Protein name
+
+NCBI accession
+
+Mass
+
+PI
+
+Species
+
+Carbohydrate and energy metabolism
+1
+glyceraldehyde-3-phosphate dehydrogenase
+2
+glyceraldehyde-3-phosphate dehydrogenase
+7
+DEHA2F09570p
+8
+pyruvate decarboxylase 1
+14
+phosphomannomutase
+15
+enolase 1
+17
+Fructose-bisphosphate aldolase
+23
+GDP-mannose pyrophosphorylase
+
+gi|146419367
+gi|146419367
+gi|50424381
+gi|149288859
+gi|146423739
+gi|146415384
+gi|459370126
+gi|3777501
+
+35,831
+35,831
+44,438
+65,273
+28,678
+46,951
+39,329
+40,102
+
+6.61
+6.61
+5.48
+9.57
+6.61
+5.02
+6.61
+5.48
+
+Meyerozyma guilliermondii ATCC
+Meyerozyma guilliermondii ATCC
+Debaryomyces hansenii CBS767
+Scheﬀersomyces stipitis
+Meyerozyma guilliermondii ATCC
+Meyerozyma guilliermondii ATCC
+Candida maltosa Xu316
+Candida albicans
+
+Cell structure and signal transduction
+11
+tryptophan-tRNA ligase
+18
+40S ribosomal protein S3
+19
+polyubiquitin-like protein
+24
+40S ribosomal protein S19-B
+25
+60S ribosomal protein L31
+29
+40S ribosomal protein S0
+
+gi|754845100
+gi|126132980
+gi|224503947
+gi|146415016
+gi|302308129
+gi|146417344
+
+37,720
+26,224
+25,804
+19,551
+13,196
+28,665
+
+5.86
+9.72
+5.49
+8.78
+10.23
+4.77
+
+Defense response
+13
+peroxiredoxin TSA1
+20
+superoxide dismutase
+
+gi|146418172
+gi|385303182
+
+21,833
+15,833
+
+Protein biosynthesis and degradation
+26
+cell division control protein 48
+
+gi|146415458
+
+Amino acid and fatty acid metabolism
+9
+saccharopine dehydrogenase
+Unclassiﬁed
+3
+4
+5
+6
+10
+12
+16
+21
+22
+27
+28
+
+DEHA2F04796p
+hypothetical protein PGUG_03485
+DEHA2F04796p
+hypothetical protein TRIATDRAFT_300064
+hypothetical protein PGUG_04223
+DEHA2B13090p
+hypothetical protein PGUG_05691
+hypothetical protein CANTEDRAFT_104120
+Piso0_000062
+hypothetical protein PGUG_05425
+conserved hypothetical protein
+
+Score
+
+Protein Matches
+
+209
+348
+523
+77
+342
+393
+190
+232
+
+3(1)
+3(3)
+6(2)
+1(1)
+4(2)
+4(3)
+2(1)
+4(2)
+
+Paenibacillus durus
+Scheﬀersomyces stipitis CBS 6054
+Piriformospora indica
+Meyerozyma guilliermondii ATCC 6260
+Ashbya gossypii ATCC 10895
+Meyerozyma guilliermondii ATCC 6260
+
+66
+450
+459
+156
+104
+204
+
+1(1)
+7(3)
+6(5)
+2(1)
+2(0)
+4(1)
+
+4.96
+6.57
+
+Meyerozyma guilliermondii ATCC 6260
+Brettanomyces bruxellensis AWRI1499
+
+177
+77
+
+3(2)
+1(1)
+
+91,010
+
+4.84
+
+Meyerozyma guilliermondii ATCC 6260
+
+355
+
+7(3
+
+gi|241954848
+
+41,811
+
+6.77
+
+Candida dubliniensis CD36
+
+85
+
+1(1)
+
+gi|146416269
+gi|146416269
+gi|50423973
+gi|358396039
+gi|190347786
+gi|50416024
+gi|146411913
+gi|575512947
+gi|448123918
+gi|146412868
+gi|146417765
+
+35,926
+46,767
+35,926
+37,870
+28,436
+32,348
+33,902
+10,607
+85,125
+17,763
+34,973
+
+6.30
+6.31
+6.30
+6.31
+6.32
+5.28
+6.33
+6.34
+5.89
+6.32
+5.34
+
+Debaryomyces hansenii CBS767
+Meyerozyma guilliermondii ATCC 6260
+Debaryomyces hansenii CBS767
+Trichoderma atroviride IMI 206040
+Meyerozyma guilliermondii ATCC 6260
+Debaryomyces hansenii CBS767
+Meyerozyma guilliermondii ATCC 6260
+Candida tenuis ATCC 10573
+Millerozyma farinosa CBS 7064
+Meyerozyma guilliermondii ATCC 6260
+Meyerozyma guilliermondii ATCC 6260
+
+271
+195
+275
+107
+200
+167
+67
+69
+87
+92
+78
+
+3(2)
+3(1)
+3(2)
+1(1)
+3(2)
+2(1)
+1(1)
+1(1)
+2(0)
+2(0)
+1(1)
+
+6260
+6260
+
+6260
+6260
+
+mitochondrial dysfunction (Fukai & Ushio-Fukai, 2011).
+Similarly, the results also revealed that peroxiredoxin TSA1, a defense related protein was observed to be signiﬁcantly up-regulated.
+Generally, peroxiredoxins are thiol-speciﬁc proteins with multiple
+functions in stress protection, such as protection against oxidative stress
+(Weids & Grant, 2014). Reactive oxygen species (ROS) are produced in
+the mitochondria, and aggregation of proteins adjacent it causes active
+mitochondria to fragment triggering the release of O2%−. TSA1 has the
+ability to localize at the site (misfolded and aggregated proteins) and
+acts as antioxidants to scavenge ROS caused by misfolded and aggregated proteins. Therefore, the up-regulation of SOD and peroxiredoxin TSA1 in this study demonstrated the potential of using trehalose
+to enhance H. uvarum as a promising antagonist against postharvest
+diseases. This may explained the reason why the H. uvarum T signiﬁcantly inhibited the lesion diameter and disease severity in the potato dextrose agar.
+The results further revealed that most of the diﬀerentially expressed
+proteins were noticed to be involved in cellular metabolic related activities based on the GO classiﬁcation analysis. Metabolism is vital to
+microbial life, which fuels all cellular activities and acts as building
+blocks and energy (Chubukov, Gerosa, Kochanowski, & Sauer, 2014).
+The up-regulation of the diﬀerentially expressed proteins (DEPs)
+therefore implied that trehalose a disaccharide supplied the yeast with
+sugars needed for energy. Likewise, the proteome results showed that
+majority of the proteins were actively involved in oxidation-reduction
+process. Although our hypotheses were supported statistically, some of
+the DEPs could not be identiﬁed, it was diﬃcult to classify all the
+proteins through the data base query hence such proteins were
+
+of the main proteins involved in the glycolytic pathway converts 2phosphoglyceric into 2-phosphoenolpyruvic (Zhang et al., 2011). Zheng
+et al. (2016) reported that phosphomannomutase catalysis mannose-6phosphate and mannose-1-phosphate which is an enzyme in eukaryotic
+organisms. Mannose-1-phosphate is an important conserved enzyme
+that synthetize GDP-mannose, which is crucial in the formation of
+polysaccharide needed for glycosylation of lipid molecules and protein
+(Moremen, Tiemeyer, & Nairn, 2012). This indicated that H. uvarum T
+had a positive eﬀect in the enhancement of carbohydrate and energy
+metabolic related proteins. This is primarily due to the fact that cells
+generally metabolize trehalose over other fuels. During quiescence or
+stationary phase, trehalose reserves are normally maintained in order to
+fulﬁll its stress-protectants function (Shi, Sutter, Ye, & Tu, 2010). The
+results suggest that trehalose provides a source of energy that aids to
+drive cellular activities leading to their up-regulation. For example,
+GDP-mannose pyrophosphorylase (spot 23) as found in H. uvarum has
+been reported to be essential in maintaining cell wall integrity, viability
+and morphogenesis in Aspergillus fumigatus (Jiang, Ouyang, Zhou, & Jin,
+2008).
+It was also observed that SOD, one of the diﬀerentially up-regulated
+proteins is a well-known antioxidant defense against O2%− radical. SOD
+has the ability to catalyze dismutation O2%− into ordinary H2O2 or
+oxygen molecule (O2) (Gill & Tuteja, 2010). Thus, SOD is a crucial
+antioxidant defense in most live cells exposed to oxygen. The up-regulation of this antioxidant protein in H. uvarum T suggests that the
+trehalose has the ability to induce its rate. Besides, SOD has been reported to play critical role in preventing oxidative inactivation of nitric
+oxide (NO), there by inhibiting endothelial, peroxynitrite formation and
+912
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+Fig. 4. Categorization of diﬀerentially expressed proteins of H. uvarum pretreated with 2% w/v trehalose in NYDB through Gene Ontology (GO) analysis.
+
+Acknowledgments
+
+considered as unclassiﬁed.
+In conclusion, there was a desirable outcome of the POD and SOD
+levels in the table grapes as the H. uvarum that was pretreated with 2%
+w/v trehalose signiﬁcantly impacted on their outburst. The study further revealed the functional characterization of the DEPs of H. uvarum
+which included carbohydrate and energy metabolism, cell structure and
+signal transduction, defense response, protein biosynthesis and degradation, amino acid and fatty acid metabolism. The functional classiﬁcation and GO analyses showed that most of the DEPs, were involved
+in oxidation-reduction, glycolytic process, NAD and ATP binding. They
+were classiﬁed under biological process, molecular function and cellular component. Further research is required with the use of bioinformatics tools to determine the actual genes involved in the biocontrol.
+
+This work was supported by the National Natural Science
+Foundation of China (31571899; 31701971), the National Key
+Research & Development Program of China (2016YFD0400902), and
+Graduate Innovative Projects of Jiangsu Province (KYLX_1069).
+References
+Apaliya, M. T., Zhang, H., Yang, Q., Zheng, X., Zhao, L., Kwaw, E., & Mahunu, G. K.
+(2017). Hanseniaspora uvarum enhanced with trehalose induced defense-related enzyme activities and relative genes expression levels against Aspergillus tubingensis in
+table grapes. Postharvest Biology and Technology, 132, 162–170.
+Argüelles, J. C. (2000). Physiological roles of trehalose in bacteria and yeasts: A comparative analysis. Archives of Microbiology, 174(4), 217–224.
+
+913
+
+Food Chemistry 274 (2019) 907–914
+
+M.T. Apaliya et al.
+
+Rühmann, S., Pfeiﬀer, J., Brunner, P., Szankowski, I., Fischer, T. C., Forkmann, G., &
+Treutter, D. (2013). Induction of stilbene phytoalexins in grapevine (Vitis vinifera)
+and transgenic stilbene synthase-apple plants (Malus domestica) by a culture ﬁltrate
+of Aureobasidium pullulans. Plant Physiology and Biochemistry, 72, 62–71.
+Ringel, A. E., Ryznar, R., Picariello, H., Huang, K.-L., Lazarus, A. G., & Holmes, S. G.
+(2013). Yeast Tdh3 (Glyceraldehyde 3-Phosphate Dehydrogenase) is a sir2-interacting factor that regulates transcriptional silencing and rDNA recombination. PLOS
+Genetics, 9(10), e1003871.
+Schirra, M., D’Aquino, S., Cabras, P., & Angioni, A. (2011). Control of postharvest diseases
+of fruit by heat and fungicides: Eﬃcacy, residue levels, and residue persistence. A
+review. Journal of Agricultural and Food Chemistry, 59(16), 8531–8542.
+Sharma, P., Jha, A. B., Dubey, R. S., & Pessarakli, M. (2012). Reactive oxygen species,
+oxidative damage, and antioxidative defense mechanism in plants under stressful
+conditions. Journal of Botany.
+Shi, L., Sutter, B. M., Ye, X., & Tu, B. P. (2010). Trehalose is a key determinant of the
+quiescent metabolic state that fuels cell cycle progression upon return to growth.
+Molecular Biology of the Cell, 21(12), 1982–1990.
+Sui, Y., & Liu, J. (2014). Eﬀect of glucose on thermotolerance and biocontrol eﬃcacy of
+the antagonistic yeast Pichia guilliermondii. Biological Control, 74(Supplement C),
+59–64.
+Wang, Y., Yang, L., Xu, H., Li, Q., Ma, Z., & Chu, C. (2005). Diﬀerential proteomic analysis
+of proteins in wheat spikes induced by Fusarium graminearum. Proteomics, 5(17),
+4496–4503.
+Wang, Y. S., Tian, S. P., Xu, Y., Qin, G. Z., & Yao, H. (2004). Changes in the activities of
+pro-and anti-oxidant enzymes in peach fruit inoculated with Cryptococcus laurentii or
+Penicillium expansum at 0 or 20 oC. Postharvest Biology and Technology, 34(1), 21–28.
+Weids, A. J., & Grant, C. M. (2014). The yeast peroxiredoxin Tsa1 protects against protein-aggregate-induced oxidative stress. Journal of Cell Science, 127(6), 1327–1335.
+Wicaksono, W. A., Jones, E. E., Casonato, S., Monk, J., & Ridgway, H. J. (2017). Biological
+control of Pseudomonas syringae pv. actinidiae (Psa), the causal agent of bacterial
+canker of kiwifruit, using endophytic bacteria recovered from a medicinal plant.
+Biological Control. 116, 103–112.
+Zhang, C., Chen, K., & Wang, G. (2013). Combination of the biocontrol yeast Cryptococcus
+laurentii with UV-C treatment for control of postharvest diseases of tomato fruit.
+BioControl, 58(2), 269–281.
+Zhang, D., Wang, H., Hu, Y., & Liu, Y. (2015). Chitosan controls postharvest decay on
+cherry tomato fruit possibly via the mitogen-activated protein kinase signaling
+pathway. Journal of Agricultural and Food Chemistry, 63(33), 7399–7404.
+Zhang, H., Dong, M., Yang, Q., Apaliya, M. T., Li, J., & Zhang, X. (2016). Biodegradation
+of zearalenone by Saccharomyces cerevisiae: Possible involvement of ZEN responsive
+proteins of the yeast. Journal of Proteomics. 74, 1135–1149.
+Zhang, H., Ge, L., Chen, K., Zhao, L., & Zhang, X. (2014). Enhanced biocontrol activity of
+Rhodotorula mucilaginosa cultured in media containing chitosan against postharvest
+diseases in strawberries: Possible mechanisms underlying the eﬀect. Journal of
+Agricultural and Food Chemistry, 62(18), 4214–4224.
+Zhang, L., Yu, Z., Jiang, L., Jiang, J., Luo, H., & Fu, L. (2011). Eﬀect of post-harvest heat
+treatment on proteome change of peach fruit during ripening. Journal of Proteomics,
+74(7), 1135–1149.
+Zhao, L., Zhang, H., Lin, H., Zhang, X., & Ren, X. (2013). Eﬀect of trehalose on the biocontrol eﬃcacy of Pichia caribbica against post-harvest grey mould and blue mould
+decay of apples. Pest Management Science, 69(8), 983–989.
+Zheng, X., Yang, Q., Zhang, H., Cao, J., Zhang, X., & Apaliya, M. T. (2016). The possible
+mechanisms involved in degradation of patulin by Pichia caribbica. Toxins, 8(10), 289.
+
+Boukaew, S., Prasertsan, P., Troulet, C., & Bardin, M. (2017). Biological control of tomato
+gray mold caused by Botrytis cinerea by using Streptomyces spp. BioControl, 62(6),
+793–803.
+Bradford, M. M. (1976). A rapid and sensitive method for the quantitation of microgram
+quantities of protein utilizing the principle of protein-dye binding. Analytical
+Biochemistry, 72(1–2), 248–254.
+Chan, Z., & Tian, S. (2006). Induction of H2O2-metabolizing enzymes and total protein
+synthesis by antagonistic yeast and salicylic acid in harvested sweet cherry fruit.
+Postharvest Biology and Technology, 39(3), 314–320.
+Chubukov, V., Gerosa, L., Kochanowski, K., & Sauer, U. (2014). Coordination of microbial
+metabolism. Natural Review of Microbilogy, 12(5), 327–340.
+Droby, S., Wisniewski, M., Teixidó, N., Spadaro, D., & Jijakli, M. H. (2016). The science,
+development, and commercialization of postharvest biocontrol products. Postharvest
+Biology and Technology, 122, 22–29.
+Fu, D., Zeng, L., Zheng, X., & Yu, T. (2015). Eﬀect of β-glucan on stress tolerances and
+biocontrol eﬃcacy of Cryptococcus laurentii against Penicillium expansum in pear fruit.
+BioControl, 60(5), 669–679.
+Fukai, T., & Ushio-Fukai, M. (2011). Superoxide dismutases: Role in redox signaling,
+vascular function, and diseases. Antioxidants and Redox Signaling, 15(6), 1583–1606.
+Gündüz, G. T., Juneja, V. K., & Pazır, F. (2015). Application of ultraviolet-C light on
+oranges for the inactivation of postharvest wound pathogens. Food Control,
+57(Supplement C), 9–13.
+Gancedo, C., & Flores, C.-L. (2004). The importance of a functional trehalose biosynthetic
+pathway for the life of yeasts and fungi. FEMS Yeast Research, 4(4–5), 351–359.
+Gill, S. S., & Tuteja, N. (2010). Reactive oxygen species and antioxidant machinery in
+abiotic stress tolerance in crop plants. Plant Physiology and Biochemistry, 48(12),
+909–930.
+Gustavsson, J., Cederberg, C., Sonesson, U., & Emanuelsson, A. (2013). The methodology of
+the FAO study: “Global food losses and food waste–extent, causes and prevention”–FAO
+2011. Göteborg, Sweden: The Swedish Institute for Food and Biotechnology (SIK).
+Jiang, H., Ouyang, H., Zhou, H., & Jin, C. (2008). GDP-mannose pyrophosphorylase is
+essential for cell wall integrity, morphogenesis and viability of Aspergillus fumigatus.
+Microbiology, 154(9), 2730–2739.
+Kurtzman, C., Fell, J., & Boekhout, T. (2011). Deﬁnition, classiﬁcation and nomenclature
+of the yeasts. The Yeasts, A Taxonomic Study, 1, 3–5.
+López, S., Mateo, J. J., & Maicas, S. (2015). Screening of Hanseniaspora strains for the
+production of enzymes with potential interest for winemaking. Fermentation, 2(1), 1.
+Liu, J.-J., & Ekramoddoullah, A. K. (2006). The family 10 of plant pathogenesis-related
+proteins: Their structure, regulation, and function in response to biotic and abiotic
+stresses. Physiological and Molecular Plant Pathology, 68(1), 3–13.
+Livak, K. J., & Schmittgen, T. D. (2001). Analysis of relative gene expression data using
+real-time quantitative PCR and the 2−ΔΔCT method. Methods, 25(4), 402–408.
+Lurie, S., Fallik, E., Handros, A., & Shapira, R. (1997). The possible involvement of peroxidase in resistance to Botrytis cinerea in heat treated tomato fruit. Physiological and
+Molecular Plant Pathology, 50(3), 141–149.
+Moremen, K. W., Tiemeyer, M., & Nairn, A. V. (2012). Vertebrate protein glycosylation:
+Diversity, synthesis and function. Nature Reviews Molecular Cell Biology, 13(7),
+448–462.
+Passardi, F., Penel, C., & Dunand, C. (2004). Performing the paradoxical: How plant
+peroxidases modify the cell wall. Trends in Plant Science, 9(11), 534–540.
+Patterson, B. D., MacRae, E. A., & Ferguson, I. B. (1984). Estimation of hydrogen peroxide
+in plant extracts using titanium (IV). Analytical Biochemistry, 139(2), 487–492.
+Qin, X., Xiao, H., Xue, C., Yu, Z., Yang, R., Cai, Z., & Si, L. (2015). Biocontrol of gray mold
+in grapes with the yeast Hanseniaspora uvarum alone and in combination with salicylic acid or sodium bicarbonate. Postharvest Biology and Technology, 100, 160–167.
+
+914
+
+

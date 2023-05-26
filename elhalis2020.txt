@@ -1,0 +1,2588 @@
+International Journal of Food Microbiology 333 (2020) 108796
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+journal homepage: www.elsevier.com/locate/ijfoodmicro
+
+The crucial role of yeasts in the wet fermentation of coﬀee beans and quality
+a
+
+a
+
+b
+
+Hosam Elhalis , Julian Cox , Damian Frank , Jian Zhao
+a
+b
+
+a,⁎
+
+T
+
+Food Science and Technology, School of Chemical Engineering, The University of New South Wales, Sydney, NSW 2052, Australia
+Commonwealth Scientiﬁc and Industry Research Organisation, 11 Julius Ave, North Ryde, NSW 2113, Australia
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Coﬀee bean fermentation
+Yeasts
+Natamycin
+Coﬀee ﬂavor and aroma
+Coﬀee sensory quality
+
+The objective of this study was to investigate the role of yeasts in the wet fermentation of coﬀee beans and their
+contribution to coﬀee quality using a novel approach. Natamycin (300 ppm) was added to the fermentation mass
+to suppress yeast growth and their metabolic activities, and the resultant microbial ecology, bean chemistry and
+sensory quality were analyzed and compared to non-treated spontaneous fermentation we reported previously.
+The yeast community was dominated by Hanseniaspora uvarum and Pichia kudriavzevii and grew to a maximum
+population of about 5.5 log CFU/g in the absence of Natamycin, while when Natamycin was added yeasts were
+suppressed. The major bacterial species in both the spontaneous and yeast-suppressed fermentations included
+the lactic acid bacteria Leuconostoc mesenteroides and Lactococcus lactis, the acetic acid bacteria Gluconobacter
+cerinus and Acetobacter persici and the Enterobacteriaceae Enterobacter, Citrobacter and Erwinia. For both fermentations, the mucilage layers were completely degraded by the end of the process and the absence of yeast
+activities had no signiﬁcant impact on mucilage degradation. During fermentation, reducing sugars were consumed while lactic acid was accumulated inside the beans, and its concentration was signiﬁcantly higher in the
+spontaneous fermentation (3 times) than that where yeasts were suppressed by Natamycin. Glycerol was detected with a concentration of 0.08% in the absence of Natamycin and was not identiﬁed when Natamycin was
+added. Green beans fermented with yeast growth contained a higher amount of isoamyl alcohol (21 times),
+ethanol (3.7 times), acetaldehyde (8 times), and ethyl acetate (25 times) compared to beans fermented in the
+absence of yeast activities, which remained higher in the former after roasting. Beans fermented without yeast
+activities had a mild fruity aroma, and lower sensory scores of fragrances (7.0), ﬂavor (6.5), acidity (6.3), body
+(7.0) and overall score (6.5) compared to the former. These ﬁndings demonstrated the crucial roles of yeasts in
+wet fermentation of coﬀee beans and for producing high quality coﬀee.
+
+1. Introduction
+Coﬀee is one of the most widely consumed beverages worldwide
+and a main cash crop grown in over 50 countries including Brazil,
+Vietnam, Indonesia, Colombia and Mexico (International Coﬀee
+Organization, 2018). After harvest, coﬀee cherries are processed with
+one of the three main methods, dry, wet, semidry processes. In the dry
+process whole cherries are traditionally solar dried for up to 30 days to
+reach a moisture content of 12%, then mechanically crushed to separate
+the beans from the outer layers (Silva et al., 2008; Silva et al., 2000). In
+the wet process, coﬀee cherries are ﬁrst pulped to remove the skin and
+most of the mucilage layers, leaving beans with some remaining mucilage attached. Subsequently, the beans were subjected to either wet
+fermentation or mechanical de-mucilage process to completely remove
+the mucilage and then dried to 12% moisture content. The dried coﬀee
+beans are further processed to remove the hull and then roasted
+
+⁎
+
+(Brando and Brando, 2014; Silva et al., 2008). In the semidry process,
+harvested fruits are de-pulped like the wet processing and then subjected to sun drying for up to 15 days (Brando, 2010; Silva et al., 2000).
+Over the last decades, studies have shown that the microbial
+ecology of the wet fermentation of coﬀee beans involves a diverse range
+of microbial groups including lactic acid bacteria (LAB), acetic acid
+bacteria (AAB), Bacillus, Enterobacteriaceae, yeasts and ﬁlamentous
+fungi. Microorganisms identiﬁed in fermentations conducted at different locations around the globe have both common species and region-speciﬁc ones (de Oliveira Junqueira et al., 2019; Elhalis et al.,
+2020; Masoud et al., 2004; Pereira et al., 2014; Silva et al., 2008;
+Vaughn et al., 1958; Vilela et al., 2010). The roles of each microbial
+group in coﬀee fermentations have been discussed in a recent review
+(Pereira et al., 2017). LABs and yeasts are believed to have the abilities
+to degrade macromolecules such as polysaccharides and are responsible
+for removing the mucilage layer surrounding the beans during the
+
+Corresponding author.
+E-mail address: jian.zhao@unsw.edu.au (J. Zhao).
+
+https://doi.org/10.1016/j.ijfoodmicro.2020.108796
+Received 29 May 2020; Received in revised form 4 July 2020; Accepted 20 July 2020
+Available online 25 July 2020
+0168-1605/ © 2020 Elsevier B.V. All rights reserved.
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+2.2. Drying, roasting and sensory analysis
+
+fermentation. Moreover, these microorganisms have been reported to
+produce secondary metabolites such as esters, alcohols, ketones and
+other aromatic compounds that might contribute to coﬀee ﬂavor and
+aroma (Avallone et al., 2002; Avallone et al., 2001). Other identiﬁed
+microorganisms such as Erwinia, Klebsiella, Bacillus, and Escherichia
+were also reported to contribute to the mucilage degradation process in
+the wet fermentation (Agate and Bhat, 1966; Masoud and Jespersen,
+2006; Pereira et al., 2014; Silva, 2014). However, the evidence that
+supports the contribution of these microorganisms to mucilage degradation and coﬀee ﬂavor and aroma is not conclusive and direct
+evidence identifying the role of individual microbial groups is lacking.
+Overall, studies conducted to investigate the contribution of the different microbial groups to coﬀee fermentation and bean and coﬀee
+quality, especially coﬀee volatiles, are limited, and the contribution of
+groups such as yeast to coﬀee quality is poorly understood.
+Currently, the coﬀee fermentation process is still conducted
+worldwide in uncontrolled and spontaneous processes that produce
+coﬀee beans with inconsistent and unpredictable quality. To transfer
+coﬀee fermentation into a more controlled industrial process using a
+deﬁned starter culture, it is essential to understand the contribution of
+individual microbial groups and species to the fermentation process and
+quality of coﬀee beans. In a previous study, we proved the essential
+contribution of overall microbial activities in the spontaneous wet
+fermentation of coﬀee beans to the production of coﬀee of high sensory
+quality (Elhalis et al., 2020). The objective of this study was to investigate the role of yeasts as a group in coﬀee wet fermentation and
+their contribution to coﬀee sensory quality. To achieve the objective,
+we used an innovative approach by adding Natamycin, a food-grade
+anti-fungal agent, to the fermentation to suppress the growth and activities of yeasts and comparing the resultant microbial metabolism,
+volatiles and coﬀee quality with those from uncontrolled spontaneous
+fermentation reported previously (Elhalis et al., 2020).
+
+After fermentation, the beans were washed three times and dried in
+a laboratory-scale air dryer at 45 °C with periodic mixing. Moisture
+content of the bean was monitored (Baggenstoss et al., 2008) during
+drying to reach 12% dry base. The dried beans were dehulled mechanically using a laboratory dehuller. Roasting was performed using a
+laboratory roaster (IKAWA, London, England) for 7 min at 225 °C and
+ground using a grinder (Mahlkonig's EK43, Revesby, Australia) individually. Sensory analysis was conducted by three expert coﬀee testers with Q Grader coﬀee certiﬁcations. The panel assessed the coﬀee
+brewed from the beans for fragrance, ﬂavor, acidity, body, balance,
+sweetness, aftertaste, clean cup, uniformity, overall perception, which
+were added together to calculate the total score of the coﬀee.
+2.3. Microbial ecology of coﬀee fermentation
+2.3.1. Enumeration and identiﬁcation by culture dependent method
+Details of the culture-dependent method used for the identiﬁcation
+and enumeration of the microorganisms in the coﬀee fermentation are
+given in Elhalis et al. (2020). Brieﬂy, aerobic bacteria were enumerated
+using plate count agar containing cycloheximide (0.1%) to suppress
+fungal growth. Lactic acid bacteria were enumerated using de Man
+Rogosa Sharpe (MRS) and M17 agars with 0.2% of cycloheximide. Malt
+extract agar (MEA) containing oxytetracycline and chloramphenicol
+50 mg/L each, to suppress bacteria growth, and Dichloran Rose Bengal
+Chloramphenicol Agar (DRBC) were used to enumerate fungi. All culture plates were incubated aerobically at 30 °C except for LAB where
+the plates were incubated anaerobically in candle jars. The agar plates
+were incubated at 30 °C for 48 h for bacteria and up to 7 days for yeasts
+and ﬁlamentous fungi. Three colonies from each type based on the
+colony and cell morphology were puriﬁed at least 4 times by streaking
+on their respective agar plates and used for identiﬁcation by a combination of phenotypic and molecular-based methods. DNA extraction
+was conducted from the puriﬁed isolates following (Cocolin et al.,
+2002) and the concentration and purity of the extracted DNA were
+examined by a UV-1800 UV–Vis Spectrophotometer (Shimadzu Scientiﬁc Instruments) at UV 260 and 280 nm, respectively. The bacterial
+DNA was ampliﬁed using F338fgc (5′ GAC TCC TAC GGG AGG CAG
+CAG 3′) and R518 (5′ATT ACC GCG GCT GCT GG3′) primers targeting
+V3 region of the 16S rDNA gene (Ovreas et al., 1997). The yeast DNA
+was ampliﬁed using ITS1 (5′-TCCGTAGGTGAACCTGCGG-3′) and ITS4 (
+5′-TCCTCCGCTTATTGATATGC-3′) primers targeting the 5.8S-ITS rDNA
+gene region (Esteve-Zarzoso et al., 1999). The PCR products were assessed by electrophoresis in a 1.5% agarose gel and stained with ethidium bromide. The respective forward primers (9.6 pmol) for each
+bacteria and yeasts were added to the PCR products and sent to the
+Ramaciotti Centre for Genomics at UNSW (Kensington, Sydney, NSW,
+Australia) for sequencing. The sequencing results were analyzed using
+the available data in Gen Bank of NCBI (http://www.ncbi.nlm.nih.gov/
+BLAST/).
+
+2. Materials and methods
+2.1. 2.1Fermentation of coﬀee beans
+Coﬀee cherries (Coﬀea arabica var. Bourbon, 40 kg) were harvested
+in October 2018 from the Kahawa Estate Coﬀee farm in Teven, NSW,
+Australia (latitude and longitude coordinates, −28.816667,
+153.500000; altitude, 6.6 m above sea level) and immediately placed in
+iceboxes and airfreighted to the University of New South Wales in
+Sydney. Once arrived, the coﬀee cherries were de-pulped manually and
+subjected to wet fermentation underwater, with the whole process from
+harvest to the start of fermentation completed in 12 h. The de-pulping
+process was performed by packing about 200 g cherries in sterile plastic
+bags, which were squeezed to remove the skins; after that the beans
+were collected using sterile gloves. The de-pulped beans were placed
+into four boxes, each containing 3.5 kg of beans, and two of which were
+used to conduct spontaneous fermentation where the beans were immersed underwater for 36 h, as performed in the local practice as described in Elhalis et al. (2020). Another two boxes of beans were fermented in the same way except that Natamycin was added to a ﬁnal
+concentration of 300 ppm to suppress yeast growth (Natamycin treated
+fermentation). Periodic mixings were performed every 6 h, and the
+environmental temperature was 25–30 °C and 10–15 °C during day and
+night, respectively, with an average of 18 °C. Mucilage degradation was
+monitored during fermentation by rubbing the parchments against each
+other between ﬁngers and feeling texture changes from slippery to
+grittiness (Lin, 2010). Samples (100 g) were taken from the fermentation masses at the start and every 12 h and were analyzed immediately
+for viable microbial counts. Another 100 g was collected at each sampling time, immediately frozen (−20 °C) and later used for direct microbial DNA extraction and chemical analysis.
+
+2.3.2. Analysis by culture-independent method
+Details of the culture-independent method used were given in
+Elhalis et al. (2020). Brieﬂy, direct extraction of DNA from the samples
+was done by a three-step procedure to improve the extraction eﬃciency
+and total recovery, which were enzyme lysis, chemical lysis and sonic
+breakage of cells, followed by protein digestion and puriﬁcation. After
+measurement of DNA concentration, the extracted DNA was sent to the
+AGRF empowering Australian Genomic for amplicon proﬁle diversity
+identiﬁcation. 341F (5′-CCTACGGGNGGCWGCAG-3′) - 806R (5′-GGACTACHVGGGTWTCTAA T-3′) primers targeting V4 region of the
+16SrRNA gene and ITS1 (5′-TCCGTAGGTGAACCTGCGG-3′) ITS2 (
+5′-GGCTGCGTTCTTCATCGATGC-3′) primers targeting ITS region were
+used for ampliﬁcation of bacterial and yeast DNA, respectively. DNA
+extraction and ampliﬁcation were performed in duplicate and the
+2
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+population at the start of the fermentation was similar to that of Acinetobacter lwoﬃi and started to increase after 12 h, reaching about 5 log
+in both types of fermentation in 24 h, and then remained relatively
+unchanged in the absence of Natamycin, while slightly increased in the
+presence of Natamycin. Citrobacter (accession no. CP026709.1) increased during the whole fermentation process and became the dominant isolates after 12 h and then reached a maximum population of
+about 7.4 log CFU/g after 36 h, in both fermentations. The level of
+Erwinia soli (accession no. MH107054.1) increased from < 2 log CFU/g
+to a maximum population of 3.5 log CFU/g, in both fermentations. The
+levels of Klebsiella pneumoniae (accession no. CP020847.1) and Pseudomonas sp. (accession no. EU822884.1) were both low at the beginning of the fermentation at about 2 log CFU/g and remained relatively
+unchanged during the whole fermentation process, for both fermentations. There were two main isolates of acetic acid bacteria detected,
+which were Gluconobacter cerinus (accession no. MK049954.1) and
+Acetobacter persici (accession no. MH285266.1). The initial level of
+Gluconobacter was about 2 log CFU/g which grew to a maximum population of 4 log CFU/g in 24 h, and then progressively declined to
+about 1.8 log CFU/g in the absence of Natamycin. The growth of Gluconobacter in Natamycin treated fermentation reached a maximum
+population of 5.2 log within 24 h and then decreased slightly at the end.
+Acetobacter was present at lower counts than those of Gluconobacter and
+remained largely unchanged in the absence of Natamycin, while where
+Natamycin was added it increased slightly within 24 h to a maximum
+population of 3.2 log CFU/g, then subsequently declined to < 2 log
+CFU/g at the end. The total lactic acid bacteria count was about log
+3.2 CFU/g at the start of the fermentation and increased at 12 h to reach
+4.5 and 5 log CFU/g in the absence and presence of Natamycin, respectively. The population subsequently increased in both fermentations to a maximum of 5.3 and 5.8 log CFU/g within 24 h and then
+dropped to 5.2 and 5.4 log CFU/g in the absence and presence of Natamycin at the end, respectively. Two isolates of LAB were detected,
+namely Leuconostoc mesenteroides (accession no. MK290364.1) and
+Lactococcus lactis (accession no. MF623273.1) with an initial population
+of log 3.1 and 2.6 CFU/g, respectively. Leuconostoc mesenteroides grew
+to a maximum population of 5.6 and 5.1 log CFU/g within 24 h in the
+presence and absence of Natamycin, respectively, and then declined.
+Similarly, Lactococcus lactis grew to a maximum population of 5.1 and
+4.8 within 24 h in the presence and absence of Natamycin, respectively,
+before dropped at the end (Fig. 2). Overall, the TABC in the spontaneous and Natamycin treated fermentations were not signiﬁcantly different, demonstrating that Natamycin did not alter the bacterial ecology
+in the fermentation.
+The initial total yeast count was approximately 4 log CFU/g which
+grew to reach 5.5 log CFU/g within 36 h in the absence of Natamycin.
+When Natamycin was added, the total yeast population was relatively
+unchanged during the ﬁrst 24 h of the fermentation, then started to
+decline, reaching 3.5 log CFU/g by the end of the fermentation (Fig. 3).
+The predominate yeasts presented at the start of the fermentation was
+Hanseniaspora uvarum (accession no. MF574306.1) with an initial population of 3.6 log CFU/g, followed by Pichia kudriavzevii (accession no.
+CP021092.1) at 3.1 log CFU/g, and Candida railenensis (accession no.
+HQ438305.1) at 3.6 log CFU/g, in both fermentations, which subsequently grew or declined to (5.2, 2.8), (4.6, 2.7), and (3, 1.5) log CFU/g
+at the end, respectively, with the values in parenthesis corresponding to
+the yeast population in the absence and presence of Natamycin, respectively. Candida xylopsoci (accession no. KJ706861.1) was present
+with an initial population of 2 log CFU/g which increased slightly
+during the fermentation in the absence of Natamycin. Pichia fermentans
+(accession no. KM402059.1) and Wickerhamomyces anomalus (accession
+no. KY587120.1) were the remaining two yeasts with an initial population < 2 log and remained largely unchanged in the ﬁrst 24 h and
+subsequently dropped at the end. The populations of these yeasts,
+however, declined during the fermentation progress to < 2 log CFU/g
+after 24 h in the presence of Natamycin.
+
+results were reported as an average.
+2.4. Chemical analysis
+The pH of the fermentation liquid was measured using a portable pH
+meter (pH Cube, TPS Pty Ltd., Brisbane, QLD, Australia) every 12 h. The
+pH of ground coﬀee beans was determined following Angelucci et al.
+(1982). The concentration of sugars, organic acids, glycerol, and
+mannitol in the mucilage and endosperm of coﬀee bean were determined using the HPLC methods described in Elhalis et al. (2020).
+Each analysis was done in duplicate and average values were reported
+within a standard deviation of 0.05.
+Volatiles were determined in fresh de-pulped beans, fermented
+green beans and roasted beans according to the solid phase micro extraction gas chromatography mass spectrometry (SPME-GC–MS)
+method described in Frank et al. (2017). Brieﬂy, coﬀee bean samples
+(2 g) were placed in 15 ml hermetically sealed vials which were arranged into the autosampler injectors (AOC-5000, Shimadzu, Rydalmere, Australia). Equilibration and extraction were conducted at
+40 °C for 40 min using a 1 cm 50/30 μm DVB/Carboxen/PDMS 23gauge, 2 cm SPME ﬁbers (Supelco, Sigma-Aldrich, Castle Hill, Australia). Subsequently, the ﬁber was desorbed into a 250 °C injector for
+5 min in spitless mode. Volatile analysis was performed with a GC–MS
+system (QP-2010-Plus GC–MS, Shimadzu, Rydalmere, Australia) using a
+Sol-Gel Wax column (SGE, Ringwood, Australia, 30 m, 0.25 i.d, 0.25 μm
+ﬁlm). The temperature program used was 35 °C for 5 min initially then
+heated to 250 °C (5 °C/min). Volatiles were detected by scanning the
+mass range of m/z 40–250 and 4-methylpentynol was used as internal
+standard. Linear retention indices were calculated using a standard
+alkane mix (C7-C40, Supleco, Sigma-Aldrich, Castle Hill, Australia).
+Identiﬁcation of volatile compounds was performed by matching the
+mass spectra with those of reference compounds in the NIST mass
+spectral library and by comparing linear retention indices (LRI) with
+published values in the NIST and PubChem websites. In some cases,
+identities were conﬁrmed using reference standards. The concentration
+of volatiles was calculated semi-quantitatively using the Shimadzu
+proprietary software “LabSolutions” (Version 2.53). The analysis was
+performed in triplicate for each sample.
+2.5. Statistical analysis
+One-way ANOVA was carried out to compare means between
+sample treatments and Tukey's HSD post-hoc test was used to separate
+the means. Diﬀerences were statistically signiﬁcant at p < 0.05.
+Statistical analyses were performed with GenStat® (16th Edition, VSN
+International, Hemel Hempstead, UK).
+3. Results
+3.1. Microbial ecology during coﬀee fermentation monitored by traditional
+plating method
+The microbial ecology of the spontaneous fermentation was published previously by us in Elhalis et al. (2020). Key ﬁndings and results
+were sometimes mentioned here to facilitate comparison. In total, 17
+bacterial and 6 yeast species were detected in the fermentation process
+(Figs. 1, 2, 3). The initial total aerobic bacterial count (TABC) was
+about 5 log CFU/g, which grew to 5.3 log CFU/g in 12 h and eventually
+7.5 log CFU/g at the end of the spontaneous fermentation as described
+in Elhalis et al. (2020). No signiﬁcant diﬀerences in the TABC were
+detected between the spontaneous and Natamycin treated fermentations. In the beginning, the dominant aerobic bacterial species were
+Acinetobacter and Enterobacter in both fermentations. Acinetobacter
+lwoﬃi (accession no. MF988732.1) count was 4.5 log CFU/g which
+declined during the fermentation process to < 2 log CFU/g at the end in
+both fermentations. Enterobacter (accession no. KY474547.1)
+3
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+8
+7
+log 10 (CFU/g bean)
+
+6
+5
+4
+3
+2
+1
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Fermentation time (h)
+
+Total aerobic bacterial count,
+Acinetobacter lwoffii ,
+koseri ,
+Gluconobacter cerinus ,
+
+Enterobacter ludwigii,
+Acetobacter persici .
+
+Citrobacter
+
+Fig. 1. Changes in the population of aerobic bacteria during Natamycin treated fermentations of coﬀee beans.
+
+process, such as Paenibacillaceae (Saccharibacillus), Pseudomonadaceae
+(especially
+Pseudomonas)
+Nocardiaceae
+(Rhodococcus)
+and
+Methylobacteriaceae (Methylobacterium), in both fermentations (Fig. 4).
+Regarding the fugal community, members of both Ascomycota and
+Basidiomycota were dominant in the fermentation process. At the beginning of fermentation, a high relative abundance of unclassiﬁed
+Nectriacea was identiﬁed in the ﬁrst 24 h, which then decreased with
+fermentation in the absence of Natamycin. Other members of
+Ascomycota such as Penicillium, Aspergillus, Cladosporium, Pleosrales and
+Neodevriesia, and Basidiomycota members such as Rhodotorula,
+Leucospridiella, Sporidiobolus and Vishnicozyma were observed only at
+the initial stage and then virtually disappeared by the end of fermentation in the absence of Natamycin. The abundance of these fungal
+members was dramatically decreased in the presence of Natamycin as
+shown in Fig. 4. OUTs yeast reads increased steadily with fermentation
+in the absence of Natamycin, with H. uvarum being the most prevalent,
+followed by Candida and Wickerhamomyces in the absence of Natamycin. A signiﬁcant decrease in the yeast abundance was observed in
+the presence of Natamycin. Debaryomyces was also present with low
+abundance at the start and slightly increased within 24 h, but subsequently disappeared at the end of fermentation in the absence of Natamycin, while this yeast was only present at start of fermentation in
+the presence of Natamycin but disappeared after fermentation began
+(Fig. 4).
+
+3.2. Evolution of microbial community during coﬀee fermentation analyzed
+by culture-independent methods
+The average numbers of raw V3–V4 and internal transcribed spacer
+(ITS1) sequences per sample were about 350,000 and 200,000 sequences, respectively, with coverage ranged between 98.3 and 99.7%.
+At the start of the fermentation the bacterial operational taxonomic
+units (OTUs) mostly belonged to Enterobacteriaceae (such as Serratia,
+Enterobacter and Erwinia) and AAB (such as Gluconobacter, Citrobacter
+and Swaminathania). A small portion of the reads were LAB, such as
+Leuconostoc, lactococus, and Enterococcus. The remaining reads were
+mostly coﬀee DNA and soil associated bacteria.
+During fermentation, the OUTs of Enterobacteriaceae decreased in
+relative abundance. In contrast, LAB increased in the relative abundance where leuconostic and lactococus were the predominant reads in
+the ﬁrst 24 h, but their abundance decreased by the end of fermentation
+in the absence of Natamycin. The OUTs of LAB read showed an increase
+in relative abundance in the presence of Natamycin compared to
+spontaneous fermentation. AABs showed a similar increase in the ﬁrst
+24 h, then declined slightly by the end of fermentation in the absence of
+Natamycin. Similar pattern of change in AABs also occurred in the
+Natamycin treated fermentation; however, the abundance of AABs was
+higher compared to spontaneous fermentation. Other bacterial OTUs
+appeared mainly at the start of fermentation, and were sporadically
+detected with relatively low abundance during the whole fermentation
+6
+
+log 10(CFU/g bean)
+
+5
+4
+3
+2
+1
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Fermentation time (h)
+
+Total LAB,
+
+Leuconostoc mesenteroides,
+
+Lactococcus lactis
+
+Fig. 2. Changes in the population of lactic acid bacteria during Natamycin treated fermentations of coﬀee beans.
+4
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+6
+
+log10 (CFU/g bean)
+
+5
+4
+3
+2
+1
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Fermentation time (h)
+
+Total yeast count,
+
+Hanseniaspora uvarum,
+
+Pichia kudriavzevii,
+
+Wickerhamomyces anomalus ,
+
+Candida railensis,
+
+Pichia fermentans .
+
+Fig. 3. Changes in the population of yeasts during Natamycin treated fermentations of coﬀee beans.
+
+A
+
+Fig. 4. a. Changes in the relative abundance of bacterial operational taxonomic units (OUTs) in coﬀee beans during Natamycin treated fermentations of coﬀee beans.
+b. Changes in the relative abundance of fungal operational taxonomic units (OUTs) in coﬀee beans during Natamycin treated fermentations of coﬀee beans.
+
+3.3.2. Carbohydrate and organic acid metabolism
+Fig. 5 shows the changes in the concentration of non-volatile compounds in both the mucilage and endosperm during the fermentation.
+The mucilage initially contained three sugars, fructose (30%), glucose
+(21%) and sucrose (9%), and their levels declined during fermentations,
+Fig. 5. Sucrose was totally consumed by the end of fermentations, while
+that of glucose and fructose dropped to 9% and 4%, respectively, in the
+absence of Natamycin. In comparison, the sugar utilization rates were
+much slower in the presence of Natamycin, where the levels of sucrose,
+fructose and glucose declined to 5%, 12%, and 13% (p < 0.05), respectively, Fig. 5A. Four organic acids were detected in the mucilage
+before fermentation, which were malic, quinic, succinic and citric acids
+at 0.9–2%. During fermentation, the concentration of malic and citric
+acids dropped slightly in the ﬁrst 16 h and then increased slightly by the
+end of fermentation in both fermentations. The concentration of
+
+3.3. Chemical changes during coﬀee fermentation
+Changes in pH, sugars, organic acids and sugar alcohols during the
+spontaneous fermentation were published previously by us in Elhalis
+et al. (2020). Key ﬁndings and results were sometimes mentioned here
+to facilitate comparison.
+
+3.3.1. pH
+The initial pH of the fermentation mass was about 5.4 in both fermentations, which gradually dropped to 3.6 and 3.8 at the end of fermentation in the absence and presence of Natamycin, respectively. The
+pH value of unfermented beans was 6.5, which declined during fermentation to 4.8 and 5.1 in the absence and presence of Natamycin
+(p < 0.05), respectively.
+5
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+B
+
+Fig. 4. (continued)
+
+contained, at the beginning, citric (1.4%), quinic (0.5%), malic (0.4%),
+and succinic acids (0.2%). During fermentation, the concentrations of
+citric acid increased to 1.8%, while malic acid dropped to 0.2%. The
+levels of succinic and quinic acids remained relatively stable during
+fermentation. The concentration of these organic acids and the magnitudes of changes during fermentation were not signiﬁcantly diﬀerent
+(p > 0.05) between beans undergoing spontaneous and Natamycin
+treated fermentations. Lactic acid was not detected in the endosperm at
+the start of fermentation, but it was detected during fermentation to
+reach 0.3% and 0.1% at the end in the absence and presence of Natamycin, respectively, Fig. 6B. The endosperm did not contain glycerol or
+mannitol initially, but they were detected as the fermentation progressed, reaching a maximum concentration of 0.08% and 0.1% in the
+absence of Natamycin, respectively. In the presence of Natamycin,
+glycerol was not detected, while mannitol was detected at 0.6 g/100 g
+at the end of the fermentation.
+
+succinic and quinic acids also showed small variations during fermentation, but no signiﬁcant diﬀerences were observed between the spontaneous and Natamycin treated fermentations (p > 0.05). Lactic acid
+was detected at 16 h and its level increased slowly, reaching 0.4%
+within 36 h in the absence of Natamycin, while it was detected only
+after 24 h when Natamycin was added with a maximum concentration
+of 0.2% (p < 0.05), Fig. 6A. Glycerol was detected at 24 h with a
+concentration of 0.9%, and then increased slowly to 1.2% at the end of
+fermentation in the absence of Natamycin, while it was not detected at
+any stage during fermentation in the presence of Natamycin. A low
+initial concentration of mannitol (0.5%) was found in the mucilage,
+which subsequently increased during the fermentation to a maximum
+concentration of 0.8% and 1.7% in the absence and presence of Natamycin (p < 0.05), respectively.
+The endosperm showed much less changes in chemical composition
+compared to the mucilage layer. The initial levels of sugars in the endosperm were sucrose (8.6%), fructose (1.3%) and glucose (0.9%).
+During fermentation, the level of sucrose dropped to 5.7%, while
+fructose and glucose declined to about 0.8% in absence of Natamycin.
+These sugar concentrations were slightly higher in the Natamycin
+treated beans (p < 0.05) as shown in Fig. 5B. The endosperm
+
+3.3.3. Volatile compounds
+Over 79 volatiles were identiﬁed in coﬀee beans (Tables 1a & 1b).
+Volatiles were grouped, based on their chemical class, into alcohols,
+esters, aldehydes, ketones, organic acids, phenols, pyrazines,
+6
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Fig. 5. Changes in the concentration of the sucrose, glucose, fructose, mannitol, and glycerol in the mucilage and endosperm during Natamycin treated fermentation
+of coﬀee beans.
+
+Fig. 6. Changes in the concentration of organic acids in the mucilage (A) and endosperm (B) of coﬀee beans during Natamycin treated fermentations of coﬀee beans.
+The reported data were the means of duplicate analyses with standard deviation ≤ 0.05.
+
+remaining alcohols between the two types of beans (p > 0.05).
+As expected, roasting caused signiﬁcant decreases in the concentration of ethanol, 1-hexanol and isoamyl alcohol in both bean
+types; however, they remained higher in the beans obtained from the
+spontaneous fermentation than those from the Natamycin treated fermentation (p < 0.5). The concentration of furfural alcohol and 1nonanol increased by about 10 times after roasting, while that of phenyl
+ethyl alcohol remained relatively unchanged in the absence of
+Natamycin. Furthermore, 6 additional alcohols were detected after
+roasting, which were not detected in the green beans, namely 1,4pentanediol, 2-nonanol, 2,3-butanediol, 1,4-butanediol, 2,3-hexanediol, and 1,4-butanediol, with similar concentrations in both bean
+types (p > 0.05).
+
+heterocyclic nitrogen, and sulfur-containing compounds.
+
+3.3.3.1. Alcohols. At the beginning of fermentation, there were eight
+main alcohols detected in the de-pulped green beans; which were
+ethanol, 2-methyl-3-buten-2-ol, isopentyl alcohol, isoamyl alcohol, 3methyl-2-buten-1-ol, 1-hexanol, furfural alcohol, 1-nonanol, and phenyl
+ethyl alcohol, with a total concentration of 1021.9 μg/kg. During the
+fermentation, the total alcohol concentrations increased by about 3-fold
+in the absence of Natamycin and 2-fold in the presence of Natamycin
+(p < 0.05). The concentration of ethanol increased > 3-fold, isoamyl
+alcohol about 37 fold, 1-hexanol and 1-nonanol 3-fold, and 3-methyl-2buten-1-ol 5-fold, while 2-methyl-3-buten-2-ol, phenyl ethyl alcohol
+and furfural alcohol remained relatively unchanged in the absence of
+Natamycin. The levels of ethanol in the green beans in the absence of
+Natamycin were more than three times higher than that in the presence
+of Natamycin (p < 0.5). Similarly, the levels of isoamyl alcohol and 1hexnol were > 20 and 4 times higher in the absence of Natamycin,
+respectively (p < 0.5). No signiﬁcant diﬀerences were detected in the
+
+3.3.3.2. Aldehydes. Aldehydes were present in green beans at the
+beginning of fermentation with a total concentration of 933.8 μg/kg,
+which subsequently decreased during fermentation but increased after
+roasting. During fermentation, acetaldehyde concentration increased
+7
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Table 1a
+Analytical parameters for volatiles in coﬀee beans.
+Targeted volatiles
+
+Functional group
+
+m/z
+
+LRI*
+
+Sensory description
+
+Identiﬁcation method
+
+Acetic acid
+Butanoic acid
+Heptanoic acid
+Ethanol
+2-Methyl-3-buten-2-ol
+Isopentyl alcohol
+Isoamyl alcohol
+3-Methyl-2-buten-1-ol
+3-Hexanol
+2-Nonanol
+2,3-Butanediol
+Furfuryl alcohol
+1-Nonanol
+2,3-Hexanediol
+Phenylethyl alcohol
+1,4-Butanediol
+Acetaldehyde
+3-Methyl butanal
+Hexanal
+3-Methyl-2-butenal
+(E)-2-Hexenal
+2,2-Dimethyl hexanal
+Furfural
+Benzaldehyde
+5-Methylfurfural,
+Methyl formate
+Methyl acetate
+Ethyl acetate
+Methyl butanoate
+Furfuryl formate
+Furfuryl acetate
+Furfural propionate
+2-Methylfuran
+2,5-Dimethylfuran
+2-Vinylfuran
+2-Butyl furan
+2-Allylfuran
+2-Pentylfuran
+2-Acetylfuran
+2-Propionylfuran
+2-Furfurylfuran
+2(5H)-Furanone
+2-(Methoxymethyl)tetrahydrofuran
+2-Butanone
+3-Pentanone
+2,3-Butanedione
+2,3-Pentanedione
+2,3-Hexanedione
+2,3-Heptanedione
+1-Methylpyrrole
+2-Ethylpyrrole
+Pyridine
+2-Methylpyridine
+2-Acetylpyridine
+2-Formyl-1-methylpyrrole
+N-acetyl-4(H)-pyridine
+2-Formyl pyrrole
+2-Methoxy phenol (guaiacol)
+Phenol (carbolic acid)
+2-Methyl phenol
+2-Methoxy-4-vinylphenol
+Pyrazine
+2-Methylpyrazine
+2,5-Dimethyprazine
+2,6-Dimethylpyrazin
+2-Ethylpyrazine
+2,3-Dimethylpyrazine
+2-Ethyl-6-methylpyrazine
+2-Ethyl-5-methylpyrazine
+2-Ethyl-3-methylpyrazine
+3-Ethyl-2,5-dimethylpyrazine
+2-Acetylpyrazine
+2-Acetyl-3-methylpyrazine
+2-Methyl-5-(1-propenyl)pyrazine
+
+Acid
+Acid
+Acid
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Aldehyde
+Ester
+Ester
+Ester
+Ester
+Ester
+Ester
+Ester
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Furan
+Ketone
+Ketone
+Ketone
+Ketone
+Ketone
+Ketone
+N-heterocycle
+N-heterocycle
+N-heterocycle
+N-heterocycle
+N-heterocycle
+N-heterocycle
+N-heterocycle
+N-heterocycle
+Phenol
+Phenol
+Phenol
+Phenol
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+Pyrazine
+
+43
+61
+60
+45
+71
+70
+55
+71
+72
+45
+45
+98
+70
+73
+91
+73
+44
+44
+44
+84
+69
+57
+96
+77
+110
+60
+43
+43
+74
+81
+81
+80
+82
+95
+94
+81
+108
+81
+95
+95
+91
+55
+71
+43
+57
+43
+43
+43
+57
+81
+
+1458
+1631
+1974
+948
+1054
+1219
+1226
+1330
+1362
+1565
+1585
+1651
+1652
+1912
+1933
+1937
+701
+921
+1091
+1206
+1224
+1456
+1469
+1534
+1581
+743
+826
+893
+992
+1498
+1540
+1602
+867
+952
+1082
+1130
+1212
+1236
+1511
+1584
+1612
+1786
+2048
+908
+982
+983
+1070
+1138
+1153
+1146
+1187
+1192
+1229
+1611
+1625
+1694
+1842
+1921
+2020
+2089
+2192
+1218
+1270
+1332
+1338
+1343
+1356
+1395
+1402
+1417
+1473
+1620
+1643
+1709
+
+Vinegar, pungent
+Onion like
+Acidic
+Alcoholic
+–
+–
+Banana and pear
+Fruity
+Fruity herbal fresh
+Herbal
+Fruity, buttery
+Herbal
+Floral
+Floral
+Floral, fruity
+Floral
+Fruity, pungent
+Coﬀee like
+Green, fruity
+–
+Fatty
+–
+Sweet, almond
+Fatty almond
+Caramel, spice, maple
+Fruity
+Fruity
+Fruity
+Fruity
+Fruity
+Fruity
+–
+Fruity, pungent
+Nutty, caramel
+Caramel, fatty
+–
+Fatty, nutty
+–
+Sweet, balsamic
+Caramel, nutty
+Fatty, nutty, fruity
+Coﬀee-like
+–
+Floral
+–
+Oily buttery
+Oily buttery, caramel
+Buttery, sweet, creamy
+Fruity
+Nutty
+Coﬀee like
+Sour, roasted, burnt
+Coﬀee-like
+Coﬀee-like
+Nutty, roasted
+Coﬀee-like
+Nutty, hay-like
+Phenolic
+Smoky
+Spicy, sweet
+Clove
+Sweet peanuts
+Nutty
+Nutty, roasted
+Chocolate, nuts
+Peanut, butter
+Roasted, nutty
+Hazelnut, fruity
+Flowery, hazelnut, fruity
+Coﬀee-like
+Roasted
+Roasted
+Roasted
+Roasted
+
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+L,
+
+79
+93
+79
+109
+81
+81
+109
+66
+107
+135
+80
+94
+108
+42
+107
+67
+121
+121
+42
+135
+43
+43
+133
+
+MS,
+MS,
+MS
+MS,
+MS
+MS
+MS,
+MS
+MS,
+MS
+MS
+MS,
+MS
+MS
+MS,
+MS
+MS,
+MS,
+MS,
+MS
+MS,
+MS
+MS
+MS,
+MS
+MS
+MS
+MS,
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS,
+MS
+MS
+MS
+MS
+MS
+MS
+MS,
+MS
+MS
+MS
+MS
+MS
+MS,
+MS
+MS,
+MS,
+MS,
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+MS
+
+ST
+ST
+ST
+
+ST
+ST
+
+ST
+
+ST
+ST
+ST
+ST
+ST
+
+ST
+
+ST
+
+ST
+
+ST
+
+ST
+ST
+ST
+ST
+
+(continued on next page)
+8
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Table 1a (continued)
+Targeted volatiles
+
+Functional group
+
+Methanethiol
+Dimethyl sulﬁde
+Dimethyl disulﬁde
+Dimethyl trisulﬁde
+Furfuryl methyl sulﬁde
+Bis-2-(furfuryl)-disulﬁde
+
+Sulfur
+Sulfur
+Sulfur
+Sulfur
+Sulfur
+Sulfur
+
+m/z
+
+LRI*
+
+Sensory description
+
+Identiﬁcation method
+
+48
+62
+94
+79
+81
+81
+
+685
+744
+1080
+1379
+1494
+1915
+
+Freshness, cooked meat
+–
+Cabbage-like, onion
+Sulfur
+Onion, garlic
+Meaty
+
+L,
+L,
+L,
+L,
+L,
+L,
+
+MS
+MS
+MS
+MS
+MS
+MS
+
+* LRI = linear retention index; identiﬁcation method (MS = mass spectrum compared to NIST database, L = literature LRI; ST = standard compound). Literature
+LRI and sensory descriptors are taken from Czerny and Grosch (2000), Febrianto et al. (2016), Flament et al. (1968), Liu et al. (2019), Mottram (2005), Pereira et al.
+(2014), and Sunarharum et al. (2014).
+
+acetic and butanoic acids were about 2–3 times higher in the presence
+of Natamycin than where it was absent (p < 0.05), while the heptanoic
+acid level remained relatively after fermentation in both samples
+(p > 0.05). As expected, after roasting the levels of these organic
+acids were decreased in both bean types; however, the concentration of
+acetic acid and butanoic acid remained higher in the presence of
+Natamycin than where it was absent (p < 0.05). Three main phenolic
+compounds, guaiacol (3.3, 1.6 μg/kg), 2-methyl phenol (57, 50 μg/kg)
+and 2- methoxy-4-vinylphenol (20, 21 μg/kg), were identiﬁed after
+roasting, which not detected in green beans; the values in parenthesis
+corresponded to the amount of compounds in roasted beans in the
+absence and presence of Natamycin, respectively, with no signiﬁcant
+diﬀerences observed between the two types of beans (p > 0.05).
+
+about 24-fold, and 3-methyl butanal and benzaldehyde levels almost
+doubled in the absence of Natamycin. In comparison, the concentration
+of these volatiles was about 2–8 fold higher compared to unfermented
+green beans in the presence of Natamycin (p < 0.5). The level of
+hexanal, 3-methyl-2-butenal was relatively unchanged during
+fermentation in both bean types (p > 0.5). In contrast, the level of
+(E)-2-hexenal and 2,2-dimethyl hexanal declined signiﬁcantly during
+fermentation, but no statistically signiﬁcant diﬀerences were observed
+between the two fermentations (p > 0.05). After roasting, the total
+average concentration of aldehydes increased by > 12 times and was
+higher in roasted beans in the absence of Natamycin compared to the
+presence of Natamycin (p < 0.05). The levels of acetaldehyde, 3methyl butanal, and benzaldehydes increased in the absence of
+Natamycin and their concentration more than doubled after roasting
+in beans fermented with the presence of Natamycin. In contrast, the
+levels of hexanal, 3-methyl-2-butenal, 2,2-dimethyl hexanal decreased
+while (E)-2-hexenal was not detected after roasting in both bean types
+with no signiﬁcant diﬀerences (p > 0.05) between them. Furthermore,
+two additional aldehydes were detected in roasted beans, which were
+not identiﬁed in green beans, namely furfural and 5-methyl furfural
+with relatively high concentrations that were similar in both types of
+beans without signiﬁcant diﬀerences (p > 0.05).
+
+3.3.3.5. Ketones. Two ketones were present at the beginning of
+fermentation, which were 2-butanone (148.5 μg/kg) and 3-pentanone
+(207.5 μg/kg). After fermentation, the concentration of 2-butanone
+declined by about 3 fold, while 3-pentanone remained relatively
+unchanged in the absence of Natamycin. No signiﬁcant diﬀerences in
+the concentration of these volatiles were detected in the presence of
+Natamycin (p > 0.05). After roasting, the concentration of 2-butanone
+increased 10 fold, while 3-pentanone slightly dropped in both bean
+types with no signiﬁcant diﬀerences detected between them.
+Furthermore, 5 additional volatile ketones which were not identiﬁed
+in green beans were detected after roasting, 2,3-butanedione (356.0,
+204.0 μg/kg), 2,3-pentanedione (454.0, 292.0 μg/kg), 2,3-hexanedione
+(6.1, 5.0 μg/kg) and 2,3-heptanedione (1.6, 1.3 μg/kg), with the values
+in parenthesis corresponding to the amount of volatiles in roasted beans
+in the absence and presence of Natamycin, respectively, with no
+statistical signiﬁcance diﬀerences between the two types of beans
+(p > 0.05).
+
+3.3.3.3. Esters. Four ester compounds, namely methyl formate, methyl
+acetate, ethyl acetate and methyl butanoate, were detected at low
+concentrations in the green beans at the start of the fermentation. The
+total concentrations of the esters increased by > 3-fold during
+fermentation, but then decreased after roasting in both bean types,
+where they did not show signiﬁcant diﬀerences (p > 0.05). The levels
+of ethyl acetate increased massively from 35.1 to 312.5 μg/kg in the
+absence of Natamycin during fermentation, which was > 25-fold
+higher than those in fermented beans when Natamycin was added
+(p < 0.05). The concentration of methyl acetate increased by about 4fold in both bean types where they did not show signiﬁcant diﬀerences
+(p > 0.05), while the levels of methyl formate and methyl butanoate
+remained relatively unchanged during fermentation in the presence or
+absence of Natamycin. After roasting a hug decrease in ethyl acetate
+occurred, and the level dropped to 23.0 μg/kg in the beans with the
+absence of Natamycin and non-detectable in the presence of Natamycin.
+Furthermore, methyl butonate and methyl acetate concentrations
+dropped by about 4-fold, while methyl formate increased by about 7fold after roasting in both bean types where they did not show
+signiﬁcant diﬀerences (p > 0.05). In addition, three extra ester
+compounds, which were not observed in green beans, were detected
+after roasting, namely furfuryl formate, furfuryl propionate and furfuryl
+acetate, and the levels were signiﬁcantly diﬀerent between beans with
+or without the presence of Natamycin (p > 0.05).
+
+3.3.3.6. Pyrazines, N-heterocycles and furans. Pyrazines, pyridine,
+pyrroles, and furans were not detected in green beans during
+fermentation. They were mainly formed during roasting. A total of 27
+compounds belonging to these groups were detected with 2,5dimethylfuran, 2-methylpyrazine, 2-ethyl-6-methylpyrazine, pyridine,
+and 2-formyl-1-methylpyrrole being the most abundant. The
+concentrations of most of these volatiles were similar in beans
+fermented with or without the presence of Natamycin with no
+signiﬁcant diﬀerences between them (p > 0.05).
+3.3.3.7. Sulﬁdes. One main sulﬁde compound was detected at the start
+of fermentation, which was dimethyl sulﬁde, and its concentration
+dropped during the fermentation in the absence of Natamycin. After
+roasting, dimethyl sulﬁde increased by > 3-fold in the absence of
+Natamycin. Furthermore, three additional compounds were detected,
+which were not present in the green beans, with dimethyl trisulﬁde
+being the most abundant, followed by methanethiol, and bis-2(furfuryl)-disulﬁde. No signiﬁcant diﬀerences in the concentration of
+these volatiles were detected between beans fermented in the absence
+or presence of Natamycin (p > 0.05).
+
+3.3.3.4. Acids and phenols. The unfermented green beans contained
+three main organic acids, butanoic (65.3 μg/kg), acetic (56.2 μg/kg),
+and heptanoic (6.9 μg/kg) acids. The total concentration of organic
+acids increased by about 3-fold and 6-fold during fermentation in the
+absence and presence of Natamycin, respectively. The concentrations of
+9
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Table 1b
+Changes in the volatile concentrations in green and roasted fermented coﬀee beans.
+Volatiles
+
+Green beans
+
+Roasted beans
+⁎
+
+Control
+
+N. treated
+
+38.8bA
+690.3aA
+22.8aA
+751.9aA
+
+2.9bB
+250.1aB
+5.4aB
+258.4bB
+
+9.8aB
+388.6aB
+2.3aB
+400.7aB
+
+482.3aA
+17.6aA
+446.8aA
+586.6aA
+1277.6aA
+259.6aA
+4.1aA
+ND
+1.6aA
+39.0aA
+ND
+29.4aA
+ND
+3144.7aA
+
+129.5bA
+16.5aA
+564.7aA
+27.1bA
+1293.3aA
+60.1bA
+2.9aA
+ND
+1.4aA
+30.1aA
+ND
+32.2aA
+ND
+2154.9bA
+
+5.1aB
+74.9aB
+63.9aB
+4.7B
+123.1aB
+13.0aB
+3.7aA
+39.5a
+150.1aB
+303.8aB
+58.9a
+19.7aB
+5.0a
+865.4aB
+
+2.0bB
+64.8Ab
+56.2aB
+ND
+153.2aB
+5.2bB
+2.0aA
+37.3a
+147.0aB
+391.2aB
+46.9a
+23.4aB
+1.0b
+930.2aB
+
+2.4c
+17.4c
+24.4a
+66.3a
+461.5a
+226.0a
+ND
+135.8b
+ND
+933.8aA
+
+59.0aA
+40.4aA
+34.6aA
+57.1aA
+30.0b
+92.6bA
+ND
+221.90aA
+ND
+535.6bA
+
+7.5bA
+20.2bA
+25.1aA
+83.8aA
+28.9b
+75.1bA
+ND
+110.8bA
+ND
+351.4cA
+
+204.5aB
+65.0aB
+15.3aB
+29.3aB
+ND
+25.3aB
+4933.2a
+320.7aB
+1294.2a
+6887.5aB
+
+78.6bB
+19.2bA
+12.3aB
+17.1aB
+ND
+26.2aB
+4275.0a
+176.2bB
+1080.6a
+5685.2bB
+
+Ester
+Methyl formate
+Methyl acetate
+Ethyl acetate
+Methyl butanoate
+Furfuryl formate
+Furfuryl propionate
+Furfuryl acetate
+Furfural propionate
+Total esters
+
+13.4a
+704.8b
+35.1b
+152.6a
+ND
+ND
+ND
+ND
+905.9b
+
+14.1aA
+2492.9aA
+312.5aA
+106.4aA
+ND
+ND
+ND
+ND
+2925.9aA
+
+13.4aA
+3043.9aA
+12.3cA
+110.2aA
+ND
+ND
+ND
+ND
+3179.8aA
+
+87.7aB
+487.4aB
+23.0B
+28.1aB
+10.0a
+144.0a
+246.1a
+89.1a
+1115.4aB
+
+101.1aB
+760.0aB
+ND
+14.9aB
+8.0a
+104.3a
+339.4a
+68.9a
+1396.6aB
+
+Furan
+2-Methyl furan
+2,5-Dimethyl furan
+2-Vinylfuran
+2-Butyl furan
+2(5H)-Furanone
+2-Allylfuran
+2-Pentylfuran
+2-Acetylfuran
+2-Propionylfuran
+2-Furfurylfuran
+Tetrahydro-2-(methoxymethyl)-furan
+Total furans
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+119.2a
+4327.3a
+28.1a
+26.6a
+7.1a
+5.6a
+325.5a
+266.9a
+199.6a
+8.6a
+11.8a
+5326.3a
+
+178.7a
+4095.7a
+20.8a
+37.9a
+5.4a
+8.0a
+312.0a
+375.8a
+116.3a
+13.1a
+7.3a
+5171.0a
+
+Ketones
+2-Butanone
+3-Pentanone
+2,3-Butanedione
+2,3-Pentanedione
+2,3-Hexanedione
+2,3-Heptanedione
+Total ketones
+
+148.5a
+207.5a
+ND
+ND
+ND
+ND
+356a
+
+44.9bA
+163.9aA
+ND
+ND
+ND
+ND
+208.8bA
+
+38.9bA
+169.8aA
+ND
+ND
+ND
+ND
+208.7bA
+
+442.3aB
+112.9aB
+356.0a
+454.0a
+6.1a
+1.6a
+1372.9aB
+
+400.8aB
+114.6aB
+204.0a
+292.0a
+5.0a
+1.3a
+1017.7aB
+
+N-heterocycle
+1-Methyl-pyrrole
+2 Ethyl-pyrrole
+Pyridine
+Pyridine, 2-methyl
+2-Acetylpyridine
+2-Formyl-1-methylpyrrole
+
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+
+3.1a
+14.0a
+459.6a
+4.0a
+6.2a
+325.0a
+
+1.0a
+12.2a
+330.9a
+3.4a
+6.5a
+369.9a
+
+Initial
+
+Control
+
+N. treated
+
+Acid
+Butanoic acid
+Acetic acid
+Heptanoic acid
+Total acids
+
+65.3a
+56.2c
+6.9a
+128.4cA
+
+13.2cA
+383.0bA
+17.7aA
+413.9bA
+
+Alcohols
+Ethanol
+2-Methyl-3-buten-2-ol
+Isopentyl alcohol
+Isoamyl alcohol
+3-Methyl-2-buten-1-ol,
+1-Hexanol
+2-Nonanol
+2,3 Butanediol
+Furfuryl alcohol
+1-Nonanol
+2,3-Hexanediol
+Phenylethyl alcohol
+1,4-Butanediol
+Total alcohols
+
+147.0b
+16.2a
+466.1a
+15.9b
+240.3b
+93.0c
+ND
+ND
+3.2aA
+12.1b
+ND
+28.0a
+ND
+1021.9cA
+
+Aldehyde
+Acetaldehyde
+3-Methyl butanal
+Hexanal
+3-Methyl-2-butenal
+2-Hexenal
+2,2-Dimethyl hexanal
+Furfural
+Benzaldehyde
+5-Methyl furfural
+Total aldehydes
+
+(continued on next page)
+10
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Table 1b (continued)
+Volatiles
+
+Green beans
+
+Roasted beans
+
+Initial
+
+Control
+
+N. treated⁎
+
+Control
+
+N. treated
+
+4(H)-Pyridine,N-acetyl2-Formyl pyrrole
+Total N-heterocycles
+
+ND
+ND
+ND
+
+ND
+ND
+ND
+
+ND
+ND
+ND
+
+56.9a
+136.8a
+1005.6a
+
+65.7a
+161.2a
+950.8a
+
+Phenol
+2 Methoxy phenol (guaiacol)
+Phenol
+2-Methyl phenol
+2-Methoxy-4-vinylphenol
+Total phenols
+
+ND
+91.4a
+ND
+ND
+91.4a
+
+ND
+47.3aA
+ND
+ND
+47.3aA
+
+ND
+53.4aA
+ND
+ND
+53.4aA
+
+3.3a
+75.2aA
+57.2a
+19.5a
+155.2aB
+
+1.6a
+58.6aA
+50.3a
+20.9a
+131.4aB
+
+Pyrazine
+Pyrazine
+2-Methylpyrazine
+2,5-Dimethypyrazine
+2,6-Dimethylpyrazine
+2-Ethylpyrazine
+2,3-Dimethylpyrazine
+2-Ethyl-6-methylpyrazine
+2-Ethyl-5-methylpyrazine
+2-Ethyl-3-methylpyrazine
+3-Ethyl-2,5-dimethylpyrazine
+2-Acetylpyrazine
+2-Acetyl-3-methylpyrazine
+2-Methyl-5-(1 propenyl)pyrazine
+Total pyrazines
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+267.3a
+2910.5a
+1184.1a
+380.1a
+62.5a
+375.1a
+752.9a
+403.0a
+272.2a
+96.9a
+2.7a
+18.9a
+6.8a
+6733.0a
+
+183.4a
+2531.4a
+1242.1a
+197.9a
+74.8a
+445.1a
+714.9a
+382.6a
+253.2a
+116.1a
+4.2a
+19.6a
+5.7a
+6171.0a
+
+Sulﬁde
+Methanethiol
+Dimethyl sulﬁde
+Dimethyl disulﬁde
+Dimethyl trisulﬁde
+Furfuryl methyl sulﬁde
+Bis-2-(furfuryl)-disulﬁde
+Total sulﬁdes
+
+ND
+11.9a
+ND
+ND
+ND
+ND
+11.9a
+
+ND
+5.8bA
+ND
+ND
+ND
+ND
+5.8bA
+
+ND
+4.2bA
+ND
+ND
+ND
+ND
+4.2bA
+
+13.7a
+39.9aB
+16.7a
+27.1a
+19.7a
+5.1a
+122.2aB
+
+15.8a
+31.3aB
+32.6a
+29.0a
+30.9a
+8.5a
+148.1aB
+
+Values are of three replicates. Mean values in each row with diﬀerent lower-case letters (a–c) indicate signiﬁcant diﬀerences among the green beans or the roasted
+beans. Mean values in the same row with diﬀerent upper-case letters (A, B) indicate signiﬁcant diﬀerences between the green beans and roasted beans. Control,
+spontaneous fermentation without treatments. ND, not detected.
+⁎
+N. treated, Natamycin treated.
+
+the former (Fig. 7). The panel reported yellow grape and apple fruity
+aroma, vanilla, peanut, chocolate notes and smooth body for coﬀee
+from beans from the spontaneous fermentation, while mild fruity and
+trace cocoa ﬂavor notes characterized coﬀee from beans fermented in
+the presence of Natamycin.
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Untreated
+
+rm
+ity
+ve
+r
+al
+l
+O
+
+la
+nc
+e
+U
+
+ni
+fo
+
+cu
+p
+
+Ba
+
+s
+C
+
+le
+a
+
+n
+
+tn
+es
+
+dy
+
+ee
+
+Bo
+
+sw
+
+e
+ci
+di
+ty
+
+st
+
+A
+
+ta
+r
+
+ft e
+A
+
+Fl
+av
+
+gr
+Fr
+a
+
+ou
+r
+
+Natamycin
+Treated
+
+an
+ce
+
+Me a n o f se nso ry
+
+3.3.4. Sensory evaluation of coﬀee beverages
+No signiﬁcant diﬀerence (p > 0.05) was detected by the Q-graded
+coﬀee certiﬁed panel between coﬀee brewed from fermented beans in
+the presence and absence of Natamycin for sweetness, balance, clean up
+and uniformity. However, coﬀee from beans fermented in the absence
+of Natamycin was rated with signiﬁcantly higher scores for fragrance,
+ﬂavor, acidity, body and overall score compared with beans fermented
+in the presence of Natamycin (p < 0.05). In contrast, a higher score for
+aftertaste was awarded to the latter (in the presence of Natamycin) than
+
+Samples
+Fig. 7. Mean scores of cup test by three Q-graded coﬀee certiﬁed panelists for coﬀee brewed from beans produced by spontaneous and Natamycin treated fermentation (mean ± standard deviation).
+11
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+4. Discussion
+
+Candida and Wickerhamomyces, which were consistent with the culturedependent analysis (Elhalis et al., 2020). Surprisingly, no Pichia was
+detected by culture-independent methods at any stage of the fermentation, but this genus was found by the cultural method. One possible
+reason for this might be the database limitations used in the cultureindependent analysis for yeasts, which were not as complete as those
+for bacteria. Most of the identiﬁed yeasts are well known for their high
+pectinolytic activities, and are believed to contribute to the mucilage
+degradation during wet coﬀee fermentation (Agate and Bhat, 1966;
+Pereira et al., 2014; Silva, 2014). Furthermore, yeasts such as Pichia,
+Candida and Hanseniaspora have also been detected in cocoa bean fermentations and believed to be involved in the degradation of pectin of
+the cocoa pulp (Crafack et al., 2013; Ho et al., 2014; Samagaci et al.,
+2016). However, such ﬁndings were not supported in our study, because in fermentations either with the absence or presence of Natamycin, complete degradation of mucilage was observed, suggesting that
+yeasts made little or no contribution to the degradation of mucilage.
+Avallone et al. (2001) reported weak enzymatic activities in the endogenous yeast isolates of coﬀee fermentation and believed that the
+main cause of mucilage degradation was the acidiﬁcation process, rather than pectinolytic activities from yeasts or other microorganisms.
+Interestingly, early observations on mucilage degradation during coﬀee
+fermentation appeared to support our ﬁndings as it was found that the
+degradation was completed before microbial activities became predominate in the fermentation (Lilienfeld-Toal, 1931).
+A relatively high abundance of ﬁlamentous fungi was detected at
+the initial stage, which progressively declined during fermentation and
+mostly disappeared at the end. Possible reasons of such reduction might
+be the production of organic acids, alcohols and heat as well as the
+consumption of available oxygen during fermentation as such changes
+were not favourable to the growth and survival of ﬁlamentous fungi
+(Satyanarayana and Kunze, 2009). Furthermore, endogenous isolates,
+such as yeasts, were reported to produce antifungal metabolites that
+suppress the growth of ﬁlamentous fungi (Masoud et al., 2004; Payne
+and Bruce, 2001). The suppression of ﬁlamentous fungi would likely
+favour product safety.
+
+4.1. Microbial ecology
+Analysis by both culture-dependent and independent methods
+showed that yeasts, LAB, AAB and Enterobacteriaceae grew in the laboratory scale wet spontaneous fermentation of coﬀee beans, similar to
+results reported in previous studies (Agate and Bhat, 1966; Masoud
+et al., 2004; Pereira et al., 2014; Silva, 2014). Furthermore, results by
+both methods proved that adding Natamycin to the fermentation mass
+selectively suppressed yeast growth and their metabolic activities
+without signiﬁcantly altering bacterial growth and diversity. Inhibition
+of yeast growth during coﬀee fermentation without signiﬁcantly impacting on bacterial growth could help evaluate the role of yeast in the
+fermentation and their contribution to coﬀee quality. Natamycin is a
+well-known food-grade antifungal agent used to control fungal spoilage
+in many foods at concentrations up to 2000 ppm (Delves-Broughton
+et al., 2005). Preliminary experiments using diﬀerent concentrations of
+Natamycin were ﬁrst tried and 300 ppm was chosen, as this was the
+lowest concentration where yeast growth was suppressed under the
+experimental conditions and no signiﬁcant changes occurred to bacterial growth. Similar ﬁndings have been reported elsewhere (Ho et al.,
+2014).
+As reported in our previous study, in the spontaneous fermentation,
+the population of yeasts grew by > 10 times; the level of LAB declined
+slightly, while AAB increased initially and then declined (Elhalis et al.,
+2020). In the fermentation with added Natamycin, the growth of yeasts
+declined from the start and dropped to non-detectable levels by 24 h.
+The species and growth patterns of LAB and AAB in the Natamycin
+treated fermentation were similar to those in the spontaneous fermentation, but the populations were higher in the former. Similar ﬁndings
+on LAB and AAB growth pattern in spontaneous coﬀee fermentation
+have been reported elsewhere (Avallone et al., 2001; De Bruyn et al.,
+2017; Evangelista et al., 2015; Ribeiro et al., 2017; Zhang et al., 2019).
+Bacteria (especially LAB) and yeasts are known to co-exist and cooperate in several fermented foods and beverages such as keﬁr, cheese,
+sourdough and wine (Alexandre et al., 2004; Cheirsilp et al., 2003;
+Corsetti et al., 2001; De Vuyst et al., 2010). Our results showed that
+with the absence of yeast growth and their metabolic activities, LABs
+and AABs grew to higher populations than that with the presence of
+yeasts. The likely cause of this higher bacterial population is the lesser
+competition from yeasts for nutrients and possible suppression of bacterial growth (especially LAB) by toxic yeast metabolites such as alcohol.
+The predominant yeasts in the fermentation were H. uvarum and
+Pichia kudriavzevii, followed by Candida, Wickerhamomyces and P. fermentans. H. uvarum was detected during wet coﬀee fermentations in
+Tanzania and was the second most abundant yeast with an initial population of 6.2 log CFU/g that increased to 7.1 log CFU/g in 48 h
+(Masoud et al., 2004), but P. kudriavzevii was isolated in coﬀee wet
+fermentation for the ﬁrst time in our previous report (Elhalis et al.,
+2020) and conﬁrmed by this study. Other Pichia members such as P.
+fermentans, P. guilliermondii, P. caribbica, P. kluyveri, and P. anomala
+were reported in previous studies (Masoud et al., 2004; Pereira et al.,
+2014), but not in our study. Surprisingly, Saccharomyces spp. were not
+detected in this study at any time during the fermentation, while they
+are common isolates with high counts in similar studies conducted in
+other regions (Agate and Bhat, 1966; Pereira et al., 2014). These
+ﬁndings suggest that yeasts isolated from wet fermentation of coﬀee
+beans in diﬀerent regions have both common and region-speciﬁc species (Elhalis et al., 2020).
+Results of the culture-independent analysis were broadly consistent
+with the data of cultural methods but revealed a wider microbial diversity. Over 40 bacterial reads belonging to ﬁve families, and 232
+fungal reads belonging to 15 families were found in the fermenting
+beans. H. uverium was the most abundant OUTs yeast reads followed by
+
+4.2. Microbial metabolism
+As expected, the suppression of yeast growth by the addition of
+Natamycin signiﬁcantly slowed the consumption rate of mucilage sugars during fermentation. In contrast, suppression of yeast growth did
+not show a signiﬁcant impact on the sugars in the endosperm.
+Endosperm sucrose declined moderately during fermentation which is
+likely due to the endogenous invertase activities converting sucrose to
+glucose and fructose (Hansen et al., 1998). However, the levels of
+fructose and glucose did not show a corresponding increase but remained relatively stable during fermentation. This phenomenon has
+been observed in our previous report and we believe that it could be
+due to 1) the sugars leaching out from the endosperm to the outside
+environment during the fermentation process (Wootton, 1974), and 2)
+switching of the metabolism of the bean from aerobic to anaerobic
+pathways (Elhalis et al., 2020). The concentration of the reducing sugars inside the beans has a crucial impact on the coﬀee bean color,
+aroma and ﬂavor during roasting, where sugars are key participants of
+Maillard reaction and caramelization (Fischer et al., 2001; Rohan and
+Stewart, 1967). These ﬁndings are noteworthy because they suggest
+that the higher levels of residual mucilage in the yeast suppressed fermentation did not diﬀuse, as predicted, into the endosperm raising the
+sugar level, which would otherwise have an impact on the coﬀee ﬂavor
+and aroma through Maillard reactions during roasting.
+Suppression of yeasts by Natamycin also had a signiﬁcant impact on
+the production of key microbial metabolites during coﬀee fermentation.
+Glycerol was detected in the absence of Natamycin but not detected
+when Natamycin was added to the fermentation. This ﬁnding suggests
+that yeasts were the microbial group responsible for the production of
+12
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+fermentations; however, its level was almost 2 times higher when yeast
+growth was suppressed. Acetic acid is mainly synthesized either by
+direct sugar metabolism or ethanol oxidization by AAB, LAB, and yeasts
+(Awad et al., 2012; De Vuyst et al., 2010; Swiegers et al., 2005). The
+higher level of acetic acid in the presence of Natamycin was likely related to the higher population of AAB and LAB in the Natamycin treated
+fermentation. Acetic acid adds to coﬀee a pleasant clean and sweet taste
+at low concentrations but an undesirable pungent and vinegary ﬂavor
+at high concentrations (> 1 mg/ml) (Bertrand et al., 2012). Similarly,
+butanoic acid concentration was 2-fold higher in the presence of Natamycin. Butanoic acid confers an onion taste and is not preferred in
+high-quality coﬀee (Amorim and Amorim, 1977). These ﬁndings indicate that the growth of yeasts during coﬀee bean fermentation reduced the production of these acids, which might be achieved by either
+the ability of yeasts to suppress the population of the microbial groups
+that produce acetic and butanoic acids or by taking up and catabolize
+these metabolites (Casal et al., 1999; Giannattasio et al., 2013;
+Hohmann, 2009; Mollapour et al., 2009).
+Suppression of yeast growth did not signiﬁcantly impact on the
+concentration of ketones, pyrazines, pyrroles, pyridines, furans, phenols
+and sulfur-containing volatiles in the green beans. Previous studies
+reported the capability of yeasts to produce ketones during cocoa beans
+fermentation (Ho et al., 2014). Pyrazines were also created by Bacillus
+species during soybeans fermentation (Besson et al., 1997). Furthermore, several yeasts and LAB were reported to produce sulfur-containing volatiles (Carballo, 2012). These ﬁndings are not supported in
+the current study. Most of these volatiles were only detected after
+roasting and were either not detected or did not show an accumulation
+during the fermentation process, suggesting that microorganisms in the
+fermentation were responsible for their synthesis. It is known that bean
+components such as sugars and amino acids are the main precursors for
+these volatiles, which are mainly generated by thermal reactions such
+as Maillard reaction and sugar and protein degradations (Baggenstoss
+et al., 2008; Daglia et al., 2007; Yaylayan and Keyhani, 1999). Thus, it
+is possible that microbial activities might contribute to the formation of
+these volatiles during roasting indirectly through their impact on the
+bean components during fermentation. However, it was previously reported that fermentation had no signiﬁcant impact on the coﬀee bean
+protein and peptide contents (Elhalis et al., 2020; Ludwig et al., 2000).
+Such observations might explain the similar concentrations of these
+compounds in both bean types after roasting. Overall, these volatiles
+confer a wide range of coﬀee sensory characteristics such as sweetness,
+sour, roast, caramel, buttery, woody and earthy (Mayer et al., 2000),
+and their similar levels in both bean types might explain the similar
+sensory scores given to the sweetness, balance, clean up and uniformity
+of coﬀees brewed from the two types of bean.
+
+glycerol during coﬀee bean fermentation. Glycerol was reported to be
+produced by the sugar metabolism of yeasts and has a sweet taste and
+smooth mouthfeel (Swiegers et al., 2005). In contrast, mannitol concentration was higher when Natamycin was added than when it was
+absent. Mannitol is mainly produced by the fructose metabolism of
+heterofermentative LABs such as Leuconostoc mesenteroides (De Vuyst
+et al., 2010; Saha and Racine, 2011), which agrees with the result of
+higher populations of LAB in the presence of Natamycin. Mannitol has a
+favourable cool taste and can contribute positively to the sensory
+quality of coﬀee.
+4.3. Volatile compounds
+The growth and activity of yeasts during coﬀee bean fermentation
+had a huge impact on the concentration of alcohols in both the green
+and roasted beans. Greens beans from spontaneous fermentation had a
+much higher levels of total alcohols than those where the growth of
+yeasts was suppressed by Natamycin. In particular, the levels of alcohols, isoamyl alcohol and 1-hexnol were 3–20 times higher in the
+former than in the latter. Ethanol has an essential role in the beverage
+viscosity and serves as a solvent for volatiles, while isoamyl alcohol is
+known for its desirable banana and pear ﬂavor (Tamang and Fleet,
+2009). Although large proportions of them were lost during roasting,
+their concentrations remained much higher in the beans from spontaneous fermentation than those where yeasts were suppressed, which is
+likely to impact on the ﬂavor and aroma of brewed coﬀee. Both volatiles were reported as yeast metabolites in other fermented products,
+which were consistent with our results (Pereira et al., 2015; Tamang
+and Fleet, 2009). 2-Buten-1-ol-3-methyl, which has a fruity aroma, was
+another major alcohol found in the coﬀee beans. It was also reported in
+several fermented products, and believed to be produced by both yeasts
+and LAB during the metabolism of amino acids such as leucine
+(Carballo, 2012). However, its levels were not signiﬁcant diﬀerent between the two types of beans, suggesting that the yeasts might not be a
+main producer of this alcohol.
+Yeasts also had a huge impact on the level of esters in the coﬀee
+beans, especially for ethyl acetate, the concentration of which in the
+spontaneously fermented beans was > 25 times higher than in those
+where yeast growth was suppressed. Although a large amount of ethyl
+acetate was lost during roasting, it remained to be present after roasting
+in the spontaneously fermented beans, while it was not detected in the
+beans fermented with the addition of Natamycin. The presence of ester
+compounds such as ethyl acetate in beverages can signiﬁcantly aﬀect
+coﬀee ﬂavor and aroma as it has a fruity note with a low threshold
+concentration (Cristiani, 2001). Both yeasts and AAB were reported to
+produce these volatiles in several fermented products (Peddie, 1990;
+Saerens and Swiegers, 2016). However, higher populations of AAB in
+fermentation with the presence of Natamycin, did not correspond with
+higher levels of esters in the beans, suggesting that the main producer of
+such compounds was the yeasts rather than AAB. Similarly, aldehydes,
+especially 3-methyl butanal, benzaldehyde and hexanal, were present
+in high levels in the spontaneously fermented green beans, which persisted after roasting. These aldehydes were reported as secondary metabolites of LAB and yeasts as intermediates of ethanol production, and
+have fruity, apple, and almond aroma (Mukisa et al., 2017; Rosca et al.,
+2016). In the presence of Natamycin, the LAB population was higher
+than in the spontaneous fermentation; however, concentrations of these
+aldehydes were lower compared with the latter, suggesting that yeasts
+were more likely the main producer of such volatiles during the fermentation. Previous studies reported a high level of aldehydes in fermented foods inoculated with yeasts (Pereira et al., 2015; Rosca et al.,
+2016), which broadly agrees our results. The presence of these volatiles
+might contribute to the high ﬂavor score and the fruity aroma of the
+coﬀee beverage made from the beans fermented in the absence of Natamycin.
+High concentrations of acetic acid were detected in beans from both
+
+5. Conclusion
+Results of the current study demonstrated that the growth and activities of yeasts during coﬀee bean fermentation had a signiﬁcant
+impact on coﬀee ﬂavor and aroma. Speciﬁcally, yeasts signiﬁcantly
+increased the concentration of alcohols, esters, aldehydes, glycerol, and
+organic acids in the fermented green beans as well as roasted beans
+compared with beans from fermentation where yeast growth was suppressed by Natamycin. Furthermore, the growth and activities of yeasts
+reduced the growth of undesirable microorganisms such as ﬁlamentous
+fungi and the production of undesirable metabolites such as butanoic
+and acetic acids. Sensory analysis showed that coﬀee brewed from
+beans produced by yeast suppressed fermentations had lower ﬂavor and
+aroma scores compared with those by spontaneous fermentation.
+Moreover, yeasts did not appear to have a signiﬁcant impact on the
+mucilage degradation during coﬀee bean fermentation. Overall, this
+study demonstrates that yeasts play a crucial role for wet coﬀee fermentation in producing coﬀee with superior ﬂavor, aroma and overall
+sensory quality.
+13
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Declaration of competing interest
+
+processing on the microbiota and metabolite proﬁles during green coﬀee bean production. Appl. Environ. Microbiol. 83 (1), e02398-16.
+De Vuyst, L., Lefeber, T., Papalexandratou, Z., Camu, N., 2010. The functional role of
+lactic acid bacteria in cocoa bean fermentation. In: Biotechnology of Lactic Acid
+Bacteria: Novel Applications. vol. 301. Wiley Online Library, pp. 325.
+Delves-Broughton, J., Thomas, L.V., Doan, C.H., 2005. Natamycin. Dalam. In: Davidson,
+P.M., Sofos, J.N., Branen, A.L. (Eds.), Antimicrobials in Foods. CRC Press, Boca Raton.
+Elhalis, H., Cox, J., Zhao, J., 2020. Ecological diversity, evolution and metabolism of
+microbial communities in the wet fermentation of Australian coﬀee beans. Int. J.
+Food Microbiol. 321, 108544.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identiﬁcation of yeasts by
+RFLP analysis of the 5.8 S rRNA gene and the two ribosomal internal transcribed
+spacers. Int. J. Syst. Evol. Microbiol. 49 (1), 329–337.
+Evangelista, S.R., Miguel, M.G.d.C.P., Silva, C.F., Pinheiro, A.C.M., Schwan, R.F., 2015.
+Microbiological diversity associated with the spontaneous wet method of coﬀee
+fermentation. Int. J. Food Microbiol. 210, 102–112.
+Febrianto, N.A., Yang, T.A., Wan Abdullah, W.A., 2016. Cocoa-like ﬂavor compound
+development of rambutan seed fat as the eﬀect of fermentation and roasting. Int.
+Food Res. J. 23 (5).
+Fischer, M., Reimann, S., Trovato, V., Redgwell, R.J., 2001. Polysaccharides of green
+Arabica and Robusta coﬀee beans. Carbohydr. Res. 330 (1), 93–101.
+Flament, I., Gautschi, F., Winter, M., Willhalm, B., Stoll, M., 1968. Les composants furanniques de l'arome de café: quelques aspects chimiques et spectroscopiques. In
+(633.73063 C714 1967 ed.). Association Scientiﬁque Internationale du Café, París
+(Francia).
+Frank, D.C., Geesink, G., Alvarenga, T.I.R.C., Polkinghorne, R., Stark, J., Lee, M., Warner,
+R., 2017. Impact of high oxygen and vacuum retail ready packaging formats on lamb
+loin and topside eating quality. Meat Sci. 123, 126–133.
+Giannattasio, S., Guaragnella, N., Ždralević, M., Marra, E., 2013. Molecular mechanisms
+of Saccharomyces cerevisiae stress adaptation and programmed cell death in response
+to acetic acid. Front. Microbiol. 4, 33.
+Hansen, C.E., del Olmo, M., Burri, C., 1998. Enzyme activities in cocoa beans during
+fermentation. J. Sci. Food Agric. 77 (2), 273–281.
+Ho, V.T.T., Zhao, J., Fleet, G., 2014. Yeasts are essential for cocoa bean fermentation. Int.
+J. Food Microbiol. 174, 72–87. https://doi.org/10.1016/j.ijfoodmicro.2013.12.014.
+Hohmann, S., 2009. Control of high osmolarity signalling in the yeast Saccharomyces
+cerevisiae. FEBS Lett. 583 (24), 4025–4029.
+International Coﬀee Organization, 2018. Total production by all exporting countries (in
+thousand 60 kg bags). http://www.ico.org/prices/po-production.pdf, Accessed date:
+23 December 2019.
+Lilienfeld-Toal, O., 1931. A fermentação do café. Secretaria de Agricultura, São Paulo
+(60p).
+Lin, C.-C., 2010. Approach of improving coﬀee industry in Taiwan-promote quality of
+coﬀee bean by fermentation. J. Int. Manag. 5 (1), 154–159.
+Liu, C., Yang, Q., Linforth, R., Fisk, I.D., Yang, N., 2019. Modifying Robusta coﬀee aroma
+by green bean chemical pre-treatment. Food Chem. 272, 251–257.
+Ludwig, E., Lipke, U., Raczek, U., Jäger, A., 2000. Investigations of peptides and proteases
+in green coﬀee beans. Eur. Food Res. Technol. 211 (2), 111–116.
+Masoud, W., Jespersen, L., 2006. Pectin degrading enzymes in yeasts involved in fermentation of Coﬀea arabica in East Africa. Int. J. Food Microbiol. 110 (3), 291–296.
+Masoud, W., Bjørg Cesar, L., Jespersen, L., Jakobsen, M., 2004. Yeast involved in fermentation of Coﬀea arabica in East Africa determined by genotyping and by direct
+denaturating gradient gel electrophoresis. Yeast 21 (7), 549–556.
+Mayer, F., Czerny, M., Grosch, W., 2000. Sensory study of the character impact aroma
+compounds of a coﬀee beverage. Eur. Food Res. Technol. 211 (4), 272–276.
+Mollapour, M., Shepherd, A., Piper, P.W., 2009. Presence of the Fps1p aquaglyceroporin
+channel is essential for Hog1p activation, but suppresses Slt2 (Mpk1) p activation,
+with acetic acid stress of yeast. Microbiology 155 (10), 3304–3311.
+Mottram, R., 2005. The LRI and Odour Database. Flavour Research Group.[online].
+School of Food Biosciences, University of Reading, UK [dostęp: 02.01. 2012].
+Dostępna w Internecie: http://www.odour.org.uk/lriindex.html.
+Mukisa, I.M., Byaruhanga, Y.B., Muyanja, C.M.B.K., Langsrud, T., Narvhus, J.A., 2017.
+Production of organic ﬂavor compounds by dominant lactic acid bacteria and yeasts
+from Obushera, a traditional sorghum malt fermented beverage. Food Sci. Nutr. 5 (3),
+702–712.
+de Oliveira Junqueira, A.C., de Melo Pereira, G.V., Medina, J.D.C., Alvear, M.C.R.,
+Rosero, R., de Carvalho Neto, D.P., Enríquez, H.G., Soccol, C.R., 2019. First description of bacterial and fungal communities in Colombian coﬀee beans fermentation analysed using Illumina-based amplicon sequencing. Sci. Rep. 9 (1), 1–10.
+Ovreas, L., Forney, L., Daae, F.L., Torsvik, V., 1997. Distribution of bacterioplankton in
+meromictic Lake Saelenvannet, as determined by denaturing gradient gel electrophoresis of PCR-ampliﬁed gene fragments coding for 16S rRNA. Appl. Environ.
+Microbiol. 63, 3367–3373.
+Payne, C., Bruce, A., 2001. The yeast Debaryomyces hansenii as a short-term biological
+control agent against fungal spoilage of sawn Pinus sylvestris timber. Biol. Control 22
+(1), 22–28.
+Peddie, H.A.B., 1990. Ester formation in brewery fermentations. J. Inst. Brew. 96 (5),
+327–331.
+Pereira, G.V.d.M., Soccol, V.T., Pandey, A., Medeiros, A.B.P., Lara, J.M.R.A., Gollo, A.L.,
+Soccol, C.R., 2014. Isolation, selection and evaluation of yeasts for use in fermentation of coﬀee beans by the wet process. Int. J. Food Microbiol. 188, 60–66.
+Pereira, G.V.d.M., Neto, E., Soccol, V.T., Medeiros, A.B.P., Woiciechowski, A.L., Soccol,
+C.R., 2015. Conducting starter culture-controlled fermentations of coﬀee beans
+during on-farm wet processing: growth, metabolic analyses and sensorial eﬀects.
+Food Res. Int. 75, 348–356.
+Pereira, G.V.d.M., Soccol, V.T., Brar, S.K., Neto, E., Soccol, C.R., 2017. Microbial ecology
+
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂuence the work reported in this paper.
+Acknowledgment
+The authors gratefully acknowledge Mr. Benji Salim Ang, director of
+The Q Coﬀee Trading, for assisting in preparing the coﬀee beans and
+arranging the sensory evaluation tests.
+Ethical approval
+This experiment was conducted at the University of New South
+Wales Sydney with human ethics approval by the HREAP Executives
+(HC number‫ ׃‬HC190689).
+References
+Agate, A.D., Bhat, J.V., 1966. Role of pectinolytic yeasts in the degradation of mucilage
+layer of Coﬀea robusta cherries. Appl. Environ. Microbiol. 14 (2), 256–260.
+Alexandre, H., Costello, P.J., Remize, F., Guzzo, J., Guilloux-Benatier, M., 2004.
+Saccharomyces cerevisiae–Oenococcus oeni interactions in wine: current knowledge
+and perspectives. Int. J. Food Microbiol. 93 (2), 141–154.
+Amorim, H.V., Amorim, V.L., 1977. Coﬀee enzymes and coﬀee quality. In: Stangelo,
+R.L.O.A.J. (Ed.), Enzymes in Food and Beverages Processing. vol. 47. ACS
+Publication, pp. 27–56 Chapter 3.
+Angelucci, E., Arima, H.K., Mantovani, D.M.B., Figueiredo, I.B., 1982. Análise química do
+café. Instituto de Tecnologia de Alimentos, Campinas Sao Paulo.
+Avallone, S., Guiraud, J.P., Guyot, B., Olguin, E., Brillouet, J.M., 2001. Fate of mucilage
+cell wall polysaccharides during coﬀee fermentation. J. Agric. Food Chem. 49 (11),
+5556–5559.
+Avallone, S., Brillouet, J.M., Guyot, B., Olguin, E., Guiraud, J.P., 2002. Involvement of
+pectolytic micro-organisms in coﬀee fermentation. Int. J. Food Sci. Technol. 37 (2),
+191–198.
+Awad, H.M., Diaz, R., Malek, R.A., Othman, N.Z., Aziz, R.A., El Enshasy, H.A., 2012.
+Eﬃcient production process for food grade acetic acid by Acetobacter aceti in shake
+ﬂask and in bioreactor cultures. E-J. Chem. 9 (4), 2275–2286.
+Baggenstoss, J., Poisson, L., Kaegi, R., Perren, R., Escher, F., 2008. Coﬀee roasting and
+aroma formation: application of diﬀerent time–temperature conditions. J. Agric.
+Food Chem. 56 (14), 5836–5846.
+Bertrand, B., Boulanger, R., Dussert, S., Ribeyre, F., Berthiot, L., Descroix, F., Joët, T.,
+2012. Climatic factors directly impact the volatile organic compound ﬁngerprint in
+green Arabica coﬀee bean as well as coﬀee beverage quality. Food Chem. 135 (4),
+2575–2583.
+Besson, I., Creuly, C., Gros, J.B., Larroche, C., 1997. Pyrazine production by Bacillus
+subtilis in solid-state fermentation on soybeans. Appl. Microbiol. Biotechnol. 47 (5),
+489–495.
+Brando, C.H., 2010. Alternativas a la cosecha selectiva. In: Almanaque de Cafetaleros:
+Buenas Prácticas para el Nuevo Milenio. TBWA Nicaragua. vol. 6. pp. 64–66.
+Brando, C.H., Brando, M.F., 2014. Methods of coﬀee fermentation and drying. In: Cocoa
+and Coﬀee Fermentations. CRC Press, Boca Raton, FL, pp. 367–396.
+Carballo, J., 2012. The role of fermentation reactions in the generation of ﬂavor and
+aroma of foods. In: Mehta, A.K.-E. Bhavbhuti M., Iwanski, Robert Z. (Eds.),
+Fermentation: Eﬀects on Food Properties. CRC Press Boca Raton, Florida, pp. 51–83.
+Casal, M., Paiva, S., Andrade, R.P., Gancedo, C., Leão, C., 1999. The lactate-proton
+symport of Saccharomyces cerevisiae is encoded by JEN1. J. Bacteriol. 181 (8),
+2620–2623.
+Cheirsilp, B., Shoji, H., Shimizu, H., Shioya, S., 2003. Interactions between Lactobacillus
+keﬁranofaciens and Saccharomyces cerevisiae in mixed culture for keﬁran production.
+J. Biosci. Bioeng. 96 (3), 279–284.
+Cocolin, L., Rantsiou, K., Iacumin, L., Cantoni, C., Comi, G., 2002. Direct identiﬁcation in
+food samples of Listeria spp. and Listeria monocytogenes by molecular methods. Appl.
+Environ. Microbiol. 68 (12), 6273–6282.
+Corsetti, A., Rossi, J., Gobbetti, M., 2001. Interactions between yeasts and bacteria in the
+smear surface-ripened cheeses. Int. J. Food Microbiol. 69 (1–2), 1–10.
+Crafack, M., Mikkelsen, M.B., Saerens, S., Knudsen, M., Blennow, A., Lowor, S., Takrama,
+J., Swiegers, J.H., Petersen, G.B., Heimdal, H., 2013. Inﬂuencing cocoa ﬂavour using
+Pichia kluyveri and Kluyveromyces marxianus in a deﬁned mixed starter culture for
+cocoa fermentation. Int. J. Food Microbiol. 167 (1), 103–116.
+Cristiani, G., 2001. Food microorganisme and aromatic ester. Sci. Aliment. 21, 211–230.
+Czerny, M., Grosch, W., 2000. Potent odorants of raw Arabica coﬀee. Their changes
+during roasting. J. Agric. Food Chem. 48 (3), 868–872.
+Daglia, M., Papetti, A., Aceti, C., Sordelli, B., Spini, V., Gazzani, G., 2007. Isolation and
+determination of α-dicarbonyl compounds by RP-HPLC-DAD in green and roasted
+coﬀee. J. Agric. Food Chem. 55 (22), 8877–8882.
+De Bruyn, F., Zhang, S.J., Pothakos, V., Torres, J., Lambot, C., Moroni, A.V., Callanan, M.,
+Sybesma, W., Weckx, S., De Vuyst, L., 2017. Exploring the impacts of postharvest
+
+14
+
+International Journal of Food Microbiology 333 (2020) 108796
+
+H. Elhalis, et al.
+
+Silva, C., Batista, L.R., Abreu, L.M., Dias, E.S., Schwan, R.F., 2008. Succession of bacterial
+and fungal communities during natural coﬀee (Coﬀea arabica) fermentation. Food
+Microbiol. 25 (8), 951–957.
+Sunarharum, W.B., Williams, D.J., Smyth, H.E., 2014. Complexity of coﬀee ﬂavor: a
+compositional and sensory perspective. Food Res. Int. 62, 315–325.
+Swiegers, J.H., Bartowsky, E.J., Henschke, P.A., Pretorius, I.S., 2005. Yeast and bacterial
+modulation of wine aroma and ﬂavour. Aust. J. Grape Wine Res. 11 (2), 139–173.
+Tamang, J.P., Fleet, G.H., 2009. Yeasts diversity in fermented foods and beverages. In:
+Yeast Biotechnology: Diversity and Applications. Springer, pp. 169–198.
+Vaughn, R.H., DeCamargo, R., Falanghe, H., Melloayres, G., Serzedello, A., 1958.
+Observations on the Microbiology of the Coﬀee Fermentation in Brazil. Paper
+Presented at the in Food Technology. vol. 12(5). Inst Food Technologists, Suite 300
+221 N Lasalle St, Chicago, Il 60601-1291, pp. 57.
+Vilela, D.M., Pereira, G.V.d.M., Silva, C.F., Batista, L.R., Schwan, R.F., 2010. Molecular
+ecology and polyphasic characterization of the microbiota associated with semi-dry
+processed coﬀee (Coﬀea arabica L.). Food Microbiol. 27 (8), 1128–1135.
+Wootton, A.E., 1974. The dry matter loss from parchment coﬀee during ﬁeld processing.
+In: Paper Presented at the COLLOQUE Scientiﬁque International sur le Café. vol. 5.
+Juin, Lisbonne (Portugal), pp. 14–19.
+Yaylayan, V.A., Keyhani, A., 1999. Origin of 2, 3-pentanedione and 2, 3-butanedione in
+D-glucose/L-alanine Maillard model systems. J. Agric. Food Chem. 47 (8),
+3280–3284.
+Zhang, S.J., De Bruyn, F., Pothakos, V., Torres, J., Falconi, C., Moccand, C., Weckx, S., De
+Vuyst, L., 2019. Following coﬀee production from cherries to cup: microbiological
+and metabolomic analysis of wet processing of Coﬀea arabica. Appl. Environ.
+Microbiol. 85 (6), e02635-18.
+
+and starter culture technology in coﬀee processing. Crit. Rev. Food Sci. Nutr. 57 (13),
+2775–2788.
+Ribeiro, L.S., Miguel, M.G.d.C.P., Evangelista, S.R., Martins, P.M.M., van Mullem, J.,
+Belizario, M.H., Schwan, R.F., 2017. Behavior of yeast inoculated during semi-dry
+coﬀee fermentation and the eﬀect on chemical and sensorial properties of the ﬁnal
+beverage. Food Res. Int. 92, 26–32.
+Rohan, T.A., Stewart, T., 1967. The precursors of chocolate aroma: production of free
+amino acids during fermentation of cocoa beans. J. Food Sci. 32 (4), 395–398.
+Rosca, I., Petrovici, A.R., Brebu, M., Stoica, I., Minea, B., Marangoci, N., 2016. An original
+method for producing acetaldehyde and diacetyl by yeast fermentation. Braz. J.
+Microbiol. 47 (4), 949–954.
+Saerens, S., Swiegers, J.H., 2016. Production of Low-alcohol or Alcohol-free Beer With
+Pichia kluyveri Yeast Strains. (U.S. Patent No. 10,415,007. 17 Sep. 2019).
+Saha, B.C., Racine, F.M., 2011. Biotechnological production of mannitol and its applications. Appl. Microbiol. Biotechnol. 89 (4), 879–891.
+Samagaci, L., Ouattara, H., Niamké, S., Lemaire, M., 2016. Pichia kudrazevii and Candida
+nitrativorans are the most well-adapted and relevant yeast species fermenting cocoa
+in Agneby-Tiassa, a local Ivorian cocoa producing region. Food Res. Int. 89, 773–780.
+https://doi.org/10.1016/j.foodres.2016.10.007.
+Satyanarayana, T., Kunze, G., 2009. Yeast Biotechnology: Diversity and Applications.
+vol. 78.
+Silva, C., 2014. Microbial activity during coﬀee fermentation. In: Cocoa and Coﬀee
+Fermentations. CRC Press Boca Raton, FL, USA, pp. 368–423.
+Silva, C., Schwan, R.F., Dias, Ë.S., Wheals, A.E., 2000. Microbial diversity during maturation and natural processing of coﬀee cherries of Coﬀea arabica in Brazil. Int. J.
+Food Microbiol. 60 (2–3), 251–260.
+
+15
+
+

@@ -1,0 +1,2268 @@
+International Journal of Food Microbiology 171 (2014) 84–93
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+journal homepage: www.elsevier.com/locate/ijfoodmicro
+
+Evolution of microbiological and chemical parameters during red wine
+making with extended post-fermentation maceration
+Nicola Francesca a, Raffaele Romano b, Ciro Sannino a, Laura Le Grottaglie b,
+Luca Settanni a, Giancarlo Moschetti a,⁎
+a
+b
+
+Department of Agricultural and Forestry Science, University of Palermo, Viale delle Scienze 4, 90128 Palermo, Italy
+Department of Agriculture, University of Naples Federico II, Via Università 100, 80055 Portici, Napoli, Italy
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 4 July 2013
+Received in revised form 19 October 2013
+Accepted 8 November 2013
+Available online 16 November 2013
+Keywords:
+Prolonged post-fermentation maceration
+Lactic acid bacteria
+Polyphenols
+Red wine production
+Saccharomyces cerevisiae
+Yeasts
+
+a b s t r a c t
+The aim of the present work was to investigate the microbiological, chemical, and sensory characteristics of red
+wine subjected to post-fermentation maceration that was extended to 90 days. For this purpose, the ‘Aglianico di
+Taurasi’ grape was used as a case study. The total yeast concentration increased until day 40 of maceration and
+decreased thereafter, whereas the concentration of lactic acid bacteria slightly increased. Dekkera/Brettanomyces
+spp. and acetic acid bacteria were not detected. The yeast community was composed of Saccharomyces cerevisiae,
+Zygosaccharomyces bisporus, Metschnikowia pulcherrima, Hanseniaspora guilliermondii, Hanseniaspora uvarum,
+Pichia guilliermondii, Aureobasidium pullulans and Debaryomyces carsonii. Nine S. cerevisiae strains were detected
+at high levels at different times of maceration.
+The results of all the conventional chemical analyses of the wines were in agreement with the regulations of commercial production and, interestingly, the changes in terms of concentration demonstrated the presence of yeast
+and LAB populations that were not only alive but also in a metabolically active state until day 90 of maceration.
+The alcohol and glycerol contents slightly increased until day 90. The concentrations of malic acid decreased,
+whereas those of lactic acid slightly increased throughout the maceration process.
+Furthermore, different durations of maceration resulted in signiﬁcant differences in the total polyphenol content,
+which was higher at 40–50 days. The main phenolic compounds were benzoic and cinnamic acids and catechins.
+Interestingly, the highest ratio between (+)-catechin and (−)-epicatechin was found on day 40. In addition, the
+highest antioxidant activity was observed between days 40 and 50. The concentration of volatile organic compounds, which were mainly represented by alcohols, increased until the end of the maceration process. Sensory
+analysis revealed that samples that were subjected to maceration for a long period of time showed the highest
+odour and taste complexity and no off-odours and/or off-ﬂavours were detected. These data conﬁrmed that extending post-fermentation maceration to 90 days has no negative impact on the microbiological, chemical and
+sensory composition of wines, but affects the polyphenol content and potential health beneﬁts of the resulting
+wine.
+© 2013 Elsevier B.V. All rights reserved.
+
+1. Introduction
+The ‘Aglianico di Taurasi’ grapevine is one of the economically
+most important cultivars of the Campania region (Pomarici et al.,
+2004). The quality of the resulting wine—the highest category is
+‘Taurasi D.O.C.G.’—is well recognised (Piombino et al., 2004) and its
+composition varies signiﬁcantly depending on several factors, from
+agronomic practices to the technology of viniﬁcation (Mazzei et al.,
+2010).
+Rate, kinetics, and duration of fermentation strictly depend on the
+yeast population present in the must (Zambonelli, 1998). The metabolic
+activities of yeast on must components determine the production of
+several compounds that signiﬁcantly contribute to the aroma of wines
+⁎ Corresponding author. Tel.: +39 091 23896050; fax: +39 091 6515531.
+E-mail address: giancarlo.moschetti@unipa.it (G. Moschetti).
+0168-1605/$ – see front matter © 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.ijfoodmicro.2013.11.008
+
+(Pretorius, 2000). An important step in the production of red wine is
+represented by the maceration process, whose effects inﬂuence the
+quality of the wine (Bautista-Ortín et al., 2005). The main purpose of
+maceration is the extraction of colour compounds (anthocyanins and
+phenolic substances) from the solid components of the grape. However,
+this process also affects the sensory proﬁle of the resulting wines
+because other compounds such as aromatic substances and precursors,
+nitrogen compounds, polysaccharides, and minerals are released during
+the maceration process (De Beer et al., 2006). The transfer of these compounds from grape skins and seeds to the must is inﬂuenced by several
+factors, including temperature, contact duration, alcohol content, SO2
+concentration, grape variety, maturation degree, and microbial populations (Romero-Cascales et al., 2005).
+Four maceration techniques may be applied during wine production:
+conventional maceration, consisting of moving the must from the bottom
+of the vat to the top or immersing the ﬂoating layer of skins in the
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+2. Materials and methods
+2.1. Experimental winemaking and sample collection
+The experimental winemaking was carried out by prolonging the
+contact between solid (grape skins) and liquid (wine) phases of grape
+must to 90 days after the tumultuous phase of alcoholic fermentation.
+This was considered an extension of the post-fermentation maceration
+period.
+The grapes of the ‘Aglianico di Taurasi’ grapevine were subjected to
+the experimental viniﬁcation process that took place at the winery
+‘Azienda Agricola Contrade di Taurasi’ located in Taurasi (Avellino, Campania, Italy) (41°00′11.94″N; 14°58′25.82″E).
+Soon after harvest, the grapes were subjected to stemmer-crushing.
+After placing the must into steel vats and adding potassium
+metabisulphite (6 g/hL), it was inoculated with the autochthonous
+starter strain Saccharomyces cerevisiae NF66 (culture collection of the
+Department of Agricultural and Forest Science — University of Palermo, Italy) (15 g/hl). The starter (used as paste) was characterised by
+a viable cell concentration of 7.6 × 1012-colony forming units (CFU)/g.
+Diammonium phosphate and diammonium sulphate salts (1:1)
+(15 g/hL) were also added as activators of the fermentation process.
+Eighty hectolitres of must were transferred into two stainless steel
+vats (40 hL each) where the fermentation (8 days at 26 °C) took
+place. During the tumultuous phase of alcoholic fermentation but
+only after raising the cap, the content of each vat was mixed in
+order to facilitate the contact between the solid and liquid phases
+of the must. In particular, this was done three times per day in
+order to remove the liquid phase from the bottom of a single vat to
+the top of the same vat. Furthermore, from day 4 until day 8 of
+alcoholic fermentation, each vat was subjected to one délestage per
+day. This was done by transferring the entire liquid phase of the
+must of each vat into empty stainless steel vats, letting them stand
+for 4 h, and transferring the liquid phase back into the original vat.
+The scope of this action was to facilitate the contact between the
+liquid phase of the must with oxygen.
+At the end of the tumultuous phase of alcoholic fermentation
+(day 8), the bulk content (both liquid and solid phases) of each vat
+was transferred into steel vats with a capacity of 5 hL. All vats were
+ﬁlled until a ﬁnal solid-to-liquid ratio of 1:3 was reached and closed
+to avoid contact with oxygen. They were cooled at 16 ± 1 °C and
+subjected to different durations of post-fermentation maceration:
+
+13 d, which represented the control of post-fermentation maceration, 20, 40, 50, 60, 70 and 90 d. The production of commercial
+‘Aglianico di Taurasi’ wine after the tumultuous phase of alcoholic
+fermentation is, in general, based on a maceration period of 13 d,
+which is considered to be the minimal duration of maceration for
+this wine. Thus, in this study, post-fermentation maceration of 13 d
+was used as control trial. The viniﬁcation process, i.e., from grape
+must until day 90 of post-fermentation maceration, was performed
+in duplicate.
+2.2. Microbiological analysis
+Must samples collected from grape must until the end of maceration
+were serially diluted in Ringer's solution (Sigma-Aldrich, Milan, Italy).
+Decimal dilutions were spread-plated (0.1 mL) onto Wallerstein Laboratory (WL) nutrient agar (Oxoid, Basingstoke, UK) and incubated at
+28 °C for 48–72 h to determine total yeast (TY) counts. The sample
+dilutions were also spread-plated onto Dekkera/Brettanomyces differential medium (Rodrigues et al., 2001) and incubated at 25 °C for 14 d to
+detect presumptive Dekkera/Brettanomyces spp.
+The Dekkera/Brettanomyces population was also counted by ﬁltering
+(0.45-μm pore size ﬁlter, Sartorius, AubagneCedex, France) the samples
+using the same media and incubation conditions reported above. To
+count the lactic acid bacteria (LAB), the sample dilutions were pourplated onto Man, Rogosa, and Sharpe (MRS) agar (Oxoid) and incubated
+at 28 °C for 48–72 h, and onto medium for Leuconostoc oenos (MLO)
+agar (Caspritz and Radler, 1983) and incubated at 28 °C for 5 d. The
+latter medium was used for the enumeration of acidophilic LAB. The
+acetic acid bacteria (AAB) population was enumerated onto Kneifel
+agar medium (OIV, 2010) and incubated at 25 °C for 10 d. All analyses
+were carried out in duplicate.
+2.3. Yeast isolation and identiﬁcation
+Yeasts were isolated only from WL differential medium. At least ﬁve
+colonies per morphology were randomly collected from the agar plates,
+puriﬁed to homogeneity after several sub-culturing steps onto WL, and
+at least three isolates (from each sample) sharing the same morphology
+were subjected to genetic characterisation.
+DNA extraction was performed using the InstaGene Matrix kit
+(Bio-Rad Laboratories, Hercules, CA) according to the manufacturer's
+instructions. In order to perform a ﬁrst differentiation of yeasts, all
+selected isolates were subjected to restriction fragment length
+9
+8
+7
+
+Log (CFU/ml)
+
+fermenting bulk or by transferring the entire liquid phase of the must
+from one vat to another one (délestage); carbonic maceration, which is
+carried out with whole grapes fermented in a CO2-rich environment;
+pre-fermentation maceration or “cold soaking”, in which grape skins
+and seeds are put in contact with the liquid must at low temperatures
+one or two days before fermentation begins and the must is moved a
+few times per day; and post-fermentation maceration of variable duration, i.e. a few days to 21 days (Ivanova et al., 2011; Gambuti et al., 2004).
+The prolonged contact between grape skins and seeds with the
+must allows a higher extraction of polyphenolic compounds, especially
+catechins and proanthocyanidins (or condensed tannins) that are more
+concentrated in the pulp of grape berries (Ivanova et al., 2011). Longer
+macerations also provide stability of the colour compounds (GómezPlaza et al., 2002). Among these, polyphenols are gaining interest due
+to their positive effects (antioxidant, anticancer, cardioprotective, antimicrobial, antiviral, and neuroprotective) on the consumers' health
+(En-Qin et al., 2010).
+The main objective of the present work was the evaluation of the
+inﬂuence of long post-fermentation maceration on the evolution of
+yeast and lactic acid bacteria (LAB) populations, release of polyphenol
+compounds from skins and seeds, volatile organic compounds (VOCs),
+and antioxidant activity of red wine. The ‘Aglianico di Taurasi’ cultivar
+was used as model system.
+
+85
+
+6
+5
+WL
+
+4
+
+MRS
+
+3
+
+MLO
+
+2
+1
+0
+03 8
+M AF
+
+13
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+PFM
+
+Time (days)
+Fig. 1. Microbial loads of wine samples collected during experimental viniﬁcation of
+“Aglianico di Taurasi” wine. Symbols: ●, TY on WL; ■, LAB on MRS; ▲, LAB on MLO.
+Data represent the mean of four replicates of two independent experiments. Bars represent standard deviation of the mean. Vertical bars not visible are smaller than symbol
+size. Abbreviations: AF, alcoholic fermentation; PFM, post-fermentation maceration.
+
+86
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+Table 1
+Molecular identiﬁcation of yeasts.
+R.P.
+
+Isolate code
+
+5.8S
+
+Size of restriction fragments
+
+ITS
+
+CfoI
+
+26S
+HaeIII
+
+HinfI
+
+480
+420
+750
+750
+280
+400
+320
+
+280
+325
+350
+350
+210
+320
+365
+
+PCR
+
+PCR
+I
+II
+III
+IV
+V
+VI
+VII
+
+TLMBRL119A
+TLM43
+TLMBRL38
+TLMBRL26A
+TLMBRL15
+TLMBRL169
+TLM1
+
+620
+650
+750
+750
+400
+620
+880
+
+180
+285
+320
+320
+220
+300
+385
+
++
++
++
++
++
++
++
+
+110
+300
+310
+310
+90
+260
+365
+
+VIII
+
+TLM135
+
+790
+
+300 + 275 + 110 + 90
+
++ 50
++ 105
++ 105
++ 60
+
++ 160
++ 150 + 90
+
++ 100
++ 120 + 85
++ 230 + 180 + 150
+
+690 + 100
+
++
++
++
++
++
++
++
+
+160 + 130
+325
+180 + 160 + 60
+200 + 180
+190
+300
+155
+
+390 + 225 + 150
+
+1100
+1100
+1100
+1100
+1100
+1100
+1100
+
+1100
+
+All values for the 5.8S-ITS PCR, 26S PCR and restriction fragments are given in bp.
+Abbreviations: R.P., restriction proﬁle; n.c., not cut.
+a
+Restriction enzymes MseI and ApaI did not produce any cut fragment.
+b
+According to BlastN search of D1/D2 26S rRNA gene sequences in NCBI database.
+c
+The 5.8S-ITS gene was also digested with DdeI endonuclease conﬁrming the restriction proﬁle reported by Esteve-Zarzoso et al. (1999).
+
+polymorphism (RFLP) analysis of the region spanning the internal
+transcribed spacers (ITS1 and ITS2) and the 5.8S rRNA gene as reported by Esteve-Zarzoso et al. (1999).
+Five isolates representative of each group were subjected to additional enzymatic restriction targeting the 26 rRNA gene, as reported
+by Settanni et al. (2012). One isolate per group was further processed
+by sequencing the D1/D2 region of the 26S rRNA gene to conﬁrm the
+preliminary identiﬁcation obtained by restriction fragment length polymorphism analysis. The D1/D2 region was ampliﬁed with the primers
+NL1 and NL4 (O'Donnell, 1993). Polymerase chain reaction (PCR) products were visualised as described by Settanni et al. (2012). DNA sequencing reactions were performed at Primm Biotech S.r.l. (Milan,
+Italy). The identities of the sequences were determined by BlastN search
+against the NCBI non-redundant sequence database located at http://
+www.ncbi.nlm.nih.gov.
+2.4. Strain typing of S. cerevisiae isolates
+Intraspeciﬁc characterisation of isolates belonging to S. cerevisiae
+species was carried out by employing two techniques: interdelta analysis with the primers delta12 and delta21 (Legras and Karst, 2003) and
+microsatellite multiplex PCR based on the analysis of polymorphic microsatellite loci, i.e., SC8132X, YOR267C and SCPTSY7 (Vaudano and
+Garcia-Moruno, 2008). The PCR products were analysed on 2% agarose
+gels (w/v) in 1 × Tris/borate/EDTA buffer and visualised as reported
+by Settanni et al. (2012).
+2.5. Chemical analyses
+2.5.1. Conventional parameters
+The pH, alcoholic content, total titratable acidity, volatile acidity and
+total and free sulphur dioxide (SO2) were determined in accordance
+with the ofﬁcial methods described in the Commission Regulation
+2776/90 (1990).
+The amount of reducing sugars was determined following the procedures described by Lane and Eynon (1923). The total phenol content
+was determined according to the Folin-Ciocalteu procedure (Narr Ben
+et al., 1996). Free anthocyanins were measured by the pH-dependent
+change in the colour, as proposed by Ribéreau-Gayon and Stonestreet
+(1965).
+The analysis of glycerol was carried out as follows: 1 mL of wine was
+concentrated in a rotary evaporator at 80 ± 1 °C and the dried residue
+was dissolved in 2 mL of ethanol. The obtained solution was ﬁltered and
+1 μL was subjected to gas-chromatograph (GC) analysis on the GC1000
+(Dani Instrument, Cologno Monzese, MI, Italy) equipped with a
+
+programmed temperature vaporizer, ﬂame ionisation detector and capillary column (30 m, 250 mm i.d., 0.20 μm ﬁlm thickness) (Rt2330,
+Restek Corporation, Bellefonte, PA, USA). Glycerol was identiﬁed by
+comparing the retention time with that of pure glycerol (Sigma Aldrich,
+St. Louis, MO) and quantiﬁcation was performed using the external
+standard method, i.e., calibration curve was constructed with different
+concentrations (1, 2, 5 and 10 mg/L).
+2.5.2. Organic acids
+Organic acids were analysed as suggested by Palma and Barroso
+(2002), with some modiﬁcations. Samples were sonicated (Bandelin,
+Sonorex, Berlin, German) for 10 min at 40 ± 1 °C and 1-mL aliquots
+were diluted (1:10) with milliQ H2O, centrifuged at 10,000 rpm for
+10 min and ﬁltered (Millipore 0.45 ﬁlters). Chromatographic analysis
+of the samples was carried out as reported by Pereira et al. (2010).
+2.5.3. Phenolic and antioxidant activity
+Brieﬂy, 10 mL of wine, acidiﬁed with ultrapure HCl to pH 2.0, was
+extracted three times with 20 mL of ethyl ether. The organic phase
+was concentrated on a rotary evaporator at 30 ± 1 °C and the residue
+was dissolved in 10 mL of a water/methanol mixture (1:1). The analysis
+was carried out by high-performance liquid chromatography with
+diode-array detection, as described by Sakakibara et al. (2003).
+Quantiﬁcation was performed using the external standard method by constructing calibration curves. For this, (+)-catechin, (−)epicatechin, vanillic acid, gallic acid, caffeic acid, p-coumaric acid,
+syringic acid, chlorogenic acid, sinapic acid, ellagic acid, resveratrol
+and malvidin chloride were purchased from Sigma-Aldrich.
+The analysis of the antioxidant activity was carried out according to
+the technique reported by Brand-Williams et al. (1995). The antioxidant
+activity was expressed as mM trolox-equivalents, a vitamin E analogue.
+2.5.4. VOCs
+Brieﬂy, 10 mL of wine, spiked with 37.5 μg of 1-decanol as internal
+standard (I.S.), was mixed with 1 mL of a 26% NaCl solution and subsequently extracted with 1 mL of dichloromethane. Samples were stirred
+for 5 min and then centrifuged at 5 °C for 5 min at 5000 rpm. The VOC
+analyses were carried out on an Agilent GC 6890 gas chromatograph
+coupled to an Agilent 5973 mass-selective detector. The GC–mass
+spectrometry (MS) conditions suggested by Boch-Fusté et al. (2007)
+were employed. VOC identiﬁcation was achieved by comparing the
+mass spectra and GC retention times with those of the pure standard
+compounds that were available and the data system library of the
+GC–MS equipment (NIST 02 and WILEY 275) with a similar index
+(i.e., N90%). The concentrations of the compounds were estimated
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+87
+
+Table 1
+Molecular identiﬁcation of yeasts.
+Size of restriction fragmentsa
+
+Species (% identity)b
+
+Acc. no.
+
+HinfI
+
+Distribution (no. of isolates)
+Must
+
+n.c.
+445 + 390 + 180 + 50
+n.c.
+n.c.
+n.c.
+n.c.
+500 + 220 + 180
+
+Aureobasidium pullulans (99)
+Debaryomyces carsonii (99)
+Hanseniaspora guilliermondiic (99)
+Hanseniaspora uvarumc (99)
+Metschnikowia pulcherrima (99)
+Pichia guilliermondii (99)
+Saccharomyces cerevisiae (99)
+
+KF263940
+JX456534
+KF263937
+KF263939
+KF263936
+KF263938
+JX456533
+
+445 + 225 + 190 + 125 + 60 + 50
+
+Zygosaccharomyces bisporus (99)
+
+JX456535
+
+by comparing their peak areas with those of the respective I.S. with
+known concentration.
+2.6. Sensory evaluation
+The sensory proﬁles of the experimental wines characterised by
+different times of maceration were evaluated using a descriptive method (UNI 10957, 2003). Ten judges were trained in a few preliminary
+sessions, using different samples of commercial wines obtained from
+the Aglianico cultivar by a post-fermentation maceration of about 12
+15 d, in order to develop a common vocabulary for the description of
+the sensory attributes of wine samples and to familiarise them with
+scales and procedures. The standards used to deﬁne descriptors were
+chosen according to Noble et al. (1987).
+On the basis of the frequency of citation (N 60%), 16 descriptors were
+included in the analysis: colour intensity, odour intensity, odour
+complexity, off-odours, fresh fruits, dried fruits, ﬂowers, aromatic
+herbs, spices (odour), sweet, hot (tactile in mouth), acid, astringent,
+bitter, taste complexity, and off-ﬂavour (taste). The wine samples
+were randomly evaluated by assigning a score between 1.00 (absence
+of sensation) and 9.00 (extremely intense) in individual booths under
+incandescent white light.
+
+Alcoholic
+fermentation
+
+Post-fermentation
+maceration
+
+(28)
+60 d (41)
+
+(37)
+(29)
+
+3 d (31), 8 d (24)
+3 d (22), 8 d (27)
+3 d (25)
+3 d (38)
+3 d (35), 8 d (32)
+
+13 d (41), 20 d (80),
+40d (97), 50 d (77),
+60 d (44), 70 d (27),
+90 d (23)
+60 d (37)
+
+fermentation (day 3) and decreased to 7 Log CFU/mL at the end of the
+tumultuous phase of alcoholic fermentation (day 8). During postfermentation maceration, the TY concentration remained almost constant at approximately 7 Log CFU/mL until day 40. Subsequently, it
+decreased, reaching levels between 4.79 Log CFU/mL (day 50) and
+6.18 Log CFU/mL (day 90).
+The LAB populations reached a detectable value at the end of the
+tumultuous phase of alcoholic fermentation. Their concentration
+decreased by day 20 of post-fermentation maceration, both on MRS
+agar and MLO, and was estimated at about 5 Log CFU/mL at the end of
+the experimental process. Furthermore, no consistent difference was
+found between total and acidophilic (presumptive Oenococci) LAB
+during the entire period of observation. Dekkera/Brettanomyces spp. as
+well as AAB were not detected, even after ﬁltration of the samples.
+3.2. Isolation, identiﬁcation and distribution of yeasts
+
+3. Results
+
+A total of 795 colonies were isolated from WL, puriﬁed to homogeneity, and separated based on the appearance of colony morphology.
+All colonies were subjected to molecular identiﬁcation. After restriction
+analysis of the 5.8S-ITS region and 26S rRNA gene, the isolates were
+clustered into eight groups (Table 1). Hanseniaspora guilliermondii
+(group III), Hanseniaspora uvarum (group IV), Metschnikowia
+pulcherrima (group V), S. cerevisiae (group VII) and Zygosaccharomyces
+bisporus (group VIII) were directly identiﬁed by comparison of the
+restriction bands with those available in the literature (Settanni et al.,
+2012; Esteve-Zarzoso et al., 1999). The identiﬁcation of groups I, II and
+IV was concluded by sequencing of the D1/D2 domain of the 26S rRNA
+gene, which allocated these isolates into the Aureobasidium
+pullulans, D. carsonii and Pichia guilliermondii species, respectively.
+The species A. pullulans was detected only in the must; on the other
+hand, M. pulcherrima and P. guilliermondii were found both in the
+must and in samples collected on day 3 of alcoholic fermentation.
+H. guilliermondii and H. uvarum as well as S. cerevisiae were the dominant species during the tumultuous phase of alcoholic fermentation.
+During the entire process of post-fermentation maceration, S.
+cerevisiae was the species found at the highest concentrations,
+whereas D. carsonii and Z. bisporus were detected only on day 60, at
+concentrations of 5.31 and 5.79 Log CFU/mL, respectively.
+
+3.1. Microbiological analysis
+
+3.3. Typing and distribution of S. cerevisiae strains
+
+The viable counts of the microbial groups investigated in this study
+are reported in Fig. 1. The level in grape must was 5.75 Log CFU/mL.
+The highest TY concentration was reached at beginning of alcoholic
+
+The 456 isolates belonging to the species S. cerevisiae were further
+genetically characterised. The interdelta analysis was able to separate
+the isolates into nine groups, whereas microsatellite multiplex PCR
+
+2.7. Statistical analysis
+All determinations and experiments were performed in triplicate,
+and the results presented are the average value of three determinations.
+Using data from chemical analyses, one way analysis of variance
+(ANOVA) was performed to compare the long-macerated wines. Statistical signiﬁcance was attributed to P values of b0.05. The post-hoc Tukey
+test was applied for pairwise comparison. In addition, a principal
+component analysis (PCA) was carried out. Statistical analysis was performed using XLSTAT 2006, version 2006.6 (Addinsoft, Paris, France).
+The resulting scores from the sensory analysis were averaged and compared. The ANOVA test (STATISTICA software, StatSoft Inc., Tulsa, OK,
+USA) was applied to identify signiﬁcant differences among the wine
+attributes.
+
+88
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+recognised seven different groups (data not shown), showing a lower
+discriminatory power than the former technique.
+The distribution of the different strains of S. cerevisiae during the
+experimental viniﬁcation is reported in Fig. 2. No S. cerevisiae strains
+were detected in the must; on the other hand, during the tumultuous
+phase of alcoholic fermentation, only the deltaA proﬁle was detected.
+This pattern and the deltaC and deltaD proﬁles were mainly isolated
+during the ﬁrst days of maceration (13–20 d), in the intermediate
+phase (40–60 d), and at the end of the process (90 d), respectively.
+The deltaA proﬁle corresponding to S. cerevisiae NF66 (inoculated starter) was detected from day 3 of fermentation until the end of maceration.
+In terms of diversity of S. cerevisiae, the highest numbers of different
+strains at high concentrations were found between days 40 and 50 of
+maceration.
+3.4. Chemical analyses
+The conventional parameters and organic acid contents of the wine
+samples during viniﬁcation are reported in Table 2.
+Most of the reducing sugars were converted to ethanol due to
+the metabolic activities of yeast during the tumultuous phase of alcoholic fermentation; they were not detectable on day 70 of postfermentation maceration. The alcohol content was 12.51% (v/v) at
+the end of the tumultuous phase of fermentation and was 13.67%
+(v/v) at the end of the maceration process.
+Furthermore, pH and volatile acidity contents increased during the
+monitored viniﬁcations, whereas an opposite behaviour was observed
+for total titratable acidity. The total phenol content varied with the
+time of contact of grape skins and seeds with the wine. During fermentation, it increased to 1167.42 mg/L (gallic acid) at the end of fermentation, but from days 13 to 40 of post-fermentation maceration, its
+concentration increased by about 38% and remained almost constant
+until the end of the process.
+The highest concentration of total anthocyanins (241.48 mg/L) was
+noted on day 50 of post-fermentation maceration, but the value estimated at the end of the process was almost 100 mg/L lower; however,
+total and free SO2 showed constant values during viniﬁcation.
+The amount of glycerol increased consistently during the tumultuous phase of alcoholic fermentation (Table 2). Its concentration increased by less than 2.3 g/L during the post-maceration period,
+reaching 13.38 g/L at the end of the process.
+
+The concentration of tartaric acid decreased to approximately 2 g/L
+in the intermediate phase of post-fermentation maceration. Malic acid
+showed a decreasing trend during the entire experimental period. The
+lactic acid content increased to 2.65 g/L at the end of the tumultuous
+phase of alcoholic fermentation; thereafter, its concentration did not
+vary greatly (P N 0.05) between the beginning and the end of postfermentation maceration. However, the lowest values were observed
+between days 40 and 50 of maceration.
+The phenolic compounds identiﬁed and quantiﬁed during experimental viniﬁcation are reported in Table 3. The main compounds belonging to this family were benzoic and cinnamic acids
+and ﬂavan-3-ols, which, together, represented more than 90% of
+the phenolic fraction of the must and wine at any time of collection. In general, the phenolic concentration increased with increasing maceration time, reaching a maximum value (854.9 mg/L) on day
+90 of post-fermentation maceration. However, the rate of increase
+was higher during the ﬁrst 40 d of maceration: a decrease in the rate
+was noted between day 40 (806.60 mg/L) and day 50 (653.40 mg/L),
+after which it increased again. In particular, the concentration of
+hydroxybenzoic and hydroxycinnamic acids and phenols reached a
+maximum on day 40 showing values of 283.40, 255.00 and 8.00 mg/L,
+respectively.
+Among the benzoic acids, gallic acid was the most prevalent
+acid starting from day 40 of maceration. However, the highest concentration was measured for syringic acid on days 13 and 20 and
+its concentration (range: 35.82–49.04 mg/L) did not vary greatly
+throughout the experiment. Except on day 50, caffeoylquinic acid
+was the cinnamic acid with the highest concentration (N150 mg/L).
+The main ﬂavan-3-ol identiﬁed was (+)-catechin, whose concentration showed an irregular trend during the winemaking process. The
+same behaviour was observed for (−)-epicatechin. In particular, at
+day 8 of alcoholic fermentation, the ratio between (+)-catechin
+and (−)-epicatechin was 3.57; it decreased to 2.82 on day 20 of
+post-fermentation maceration and, thereafter, it reached the highest
+value (3.58) on day 40 and the lowest value (2.0) on day 90 of
+maceration.
+Among the phenolic compounds present at concentrations lower
+than those of benzoic acids, cinnamic acids and catechins, stilbenes
+were represented by α-viniferin (a trimer of resveratrol) and transresveratrol. In addition, it is worth noting that among the ﬂavonols,
+rutin and quercetin were detected.
+
+100
+
+deltaI
+
+90
+
+deltaH
+
+Strain distribution (%)
+
+80
+
+deltaG
+
+70
+60
+
+deltaF
+
+50
+
+deltaE
+
+40
+
+deltaD
+
+30
+
+deltaC
+20
+
+deltaB
+
+10
+
+deltaA
+
+0
+3
+
+8
+
+AF
+
+13
+
+20
+
+40
+
+50
+
+60
+
+70
+
+90
+
+PFM
+
+Time (days)
+Fig. 2. Distribution of S. cerevisiae strains during experimental viniﬁcation of “Aglianico di Taurasi” wine. Abbreviations: AF, alcoholic fermentation; PFM, post-fermentation maceration.
+The nine strains are coded as deltaA, deltaB, deltaC, deltaD, deltaE, deltaF, deltaG, deltaH and deltaI.
+
+89
+
+The VOC family (Table 4) is composed of alcohols, esters, carbonyl
+compounds, acids, lactones, phenols, hydrocarbons and other compounds. Alcohols were not detected in the must but found at concentrations of approximately 1.4 g/L on day 8 of alcoholic fermentation and
+about 1.7 g/L on day 90 of post-fermentation maceration. The main
+compounds within this class were 1-butanol, 3-methyl and phenylethyl
+alcohol, which constituted more than 98% of total alcohols. The ester
+concentration was 18.20 mg/L on day 8 of fermentation and reached
+the highest value (52.57 mg/L) on day 90 of maceration. Among the
+most frequently identiﬁed esters, the contents of 1-butanol, 3-methyl,acetate and hexanoic acid, ethyl ester decreased during maceration,
+whereas an opposite behaviour was observed for butanedioic acid,
+diethyl ester and propanoic acid, 2-hydroxy-,ethyl ester. The main compounds among aldehydes and ketones were nonanal and 5-phenyl-2pentanone, respectively; the concentrations of both compounds decreased during the experimental period. Methyl 4-hydroxybutanoate
+was the major acid found. Its concentration increased to a maximum
+level (44.68 mg/L) on day 40 of maceration and remained almost constant until day 90. No signiﬁcant difference was observed with regard
+to the concentration of γ-butyrolactone between day 13 and day 90
+(8.28 and 8.10 mg/L, respectively). The phenol class was mostly represented by 1H-indole-3-ethanol.
+The antioxidant activity (data not shown) in the must was 2.56 mM
+trolox equiv. and increased to 7.98 mM trolox equiv. on day 8 of fermentation. The highest antioxidant activity (around 9.48 mM trolox
+equiv.) of wine was observed between day 40 and day 60 of maceration.
+These values were signiﬁcantly different from that measured on day 13.
+3.5. PCA of VOCs
+
+a–j: Different letters indicate signiﬁcant differences between maceration time for the same sample for P ≤ 0.05.
+
+n.d.j
+49.08a ± 0.24
+44.05b ± 0.31
+43.02c ± 0.62
+41.02e ± 0.40
+38.55i ± 0.33
+40.30g ± 0.19
+42.12d ± 0.27
+39.06h ± 0.18
+40.78f ± 0.50
+n.d.j
+4.24i ± 0.50
+9.13h ± 0.33
+11.15g ± 0.72
+12.89b ± 0.47
+12.11f ± 0.55
+12.35c ± 0.52
+12.30d ± 0.32
+12.17e ± 0.27
+13.38a ± 0.78
+9.76
+16.73
+11.16
+13.76
+16.98
+14.78
+12.18
+15.97
+11.08
+10.57
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+150.44h
+191.07d
+201.67b
+189.25e
+195.83c
+183.32g
+241.48a
+188.81f
+145.67j
+149.60i
+8.86a
+8.66b
+8.17d
+8.39c
+8.15d
+6.95h
+7.00g
+7.19f
+6.94h
+7.31e
+236.14a ± 2.11
+152.87b ± 3.12
+10.60c ± 2.07
+5.98d ± 1.47
+2.96e ± 2.21
+2.15g ± 2.13
+2.07h ± 1.65
+1.98i ± 0.97
+n.d.f
+n.d.f
+Must
+AF-day 3
+AF-day 8
+PFM-day 13
+PFM-day 20
+PFM-day 40
+PFM-day 50
+PFM-day 60
+PFM-day 70
+PFM-day 90
+
+3.25g ± 0.03
+3.37e ± 0.05
+3.30f ± 0.07
+3.29f ± 0.01
+3.45d ± 0.00
+3.60b ±0.10
+3.56c ±0.00
+3.57c ± 0.00
+3.57a ± 0.01
+3.63a ± 0.03
+
+n.d.h
+3.84g ± 0.05
+12.51 f ± 0.04
+12.79f ± 0.04
+12.97e.f ± 0.11
+13.25e ± 0.07
+13.41d ± 0.35
+13.59c ± 0.21
+13.62b ± 0.17
+13.67b ± 0.28
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.15
+0.21
+0.09
+0.35
+0.37
+0.05
+0.18
+0.18
+0.23
+0.20
+
+0.17f
+0.49a
+0.37d
+0.30e
+0.39c,d
+0.40c
+0.40c
+0.43b
+0.47a
+0.41b,c
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.04
+0.02
+0.07
+0.02
+0.00
+0.02
+0.02
+0.06
+0.04
+0.06
+
+349.22j
+987.84i
+1167.42h
+1326.78g
+1592.86f
+1825.91e
+1838.02c
+1861.62b
+1915.01a
+1837.47d
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+24,21
+37,62
+38,93
+53.46
+31.69
+21.60
+47.83
+25.97
+28.08
+32.78
+
+TA
+TP
+VA
+TTA
+Alcohol (% v/v)
+Reducing sugars (g/L)
+pH
+
+Conventional parameters
+
+Table 2
+Chemical parameters during extended maceration of “Aglianico di Taurasi” wine.
+
+AF, alcoholic fermentation; PFM, post-fermentation maceration; TTA, total titratable acidity (tartaric acid g/L); VA, volatile acidity (acetic acid g/L); TP, total phenols (gallic acid mg/L); TA, total anthocyanins (malvidin chloride mg/L); glycerol (g/L);
+total SO2 and free SO2 (mg/L); n.d., not determined (values b detection limit).
+
+n.d.
+0.18h ± 0.10
+2.65g ± 0.11
+2.91e ± 0.21
+2.87b ± 0.30
+2.79c ± 0.29
+2.56d ± 0.11
+2.58f ± 0.09
+2.56f ± 0.11
+3.04a ± 0.12
+0.27
+0.11
+0.10
+0.23
+0.17
+0.11
+0.09
+0.10
+0.21
+0.18
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+2.89d
+3.11b,c
+3.09c
+3.12b
+2.75e
+2.21a
+2.06f
+2.02g
+2.05f
+1.59h
+
+Malic acid
+Acetic acid
+
+n.d.g
+0.33d,e ± 0.09
+0.31e ± 0.07
+0.27f ± 0.03
+0.33d,e ± 0.11
+0.35c,d ± 0.04
+0.31e ± 0.10
+0.38b ± 0.12
+0.41a ± 0.11
+0.37b ± 0.09
+0.07
+0.07
+0.07
+0.07
+0.47
+0.55
+0.52
+0.32
+0.27
+0.78
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+2.78d
+3.22a
+3.13b
+3.01c
+2.72e
+2.03h
+2.02h,i
+2.00g
+2.11i
+2.25f
+
+Organic acids (g/L)
+
+Tartaric acid
+Free SO2
+Total SO2
+Glycerol
+
+n.d.j
+26.08a ± 0.32
+25.05b ± 0.11
+24.63c ± 0.21
+21.47e ± 0.19
+20.87g ± 0.44
+22.63d ±0.12
+21.11f ± 0.26
+20.02i ± 0.61
+20.09h ± 0.59
+
+Lactic acid
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+The F1 and F2 components, selected from the PCA analysis, explain
+72.09 and 17.15% of total variance, respectively, as illustrated in Fig. 3.
+The main descriptors contributing to the F1 component were: alcohols, lactones, fatty acids, phenols and hydrocarbons of which the loading value were 0.869, 0.823, 0.720, 0.708 and 0.706, respectively. On the
+other hand, the F2 component was mainly characterised by other compounds, esters, hydrocarbons and fatty acids; their respective loading
+values were 0.580, 0.281, 0.166 and 0.148.
+Except for the must and the samples taken after day 8 (AF-Day8) and
+day 20 (PFM-Day20) of post-fermentation maceration, the wines were
+located in the quadrant showing positive values of the F1 component.
+In particular, the samples macerated for 50 days (PFM-Day50) and
+70 days (PFM-Day70) were located in the same area showing similar
+values of F1 components. On the other hand, among the macerated
+wines, the samples taken after 20 days (PFM-Day20) and 90 days
+(PFM-Day90) of maceration were furthest separated according to
+their different values in terms of F1 components.
+3.6. Sensory analysis
+The wines obtained by using different periods of post-fermentation
+maceration were evaluated by sensory analysis and the results are
+reported in Table 5. Samples subjected to 40, 50 and 90 d of maceration
+differed signiﬁcantly (P b 0.05) from the other samples with regard to
+the majority of odour and taste descriptors. In particular, the highest
+values of odour intensity as well as odour and taste complexity were
+displayed by the 40, 50 and 90 day samples. The wines on days 40
+and 90 showed also the lowest values of acid, astringent and bitter
+descriptors (taste). No off-odours and off-ﬂavours were detected in all
+samples analysed.
+4. Discussion
+The aim of the present study was to evaluate the inﬂuence of postfermentation maceration, extended to 90 days, on the microbial and
+chemical composition of red wine. Microbiological results evidenced
+
+90
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+Table 3
+Concentration (mg/L) of phenols during experimental viniﬁcation of “Aglianico di Taurasi” wine.
+Must
+
+Σ hydroxybenzoic acids
+Gallic acid
+Protocatechuic acid
+p-Coumaroylquinic acid
+Vanillic acid
+Syringic acid
+Acylated syringic acid
+Σ hydroxycinnamic acids
+Caffeoylquinic acid
+Hydroxycinnamic acid
+Caffeic acid
+p-Coumaric acid
+Σ ﬂavones
+Luteolin 7-O-glucoside
+Σ ﬂavonols
+Rutin
+Quercetin
+Σ ﬂavanones
+Narigenin
+Σ ﬂavan-3-ols
+(−)-Gallocatechin
+(−)-Epigallocatechin
+(+)-Catechin
+(−)-Epicatechin
+Epicatechin gallate
+Catechin gallate
+Σ phenols
+Pyrogallol
+Σ stilbenes
+α-Viniferin
+trans-Resveratrol
+Σ lignans
+Unknown
+Flavolignan
+Total
+
+i
+
+12.93
+3.22i ± 0.56
+n.d.i
+9.71i ± 1.34
+n.d.i
+n.d.j
+n.d.h
+80.39i
+80.39i ± 2.78
+n.d.g
+n.d.i
+n.d.h
+n.d.i
+n.d.i
+n.d.g
+n.d.f
+n.d.b
+n.d.g
+n.d.h
+16.55i
+n.d.f
+10.01i ± 0.49
+6.54i ± 1.67
+n.d.i
+n.d.h
+n.d.i
+n.d.i
+n.d.i
+n.d.i
+n.d.i
+n.d.i
+n.d.h
+n.d.h
+n.d.h
+109.87i
+
+Alcoholic fermentation
+
+Post-fermentation maceration
+
+Day-8
+
+Day-13
+
+Day-20
+
+Day-50
+
+Day-70
+
+i
+
+g
+
+g
+
+e
+
+c
+
+78.27
+7.59h ± 1.06
+4.33h ± 0.14
+30.77h ± 1.67
+4.25h ± 0.77
+31.33h ± 1.07
+n.d.h
+130.01h
+120.7h ± 3,45
+n.d.g
+7.11g ± 0.18
+2.29g ± 0.22
+4.55e
+4.55e ± 0.15
+2.01f
+2.01e ± 0.23
+n.d.b
+3.48g
+3.48g ± 0.45
+106.31h
+n.d.f
+52.83e ± 1.34
+37.49h ± 2.07
+10.21h ± 0.88
+n.d.h
+5.78h ± 0.32
+2.44h
+2.44h ± 0.19
+2.21h
+1.27h ± 0.11
+0.94h ± 0.23
+5.87g
+3.67e ± 0.12
+2.21g ± 0.10
+329.75h
+
+144.55
+26.25g ± 0.93
+5.90g ± 0.21
+55.06e ± 1.95
+9.21e ± 0.33
+42.08d ± 1.49
+6.05g ± 0.21
+179.09e
+157.91a ± 5.58
+10.45c ± 0.37
+6.18h ± 0.22
+4.55f ± 0.16
+8.09b
+8.09b ± 0.27
+4.94d
+4.94c ± 0.17
+n.d.b
+5.27d
+5.27d ± 0.19
+148.44g
+2.42a ± 0.09
+53.89d ± 1.90
+58.14g ± 2.06
+20.57g ± 0.73
+2.92g ± 0.10
+10.50e ± 0.37
+5.78e
+5.78e ± 0.20
+6.15g
+3.47g ± 0.12
+2.68g ± 0.09
+8.94c
+4.73c ± 0.17
+4.21d ± 0.15
+505.50g
+
+172.50
+34.92g ± 0.99
+7.10d ± 0.20
+63.13b ± 1.79
+10.68a ± 0.30
+49.04a ± 1.39
+7.58f ± 0.21
+202.60c
+176.5b ± 4.99
+12.00a ± 0.34
+6.25g ± 0.18
+7.87e ± 0.22
+8.53a
+8.53a ± 0.24
+n.d.g
+n.d.f
+n.d.b
+6.86a
+6.86a ± 0.19
+155.00f
+0.93c ± 0.03
+59.19a ± 1.67
+59.52f ± 1.68
+25.19f ± 0.71
+3.34f ± 0.09
+6.78g ± 0.19
+3.21g
+3.21g ± 0.09
+9.92e
+5.48c ± 0.15
+4.44f ± 0.13
+7.56f
+4.70c ± 0.13
+2.86f ± 0.08
+566.10f
+
+203.30
+79.77e ±2.82
+6.56g ±0.23
+50.11f ± 1.77
+8.71f ± 0.31
+37.10f ± 1.31
+21.04e ± 0.74
+175.30g
+146.40d ± 5.18
+8.23f ± 0.29
+7.97e ± 0.28
+12.69d ± 0.45
+3.16h
+3.16h ± 0.11
+2.81e
+2.81d ± 0.10
+n.d.b
+5.43c
+5.43c ± 0.19
+240.00c
+0.84d ± 0.03
+47.26h ± 1.67
+119.1c ±4.21
+54.16c ± 1.91
+4.42e ± 0.16
+14.17a ± 0.50
+5.72f
+5.72f ± 0.20
+9.42f
+4.05f ± 0.14
+5.37d ± 0.19
+8.32d
+3.47f ± 0.12
+4.85c ± 0.17
+653.40e
+
+266.40
+117.80c ± 3.17
+7.33c ± 0.20
+55.4da ± 1.49
+9.34d ± 0.25
+44.78c ± 1.20
+31.61b ± 0.85
+212.50b
+177.5b ± 4.77
+9.69e ± 0.26
+9.93c ± 0.27
+15.41b ± 0.41
+4.74d
+4.74d ± 0.13
+n.d.g
+n.d.f
+n.d.b
+6.18b
+6.18b ± 0.17
+190.10e
+0.73e ± 0.02
+51.08f ± 1.37
+93.95f ± 2.52
+29.87e ± 0.80
+4.78c ± 0.13
+9.71f ± 0.26
+6.61c
+6.61c ± 0.18
+11.55b
+5.31d ± 0.14
+6.24c ± 0.17
+12.14b
+6.25a ± 0.17
+5.89b ± 0.16
+710.20c
+
+Day-90
+282.30b
+126.80b ± 3.77
+7.49b ± 0.22
+57.06c ± 1.69
+9.91c ± 0.29
+41.06e ± 1.22
+40.01a ± 1.19
+213.60d
+168.90e ± 5.02
+9.76d ± 0.29
+13.1a ± 0.39
+21.84a ± 0.65
+3.92f
+3.92f ± 0.12
+6.93b
+4.91c ± 0.15
+2.02a ± 0.06
+4.23f
+4.23f ± 0.13
+310.50a
+1.08b ± 0.03
+54.18c ± 1.61
+156.90a ± 4.66
+78.30a ± 2.32
+6.89b ± 0.20
+13.17c ± 0.39
+6.93b
+6.93b ±0.21
+15.78a
+6.30a ± 0.19
+9.48a ± 0.28
+10.62a
+3.94d ± 0.12
+6.68a ± 0.20
+854.90a
+
+n.d.: Not detected (value under detection limit of 0.5 mg/L).
+a–i: Different letters indicate signiﬁcant differences between maceration time for the same sample for P ≤ 0.05.
+
+substantial concentrations of both yeast and LAB populations during the
+entire period of post-fermentation maceration. Furthermore, the changes in their concentrations, during the experimental process suggested
+the presence of yeasts and LAB that were not only alive but also metabolically active. To our knowledge, no work has been carried out on
+the evaluation of the concentrations of yeasts and LAB as well as their
+analysis at the species and/or strain level during prolonged postfermentation maceration.
+In this work, during the entire maceration process, S. cerevisiae was
+the main species found; in particular, except on day 60 when it was
+detected at the same level as D. carsonii and Z. bisporus, it dominated
+the yeast population. D. carsonii, a yeast species that is not commonly
+associated with the wine environment, has been reported to possess
+high β-glucosidase activity (Hernàndez-Orte et al., 2008), contributing
+to the characteristic aroma of grapevine varieties (Zott et al., 2008). Z.
+bisporus is not reported to be a relevant spoilage yeast species for
+wines (Loureiro and Malfeito-Ferreira, 2003), although its presence
+has been associated with the production of off-ﬂavours in sherry wine
+(Neuser et al., 2000).
+However, very low species diversity was observed, which could be
+explained by the stressing conditions (high ethanol concentration, low
+pH and scarcity of nutrients) that characterise the process and result
+in a strong selection. On the other hand, these stressing conditions did
+not negatively affect the yeast diversity at the strain level of the S.
+cerevisiae community. In fact, excluding the starter, eight different indigenous strains were detected during maceration and found at high
+levels. Our results conﬁrmed previous observations that the cellar environment is a source of indigenous strains (Le Jeune et al., 2006; Guzzon
+
+et al., 2011) that, once adapted to winemaking process, could also be
+dominant under stressing conditions such as those that are characteristic of prolonged maceration.
+Furthermore, our work described for the ﬁrst time the effects of the
+activities of yeasts and LAB on wine composition during postfermentation maceration extended to 90 days. In particular, yeast activities were clearly observed, i.e., lactic acid was degraded and malic acid
+was converted to ethanol (Redzepovic et al., 2003) during the ﬁrst
+phase of maceration (from days 13 to 50). In addition, glycerol production could be associated with the microbial metabolism due to glyceropyruvic fermentation observed during the increase in yeast at the end of
+the maceration process (from days 70 to 90). As observed by several authors (Gardner et al., 1993; Hernandez-Cortes et al., 2010), glycerol
+could be produced by yeasts even if their concentration in wine is low,
+at different phases of the winemaking process and under stressing
+conditions.
+During maceration, although at low concentrations, the inﬂuence of
+LAB on the chemical composition of the wines was clearly shown. The
+LAB activities started with the production of lactic acid by homolactic
+fermentation on day 13 of maceration and were terminated with the
+degradation of malic acid by malolactic fermentation between days 70
+and 90. Furthermore, in this context, several studies (Alexandrea et al.,
+2004; Capucho and San Romao, 1994; Schutz and Radler, 1974) showed
+the capability of LAB to carry out fermentation even at very low concentrations as well as under stressing conditions and during different
+phases of the winemaking process.
+The production of glycerol and lactic acid is a desired phenomenon
+with regard to sensory characteristics of red wines because they
+
+Table 4
+Concentration of volatile organic compounds (mg/L) during experimental viniﬁcation of “Aglianico di Taurasi” wine.
+Compounds
+
+Burnt, alcohol
+Burnt, alcohol
+Ripe fruit, alcohol
+Fruity
+Humid
+Herbaceous
+Fruity
+Vinous, herbaceous, cacao
+Bitter, solvent
+Flower, green, cut grass
+Humid
+Floral, roses
+Bitter, solvent
+Roses, ﬂowery
+Roses, ﬂowery
+Fruit, sweet, soap, anise
+
+Fruity, green, apple, anise
+
+Cut grass
+Sweet, fruity
+
+Cotton candy
+Cheese
+Parmesan cheese
+Fatty, unpleasant
+Grass, fruity
+Sweet, toast, caramel
+Spicy, coconut
+Smoky, leather
+Alcohol
+Alcohol
+
+Over ripe, peach, cut grass
+
+Must
+
+n.d.i
+n.d.i
+n.d.c
+n.d.b
+n.d.h
+n.d.h
+n.d.b
+n.d.h
+n.d.g
+n.d.e
+n.d.g
+n.d.c
+n.d.d
+n.d.i
+n.d.e
+7.34i
+n.d.i
+n.d.e
+2.07g ± 0.04
+n.d.f
+3.44i ± 0.02
+n.d.e
+1.38h ± 0.01
+n.d.f
+0.72i
+0.10f ± 0.01
+n.d.e
+0.62e ± 0.03
+n.d.f
+n.d.e
+n.d.i
+n.d.h
+n.d.c
+n.d.b
+n.d.g
+n.d.i
+n.d.i
+n.d.i
+n.d.e
+n.d.b
+n.d.i
+n.d.f
+n.d.i
+n.d.f
+n.d.e
+n.d.e
+8.06i
+
+Alcoholic fermentation
+
+Post-fermentation maceration
+
+Day-8
+
+Day-13
+
+Day-20
+
+Day-50
+
+Day-70
+
+Day-90
+
+1478.97h
+865.89f ± 1.23
+n.d.c
+n.d.b
+6.09g ± 0.06
+1.07e ± 0.04
+n.d.b
+0.54g ± 0.03
+1.11f ± 0.02
+n.d.e
+4.27a ± 0.00
+n.d.c
+n.d.d
+599.72h ± 4.22
+0.28d ± 0.02
+18.20g
+4.22g ± 0.01
+0.32d ± 0.00
+2.09g ± 0.02
+n.d.f
+7.45f ± 0.02
+n.d.e
+1.45i ± 0.03
+2.67a ± 0.00
+0.98h
+0.12e,f ± 0.03
+n.d.e
+0.34f ± 0.04
+0.34d ± 0.01
+0.18d ± 0.03
+20.52g
+20.19f ± 0.02
+n.d.c
+n.d.b
+0.33f ± 0.01
+4.44f
+4.44f ± 0.02
+5.57g
+n.d.e
+n.d.b
+5.57g ± 0.03
+1.32b
+1478.97h
+1.32b ± 0.35
+n.d.e
+n.d.e
+1530.00h
+
+1918.34
+930.90b,c ± 7.07
+0.78a ± 0.00
+n.d.b
+11.33b ± 0.01
+2.21b ± 0.02
+n.d.b
+0.78g ± 0.00
+1.17e ± 0.00
+n.d.e
+6.76a ± 0.00
+n.d.d
+0.11e ± 0.00
+963.64a ± 3.54
+0.68b ± 0.01
+25.44
+7.68a ± 0.01
+0.43d ± 0.00
+3.27f ± 0.01
+0.94b ± 0.01
+6.44f ± 0.01
+0.49a ± 0.01
+4.12a ± 0.01
+2.06b ± 0.01
+4.42
+0.70a ± 0.01
+n.d.e
+2.77a ±0.01
+0.48d ± 0.01
+0.47a ± 0.02
+28.09
+27.64e ± 0.01
+n.d.c
+n.d.b
+0.45f ± 0.01
+8.28
+8.28a ± 0.01
+12.36
+n.d.a
+1.50b ± 0.01
+n.d.b
+10.86a ± 0.01
+1.37
+1.37b ± 0.01
+n.d.
+n.d.e
+
+1563.42
+855.01e ± 0.71
+0.34b ± 0.01
+n.d.b
+8.91d ± 0.01
+1.38d ± 0.01
+1.60a ± 0.01
+0.90f ± 0.01
+1.07f ± 0.01
+0.73c ± 0.01
+4.68e ± 0.01
+n.d.d
+0.00f ± 0.00
+688.51f ± 2.12
+0.29e ± 0.01
+16.70
+4.45e ± 0.01
+n.d.e
+2.04g ± 0.01
+n.d.f
+6.06g ± 0.01
+0.22e ± 0.01
+2.54f ± 0.01
+1.38f ± 0.00
+2.33
+0.50b ± 0.01
+n.d.e
+1.21b ± 0.01
+0.45e ± 0.01
+0.17e ± 0.01
+13.92
+13.92f ± 0.01
+n.d.c
+n.d.b
+n.d.g
+4.10
+4.10f ± 0.01
+10.55
+n.d.a
+1.03c ± 0.01
+n.d.b
+9.52b ± 0.02
+1.37
+1.37b ± 0.01
+n.d.
+n.d.e
+
+1687.40
+933.04 ± 3.54
+n.d.c
+n.d.b
+24.68a ± 0.01
+5.24a ± 0.01
+n.d.b
+0.95e ± 0.01
+1.17e ± 0.01
+n.d.e
+4.32g ± 0.01
+n.d.d
+0.00f ± 0.00
+717.67e ± 0.04
+0.33d ± 0.01
+26.34
+4.75d ± 0.01
+0.46c ± 0.01
+5.43e ± 0.01
+0.97b ± 0.01
+9.57e ± 0.01
+0.00f ± 0.00
+3.77b ± 0.01
+1.39f ± 0.01
+1.84
+0.37c ± 0.01
+0.34c ± 0.01
+0.65f ± 0.01
+0.48d ± 0.01
+n.d.f
+43.95
+42.75b ± 0.01
+0.34b ± 0.01
+n.d.b
+0.87d ± 0.01
+7.63
+7.63c ± 0.01
+6.52
+n.d.a
+0.00e ± 0.00
+n.d.b
+6.52f ± 0.01
+1.18
+1.18e ± 0.01
+n.d.
+n.d.e
+
+1598.57
+856.27d,e ± 0.71
+n.d.c
+n.d.b
+7.40f ± 0.01
+0.96f ± 0.01
+n.d.b
+1.80b ± 0.01
+2.52c ± 0.01
+1.08a ± 0.01
+4.35f ± 0.01
+1.09a ± 0.01
+0.51b ± 0.01
+722.16e ± 1.41
+0.44c ± 0.01
+34.20
+4.28f ± 0.01
+0.54b ± 0.01
+12.40b ± 0.01
+0.53d ± 0.01
+11.92c ± 0.01
+0.37c ± 0.01
+2.74e ± 0.01
+1.42e ± 0.01
+2.74
+n.d.f
+0.35c ± 0.01
+0.67e,f ± 0.01
+1.45b ± 0.01
+0.27d ± 0.01
+38.06
+36.71d ± 0.01
+n.d.c
+n.d.b
+1.35c ± 0.01
+7.22
+7.22d ± 0.01
+8.31
+n.d.a
+n.d.e
+n.d.b
+8.31d ± 0.01
+1.05
+1.05f ± 0.01
+0.33
+0.33c ± 0.02
+
+1736.72
+867.92d ± 1.41
+n.d.c
+n.d.b
+9.05c ± 0.01
+1.54c ± 0.01
+n.d.b
+1.95a ± 0.01
+3.41a ± 0.01
+0.55d ± 0.01
+6.00b ± 0.01
+1.07b ± 0.01
+0.56a ± 0.01
+843.83c ± 1.41
+0.83a ± 0.01
+52.57
+3.76g ± 0.01
+0.47c ± 0.01
+29.35a ± 0.01
+0.41e ± 0.01
+14.61b ± 0.01
+0.42b ± 0.01
+1.96g ± 0.01
+1.61d ± 0.01
+3.84
+0.17e ± 0.01
+0.55a ± 0.01
+0.69d,e ± 0.01
+2.04a ± 0.01
+0.39c ± 0.01
+57.35
+42.75b ± 0.01
+3.41a ± 0.01
+8.98a ± 0.01
+2.21a ± 0.01
+8.10
+8.10b ± 0.01
+12.25
+n.d.a
+1.74a ± 0.01
+1.29a ± 0.01
+9.22c ± 0.01
+1.25
+1.25d ± 0.0 1
+1.72
+1.72a ± 0.01
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+Σ alcohols
+1-Butanol, 3-methyl1-Butanol, 2-ethyl1,2-Propanediol
+2,3-Butanediol
+2-Heptanol, 3-methyl3-Buten- 2-ol, 2-methyl1-Propanol, 3-ethoxy1-Pentanol, 3-methyl1-Butanol, 2,3-dimethyl1-Hexanol
+5-Nonanol
+2-Heptanol, 4-methylPhenylethyl Alcohol
+1,2-Butanediol, 1-phenylΣ esters
+1-Butanol, 3-methyl-, acetate
+1-Butanol, 2-methyl-, acetate
+Butanedioic acid, diethyl ester
+Octanoic acid, ethyl ester
+Propanoic acid, 2-hydroxy-, ethyl ester
+Butanoic acid, 3-hydroxy-, ethyl ester,
+Hexanoic acid, ethyl ester
+Butanoic acid, hexyl ester
+Σ carbonyl compounds
+Nonanal
+Benzaldehyde
+2-Pentanone, 5-phenylCyclobutanone, 2-methyl3(2H)-Furanone, dihydro-5-isopropylΣ fatty acid
+Methyl 4-hydroxybutanoate
+Butanoic acid, 2-methylOctanoic acid
+Hexanoic acid
+Σ lactones
+γ-Butyrolactone
+Σ phenols
+p- Ethylguaiacol
+Phenol, 2,6-dimethoxyBenzeneethanol, 4-hydroxy1H-indole-3-ethanol
+Σ hydrocarbons
+1,3-Cyclopentadiene, 5-(1-methylethylidene)Σ other compounds
+Diethyl dl-malate
+Total
+
+Descriptors
+
+n.d.: Not detected (value under detection limit of 0.5 mg/L); a–i: different letters indicate signiﬁcant differences between maceration time for the same wine for P ≤ 0.05.
+
+91
+
+92
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+Biplot (axes F1 and F2: 89.25 %)
+3
+PFM-Day90
+
+2
+Must
+
+F2 (17.15 %)
+
+1
+PFM-Day70
+
+0
+PFM-Day50
+AF-Day8
+
+-1
+
+PFM-Day20
+
+PFM-Day13
+
+0
+
+5
+
+-2
+
+-3
+-20
+
+-15
+
+-10
+
+-5
+
+10
+
+15
+
+20
+
+F1 (72.09 %)
+Fig. 3. Score plot for the components F1 and F2 of samples collected during experimental viniﬁcation of “Aglianico di Taurasi” wines. Abbreviations: AF, alcoholic fermentation;
+PFM, post-fermentation maceration. The samples analysed are as follows: AF-Day8, wine on day 8 of alcoholic fermentation; PFM-Day13, wine on day 13 of post-fermentation
+maceration; PFM-Day20, wine on day 20 of post-fermentation maceration; PFM-Day50, wine on day 50 of post-fermentation maceration; PFM-Day70, wine on day 70 of postfermentation maceration; PFM-Day90, wine on day 90 of post-fermentation maceration.
+
+positively contribute to fullness, sweetness and roundness sensations
+(Nurgel and Pickering, 2005). These data support the hypothesis that
+prolonged maceration could improve the quality of wine due to the
+activities of yeasts and LAB that are alive and in a metabolically active
+state during the process.
+The results of the phenol analysis conﬁrmed that long maceration
+improves the quality of the ﬁnal product. A considerable increase in
+the phenol compounds was found until the end of the process. In general, maceration favours the extraction of monomeric tannins such as
+(+)-catechin and (−)-epicatechin that could be responsible for the bitter and acid taste of wine. In fact, maximum concentrations of catechins
+were found at the end of maceration. This can be explained by the
+slower extraction kinetics, because they undergo several substitutions
+and have higher molecular weights (Ribereau-Gayon et al., 2003). On
+the other hand, it is worth noting that the highest ratio between (+)catechin and (−)-epicatechin was reached after 40 d. This is an interesting result because epicatechin is more astringent than its chiral
+isomer (Noble et al., 1999). Thus, extension of the maceration phase
+
+Table 5
+Sensory scores of “Aglianico di Taurasi” wines carried out by different times of postfermentation maceration.
+Descriptors
+
+Colour intensity
+Odour:
+Intensity
+Complexity
+Fresh fruits
+Dried fruits
+Flowers
+Aromatic herbs
+Spices
+Taste:
+Sweet
+Hot
+Acid
+Astringent
+Bitter
+Complexity
+
+Post-fermentation maceration
+Day-13
+
+Day-20
+
+Day-50
+
+Day-70
+
+Day-90
+
+5.70e
+
+5.65f
+
+7.89a
+
+7.32b
+
+7.07d
+
+6.80e
+5.41g
+5.12a
+2.01f
+3.51a
+1.21f
+1.18f
+
+6.71f
+5.45f
+4.88b
+1.84g
+3.16b
+1.09g
+1.11g
+
+7.31b
+6.86b
+4.03d
+2.57d
+2.98d
+2.15d
+2.09e
+
+6.97d
+6.29d
+3.31f
+3.32b
+3.04c
+2.33c
+2.48b
+
+7.56a
+7.19a
+3.23g
+3.82a
+2.77f
+2.66b
+3.15a
+
+1.15f
+2.21f
+4.33a
+7.31a
+5.79b
+4.65g
+
+1.09g
+1.96g
+4.07b
+7.24b
+6.12a
+4.94f
+
+1.30b
+2.25e
+3.51d
+6.97c
+5.35d
+5.81c
+
+1.22d
+3.28b
+3.49d
+6.43f
+5.01e
+5.61e
+
+2.12a
+3.39a
+3.01e
+6.66e
+4.77g
+6.22a
+
+a–g: Different letters indicate signiﬁcant differences between maceration time for the
+same sample for P ≤ 0.05.
+
+up to 40 d may positively contribute to the sensation of roundness of
+the wine as well as to increased phenol content.
+However, with regard to technological, nutritional and sensory
+properties, catechins represent the most important class of polyphenols
+and their polymerization with anthocyanins determines the stability of
+the wine colour (Muñoz et al., 1999).
+Our study also showed interesting results in terms of the antioxidant
+activity of the experimental wines. The highest antioxidant activity was
+found between days 40 and 50, which corresponded to a high concentration of total polyphenols as well as the highest ratio between (+)catechin and (−)-epicatechin.
+The extended post-fermentation maceration process applied in this
+work affected the concentration of free radicals. Today, wines with a
+unique sensory proﬁle and potential health beneﬁts, such as antioxidant
+activity are particularly requested by the consumers. PCA analysis of
+VOCs demonstrated that prolonged maceration could greatly inﬂuence
+the characteristics of wine. According to the highest VOC concentrations
+as well as high sensory scores, 90 day samples appeared clearly separated from those taken at the other collection times and, together with the
+70 day samples, they were most distant from the control wine on day
+13.
+In conclusion, our study provides additional information on the
+microbial ecology of wine showing that both yeasts and LAB are
+able to exert metabolic activities even during post-fermentation
+maceration that is extended to 90 days. Data obtained by chemical
+and sensory analyses indicated that maceration in the range
+40–50 d signiﬁcantly improves the quality of the ﬁnal product due
+to the increase in sensory roundness and complexity as well as the
+antioxidant activity of wine. In addition, the present study clearly
+advances our knowledge on the polyphenol content and composition of wines when prolonged maceration is carried out, i.e., longer
+than the common duration stated by the oenological practice for
+the production of Aglianico wine. Further investigations on the
+identiﬁcation and distribution of LAB species could be useful to
+allow complete interpretation of the effect of extended maceration
+on the microbial ecology of wine. Additional experiments carried
+out with different grape varieties and in different cellars could be
+useful to advance our knowledge on the wine maceration process.
+It is worth noting that, today, maceration processes as the one
+described here are carried out in large-scale viniﬁcations at private
+farms and the wines produced according to this winemaking process
+are commercially distributed and sold in several countries.
+
+N. Francesca et al. / International Journal of Food Microbiology 171 (2014) 84–93
+
+Acknowledgements
+The authors wish to thank Alessandro Lonardo, owner of “Azienda
+Agricola Contrade di Taurasi” (Taurasi, AV, Italy) and Maurizio De Simone
+for his oenological support in the cellar. Dr. Rosalia Di Gerlando is also
+thanked for her support in microbiological analyses. This work was ﬁnancially supported by "STAPA CePICA di Avellino" of Campania Region.
+References
+Alexandre, H., Costello, P.J., Remize, F., Guzzo, J., Guilloux-Benatier, M., 2004.
+Saccharomyces cerevisiae–Oenococcus oeni interactions in wine: current knowledge
+and perspectives. Int. J. Food Microbiol. 93, 141–154.
+Bautista-Ortín, B., Martínez-Cutillas, A., Ros-García, J.M., López-Roca, M., Gómez-Plaza, E.,
+2005. Improving colour extraction and stability in red wines: the use of maceration
+enzymes and enological tannins. Int. J. Food Sci. Technol. 40, 867–878.
+Bosch-Fausté, J., Riu-Aumatell, M., Guadayol, J.M., Caixach, J., López-Tamames, E.,
+Buxaderas, S., 2007. Volatile proﬁles of sparkling wines obtained by three extraction
+methods and gas chromatography–mass spectrometry (GC–MS) analysis. Food
+Chem. 105, 428–435.
+Brand-Williams, W., Cuvelier, M.E., Berset, C., 1995. Use of a free radical method to evaluate antioxidant activity. LWT Food Sci. Technol. 28, 25–30.
+Capucho, I., San Romao, M.V., 1994. Effect of ethanol and fatty acids on malolactic activity
+of Leuconostoc oenos. Appl. Microbiol. Biotechnol. 42, 391–395.
+Caspritz, G., Radler, F., 1983. Malolactic enzyme of Lactobacillus plantarum puriﬁcation,
+properties and distribution among bacteria. J. Biol. Chem. 258, 4907–4910.
+Commission Regulation 2776/90, 1990. On transition measures to be applied in the wine
+sector after the uniﬁcation of Germany in the territory of the former German Democratic Republic. Off. J. Eur. Communities 267, 30–31.
+De Beer, D., Marais, J., Manley, M., 2006. Maceration before and during fermentation:
+effect on pinotage wine phenolic composition, total antioxidant capacity and objective color parameters. South Afr. J. Enol. Vitic. 27, 137–149.
+En-Qin, X., Gui-Fang, D., Ya-Jun, G., Hua-Bin, L., 2010. Biological activities of polyphenols
+from grape. Int. J. Mol. Sci. 11, 622–646.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identiﬁcation of yeasts by
+RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed
+spacers. Int. J. Syst. Bacteriol. 49, 329–337.
+Gambuti, A., Strollo, D., Ugliano, M., Lecce, L., Moio, L., 2004. trans-Resveratrol, quercetin,
+(+)-catechin, and (−)-epicatechin content in south Italian monovarietal wines: relationship with maceration time and marc pressing during winemaking. J. Agric. Food
+Chem. 52, 5747–5751.
+Gardner, N., Rodrigue, N., Champagne, C.P., 1993. Combined effects of sulﬁtes, temperature and agitation time on production of glycerol in grape juice by Saccharomyces
+cerevisiae. Appl. Environ. Microbiol. 2022–2028.
+Gómez-Plaza, E., Gil Muňoz, R., López-Roca, J.M., Martínez, A., 2002. Color and phenolic
+compounds of a young red wines as discriminative variables of its ageing status.
+Food Res. Int. 32, 503–507.
+Guzzon, R., Widmann, G., Settanni, L., Malacarne, M., Francesca, N., Larcher, R., 2011. Evolution of yeast populations during different biodynamic winemaking processes.
+South Afr. J. Enol. Vitic. 32, 242–250.
+Hernandez-Cortes, G., Cordova- Lopez, J.A., Herrera-Lopez, E.J., Moran-Marroquın, G.A.,
+Valle Rodrıguez, J.O., Dıaz-Montano, D.M., 2010. Effect of pH, aeration and feeding
+non-sterilized agave juice in a continuous agave juice fermentation. J. Sci. Food
+Agric. 90, 1423–1428.
+Hernàndez-Orte, P., Cersosimo, M., Loscos, N., Cacho, J., Garcia-Moruno, E., Ferreira, V.,
+2008. The development of varietal aroma from non-ﬂoral grapes by yeasts of different
+genera. Food Chem. 107, 1064–1077.
+Ivanova, V., Dörnyei, Á., Márk, L., Vojnoski, B., Staﬁlov, T., Stefova, M., Kilár, F., 2011. Polyphenolic content of Vrenac wines produced by different viniﬁcation conditions. Food
+Chem. 124, 316–325.
+La Jeune, C., Enry, C., Demuyter, C., Lollier, M., 2006. Evolution of the population of
+Saccharomyces cerevisiae from grape to wine in a spontaneous fermentation.
+Food Microbiol. 23, 709–716.
+Lane, J.H., Eynon, L., 1923. Determination of reducing sugars by means of Fehling's solution with methylene blue as internal indicator. J. Chem. Soc. Faraday Trans. 32–36.
+Legras, J., Karst, F., 2003. Optimisation of interdelta for Saccharomyces cerevisiae strain
+characterization. FEMS Microbiol. Lett. 221, 249–255.
+
+93
+
+Loureiro, V., Malfeito-Ferreira, M., 2003. Spoilage yeasts in the wine industry. Int. J. Food
+Microbiol. 86, 23–50.
+Mazzei, P., Francesca, N., Moschetti, G., Piccolo, A., 2010. NMR spectroscopy evaluation of
+direct relationship between soils and molecular composition of red wines from
+Aglianico grapes. Anal. Chim. Acta. 673, 167–172.
+Muñoz, R., Gómez-Plaza, E., Martınez, A., López-Roca, J.M., 1999. Evolution of phenolic
+compounds during wine fermentation and post-fermentation: inﬂuence of grape
+temperature. J. Food Compos. Anal. 12, 259–272.
+Narr Ben, C., Ayed, N., Metche, M., 1996. Quantitative determination of the polyphenolic
+content of pomegranate peel. Z. Lebensm. Unters. Forsch. 203, 374–378.
+Neuser, F., Zorn, H., Berger, R., 2000. Generation of odorous acyloins by yeast pyruvate
+decarboxylases and their occurrence in sherry and soy sauce. J. Agric. Food Chem.
+48, 6191–6195.
+Noble, A.C., Arnold, R.A., Buechsenstein, J., Leach, E.J., Schimdt, J.O., Stern, P.M., 1987.
+Modiﬁcation of a standardized system of wine aroma terminology. Am. J. Enol. Vitic.
+38, 143–146.
+Noble, P.A., Dziuba, M., Jed Harrison, D., Albritton, W.L., 1999. Factors inﬂuencing
+capacitance-based monitoring of microbial growth. J. Microbiol. Methods 37, 51–64.
+Nurgel, C., Pickering, G., 2005. Contribution of glycerol, ethanol and sugar to the perception
+of viscosity and density elicited by model white wines. J. Texture Stud. 36, 303–323.
+O'Donnell, K., 1993. Fusarium and its near relatives. In: Reynolds, D.R., Taylor, J.W. (Eds.),
+The Fungal Holomorph: Mitotic, Meiotic and Pleomorphic Speciation in Fungal
+Systematics. CAB International, Wallingford, UK, pp. 225–233.
+OIV, 2010. Recueil des méthodes internationales d’analyse des vins et des moûts. Organisation Interantionel de la Vigne e du Vin, Avellino, Paris.
+Palma, M., Barroso, C.G., 2002. Ultrasound-assisted extraction and determination of
+tartaric and malic acids from grapes and winemaking by-products. Anal. Chim.
+Acta. 458, 119–130.
+Pereira, V., Câmara, J.S., Cacho, J., Marques, J.C., 2010. HPLC-DAD methodology for the
+quantiﬁcation of organic acids, furans and polyphenols by direct injection of wine
+samples. J. Sep. Sci. 33, 1204–1215.
+Piombino, P., Nicklaus, S., Le Fur, Y., Moio, L., Le Quéré, J.L., 2004. Selection of products
+presenting given ﬂavor characteristics: an application to wine. Am. J. Enol. Vitic. 55,
+27–34.
+Pomarici, E., Rocco, L., Raia, S., 2004. Colori, odori ed enologia dell'Aglianico: Sette anni di
+sperimentazione e ricerca enologica in Campania. Regione Campania Assessorato
+Agricoltura Se.S.I.R.C.A., Avellino, Italy.
+Pretorius, I.S., 2000. Tailoring wine yeast for the new millennium: novel approaches to the
+ancient art of winemaking. Yeast 16, 675–729.
+Redzepovic, S., Orlic, S., Majdak, A., Kozina, B., Volschenk, H., Viljoen-Bloom, M., 2003. Differential malic acid degradation by selected strains of Saccharomyces during alcoholic
+fermentation. Int. J. Food Microbiol. 83, 49–61.
+Ribéreau-Gayon, P., Stonestreet, E., 1965. Les dosage des anthocyanes dans le vin rouge.
+Bull. Soc. Chim. Fr. 9, 2649–2652.
+Ribéreau-Gayon, P., Dubordieu, D., Donèche, B., Lonvauda, A., 2003. Trattato di enologia:
+Microbiologia del vino e Viniﬁcazioni. Edagricole, Bologna, Italy.
+Rodrigues, N., Goncealves, G., Pereira-da-Silva, S., Malfeito-Ferreira, M., Loureiro, V., 2001.
+Development and use of a new medium to detect yeasts of the genera Dekkera/
+Brettanomyces. J. Appl. Microbiol. 90, 588–599.
+Romero-Cascales, I., Fernandez-Fernandez, J.I., Lopez-Roca, J.M., 2005. The maceration
+process during winemaking extracion of anthocyanis from grape skins into wine.
+Eur. Food Res. Technol. 221, 163–167.
+Sakakibara, H., Honda, Y., Nakagawa, S., Ashida, H., Kanazawa, K., 2003. Simultaneous
+determination of all polyphenols in vegetables, fruits and teas. J. Agric. Food Chem.
+51, 571–581.
+Schutz, M., Radler, F., 1974. The presence of malic enzyme and malo-lactic enzyme in
+various lactic acid bacteria. Arch. Microbiol. 96, 329–339.
+Settanni, L., Sannino, C., Francesca, N., Guarcello, R., Moschetti, G., 2012. Yeast ecology of
+vineyards within Marsala wine area (western Sicily) in two consecutive vintages
+and selection of autochthonous Saccharomyces cerevisiae strains. J. Biosci. Bioeng.
+114, 606–614.
+UNI 10957, 2003. Sensory Analysis and Method for Establishing a Sensory Proﬁle in Foodstuffs and Beverages.
+Vaudano, E., Garcia-Moruno, E., 2008. Discrimination of Saccharomyces cerevisiae wine
+strains using microsatellite multiplex PCR and band pattern analysis. Food Microbiol.
+25, 56–64.
+Zambonelli, C., 1998. Microbiologia e biotecnologia dei vini. Edagricole, Milano, Italy.
+Zott, K., Miot-Sertier, C., Claisse, O., Lonvaud-Funel, A., Masneuf-Pomarede, I., 2008.
+Dynamics and diversity of non-Saccharomyces yeasts during the early stages in
+winemaking. Int. J. Food Microbiol. 125, 197–203.
+
+

@@ -1,0 +1,1430 @@
+ARTICLE IN PRESS
+FOOD
+MICROBIOLOGY
+Food Microbiology 21 (2004) 439–447
+
+www.elsevier.nl/locate/jnlabr/yfmic
+
+Ethanol tolerance of ﬁve non-Saccharomyces wine yeasts in
+comparison with a strain of Saccharomyces cerevisiae—inﬂuence
+of different culture conditions
+!
+Cristina Pina*, Cristina Santos, Jose! Antonio
+Couto, Tim Hogg
+!
+Escola Superior de Biotecnologia, Rua Dr. Antonio
+Bernardino de Almeida, Porto 4200 072, Portugal
+Received 17 July 2003; received in revised form 16 October 2003; accepted 16 October 2003
+
+Abstract
+The kinetics of cell inactivation at high concentrations of ethanol (22.5% and 25% v v 1) was studied with particular reference to
+the inﬂuence of different cultivation conditions (aerobiosis, semi-aerobiosis, anaerobiosis, addition of survival factors) prior to
+ethanol challenge. The levels of fatty acids and sterols in cells grown under these different conditions were analysed in order to derive
+a potential relationship between the ethanol tolerance and the lipid composition of the different strains studied. Under the
+conditions tested, Hanseniaspora guilliermondii showed an ethanol tolerance very similar to that of Saccharomyces cerevisiae, and
+very different to that of the other apiculate yeast, H. uvarum. The survival of S. cerevisiae and H. guilliermondii at 25% (v v 1)
+ethanol was strongly inﬂuenced by the conditions of cultivation prior to the ethanol challenge. A small increase in survival was
+observed for H. uvarum and Torulaspora delbrueckii in the cultures grown in aerobiosis. Growth of these yeasts in anaerobiosis in the
+presence of added ergosterol and Tween 80 (as a source of oleic acid) did not induce a considerable tolerance to the ethanol
+challenge, in spite of the incorporation of these compounds by the cells. In these growth conditions Debaryomyces hansenii was not
+capable of incorporating the survival factors and did not increase the ethanol tolerance. It is shown in this work that, besides
+S. cerevisiae, the presence of oxygen and the addition of survival factors to the culture conditions and the subsequent increase in
+the proportion of cell sterols and unsaturated fatty acids may play an important role in the ethanol tolerance of some
+non-Saccharomyces yeasts. This effect was not, however, observed in all of the yeasts studied.
+r 2003 Elsevier Ltd. All rights reserved.
+Keywords: Ethanol; Wine yeast; Lipid composition; Saccharomyces cerevisiae; Candida stellata; Debaryomyces hansenii; Hanseniaspora spp.
+
+1. Introduction
+In the production of wine, natural grape juice
+fermentation is carried out by a succession of different
+yeast populations. Several authors report that the early
+stages of the alcoholic fermentation are characterized by
+the activity of mostly apiculate, non-Saccharomyces
+yeasts from Kloeckera and Hanseniaspora genera (Martinez et al., 1989; Fleet, 1990; Cianni and Picciotti, 1995;
+Gil et al., 1996; Lema et al., 1996; Romano et al., 1997;
+Charoenchai et al., 1998; Gutie! rrez et al., 1999). The
+growth of these yeasts is generally limited to the ﬁrst two
+or three days of fermentation, after which they die off,
+*Corresponding author. Tel.: +351-225090351; fax: +351-22558
+0045.
+E-mail address: cristina@morango.esb.ucp.pt (C. Pina).
+0740-0020/$ - see front matter r 2003 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.fm.2003.10.009
+
+giving way to the more tolerant strains of Saccharomyces cerevisiae (Martinez et al., 1989; Fleet, 1990;
+Fleet and Heard, 1993; Cianni and Picciotti, 1995; Gil
+et al., 1996). Many physiological parameters allow
+Saccharomyces to dominate grape juice fermentations,
+but its tolerance to high concentrations of ethanol is the
+principal feature of this yeast that allows its survival in
+this speciﬁc environment (Boulton et al., 1995). The
+progressive disappearance of non-Saccharomyces fermentation species is generally attributed to their
+inability to survive the increasing concentrations of
+ethanol produced in the fermentation, with the maximum tolerance of 6% v v 1 being often cited (Fleet,
+1990; Gil et al., 1996). The persistence of these nonSaccharomyces fermentation species during fermentation may depend, however, upon many factors, such as
+the temperature of fermentation, nutrient availability,
+
+ARTICLE IN PRESS
+440
+
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+inoculum strength of Saccharomyces, use and levels of
+sulphur dioxide, the numbers and kinds of organisms
+present on the grapes and the viniﬁcation technology
+(Fleet, 1990; Romano et al., 1997; Charoenchai et al.,
+1998; Gutie! rrez et al., 1999). However, the common
+spoilage yeasts of wine, Brettanomyces and Zygossacharomyces, are as tolerant of ethanol as the Saccharomyces species (Boulton et al., 1995).
+The accumulation of ethanol in the microbial
+environment represents a form of chemical stress on
+the organisms living there and several studies have
+shown that the plasma membrane is the prime target of
+ethanol action in such situations (Thomas et al., 1978;
+Beavan et al., 1982; Ingram and Buttke, 1984).
+Furthermore, yeast ethanol tolerance has been correlated with the capacity of cells to modify their lipid
+composition to respond to the disrupting action of
+ethanol. This is part of a regulatory system, which
+ensures the adjustment of the physicochemical properties of the membrane lipid matrix in a physiologically
+optimal range (Ingram, 1986; Sajbidor, 1997). The high
+ethanol tolerance of S. cerevisiae has received widespread attention throughout the last ﬁve decades,
+although the mechanisms underlying it and the way
+membrane lipids modulate membrane ﬂuidity are not
+yet fully understood (Mishra and Kaur, 1991; Sajbidor,
+1997; Chi and Arneborg, 2000). However, it is well
+known that yeasts supplemented with various sterols
+and unsaturated fatty acids (UFA) exhibit increased
+ethanol tolerance as a result of the incorporation of
+some of these compounds, as has been demonstrated by
+several studies on S. cerevisiae (Thomas et al., 1978;
+Thomas and Rose, 1979; Walker-Caprioglio et al.,
+1990). These substances can act as ‘‘survival factors’’
+(allowing cells to maintain their viability and fermentative activity) when added to the grape must (Larue et al.,
+1980). However, similar studies concerning non-Saccharomyces yeasts are very scarce, and the recent
+resurgence in interest in the role of these organisms in
+the early stages of fermentation (Hansen et al., 2001) has
+highlighted the necessity of obtaining more information
+concerning their physiological and metabolic features.
+Some of the most frequently employed methods to
+measure ethanol tolerance include growth and cellular
+viability in the presence of ethanol; fermentative
+capacity, i.e. the maximal amount of ethanol produced
+during fermentation; and fermentative ability, i.e. the
+ability to ferment glucose as measured by CO2 production (Mishra and Kaur, 1991). In this study, the kinetics
+of inactivation in the presence of high concentrations of
+ethanol (22.5% and 25% v v 1) was used as an inference
+of the ethanol resistance status of ﬁve non-Saccharomyces strains and one strain of S. cerevisiae. Cultivation conditions prior to ethanol challenge were of
+particular interest—anaerobiosis, semi-aerobiosis, active
+oxygenation, addition of ergosterol and Tween 80 (as a
+
+source of oleic acid). Changes in certain cell fatty acids
+and sterols were examined in order to derive a potential
+relationship between ethanol tolerance and the lipid
+composition of the different strains.
+
+2. Materials and methods
+2.1. Yeast strains
+The strains used were S. cerevisiae PYCC (Portuguese
+Yeast Culture Collection, Institute Gulbenkian de
+Ci#encia, Oeiras, Portugal) 3507, Candida stellata PYCC
+3044, Debaryomyces hansenii PYCC 2968T, Hanseniaspora uvarum PYCC 4193T, Torulaspora delbrueckii
+PYCC 2477T and H. guilliermondii NCYC (National
+Collection of Yeast Cultures, Norwich, UK) 2380
+(isolated from grape must used for Port wine production
+in the Douro region of Portugal).
+2.2. Culture medium
+The base culture medium used was YM broth (Difco),
+with the initial pH set at 4.5 with lactic acid (Merck).
+Cells (preinoculum) were grown semi-aerobically (ﬂasks
+under static incubation and not ﬁrmly closed) in 100 ml
+Erlenmeyer ﬂasks containing 50 ml of medium at 25 C
+until mid-exponential growth phase. An inoculum of
+2% (v v 1) was used.
+2.3. Growth conditions prior to ethanol challenge
+Six cultivation regimes were used: (i) active oxygenation, achieved by orbital shaking (150 rpm) in 100 ml
+ﬂasks with 50 ml of culture medium; (ii) semi-aerobic
+conditions, achieved by leaving the ﬂasks under static
+incubation and not closed ﬁrmly; (iii) semi-aerobic
+conditions supplemented with 25 mg l 1 of ergosterol
+(Sigma) and 1 g l 1 of Tween 80 (Merck) (as a source of
+oleic acid); (iv) strict anaerobic conditions, achieved by
+sparging the culture medium with nitrogen gas for
+15 min in 100 ml serum ﬂasks, which were then ﬁrmly
+closed with 4 mm thick butyl rubber septa. Resazurin
+(0.1 g l 1) (Sigma) was added to indicate the redox
+potential. After sterilizations, cystein (Sigma) was added
+(from a sterile stock solution of 5 g l 1) at a ﬁnal
+concentration of 50 mg l 1 to guarantee an anaerobic
+atmosphere; (v) strict anaerobic conditions supplemented with 25 mg l 1 of ergosterol (Sigma); and (vi) strict
+anaerobic conditions supplemented with 1 g l 1 of
+Tween 80 (Merck). Prior to their addition, ergosterol
+and Tween 80 were dissolved in 1 ml of absolute ethanol
+with gentle heating for 5 min and at room temperature,
+respectively. The inoculum (2% v v 1) was introduced
+via a 1 ml sterile syringe. The cultures were grown at
+25 C until the mid-exponential growth phase.
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+2.4. Ethanol challenge (viability assays)
+A concentration of 25% (v v 1) ethanol in YM broth
+was used as a stress challenge. This concentration was
+determined in preliminary studies as being that which
+permits the determination of inactivation kinetics over a
+relatively short period of time. Cells grown under the
+above-mentioned conditions were harvested by centrifugation at 3000g for 10 min (JP SELECTA, Spain) and
+resuspended in a solution of 25% (v v 1) ethanol in YM
+broth (experiment time point 0). Cells were exposed to
+this level of ethanol for 4 min at 25 C. At the time points
+0.5, 1.0, 1.5, 2.0, and 4.0 min, samples were removed,
+appropriately diluted in sterile Ringer solution (9 ml),
+and plated in duplicate on YM agar (Difco) using the
+Drop Count Technique (Miles and Misra, 1938) for the
+determination of viability. Counts were done after
+incubation at 25 C for 72 h. Similar experiments were
+done with 22.5% v v 1 ethanol for some of the more
+sensitive strains.
+2.5. Extraction and simultaneous analysis of fatty
+acids and sterols by GC
+The content of the fatty acids (caprylic, capric,
+lauric, palmitic, linolenic, linoleic, oleic, and stearic
+acids) and sterol (ergosterol, campesterol, lanosterol)
+content of the yeast cells grown in each of the culture
+regimes was analysed. The analytical method (essentially
+a direct extraction from a paste of harvested cells,
+followed by a saponiﬁcation in aqueous/ethanolic
+potassium hydroxide solution, before chloroform extraction and silanization for GC determination of free
+and combined fatty acids and sterols) was performed
+according to the technique described by Cocito and
+Delﬁni (1994). Quantitative analysis was carried out
+with the use of three different internal standards
+(nonanoic acid, Fluka; nonadecanoic acid, Fluka and
+cholesterol, Sigma). The gas chromatographic analysis
+was performed with a Hewlett Packard 5890A (Avondale, USA) equipped with a capillary column of fused
+silica, phase DB1, of length 30 m and 0.25 mm i.d.,
+ﬁlm thickness 0.25 mm (J & W. Scientiﬁc, Folson, CA,
+USA). The repeatability of the methods is illustrated in
+Cocito and Delﬁni (1994). The average coefﬁcient of
+variation was 5,63%, since coefﬁcients of variation were
+less than 15%.
+
+3. Results and discussion
+3.1. Influence of different culture conditions on the
+ethanol tolerance
+The effect of ethanol stress (25% or 22.5% v v 1) on
+the survival of ﬁve non-Saccharomyces yeasts grown in
+
+441
+
+different cultures conditions in comparison to a strain of
+S. cerevisiae is shown in Figs. 1 and 2. These levels of
+ethanol were used because it represents an ethanol
+stress, which generates kinetics of inactivation measurable over a reasonable period of time (p5 min). The
+results indicate that, according to this method, the
+resistance of H. guilliermondii and C. stellata to ethanol
+was comparable to that of S. cerevisiae (Figs. 1a–c),
+while D. hansenii behaved differently (Fig. 1d).
+H. uvarum and T. delbrueckii were the most sensitive
+yeast strains. Under the stress condition of 25% v v 1 of
+ethanol, the kinetics of inactivation was too rapid to
+note any induced effect of the cultivation regimes in
+these strains (data not shown). These results suggest that
+certain non-Saccharomyces yeasts (certainly H. guilliermondii and C. stellata) could have a higher tolerance to
+ethanol than previously reported in the literature
+(Boulton et al., 1995; Gil et al., 1996). The growth of
+H. guilliermondii and S. cerevisiae under active oxygenation increased cell viability to subsequent ethanol stress
+in comparison to growth under anaerobiosis (Figs. 1a
+and b). The same result was obtained when cultures
+were grown under anaerobiosis with the addition of
+ergosterol and Tween 80. These results are in agreement
+with what was found for S. cerevisiae, for which the
+presence of oxygen or of certain compounds added
+exogenously to the growth medium could enhance the
+tolerance to ethanol (Larue et al., 1980; WalkerCaprioglio et al., 1990; Mauricio et al., 1997). The
+supplementation of S. cerevisiae, H. guilliermondii, and
+C. stellata cultures with ergosterol and Tween 80 in
+semi-aerobic conditions did not increase the ethanol
+resistance in comparison to non-supplemented semiaerobic cultures (Figs. 1a–c). When comparing these
+data with those from anaerobically cultivated cells, it
+would appear that the effect of oxygen on the ethanol
+resistance was sufﬁcient in itself to raise the ethanol
+resistance. C. stellata showed a high resistance to
+ethanol under all the growth conditions tested. The cell
+viability of this strain was apparently not inﬂuenced by
+any of the different cultivation regimes (Fig. 1c).
+As mentioned above, 25% v v 1 of ethanol was
+too high to investigate ethanol-induced inactivation of
+H. uvarum and T. delbrueckii. However, a slight increase
+in cell viability was observed when cells where submitted to a lower ethanol challenge (22.5% v v 1
+ethanol) after having grown under active aerobiosis
+(Fig. 2). The addition of ergosterol and Tween 80 under
+anaerobiosis did not increase the ethanol tolerance of
+these non-Saccharomyces yeasts and also of D. hansenii.
+It is worth noting that H. uvarum showed a different
+behaviour to that of the other apiculate yeast—
+H. guilliermondii. These results suggest that the addition
+of certain survival factors to the medium did not have
+the same effect on the ethanol tolerance of all the yeasts
+studied.
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+442
+
+S. cerevisiae
+
+10
+
+8
+Log cfu/ml
+
+Log cfu/ml
+
+8
+6
+4
+
+6
+4
+2
+
+2
+
+0
+
+0
+0
+
+1
+
+(a)
+
+2
+Time (min)
+
+3
+
+0
+
+4
+
+1
+
+(b)
+
+C. stellata
+
+10
+
+2
+Time (min)
+
+3
+
+4
+
+3
+
+4
+
+D. hansenii
+
+10
+
+8
+
+8
+
+6
+
+Log cfu/ml
+
+Log cfu/ml
+
+H. guilliermondii
+
+10
+
+4
+2
+
+6
+4
+2
+
+0
+
+0
+0
+
+1
+
+2
+
+3
+
+Time (min)
+
+(c)
+
+4
+
+0
+(d)
+
+1
+
+2
+Time (min)
+
+Fig. 1. Effect of ethanol stress (25% v v 1) lasting 4 min on the survival of S. cerevisiae (a), H. guilliermondii (b), C. stellata (c), and D. hansenii (d).
+Prior to exposure, cultures were cultivated under different culture conditions: with oxygenation (J); semi-aerobiose (); semi-aerobiose with
+ergosterol+Tween 80 (); anaerobiose (~); anaerobiose with Tween 80 (’); and anaerobiose with ergosterol (m). The values are means of three
+independent experiments. The log cfu ml 1=0 represents values lower than 3.5  102.
+
+3.2. Relationship between ethanol tolerance and lipid
+composition in yeasts grown in different culture conditions
+
+H. uvarum
+
+10
+
+Log cfu/ml
+
+8
+6
+4
+2
+0
+0
+
+1
+
+(a)
+
+2
+Time (min)
+
+3
+
+4
+
+3
+
+4
+
+T. delbrueckii
+10
+Log cfu/ml
+
+8
+6
+4
+2
+0
+0
+(b)
+
+1
+
+2
+Time (min)
+
+Fig. 2. Effect of ethanol stress (22,5% v v 1) lasting 4 min on the
+survival of H. uvarum (a) and T. delbrueckii (b). Prior to exposure, the
+cultures were cultivated under different culture conditions: with
+oxygenation (J); anaerobiose (~); anaerobiose with Tween 80 (’);
+and anaerobiose with ergosterol (m). The values are means of three
+independent experiments. The log cfu ml 1=0 represents values lower
+than 3.5  102.
+
+Tables 1 and 2 show the cellular composition in fatty
+acids and sterols (as % of total) of the various yeast
+strains grown under different cultures conditions. The
+most abundant compounds found in all of the yeasts
+studied where palmitic acid (C16:0), oleic acid (C18:1) and
+ergosterol. The proportion of ergosterol differed according to the yeast strain and the culture conditions, as was
+also reported by Larue et al. (1980), H. guilliermondii
+showing the highest content of this sterol under aerobic
+conditions (Tables 1 and 2). Oleic acid was the most
+abundant UFA analysed in the yeasts strains studied.
+C. stellata showed the highest value (48%) (Table 2) of this
+fatty acid under aerobic conditions, whereas H. guilliermondii showed the lowest content (14%) (Table 1).
+Among the saturated fatty acids (SFA), the content of
+palmitic acid was the most representative, with the
+highest values being found in anaerobic culture conditions in most of the yeasts studied (Tables 1 and 2). This
+result is in accordance with the studies on S. cerevisiae
+by Steels et al. (1994), who reported that, in cells grown
+anaerobically, the phospholipids were tipically enriched
+in SFA rather than in mono-UFA. It is worthy of
+note that, for each yeast strain, the lipids that showed
+most variation under different culture conditions were
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+443
+
+Table 1
+Cellular contents of fatty acids and sterols (as % of total) in S. cerevisiae, H. guilliermondii, and H. uvarum grown under different culture conditions
+Anaerobic
+
+Aerobic
+
+No addition
+
+E
+
+TW
+
+S. cerevisiae
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+2.44
+11.95
+10.23
+27.09
+6.52
+ND
+1.49
+6.33
+28.77
+ND
+5.17
+
+0.79
+4.49
+3.29
+13.34
+3.90
+ND
+0.53
+6.70
+66.18
+ND
+0.78
+
+ND
+1.64
+3.49
+18.70
+5.02
+ND
+ND
+60.63
+9.06
+ND
+1.45
+
+H. guilliermondii
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+1.09
+1.97
+8.76
+20.36
+4.81
+ND
+ND
+10.77
+46.34
+ND
+5.90
+
+0.21
+0.17
+1.89
+3.57
+2.76
+ND
+7.73
+10.26
+82.40
+ND
+ND
+
+H. uvarum
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+1.12
+1.56
+14.19
+37.42
+23.24
+ND
+4.28
+2.68
+14.34
+ND
+1.16
+
+0.17
+0.25
+1.47
+ND
+ND
+ND
+ND
+ND
+73.76
+ND
+ND
+
+Semi-aerobic
+No addition
+
+E+TW
+
+ND
+1.10
+2.77
+14.71
+5.18
+ND
+ND
+27.82
+47.91
+0.18
+0.33
+
+1.40
+7.33
+9.29
+32.72
+ND
+ND
+ND
+12.68
+36.59
+ND
+ND
+
+0.33
+0.49
+1.38
+11.76
+3.19
+ND
+0.72
+31.99
+49.91
+0.06
+0.16
+
+1.14
+0.45
+9.04
+9.06
+2.33
+ND
+1.72
+31.43
+43.68
+ND
+1.15
+
+ND
+0.24
+0.78
+11.92
+1.11
+ND
+ND
+14.21
+71.74
+ND
+ND
+
+0.21
+0.87
+7.43
+15.41
+1.68
+ND
+ND
+11.81
+62.59
+ND
+ND
+
+ND
+0.82
+7.45
+15.91
+1.56
+ND
+ND
+11.85
+62.40
+ND
+ND
+
+0.76
+1.64
+9.73
+23.81
+3.16
+ND
+ND
+59.69
+ND
+ND
+1.22
+
+0.16
+0.12
+0.16
+19.74
+2.99
+ND
+5.76
+21.50
+49.57
+ND
+ND
+
+0.22
+0.76
+4.77
+26.26
+2.02
+ND
+4.34
+6.98
+51.80
+ND
+2.84
+
+0.17
+0.23
+0.54
+10.24
+4.94
+ND
+12.60
+33.61
+33.88
+ND
+3.79
+
+E—Ergosterol (25 mg l 1); TW—Tween 80 (1 g l 1), as a source of oleic acid; ND—not detected.
+Results are the mean of three independent experiments (coefﬁcient of variation was less than 10%, except for caprylic, capric, and lauric were less
+than 23%).
+
+ergosterol and oleic acid. The largest difference was
+found between cells grown in the presence of oxygen and
+those grown in anaerobiosis, with the levels being
+considerably higher in the former case (Tables 1 and 2).
+These results corroborate the fact that oxygen plays an
+important role in the synthesis of sterols and UFA
+(Pﬁsterer et al., 1976; Larue et al., 1980; Strydom et al.,
+1982; Eglinton and Henschke, 1991; Mauricio et al.,
+1997).
+Fig. 3 displays the effect of aerobic, semi-aerobic, and
+anaerobic (without supplements) growth conditions on
+the sterol and fatty acid (saturated and unsaturated)
+composition of yeast cells. As expected, the content of
+sterols and UFA in all of the yeasts studied is markedly
+
+higher in cells grown under active oxygenation than
+under semi-aerobic or anaerobic conditions. A higher
+percentage of SFA was formed in cells grown under
+anaerobiosis. These ﬁndings have also been reported by
+other workers in their studies mainly with S. cerevisiae.
+Steels et al. (1994) reported that aerobic S. cerevisiae
+cells contained about 80% UFA, while in cells grown
+anaerobically, the phospholipids were typically enriched
+in SFA. Similar behaviour is displayed by nonSaccharomyces yeasts in this study. In an aerobic
+environment, a healthy Saccharomyces culture is able
+to synthesize its full component of both saturated and
+UFA, but, in an anaerobic environment, such as in the
+wine must during fermentation, the synthesis of
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+444
+
+Table 2
+Cellular contents of fatty acids and sterols (as % of total) in C. stellata, T. delbruekii, and D. hansenii grown under different culture conditions
+Anaerobic
+
+Aerobic
+
+No addition
+
+E
+
+TW
+
+C. stellata
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+2.62
+2.09
+3.87
+53.49
+0.55
+ND
+ND
+32.46
+ND
+ND
+ND
+
+0.09
+ND
+0.19
+1.79
+1.32
+ND
+2.24
+4.61
+88.66
+ND
+1.11
+
+0.46
+ND
+0.35
+18.35
+11.53
+ND
+34.87
+11.63
+19.98
+ND
+2.84
+
+T. delbrueckii
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+5.09
+3.63
+7.06
+48.44
+0.00
+0.00
+22.45
+13.31
+0.00
+0.00
+0.00
+
+0.07
+0.06
+0.13
+1.58
+0.00
+0.00
+0.00
+0.16
+97.99
+0.00
+0.00
+
+D. hansenii
+Caprylic acid
+Capric acid
+Lauric acid
+Palmitic acid
+Stearic acid
+Linolenic acid
+Linoleic acid
+Oleic acid
+Ergosterol
+Campesterol
+Lanosterol
+
+1.52
+0.00
+7.49
+12.02
+78.97
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+1.50
+0.00
+0.58
+0.00
+97.92
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+Semi-aerobic
+No addition
+
+E+TW
+
+0.14
+0.18
+0.37
+4.40
+3.46
+ND
+2.16
+48.10
+40.63
+ND
+0.55
+
+0.15
+ND
+0.22
+7.19
+5.27
+ND
+2.65
+32.21
+52.31
+ND
+ND
+
+ND
+ND
+ND
+4.55
+2.95
+ND
+ND
+24.22
+68.27
+ND
+ND
+
+0.00
+1.19
+14.08
+15.45
+7.15
+0.00
+18.79
+24.24
+17.55
+0.00
+1.54
+
+0.00
+0.00
+0.07
+9.69
+1.55
+0.00
+24.68
+26.06
+37.55
+0.39
+0.00
+
+0.00
+0.00
+3.22
+69.40
+8.30
+0.00
+6.18
+5.47
+4.92
+1.35
+1.15
+
+2.29
+0.85
+0.91
+7.82
+4.08
+0.00
+2.09
+13.74
+33.10
+0.00
+0.00
+
+0.55
+0.83
+6.94
+12.57
+68.95
+0.00
+4.44
+5.73
+0.00
+0.00
+0.00
+
+0.03
+0.01
+0.12
+15.85
+5.04
+0.00
+25.23
+30.54
+23.10
+0.05
+0.03
+
+0.23
+0.21
+0.54
+17.06
+8.82
+0.00
+51.44
+21.70
+0.00
+0.00
+0.00
+
+0.10
+0.00
+0.20
+4.95
+1.41
+0.00
+0.00
+8.25
+85.09
+0.00
+0.00
+
+E—Ergosterol (25 mg l 1); TW—Tween 80 (1 g l 1), as a source of oleic acid; ND—not detected.
+Results are the mean of three independent experiment (coefﬁcient of variation was less than 10%, except for caprylic, capric, and lauric were less than
+23%).
+
+unsaturated fatty acid and sterols is not possible
+(Morrisey et al., 1999).
+Fig. 4 shows the effect of lipid supplements (ergosterol and Tween 80) under anaerobic and semi-aerobic
+growth conditions on the total fatty acid and sterol yeast
+composition. The yeasts that were studied display a
+range of sterol and UFA uptake capacities. It seems that
+the ergosterol and oleic acid uptake is higher in cultures
+grown under anaerobiosis than in those grown under
+semi-aerobic conditions for all yeasts except D. hansenii
+(cf. Figs. 3b and c with Figs. 4a–c). As reported for
+S. cerevisiae, the biosynthesis of sterols and UFA is an
+aerobic process (Pﬁsterer et al., 1976; Eglinton and
+Henschke, 1991; Mauricio et al., 1997). The addition of
+
+ergosterol and oleic acid (from Tween 80) to anaerobic
+cultures, and the consequent incorporation of these
+lipids by cells, increased the ethanol tolerance of
+S. cerevisiae and H. guilliermondii (cf. Fig. 1a and b
+with Fig. 4c). However, in the case of the most sensitive
+ethanol yeast strains, H. uvarum and T. delbrueckii, the
+addition of these compounds under anaerobiosis did not
+increase their ethanol tolerance, in spite of the incorporation of these lipids in their cell membranes (cf.
+Fig. 2a and b with Fig. 4c). On the contrary, D. hansenii
+seems not to incorporate these lipids under this
+cultivation regime (Tables 1 and 2).
+From the results obtained, it seems that, only for
+S. cerevisiae and H. guilliermondii, there is a relationship
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+445
+
+STE
+
+STE
+UFA
+
+100%
+
+SFA
+
+80%
+
+100%
+
+UFA
+
+80%
+
+SFA
+
+60%
+60%
+40%
+40%
+20%
+20%
+0%
+0%
+
+Sc
+Sc
+
+Hg
+
+(a)
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+Hg
+
+(a)
+
+STE
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+STE
+100%
+
+UFA
+
+UFA
+
+100%
+
+SFA
+
+SFA
+
+80%
+
+80%
+60%
+
+60%
+
+40%
+
+40%
+
+20%
+
+20%
+0%
+
+0%
+Sc
+
+Hg
+
+(b)
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+Sc
+
+Hg
+
+(b)
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+STE
+STE
+100%
+
+UFA
+UFA
+
+100%
+SFA
+
+80%
+
+SFA
+80%
+
+60%
+60%
+40%
+40%
+
+20%
+
+20%
+
+0%
+Sc
+(c)
+
+Hg
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+Fig. 3. Distribution of sterols (STE), (SFA) and UFA content (as %
+of total) in the different yeast species: Sc—S. cerevisiae, Hg—H.
+guilliermondii, Hv—H. uvarum, Cst—C. stellata, Td—T. delbrueckii,
+and Dh—D. hansenii, grown in aerobic (a), semi-aerobic (b), and
+anaerobic (c) culture conditions without supplements.
+
+between sterol and fatty acid cell composition and
+ethanol tolerance. An increase in the proportion of
+either oleic acid or ergosterol or of both compounds in
+these yeast cells provide organisms with a greater
+adaptation to high environmental ethanol levels. Several
+authors reported that the addition of fatty acids and/or
+ergosterol to S. cerevisiae cultures elicits a greater
+
+0%
+Sc
+(c)
+
+Hg
+
+Hv
+Cst
+yeast species
+
+Td
+
+Dh
+
+Fig. 4. Distribution of sterol (STE), SFA, and UFA content (as % of
+total) in the different yeast species: Sc—S. cerevisiae, Hg—H.
+guilliermondii, Hv—H. uvarum, Cst—C. stellata, Td—T. delbrueckii,
+and Dh—D. hansenii, grown under anaerobic culture conditions with
+Tween 80 (a); anaerobic culture conditions with ergosterol (b); and
+semi-aerobic culture conditions with Tween 80 and ergosterol (c).
+
+ethanol yield and increased ethanol tolerance by
+adjusting the membrane lipid composition (Thomas
+et al., 1978; Ghareib et al., 1988; Mishra and Prasad,
+1989) and that the requirement for oxygen can be
+eliminated by adding ergosterol and/or oleic acid to the
+
+ARTICLE IN PRESS
+446
+
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+
+culture medium (Larue et al., 1980; Mauricio et al.,
+1997). It is shown in this work that UFA and sterols also
+seem to play an equivalent role as modulators of ethanol
+tolerance in H. guilliermondii, but not in all nonSaccharomyces yeasts studied. The presence of the
+survival factors in the cells did no produce the same
+physiological state in all of the yeasts analysed. These
+results corroborate the fact the ethanol tolerance
+mechanism is complex and not yet fully understood.
+The role of non-Saccharomyces yeasts in wine must
+fermentation is usually limited by their inability to
+tolerate the fermenting must environment; this is most
+often considered to be due to their intolerance to
+ethanol. The results of this study show that, by
+manipulating the cultivation conditions, the ethanol
+tolerance of some non-Saccharomyces strains can be
+increased. Thus, the capacity of these species to
+participate in the alcoholic fermentation as part of more
+complex starter cultures systems than merely S. cerevisiae can be enhanced. Another important ﬁnding is the
+high ethanol resistance exhibited by the H. guilliermondii
+strain studied in this work, which is not in accordance
+with previous studies, which report and assume that
+apiculate yeasts (Kloeckera and Hanseniaspora), are low
+ethanol tolerant species. However, some recent quantitative studies on winemaking ecology have shown that
+non-Saccharomyces species survived at signiﬁcant levels
+for longer periods during fermentation than previously
+thought (Fleet, 1990; Cianni and Picciotti, 1995). It is
+possible that other non-Saccharomyces strains isolated
+from the wine environment (H. guilliermondii NCYC
+2380 was isolated from grape must used for Port wine
+production in the Douro region of Portugal) may show
+similar behaviour. Cell lipid changes induced by certain
+growth culture conditions play an important role in the
+adaptation of yeasts to ethanol containing environments. However, a better understanding of the intrinsic
+resistance of yeasts to ethanol is still required.
+
+Acknowledgements
+Author Cristina Gomes de Pina was funded by
+Funda@*ao para a Ci#encia e Tecnologia (Portugal) via
+a PhD fellowship (PRAXIS BD 13428/97).
+
+References
+Beavan, M.J., Charpentier, C., Rose, A.H., 1982. Production and
+tolerance of ethanol in relation to phospholipid fatty-acyl
+composition in Saccharomyces cerevisiae NCYC 431. J. Gen.
+Microbiol. 128, 447–1455.
+Boulton, R.B., Singleton, V.L., Bisson, L.F., Kunkee, R.E., 1995.
+Yeast and biochemistry of ethanol fermentation. In: Chapman &
+Hall (Ed.), Principles and Practices of Winemaking. The Chapman
+& Hall Enology. Library, New York, pp. 102–181.
+
+Charoenchai, C., Fleet, G.H., Henschke, P.A., 1998. Effects of
+temperature, pH and sugar concentrations on the growth rates
+and cell biomass of wine yeasts. Am. J. Enol. Vitic. 49 (3),
+283–288.
+Chi, Z., Arneborg, N., 2000. Saccharomyces cerevisiae strains
+with different degrees of ethanol tolerance exhibit different
+adaptive responses to produced ethanol. J. Ind. Biotech. 24,
+75–78.
+Cianni, M., Picciotti, G., 1995. The growth kinetics and fermentation
+behavior of some non-Saccharomyces yeasts associated with winemaking process. Biotechnol. Lett. 17 (11), 1247–1250.
+Cocito, C., Delﬁni, C., 1994. Simultaneous determination by GC of
+free and combined fatty acids and sterols in grape musts and yeasts
+as silanized compounds. Food Chem. 50, 297–305.
+Eglinton, J.M., Henschke, P.A., 1991. Yeast sarter cultures: I.
+Physiological basis for fermentative activity. Wine Ind. J. 6 (1),
+43–47.
+Fleet, G.H., 1990. Growth of yeasts during wine fermentations.
+J. Wine Res. 1 (3), 211–223.
+Fleet, G.H., Heard, G.M., 1993. Yeasts-growth during fermentation.
+In: Fleet, G.H. (Ed.), Wine Microbiology and Biotechnology.
+Harwood Academic Publishers, Chur, Switzerland, pp. 27–54.
+Ghareib, M., Youssef, K.A., Khalil, A.A., 1988. Ethanol tolerance of
+Saccharomyces cerevisiae and its relationship to lipid content
+composition. Folia Microbiol. 33, 447–452.
+Gil, J.V., Jim!enez, M.M., Pastor, A., Huerta, T., 1996. Aroma
+compounds in wine as inﬂuenced by apiculate yeasts. J. Food Sci.,
+1 (6), 1247–1249.
+Guti!errez, A.R., Santamaria, P., Epifanio, S., Garijo, P.,
+!
+Lopez,
+R., 1999. Ecology of spontaneous fermentation in
+one winery during 5 consecutive years. Lett. Appl. Microbiol. 29,
+411–415.
+Hansen, H.E., Nissen, P., Sommer, P., Nielsen, J.C., Arneborg, N.,
+2001. The effect of oxygen on the survival of non-Saccharomyces
+yeasts during mixed culture fermentations of grape juice with
+Saccharomyces cerevisiae. J. Appl. Microbiol. 91, 541–547.
+Ingram, L.O., 1986. Microbial tolerance to alcohols: role of the cell
+membrane. Trends Biotechnol. 4 (2), 40–45.
+Ingram, L.O., Buttke, T.M., 1984. Effects of alcohols on microorganisms. Adv. Microb. Physiol. 25, 253–300.
+Larue, F., Lafon-Lafourcade, S., Ribereau-Gayon, P., 1980. Relationship between the sterol content of yeast cells and their
+fermentation activity in grape must. Appl. Env. Microbiol. 39 (4),
+808–811.
+Lema, C., Garcia-Jares, C., Orriols, I., Angulo, L., 1996. Contribution
+of Saccharomyces and non-Saccharomyces populations to the
+production of some components of Albariño wine aroma. Am. J.
+Enol. Vitic. 47 (2), 206–216.
+Martinez, J., Millan, C., Ortega, J.M., 1989. Growth of natural ﬂora
+during the fermentation of inoculated musts from ‘‘Pedro
+Ximenez’’ grapes. S. Afr. J. Enol. Vitic. 10 (2), 31–35.
+Mauricio, J.C., Moreno, J., Zea, L., Ortega, J.M., Medina, M., 1997.
+The effects of grape must fermentation conditions on volatile
+alcohols and esters formed by Saccharomyces cerevisiae. J. Sci.
+Food Agric. 75, 155–160.
+Miles, A.A., Misra, S.S., 1938. The estimation of the bactericidal
+power of blood. J. Hyg. 38, 732–749.
+Mishra, P., Kaur, S., 1991. Lipids as modulators of ethanol tolerance
+in yeast. Appl. Microbiol. Biotechnol. 34, 697–702.
+Mishra, P., Prasad, R., 1989. Relationship between ethanol tolerance
+and fatty acyl composition of Saccharomyces cerevisiae. Appl.
+Microbiol. Biotech. 30, 294–298.
+Morrisey, K., Bisson, L., Boulton, R., Block, D., 1999. The role of
+limting long-chain unsaturated fatty acids in stuck fermentations.
+Oenologie 99. 6e Symposium International d’Oenologie, Bordeaux,
+France, pp. 268–273.
+
+ARTICLE IN PRESS
+C. Pina et al. / Food Microbiology 21 (2004) 439–447
+Pﬁsterer, E., Hancock, I., Garrison, I., 1976. Effects of fermentation
+on yeast lipids synthesis. ASBC J. 35 (2), 49–54.
+Romano, P., Suzzi, G., Comi, G., Zironi, R., Maifreni, M., 1997.
+Glycerol and other fermentation products of apiculate wine yeasts.
+J. Appl. Microbiol. 82, 615–618.
+Sajbidor, J., 1997. Effect of some environmental factors on the content
+and composition of microbial membrane lipids. Critical Rev.
+Biotech. 17 (2), 87–103.
+Steels, E.L., Learmonth, R.P., Watson, K., 1994. Stress tolerance and membrane lipid unsaturation in Saccharomyces
+cerevisiae grown aerobically or anaerobically. Microbiology 140,
+569–576.
+
+447
+
+Strydom, M., Kirschbaum, A.F., Tromp, A., 1982. Ergosterol
+concentration of several different Saccharomyces cerevisiae yeast
+strains. S. Afr. J. Vitic. 3 (1), 23–28.
+Thomas, D.S., Rose, A.H., 1979. Inhibitory effect of ethanol on growth
+and solute accumulation by Saccharomyces cerevisiae as affected by
+plasma-membrane lipid composition. Arch. Microbiol. 122, 49–55.
+Thomas, D.S., Hossack, J.A., Rose, A.H., 1978. Plasma-membrane
+lipid composition and ethanol tolerance in Saccharomyces cerevisiae. Arch. Microbiol. 117, 239–245.
+Walker-Caprioglio, H.M., Casey, W.M., Parks, L.W., 1990. Saccharomyces cerevisiae membrane sterol modiﬁcations in response to growth
+in the presence of ethanol. Appl. Env. Microbiol. 56, 2853–2857.
+
+

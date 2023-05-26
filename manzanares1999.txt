@@ -1,0 +1,861 @@
+International Journal of Food Microbiology 46 (1999) 105–112
+
+Screening of non-Saccharomyces wine yeasts for the production of
+b-D-xylosidase activity
+´ Amparo Querol
+Paloma Manzanares*, Daniel Ramon,
+´
+Departamento de Biotecnologia de Alimentos, Instituto de Agroquımica
+y Tecnologia de Alimentos ( CSIC), P. O. Box 73,
+46100 Burjassot, Valencia, Spain
+Received 20 July 1998; accepted 12 November 1998
+
+Abstract
+Fifty-four yeast strains belonging to the genera Candida, Dekkera, Hanseniaspora, Metschnikowia, Pichia, Rhodotorula,
+Schizosaccharomyces and Zygosaccharomyces, mainly isolated from grapes and wines, were screened for the production of
+b-D-xylosidase activity. b-D-xylosidase activity was only detected in eight yeast strains belonging to the genera
+Hanseniaspora (H. osmophila and H. uvarum) and Pichia (P. anomala). b-D-xylosidase preparations active against
+r-nitrophenyl-b-D-xyloside were characterised with respect to their optimal pH and temperature conditions. H. uvarum
+11105 and 11107 and P. anomala 10320 b-D-xylosidase preparations were active at pH and temperature ranges and at
+concentrations of glucose and ethanol usually found during winemaking processes.  1999 Elsevier Science B.V. All rights
+reserved.
+Keywords: Non-Saccharomyces wine yeasts; b-D-xylosidase activity; Wine
+
+1. Introduction
+The production of extracellular enzymes by yeasts
+has been reviewed by Fleet (1992). Saccharomyces
+cerevisiae, the main wine yeast, is not recognised as
+being a good producer of extracellular enzymes,
+whereas the so-called non-Saccharomyces wine
+yeasts (including genera such as Candida, Debaryomyces, Hanseniaspora, Hansenula, Kloeckera,
+Metschnikowia,
+Pichia,
+Schizosaccharomyces,
+Torulaspora and Zygosaccharomyces) have been
+*Corresponding author. Tel.: 1 34-96-3900022; fax: 1 34-963636301; e-mail: pmanz@iata.csic.es
+0168-1605 / 99 / $ – see front matter
+PII: S0168-1605( 98 )00186-X
+
+described as potential sources for the commercial
+production of enzymes such as proteases, esterases,
+pectinases, lipases and glycosidases for industrial use
+(Vaughn et al., 1969; Ravelomana et al., 1986; Lee et
+al., 1987; Rosi et al., 1994; Besançon et al., 1995;
+Saha and Bothast, 1996; Charoenchai et al., 1997).
+Glycosidases, including b-D-apiosidase, a-Larabinofuranosidase, b-D-glucosidase, a-L-rhamnosidase and b-D-xylosidase activities, have been
+described as being involved in flavour releasing
+processes (for a review see Winterhalter and
+Skouroumounis, 1997). However, many studies have
+only focused on b-D-glucosidase activities because
+of their widespread occurrence in plants, fungi and
+
+ 1999 Elsevier Science B.V. All rights reserved.
+
+106
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+yeasts. Among glycosidases involved in flavour
+releasing processes, b-D-xylosidase is also a component of xylan degrading enzyme complexes which,
+together with b-1,4-xylanases, comprise the main
+enzymes required for the complete degradation of
+xylan, the major hemicellulolytic component of plant
+cell walls and the most abundant natural polysaccharide after cellulose (Biely, 1985). In addition to
+the application of xylanolytic systems for the conversion of xylan to xylose in the wastes of paper-pulp
+industry and agriculture, b-D-xylosidase can be used
+for the bioconversion of D-xylose to ethanol (Visser
+et al., 1992).
+Although b-1,4-xylanases and b-D-xylosidase are
+widely distributed among mycelial fungi and bacteria, information on the production of these enzymes in yeast is very limited. Previous studies have
+focused mainly on the xylan degrading enzymes of
+the yeasts Cryptococcus albidus and C. flavus (Biely
+´ ´ and Biely, 1980; Biely and
+et al., 1980; Kratky
+´
+´ 1984; Yasui et al., 1984; Morosoli et al.,
+Petrakova,
+1986). Induction of the xylan-degrading enzyme
+complex has been studied in Trichosporon cutaneum
+(Hrmova´ et al., 1984), and the purification of b-1,4xylanase and b-D-xylosidase from Pichia stipitis has
+¨
+been reported (Ozcan
+et al., 1991). Moreover, the
+conversion of D-xylose to ethanol by P. stiptis (Lee
+et al., 1986) and Pachysolen tannophilus (Slininger
+et al., 1982) has been described. However, there is a
+lack of information about b-D-xylosidase activity in
+yeasts of oenological origin.
+In the present study we report the screening for
+b-D-xylosidase activity in 54 yeast strains belonging
+to eight genera and mainly isolated from grapes and
+wines. The production, cellular location and optimal
+conditions for activity of b-D-xylosidase preparations are also described. The possibility of using
+yeast b-D-xylosidase to improve the aroma and
+flavour properties of wine is also discussed.
+
+2. Materials and methods
+
+2.1. Yeast strains
+A total of 54 yeast strains belonging to the genera
+Candida, Dekkera, Hanseniaspora, Metschnikowia,
+Pichia, Rhodotorula, Schizosaccharomyces and
+
+Zygosaccharomyces were obtained from the Spanish
+Type Culture Collection (CECT) which were mainly
+isolated from grapes and wines (Table 1).
+
+2.2. Plate screening
+b-D-xylosidase screening was carried out on agar
+plates containing 1.7 g YNB (Yeast Nitrogen Base
+without amino acids and ammonium sulphate,
+Difco), 5 g ammonium sulphate, 5 g xylose and 20 g
+agar per litre. The pH was adjusted to 5.5. 4Methylumbelliferyl-b-D-xyloside (MUX, Sigma)
+was spread onto the surface of the agar plates, yeasts
+were point-inoculated on the agar surface and the
+plates incubated at 258C for 24 h. The hydrolysis of
+MUX by the action of b-D-xylosidase activity
+resulted in the release of 4-methylumbelliferone
+(MU) which can be visualised under UV illumination as fluorescent halos surrounding yeast growth.
+Birchwood xylan (5 g / l, Sigma), glucose (5 g / l)
+and the combination of xylose and glucose (5 and 20
+g / l, respectively) were also used as carbon sources
+for b-D-xylosidase induction experiments.
+
+2.3. Liquid culture conditions for b -D-xylosidase
+production
+Medium containing 1.7 g YNB, 5 g ammonium
+sulphate, 5 g yeast extract, 5 g peptone and 10 g
+xylose per litre was used for b-D-xylosidase production. The pH was adjusted to 5.5 and inoculated
+with 10 6 cells per ml from overnight cultures of
+GPY medium (contains 5 g yeast extract, 5 g
+peptone, 40 g glucose per litre, pH 5.5). Inoculated
+media were incubated at 258C in an orbital shaker at
+200 rpm for 3 days.
+
+2.4. Enzyme activity assays
+b-D-xylosidase activity was measured using rnitrophenyl-b-D-xylopyranoside (pNPX, Sigma) as
+substrate. A 200 ml amount of 6.66 mM pNPX
+dissolved in McIlvaine buffer, pH 5.5, were mixed
+with 100 ml of an appropriate enzyme dilution.
+Incubation was done at 378C and the reaction
+stopped by the addition of 300 ml of 0.25 M sodium
+carbonate solution. The release of r-nitrophenol was
+measured spectrophotometrically at 405 nm. All
+enzymatic measurements were done in duplicate.
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+Table 1
+Yeast species screened for b-D-xylosidase activity
+
+107
+
+Species
+
+Spanish Type Culture
+Collection (CECT)
+number
+
+Isolation source
+
+Candida cantarelli
+Candida cantarelli
+Candida dattila
+Candida dattila
+Candida dattila
+Candida dattila
+Candida domerquiae
+Candida intermedia var. intermedia
+Candida stellata
+Candida stellata
+Candida vinaria
+Candida vini
+Dekkera bruxellensis
+Hanseniaspora guilliermondii
+Hanseniaspora guilliermondii
+Hanseniaspora osmophila
+Hanseniaspora osmophila
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Metschnikowia pulcherrima
+Metschnikowia pulcherrima
+Metschnikowia pulcherrima
+Metschnikowia pulcherrima
+Pichia anomala
+Pichia anomala
+Pichia anomala
+Pichia anomala
+Pichia fermentans
+Pichia membranaefaciens
+Pichia membranaefaciens
+Pichia membranaefaciens
+Pichia membranaefaciens
+Rhodotorula acuta
+Rhodotorula glutinis
+Schizosaccharomyces pombe var. pombe
+Schizosaccharomyces pombe
+Schizosaccharomyces pombe
+Schizosaccharomyces pombe
+Zygosaccharomyces bailii
+Zygosaccharomyces bailii
+Zygosaccharomyces bailii
+Zygosaccharomyces mellis
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+Zygosaccharomyces rouxii
+
+11150
+11170
+10559
+10652
+1962
+10387
+10650
+11154
+11108
+11109
+11177
+10053
+11045
+11027
+11104
+11206
+11207
+1444
+10389
+11105
+11106
+11107
+11156
+11026
+10388
+10408
+10546
+11202
+10320
+10410
+10590
+10591
+10064
+10037
+10113
+10568
+10570
+11175
+10145
+11197
+1375
+1376
+1377
+11040
+11041
+11042
+11149
+1231
+10137
+11136
+11189
+10381
+10425
+10445
+
+Grape must
+Grape must
+White wine
+Unknown
+Grapes
+Grapes
+Unknown
+Grapes
+Wine grape
+Wine
+Grape must
+Red wine
+Bordeaux wine
+Grape must
+Grape juice
+Ripe Riesling grape
+Grapes
+Muscat grape
+Grape juice
+Grape must
+Grape must
+Grape must
+Fruit must
+Sugar cane
+Grapes
+Orange
+White wine
+Concord grapes
+White wine
+White wine
+Grape juice
+Grape juice
+Red wine
+Red wine
+Grapes
+White grapes
+White wine
+Grape must
+Unknown
+Grape juice
+Unknown
+Unknown
+Unknown
+Wine
+Wine
+Grapes
+Wine grape
+Syrup
+Raisin
+Wine grape
+Portuguese white wine
+Sugar cane molasses
+Sugar cane molasses
+Sugar cane molasses
+
+108
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+One unit (U) of enzyme activity was defined as
+the amount of enzyme that released 1 mmol of
+r-nitrophenol per hour at 378C in McIlvaine buffer,
+pH 5.5.
+
+2.5. Cellular location
+The cellular location of b-D-xylosidase was investigated following the protocol described previous´
+ly (Gonzalez-Candelas
+et al., 1995), except for the
+use of McIlvaine buffer, pH 5.5.
+For the determination of extracellular activity the
+culture supernatants of xylose grown cells were used.
+Cell wall bound activity was determined in liquid
+culture media. Cell extracts were assayed for intracellular b-D-xylosidase activity.
+
+2.6. pH and temperature optima
+The pH optima for the b-D-xylosidase preparations were determined by incubating the enzyme
+solutions with pNPX in McIlvaine buffers in the pH
+range 3 to 8. The optimum temperature was determined at the optimum pH by assaying the enzyme
+preparations at different temperatures (30–608C).
+
+2.7. Influence of oenological parameters on b -Dxylosidase activity
+The effect of the oenological parameters glucose
+and ethanol at concentrations ranging from 0 to 1 M
+and from 0 to 15% (v / v), respectively, was investigated.
+
+3. Results
+
+3.1. Plate screening for b -D-xylosidase activity
+The 54 yeast strains were examined for their
+production of b-D-xylosidase activity using D-xylose
+as inducer. b-D-xylosidase activity was detected
+after 24 h of incubation at 258C (Fig. 1) as UV
+fluorescent halos surrounding yeast colonies. Of all
+the yeast strains tested, only the genera Hanseniaspora and Pichia produced b-D-xylosidase activity.
+Of the genus Hanseniaspora, only yeasts belonging
+to the species H. osmophila and H. uvarum showed
+b-D-xylosidase activity. Of the seven strains of H.
+
+Fig. 1. Plate assay for the detection of b-D-xylosidase activity
+using D-xylose as inducer and MUX as substrate. b-D-xylosidase
+activity was visualised as fluorescent halos surrounding yeast
+growth. From left to right, row 1: Pichia anomala 10320,
+Hanseniaspora uvarum 10389, Candida cantarelli 11150, Hanseniaspora uvarum 11107; row 2: Zygosaccharomyces rouxii
+10445, Hanseniaspora uvarum 11105, Hanseniaspora uvarum
+11106, Hanseniaspora uvarum 11156; row 3: Hanseniaspora
+guilliermondii 11027, Metschnikowia pulcherrima 10546, Pichia
+anomala 10590, Pichia membranaefaciens 10570.
+
+uvarum tested, four strains produced the enzyme
+(10389, 11105, 11106, and 11107), whereas both
+strains of H. osmophila produced the activity. None
+of the two strains of H. guilliermondii produced
+b-D-xylosidase. In the genus Pichia, strains of the
+species P. anomala, P. fermentans and P. membranaefaciens were tested and only two strains
+belonging to P. anomala (10320 and 10590) showed
+b-D-xylosidase activity. These eight b-D-xylosidaseproducing strains were used for further work.
+Birchwood xylan, glucose, and glucose in combination with xylose were tested as inducers or repressors of b-D-xylosidase activity. Xylan was able
+to induce b-D-xylosidase activity in the eight yeast
+strains. After 24 h of plate growth, clear halos were
+visible around the two P. anomala and two H.
+osmophila strains. After 72 h, b-D-xylosidase activity could also be detected in the H. uvarum strains.
+Similar behaviour was observed when glucose at
+0.5% (w / v) was used. Although yeast growth on
+plates was better in the presence of glucose compared to xylose or xylan, fainter halos were observed. Using combinations of 2% (w / v) glucose
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+109
+
+Table 2
+Effect of different carbon sources on the induction of b-D-xylosidase activity in the eight selected yeast strains
+Strain
+
+Pichia anomala 10320
+Pichia anomala 10590
+Hanseniaspora uvarum 10389
+Hanseniaspora uvarum 11105
+Hanseniaspora uvarum 11106
+Hanseniaspora uvarum 11107
+Hanseniaspora osmophila 11206
+Hanseniaspora osmophila 11207
+
+Carbon source a
+Xylose
+
+Xylan
+
+Glucose
+
+Xylose / glucose
+
+24 h
+
+24 h
+
+48 h
+
+24 h
+
+48 h
+
+24 h
+
+48 h
+
+11
+11
+1
+1
+1
+1
+1
+1
+
+1
+1
+2
+2
+2
+2
+1
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+2
+2
+2
+2
+1
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+1
+2
+2
+2
+2
+1
+1
+
+1
+1
+2
+2
+2
+2
+1
+1
+
+a
+
+Xylose, xylan and glucose at 5 g / l. When combined, xylose and glucose were used at 5 and 20 g / l, respectively.
+Positive result: 1 , moderate fluorescent halo surrounding yeast growth; 1 1 , strong fluorescent halo surrounding yeast growth.
+Negative result: 2 .
+
+with 0.5% (w / v) xylose resulted in a lack of enzyme
+production at 24 h; after 72 h only H. osmophila and
+P. anomala strains showed b-D-xylosidase activity.
+A summary of the b-D-xylosidase activity plate
+screening data is presented in Table 2.
+
+3.2. Production and cellular location
+The eight strains noted above were used to study
+b-D-xylosidase production and also its cellular location. After 72 h of incubation at 258C, b-D-xylosidase activity was measured in culture supernatants
+(extracellular activity), whole culture aliquots (extracellular plus cell wall bound activities) and cell
+free extracts (intracellular activity). In Table 3 the
+
+b-D-xylosidase activities measured as well as the
+percentages of extracellular, cell wall bound and
+intracellular activities with respect to the total are
+shown.
+P. anomala 10590 yielded the highest level of
+b-D-xylosidase production (total activity), followed
+by P. anomala 10320, the two H. osmophila strains
+11206 and 11207, and finally H. uvarum 11107. The
+remaining strains produced significantly lower
+amounts of enzyme. P. anomala 10590 also showed
+the highest percentage of extracellular b-D-xylosidase activity whereas H. uvarum 10389 only produced
+cell wall bound b-D-xylosidase. Whilst neither of the
+H. osmophila strains produced any extracellular
+activity, more than 70% of the total activity produced by each was located intracellularly.
+
+Table 3
+b-D-xylosidase production and cellular location in the eight selected yeast strains after 72 h incubation at 258C
+Strain
+
+Pichia anomala 10320
+Pichia anomala 10590
+Hanseniaspora uvarum 10389
+Hanseniaspora uvarum 11105
+Hanseniaspora uvarum 11106
+Hanseniaspora uvarum 11107
+Hanseniaspora osmophila 11206
+Hanseniaspora osmophila 11207
+a
+
+% activity
+Total activity
+(mU / ml)a
+
+Extracellular
+
+Cell wall
+
+Intracellular
+
+118.6
+242.1
+16.5
+17.0
+32.1
+92.3
+99.8
+102.8
+
+20.7
+84.3
+0
+54.7
+28.0
+12.1
+0
+0
+
+72.3
+7.6
+100
+45.3
+67.0
+81.1
+27.7
+26.6
+
+7.1
+8.1
+0
+0
+5
+6.7
+72.3
+73.4
+
+U 5 the amount of enzyme releasing 1 mmol of r-nitrophenol per hour at 378C.
+
+110
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+3.3. pH and temperature optima of b -D-xylosidase
+preparations
+3.3.1. Effect of pH on activity
+The influence of pH on the b-D-xylosidase activities of the eight selected strains was studied in the
+pH interval 3 to 8. The pH optima of the enzymatic
+preparations of P. anomala strains 10320 and 10590
+were found to be 6.5–7 and 7–7.5, respectively, for
+H. uvarum strains 10389 and 11106 and H. osmophila strains 11206 and 11207, an optimal pH of
+7–7.5 was found, whereas a lower optimum, 4.5–5,
+was found for b-D-xylosidase preparations from H.
+uvarum 11105 and 11107 (results not shown). At pH
+3–3.8, the usual pH range found in winemaking,
+only three strains showed b-D-xylosidase activity. P.
+anomala 10320 maintained 30% of its maximum
+activity whereas H. uvarum 11105 and 11107 maintained approximately 70 and 80% of their maximum
+activities, respectively. For this reason, these strains
+were selected to study the influence of oenological
+parameters on b-D-xylosidase activity.
+3.3.2. Effect of temperature on activity
+The optimal temperature for the eight enzymatic
+preparations was determined in the range 30 to 608C.
+The optimal value in the case of P. anomala strains
+10320 and 10590 was found to be 40–458C, a
+similar optimal temperature of 458C was found for
+the enzymatic preparations from H. uvarum 10389
+and 11106, whereas a lower temperature range, 35–
+378C, was found for H. uvarum 11105 and 11107
+preparations and finally, 508C was the optimal
+temperature found for the b-D-xylosidase activities
+of both H. osmophila strains (results not shown).
+The activity of the three strains active at pH 3–3.8
+was also tested at 258C, a temperature value within
+the range (20–308C) usually encountered in
+winemaking. P. anomala 10320 b-D-xylosidase
+yielded approximately 5% of its maximum activity
+whereas H. uvarum 11105 and 11107 strains maintained 85 and 59% of their maximum activities,
+respectively (results not shown).
+3.4. Effects of oenological parameters
+In view of the potential application of b-Dxylosidase activity for wine flavour enhancement, the
+
+influence of glucose and ethanol at concentrations
+that normally occur in musts during winemaking was
+investigated.
+Glucose at concentrations up to 1 M, a level
+usually found in unfermented grape juice, reduced
+the activity of H. uvarum 11105 b-D-xylosidase by
+10%, whereas reductions of 16 and 19% were found
+for the P. anomala 10320 and H. uvarum 11107
+activities, respectively (results not shown). Ethanol
+concentrations up to 10% (v / v) did not affect b-Dxylosidase activity in any of the three strains and
+ethanol at 15% (v / v) was found to be an activator of
+P. anomala 10320 b-D-xylosidase activity, yielding
+an increase of 55% with respect to the original
+activity (results not shown). For H. uvarum 11105
+and 11107, inhibitions of 41 and 26%, respectively
+were found.
+
+4. Discussion
+Although b-D-xylosidases have been described as
+being involved in flavour releasing processes there
+are no data available about the potential of these
+enzymes to improve the aroma and flavour properties
+of wine. Despite it being well known that nonSaccharomyces yeasts can grow during the early
+stages of juice preparation and wine fermentation in
+conditions of high levels of glucose and low pH
+values and that they are good producers of extracellular enzymes, there is a lack of information about
+b-D-xylosidase activity in yeasts of oenological
+origin. In our work, eight yeast strains belonging to
+the genera Hanseniaspora and Pichia have been
+selected from a general screening of 54 oenological
+yeast strains to determine whether they may be a
+useful source of b-D-xylosidase activity with the
+potential for beneficial use during winemaking processes. Results from the screening for b-D-xylosidase production suggest that this activity is quite rare
+in yeasts of oenological origin and is generally
+restricted to the genera Hanseniaspora and Pichia.
+Within these two genera, only species corresponding
+to H. osmophila, H. uvarum and P. anomala showed
+b-D-xylosidase activity. The genera Cryptococcus
+and Pichia have been described previously as being
+able to hydrolyse xylan (Lee et al., 1986) but there
+are no data concerning the genus Hanseniaspora. As
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+suggested by Lee et al. (1986) for the ability of
+yeasts to hydrolyse xylan, the occurrence of b-Dxylosidase activity may be of value for taxonomic
+purposes.
+Low levels of b-D-xylosidase activity were found
+in our strains, ranging from 16.5 to 242.1 mU / ml
+(total b-D-xylosidase activity). The production of
+reduced amounts of b-D-xylosidase is a common
+feature already described for xylan degrading yeasts
+(Biely et al., 1980; Hrmova´ et al., 1984). For Pichia
+stipitis, b-D-xylosidase activities found in the culture
+supernatants of 3-day xylose- and xylan-grown cells
+¨
+were 25 and 29 mU / ml / h, respectively (Ozcan
+et al.,
+1991), in good agreement with our data for extracellular b-D-xylosidase.
+In plate assays the b-D-xylosidase activity of the
+eight selected strains was found to be induced by
+xylose and xylan, whereas lower levels of b-Dxylosidase activity were found in the presence of
+glucose. When glucose was present at 2% (w / v), no
+activity could be detected in the four strains of H.
+uvarum even after 72 h of incubation. These results
+suggest that b-D-xylosidase is not produced constitutively in these strains and that its synthesis is under
+carbon catabolite repression. Similar results were
+described for both the b-xylanase and b-D-xylosidase of Cryptococcus albidus (Biely et al., 1980). By
+contrast, P. stipitis b-D-xylosidase is synthesised
+¨
+constitutively to a considerable degree (Ozcan
+et al.,
+1991).
+With respect to the location of the enzyme activity, it was found to be different between the genera
+and also within the genus Hanseniaspora. Both P.
+anomala strains have extracellular, cell wall bound
+and intracellular b-D-xylosidase activities. P.
+anomala 10320 showed mainly cell wall bound
+activity whereas in P. anomala 10590 the enzyme
+was mainly extracellular. H. uvarum strains showed
+the lowest levels of b-D-xylosidase production, the
+majority of which was cell wall bound. In the case of
+H. uvarum 10389 the only activity produced was cell
+wall associated. High intracellular b-D-xylosidase
+activity ( . 70% of the total) was found in the two
+strains of H. osmophila and no extracellular activity
+could be detected. In Trichosporom cutaneum, b-Dxylosidase activity could be detected extracellularly
+and cell wall associated but most was located in the
+cell interior (Hrmova´ et al., 1984). In P. stipitis, 60%
+
+111
+
+of total activity was found in the culture supernatant,
+22% in supernatant plus intact cells and 18% in
+¨
+crude cellular extracts (Ozcan
+et al., 1991).
+No data about optimal temperature values for
+yeast b-D-xylosidases could be found in the literature. In this study, similar optimum temperature
+ranges were observed for P. anomala strains (40–
+458C), H. uvarum 10389 and 11106 (458C), and a
+slightly higher optimum (508C) for H. osmophila. H.
+uvarum strains 11105 and 11107 exhibited a lower
+optimal temperature range (35–378C).
+Except for H. uvarum strains 11105 and 11107
+which showed an acidic optimum pH range (4.5–5),
+neutral pH optima in the range 6.5–7.5 were found
+for the other six yeast b-D-xylosidases. Only in the
+case of C. albidus b-D-xylosidase have pH studies
+been described, the protein exhibiting maximum
+hydrolytic activity at pH 5.4 (Biely et al., 1980).
+Nevertheless in the pH range (3–3.8) usually found
+in winemaking, P. anomala 10320 b-D-xylosidase
+activity was 30% of its maximum value, and the H.
+uvarum 11105 and 11107 activities maintained 70
+and 80% maximum activity, respectively. With respect to the usual range of temperature (20–308C) in
+winemaking, both H. uvarum strains 11105 and
+11107 maintained their activity (85 and 59%, respectively) whereas P. anomala 10320 b-D-xylosidase
+only showed 5% of its maximum activity. Moreover,
+in the usual ranges of ethanol and glucose concentrations during winemaking b-D-xylosidase activity could be detected in the three b-D-xylosidase
+preparations. All maintained more than 80% of their
+maximum activity in 1 M glucose, whereas 15%
+ethanol (v / v) increased P. anomala 10320 b-Dxylosidase activity and decreased the H. uvarum
+11105 and 11107 activities by 40 and 25%, respectively.
+This study has revealed the potential of certain
+oenological yeasts to produce b-D-xylosidase activity. Moreover b-D-xylosidase preparations from the
+P. anomala 10320 and H. uvarum 11105 and 11107
+strains maintained their activities at pH and temperature values and at concentrations of glucose and
+ethanol typically found during winemaking processes, thus potentially allowing their application for
+the improvement of the aroma and flavour properties
+of wine. Considering the effects of the oenological
+parameters on the b-D-xylosidase activities, our
+
+112
+
+P. Manzanares et al. / International Journal of Food Microbiology 46 (1999) 105 – 112
+
+research is now focused on improving b-D-xylosidase production as well as the purification of the H.
+uvarum 11105 and 11107 enzymes.
+
+Acknowledgements
+This work was supported by projects ALI96-0431
+´ Interministerial
+and ALI97-0361 from the Comision
+de Ciencia y Tecnologia (CICYT) of the Spanish
+Government. P. Manzanares is the recipient of a
+Postdoctoral Contract from the Ministerio de
+´ y Ciencia. Thanks are due to A.P. MacEducacion
+Cabe for critical reading of the manuscript.
+
+References
+Besançon, X., Ratomahenina, R., Galzy, P., 1995. Isolation and
+partial characterization of an esterase (EC 3.1.1.1) from a
+Debaryomyces hansenii strain. Neth. Milk Dairy J. 49, 97–
+110.
+Biely, P., 1985. Microbial xylanolytic systems. Trends Biotechnol.
+3, 286–290.
+ˇ
+´ M., Kratky,
+´ ´ Z., 1980. Xylan-degrading enzymes
+Biely, P., Vrsanka,
+of the yeast Cryptococcus albidus. Identification and cellular
+localization. Eur. J. Biochem. 108, 313–321.
+´
+´ E., 1984. Novel inducers of the xylanBiely, P., Petrakova,
+degrading enzyme system of Cryptococcus albidus. J. Bacteriol. 160, 408–412.
+Charoenchai, C., Fleet, G.H., Henschke, P.A., Todd, B.E.N., 1997.
+Screening of non-Saccharomyces yeasts for the presence of
+extracellular hydrolytic enzymes. Aust. J. Grape Wine Res. 3,
+2–8.
+Fleet, G.H., 1992. Spoilage yeasts. CRC Crit. Rev. Biotechnol. 12,
+1–44.
+´
+´ D., 1995. ConstrucGonzalez-Candelas,
+L., Cortell, A., Ramon,
+tion of a recombinant wine yeast strain expressing a fungal
+pectate lyase gene. FEMS Microbiol. Lett. 126, 263–270.
+´ M., Biely, P., Vrsanska,
+ˇ
+´ M., Petrakova,
+´
+´ E., 1984. InducHrmova,
+tion of cellulose- and xylan-degrading enzyme complex in the
+yeast Trichosporon cutaneum. Arch. Microbiol. 138, 371–376.
+
+´ ´ Z., Biely, P., 1980. Inducible b-xylosidase permease as a
+Kratky,
+constituent of the xylan-degrading enzyme system of the yeast
+Cryptococcus albidus. Eur. J. Biochem. 112, 367–373.
+Lee, H., Biely, P., Latta, R.K., Barbosa, M.F.S., Schneider, H.,
+1986. Utilization of xylan by yeasts and its conversion to
+ethanol by Pichia stipitis strains. Appl. Environ. Microbiol.
+52, 320–324.
+Lee, H., To, R.J.B., Latta, R.K., Biely, P., Schneider, H., 1987.
+Some properties of extracellular acetylxylan esterase produced
+by the yeast Rhodotorula mucilaginosa. Appl. Environ. Microbiol. 53, 2831–2834.
+Morosoli, R., Roy, C., Yaguchi, M., 1986. Isolation and partial
+primary sequence of a xylanase from the yeast Cryptococcus
+albidus. Biochem. Biophys. Acta 870, 473–478.
+Özcan, S., Kotter, P., Ciriacy, M., 1991. Xylan-hydrolysing
+enzymes of the yeast Pichia stipitis. Appl. Microbiol. Biotechnol. 36, 190–195.
+Ravelomana, T., Guiraud, J.P., Galzy, P., 1986. Isolation of a
+pectin-utilizing yeast from coco beans. Syst. Appl. Microbiol.
+8, 230–233.
+Rosi, I., Vinella, M., Domizio, P., 1994. Characterization of
+b-glucosidase activity in yeasts of oenological origin. J. Appl.
+Bacteriol. 77, 519–527.
+Saha, B.C., Bothast, R.J., 1996. Glucose tolerant and thermophilic
+b-glucosidases from yeasts. Biotech. Lett. 18, 155–158.
+Slininger, P.J., Bothast, R.J., Van Cauwenberge, J.E., Kurtzman,
+C.P., 1982. Conversion of D-xylose to ethanol by the yeast
+Pachysolen tannophilus. Biotechnol. Bioeng. 24, 371–384.
+Vaughn, R.H., Jakubczyk, T., Macmillan, J.D., Higgins, T.E.,
+Dave, B.A., Crampton, V.M., 1969. Some pink yeasts associated with softening of olives. Appl. Microbiol. 18, 771–775.
+Winterhalter, P., Skouroumounis, G.K., 1997. Glycoconjugated
+aroma compounds: occurrence, role and biotechnological
+transformation. In: Scheper, T. (Ed.), Biotechnology of Aroma
+Compounds. Advances in Biochemical Engineering Biotechnology, 55. Springer-Verlag, Berlin, Heidelberg, pp. 73–105.
+Visser, J., Beldman, G., Kusters van Someren, M.A., Voragen,
+A.G.J., 1992. Xylans and Xylanases. Progress in Biotechnology, 7. Elsevier, Amsterdam, p. 576.
+Yasui, T., Nguyen, B.T., Nakanishi, K., 1984. Inducers for
+xylanase production by Cryptococcus flavus. J. Ferment.
+Technol. 62, 353–359.
+
+

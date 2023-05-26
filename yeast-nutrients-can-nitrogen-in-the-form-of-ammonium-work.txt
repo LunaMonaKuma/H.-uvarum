@@ -1,0 +1,978 @@
+APPLICATION REPORT
+
+Yeast nutrients
+
+Can nitrogen in the form of ammonium work?
+Requirements of
+modern oenology
+
+Author:
+Dr. Ilona Schneider, enologist,
+Team Leader for Product
+Management, Beverage
+Treatment and R&D,
+Eaton Technologies GmbH,
+Langenlonsheim, Germany
+IlonaSchneider@eaton.com
+
+Vines and other higher plants
+absorb inorganic nitrogen from
+the soil primarily as nitrate.
+This nitrate can be absorbed
+as fertilizer, for example in the
+form of ammonium nitrate or
+potassium nitrate. Organic
+nitrogen such as from humus,
+dead plant fragments, and
+organic fertilizer are also
+initially converted by bacteria
+to nitrate via an intermediate
+ammonium stage and then
+absorbed by the vine roots.
+Theoretically, ammonium –
+from ammonium-containing
+fertilizer or from decomposing
+organic matter – can be
+absorbed directly. However, in
+practice, it oxidizes (nitrifies) in
+the ground before it is
+absorbed. The vine forms
+amino acids from the nitrate.
+Some of these amino acids
+exist in free form in the plant;
+some are linked to form
+shorter or longer chains.
+Shorter chains are called
+peptides; longer chains are
+proteins that include all
+enzymes. In must, the amino
+
+acid content is higher than the
+protein content. Nitrate is only
+present in low concentrations
+of a few milligrams per liter
+(mg/l).
+Some of the nitrogen in the
+must is present in the form of
+protein, some in the form of
+protein decomposition
+products such as peptides,
+amino acids or in the form of
+ammonium. During ripening of
+the grapes, the nitrogen
+content increases continuously, so that concentrations
+of 1 gram per liter (g/l) can be
+reached in the must. In rare
+cases, the concentration drops
+again slightly once a maximum
+value has been reached. Of
+great importance is the amino
+acid proline, since it cannot be
+metabolized by the yeast
+during alcoholic fermentation.
+The quantitative increase in
+proline depends on the grape
+variety. This applies in particular to grape ripening in
+warmer vintages and climates.
+Interestingly, the ammonium
+content continuously
+decreases during the ripening
+phase, while at the same time
+the amino acid content
+(peptides and proteins)
+increases [1].
+
+Nitrogen compounds in
+must and their effect on
+alcoholic fermentation
+At the beginning of the alcoholic fermentation, the yeast
+predominately absorbs
+ammonium. This inhibits the
+absorption of amino acids [1,2,6].
+Once the ammonium has been
+used up after approximately 20
+to 30 hours of fermentation,
+the yeast cells absorb alphaamino acids and metabolize
+them during the ongoing alcoholic fermentation. Since
+proline is a secondary amino
+acid, the yeast cells can
+neither absorb it nor utilize it.
+The key parameter for yeast
+development and fermentation
+is therefore not the total
+nitrogen content, but the
+proportion that can be utilized
+by the yeast cells. Various
+terms and abbreviations are
+used in the literature [1.2] for the
+proportion of nitrogen that can
+be utilized by the yeast.
+Particularly noteworthy are the
+terms YAN (yeast assimilable
+nitrogen) and APA (azeto prontalmente assimilablile). Put
+simply: It is the sum of
+ammonium and alpha-amino
+acids minus proline and
+hydroxyproline. Other unusable
+substances are peptides with
+
+Application Report: Yeast, Nitrogen & Ammonium
+
+high molecular weight,
+proteins, and biogenic amines.
+The ratio of utilizable and nonutilizable nitrogen depends on
+ratio of arginine and proline,
+which are the most common
+amino acids in grapes. For any
+given total amino acid content
+the ratio between the two
+amino acids can vary to such
+an extent that a sufficient YAN
+supply must be available
+(higher concentration of
+arginine than proline), while
+another may have insufficient
+YAN supply (higher concentration of proline than arginine) [9].
+To ensure trouble-free fermentation, a YAN ratio of 120 to
+140 mg/l is required [1]. In order
+to prevent the undesirable
+development of undersupplied
+musts during fermentation,
+legislation has approved the
+application of certain yeast
+nutrients. These include
+thiamine (vitamin B1), yeast
+cell walls, and ammonium in
+the form of diammonium
+hydrogen phosphate (DAP) or
+ammonium sulphate (DAS).
+Primarily the addition of
+ammonium increases the
+number of yeast cells and the
+fermentation speed. This
+shortens the fermentation
+time and makes successful
+and full alcoholic fermentation
+more likely without delayed
+fermentation.
+
+How do the yeast
+nutrients (nitrogen) reach
+the yeast cells?
+Three transport mechanisms
+are known for substance
+absorption in yeast cells:
+diffusion, simple diffusion,
+and active transport.
+During diffusion, substance
+transport takes place without
+energy consumption through a
+concentration gradient. The
+substance diffuses from the
+higher concentration to the
+lower concentration until it
+reaches complete equalization.
+CO2 transport from the cell
+most likely occurs through
+diffusion.
+Simple diffusion is based on
+the same principle and is additionally supported by a protein
+structure. Sucrose, a must
+sugar, is transported into the
+yeast cell via this route. The
+
+sucrose is first hydrolyzed in
+the outer cell wall through the
+protein structure of the cell and
+then transported into the cell in
+the form of the monosaccharides glucose and fructose.
+Since the only substance
+absorption mechanism during
+diffusion and simple diffusion is
+the concentration gradient, the
+yeast cell absorbs no
+substances by any other
+means. For sugar absorption,
+for example, this means that
+the sucrose is split and transported into the yeast cell [2.4].
+Active transport is based on
+the transport protein permease
+(P) in the yeast cell membrane
+and requires energy, which is
+supplied by adenosine triphosphate (ATP), the cell’s energy
+source. Through active transport, a substance can be
+concentrated in the yeast cell
+against the concentration
+gradient. Most nitrogen
+compounds reach the yeast
+cell via active transport. As a
+result, the nitrogen content
+within the yeast cell is higher
+than outside the cell.
+The general amino acid transporter system GAP (general
+amino acid permease) is an
+example for active transport of
+a number of amino acids. The
+yeast cell has other amino
+acid-specific transporter
+systems, which are coupled to
+proton intake. In other words,
+an amino acid molecule enters
+the yeast cell together with a
+proton (H+). The proton intake
+causes an intracellular problem
+since it disturbs the balance
+between the pH of the must
+and the cell.
+The difference between the
+must pH the yeast cell pH is
+about three units. In other
+words, the H+ concentration in
+the must is 1000 times higher
+than in the cytoplasm inside
+the cell[4]. If an H+ ion is now
+imported, the pH inside the
+cell is reduced. To avoid acidification, the cell has to dispose
+of the protons. This proton
+export is handled by the
+enzyme adenosine triphosphatase (ATPase), which serves as
+a hydrogen ion pump and
+releases energy in the process
+(see Fig. 1).
+
+Fig. 1: Intake of amino acids/ammonium in the yeast cell at a low
+alcohol concentration (low H+ concentration)
+The further the alcoholic fermentation progresses, i.e. the more
+alcohol is formed, the less ammonium and amino acids the yeast
+cell can absorb. The cell membrane becomes more and more
+permeable with the increase in alcohol content and allows high
+intake of H+ ions in the cell. To prevent overloading of the H+ ion
+exchange, the yeast cell protects itself by blocking the H+ ion
+import and therefore the intake of ammonium and amino acids.
+This mechanism explains why alcohol formation limits the
+nitrogen absorption (see Fig. 2). It also explains why nitrogen
+addition at the start of the alcoholic fermentation is more effective than addition at a later stage. In addition, it demonstrates
+that during active transport the intake of amino acids is highest
+at the beginning of the alcoholic fermentation. The amino acids
+can be concentrated in the yeast cell and metabolized later [5.6].
+
+Fig. 2: Intake of amino acids/ammonium in the yeast cell at high
+alcohol concentration (high H+ concentration)
+
+Inhibition of amino acid absorption through
+ammonium
+The yeast cell absorbs amino acids through various membrane
+proteins (transporter systems); a distinction is made between
+two main routes.
+One route is transport through general permease (GAP), which
+absorbs amino acids in an unspecific manner [4.5]. It is inhibited
+
+Application Report: Yeast, Nitrogen & Ammonium
+
+Product
+examples
+
+Composition
+
+The new classification of yeast-based nutrients provides further information
+about their composition:
+Inactive yeasts
+(OIV/Oeno 459/2013)
+
+Yeast cell walls/yeast
+rind preparation
+(OIV/Oeno 497/2013)
+
+Yeast autolysate
+(OIV/Oeno 496/2013)
+
+Mannoproteins from
+yeast extract
+(OIV/Oeno 26/2004)
+
+Total N content:
+< 10% dry matter
+
+Dry matter:
+≥ 94% m/m
+
+Total N content:
+< 12 % dry matter
+
+Total N content:
+5 – 75 g/kg
+
+Ammonium N content:
+< 0.5% dry matter
+
+Carbohydrates:
+> 40% m/m
+
+Ammonium N content:
+< 0.5% dry matter
+
+Rotary capacity:
+[α]D20 °C of the mannoproteins
+80° and 150°
+
+Amino acids + small peptides
+< 10% dry matter
+
+Total glucan and mannan
+content: > 60% total
+carbohydrate content
+Solubility: < 10% m/v
+
+Amino acids:
+1.9 – 3.7% dry matter
+
+SIHA® PROFERM® Fit
+
+SIHA PROFERM Bio
+
+SIHA PROFERM Plus
+
+SIHA PROFERM Red
+
+SIHA PROFERM Plus
+
+SIHA PROFERM Fit
+
+SIHA SpeedFerm®
+
+Table 1: Classification of yeast-based nutrients according to OIV resolutions
+
+by ammonium [5]. GAP therefore only becomes active after
+a third of the alcoholic fermentation, once the must contains
+no more free ammonium.
+The other amino acid absorption route is via a number of
+specific permeases [4.5]. Each
+permease can transport a
+certain type of amino acid or
+group of amino acids.
+Ammonium cannot inhibit
+these specific permeases.
+They enable the yeast cell to
+absorb amino acids from the
+must during the latent phase
+at the beginning of fermentation. Since arginine has the
+highest percentage share of
+all amino acids in the must [7.8],
+the intake of this amino acid
+is highest. The intake of the
+majority of amino acids is
+complete when the first 30 g/l
+of must sugar have been
+metabolized during the alcoholic fermentation. Within this
+narrow timeframe, the yeast
+cell absorbs amino acids,
+provided energy is available,
+but the alcohol content is still
+low. It stores them in the
+vacuole and only metabolizes
+them when they are needed [3].
+Overall, the yeast metabolizes
+1 to 2 g/l of amino acids [7.8].
+
+Why is nitrogen
+absorption important for
+the yeast cell?
+The yeast can utilize
+ammonium and free amino
+acids for multiplication and
+metabolism processes. Not all
+amino acids are equally beneficial for the yeast cell. The most
+important by far is arginine.
+Arginine provides up to twothirds of the YAN originating
+from amino acids. An arginine
+molecule contains no fewer
+than four utilizable nitrogen
+atoms; most other amino acids
+contain only one.
+
+Which yeast nutrients are
+approved?
+Details of the oenological
+processes and treatment
+agents approved in the EU are
+specified in Regulation (EC)
+no. 606/2009 of 1 August
+2009, which can be accessed
+free of charge under
+http://eur-lex.europa.eu.
+The following yeast
+nutrients are permitted:
+Diammonium phosphate
+(DAP), ammonium disulphate
+(DAS) or a combination of both
+salts up to a limit of 1 g/l (100
+g/hl). During sparkling wine
+production up to 0.3 g/l
+(30 g/hl) of DAP or DAS may
+be added for the second
+fermentation, even if they
+were already added to the
+must. Ammonium bisulfite is
+also permitted up to a limit of
+0.2 g/l (20 g/hl), thiamine
+
+(vitamin B1) up to a maximum
+of 0.6 mg/l (60 mg/hl), and
+yeast rind preparation up to
+0.4 g/l (40 g/hl).
+
+What happens in
+practice?
+All yeast nutrients are used,
+whereas ammonium
+compounds in the form of DAP
+as a single nutrient are more
+common. Mixtures of DAP and
+DAS and/or vitamin B1
+(thiamine) can additionally be
+used as combination
+compounds, or mixtures of the
+previously mentioned nutrients
+and yeast-based nutrients (see
+Table 1).
+The maximum quantity of 1 g/l
+of DAP delivers 212 mg/l of
+ammonium. Strictly adhere to
+the mixing ratio for mixture
+preparations comprised of
+DAP, DAS, and thiamine. In
+some instances, the permitted
+quantity of 0.6 mg/l (60 mg/hl)
+of thiamine may be reached by
+adding as little as 0.5 g/l of a
+mixed compound. Add additional ammonium as a single
+nutrient (DAP, DAS) to enrich
+the must to the upper limit of
+100 grams per hectoliter (g/hl).
+Adding thiamine is sensible
+mainly for musts from grapes
+affected by botrytis since the
+botrytis fungus will have used
+up most of the vitamin B1
+contained in the grapes for its
+metabolism.
+Another option is to use
+ammonium bisulfite. In this
+
+case, the must is enriched
+with ammonium and sulphurated. Regardless of whether
+liquid sulfur dioxide (SO2),
+potassium disulphite (K2S2O5),
+or ammonium bisulfite (NH4)
+HSO3 is used for the sulfurization, the must will subsequently primarily contain
+hydrogen sulfite or bisulfite,
+due to its modified pH. The
+maximum dosage (according
+to the relevant EU Regulation)
+of 0.2 g/l of ammonium bisulfite is equal to a dosage of 129
+mg/l of SO2. This includes 28
+mg/l of ammonium, which
+equals an equivalent DAP
+dosage of approximately
+13 g/hl. This indicates that
+ammonium bisulfite is not
+effective as the sole yeast
+nutrient. It should also be
+noted that alcoholic fermentation is inhibited by adding 0.2
+g/l of ammonium bisulfite and
+100 mg/l of SO2.
+The addition of yeast-based
+nutrients such as an inactive
+yeast product, yeast cell wall,
+or yeast autolysate means that
+complex nutrition covers the
+YAN range of amino acids,
+minerals, lipids, and sterols.
+Depending on the selected
+product, the yeast cell is
+supplied with a complex, wide
+range of nutrients. In contrast
+to DAP/DAS nutrients, yeastbased nutrients can be
+expected to result in an
+improved aroma formation
+(amino acid → higher alcohols)
+and an increased formation of
+fruit esters.
+
+How much yeast nutrient
+(nitrogen) does the yeast
+cell actually need for
+alcoholic fermentation?
+Based on the assumption that
+a yeast cell weighs ≈ 10-10 g
+and that ≈ 25% of dry matter
+with ≈ 8% of nitrogen (N) are
+available during the fermentation, yeast contains 2*10-9 mg
+nitrogen per cell. During
+optimum and well-supplied
+alcoholic fermentation, up to
+60 million cells/ml can be
+formed. This equals
+60,000,000 cells*(2*10-9 mg/l
+of N) = 120 mg/l of N. In other
+words, optimum supply of 60
+million cells/ml requires 120
+mg/l of nitrogen (12 g/hl).
+
+Application Report: Yeast, Nitrogen & Ammonium
+
+Results encountered in
+practice
+In practice, it is rare to add a
+single DAP dosage of 100 g/hl
+at the beginning of the alcoholic fermentation; it’s typically
+added progressively. One
+option is to halve the quantity
+and add DAP dosages of
+50 g/hl on the first and third
+day of fermentation. Another
+option is to add DAP dosages
+in three stages of 33 g/hl each
+on the first, third, and fifth day
+of fermentation (see Fig. 3).
+The ammonium reduction in
+Figure 3 indicates ammonium
+that is added later is no longer
+metabolized, particularly if DAP
+
+400
+350
+
+340
+
+Ammonium [mg/l]
+
+300
+250
+200
+
+230
+
+208
+
+100
+
+0
+
+220
+
+185
+
+165
+
+145
+
+150
+
+50
+
+160
+120
+
+120
+
+83
+50
+
+36
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+0
+
+Days of fermentation [d]
+Without additive
+100 g/hl DAP
+50 g/hl DAP and after 2 days
+33 g/hl DAP and after 2 days and after 5 days
+100 g/hl DAP after 2 days
+
+Fig. 3: Decrease of ammonium during alcoholic fermentation – grape variety Pinot Blanc
+120
+
+Sugar content of the must [°Oe]
+
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+
+21
+
+10
+
+11
+7
+-2
+-7
+
+0
+-10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+8
+Days of fermentation [d]
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Sugar content of the must [°Oe] Without additive
+Sugar content of the must [°Oe] 100 g/hl DAP
+Sugar content of the must [°Oe] 50 g/hl DAP and after 2 days
+Sugar content of the must [°Oe] 33 g/hl DAP and after 2 days and after 5 days
+Sugar content of the must [°Oe] 100 g/hl DAP after 2 days
+
+Fig. 4: Decrease of sugar content of the must during alcoholic fermentation – grape variety
+Pinot Blanc
+Total of alpha amino acids without proline [mg/l]
+
+The calculation should also
+take into account that grape
+must contains nitrogen
+compounds with a concentration of about 1 g/l. This equals
+an average ammonium
+concentration of 80 to 150
+mg/l. Adding DAP/DAS nutrients such as 100 g/hl of DAP
+(comprised of about 50% of
+P2O5 → 460 mg/l of P2O5 and
+approximately 20% of N →
+212 mg/l of ammonium),
+results in a further 212 mg/l of
+ammonium and a total
+ammonium concentration of
+280 to 350 mg/l in the must.
+As a consequence, more than
+twice the quantity of
+ammonium the yeast cell
+needs is available. This overdosing inhibits the intake of
+amino acids, especially the
+GAP transporter system and in
+the first few days of fermentation the yeast cell will metabolize mainly ammonium. The
+yeast cell absorbs the amino
+acids required for aroma
+formation only very slowly via
+the permeases. Another
+aspect is that adding DAP
+nutrients increases the phosphate content in the must and
+the finished wine. A DAP
+dosage of 1 g/l increases the
+total phosphate content in the
+wine by 460 mg/l. This phosphate increase also increases
+the pH and in conjunction with
+iron, it can lead to iron-phosphate hazing in the bottle. A
+DAS dosage of 1 g/l increases
+the sulphate content in the
+wine possibly leading to offflavors, depending on the
+yeast strain.
+
+1400
+1200
+1000
+800
+600
+400
+200
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Without additive
+100 g/hl DAP
+50 g/hl DAP and after 2 days
+33 g/hl DAP and after 2 days and after 5 days
+100 g/hl DAP after 2 days
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Days of fermentation [d]
+
+Fig. 5: Decrease in total alpha-amino acid content (without proline) during alcoholic
+fermentation – grape variety Pinot Blanc
+nutrients are added in stages.
+Residual ammonium concentrations of 120 mg/l have been
+found in fermented wine with
+the DAP dosing option of
+50 g/hl at the beginning of
+fermentation and after two
+days. Concentrations of 160
+mg/l of ammonium with the
+option of 33 g/hl of DAP at the
+beginning of fermentation and
+
+after two and five days of
+fermentation indicate that the
+ammonium was neither
+absorbed nor metabolized.
+The highest concentration of
+220 mg/l of non-metabolized
+ammonium was found with a
+single dosage of 100 g/hl of
+DAP after two days of fermentation.
+
+The results for a reduction of
+sugar content of the must (see
+Fig. 4) for the individual
+options correlate with the
+results for the decrease in
+ammonium concentrations.
+The option with the highest
+ammonium surplus (220 mg/l)
+showed the highest residual
+sugar concentration (21 °Oe)
+at the end of alcoholic fermen-
+
+Application Report: Yeast, Nitrogen & Ammonium
+
+tation. This corresponds to
+approx. 52 g/l of residual
+sugar. The option with 160
+mg/l of ammonium contained
+a residual sugar concentration
+of 7 °Oe, and thus about 24 g/l
+of residual sugar. It is remarkable that the option with a
+DAP dosage of 100 g/hl at the
+beginning of alcoholic fermentation, the must sugar was
+fully fermented.
+Fig. 5 shows the reduction in
+total alpha-amino acid content
+(without proline) during alcoholic fermentation. It is clear
+that subsequent addition of
+DAP results in delayed intake
+of amino acids. This is particularly noticeable with a single
+dosage of 100 g/hl of DAP
+after two days of fermentation.
+
+Conclusion
+The results of the fermentation trials with musts from the
+grape variety Pinot Blanc
+presented in this paper
+confirm that yeast cells metabolize ammonium during the
+first 72 hours of alcoholic
+
+fermentation [1.9]. Any
+ammonium that is progressively added later is only
+absorbed and utilized to a
+limited extent, depending on
+the yeast strain and the
+fermentation conditions. Any
+ammonium that is not
+absorbed by the yeast cell
+remains in the wine at the end
+of the alcoholic fermentation.
+Ammonium progressively
+added later cannot be metabolized effectively and may result
+in the wine becoming stuck.
+It is almost impossible for the
+yeast cell to absorb amino
+acids in the presence of high
+ammonium content (progressive addition) since the transporter systems for ammonium
+and amino acids are not
+complementary, but inhibit
+each other competitively. As
+indicated in Fig. 3 and 5, this
+means that the alpha-amino
+acid intake is only delayed if
+DAP is added on the second
+day of fermentation or later.
+The inhibition of the active
+amino acid transport results in
+
+References:
+[1] Unterfrauner Martin, Hütter Markus, Kobler Armin, Doris Rauhut, Einfluss
+unterschiedlich hoher Gärsalzdosierungen auf Südtiroler Weißweine; Auswirkungen
+auf Gärleistung, Zellzahl und HVS-Gehalt [Influence of different doses of yeast
+nutrient salts on white wines from South Tyrol; influence on fermentation performance, cell number, and contents of yeast assimilable nitrogen], 2008, Mitteilungen
+Klosterneuburg 58, 82-91
+[2] Hecker Rolf, Untersuchung subzellulärer Metabolitverteilungen in der Hefe
+Saccharomyces cerevisiae [Investigation of subcellular metabolite distributions in
+Saccharomyces cerevisiae yeast], 2002, dissertation, Universität Köln, 11-14
+[3] Deed Nathan K., van Vuuren Henie J. J., Gardner Richard C., Effects of nitrogen
+catabolite repression and di-ammonium phosphate addition during wine fermentation by commercial strain of S. cerevisiae, 2011, Applied Microbiology Biotechnology
+89, 1537-1549
+[4] Mendes-Ferreira A., Mendes-Faia A., Leão C., Growth and fermentation patterns
+of Saccharomyces cerevisiae under different ammonium concentrations and its
+impact in winemaking industry, 2004, Journal of Applied Microbiology 97, 540-545
+
+reduced intake and accumulation of amino acids in the
+yeast cell. In addition, the
+increasing alcohol content
+during the alcoholic fermentation inhibits the amino acid
+import, since the alcohol
+formation limits the nitrogen
+absorption (see Fig. 2).
+Because the yeast cell
+requires amino acids for the
+formation of fruity aromas and
+the corresponding esters, it is
+essential that it takes in sufficient quantities of nitrogen
+compounds to be able to
+perform the metabolism
+processes required for aroma
+formation.
+
+Yeast cell (left) and yeast nutrient (right)
+
+[5] Schure Elke G., van Riel Natal A.W., Verrips C. Theo, The role of ammonia
+metabolism in nitrogen catabolite repression in Saccharomyces cerevisiae, 2000,
+FEMS Microbiology Reviews 24, 67-83
+[6] Rødkær Steven V., Færgeman Nils J., Glucose and nitrogen sensing and regulatory
+mechanisms in Saccharomyces cerevisiae, 2014, FEMS Yeast Research 14,683-696
+[7] Brice Claire, Sanchez Isabelle, Tesnière Catherine, Blondin Bruno, Assessing
+the Mechanisms Responsible for Differences between Nitrogen Requirements of
+Saccharomyces cerevisiae Wine Yeasts in Alcoholic Fermentation, 2014, Applied and
+Environmental Microbiology 80, 1330-1339
+[8] Crépin Lucie, Nidelet Thibault, Sanchez Isabelle, Dequin Sylvie, Camarasa Carole,
+Sequential Use of Nitrogen Compounds by Saccharomyces cerevisiae during Wine
+Fermentation: A Model Based on Kinetic and Regulation Characteristics of Nitrogen
+Permeases, 2012, Applied and Environmental Microbiology 78, 8102-8111
+[9] Amman Rainer, Zimmermann Bettina, Welche Nahrung braucht die Hefe? [Which
+food needs yeast?], 2009, Das Deutsche Weinmagazin, 16/17, 50-53
+
+North America
+44 Apple Street
+Tinton Falls, NJ 07724
+Toll Free: 800 656-3344
+(North America only)
+Tel: +1 732 212-4700
+
+China
+No. 3, Lane 280,
+Linhong Road
+Changning District, 200335
+Shanghai, P.R. China
+Tel: +86 21 5200-0099
+
+Europe/Africa/Middle East
+Auf der Heide 2
+53947 Nettersheim, Germany
+Tel: +49 2486 809-0
+
+Singapore
+4 Loyang Lane #04-01/02
+Singapore 508914
+Tel: +65 6825-1668
+
+Friedensstraße 41
+68804 Altlußheim, Germany
+Tel: +49 6205 2094-0
+An den Nahewiesen 24
+55450 Langenlonsheim, Germany
+Tel: +49 6704 204-0
+
+The answer to the question:
+‘Can nitrogen in the form of
+ammonium work?’ can be
+clearly answered with ‘no.’
+Balanced, complex nutrition
+optimally supports the yeast
+during fermentation of the
+musts into clean and aromatic
+wines. This is achieved through
+the application of ammoniumand yeast-based nutrients such
+as amino acids, vitamins,
+minerals, and sterols. The
+quantity of yeast-based nutrients should be twice that of
+ammonium-based nutrients.
+
+Brazil
+Rua Clark, 2061 - Macuco
+13279-400 - Valinhos, Brazil
+Tel: +55 11 3616-8400
+
+For more information, please
+email us at filtration@eaton.com
+or visit www.eaton.com/filtration
+© 2017 Eaton. All rights reserved. All trademarks and
+registered trademarks are the property of their respective
+owners. All information and recommendations appearing
+in this brochure concerning the use of products described
+herein are based on tests believed to be reliable. However, it is the user’s responsibility to determine the suitability for his own use of such products. Since the actual use
+by others is beyond our control, no guarantee, expressed
+or implied, is made by Eaton as to the effects of such use
+or the results to be obtained. Eaton assumes no liability
+arising out of the use by others of such products. Nor
+is the information herein to be construed as absolutely
+complete, since additional information may be necessary
+or desirable when particular or exceptional conditions
+or circumstances exist or because of applicable laws or
+government regulations.
+
+US
+5-2017
+
+

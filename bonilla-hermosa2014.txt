@@ -1,0 +1,1710 @@
+Bioresource Technology 166 (2014) 142–150
+
+Contents lists available at ScienceDirect
+
+Bioresource Technology
+journal homepage: www.elsevier.com/locate/biortech
+
+Utilization of coffee by-products obtained from semi-washed
+process for production of value-added compounds
+Verónica Alejandra Bonilla-Hermosa, Whasley Ferreira Duarte ⇑, Rosane Freitas Schwan
+Department of Biology, Federal University of Lavras (UFLA), CP 3037 – Campus Universitário, CEP 37.200-000 Lavras, MG, Brazil
+
+h i g h l i g h t s
+ Production of bioethanol and volatile compounds using coffee residues as substrate.
+ H. uvarum UFLA CAF76 was able to grow and ferment coffee residues.
+ High ethanol yield factor (0.48 g/g) and efﬁciency (94.11%) were obtained.
+ H. uvarum UFLA CAF76 produced important aroma compounds for industry.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 3 April 2014
+Received in revised form 9 May 2014
+Accepted 11 May 2014
+Available online 20 May 2014
+Keywords:
+Coffee pulp
+Coffee wastewater
+Bioethanol
+Volatile compounds
+Hanseniaspora uvarum
+
+a b s t r a c t
+The semi-dry processing of coffee generates signiﬁcant amounts of coffee pulp and wastewater. This
+study evaluated the production of bioethanol and volatile compounds of eight yeast strains cultivated
+in a mixture of these residues. Hanseniaspora uvarum UFLA CAF76 showed the best fermentation performance; hence it was selected to evaluate different culture medium compositions and inoculum size. The
+best results were obtained with 12% w/v of coffee pulp, 1 g/L of yeast extract and 0.3 g/L of inoculum.
+Using these conditions, fermentation in 1 L of medium was carried out, achieving higher ethanol yield,
+productivity and efﬁciency with values of 0.48 g/g, 0.55 g/L h and 94.11% respectively. Twenty-one volatile compounds corresponding to higher alcohols, acetates, terpenes, aldehydes and volatile acids were
+identiﬁed by GC-FID. Such results indicate that coffee residues show an excellent potential as substrates
+for production of value-added compounds. H. uvarum demonstrated high fermentative capacity using
+these residues.
+Ó 2014 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Coffee is the most frequently consumed functional beverage
+(Mussatto et al., 2011b). According to the International Coffee
+Organization (ICO, 2014), global coffee production during 2013 is
+estimated to be over 145 million 60 kg bags. Therefore, large
+amounts of residues are generated during coffee processing.
+Among these residues, coffee pulp is the main residue obtained
+during wet and semi-dry processing and represents 29% dryweight of the whole berry (Murthy and Madhava Naidu, 2012).
+In semi-dry processing, fruit pulp covering the seeds is removed
+by a pulper, then, the mucilage coating the beans is washed before
+sun drying (Navia et al., 2011; Esquivel and Jiménez, 2012). Coffee
+pulp is essentially rich in sugars, proteins, minerals and it also contains appreciable amounts of tannins, polyphenols and caffeine,
+⇑ Corresponding author. Tel.: +55 35 3829 1358; fax: +55 35 3829 1100.
+E-mail address: whasleyduarte@dbi.uﬂa.br (W.F. Duarte).
+http://dx.doi.org/10.1016/j.biortech.2014.05.031
+0960-8524/Ó 2014 Elsevier Ltd. All rights reserved.
+
+considered toxic in nature (Pandey et al., 2000). The water used
+for depulping and demucilage of cherries is known as coffee wastewater and has high concentrations of organic pollutants (Haddis
+and Devi, 2008). Residues from the coffee industry represent a serious environmental problem for coffee producing countries, due to
+unsafe disposal of them causing water and land pollution (Murthy
+and Madhava Naidu, 2012). There are few studies addressing their
+use in proﬁtable applications. The main coffee residue, which
+potential has been most frequently studied is the spent coffee
+grounds. Most of the published studies have been focused on the
+use of spent coffee grounds (Choi et al., 2012; Mussatto et al.,
+2012) to produce bioethanol. This residue obtained after coffee
+extraction is composed mainly by carbohydrates such as mannose
+(46.8%), galactose (30.4%), glucose (19%), arabinose (3.8%) and proteins (13.6%). In addition to proteins and carbohydrates, different
+minerals (mg/kg) like potassium (3549.0), phosphorus (1475.1),
+magnesium (1293.3), calcium (777.4), iron (118.7), manganese
+(40.1), copper (32.3), and zinc (15.1), are present (Mussatto et al.,
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+2011a). Since coffee pulp and coffee wastewater contain considerable amounts of fermentable sugars and other nutrients (Mussatto
+et al., 2011b), these constitute interesting substrates for microorganism growth, and consequently, for producing value-added
+products such as bioethanol and aromatic volatile compounds.
+The emission of greenhouse gases due to the consumption of
+fossil fuels and the nonrenewable nature of them, encourage the
+search for new sources of clean energy, which can be produced
+in a sustainable manner. Burning ethanol instead of gasoline
+reduces carbon emissions by more than 80% while eliminating
+the release of acid-rain-causing sulfur dioxide (Mussatto et al.,
+2011b). Furthermore, there is a worldwide growing interest to
+discover new and cheap carbohydrate sources for production of
+second generation bioethanol. The agricultural residues are attractive materials since they are abundant, an inexpensive feedstock,
+avoid direct and indirect competition with human food and animal
+feed and provide better energy supply security. It is considered
+that agroindustrial residues will become the main feedstock for
+ethanol production in the near future. Recent studies indicate the
+excellent potential of coffee residues for bioethanol production
+(Kwon et al., 2013; Choi et al., 2012; Mussatto et al., 2012;
+Shenoy et al., 2011).
+On the other hand, a novel approach for value-added products
+from agroindustrial residues is the production of volatile aroma
+compounds for industry application using yeast and fungi
+(Murthy and Madhava Naidu, 2012; Medeiros et al., 2001;
+Pandey et al., 2000). The chemical synthesis of aroma compounds
+and their direct extraction from plants present economic and environmental disadvantages. Moreover, nowadays there has been a
+remarkable preference by consumers for natural food additives
+(Medeiros et al., 2001). Hence, biotechnological production of
+these compounds is a suitable alternative, since it occurs at mild
+reaction conditions, presents high enantioselectivity, does not generate toxic wastes and the products obtained may be labeled as
+‘‘natural’’ (Bicas et al., 2010). The utilization of agroindustrial
+wastes as feedstock could bring economic feasibility for the commercial process, reducing costs in the culture medium (Bicas
+et al., 2010).
+Many types of yeast have the capacity to produce speciﬁc single
+ﬂavor molecules by either de novo synthesis or converting an
+added substrate/precursor molecule (Vandamme, 2003). During
+alcohol fermentations, yeasts can produce alcohols (2-phenylethanol), terpenes (citronellol, linalol, geraniol), esters (2-phenylethyl
+acetate) and other compounds with fruity, ﬂoral and green odors.
+Speciﬁcally, apiculate yeasts can impact the sensory quality of
+wine owning to the higher production of aroma compounds (De
+Benedictis et al., 2011; Moreira et al., 2011).
+The application of coffee residues in such bioprocesses would
+reduce waste treatment costs, reduce environmental pollution, provide alternative substrates and produce economically important
+compounds. The aim of this study was ﬁrst to evaluate the production of ethanol and volatile compounds by eight yeast strain utilizing coffee residues (coffee pulp and coffee wastewater) as substrate
+for fermentation, and then to investigate the effects of culture
+medium composition and the inoculum size on fermentation performance of pre-selected yeast, as well as to determine the volatile
+compounds produced under these optimum conditions.
+
+2. Methods
+2.1. Raw material
+Coffee pulp and coffee wastewater from the depulping and
+demucilage process of coffee beans (Coffea arabica L., variety Catuaí
+99 vermelho) were supplied by a coffee-producing unit located in
+
+143
+
+the Southern area of the state of Minas Gerais (Brazil), during the
+2012 harvest. As soon as obtained, the materials were frozen at
+20 °C. The coffee pulp was dried at 60 °C for 48 h until reaching
+constant weight, later the coffee pulp was ground and stored in
+hermetical glass ﬂasks.
+2.2. Physicochemical analysis
+The physicochemical characteristics of the coffee pulp and
+wastewater were determined according to standard procedures.
+The parameters analyzed were: water content, ash, lipids and protein (AOAC, 1970), reducing sugars, non-reducing sugars and total
+sugar (Nelson, 1944), crude ﬁber (Van der Kamer and Van Ginkel,
+1952), cellulose, hemicelluloses, and lignin (Van Soest and Wine,
+1968), soluble pectin, total pectin and solubility (Bitter and Muir,
+1962), total phenolic compounds by the Folin–Ciocalteu method,
+pH, chemical oxygen demand (COD) and biochemical oxygen
+demand (BOD) (APHA, 1992).
+2.3. Yeasts strains
+Eight strains isolated from coffee fermentation, cocoa fermentation, sugar cane spirit (cachaça) fermentation and soil were evaluated in the present study. They were preselected according to their
+capacity to produce ethanol and aroma compounds in published
+studies. The isolates involved were: Saccharomyces cerevisiae UFLA
+CA11, Pichia anomala UFLA CAF70, Kluyveromyces marxianus
+UFLA CH1-1, Candida tropicalis UFLA CES-Y573, Pichia guilliermondi
+UFLA CAF725, Haseniaspora uvarum UFLA CAF76, Torulaspora
+delbruekii UFLA CAF58 and Pichia stipitis NCYC 1541 (National
+Collection of Yeast Cultures, Norwich, UK). All strains, except
+P. stipitis, were from the microbial collection of the Microbial
+Physiology Laboratory/Department of Biology from the Federal
+University of Lavras (UFLA) in Brazil.
+2.4. Inoculum preparation
+Yeast strains maintained at 80 °C were re-activated and multiplied using YPD medium (10 g/L yeast extract, 20 g/L peptone and
+20 g/L glucose) as described below. Using a platinum loop, yeast
+strains were inoculated into tubes containing 1 mL YPD and were
+incubated at 28 °C. After 24 h, the content of these tubes were
+transferred to new tubes containing 9 mL YPD and incubated for
+24 h at 28 °C. The resulting yeast cultures (10 mL) were transferred
+to Erlenmeyer ﬂasks containing 90 mL YPD, which were subsequently incubated for 24 h at 28 °C; for all steps the agitation
+was 135 rpm. Yeast cells were later recovered from the medium
+by centrifugation (5000 rpm, 10 min, 20 °C) and washed twice with
+sterile peptone water (Duarte et al., 2013). Finally, the biomass
+obtained was inoculated in the fermentation medium containing
+coffee pulp and coffee wastewater.
+2.5. Screening of the yeast strains
+Eight yeasts strains were screened based on their fermentation
+performance (sugar consumption, ethanol production and fermentation kinetics). Fermentation experiments were performed
+using 250 mL Erlenmeyer ﬂasks containing a mixture of 10 g of
+coffee pulp and 100 mL of coffee wastewater, this medium was
+sterilized at 121 °C for 15 min. The ﬂasks were inoculated with
+an initial concentration of 0.3 g/L of cells (dry weight) of each
+strain. The incubation was performed in a rotary shaker at 27 °C
+and 105 rpm. The fermentation time was determined based on
+the maximum sugar consumption, analyzed by HPLC. During
+the experiments, samples were taken for sugars (sucrose, glucose
+and fructose), alcohols (ethanol and glycerol) and volatile
+
+144
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+compounds determinations. All the assays were performed in
+duplicate. After this preliminary test, the strain with the highest
+ethanol yield, lower residual sugar level and highest kinetic
+parameters was used in a new fermentation assay.
+2.6. Evaluation of the effect of the culture medium composition and the
+inoculum size on fermentation performance
+At the second stage, three variables were tested aiming to
+improve the fermentation performance with the selected yeast
+strain from the previous stage (item 2.5). It was carried out in a
+2  3  2 factorial experiment. The variables tested were: coffee
+pulp concentration (6% and 12% w/v), yeast extract concentration
+(0, 1 and 2 g/L) and inoculum size (0.3 and 1 g/L dry weight), which
+combinations resulted in 12 assays.
+The pre-selected yeast strain was inoculated in the culture
+medium containing 100 mL of coffee wastewater and different
+concentrations of coffee pulp and yeast extract as described above.
+The fermentation conditions were the same as previously
+described (item 2.5). Samples were taken for determination of sugars and alcohols. All the assays were performed in duplicate. The
+assay with signiﬁcant and positive effect on the fermentation
+performance was chosen to conduct the fermentation in 1 L of
+medium containing the coffee residues (described below).
+2.7. Fermentation with optimized conditions
+The assay obtained in the last stage was reproduced in 1 L of
+culture medium and incubated at the same fermentation conditions. This experiment was carried out in triplicate. At initial and
+ﬁnal time of fermentation, samples were taken for determination
+of sugars, ethanol and volatile compounds. The content of total
+phenolic compounds was determined (Folin–Ciocalteu method),
+in the residual solid, after fermentation, for its comparison with
+the concentration of phenolic compounds in the coffee pulp.
+
+retention times of certiﬁed standards. The quantiﬁcation of compounds was performed using calibration curves constructed with
+different concentrations of standard compounds, injected at the
+same conditions of samples (Duarte et al., 2013, 2011). All samples
+were examined in duplicate.
+2.10. Extraction of volatile compounds and GC-FID analysis
+The extraction of volatile compounds was performed by headspace solid-phase microextraction (HS-SPME). A sample of 5 mL
+of fermented medium was added in a 15 mL vial with 4-nonanol
+(internal standard) at a ﬁnal concentration of 249.5 lg/L. Extraction was performed by constant magnetic stirring of sample during
+10 min of equilibration at 60 °C. After this period, a 50/30 lm DVB/
+CAR/PDMS ﬁber (Supelco, Belletonte, PA, USA) was exposed into
+the sample headspace for 15 min with a constant stirring and the
+same temperature. The time of volatiles desorption from the SPME
+ﬁber was ﬁxed at 5 min.
+The volatile compounds were analyzed using a gas chromatograph (GC) Shimadzu model 17A, equipped with an ﬂame
+ionization detector (FID) and using a capillary column of silica
+DB Wax (30 m  0.25 mm i.d.  0.25 lm) (J&W Scientiﬁc, Folsom,
+Calif.,U.S.A.). The oven temperature was maintained at 50 °C for
+5 min, raised to 190 °C by increments of 3 °C/min, and then maintained at 190 °C for 10 min. Injector and detector temperatures
+were kept at 230 and 240 °C, respectively. The carrier gas (N2)
+was maintained at a ﬂow rate of 1.2 mL/min. Injection was made
+in the split mode (1:10). The volatile compounds were identiﬁed
+by comparing their retention times with those of standard compounds injected under the same conditions. Quantiﬁcation of the
+volatile compounds was expressed as 4-nonanol (internal standard) equivalents. The relative concentrations of the investigated
+compounds were calculated by relating the area of the internal
+standard to the area of the compound of interest (Duarte et al.,
+2011). Analyses were performed in duplicate.
+
+2.8. Evaluation of the fermentation performance
+2.11. Statistical analysis
+To evaluate the fermentation performance some parameters
+were calculated. The ethanol yield factor (Yp/s, g/g) was determined
+as the ratio between the maximum ethanol concentration (g/L) and
+total sugars consumed (g/L). Ethanol volumetric productivity (Qp,
+g/L h) was deﬁned as the ratio between the maximum ethanol concentration (g/L) and the respective fermentation time (h). The conversion efﬁciency of sugars to ethanol (Ef, %) was calculated as the
+ratio between the obtained Yp/s(g/g) and the theoretical value
+(0.51 g/g) of this parameter (Mussatto et al., 2012). The percentage
+of sugars consumed (Conv, %) was deﬁned as a ratio between the
+total sugars consumed (g/L) and the initial sugar concentration
+(g/L).
+2.9. HPLC analysis
+The concentration of carbohydrates (sucrose, glucose and fructose), ethanol and glycerol was determined by High-Performance
+Liquid Chromatography (HPLC). Analyses were carried out using
+a Shimadzu chromatograph (Shimadzu Corp., Japan) that was
+equipped with a refractive index detector (RID-10A). For carbohydrates quantiﬁcation was used a Shimadzu ion exclusion column
+(Shim-pack SCR-101C, 7.9 mm x 30 cm) that was operated at a
+temperature of 80 °C using ultrapure water as the eluent at a ﬂow
+rate of 0.6 mL/min. Ethanol and glycerol was determined using a
+Shimadzu ion exclusion column (Shim-pack SCR-101H, 7.9 mm x
+30 cm) that was operated at 30 °C using 100 mM perchloric acid
+as the eluent at a ﬂow rate of 0.6 mL/min. The compounds were
+identiﬁed by comparison of their retention times with the
+
+The software SISVAR 5.1 (Lavras, MG, Brazil) was used for the
+Scott–Knott test. Principal Component Analyses were performed
+with XLstat 7.5.2 software (Addinsoft’s, New York, NY, USA).
+
+3. Results and discussion
+3.1. Physicochemical analysis
+Table 1 shows the composition of coffee pulp and coffee wastewater. The majority of values found for coffee pulp were similar to
+those reported by other authors (Esquivel and Jiménez, 2012;
+Navia et al., 2011; Ulloa et al., 2003; Elias, 1979), with exception
+of proteins, which presented a relative higher content (14.79%)
+when compared with other studies that found values from 7% to
+12% protein (Navia et al., 2011; Ulloa et al., 2003). The coffee pulp
+presented signiﬁcant sugar content (9.7%), which is expected given
+the origin of such residue, i.e., fruit pulp. On the other hand, coffee
+wastewater presented lower component values than coffee pulp
+but it had similar physicochemical characteristics since the wastewater catches components from pulp and mucilage during the depulping and the demucilaging process. The protein content in the
+wastewater was also measured in a signiﬁcant concentration
+(4.26%). According to State Council for Environmental Policy
+(COPAM) of Minas Gerais/Brazil, the values of COD and BOD are
+higher than those permitted for efﬂuent discharge in ﬂuvial receptors (Table 1).
+
+145
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+Table 1
+Physicochemical characteristics of coffee residues added to the culture medium.
+Parameter
+
+Coffee pulp
+(dry matter)
+
+Water content (%)
+Total sugars (%)
+Reducing sugars (%)
+Non-reducing sugars (%)
+Protein (%)
+Lipids (%)
+Ash (%)
+Crude ﬁber (%)
+Cellulose (%)
+Hemicellulose (%)
+Lignin (%)
+Solubility (%)
+Total pectin (g 100 g 1)
+Soluble pectin (g 100 g 1)
+Total phenolic (g 100 g 1)
+Chemical oxygen demand (mg L 1)
+Biochemical oxygen demand (mg L
+pH
+
+82.44
+9.7
+9.63
+0.07
+14.79
+1.2
+7.33
+14.1
+20.7
+3.6
+14.3
+6.19
+11.37
+0.7
+2.62
+–
+–
+–
+
+1
+
+)
+
+Coffee
+wastewater
+97.56
+1.21
+1.13
+0.08
+4.26
+nd
+0.16
+nd
+–
+–
+–
+–
+–
+–
+0.022
+10,259
+6,500
+5.25
+
+nd: not detected.
+Maximum permitted values according to State Council for Environmental Policy of
+Minas Gerais (COPAM): DQO = 180 mg/L, DBO = 60 mg/L.
+
+The chemical composition of coffee residues can differ widely
+according to the altitude, crop variety, cultivation conditions, processing mode and stage of development when the coffee cherries
+were harvested (Elias, 1979). The presence of signiﬁcant amounts
+of fermenting sugars, protein, lipids and mineral components
+(ash) indicated that these residues seem quite promising for
+biotechnological process.
+
+3.2. Screening of eight yeast strains
+All yeasts strains were able to grow and ferment the culture
+medium containing coffee pulp and coffee wastewater. The sugars
+(sucrose, glucose and fructose) content was almost totally consumed after 24 h of fermentation, except fermentations with
+P. guilliermondi UFLA CAF725 and P. stipitis NCYC 1541 that required
+a longer fermentation time (48 h) (Table 2). The total initial sugar
+concentration was 35.23 g/L. As a consequence of sugar consumption, the yeasts produced levels of ethanol ranging from 10.79 g/L
+(P. anomala UFLA CAF70) to 14.67 g/L (H. uvarum UFLA CAF76), with
+signiﬁcant differences (Table 2). The ethanol content was higher
+(letter a in the Scott–Knott test) for the strains S. cerevisiae UFLA
+CA11, T. delbruekii UFLA CAF58, C. tropicalis CES-Y573, H. uvarum
+UFLA CAF76 and P. stipitis NCYC 1541, with concentrations ranging
+from 13.47 to 14.67 g/L. These strains also showed higher ethanol
+yield factors Yp/s, higher conversion efﬁciencies (Ef) and higher ethanol productivities (Qp) (Table 2). The last parameter was lower only
+
+for P. stipitis NCYC 1541. The strains P. anomala UFLA CAF70, K.
+marxianus UFLA CH1-1, P. guilliermondi UFLA CAF725 and P. stipitis
+NCYC 1541 were the most efﬁcient in sugar consumption with values of Conv from 99.19% to 99.39% (Table 2). This result means that
+the last strains probably used more of their carbon source for either
+biomass production or other metabolites than for ethanol
+production.
+H. uvarum UFLA CAF76, an apiculate yeast, was previously isolated from coffee fermentation (Vilela et al., 2010). A previous work
+published by our group (Duarte et al., 2013) showed that this strain
+was not able to produce signiﬁcant amounts of ethanol from sugar
+cane juice; however this strain produced the highest ethanol concentration of 14.67 g/L (1.86% v/v) demonstrating its adaptation to
+ferment the substrate from which it was isolated. Previous studies
+reported that H. uvarum produced up to 6% v/v of ethanol in fermented beverages, and it can tolerate ethanol up to concentrations
+of 4–7% (Moreira et al., 2011). H. uvarum UFLA CAF76 had the highest value for the ethanol yield factor Yp/s of 0.42 g/g, thus it converted sugar to ethanol more efﬁciently, based on the theoretical
+maximum value of 0.51 g/g. Furthermore, this strain was the most
+efﬁcient producer of ethanol per unit time with a Qp of 0.61 g/L h.
+Although H. uvarum UFLA CAF76 had a slightly lower percentage of
+sugars consumed (Conv) of 98.86% (letter b in the Scott–Knott test),
+the Ef value was the highest with 82.57% (Table 2), indicating that
+this yeast was able to convert more of the consumed sugar into
+ethanol than the other ones. These results showed that H. uvarum
+UFLA CAF76 had a good performance in the fermentation process;
+hence it was selected for the subsequent step of this work.
+Since most studies for ethanol production from agroindustrial
+residues used S. cerevisiae, the results found here are quite interesting, seeing that the fermentation performance was better with
+H. uvarum UFLA CAF76 than with S. cevevisiae UFLA CA11. These
+ﬁndings were probably due to H. uvarum UFLA CAF76 having been
+isolated from coffee fermentation during semi-dry processing
+(Vilela et al., 2010), hence it is adapted to the components and conditions present in this medium. This yeast is commonly found in
+fermentations of natural and pulped coffee (Vilela et al., 2010).
+3.3. Volatile compounds proﬁle of eight yeast strains in coffee residues
+fermentation
+Another purpose of this work was to test the coffee residues for
+the production of aroma/ﬂavor compounds that could be interesting for food, cosmetics or perfume industries. The GC-FID analysis
+of the samples, belonging to the uninoculated medium and the
+medium after the fermentations by the eight yeasts strains,
+allowed the identiﬁcation of thirty-ﬁve compounds corresponding
+to six groups of volatile compounds, higher alcohols, acetates, ethyl
+esters, aldehydes, terpenes and volatile acids (Table 3). The highest
+concentration of higher alcohols was found in the fermentation
+
+Table 2
+Concentrations (g/L) of residual sugars and alcohols produced in fermented coffee residues and kinetics parameters for eight yeasts strains.
+Yeasts
+
+Compounds (g/L)
+Sucrose
+
+S. cerevisiae UFLA CA11
+T. delbruekii UFLA CAF58
+P. anomala UFLA CAF70
+C. tropicalis UFLA CES-Y573
+K. marxianus UFLA CH1–1
+H. uvarumUFLA CAF76
+P. guilliermondi UFLA CAF725
+P. stipitisNCYC 1541
+
+0.04 ± 0.01
+0.01 ± 0.00
+nd
+nd
+nd
+0.02 ± 0.00
+nd
+nd
+
+Glucose
+0.23 ± 0.00
+0.23 ± 0.03
+0.17 ± 0.06
+0.16 ± 0.02
+nd
+0.09 ± 0.02
+nd
+nd
+
+Parameters
+Fructose
+0.24 ± 0.05
+0.26 ± 0.01
+0.09 ± 0.02
+0.23 ± 0.00
+0.28 ± 0.02
+0.29 ± 0.02
+0.22 ± 0.01
+0.25 ± 0.06
+
+Glycerol
+1.67 ± 0.13
+1.68 ± 0.06
+0.32 ± 0.26
+1.38 ± 0.05
+1.95 ± 0.01
+0.91 ± 0.09
+1.21 ± 0.09
+1.25 ± 0.25
+
+Ethanol
+a
+
+13.47 ± 0.59
+13.78 ± 0.29a
+10.79 ± 0.68c
+13.58 ± 0.08a
+12.39 ± 0.72b
+14.67 ± 0.38a
+12.57 ± 0.27b
+13.67 ± 0.62a
+
+Yp/s (g/g)
+
+Qp (g/L h)
+
+a
+
+a
+
+0.39
+0.40a
+0.31c
+0.39a
+0.35b
+0.42a
+0.36b
+0.39a
+
+0.56
+0.57a
+0.45c
+0.57a
+0.52b
+0.61a
+0.26d
+0.28d
+
+Ef (%)
+
+Conv (%)
+a
+
+76.09
+77.79a
+60.53c
+76.42a
+69.50b
+82.57a
+70.39b
+76.65a
+
+98.56c
+98.61c
+99.26a
+98.89b
+99.19a
+98.86b
+99.39a
+99.29a
+
+Average ± SD, values followed by the same letter are not signiﬁcantly different at the 0.05 level (Scott–Knott test) Yp/s: ethanol yield factor; Qp: ethanol volumetric
+productivity; Ef: conversion efﬁciency from sugars to ethanol; Conv: percentage of sugars consumed.
+
+146
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+Table 3
+Concentrations (lg/L) of volatile compounds in coffee residues fermented by eight yeast strains.
+Yeast strains (After fermentation)
+No. Compounds
+
+Uninoculated S. cerevisiae
+medium
+UFLA CA11
+
+P. anomala
+UFLA CAF70
+
+T. delbriekii
+UFLA CAF58
+
+C. tropicalis
+K. marxianus
+UFLA CES-Y573 UFLA CH1–1
+
+H. uvarum
+UFLA CAF76
+
+P. guilliermondi
+UFLA CAF725
+
+P. stipitis
+NCYC 1541
+
+Higher alcohols (11)
+1 Methanol
+2 1-Propanol
+3 2-Methyl-1-propanol
+4 2-Methyl-1-butanol
+5 3-Methyl-1-butanol
+6 2-Heptanol
+7 1-Hexanol
+8 1-Butanol
+9 Trans-3-hexen-1-ol
+10 Furfuryl alcohol
+11 2-Phenylethanol
+Total higher alcohols
+
+120.39 ± 0.67
+nd
+nd
+1.51 ± 0.02
+nd
+nd
+nd
+6.32 ± 0.72
+6.46 ± 0.05
+nd
+nd
+134.68
+
+45.48 ± 5.44
+4.31 ± 0.65
+5.60 ± 0.76
+38.79 ± 0.44
+0.59 ± 0.03
+nd
+nd
+9.08 ± 1.48
+9.80 ± 1.04
+1.46 ± 0.23
+6.50 ± 0.21
+121.61
+
+39.55 ± 2.03
+4.20 ± 0.87
+23.11 ± 0.22
+124.40 ± 0.12
+nd
+nd
+nd
+4.95 ± 1.14
+4.99 ± 0.62
+1.58 ± 0.01
+28.39 ± 4.85
+231.17
+
+46.49 ± 0.14
+1.49 ± 0.00
+5.40 ± 0.26
+55.06 ± 0.21
+nd
+0.65 ± 0.04
+nd
+2.68 ± 0.06
+1.37 ± 0.14
+1.96 ± 0.07
+11.77 ± 0.10
+126.87
+
+50.75 ± 2.13
+5.52 ± 0.03
+29.16 ± 0.20
+61.28 ± 0.29
+nd
+nd
+nd
+1.52 ± 0.48
+1.64 ± 0.32
+2.04 ± 0.05
+15.60 ± 0.34
+167.52
+
+63.34 ± 2.53
+6.28 ± 0.00
+39.25 ± 0.18
+114.08 ± 1.62
+nd
+nd
+nd
+2.27 ± 0.37
+2.32 ± 0.25
+1.99 ± 0.07
+15.06 ± 0.35
+244.60
+
+126.66 ± 0.45
+18.80 ± 0.27
+84.81 ± 2.71
+222.27 ± 1.18
+nd
+nd
+nd
+18.72 ± 0.67
+19.28 ± 1.42
+3.62 ± 0.03
+15.92 ± 0.13
+510.08
+
+112.88 ± 0.05
+45.83 ± 0.23
+218.32 ± 0.72
+213.12 ± 0.83
+nd
+nd
+3.28 ± 0.61
+32.83 ± 0.19
+61.22 ± 0.77
+4.51 ± 0.49
+20.89 ± 0.13
+712.87
+
+127.73 ± 1.98
+19.51 ± 0.01
+105.96 ± 0.89
+243.25 ± 0.78
+61.32 ± 6.03
+nd
+nd
+8.57 ± 0.58
+8.04 ± 0.10
+5.95 ± 0.08
+14.04 ± 0.27
+594.36
+
+Acetates (6)
+12 Isobutyl acetate
+13 Isoamyl acetate
+14 Ethyl acetate
+15 Propyl acetate
+16 Furfuryl acetate
+17 Phenylethyl acetate
+Total acetates
+
+nd
+nd
+12.71 ± 0.40
+nd
+4.81 ± 1.51
+5.78 ± 0.27
+23.30
+
+nd
+4.91 ± 0.59
+1.27 ± 0.10
+nd
+6.14 ± 0.91
+2.39 ± 0.14
+14.71
+
+nd
+73.46 ± 1.36
+nd
+2.04 ± 0.17
+1.45 ± 0.11
+6.95 ± 1.98
+83.91
+
+nd
+0.57 ± 0.05
+nd
+nd
+2.05 ± 0.11
+2.86 ± 0.23
+5.49
+
+0.22 ± 0.02
+1.52 ± 0.15
+nd
+nd
+2.84 ± 0.14
+2.58 ± 0.52
+7.17
+
+nd
+19.97 ± 0.85
+nd
+0.83 ± 0.00
+2.06 ± 0.49
+77.25 ± 0.49
+100.11
+
+nd
+nd
+10.84 ± 0.42
+nd
+10.37 ± 1.55
+26.66 ± 1.12
+47.87
+
+nd
+1.39 ± 0.19
+14.09 ± 0.60
+nd
+16.36 ± 0.49
+8.47 ± 0.32
+40.31
+
+2.05 ± 0.07
+12.82 ± 0.67
+9.26 ± 0.06
+nd
+4.48 ± 0.23
+38.53 ± 0.29
+67.13
+
+Ethyl esters (1)
+18 Ethyl butyrate
+Total ethyl esters
+
+nd
+0.00
+
+0.61 ± 0.02
+0.61
+
+nd
+0.00
+
+nd
+0.00
+
+nd
+0.00
+
+nd
+0.00
+
+nd
+0.00
+
+nd
+0.00
+
+3.32 ± 0.11
+3.32
+
+Aldehydes (4)
+19 Acetaldehyde
+20 Butyraldehyde
+21 Octanal
+22 Furfural
+Total aldehydes
+
+30.95 ± 0.18
+nd
+nd
+46.14 ± 0.93
+77.09
+
+10.46 ± 0.80
+4.43 ± 0.59
+nd
+nd
+14.89
+
+20.22 ± 0.01
+387.55 ± 7.86
+nd
+nd
+407.77
+
+20.93 ± 0.83
+5.53 ± 0.19
+2.48 ± 0.51
+nd
+28.94
+
+28.51 ± 0.09
+9.40 ± 0.11
+0.98 ± 0.05
+nd
+38.88
+
+21.23 ± 0.47
+295.43 ± 1.44
+nd
+nd
+316.66
+
+30.41 ± 0.52
+4.35 ± 0.15
+10.35 ± 0.36
+nd
+45.11
+
+52.64 ± 2.16
+22.05 ± 2.20
+42.57 ± 0.33
+nd
+117.27
+
+34.04 ± 2.70
+319.87 ± 0.25
+9.42 ± 0.56
+nd
+363.32
+
+Terpenes (6)
+23 Linalool
+24 a-Terpeniol
+25 Verbenone
+26 b-Citronellol
+27 Geraniol
+28 Guaiacol
+Total terpenes
+
+6.82 ± 0.03
+2.32 ± 0.13
+3.45 ± 0.15
+3.89 ± 0.03
+1.02 ± 0.31
+2.04 ± 0.07
+21.54
+
+7.37 ± 0.67
+2.18 ± 0.27
+2.97 ± 0.22
+1.73 ± 0.31
+nd
+1.10 ± 0.09
+15.35
+
+9.80 ± 0.24
+1.92 ± 0.00
+2.86 ± 0.20
+22.73 ± 2.44
+1.15 ± 0.13
+1.33 ± 0.26
+39.80
+
+6.98 ± 0.14
+1.52 ± 0.06
+3.01 ± 0.13
+2.58 ± 0.40
+0.84 ± 0.20
+1.08 ± 0.15
+16.00
+
+6.86 ± 0.52
+1.39 ± 0.00
+7.01 ± 1.82
+11.34 ± 0.16
+nd
+3.62 ± 0.39
+30.23
+
+6.69 ± 0.37
+1.71 ± 0.13
+nd
+8.04 ± 1.03
+1.15 ± 0.05
+nd
+17.59
+
+9.26 ± 0.82
+4.32 ± 0.09
+4.51 ± 0.48
+29.86 ± 0.44
+3.46 ± 0.32
+nd
+51.40
+
+7.90 ± 0.04
+2.73 ± 0.02
+3.51 ± 0.29
+4.71 ± 0.25
+nd
+nd
+18.85
+
+9.58 ± 0.07
+4.46 ± 0.04
+10.13 ± 0.89
+9.46 ± 0.29
+nd
+7.49 ± 0.52
+41.12
+
+Volatile acids (5)
+29 Isobutyric acid
+30 Butyric acid
+31 Octanoic acid
+32 Nonanoic acid
+33 Decanoic acid
+Total volatile acids
+
+2.13 ± 0.08
+nd
+2.04 ± 0.11
+nd
+1.58 ± 0.20
+5.75
+
+0.96 ± 0.08
+0.93 ± 0.03
+1.29 ± 0.07
+nd
+1.11 ± 0.38
+4.29
+
+3.02 ± 0.78
+nd
+nd
+nd
+nd
+3.02
+
+0.94 ± 0.03
+nd
+nd
+nd
+0.95 ± 0.13
+1.89
+
+1.35 ± 0.02
+nd
+nd
+nd
+nd
+1.35
+
+3.77 ± 0.15
+0.65 ± 0.04
+2.38 ± 0.35
+0.56 ± 0.07
+nd
+7.36
+
+3.09 ± 0.27
+nd
+nd
+nd
+2.51 ± 0.23
+5.60
+
+1.30 ± 0.28
+nd
+nd
+nd
+3.83 ± 0.13
+5.13
+
+nd
+8.78 ± 0.45
+nd
+nd
+8.75 ± 0.07
+17.53
+
+Others (2)
+34 1,1-Dietoxyethane
+35 2,3-Butanedione
+Total others
+
+nd
+2.20 ± 0.42
+2.20
+
+nd
+5.97 ± 1.08
+5.97
+
+1.48 ± 0.04
+2.14 ± 0.24
+3.62
+
+nd
+1.36 ± 0.06
+1.36
+
+nd
+0.57 ± 0.01
+0.57
+
+nd
+0.60 ± 0.06
+0.60
+
+nd
+5.17 ± 0.88
+5.17
+
+nd
+4.13 ± 0.18
+4.13
+
+nd
+1.14 ± 0.12
+1.14
+
+nd: not detected.
+
+with P. guilliermondi UFLA CAF725 (712.87 lg/L). Among these
+compounds 2-phenylethanol is industrially interesting because of
+its rose-like odor, the production of this compound was higher in
+the fermentations carried out with the strains P. anomala UFLA
+CAF70, P. guilliermondi UFLA CAF725 and H. uvarum UFLA CAF76.
+The strain K. marxianus UFLA CH1–1 had the highest concentration
+of acetates (100.11 lg/L). In relation to ethyl esters, ethyl butyrate
+was only produced by two strains S. cerevisiae UFLA CA11 and P. stipitis NCYC 1541 (Table 3). Acetates and ethyl esters are positive
+aromatic descriptors contributing with fruity notes (Salgado
+et al., 2012).
+
+Terpenes are derived from the raw material and their concentration may increase through the enzymatic process during fermentation; they are considered positive aromas because they
+supply ﬂoral and fruity notes and have commercial interest
+(Salgado et al., 2012). The fermentation with H. uvarum UFLA
+CAF76 produced the highest concentration of terpenes, which
+increased from 21.54 lg/L (uninoculated medium) to 51.40 lg/L.
+Volatile acids were the more abundant group in the medium
+fermented by P. stipitis NCYC 1541 (17.53 lg/L), which have odor
+descriptors of fatty- rancid, cheesy and sweaty. Furfural was the
+most abundant aldehyde in the uninoculated medium with
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+46.14 mg/L, this concentration enabled cell growth of all yeast
+strains. Besides, this compound was not detected in the medium
+after the fermentation by all yeasts. Therefore, furfural was likely
+either degraded during the fermentation or reduced into furfuryl
+alcohol and esteriﬁed to furfuryl acetate (Duarte et al., 2005). Furfural is undesirable because it can affect the speciﬁc growth rate of
+cells, the cell-mass yield on ATP and the volumetric and speciﬁc
+ethanol productivities, depending on its concentration in the fermentation medium (Palmqvist and Hahn-Hägerdal, 2000).
+Fig. 1 shows the Principal Component Analysis (PCA) performed
+on the data from Table 3, it indicates the relationship between the
+composition of the volatile compounds and the yeast strains. PCA
+reduces the dimensionality of a data set consisting of a large number of interrelated variables, while retaining as much as possible of
+the variation present in the data set. This is achieved by transforming to a new set of variables, the principal components (PCs), which
+are uncorrelated and ordered so that the ﬁrst few retain most of
+the variation present in the original variables. The ﬁrst two
+
+147
+
+principal components, PC1 and PC2, accounted for 55.35% of total
+variance (34.61 and 20.71%, respectively). The PC1 enabled the differentiation between the yeasts strains (Fig. 1b). On the positive
+side of PC1 and the negative side of PC2, the strains H. uvarum
+UFLA CAF76 and P. guilliermondi UFLA CAF725 were correlated
+with higher concentrations of octanal (21), 1-butanol (8), furfuryl
+acetate (16), trans-3-hexen-1-ol (9), ethyl acetate (14), acetaldehyde (19), 2-methyl-1-propanol (3) e 1-propanol (2) (Fig. 1a, b).
+P. stipitis NCYC 1541 was positively characterized in PC1 and PC2
+by butyric acid (30), isobutyl acetate (12), ethyl butyrate (18),
+3-methyl-1-butanol (5) and verbenone (25). On the negative side
+of PC1 and the positive side of PC2, the strains H. uvarum UFLA
+CAF70 and K. marxianus UFLA CH1–1 were correlated mainly with
+isoamyl acetate (13) and propyl acetate (15). The uninoculated
+medium is located at negative values of PC1 and PC2, characterized
+by the contribution of furfural (Fig. 1a, b).
+
+3.4. Evaluation of the effect of the culture medium composition and the
+inoculum size on fermentation performance
+
+Fig. 1. Principal component analysis of volatile compounds (A) in coffee residues
+fermented by eight yeast strains (B). The numbers 1–35 correspond to the volatile
+compounds detailed in Table 3.
+
+Three variables were tested for the improvement of fermentation performance with the yeast H. uvarum UFLA CAF76. The variables were coffee pulp concentration, yeast extract concentration
+and inoculum size (Table 4).
+After 24 h of fermentation the higher ethanol concentrations
+were achieved in the assays 5, 6, 9 and 10 with values ranging from
+20.39 to 21.02 g/L (letter a in the Scott–Knott test), they also had
+the best productivities (Qp). These assays contained the higher concentration of coffee pulp (12%), with yeast extract varying between
+1 and 2 g/L, as well as, the inoculum size (0.3 and 2 g/L). Therefore,
+the higher coffee pulp concentration and the addition of yeast
+extract enhanced the ethanol production. Regarding the ethanol
+yield (Yp/s) and the efﬁciency (Ef), the assays 4 to 12 showed the
+higher values, varying within the range of 0.459–0.479 g/g and
+90.3–93.8%, respectively (Table 4).
+The selection of the best assay was made according to economic aspects. For 1 or 2 g/L of yeast extract, there were no signiﬁcant differences among the values of each parameter, hence to
+reduce costs in the process 1 g/L can be chosen. Likewise, the
+parameters were not inﬂuenced by the inoculum size, since there
+were no signiﬁcant differences between the assays when coffee
+pulp and yeast extract concentrations were kept constant. Thus,
+the lower concentration of inoculum (0.3 g/L) may be used for
+optimizing time and lowering the costs. Therefore, assay 5 was
+selected for the fermentation in 1 L. The assay 5 had a high ethanol concentration, high ethanol yield (Yp/s), high productivity
+(Qp) and high conversion efﬁciency (Ef) with values of 20.39 g/L,
+0.474 g/g, 0.849 g/L h and 92.89%, respectively (Table 4). These
+values were greater than those achieved in the screening step
+by the same yeast (H. uvarum UFLA CAF76), which was probably
+due to the addition of yeast extract and increase of coffee pulp to
+12%, which in turn increased the sugar content, improving the
+fermentation parameters.
+The ethanol yield obtained with assay 5 was greater than that
+reported in previous studies using different coffee residues as
+substrate. For example, Mussatto et al. (2012) achieved 11.7 g/L
+of ethanol from 54 g/L of initial sugars, in a fermentation of
+spent coffee ground hydrolysates. A mixture of coffee pulp and
+mucilage submitted to acid hydrolysis and fermented with commercial baker’s yeast showed an ethanol yield of 25.44 g/L, from
+64.40 g/L of total sugars (Navia et al., 2011). For coffee residue
+waste, Choi et al. (2012) found that fermentation with S. cerevisiae KCTC 7906, produced 15.3 g/L of ethanol from 40.2 g/L of
+fermentable sugars, after a popping pretreatment and enzymatic
+hydrolysis.
+
+148
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+Table 4
+Results of ethanol production and kinetics parameters after 24 h of fermentation in different medium compositions and inoculum sizes of H. uvarum UFLA CAF76.
+Assays
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Variables
+
+Parameters
+
+Coffee pulp
+
+Yeast extract (g/L)
+
+Inoculum size (dry weight g/L)
+
+Ethanol (g/L)
+
+Yp/s (g/g)
+
+Qp (g/L h)
+
+Ef (%)
+
+Conv (%)
+
+12
+12
+6
+6
+12
+12
+6
+6
+12
+12
+6
+6
+
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+
+0.3
+2
+0.3
+2
+0.3
+2
+0.3
+2
+0.3
+2
+0.3
+2
+
+13.14 ± 0.14c
+15.57 ± 0.30b
+15.15 ± 0.10b
+15.16 ± 0.08b
+20.39 ± 0.25a
+20.67 ± 0.26a
+15.70 ± 0.11b
+15.78 ± 0.08b
+21.02 ± 0.16a
+20.93 ± 0.86a
+15.62 ± 0.44b
+16.01 ± 0.13b
+
+0.419b
+0.436b
+0.446b
+0.475a
+0.474a
+0.459a
+0.479a
+0.467a
+0.471a
+0.472a
+0.466a
+0.474a
+
+0.547c
+0.649b
+0.631b
+0.631b
+0.849a
+0.861a
+0.654b
+0.657b
+0.876a
+0.872a
+0.651b
+0.667b
+
+82.104b
+85.420b
+87.532b
+93.232a
+92.887a
+90.029a
+93.883a
+91.587a
+92.362a
+92.483a
+91.443a
+92.995a
+
+74.348d
+82.061c
+99.028a
+99.171a
+95.356b
+97.280a
+97.510a
+97.775a
+97.384a
+97.694a
+97.946a
+98.285a
+
+Values followed by the same letter are not signiﬁcantly different at the 0.05 level (Scott–Knott test).
+Yp/s: ethanol yield factor; Qp: ethanol volumetric productivity; Ef: conversion efﬁciency from sugars to ethanol; Conv: percentage of sugars consumed.
+
+3.5. Fermentation under optimized conditions
+The fermentation in 1 L of medium was performed with 12% of
+coffee pulp, 1 g/L yeast extract and 0.3 g/L (dry weight) of inoculum of H. uvarum UFLA CAF76. In this fermentation, after 24 h,
+the ethanol yield factor (Yp/s) was the highest in all stages of this
+study, with a value of 0.48 g/g. Consistent with Yp/s, the Ef value
+was also higher (94.11%), as well as, the Conv value (96.55%). The
+ethanol productivity (Qp) was 0.55 g/L h. These values are better
+than those found in other studies of ethanol production from different raw materials of coffee. For example, fermentation of spent
+coffee grounds hydrolysates by S. cerevisiae RL-11 yielded an Yp/s of
+0.26 g/g, QP of 0.49 g/L h, and Ef of 50.2% (Mussatto et al., 2012).
+Another study reported that fermentation of wet coffee pulp
+hydrolysate by S. cerevisiae achieved an ethanol yield of 0.46 g/g
+and showed an efﬁciency of 40% (Shenoy et al., 2011). Fermentation of coffee residue waste treated with enzymatic hydrolysis
+obtained a maximum ethanol yield of 89.9% (Choi et al., 2012).
+Kwon et al. (2013) after fermentation with S. cerevisiae found ethanol yields of 0.46 g/g for hydrolyzate of spent coffee grounds and
+0.43 g/g for hydrolyzate of lipids from extracted coffee grounds.
+It can be observed that our production of ethanol by fermentation of coffee pulp and wastewater was quite satisfactory in comparison to literature data, since all those studies used acid or
+enzymatic hydrolysis of raw materials. On the other hand, it can
+be note that all those authors used S. cerevisiae in the fermentation.
+This study found that H. uvarum UFLA CAF76 was able to produce
+ethanol from coffee residues in similar or better yields. Therefore,
+further research should be carried out on the potential of this
+strain for ethanol production from these residues. Coffee residues
+could be widely used for fermentation processes, since fermentable
+sugars are available in high concentration and high ethanol production may be achieved.
+After the fermentation, sucrose, glucose and fructose remained
+in concentrations of 0.26 g/L, 0.53 g/L and 0.19 g/L, respectively. It
+had been reported that H. uvarum strains showed a fructophilic
+character, having a preferential consumption of fructose in respect
+to glucose (De Benedictis et al., 2011), which was conﬁrmed with
+our results.
+Table 5 shows the twenty-one volatile compounds found in coffee residues fermented with a pure culture of H. uvarum UFLA
+CAF76. Apiculate yeasts have been reported as producers of aroma
+compounds, mainly in winemaking (De Benedictis et al., 2011;
+Moreira et al., 2011). Here the volatile proﬁle obtained was similar
+to that found in the screening stage, with a slight decrease in
+concentrations. Later, the most commercially interesting volatile
+compounds will be addressed.
+
+The more abundant group was that with the higher alcohols; the
+oxygenation by stirring contributes to their production. One of the
+most interesting higher alcohols is the 2-phenylethanol, an aromatic alcohol with a rose-like odor widely used in perfumery, cosmetics and the food industry. This aroma compound was produced
+during the fermentation with H. uvarum UFLA CAF76 (14.56 lg/L)
+as well as phenylethyl acetate (16.42 lg/L), a derivative with rose,
+honey and apple odors. The ability of apiculate yeasts to produce
+these compounds was reported previously (Moreira et al., 2011).
+Currently, most consumers prefer natural food additives and since
+the 2-phenylethanol extracted from plants has a high price in the
+market (US$ 1,00 per kg), the microbial fermentation is a good
+and efﬁcient alternative for its production in a relatively inexpensive way (Eshkol et al., 2009). The production cost could be even
+lower if the raw materials are agroindustrial residues. The 2-phenylethanol is produced naturally by various yeast strains from the
+catabolism of 2-phenylalanine via Ehrlich pathway (Longo and
+Sanromán, 2006). It had been reported that the presence of ethanol
+and 2-phenylethanol in the medium resulted in a synergistic inhibition, which reduced the tolerance of yeast to 2-phenylethanol
+and thus its production (Eshkol et al., 2009; Longo and Sanromán,
+2006). Hence, in a further study with the purpose of producing 2phenylethanol, this compound could be removed in situ with specialized resins to increase its production.
+Another interesting group of aroma compounds for industry are
+the terpenes found mainly in plants, but fungi belonging to the
+ascomycetes and basidiomycetes also synthesize several important
+terpenes (Longo and Sanromán, 2006). These compounds were
+characterized by the production of linalool (sweet, fresh, citrus
+odor) and b-citronellol (fresh, rose-like odor) in concentrations of
+11.61 lg/L and 9.50 lg/L, respectively. They are two of the most ﬂavor-active compounds due to their low sensory threshold (Longo
+and Sanromán, 2006). Terpenes can be present as free molecules
+or non-aromatic glycosylated precursors, and non-Saccharomyces
+species can release enzymes (e.g., b-glucosidase) with the capacity
+to hydrolyze these precursors making their active aromatic forms,
+useful for ﬂavor and fragrance industries (Maturano et al., 2012).
+There are no reports in the literature addressing the value addition to agroindustrial residues using H. uvarum. However, most of
+the volatile compounds produced by H. uvarum UFLA CAF76 in fermented coffee residues have been identiﬁed by several authors in
+wine fermentation (De Benedictis et al., 2011; Moreira et al. 2011),
+indicating the potential of this yeast for natural production of
+aromas.
+The amount of wastewater produced during coffee processing
+ranges from 1 to 15 liters per kg of coffee beans. The coffeeproducing unit (Lavras, state of Minas Gerais – Brazil), from where
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+Table 5
+Concentrations (lg/L) of volatile compounds in coffee residues fermented by H.
+uvarum UFLA CAF76.
+No.
+
+Compounds
+
+Uninoculated medium
+
+After fermentation
+
+Higher
+1
+2
+3
+4
+5
+6
+7
+8
+
+alcohols
+Methanol
+1-Propanol
+2-Methyl-1-propanol
+2-Methyl-1-butanol
+1-Butanol
+Trans-3-hexen-1-ol
+Furfuryl alcohol
+2-Phenylethanol
+Total higher alcohols
+
+108.69 ± 1.95
+nd
+nd
+nd
+6.60 ± 0.51
+7.74 ± 0.28
+nd
+nd
+123.03
+
+98.24 ± 5.14
+17.47 ± 1.04
+57.46 ± 1.69
+111.53 ± 2.48
+9.11 ± 1.46
+12.07 ± 0.55
+2.33 ± 0.24
+14.56 ± 0.89
+322.77
+
+Acetates
+9
+Ethyl acetate
+10
+Furfuryl acetate
+11
+Phenylethyl acetate
+Total acetates
+
+14.91 ± 0.10
+1.29 ± 0.22
+5.56 ± 0.49
+21.76
+
+15.63 ± 0.49
+3.67 ± 0.36
+21.98 ± 1.19
+41.28
+
+Aldehydes
+12
+Acetaldehyde
+13
+Butyraldehyde
+Total aldehydes
+
+31.65 ± 2.08
+nd
+85.80
+
+30.44 ± 1.55
+2.95 ± 0.43
+33.39
+
+Terpenes
+14
+Linalool
+15
+a-Terpeniol
+16
+Verbenone
+17
+b-Citronellol
+18
+Geraniol
+Total terpenes
+
+5.61 ± 0.04
+2.75 ± 0.16
+1.85 ± 0.10
+2.74 ± 0.26
+1.54 ± 0.23
+15.12
+
+17.22 ± 0.76
+3.90 ± 0.42
+3.26 ± 0.65
+12.24 ± 0.66
+2.27 ± 0.20
+33.89
+
+Volatile acids
+19
+Nonanoic acid
+20
+Decanoic acid
+Total volatile acids
+
+5.72 ± 0.19
+3.57 ± 0.10
+15.18
+
+3.20 ± 0.44
+6.17 ± 0.57
+9.37
+
+Others
+21
+2,3-Butanedione
+Total others
+
+0.88 ± 0.08
+0.88
+
+1.63 ± 0.26
+1.63
+
+nd: not detected.
+
+the wastewater used in this work was collected, uses in average 4
+liters of water per kg of coffee cherries. Coffee pulp corresponds to
+29% of residues generated from semi-dry coffee processing
+(Murthy and Madhava Naidu, 2012). According to the International
+Coffee Organization (ICO) the coffee production (2013) in Brazil was
+approximately 3 million tons produced in a cultivated area of 2.05
+million hectares. Taking into account the Brazilian coffee yield of
+1.4 ton/ha, the production of wastewater and coffee pulp is 5.6
+m3/ha and 0.4 ton/ha, respectively. The areas of coffee plantations
+in Brazil range from a few hectares to thousands of hectares. Considering the coffee production in Brazil, the amount of coffee pulp and
+wastewater generated and the estimated ethanol production; even
+for small coffee producers, the use of coffee residues with the process described in this study represents a new and interesting source
+of income for coffee producers. Besides ethanol, the production per
+hectare of others value-added compounds were estimated, e.g.,
+71.05 mg of 2-phenylethanol, 79,36 mg of phenylethyl acetate,
+56.12 mg of linalool and 45.9 mg of b-citronellol. Although from
+an economic point of view the concentrations of volatile compounds
+were not too expressive, the obtained data sets precedent for new
+experiments to produce volatile compounds using coffee pulp and
+coffee wastewater.
+On the other hand, phenolic compounds present in coffee pulp
+may produce lower absorption of amino acids and glucose, reduce
+food intake and lower digestibility of nutrients in ruminants,
+depending on the concentration (Waghorn and McNabb, 2003).
+These compounds were measured in the residual solid after the
+
+149
+
+fermentation and a concentration of 0.13 g/100 g of dry material
+was found. Compared with the concentration in coffee pulp
+(2.62 g/100 g of dry matter), a substantial decrease of total phenolic compounds can be noted. This means that the fermentation process could detoxify the coffee pulp and this solid residue could
+have a possible application in animal feed.
+This was an initial work to test the potential of coffee residues
+to produce value-added compounds, so there are many aspects
+that can be studied and improved on, as operational conditions
+(e.g. temperature, agitation, pH, oxygen availability, etc.), hydrolysis pretreatments and production of other value-added compounds
+(e.g. single-cell protein, phytochemicals, antioxidant compounds,
+enzymes, organic acids). This work proposes a low-cost fermentation process that could be of industrial value for coffee processing
+industries, generating extra incomes from value-added compounds. Likewise, this technology could be a proper alternative
+for waste disposal and recovery, minimizing the negatives effects
+to the environment.
+4. Conclusions
+Coffee residues have a large potential as raw material for bioethanol and volatile compounds production. H. uvarum UFLA
+CAF76 presented the best fermentation performance, which
+improvement was achieved with 12% w/v of coffee pulp, 1 g/L of
+yeast extract and 0.3 g/L of inoculum. Under these conditions,
+interesting results of ethanol yield (Yp/s), productivity (Qp) and efﬁciency (Ef) were obtained. The proﬁle of aroma compounds was
+characterized by 2-phenylethanol, phenylethyl acetate, linalool
+and b-citronellol. H. uvarum demonstrated to be a quite promising
+yeast for fermentations from coffee residues, further research is
+necessary to elucidate and maximize their potential.
+Acknowledgements
+The authors would like to thank Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG), Conselho Nacional de
+Desenvolvimento Cientíﬁco e Tecnológico do Brasil (CNPq) and
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+(CAPES) for providing ﬁnancial support.
+References
+AOAC., 1970. Association of Ofﬁcial Analytical Chemists. Ofﬁcial Methods of
+Analysis of the Association of Ofﬁcial Analytical Chemists, eleventh ed. AOAC,
+Washington, USA. 1015p.
+APHA, 1992. American Public Health Association. Standard Methods for the
+Examination of Water and Waste Water, Eighteenth ed. American Public
+Health Association, Washington, USA.
+Bicas, J.L., Silva, J.C., Dionísio, A.P., Pastore, G.M., 2010. Biotechnological production
+of bioﬂavors and functional sugars. Ciên. Tecnol. Aliment. 30, 07–18.
+Bitter, V., Muir, H.M., 1962. Modiﬁed uronic acid carbazole reaction. Anal. Biochem.
+4, 330–334.
+Choi, I.S., Wi, S.G., Kim, S.-B., Bae, H.-J., 2012. Conversion of coffee residue waste into
+bioethanol with using popping pretreatment. Bioresource Technol. 125, 132–
+137.
+De Benedictis, M., Bleve, G., Grieco, F., Tristezza, M., Tufariello, M., 2011. An
+optimized procedure for the enological selection of non-Saccharomyces starter
+cultures. Antonie van Leeuwenhoek 99, 189–200.
+Duarte, L.C., Carvalheiro, F., Neves, I., Girio, F.M., 2005. Effects of aliphatic acids,
+furfural, and phenolic compounds on Debaryomyces hansenii CCMI 941. Appl.
+Biochem. Biotechnol. 121, 413–425.
+Duarte, W.F., Sousa, M.V.F., Dias, D.R., Schwan, R.F., 2011. Effect of co-inoculation of
+Saccharomyces cerevisiae and Lactobacillus fermentum on the quality of the
+distilled sugar cane beverage cachaça. J. Food Sci. 76, C1307–C1318.
+Duarte, W.F., Amorim, J.C., Schwan, R.F., 2013. The effects of co-culturing nonSaccharomyces yeasts with S. cerevisiae on the sugar cane spirit (cachaça)
+fermentation process. Antonie van Leeuwenhoek 103, 175–194.
+Elias, L.G., 1979. Chemical composition of coffee berry by-products, in: Braham, J.E.,
+Bressani, R. (Eds.), Coffee Pulp: Composition, Technology and Utilization.
+Publication 108e, International Development Research Centre, Ottawa, Ont.,
+pp. 11–13.
+
+150
+
+V.A. Bonilla-Hermosa et al. / Bioresource Technology 166 (2014) 142–150
+
+Eshkol, N., Sendovski, M., Bahalul, M., Katz-Ezov, T., Kashi, Y., Fishman, A., 2009.
+Production of 2-phenylethanol from L-phenylalanine by a stress tolerant
+Saccharomyces cerevisiae strain. J. Appl. Microbiol. 106, 534–542.
+Esquivel, P., Jiménez, V.M., 2012. Functional properties of coffee and coffee byproducts. Food Res. Int. 46, 488–495.
+Haddis, A., Devi, R., 2008. Effect of efﬂuent generated from coffee processing plant
+on the water bodies and human health in its vicinity. J. Hazard. Mater. 152,
+259–262.
+ICO, 2014. International Coffee Organization . Available at: http://www.ico.org/
+Accessed 16 January 2014.
+Kwon, E.E., Yi, H., Jeon, Y.J., 2013. Sequential co-production of biodiesel and
+bioethanol with spent coffee grounds. Bioresource Technol. 136, 475–480.
+Longo, M., Sanromán, M., 2006. Production of Food Aroma Compounds: microbial
+and enzymatic methodologies. Food Technol. Biotechnol. 44, 335–353.
+Maturano, Y.P., Rodríguez Assaf, L.A., Toro, M.E., Nally, M.C., Vallejo, M., Castellanos
+de Figueroa, L.I., Combina, M., Vazquez, F., 2012. Multi-enzyme production by
+pure and mixed cultures of Saccharomyces and non-Saccharomyces yeasts
+during wine fermentation. Int. J. Food Microbiol. 155, 43–50.
+Medeiros, A.B., Pandey, A., Christen, P., Fontoura, P.S., de Freitas, R.J., Soccol, C.R.,
+2001. Aroma compounds produced by Kluyveromyces marxianus in solid state
+fermentation on a packed bed column bioreactor. World J. Microb. Biotechnol.
+17, 767–771.
+Moreira, N., Pina, C., Mendes, F., Couto, J.A., Hogg, T., Vasconcelos, I., 2011. Volatile
+compounds contribution of Hanseniaspora guilliermondii and Hanseniaspora
+uvarum during red wine viniﬁcations. Food Control. 22, 662–667.
+Murthy, P.S., Madhava Naidu, M., 2012. Sustainable management of coffee industry
+by-products and value addition—A review. Resour. Conserv. Recycl. 66, 45–58.
+Mussatto, S.I., Carneiro, L.M., Silva, J.P.A., Roberto, I.C., Teixeira, J.A., 2011a. A study
+on chemical constituents and sugars extraction from spent coffee grounds.
+Carbohydr. Polymers 83, 368–374.
+Mussatto, S.I., Machado, E.M.S., Martins, S., Teixeira, J.A., 2011b. Production,
+composition, and application of coffee and its industrial residues. Food
+Bioprocess. Technol. 4, 661–672.
+
+Mussatto, S.I., Machado, E.M.S., Carneiro, L.M., Teixeira, J.A., 2012. Sugars
+metabolism and ethanol production by different yeast strains from coffee
+industry wastes hydrolysates. Appl. Energy 92, 763–768.
+Navia, D.P., Velasco, R.J., Hoyos, J.L., 2011. Production and evaluation of ethanol
+from coffee processing by-products. Vitae 18, 287–294.
+Nelson, N.A., 1944. A photometric adaptation of the Somogyi method for the
+determination of glucose. J. Biol. Chem. 135, 375–380.
+Palmqvist, E., Hahn-Hägerdal, B., 2000. Fermentation of lignocellulosic hydrolysates
+II: inhibitors and mechanism of inhibition. Bioresource Technol. 74, 25–33.
+Pandey, A., Soccol, C.R., Nigam, P., Brand, D., Mohan, R., Roussos, S., 2000.
+Biotechnological potential of coffee pulp and coffee husk for bioprocesses.
+Biochem. Eng. J. 6, 153–162.
+Salgado, J.M., González-Barreiro, C., Rodríguez-Solana, R., Simal-Gándara, J.,
+Domínguez, J.M., Cortés, S., 2012. Study of the volatile compounds produced
+by Debaryomyces hansenii NRRL Y-7426 during the fermentation of detoxiﬁed
+concentrated distilled grape marc hemicellulosic hydrolysates. World J. Microb.
+Biotechnol. 28, 3123–3134.
+Shenoy, D., Pai, A., Vikas, R., Neeraja, H., Deeksha, J., Nayak, C., Vaman Rao, C., 2011.
+A study on bioethanol production from cashew apple pulp and coffee pulp
+waste. Biomass Bioenergy 35, 4107–4111.
+Ulloa, J., Verreth, J., Amato, S., Huisman, E., 2003. Biological treatments affect the
+chemical composition of coffee pulp. Bioresource Technol. 89, 267–274.
+Vandamme, E.J., 2003. Bioﬂavours and fragrances via fungi and their enzymes.
+Fungal Divers. 13, 153–166.
+Van der Kamer, J.H., Van Ginkel, L., 1952. Rapid determination of crude ﬁber in
+cereals. Cereal Chem. 29, 23–25.
+Van Soest, P.J., Wine, R.H., 1968. Determination of lignin and cellulose in acid
+detergent ﬁber with permanganate. J. AOAC 51, 780–785.
+Vilela, D.M., Pereira, G.V.D.M., Silva, C.F., Batista, L.R., Schwan, R.F., 2010. Molecular
+ecology and polyphasic characterization of the microbiota associated with
+semi-dry processed coffee (Coffea arabica L.). Food Microbiol. 27, 1128–1135.
+Waghorn, G.C., McNabb, W.C., 2003. Consequences of plant phenolic compounds for
+productivity and health of ruminants. Proc. Nutr. Soc. 62, 383–392.
+
+

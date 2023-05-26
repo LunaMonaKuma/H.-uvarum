@@ -1,0 +1,1448 @@
+Food Microbiology 36 (2013) 335e342
+
+Contents lists available at SciVerse ScienceDirect
+
+Food Microbiology
+journal homepage: www.elsevier.com/locate/fm
+
+Biodiversity and safety aspects of yeast strains characterized from
+vineyards and spontaneous fermentations in the Apulia Region, Italy
+Mariana Tristezza a, Cosimo Vetrano b, Gianluca Bleve a, Giuseppe Spano c,
+Vittorio Capozzi c, Antonio Logrieco d, Giovanni Mita a, Francesco Grieco a, *
+a
+
+C.N.R. e Institute of Sciences of Food Production (ISPA), Operative Unit of Lecce, via Prov. Lecce-Monteroni, 73100 Lecce, Italy
+CO.SE.LAB.A. Società Cooperativa A.R.L., via Baracca Maggiore, 73043 Copertino, Lecce, Italy
+Department of Science of Agriculture, Food and Environment, University of Foggia, via Napoli 25, 71122 Foggia, Italy
+d
+C.N.R. e Institute of Sciences of Food Production (ISPA), via Amendola 166/O, 70126 Bari, Italy
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 5 October 2012
+Received in revised form
+4 June 2013
+Accepted 2 July 2013
+Available online 16 July 2013
+
+This work is the ﬁrst large-scale study on vineyard-associated yeast strains from Apulia (Southern Italy).
+Yeasts were identiﬁed by Internal Transcribed Spacer (ITS) ribotyping and bioinformatic analysis. The
+polymorphism of interdelta elements was used to differentiate Saccharomyces cerevisiae strains. Twenty
+different species belonging to 9 genera were identiﬁed. Predominant on the grape surface were
+Metschnikowia pulcherrima, Hanseniaspora uvarum and Aureobasidium pullulans, whereas M. pulcherrima
+and H. uvarum were dominant in the early fermentation stage. A total of 692 S. cerevisiae isolates were
+identiﬁed and a number of S. cerevisiae strains, ranging from 26 to 55, was detected in each of the eight
+fermentations. The strains were tested for biogenic amines (BAs) production, either in synthetic media or
+grape must. Two Pichia manshurica, an Issatchenkia terricola and a M. pulcherrima strains were able to
+produce histamine and cadaverine, during must fermentation. The production of BAs in wine must was
+different than that observed in the synthetic medium. This feature indicate the importance of an “in
+grape must” assessment of BAs producing yeast. Overall, our results suggest the importance of microbiological control during wine-making to reduce the potential health risk for consumer represented by
+these spoilage yeasts.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Histamine
+Biogenic amines
+Yeast
+Wine
+Yeast biodiversity
+Autochthonous starter cultures
+
+1. Introduction
+The conversion of grape must to wine is a complex biochemical
+process mediated by highly-specialized microorganisms, yeasts
+and bacteria (Fleet, 1999; Mortimer and Polsinelli, 1999). NonSaccharomyces yeasts, including species of Hanseniaspora, Candida,
+Metschnikowia and Pichia, show lower fermentative activity than
+Saccharomyces cerevisiae and dominate the early stages of spontaneous fermentation (Bauer and Pretorius, 2000). Furthermore, the
+population of non-Saccharomyces rapidly decreases due to the
+strong selective pressure exerted by strains belonging to
+S. cerevisiae, the main species responsible for alcoholic fermentation (Fleet, 2008). However, it has been demonstrated that the
+
+* Corresponding author. Tel.: þ39 0832422612; fax: þ39 0832422620.
+E-mail addresses: marianatristezza@gmail.com (M. Tristezza), cosimovetrano@
+libero.it (C. Vetrano), gianluca.bleve@ispa.cnr.it (G. Bleve), g.spano@unifg.it
+(G. Spano), vittorio.capozzi@gmail.com (V. Capozzi), antonio.logrieco@ispa.cnr.it
+(A. Logrieco), giovanni.mita@ispa.cnr.it (G. Mita), francesco.grieco@ispa.cnr.it
+(F. Grieco).
+0740-0020/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.fm.2013.07.001
+
+fermentation process is carried out and completed by a limited
+number of dominant strains associated with a variable number of
+secondary strains (Versavaud et al., 1995; Redzepovi
+c et al., 2002).
+Indigenous yeasts are present on the surfaces of grapes and their
+success in surviving and driving fermentation depends on the sum
+of various physical, chemical and biotic factors (Barata et al., 2012).
+The geographical distribution of S. cerevisiae strains within speciﬁc
+wine-producing regions has been analyzed (Versavaud et al., 1995;
+Pramateftaki et al., 2000; Redzepovi
+c et al., 2002; Martinez et al.,
+2004; Bisson, 2012) and changes in microﬂora composition in
+different vineyards have been observed. Over several consecutive
+years, predominant strains have also been observed in the same
+vineyard. The analysis of wine strain diversity and the relationship
+between genotype and phenotype can be used in the development
+and identiﬁcation of speciﬁc strains well-tailored for speciﬁc production needs (Bisson, 2012). The fundamental role played by
+S. cerevisiae has induced many winemakers to use commercial yeast
+strains as fermentation starters, but their widespread utilization
+can lead to the progressive substitution of local microﬂora (Ganga
+and Martinez, 2004; Valero et al., 2005) and the ﬂattening of the
+
+336
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+typical organoleptic features usually connected with indigenous
+yeast strains. The understanding of the yeast population dynamics
+during natural alcoholic fermentation could help to preserve the
+most representative native strains to use as autochthonous
+fermentative starters so as to enhance the organoleptic and sensory
+properties of the product (Capece et al., 2010; Comitini et al., 2011;
+Capozzi and Spano, 2011; Tristezza et al., 2012; Di Maio et al., 2012).
+In this light, it is also increasingly important to evaluate microbial biodiversity in terms of wine safety (Pozo-Bayón et al.,
+2012). One of the emerging problems for wine consumers is
+caused by the presence of biogenic amines (BAs), low-molecularweight organic bases formed in wine by the activity of microbialspeciﬁc amino acid decarboxylases (Capozzi et al., 2011).
+Several studies have been conducted on the presence of
+biogenic amines in wines originating from different countries
+worldwide. Putrescine is the most abundant compound, followed
+by histamine, tyramine and cadaverine. Their concentrations range
+from a few hundreds of micrograms to a few tens of milligrams per
+litre (Landete et al., 2007; Spano et al., 2010; Beneduce et al., 2010).
+High concentrations of BAs in wine lead to adverse physiological
+consequences in sensitive consumers and these toxic effects are
+further enhanced by the presence of acetaldehyde and ethanol
+(Coton et al., 2010). BAs are thus considered a risk for human health
+and their toxicity has led to the universal concept that they should
+not be allowed to accumulate in food and beverages (Spano et al.,
+2010; Linares et al., 2012). This aspect is even testiﬁed by existing
+limits for histamine in wine in some European countries (Smit et al.,
+2008) and by the recently published Scientiﬁc Opinion of the Panel
+on Biological Hazards of the EFSA (European Food Safety Authority)
+on risk-based control of BA formation in fermented foods (EFSA
+Panel on Biological Hazards (BIOHAZ), 2011).
+An extensive literature exists on biogenic amine production by
+lactic acid bacteria (LAB) in different fermented foodstuffs (Landete
+et al., 2005; Fernández and Zúñiga, 2006; Smit et al., 2008; Coton
+et al., 2010). However, the studies on BAs produced by wine
+yeasts reported contrasting results. Landete et al. (2007) analyzed
+wine yeast strains for their ability to produce biogenic amines and
+none of the strains analysed was able to produce BAs. In contrast,
+BA production by yeast has been reported by several authors in
+strains belonging to S. cerevisiae, Kloeckera apiculata, Candida stellata, Metschnikowia pulcherrima, Brettanomyces bruxellensis and
+Zygoascus hellenicus species (Caruso et al., 2002; Granchi et al.,
+2005; Chang et al., 2009).
+The objective of this work was to analyse the biodiversity of
+indigenous yeast populations associated with grape and with
+spontaneous alcoholic fermentations in Apulia (Southern Italy) and
+to evaluate their ability to produce BAs. To the best of our knowledge, this is the ﬁrst report concerning the vineyard-associated
+yeast strains in this important wine-producing area of Southern
+Italy. The data obtained shed further light on the contribution of
+undesired native yeasts on BA accumulation during wine
+fermentation.
+2. Materials and methods
+2.1. Grape sampling and fermentation
+Eight spontaneous alcoholic fermentations were performed by
+sampling Primitivo grape cultivars in the Galatina, Torchiarolo,
+Manduria and Gioia del Colle areas and Negroamaro grape cultivars (Vitis vinifera) from four vineyards located in Torchiarolo,
+Copertino, Cutroﬁano and Melissano, the most signiﬁcant production areas for these cultivars and related wines in Apulia. The
+fermentations were carried out using samples from 80 to 90 kg
+grape berries in 100-L tanks in an experimental cellar at a
+
+temperature between 22 and 25  C, with daily monitoring of sugar
+consumption. Samples were taken at three different stages: on the
+ﬁrst day of fermentation; in the middle of fermentation (density
+1050e1040 g/L) and at the end of fermentation (density 995e
+993 g/L). Isolation of the microorganisms associated with the
+grape surface was carried out according to Prakitchaiwattana et al.
+(2004).
+2.2. Yeast molecular identiﬁcation
+Ten-fold dilutions of must samples were spread onto plates
+containing YPD medium (yeast extract 1% w/v, meat peptone 2%
+w/v, glucose 2% w/v and agar 2% w/v) and incubated at 28  C for
+24e48 h. Thus, 35 colonies were randomly selected, according to
+their different morphological aspects, from each stage of the eight
+spontaneous fermentations. The isolates were identiﬁed according to the length of the rDNA region spanning the 5.8S rRNA gene
+and ﬂanking the internal transcribed spacers 1 and 2 (De
+Benedictis et al., 2011). To determine the species identity of isolates, amplicons were subjected to sequence analysis and
+compared with the sequences in the GenBank database. All isolates identiﬁed as S. cerevisiae were characterized at strain level
+by interdelta typing as previously described (Tristezza et al.,
+2009).
+2.3. Statistical analysis
+Binary matrices built with data from interdelta ampliﬁcation
+were used for cluster analysis of the pairwise values based on the
+Dice coefﬁcient by the UPGMA algorithm, using the NTSYS software
+(Applied Biostatistics, USA). Classical ecology indices, such as the
+ShannoneWiener index of general diversity (H), the richness (S) of
+the microbial community, Simpson’s diversity indices (D and 1  D)
+and Evenness (e^H/S) were calculated using the free software
+package PAST (Palaeontology Statistics, http://folk.uio.no/
+ohammer/past/). Moreover, the frequency of the species (F0 ) was
+calculated as the number of samples from which each species was
+isolated among the total number of samples and incidence of the
+species (I0 ) as the percentage of occurrence of the species in the
+whole yeast population in the study. The ratio between the number
+of isolates belonging to the specie S. cerevisiae and the number of
+molecular patterns was also calculated as a polymorphism index
+(Schuller et al., 2005).
+2.4. Amino acids decarboxylation assay
+The identiﬁcation of yeast strains possessing an amino acid
+decarboxylation activity was carried out by a plate assay method
+(Nikolaou et al. 2006). The amino acids histidine, tyrosine,
+phenylalanine, tryptophan, lysine, leucine and arginine were utilized. Brieﬂy, ten microliters of a saturated yeast culture were
+applied onto YPD agar plates, added with 1% (w/v) of one of the
+chosen amino acids and 0.006% (w/v) bromocresol. After incubation at 25  C for 5e7 days, the plates were analyzed for the presence/absence of a purple halo around the yeast colony: amino acid
+decarboxylation was considered positive when a purple halo surrounded the yeast colony. The isolates were screened according to
+the halo size, thus making it possible to recognize distinct groups of
+isolates identiﬁed by a numerical code: 1, purple halo 0e1 mm in
+width; 2, purple halo 1e3 mm in width; 3, purple halo 3e5 mm in
+width; 4, purple halo more than 5 mm in width. Hanseniaspora
+uvarum strain 8795 (De Benedictis et al., 2011) and Lactobacillus
+brevis IOEB 9809 (Arena et al., 2011) were used as negative and
+positive control, respectively.
+
+35
+8
+
+1
+
+25
+1
+
+8
+19
+2
+7
+
+35
+
+35
+
+19
+
+10
+
+2
+4
+
+3
+
+3
+
+5
+
+26
+
+5
+
+6
+
+3
+
+24
+15
+
+9
+
+35
+35
+5
+21
+
+2
+
+3
+2
+
+3
+15
+
+14
+
+14
+
+5
+1
+
+1
+11
+9
+
+35
+35
+
+1
+5
+
+15
+1
+35
+
+1
+
+1
+
+4
+
+10
+
+3
+28
+2
+2
+1
+
+1
+
+29
+2
+
+35
+16
+
+4
+
+9
+
+6
+
+11
+
+35
+
+12
+
+2
+21
+
+4
+9
+
+12
+
+31
+
+4
+
+3
+
+2
+
+35
+
+3
+
+3
+
+16
+
+1
+
+11
+
+8
+
+8
+
+2
+18
+
+2
+21
+2
+5
+2
+11
+
+2
+
+35
+3
+18
+
+35
+
+1
+25
+
+9
+
+1
+
+1
+
+32
+
+1
+5
+4
+3
+2
+1
+
+Torchiarolo
+
+5
+4
+3
+2
+1
+
+Melissano
+
+5
+4
+3
+2
+
+35
+
+5
+
+3
+
+31
+
+12
+3
+
+17
+
+3
+
+16
+
+19
+
+1
+
+4
+
+A. pullulans
+C. cladosporioides
+C. incommunis
+C. oeirensis
+C. stellata
+C. thermophila
+C. zemplinina
+H. guilliermondii
+H. uvarum
+I.orientalis
+I. terricola
+K. marxianus
+K. thermotolerans
+M. pulcherrima
+P. manshurica
+Pichia sp.
+P.glabrum
+P. nalgiovense
+S. cerevisiae
+Z. hellenicus
+
+3
+2
+
+1 ¼ berry surface, 2 ¼ start of fermentation, 3 ¼ mid-fermentation, 4 ¼ end of fermentation, 5 ¼ residual lees; F0 ¼ frequency of the species, i.e. the proportion of samples from which the species was isolated; I0 ¼ incidence of the
+species, i.e. the percentage occurrence in the whole yeast population in the study.
+
+35
+
+0.10
+0.03
+0.03
+0.03
+0.18
+0.03
+0.13
+0.25
+0.45
+0.15
+0.30
+0.03
+0.08
+0.33
+0.03
+0.05
+0.03
+0.03
+0.60
+0.10
+
+F0
+5
+4
+3
+2
+1
+
+Torchiarolo
+
+5
+4
+3
+2
+1
+
+Manduria
+
+5
+4
+3
+2
+1
+
+Gioia del Colle
+
+5
+4
+1
+1
+
+3
+Galatina
+Cutroﬁano
+Copertino
+
+2
+
+Primitivo
+
+In Table 1 the distribution of different yeast species identiﬁed in
+samples of spontaneous fermentations of Negroamaro and Primitivo grapes is summarized. The predominant yeast species on the
+grape surfaces were M. pulcherrima, H. uvarum, Aureobasidium
+pullulans, C. stellata and Candida zemplinina. However, additional
+species such as Issatchenkia terricola, Cladosporium sp., Penicillium
+spp., Cryptococcus sp., Z. hellenicus and Kluyveromyces thermotolerans were identiﬁed. The species M. pulcherrima and H. uvarum
+were dominant in the initial phases of fermentation, although
+C. stellata, Kluyveromyces spp., Pichia spp. and Issatchenkia spp. were
+also detected. In contrast, in the Copertino sample, S. cerevisiae was
+already detectable from the early phase of fermentation onwards
+(Table 1). Furthermore, in all the fermentation steps analysed, all
+winemaking trials showed a sequential replacement of nonSaccharomyces species with populations of yeasts belonging to the
+species S. cerevisiae, with the exception of the Melissano sample, for
+which the genus Saccharomyces appears and dominates only at the
+end of fermentation. In Table 1 is also reported the frequency (F0 )
+and incidence (I0 ) of each species. The most frequent species was
+S. cerevisiae (F0 ¼ 0.60) which was present from the early phase of
+fermentation and was also the most abundant (I0 ¼ 48.33), followed
+by H. uvarum (F0 ¼ 0.45; I0 ¼ 14.08) and M. pulcherrima (F0 ¼ 0.33;
+I0 ¼ 9.90). C. stellata (F0 ¼ 0.18; I0 ¼ 5.55) and C. zemplinina (F0 ¼ 0.13;
+I0 ¼ 4.55) that were more abundant though less frequent than
+Hanseniaspora guilliermondii (F0 ¼ 0.25; I0 ¼ 3.78) and I. terricola
+(F0 ¼ 0.30; I0 ¼ 4.40). A. pullulans was found in only four samples
+(F0 ¼ 0.10) but had a relative high incidence (I0 ¼ 3.58). As reported
+in Table 2, statistical analysis revealed that species richness was
+highest in the sample from Galatina (S ¼ 14) followed by Melissano
+
+Negroamaro
+
+3.1. Molecular identiﬁcation of indigenous yeasts
+
+Species
+
+3. Results
+
+Table 1
+Distribution of the yeast species associated with eight spontaneous fermentation of Negroamaro and Primitivo grapes.
+
+The ability of the selected yeast strains to produce biogenic
+amine was investigated by a recently developed analytical method
+(Romano et al., 2012), for determining the four main biogenic
+amines of wine (i.e. histamine, tyramine, putrescine and cadaverine). Yeast strains were grown in YEPG broth (yeast extract 10 g/L,
+peptone 20 g/L, glucose 20 g/L) supplemented with a single amino
+acid (histidine, lysine and arginine at 1% w/v concentration or
+tyrosine at 0.1% w/v concentration) at 25  C for 24 h and then
+samples were collected for further analysis. Yeast were also grown
+in Negroamaro must (sterilized by autoclaving at 121  C for 15 min)
+supplemented with a single amino acid as described above, incubated at 25  C for 14 days, and samples were taken at 0, 7 and 14
+days post inoculation. All collected samples were centrifuged and
+supernatant aliquots (200 mL) were mixed with 200 mL of saturated
+NaHCO3 solution and 400 mL dansyl chloride solution (5 mg/mL in
+acetone) and then incubated at 55  C for 1 h. Vials were incubated
+at room temperature for a few minutes and supplemented with
+100 mL saturated NaCl solution and 200 mL iso-hexane. Extraction
+was performed on a tabletop shaker for 5 min. Finally, 20 mL aliquots of organic phase were deposed on the TLC plates to detect
+histamine, tyramine, cadaverine and putrescine. Separation of
+analytes was performed on silicagel 60 TLC glass plates, without
+ﬂuorescent indicator (Merck, Darmstadt, Germany). TLC plates
+were illuminated at a wavelength of 312 nm and images were
+captured and then analyzed using the BIO-1D software (VilberLourmat, France). A semi-quantitative determination was performed by comparing the ﬂuorescence intensity of the samples
+with 2 reference samples containing 50 and 0.5 mg/L of each
+biogenic amine.
+
+I0
+
+2.5. Biogenic amine detection
+
+337
+
+3.55
+0.15
+0.10
+0.08
+5.55
+0.08
+4.55
+3.78
+14.08
+1.83
+4.40
+0.20
+0.58
+9.90
+0.33
+1.13
+0.20
+0.08
+48.30
+1.18
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+338
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+Table 2
+Biodiversity indices of the eight spontaneous fermentations of Negroamaro and Primitivo grapes.
+Negroamaro
+Copertino
+Species richness (S)
+Dominance (D)
+Simpson (1  D)
+Shannon (H)
+Evenness_(e^H/S)
+
+a
+
+4
+0.4306a
+0.5694a
+1.011a
+0.6874a
+
+Primitivo
+Cutroﬁano
+7
+
+a,b
+
+Melissano
+
+Torchiarolo
+
+a
+
+0.4236a
+0.5764a
+1.079a
+0.42b
+
+a
+
+9
+0.2549b
+0.7451b
+1.631b
+0.5674c
+
+6
+0.3074b
+0.6926b
+1.434b
+0.6992a
+
+Galatina
+c
+
+14
+0.2985b
+0.7015b
+1.61b
+0.3574b
+
+Gioia del Colle
+b
+
+Manduria
+
+Torchiarolo
+
+b
+
+9
+0.2754b
+0.7246b
+1.657b
+0.5828a,c
+
+8b
+0.2798b
+0.7202b
+1.569b
+0.6003a,c
+
+8
+0.2557b
+0.7443b
+1.624b
+0.6344a,c
+
+Different letters indicates statistically signiﬁcant differences (p < 0.05) of values in the same row.
+
+and Gioia del Colle (S ¼ 9). However, biodiversity does not depend
+only on the number of species found, but also on its relative
+dominance and abundance. The general index of biodiversity (H)
+for samples of Primitivo appeared to be higher (1.569 < H < 1.657)
+than for Negroamaro microbial communities (1.011 < H < 1.631).
+Moreover, among the fermentations of Negroamaro grapes, the
+Simpson’s indices effectively distinguished the two samples with
+the highest dominance index, Copertino and Cutroﬁano (D ¼ 0.43
+and D ¼ 0.42, respectively), from the sample with the highest diversity, i.e. Melissano (1  D ¼ 0.75).
+3.2. Intraspeciﬁc analysis of S. cerevisiae population
+A total of 692 S. cerevisiae isolates were identiﬁed among the
+grape surfaces and the eight samples of spontaneous fermentation.
+The molecular patterns obtained by interdelta analysis enabled the
+differentiation of a variable number of S. cerevisiae strains per
+vineyard, ranging from 26 to 55 (Table 3). The S. cerevisiae population from Cutroﬁano showed the lowest polymorphism (28%)
+calculated as the ratio between the number of molecular patterns
+and the number of isolates, while the population from Gioia del
+Colle was the most polymorphic (variability 63%). Despite the
+elevated number of distinct molecular patterns, the Negroamaro
+grape samples from Cutroﬁano, Melissano and Torchiarolo showed
+low intraspeciﬁc diversity indices due to relative high dominance
+indices. In fact, in these samples, up to 52% of the population was
+grouped into one or two patterns at most (Table 3).
+All of the other ﬁve samples not only showed a higher number of
+distinct molecular patterns of S. cerevisiae but most of these patterns were unique, which gave rise to higher indices of biodiversity
+(H > 3) with low concentration of dominance (D < 0.15).
+3.3. Biogenic amine production
+In order to identify the strains possessing a signiﬁcant capacity
+for amino acid decarboxylation, halo dimension from the amino
+acid decarboxylation assay was used as a discriminative parameter
+in a preliminary in vitro screening (Romano et al., 2007). Three
+hundred and ﬁfty isolates, randomly selected from the initial
+
+population made up of 1400 isolates were investigated for their
+ability to decarboxylate the amino acids histidine, tyrosine,
+phenylalanine, tryptophan, lysine, leucine and arginine. Sixty-nine
+isolates, representing 20% of the analyzed population, showed a
+positive reaction for at least one of the above amino acids. Among
+the tested genera, Hanseniaspora spp., Kluyveromyces spp. and
+Candida spp. isolates all failed to show signiﬁcant capacity (code 1
+or 2) to decarboxylate any of the amino acids used for the strain
+biotypization, showing behavior comparable to the totality of
+S. cerevisiae (score 0) and A. pullulans (code 0) isolates, analyzed at
+the same time. As reported in Table 3, eleven isolates, representing
+3.1% of the analyzed population, showed a code ranging from 3 to 4
+associated with the decarboxylation of at least one of the amino
+acids used (isolates scoring 1 and 2 were not reported). The biotypization assay showed that three isolates belonging to
+Z. hellenicus and one isolate of M. pulcherrima were able to decarboxylate all of the tested amino acids. The other isolates scoring a
+code >2 were all able to decarboxylate histidine (Table 4). Moreover, I. terricola (2KUT21) and Pichia manshurica (3KUT25 and
+3KUT29) were also able to decarboxylate the amino acid lysine,
+whereas the isolates 2KUT12 (Issatchenkia orientalis), 2KUT31 and
+3KUT26 (both I. terricola) showed analogous enzymatic activity
+against leucine. Furthermore, the eleven strains were tested for the
+production of the biogenic amines histamine, tyramine, cadaverine
+and putrescine in a synthetic medium (Table 5; Fig. 1). Concerning
+the Z. hellenicus isolates, strain variability in BAs formation was
+observed. Indeed, although strain 1KUT24 was able to produce all
+the BAs analyzed, only tyramine, cadaverine and putrescine or
+tyramine and cadaverine were detectable in strain 2M2 and 2M5,
+respectively. Histamine was also produced by strains 3KUT31
+(I. terricola) and 3KUT27 (M. pulcherrima), which was also able to
+form tyramine and putrescine. Both P. manshurica isolates synthesized cadaverine (Table 5).
+The eleven yeast strains were further tested for BAs production
+during grape must fermentation. Both 3KUT31 (I. terricola) and
+3KUT27 (M. pulcherrima) strains conﬁrmed that they were capable
+to produce histamine and cadaverine, but not tyramine and putrescine (Fig. 2). The ability to produce cadaverine was conﬁrmed in
+the two strains of P. manshurica. Additionally, the production of
+
+Table 3
+Intraspeciﬁc diversity of S. cerevisiae yeasts isolated from the different spontaneous fermentations.
+
+Copertino
+Cutroﬁano
+Torchiarolo (N)
+Melissano
+Manduria
+Gioia del Colle
+Torchiarolo (P)
+Galatina
+a
+
+S. cerevisiae
+isolates
+
+Molecular
+patterns
+
+Variability (%)a
+
+Dominance (D)
+
+Shannon’s
+index (H)
+
+Evenness (e^H/S)
+
+104
+102
+90
+68
+80
+81
+80
+87
+
+35
+29
+31
+26
+36
+55
+40
+45
+
+34
+28
+35
+38
+45
+63
+50
+52
+
+0.06
+0.15
+0.28
+0.15
+0.06
+0.03
+0.10
+0.06
+
+3.23
+2.65
+2.24
+2.57
+3.20
+3.83
+3.07
+3.33
+
+0.72
+0.49
+0.30
+0.50
+0.68
+0.84
+0.54
+0.62
+
+ratio between the number of patterns and the number of isolates.
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+Table 4
+Yeast isolates able to decarboxylate at least one of the amino acids used in agar plate
+test and showing a phenotype identiﬁed by code 3 or 4 (see Section 2.4). The phenotypes showed by the Hanseniaspora uvarum strain 8795 (negative control) and the
+Lactobacillus brevis IOEB 9809 (positive control) are indicated.
+Isolate
+
+Species
+
+AA decarboxylation
+His
+
+Tyr
+
+Phe
+
+Trp
+
+Lys
+
+Leu
+
+Arg
+
+1KUT24
+2M2
+2M5
+2KUT12
+2KUT21
+2KUT31
+3KUT26
+3KUT25
+3KUT29
+3KUT27
+ITEM 8795
+IOEB 9809
+
+Z. hellenicus
+Z. hellenicus
+Z. hellenicus
+I. orientalis
+I .terricola
+I .terricola
+I .terricola
+P. manshurica
+P. manshurica
+M. pulcherrima
+H. uvarum
+L. brevis
+
+4
+3
+3
+3
+3
+4
+3
+3
+3
+4
+0
+0
+
+4
+4
+4
+0
+1
+1
+0
+1
+1
+3
+0
+4
+
+3
+3
+4
+1
+0
+1
+0
+1
+1
+3
+0
+0
+
+3
+3
+3
+2
+0
+0
+0
+0
+2
+3
+0
+0
+
+3
+4
+3
+0
+3
+0
+0
+4
+4
+3
+0
+0
+
+4
+4
+3
+3
+1
+3
+3
+2
+2
+3
+0
+0
+
+4
+4
+4
+1
+1
+1
+1
+1
+1
+4
+0
+0
+
+histamine during must fermentation, was observed in the analysed
+P. manshurica strains (Fig. 2). The remaining strains, including the
+strains belonging to the Z. hellenicus species, were conﬁrmed only
+as cadaverine producer strains when inoculated in grape must
+(data not shown).
+4. Discussion
+The aims of this work were to provide data on the composition
+of vineyard-associated microﬂora and to evaluate possible risks to
+consumers caused by the presence of the analysed microorganisms
+during the wine production process.
+Even though numerous examples of protocols for laboratory
+experimental viniﬁcation have been described in the literature
+(Romano et al., 1998; Esteve-Zarzoso et al., 2000; Cordero-Bueso
+et al., 2011), we decided to carry out the winemaking process in a
+tailor-designed experimental winery and to reproduce the must
+fermentation on a signiﬁcant scale, maintaining microbiological
+control of the process. The number of colonies selected at each
+stage of yeast fermentation, as determined in 35 individual colonies, represented a statistically signiﬁcant sample of the biomass
+present in each of these phases (Bre
+zná et al., 2010; Cordero-Bueso
+et al., 2011).
+The data obtained by the molecular identiﬁcation of isolated
+yeasts were in agreement with previous ecological studies carried
+out in Spain, France, Greece, Slovenia and Italy, concerning the
+microﬂora present in natural fermentations of typical grape varieties (Versavaud et al. 1995; Pramateftaki et al., 2000; Povhe Jemec
+
+339
+
+et al., 2001; Torija et al., 2001; Clemente-Jiménez et al. 2004; Di
+Maro et al. 2007).
+M. pulcherrima and H. uvarum were the predominant yeast
+species on the surface of the berries of Negroamaro. Additionally,
+strains of K. thermotolerans, I. terricola and H. guilliermondii were
+isolated.
+The Primitivo grapes showed a microbial population with
+C. stellata, M. pulcherrima and C. zemplinina as the predominant
+species. The different population composition between the two
+cultivars can be attributed to several factors, such as geographical
+location and climatic conditions (Fleet et al., 1984; Parish and
+Carroll, 1987), age of the vineyard, grape variety (Rosini et al.,
+1982) and farming system (Comitini and Ciani, 2008). The presence of C. stellata on Primitivo berries may be justiﬁed by the higher
+sugar concentration of this grape variety (Lafon-Lafourcade, 1983).
+The species Z. hellenicus (teleomorph of Candida steatolytica) has
+been described as a contaminant and has been often associated
+with damaged grapes (Barata et al., 2008).
+Many species, such as H. uvarum, Issatchenkia sp., Candida sp.
+and M. pulcherrima, already present on the berry surface were also
+present in the must at the beginning of the fermentation process
+(Lambrechts and Pretorius, 2000). Of great interest is the detection
+of isolates of S. cerevisiae (8% of the population examined) in the
+initial phase of the fermentation of grapes from Copertino.
+Although quite unusual, the consistent presence of this species of
+yeast in the early stages of fermentation has already been reported
+from natural fermentation in Greece (Pramateftaki et al., 2000) and
+Spain (Torija et al., 2001).
+The data concerning the population dynamics of S. cerevisiae
+strains showed a higher intraspeciﬁc variability (between 28% and
+63%) compared to that found in other indigenous populations
+associated with the fermentation of musts in France (Versavaud
+et al., 1995), Spain (Sabate et al., 2002; Cordero-Bueso et al.,
+2011), and Argentina (Sangorrín et al., 2002). This evidence can be
+explained by the fact that most of these analyses have regarded
+natural fermentations conducted in an industrial cellar or in laboratory. A cellar is in itself an ecosystem that can affect the population dynamics of strains of wine yeast with the so-called “cellar
+effect”, which would lead to the creation of a self-selected and
+stable microﬂora in the cellar over the years (Vezinhet et al., 1992;
+Ciani et al., 2004; Li et al., 2012). In contrast, fermentations performed on a small laboratory scale do not represent a real winemaking process. The viniﬁcation system used in this study was not
+inﬂuenced by the microﬂora already present in the cellar and it has
+proved to be an excellent tool for the implementation of a protocol
+for native microﬂora identiﬁcation.
+The formation of biogenic amines in wine is mainly due to the
+metabolism of lactic acid bacteria involved in malolactic fermentation
+
+Table 5
+Production of the biogenic amines histamine, tyramine, cadaverine and putrescine in synthetic medium by TLC by the eleven strains positive to the AA decarboxylation plate
+test. The nucleotide sequence of their ITS1-5.8S-ITS2 region were deposited in the EMBL database and the corresponding accession numbers are given.
+Isolate
+
+EMBL acc. no.
+
+Closest match (NCBI accession no.)
+
+% identitya
+
+Histamine
+
+Tyramine
+
+Cadaverine
+
+Putrescine
+
+1KUT24
+2M2
+2M5
+2KUT12
+2KUT21
+2KUT31
+3KUT26
+3KUT25
+3KUT29
+3KUT27
+
+HE965021
+HE965022
+HE965023
+HE965025
+HE965026
+HE965027
+HE965028
+HE965029
+HE965030
+HE965031
+
+Zygoascus hellenicus (AY447022.1)
+Zygoascus hellenicus (AY447022.1)
+Zygoascus hellenicus (AY447029.1)
+Issatchenkia orientalis (FM199958.1)
+Issatchenkia terricola (GU943495.1)
+Issatchenkia terricola (AY235808.1)
+Issatchenkia terricola (EF648009.1)
+Pichia manshurica (FM199959.1)
+Pichia manshurica (FM199959.1)
+Metschnikowia pulcherrima (EU137672.1)
+
+100
+100
+100
+100
+97
+99
+99
+99
+99
+98
+
+þ
+e
+e
+e
+e
+þ
+e
+e
+e
+þ
+
+þ
+þ
+þ
+nt
+nt
+nt
+nt
+nt
+nt
+þ
+
+þ
+þ
+e
+nt
+e
+nt
+nt
+þ
+þ
+e
+
+þ
+þ
+þ
+nt
+nt
+nt
+nt
+nt
+nt
+þ
+
+nt ¼ not tested.
+a
+Identity represents the % identity shared with the sequences in the GenBank databases.
+
+340
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+Fig. 1. Examples of biogenic amines (BA) production by non-Saccharomyces yeasts
+isolated from Apulian grapes. TLC plate of extracts from supernatants of synthetic
+medium supplemented with histidine, lysine and arginine at 1% w/v concentration or
+tyrosine at 0.1% w/v concentration tyrosine 0.1% and inoculated with different yeast
+strains, Lanes 1 and 2, biogenic amine standard (50 mg/L and 0.5 mg/l, respectively);
+lane 3, I. terricola strain 3KUT31; lane 4, Z. hellenicus strain 2M2; lane 5, Z. hellenicus
+strain 1KUT24; lane 6: M. pulcherrima strain 3KUT27. The position of different BAs is
+indicated to the left of the panel.
+
+(Smit et al., 2008) and little is known about the production of nonvolatile amines by yeast during alcoholic fermentation.
+Wine yeasts unable to produce BAs have been reported by
+several authors (Herbert et al., 2005; Marcobal et al., 2006; Landete
+et al., 2007) and a decrease in BAs is usually observed during both
+spontaneous and induced commercial must fermentations
+(Granchi et al. 2005).
+However, several studies have reported a direct role of wine
+yeasts in increasing BA contents during viniﬁcation experiments on
+laboratory- and large-scale (Goñi and Ancín Azpilicueta, 2001;
+Torrea and Ancín, 2002). Furthermore, the analysis conducted in
+two independent studies by Caruso et al. (2002) and by Granchi
+et al. (2005) demonstrated that different strains belonging to the
+species S. cerevisiae, K. apiculata, C. stellata, M. pulcherrima and B.
+bruxellensis were able to signiﬁcantly produce putrescine, phenylethylamine and ethanolamine.
+The data presented herein shed new light on the role of nonSaccharomyces yeasts in the production of biogenic amines. For the
+ﬁrst time, we experimentally demonstrated the ability of a yeast
+species of enological provenience in producing histamine during
+
+grape must fermentation. Indeed, among the yeast species tested,
+an isolate of I. terricola (2KUT31) and M. pulcherrima (3KUT27) as
+well as two isolates (3KUT25 and 3KUT29) of P. manshurica were
+capable to synthesize histamine. In strains belonging to these
+species isolated from wine, histamine production had never been
+reported (Caruso et al., 2002; Granchi et al., 2005; Landete et al.,
+2007). We also demonstrated that all the eleven characterized
+strains were able to form cadaverine, showing similar behaviour to
+that previously described for C. stellata strains (Caruso et al., 2002).
+The data obtained on P. manshurica conﬁrmed its capacity for
+spoilage not only due to the production of volatile phenols (Saez
+et al., 2011) but also due to its capacity to produce cadaverine,
+thus representing a possible source of hazard for amine production
+in wine, given its ability to survive in wine (Saez et al., 2011).
+The comparison of in vitro and in vivo decarboxylation activity
+and/or biogenic amines production data revealed signiﬁcant differences. As ﬁrst, a detected decarboxylase activity in a synthetic
+media did not result in BA-production in wine must. This is likely to
+be due to limits of the analytical techniques with false positive that
+may arise from the in vitro assay or, as previously suggested for
+lactic acid bacteria, to the lack of expression of the BA pathway in
+wine must (Coton et al., 2010). Furthermore, in several cases, BAs
+production differs from synthetic media to wine must, indicating
+that environmental conditions may inﬂuence these biological
+phenomena. Moreover, we demonstrated BA production such as
+cadaverine in wine must, in the absence of detection of the corresponding decarboxylase activity in a synthetic media. This ﬁnding
+could be explained by the presence of novel BA pathways still uncovered in wine yeast. For these reasons, we underline the importance of performing a test of biogenic amine formation in wine
+yeast, directly in grape must and in the framework of a complete
+technological characterization of non-Saccharomyces isolates for
+starter culture design in enology.
+This investigation is the ﬁrst large-scale study of the vineyardassociated strains from the Apulia Region in Italy and represents
+a helpful approach to gaining further knowledge about the ecology
+and biogeography of non-Saccharomyces and S. cerevisiae strains.
+The results of our screening for amine production show that yeast
+of wine origin can produce biogenic amines, thus resulting a potential risk for wine quality and for consumer health (EFSA Panel on
+Biological Hazards (BIOHAZ), 2011). The possible risk of formation
+
+Fig. 2. Biogenic amines (BAs) production by the non-Saccharomyces yeasts isolated from Apulian grapes during must fermentation. TLC plate of extracts from supernatants of
+sterilized Negroamaro must supplemented with histidine, lysine and arginine at 1% w/v concentration or tyrosine at 0.1% w/v. The must was inoculated with the following yeast
+strains and samples collected at 0 (T0), 7 (T7) and 14 (T14) days post inoculation: 1, I. terricola strain 2KUT31; 2, P. manshurica strain 3KUT25; 3, M. pulcherrima strain 3KUT27; 4,
+P. manshurica strain 3KUT25; Lb, L. brevis strain IOEB 9809; C, biogenic amine standard (0.5 mg/L); M, non-inoculated must. The position of different BAs is indicated to the left of the
+panel.
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+of biogenic amines, even during the ﬁrst steps of the viniﬁcation
+process, emphasizes the importance of correct microbiological
+control throughout wine-making to eradicate or to reduce the action of these spoilage yeasts, even though the use of non-Saccharomyces yeasts has been receiving increasing attention in
+winemaking (Ciani et al., 2010; De Benedictis et al., 2011).
+Acknowledgments
+This research was supported by a grant from the Regione Puglia
+Project PS_008 e INNOWINE e “Biotecnologie innovative per il
+miglioramento della qualità e sicurezza dei vini tipici pugliesi” and
+the project PON02_00186_3417512, “S.I.Mi.S.A.”. The authors wish
+to thank Mr. Giovanni Colella for his valuable technical assistance.
+We would also like to thank the native speaker Anthony Green for
+proofreading and providing valuable linguistic advice.
+References
+Arena, M., Romano, A., Capozzi, V., Beneduce, L., Ghariani, M., Grieco, F., Lucas, P.,
+Spano, G., 2011. Expression of Lactobacillus brevis IOEB 9809 tyrosine decarboxylase and agmatine deiminase genes in wine is correlated to substrate
+availability rather than acidic stress. Letters in Applied Microbiology 53, 395e
+402.
+Barata, A., Seborro, F., Belloch, C., Malfeito-Ferreira, M., Loureiro, V., 2008. Ascomycetous yeast species recovered from grapes damaged by honeydew and sour
+rot. Journal of Applied Microbiology 1044, 1182e1191.
+Barata, A., Malfeito-Ferreira, M., Loureiro, V., 2012. The microbial ecology of wine
+grape berries. International Journal of Food Microbiology 153, 243e259.
+Bauer, F.F., Pretorius, I.S., 2000. Yeast stress response and fermentation efﬁciency:
+how to survive the making of wine. A review. South African Journal of Enology
+and Viticulture 21, 27e51.
+Beneduce, L., Romano, A., Capozzi, V., Lucas, P., Barnavon, L., Bach, B., Vuchot, P.,
+Grieco, F., Spano, G., 2010. Biogenic amine in wines. Annals of Microbiology 60,
+573e578.
+Bisson, L.F., 2012. Geographic origin and diversity of wine strains of Saccharomyces.
+American Journal of Enology and Viticulture 63, 165e176.
+ ová, V., Kraková, L., Kuchta, T.,
+Bre
+zná, B., Zenisová, K., Chovanová, K., Cheben
+Pangallo, D., 2010. Evaluation of fungal and yeast diversity in Slovakian winerelated microbial communities. Antonie van Leeuwenhoek 984, 519e529.
+Capece, A., Romaniello, R., Siesto, G., Pietrafesa, R., Massari, C., Poeta, C., Romano, P.,
+2010. Selection of indigenous Saccharomyces cerevisiae strains for Nero d’Avola
+wine and evaluation of selected starter implantation in pilot fermentation.
+International Journal of Food Microbiology 144, 187e192.
+Capozzi, V., Ladero, V., Beneduce, L., Fernández, M., Alvarez, M.A., Benoit, B.,
+Laurent, B., Grieco, F., Spano, G., 2011. Isolation and characterization of
+tyramine-producing Enterococcus faecium strains from red wine. Food Microbiology 28, 434e439.
+Capozzi, V., Spano, G., 2011. Food microbial biodiversity and “microbes of protected
+origin”. Frontiers in Microbiology 2, 237.
+Caruso, M., Fiore, C., Contursi, M., Salzano, G., Paparella, A., Romano, P., 2002. Formation of biogenic amines as criteria for the selection of wine yeasts. World
+Journal of Microbiology and Biotechnology 18, 159e163.
+Chang, S.-C., Lin, C.-W., Jiang, C.-M., Chen, H.-C., Shih, M.-K., Chen, Y.-Y., Tsai, Y.-H.,
+2009. Histamine production by bacilli bacteria, acetic bacteria and yeast isolated from fruit wines. LWT e Food Science and Technology 42, 280e285.
+Ciani, M., Mannazzu, I., Marinangeli, P., Clementi, F., Martini, A., 2004. Contribution
+of winery-resident Saccharomyces cerevisiae strains to spontaneous grape must
+fermentation. Antonie van Leeuwenhoek 85, 159e164.
+Ciani, M., Comitini, F., Mannazzu, I., Domizio, P., 2010. Controlled mixed culture
+fermentation: a new perspective on the use of non-Saccharomyces yeasts in
+winemaking. FEMS Yeast Research 10, 123e133.
+Clemente-Jiménez, J.M., Mingorance-Cazorla, L., Martínez-Rodríguez, S., Las HerasVázquez, F.J., Rodríguez-Vico, F., 2004. Molecular characterization and oenological properties of wine yeasts isolated during spontaneous fermentation of
+six varieties of grape must. Food Microbiology 21, 149e155.
+Comitini, F., Ciani, M., 2008. Inﬂuence of fungicide treatments on the occurrence of
+yeast ﬂora associated with wine grapes. Annals of Microbiology 58, 489e493.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., Ciani, M.,
+2011. Selected non-Saccharomyces wine yeasts in controlled multistarter fermentations with Saccharomyces cerevisiae. Food Microbiology 28, 873e882.
+Cordero-Bueso, G., Arroyo, T., Serrano, A., Tello, J., Aporta, I., Vélez, M.D., Valero, E.,
+2011. Inﬂuence of the farming system and vine variety on yeast communities
+associated with grape berries. International Journal of Food Microbiology 145,
+132e139.
+Coton, M., Romano, A., Spano, G., Ziegler, K., Vetrano, C., Desmarias, C., LonvaudFunel, A., Lucas, P., Coton, E., 2010. Prevalence and biodiversity of biogenic
+amine forming lactic acid bacteria in wine and cider. Food Microbiology 27,
+1078e1085.
+
+341
+
+De Benedictis, M., Bleve, G., Griec, o F., Tristezza, M., Tufariello, M., Grieco, F., 2011.
+An optimized procedure for the enological selection of non-Saccharomyces
+starter cultures. Antonie van Leeuwenhoek 99, 189e200.
+Di Maio, S., Polizzotto, G., Di Gangi, E., Foresta, G., Genna, G., Verzera, A., Scacco, A.,
+Amore, G., Oliva, D., 2012. Biodiversity of indigenous Saccharomyces populations
+from old wineries of south-eastern Sicily (Italy): preservation and economic
+potential. PLoS One 7, e30428.
+Di Maro, E., Ercolini, D., Coppola, S., 2007. Yeast dynamics during spontaneous wine
+fermentation of the Catalanesca grape. International Journal of Food Microbiology 117, 201e210.
+EFSA Panel on Biological Hazards (BIOHAZ), 2011. Scientiﬁc opinion on risk based
+control of biogenic amine formation in fermented foods. EFSA Journal 9, 2393e
+2486.
+Esteve-Zarzoso, B., Gonstincar, A., Bobet, R., Uruburu, F., Querol, A., 2000. Selection
+and molecular characterisation of wine yeasts isolated from the “El Penedès”
+area Spain. Food Microbiology 17, 553e562.
+Fernández, M., Zúñiga, M., 2006. Amino acid catabolic pathways in lactic acid
+bacteria. Critical Reviews in Microbiology 32, 155e183.
+Fleet, G.H., 1999. Microorganisms in food ecosystems. International Journal of Food
+Microbiology 50, 101e117.
+Fleet, G.H., 2008. Wine yeasts for the future. FEMS Yeast Research 8, 979e995.
+Fleet, G.H., Lafon-Lafourcade, S., Ribéreau-Gayon, P., 1984. Evolution of yeasts and
+lactic acid bacteria during fermentation and storage of Bordeaux wines. Applied
+and Environmental Microbiology 485, 1034e1038.
+Ganga, M., Martinez, C., 2004. Effect of wine yeast monoculture practice on the
+biodiversity of non-Saccharomyces yeasts. Journal of Applied Microbiology 96,
+76e83.
+Goñi, D.T., Ancín Azpilicueta, C., 2001. Inﬂuence of yeast strain on biogenic amine
+content in wines: relationship with the utilization of amino acids during
+fermentation. American Journal of Enology and Viticulture 52, 185e190.
+Granchi, L., Romano, P., Mangani, S., Guerrini, S., Vincenzini, M., 2005. Production of
+biogenic amines by wine microorganisms. Bullettin OIV 78, 595e609.
+Herbert, P., Cabrita, M.J., Ratola, N., Laureano, O., Alves, A., 2005. Free amino acids
+and biogenic amines in wines and musts from the Alentejo region. Evolution of
+amines during alcoholic fermentation and relationship with variety, sub-region
+and vintage. Journal of Food Engineering 66, 315e322.
+Lafon-Lafourcade, S., 1983. Wine and brandy. In: Reed, G. (Ed.), 1983. Biotechnology,
+vol. 5. Verlag Chemie, Heidelberg, pp. 81e161.
+Lambrechts, M.G., Pretorius, I.S., 2000. Yeast and its importance to wine aromada
+review. South African Journal for Enology and Viticulture 21, 97e129.
+Landete, J.M., Ferrer, S., Pardo, I., 2005. Which lactic acid bacteria are responsible for
+histamine production in wine? Journal of Applied Microbiology 99, 580e586.
+Landete, J.M., Ferrer, S., Pardo, I., 2007. Biogenic amine production by lactic acid bacteria, acetic bacteria and yeast isolated from wine. Food Control 18, 1569e1574.
+Li, E., Liu, C., Liu, Y., 2012. Evaluation of yeast diversity during wine fermentations
+with direct inoculation and pied de cuve method at an industrial scale. Journal
+of Microbiology and Biotechnology 22, 960e966.
+Linares, D.M., Martín, M.C., Ladero, V., Alvarez, M.A., Fernández, M., 2012. Biogenic
+amines in dairy products. Critical Reviews in Food Science and Nutrition 51,
+691e703.
+Marcobal, Á., Martín-Álvarez, P.J., Polo, C., Muñoz, R., Moreno-Arribas, M.V., 2006.
+Formation of biogenic amines throughout the industrial manufacture of red
+wine. Journal of Food Protection 69, 397e404.
+Martinez, C., Gac, S., Lavin, A., Ganga, M., 2004. Genomic characterization of
+Saccharomyces cerevisiae strains isolated from wine-producing areas in South
+America. Journal of Applied Microbiology 96, 1161e1168.
+Mortimer, R., Polsinelli, M., 1999. On the origins of wine yeast. Research in Microbiology 150, 199e204.
+Nikolaou, E., Souﬂeros, E.H., Bouloumpasi, E., Tzanetakisa, N., 2006. Selection of
+indigenous Saccharomyces cerevisiae strains according to their oenological
+characteristics and viniﬁcation results. Food Microbiology 23, 205e211.
+Parish, M.E., Carroll, D.E., 1987. Fermentation characteristics of Saccharomyces cerevisiae isolates from Vitis rotundifolia grapes and musts. American Journal of
+Enology and Viticulture 38, 45e48.
+Povhe Jemec, K., Cadez, N., Zagorc, T., Bubic, V., Zupec, A., Raspor, P., 2001. Yeast
+population dynamics in ﬁve spontaneous fermentations of Malvasia must. Food
+Microbiology 18, 247e259.
+Pozo-Bayón, M.Á., Monagas, M., Bartolomé, B., Moreno-Arribas, M.V., 2012. Wine
+features related to safety and consumer health: an integrated perspective.
+Critical Reviews in Food Science and Nutrition 52, 31e54.
+Prakitchaiwattana, C.J., Fleet, G.H., Heard, G.M., 2004. Application and evaluation of
+denaturing gradient gel electrophoresis to analyse the yeast ecology of wine
+grapes. FEMS Yeast Research 4, 865e877.
+Pramateftaki, P.V., Lanaridis, P., Typas, M.A., 2000. Molecular identiﬁcation of wine
+yeasts at species or strain level: a case study with strains from two vinegrowing areas of Greece. Journal of Applied Microbiology 89, 236e248.
+Redzepovi
+c, S., Orli
+c, S., Sikora, S., Majdak, A., Pretorius, I.S., 2002. Identiﬁcation and
+characterization of Saccharomyces cerevisiae and Saccharomyces paradoxus strains
+isolated from Croatian vineyards. Letters in Applied Microbiology 35, 305e310.
+Romano, A., Klebanowski, H., Guerche, P.L., Beneduce, L., Spano, G., Murat, M.-L.,
+Lucas, P., 2012. Determination of biogenic amines in wine by thin-layer chromatography/densitometry. Food Chemistry 135, 1392e1396.
+Romano, P., Paraggio, M., Turbanti, L., 1998. Stability in by-product formation as a
+strain selection tool of Saccharomyces cerevisiae wine yeasts. Journal of Applied
+Microbiology 84, 336e341.
+
+342
+
+M. Tristezza et al. / Food Microbiology 36 (2013) 335e342
+
+Romano, P., Capece, A., Poeta, C., 2007. Biogenic amine formation in alcoholic
+fermentation. Bullettin OIV 80 (914e916), 251e262.
+Rosini, G.., Federici, F., Martini, A., 1982. Yeast ﬂora of grape berries during ripening.
+Microbial Ecology 8, 83e89.
+Sabate, J., Cano, J., Esteve-Zarzoso, B., Guillamón, J.M., 2002. Isolation and
+identiﬁcation of yeasts associated with vineyard and winery by RFLP analysis of ribosomal genes and mitochondrial DNA. Microbiological Research
+157, 267e274.
+Saez, J.S., Lopes, C.A., Kirs, V.E., Sangorrín, M., 2011. Production of volatile phenols by
+Pichia manshurica and Pichia membranifaciens isolated from spoiled wines and
+cellar environment in Patagonia. Food Microbiology 283, 503e509.
+Sangorrín, M., Zajonskovsky, I., van Broock, M., Caballero, A., 2002. The use of killer
+biotyping in an ecological survey of yeast in an old Patagonian winery. World
+Journal of Microbiology and Biotechnology 18, 115e120.
+Schuller, D., Alves, H., Dequin, S., Casal, M., 2005. Ecological survey of Saccharomyces
+cerevisiae strains from vineyards in the Vinho Verde region of Portugal. FEMS
+Microbiology Ecology 51, 167e177.
+Smit, A.Y., du Toit, W.J., du Toit, M., 2008. Biogenic amines in wine: understanding
+the headache. South African Journal for Enology and Viticulture 29, 109e127.
+Spano, G., Russo, P., Lonvaud-Funel, A., Lucas, P., Alexandre, H., Grandvalet, C.,
+Coton, E., Coton, M., Barnavon, L., Bach, B., Rattray, F., Bunte, A., Magni, C.,
+Alvarez, M., Fernandez, M., Lopez, P., Barcelo, P., Corbi, A., Lolkema, Juke S., 2010.
+Biogenic amines in fermented food. European Journal of Clinical Nutrition 64,
+95e100.
+
+Torija, M.J., Rozès, N., Poblet, M., Guillamón, J.M., Mas, A., 2001. Yeast population
+dynamics in spontaneous fermentations: comparison between two different
+wine-producing areas over a period of three years. Antonie van Leeuwenhoek
+79, 345e352.
+Torrea, D., Ancín, C., 2002. Content of biogenic amines in a Chardonnay wine obtained through spontaneous and inoculated fermentations. Journal of Agricultural and Food Chemistry 5017, 4895e4899.
+Tristezza, M., Gerardi, C., Logrieco, A., Grieco, F., 2009. An optimized protocol for the
+production of interdelta markers in Saccharomyces cerevisiae by using capillary
+electrophoresis. Journal of Microbiological Methods 78, 286e291.
+Tristezza, M., Vetrano, C., Bleve, G., Grieco, F., Tufariello, M., Quarta, A., Mita, G.,
+Spano, G., Grieco, F., 2012. Autochthonous fermentation starters for the industrial production of Negroamaro wines. Journal of Industrial Microbiology
+and Biotechnology 39, 81e92.
+Valero, E., Schuller, D., Cambon, B., Casal, M., Dequin, S., 2005. Dissemination and
+survival of commercial wine yeast in the vineyard: a large-scale, three-years
+study. FEMS Yeast Research 5, 959e969.
+Versavaud, A., Courcoux, P., Roulland, C., Dulau, L., Hallet, J.N., 1995. Genetic diversity and geographical distribution of wild Saccharomyces cerevisiae strains
+from the wine-producing area of Charentes, France. Applied and Environmental
+Microbiology 61, 3521e3529.
+Vezinhet, F., Hallet, J.N., Valade, M., Poulard, A., 1992. Ecological survey of wine
+yeast strains by molecular methods of identiﬁcation. American Journal of
+Enology and Viticulture 43, 83e86.
+
+

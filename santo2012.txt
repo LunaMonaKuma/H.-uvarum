@@ -1,0 +1,962 @@
+Food Research International 47 (2012) 45–50
+
+Contents lists available at SciVerse ScienceDirect
+
+Food Research International
+journal homepage: www.elsevier.com/locate/foodres
+
+Yeast diversity in the Mediterranean strawberry tree (Arbutus unedo L.)
+fruits' fermentations
+David Espírito Santo, Ludovina Galego, Teresa Gonçalves 1, Célia Quintas ⁎
+Instituto Superior de Engenharia, Universidade do Algarve, Campus da Penha and CIQA, Universidade do Algarve, Campus de Gambelas 8005-139 Faro, Portugal
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 12 November 2011
+Accepted 31 January 2012
+Keywords:
+Arbutus unedo
+Solid-state alcoholic fermentation
+Yeast diversity
+Killer activity
+
+a b s t r a c t
+In the Mediterranean region the fruits of the strawberry tree (Arbutus unedo L.) may be fermented and
+distilled to produce a traditional beverage very much appreciated in Southern Europe. The aim of the
+present work was to study the diversity of the yeast population and the killer activity of the isolates
+identiﬁed as Saccharomyces cerevisiae, obtained during solid state industrial fermentations of the arbutus berries. The identiﬁcation of the isolates was performed by the 5.8S rRNA-ITS region restriction
+analysis and by sequencing the D1/D2 region of the large subunit of the rRNA gene. At the start of
+the fermentations, various non-Saccharomyces species were detected including Aureobasidium pullulans,
+Dothichiza pithyophila, Dioszegia zsoltii, Hanseniaspora uvarum and yeasts belonging to the genera
+Metschnikowia, Cryptococcus and Rhodotorula. However, as the biological processes progressed the number of different species decreased with S. cerevisiae and Pichia membranaefaciens becoming dominant at
+advanced stages of the must fermentation that is characterized by high concentrations of ethanol. Forty
+three isolates identiﬁed as S. cerevisiae were tested for killer activity against two sensitive reference
+strains and Zygosaccharomyces bailii. Their killer sensitivity in relation to ﬁve killer referenced toxins
+(K2, K5, K8, K9 and K10) was also studied. Out of the isolates analyzed, 95.3% were sensitive and
+4.7% were tolerant against the killer toxins tested. Only three isolates revealed killer activity against
+one sensitive strain and two of them against the spoiler yeast Z. bailii. The microbiota obtained revealed
+an interesting potential to be used as starter cultures to overcome unpredictable uncontrolled fermentations of the arbutus fruits as well as in other applications of biotechnological interest.
+© 2012 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Arbutus unedo L., strawberry tree, is an evergreen shrub that belongs to the Ericacae family growing in the Mediterranean region. It
+is very important in terms of environmental aspects due to its tolerance to dryness and its ability to regenerate and recolonize forest
+ﬁres. The fruits are rich in sugars, vitamins, organic acids, phenolic
+compounds and frequently used to produce jams or jellies, but rarely
+consumed as fresh fruit (Ayaz, Kucukislamoglu, & Reunanen, 2000;
+Ruiz-Rodríguez et al., 2011; Souﬂeros, Mygdalia, & Natskoulis,
+2005). The berries are also an interesting source of omega-3 polyunsaturated fatty acids (Oliveira et al., 2011). However, the fruits' main
+application is the production of a distilled beverage known as “Aguardente de medronho” in Portugal (Cavaco, Longuinho, Quintas, &
+Carvalho, 2007), “Koumaro” in Greece (Souﬂeros et al., 2005) and
+“Corbezzolo” in Italy (Versini et al., 1995). This beverage is a traditional product made in small or industrial scale units during the
+⁎ Corresponding author. Tel.: + 351 289800124; fax: + 351 289888405.
+E-mail address: cquintas@ualg.pt (C. Quintas).
+1
+CNC — Center for Neuroscience and Cell Biology, University of Coimbra and Faculty
+of Medicine, University of Coimbra, Rua Larga 3004-504 Coimbra, Portugal.
+0963-9969/$ – see front matter © 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.foodres.2012.01.009
+
+months of September to January and its production constitutes a
+agro-sustainable business which makes A. unedo an interesting
+shrub by social and economic reasons (Alarcão-E-Silva, Leitão,
+Azinheira, & Leitão, 2001; González, Agrasar, Castro, Fernández, &
+Guerra, 2011; Souﬂeros et al., 2005). Berries are mixed with small
+amounts of water in plastic, wood or stainless steel vessels, which
+are then closed and a solid state fermentation starts depending on
+the yeasts, present naturally on the fruits and in the environment
+(Cavaco et al., 2007). The duration of the processes varies between
+one and three months according to the producers, depending on the
+amount of sugars present in the fruits, the temperature, the equipment and the species/strains involved. The fermented mass, containing 16–22% ethanol (w/w), is subsequently heated and distilled, to
+obtain a beverage containing 45–50% ethanol (v/v) and characterized
+by a speciﬁc aroma proﬁle (Cavaco et al., 2007; Galego & Almeida,
+2007). However, the quality of the distilled product may be affected
+by off-ﬂavors that may occur due to uncontrolled fermentations.
+The nature of yeasts present in a must may contribute to the sensory
+characteristics of the ﬁnal product with the synthesis of desirable ﬂavor or off-ﬂavor compounds (Duarte et al., 2010; Loureiro & MalfeitoFerreira, 2003). Other important characteristic of yeasts involved in
+the production of food products is the killer phenotype. Killer yeasts
+
+46
+
+D.E. Santo et al. / Food Research International 47 (2012) 45–50
+
+may offer some advantages over sensitive strains when used in fermentations due to the different interactions among the strains involved that may affect the fermentation processes and the ﬁnal
+quality of fermented food and beverages (Ciani & Fatichenti, 2001;
+Sangorrín et al., 2001; Santos, San Mauro, Bravo, & Marquina, 2009).
+In the last few years, an extensive research effort have been
+made to characterize the yeast microbiota in a vast number of
+food preparations through techniques based on molecular biology
+with particular emphasis on PCR ampliﬁcation of ribosomal RNA
+genes and spacer regions as internal transcribed spacers (ITS)
+and non-transcribed spacers (NTS) followed by restriction analysis
+with restriction enzymes (Baleiras Couto, Reizinho, & Duarte,
+2005; Esteve-Zarzoso, Belloch, Uruburu, & Querol, 1999; Raspor,
+Milek, Polanc, Mozina, & Cadez, 2006). The sequence of the large
+subunit ribosomal DNA (LSUrDNA), especially D1/D2 region, has
+revealed to be a powerful tool in yeast identiﬁcation (Kurtzman
+& Robnett, 1998) becoming more accessible due to new efﬁcient
+nucleic acids sequencing techniques.
+In this context, the aim of this work was to study the diversity
+of the yeast population and the killer activity of the S. cerevisiae
+isolates obtained during the fermentation period. Up to now, no report was published for strawberry tree fruits fermentation's microbiota. For the evaluation of species diversity, a molecular approach
+was used involving the restriction fragment length polymorphism
+(RFLP) of ITS region and sequence analysis of the D1/D2 domains.
+The knowledge of yeast diversity could enable the selection of
+native strains to be used as starter cultures in the production of
+distilled beverages, ethanol and other applications of biotechnological interest. Using controlled and deﬁned inoculum to initiate
+the fermentations is certainly a way to obtain more reliable and
+better quality alcoholic and distilled beverages.
+2. Material and methods
+2.1. Fermentation conditions
+A. unedo fruits were harvested manually when ripe (red surface color)
+in the Southern region of Portugal, between October and December of
+2008, and were transported to the distillery, located in Algarve (Portugal).
+On arrival, fruits were manually selected to remove the green ones, the
+peduncles and leaves. Their initial pH value was about 3.3 and °Brix
+was, on average 15. The fruits (300 kg) were mixed with UV treated
+water (80 l) in stainless steel containers which were then closed and
+solid state fermentations were carried out at room temperature. During
+the mixture with water, the berries may split, facilitating the further hydrolysis of the polysaccharides. The duration of each fermentation process
+varied as a function of the development of ﬂavor characteristics according
+to the producer decisions: 135 days for Fermentation A (FA), 150 days for
+Fermentation B (FB) and 142 days for Fermentation C (FC). Samples of
+the fermenting mass were collected, under sterile conditions,
+through taps present in the fermenters and aseptically transferred to sterile 50 ml tubes which were transported, under refrigeration, to the laboratory in Instituto Superior de Engenharia
+(Universidade do Algarve, Faro, Portugal).
+During the fermentation periods, the density (°Brix) and the
+pH were determined using an Abbe refractometer (ATAGO,
+Japan) and a pH meter (Crison, Spain), respectively. The concentration of ethanol was determined using the method of
+headspace-solid-phase microextraction gas chromatography (HSSPME-GC) with polyacrylate coated ﬁber. The SPME ﬁber was exposed for a ﬁxed time (20 min) in the head-space of the vial at
+laboratory temperature (20 ± 2 °C) with magnetic stirring. The
+ﬁber was then withdrawn into the needle and transferred to the
+injector of the GC (Hewlett Packard 5890 Series II equipped with
+a FID detector, Avondale, USA). A DB-WAX capillary column
+(30 m × 0.25 mm I.D. × 0.25 μm) ﬁlm thickness (J & W Scientiﬁc,
+
+Folsom, USA) performed with the following oven temperature
+program: 5 min at 40 °C, 5 °C min − 1 until 210 °C was used. The
+quantiﬁcation was made using standard addition (García &
+Reichenbächer, 1999). The determinations of pH, °Brix and ethanol were done in triplicate.
+2.2. Yeasts growth and isolation
+The yeast population was counted twice a week in the ﬁrst two weeks,
+once a week in the following two months and twice in the last month of
+the fermentation. From each sample, 25 ml of fermenting mass was diluted with Ringer solution following the decimal dilution protocol and aliquots were plated, in duplicate by surface spreading on Malt Extract
+Agar (MEA, Scharlau, Spain) (pH 4.0). After the incubation period at
+25 °C during 5 days, colonies were counted and yeast species diversity
+was studied at four sampling points: on the 4th day (50 isolates), the
+11th day (36 isolates), the 32nd day (42 isolates) and on the 108th day
+(37 isolates) of fermentation. Representative colonies of all morphotypes
+of yeasts were selected according to their macro morphology and isolated
+in proportion to their frequencies and subcultured onto YEPD (yeast extract 5 g/l, peptone, 5 g/l, dextrose. 40 g/l agar 20 g/l) or Potato Dextrose
+Agar (PDA, Scharlau, Spain) for subsequent identiﬁcation. The isolated
+strains were preserved at −70 °C using glycerol as cryoprotectant agent
+(20% v/v).
+2.3. Yeast identiﬁcation
+ITS1-5.8rDNA-ITS2 PCR-RFLP: yeast isolates identiﬁcation was performed by the PCR-RFLP method described by Esteve-Zarzoso et al.
+(1999). DNAs from liquid cultures were extracted according to Querol,
+Barrio, and Ramon (1992). PCR reaction mixtures (75 μl) containing
+0.5 μM primer ITS1 (5′-TCCGTAGGTGAACCTGCGG-3′) and 0.5 μM primer ITS4 (5′-TCCTCCCGCTTATTGATATGC-3′) (White, Bruns, Lee, & Taylor,
+1990), 10 μM deoxynucleotides (Promega), 1.5 mM MgCl2 and 1 unit
+DNA polymerase (Promega) were prepared. Ampliﬁcations were performed in a thermocycler (Thermo Electron, USA) in the following conditions: initial denaturation at 95 °C for 5 min; 30 cycles of denaturating
+at 94 °C for 1 min; annealing at 55.5 °C for 2 min; extension at 72 °C for
+2 min and a ﬁnal extension step at 72 °C for 10 min. PCR products
+(10 μl) were digested without further puriﬁcation with the restriction
+endonucleases CfoI, HaeIII and HinfI (Roche). The PCR products and
+their restriction fragments were separated on 1% and 3% (w/v) agarose
+gels, respectively, with 1× TAE buffer. After electrophoresis, gels were
+stained with ethidium bromide, visualized under UV light in a G-Box
+Syngene-Genesis 10 UV Scanner (UK). Fragment sizes were estimated
+by comparison against a DNA ladder (100 bp BioRad). Yeast isolates
+were grouped according to their RFLP proﬁles and compared with the
+RFLP patterns described by Guillamón, Sabaté, Barrio, Cano, and
+Querol (1998), Esteve-Zarzoso et al. (1999), Sabate, Cano, EsteveZarzoso, and Guillamon (2002) and de Llanos Frutos, FernandezEspinar, and Querol (2004).
+Sequence analysis of the region D1/D2 of the 26S rRNA gene: Representative strains of each PCR-RFLP proﬁle obtained were treated to
+perform sequence analysis of the domains D1 and D2 of the 26S rRNA
+gene. PCR ampliﬁcation of the referred region in the 26S rRNA gene
+with the primers NL1 (5′-GCATATCAATAAGCGGAGGAAAAG-3′) and
+NL4 (5′-GGTCCGTGTTTCAAGACGG-3′) (Kurtzman & Robnett, 1998)
+were performed. The ampliﬁcation reaction and PCR conditions
+were identical to those described above for ITS 5.8 rRNA region
+except for the primers used (NL1 and NL4). Ampliﬁed products
+were sequenced by LGC Genomics (Germany) and sequences
+were compared to those available in GenBank database at the
+National Center for Biotechnology Information (NCBI) using
+BLAST (http://www.ncbi.nlm.nih.gov/BLAST/) to be identiﬁed by
+sequence homology with described species.
+
+2.4. Killer behavior
+
+a)
+
+Forty three autochthonous isolates identiﬁed as Saccharomyces cerevisiae were tested for killer activity (K+ or K −) against Zygosaccharomyces bailii (ISA 1307). The same isolates were tested for killer
+sensitivity in relation to ﬁve killer reference strains. Killer activity and
+sensitivity were assayed by the seeded-agar-plate-technique, using
+YEPD-MB (1% yeast extract, 2% glucose, 2% peptone and 2% agar) containing 0.003% (w/v) methylene blue, buffered at pH 4.0 with 0.5 M
+phosphate-citrate (Marquina et al., 1992; Sangorrín et al., 2001).
+
+Log CFU/g fermented must
+
+D.E. Santo et al. / Food Research International 47 (2012) 45–50
+
+2.4.2. Killer sensitivity
+The sensitivity of S. cerevisiae isolates were studied in relation to 5
+reference killer yeasts, responsible for the production of 5 different
+types of toxins (K2, K5, K8, K9 and K10), using the method described
+above. The killer yeasts used were S. cerevisiae NCYC 738 (K2 type),
+Pichia anomala NCYC 434 (K5 type), P. anomala NCYC 435 (K8 type),
+Williopsis saturnus NCYC 500 (K9 type) and Kluyveromyces lactis
+NCYC 575 (K10 type). The sensitivity of each isolate was identiﬁed
+with the numbers referring the killer type.
+3. Results and discussion
+The growth of yeasts during the solid-state fermentation of the
+fruits of the strawberry tree (A. unedo) is shown in Fig. 1a. During
+the ﬁrst four days, the number of yeasts increased exponentially
+from 3.7–5.2 log CFU/g to 7–8 log CFU/g of fermenting must, and
+from then onwards, a slight decrease of those numbers was observed
+until the end of the fermentation processes (5.9–6.9 log UFC/g). This
+reduction may be explained by the level of ethanol present at the
+end of the fermentations (20.7–22.5 g/100 g fermented mass)
+(Fig. 1b). The concentration of ethanol increased in the three processes achieving about 19.3 g/100 g of fermented mass during the ﬁrst ten
+days in Fermentation A and later in the Fermentations B and C. After
+this sharp increase, the level of the alcohol slightly decreased but increased again stabilizing when values of 20.7–22.5 g/100 g fermented
+mass were achieved. The stress caused by high levels of ethanol may
+result in the inhibition of some ethanol sensitive strains and explains
+the sluggish or stuck fermentations as described by Bisson (1999) in
+wine production.
+The pH value during the fermentation varied from an initial value
+of 3.3 to a value at the end of the fermentation of 3.5–3.6. The low pH
+and the high concentration of sugars (°Brix 15) at the beginning of
+the fermentations favored the multiplication of the yeast biota.
+According to previously published results, the berries of A. unedo
+are characterized by low pH values and high soluble sugar concentrations reaching more than 20 g/l as described by Cavaco et al. (2007).
+A total of 165 yeast isolates were obtained from the three fermentations of the A. unedo fruits. The ITS-5.8 rDNA region of the yeast isolates originated PCR products ranging from 390 to 850 pb and their
+restriction produced 14 different RFLP proﬁles as shown in Table 1.
+
+8
+7
+6
+5
+4
+3
+
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+100
+
+125
+
+150
+
+Time (day)
+
+b)
+Ethanol(g/100 g fermented must)
+
+2.4.1. Killer activity
+The yeasts S. cerevisiae NCYC 1006 and S. bayanus PYCC 4456 were
+used as sensitive references. The killer activity of the isolates obtained
+during the course of the present work against the spoilage species Z. bailii (ISA 1307) was also tested. Each reference species was suspended in
+sterile water (approximately 105 cell/ml) and inoculated as a lawn onto
+the YEPD-MB medium. These plates were inoculated in concentrated
+zones (1 cm diameter) with 48 h old cultures of the native isolates to
+be tested for killing activity. The plates were incubated at 20 °C for
+6 days. S. cerevisiae isolates were classiﬁed as killer (K+) when they
+were able to inhibit the growth of the yeasts inoculated on the agar surfaces and the inhibition zone appeared surrounded with a dark blue
+boundary.
+
+47
+
+30
+25
+20
+15
+10
+5
+0
+0
+
+25
+
+50
+
+75
+Time (day)
+
+Fig. 1. Yeast population (a) and ethanol evolution (b) during the fermentations of Arbutus unedo fruits [fermentations A (w), B (□) and C (△)].
+
+The number of isolates in each group varied from 1 to 53. Each
+fragmentation pattern was compared to the yeast ITS-RFLP proﬁles
+described previously (de Llanos Frutos et al., 2004; Esteve-Zarzoso
+et al., 1999; Guillamón et al., 1998; Sabate et al., 2002). The RFLP analysis allowed the identiﬁcation of the isolates included in the groups II,
+V, XI, XII, XIII and XIV as Metschnikowia pulcherrima, Pichia membranaefaciens, Lachancea thermotolerans [formerly Kluyveromyces thermotolerans (Kurtzman, 2003)], Hanseniaspora uvarum, Torulaspora
+delbrueckii and S. cerevisiae, respectively. The results of BLAST analysis
+were in full agreement with the ITS–RFLP identiﬁcations, yielding sequence similarity values between 98% and 100% (Table 2).
+The RFLP Proﬁles I, IV, VI and VII were not assigned to any of the species associated to already described patterns due to some discrepancies in
+the restriction banding obtained (de Llanos Frutos et al., 2004; EsteveZarzoso et al., 1999; Guillamón et al., 1998; Sabate et al., 2002). As a result,
+the identiﬁcation performed was based on the D1/D2 sequence analysis
+(Table 2). In relation to Proﬁle I, the sequencing analysis displayed high
+similarity (99%) with Metschnikowia aff fructicola and low similarity
+with the type strain of M. fructicola. The isolates characterized by proﬁle
+IV presented 100% similarity with the type strain of Issatchenkia orientalis.
+The two isolates with the Proﬁle VI displayed 100% similarity with the
+type strain of the basidiomicetous Dioszegia zsoltii and the isolates included in Proﬁle VII presented high D1/D2 similarity with a strain of an unknown species of the genus Cryptococcus. In relation to Group IX,
+composed of yeast forming bright orange colonies, it was not possible
+to perform a satisfactory identiﬁcation.
+The isolates included in RFLP Groups III, VIII and X, were identiﬁed as
+Candida stellata, A. pullulans and Rhodotorula mucilaginosa, respectively
+However, after analyzing the DNA sequence of the D1/D2 region of the
+LSU rRNA gene through a BLAST search (Table 2), the yeasts included in
+Group III were identiﬁed as C. zemplinina. According to Sipiczki (2004)
+C. stellata and C. zemplinina produce similar PCR-RFLP proﬁles when
+CfoI, HaeIII and HinfI are used as restriction enzymes. In the case of
+
+48
+
+D.E. Santo et al. / Food Research International 47 (2012) 45–50
+
+Table 1
+RFLP proﬁles/groups obtained from the restriction of the ampliﬁed 5.8S-ITS region of the 165 yeast isolates.
+RFLP
+proﬁle/
+group
+
+PCR product
+(bp)
+
+Restriction fragment (bp)
+Cfo I
+
+Hae III
+
+Hinf I
+
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+
+390
+390
+475
+480
+500
+550
+590
+600
+600
+640
+700
+775
+800
+850
+
+200 + 100 + 90
+200 + 100 + 90
+215 + 110 + 80 + 60
+180 + 170 + 70 + 60
+175 + 110 + 90 + 75
+290 + 260
+250 + 180 + 90
+190 + 180 + 100
+280 + 220 + 100
+320 + 240 + 80
+310 + 280 + 90
+320 + 310 + 105
+330 + 220 + 150 + 100
+375 + 325 + 150
+
+290 + 100
+290 + 100
+475
+380 + 90
+330 + 90 + 50
+525
+490 + 100
+450 + 150
+600
+430 + 210
+300 + 210 + 95 + 95
+775
+800
+320 + 230 + 170 + 125
+
+390
+200 + 190
+235 + 235
+200 + 200 + 90
+275 + 200
+280 + 210
+305 + 285
+280 + 180 + 130
+260 + 150 + 120 + 90
+340 + 220 + 80
+340 + 340
+385 + 200 + 160 + 80
+410 + 380
+375 + 365 + 110
+
+Proﬁle VIII, the nine isolates identiﬁed as the yeast-like A. pullulans, two
+revealed 98% similarity to Dothichiza pithyophila when a BLAST search of
+GeneBank was done. Finally, regarding Proﬁle X, two of the total isolates
+were identiﬁed as R. nothofagi. In the case of yeasts included in Groups
+III, VIII and X, it would have been useful to introduce more restriction
+enzymes besides CfoI, HaeIII and HinfI to increase the discriminatory capacity of the ITS1-5.8S RNA-ITS2 PCR-RFLP method, as suggested in
+
+Table 2
+Results of the comparison of the isolates DNA sequences with those present in GeneBank from NCBI database.
+Proﬁle Fragment GeneBank accession number — species
+sequenced and strain designation
+(bp)
+
+Similaritya
+(%)
+
+I
+
+422
+
+99%
+
+II
+
+432
+
+III
+
+436
+
+IV
+
+513
+
+V
+
+522
+
+VI
+
+509
+
+VII
+
+553
+
+VIII
+
+530
+
+528
+X
+
+493
+512
+
+XI
+
+554
+
+XII
+
+546
+
+XIII
+
+494
+
+XIV
+
+535
+
+EU373448
+Metschnikowia aff. fructicola
+U45736
+Metschnikowia pulcherrima strain NRRL Y-7111
+AY160761
+Candida zemplinina strain 10-372/CBS 9494
+EF550222
+Issatchenkia orientalis strain NRRL Y-5396
+EU057561
+Pichia membranaefaciens strain NRRL Y-2026
+AF544246
+Dioszegia zsoltii var. yunnanensis strain AS 2.2091
+EU002790
+Cryptococcus sp. strain CBS 10166
+FJ150916
+Aureobasidium pullulans var. pullulans strain CBS
+146.30
+FJ150969
+Dothichiza pithyophila strain dH 12609
+AF335986
+Rhodotorula mucilaginosa strain ATCC 32763
+AF189950
+Rhodotorula nothofagi strain CBS8166
+DQ655683
+Lachancea thermotolerans strain NRRL Y-27911
+U84229
+Hanseniaspora uvarum strain NRRL Y-1614
+U72156
+Torulaspora delbrueckii strain NRRL Y-866
+AY048154
+Saccharomyces cerevisiae strain NRRL Y-12632
+
+428/432
+98%
+424/424
+100%
+513/513
+100%
+522/522
+100%
+509/509
+100%
+552/553
+99%
+530/530
+100%
+520/528
+98%
+492/493
+99.7%
+511/512
+99%
+554/554
+100%
+546/546
+100%
+494/494
+100%
+535/535
+100%
+
+Note: All the strains used in the comparisons are type strains with the exception of
+EU373448 and FJ150969. ATCC — American Type Culture Collection, USA; CBS — Centraalbureau voor Schimmelcultures, Nederland; NRRL — Agricultural Research Culture
+Collection, USA.
+a
+Relation of similarity of number of nucleotides in Domain D1/D2 between isolates
+and GeneBank accession strains.
+
+Number
+of
+isolates
+
+Isolation
+(%)
+
+5
+17
+4
+4
+25
+2
+3
+9
+3
+4
+11
+24
+1
+53
+
+3.0
+10.3
+2.4
+2.4
+15.2
+1.2
+1.8
+5.4
+1.8
+2.4
+6.7
+14.5
+0.6
+32.1
+
+other works (Esteve-Zarzoso et al., 1999; Ferreira et al., 2010). This is especially important in the studying of the ecosystems that have not yet
+been researched.
+As fermentations progressed, a succession of microbial species
+took place. The different species identiﬁed during the fermentation
+process and their isolation frequencies are presented in Table 3.
+The earlier fermentation samples, contained a mixture of species including A. pullulans (yeast like), Cryptococcus sp., D. zsoltii, D. pithyophila,
+H. uvarum, Metschnikowia spp. and Rhodotorula spp. At this early stage, a
+great diversity of species belonging to the phyla Basidiomycota and Ascomycota was observed. After the ﬁrst four days, it was no longer possible
+to isolate basidiomicetous yeasts from the fermenting must, probably
+due to the decreasing oxygen availability since those microorganisms
+are aerobes, frequently associated with the phyllosphere and soil
+(Inácio, Portugal, Spencer-Martins, & Fonseca, 2005). The ascomicetous
+species A. pullulans and D. pithyophila present in the initial phases of
+the fermentation corresponded to 5.4% of the isolates but represent
+18% of the isolates obtained in the ﬁrst days of fermentation. These two
+species belong to the family Dothideaceae and are both associated with
+plants. A. pullulans is a ubiquitous black yeast like species found in habitats with ﬂuctuating water activity such as fruits' surfaces and phyllosphere (Zalar et al., 2008). The isolates belonging to the genus
+Metschnikowia were collected during the early phase of the fermentation
+but their frequency decreased along the ﬁrst month. These yeasts represented 13.5% of the total isolates and are characterized by low/medium
+fermentative metabolisms. H. uvarum (14.5% of the total isolates studied)
+was also isolated during the ﬁrst month of the fermentative processes.
+Species of the genera Metschnikowia and Hanseniaspora are the most
+common Ascomycota non-Saccharomyces found in the ﬁrst phases of
+fruits' alcoholic fermentations (Ocón et al., 2010; Sabate et al., 2002;
+Valles, Bedriñana, Tascón, Simón, & Madrera, 2007). However, in the
+wine industry, both of them are known to produce ethyl acetate and
+acetic acid before and during initial fermentations steps leading to
+wine deterioration (Loureiro & Malfeito-Ferreira, 2003; Romano, Fiore,
+Paraggio, Caruso, & Capece, 2003).
+The yeasts I. orientalis (2.4%), L. thermotolerans (6.7%) and C. zemplinina (2.4%) were also found in the ﬁrst month and in the beginning
+of the second month of the three fermentation processes studied and
+are frequently related to grapes and/or wine production as T. delbrueckii that was isolated in a very low frequency (0.6%) (Baleiras
+Couto et al., 2005; Csoma & Sipiczki, 2008; Ocón et al., 2010). Although
+in low frequencies, these species may certainly inﬂuence the fermentation and the characteristics of the ﬁnal product, as they tolerate
+high concentrations of ethanol.
+S. cerevisiae was isolated in a low frequency (4%) in the ﬁrst days
+of the fermentation conﬁrming the low numbers of this species on
+fruits surfaces. However, this microorganism took over the processes,
+
+D.E. Santo et al. / Food Research International 47 (2012) 45–50
+Table 3
+Yeast species prevalence (%) isolated from Arbutus unedo fruits fermentation.
+Species
+
+A. pullulans
+C. zemplinina
+Cryptococcus sp.
+Dio. zsoltii
+Dot. pithyophila
+H. uvarum
+I. orientalis
+L. thermotolerans
+Metschnikowia sp.
+P. membranaefaciens
+Rhodotorula sp.
+S. cerevisiae
+Unidentiﬁed orange colonies
+T. delbrueckii
+
+49
+
+Table 4
+Killer behavior of the S. cerevisiae isolates in relation to the killer toxins K2, K5, K8, K9,
+and K10.
+
+Fermentation process
+T4
+
+T11
+
+T32
+
+T108
+
+14.0
+–
+6.0
+4.0
+4.0
+28.0
+2.0
+–
+22.0
+2.0
+8.0
+4.0
+6.0
+–
+
+–
+2.8
+–
+–
+–
+22.2
+–
+16.7
+16.7
+–
+–
+38.9
+–
+2.8
+
+–
+7.1
+–
+–
+–
+4.8
+7.1
+11.9
+11.9
+14.3
+–
+42.9
+–
+–
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+48.6
+–
+51.4
+–
+–
+
+–, not detected; T4: 4 days of fermentation; T11: 11 days of fermentation; T32: 32 days
+of fermentation; T108: 108 days of fermentation.
+
+due to its efﬁcient fermentation catabolism and ethanol tolerance in
+the stressful conditions of the fermenting musts during the second
+and third months, representing 32.1% of the isolates. P. membranaefaciens was detected concurrently with S. cerevisiae, representing 15.2%
+of total of the isolates. P. membranaefaciens has been associated with
+bioﬁlm production on the surface of long/old fermentations as described in agave fermentation (Lachance, 1995). This ﬁlm forming
+yeast has also been associated with bioﬁlm formation in wine fermentation, where it is considered a spoilage yeast (Loureiro &
+Malfeito-Ferreira, 2003). In the biological processes described in the
+present work, this species remained present, forming a thick bioﬁlm
+at the surface of the fermenters in the three cases studied (which
+took more than three months) and represented almost half of the
+yeast biota studied in the ﬁnal stages of the fermentation.
+The microbial succession observed, with the ﬁnal prevalence of S. cerevisiae, is similar to most of the ecological surveys of yeast microbiota in
+grape and apple musts' fermentations (Sabate et al., 2002; Valles et al.,
+2007). Additionally, the succession of different yeast species has been
+reported by several authors on other alcoholic fermentations such as in
+sugar cane to obtain cachaça (Schwan, Mendonça, da Silva, Rodrigues, &
+Wheals, 2001) and in agave juice to obtain tequila (Lachance, 1995).
+In a ﬁrst approach to characterize the technological properties of the
+isolates identiﬁed as S. cerevisiae, forty three isolates were tested in their
+ability to kill the reference yeasts S. cerevisiae NCYC 1006 and S. bayanus
+PYCC 4456 and the food/beverage spoiler yeast Z. bailii. Additionally, the
+sensitivity of the S. cerevisiae isolates, in relation to the well characterized
+killer toxins K2, K5, K8, K9 and K10, was also studied. From the results
+obtained, three (F7D56A, F7D51A, F5D51E) of the isolates demonstrated
+killer activity against one of the sensitive yeast studied (S. cerevisiae
+NCYC1006) and two (F7D56A, F7D51A) revealed killer activity against
+Z. bailii. This is an interesting result as Z. bailii is one of the most dangerous spoilage species in the wine industry and soft drinks (Loureiro &
+Malfeito-Ferreira, 2003) and is highly tolerant to weak organic acids
+used as preservatives (Quintas, Sotoca, Loureiro-Dias, & Peinado, 2005).
+In general, S. cerevisiae produces active killer toxins, mainly against
+yeasts of its genus (Ciani & Fatichenti, 2001). However, there are some
+works describing S. cerevisiae active killer toxins against species belonging to other groups such as Candida and Pichia (Hernández et al., 2008).
+With regards to killer sensitivity, almost all wild isolates were sensitive to some of the reference killer strains used in this study, with the
+exception of two isolates (F7D11C; F5D4F) that were tolerant to all
+the killer toxins assayed (K2, K5, K8, K9, K10) as summarized in Table 4.
+Several different sensitivity patterns can be observed, K2 being the
+most effective toxin followed by K9, K5, K10 and K8. The S. cerevisiae
+isolates, identiﬁed as F7D11C and F5D4F, did not show killer activity
+but were tolerant to the toxins tested. This is interesting in terms of
+
+No. of
+Isolates
+
+Isolates identiﬁcation
+
+Sensitivity
+pattern
+
+7
+
+F1D44D; F5D39C; F5D9E; F10D11E; F10D14B;
+F10D23A; F10D30D;
+F7D39B; F7D121A; F7D44A; F7D110A; F5D51D;
+F5D135A; F5D18A; F5D58D; F5D51E; F5D28B;
+F5D4A; F10D11C; F10D11F; F10D14D; F10D18C;
+F10D23D; F10D37D; F10D76B; F10D9A;
+F7D90A; F7D44C; F7D18A; F7D28B; F7D56A:
+F7D56B; F7D51A; F7D150F; F7D90G; F5D23A
+F7D44E; F7D110D
+F7D39D
+F7D18D; F10D37E
+F7D11C; F5D4F
+
+K2 K5 K8 K9 K10
+
+19
+
+10
+2
+1
+2
+2
+
+K2 K5 K9 K10
+
+K2 K5 K9
+K2 K9
+K2 K8
+K2
+Resistant to K2
+K5 K8 K9 K10
+
+technological applications because F7D11C and F5D4F isolates may
+tolerate eventual undesirable contaminant species and strive by competition. These isolates, as well as the ones that revealed killer activity
+in relation to Z. bailii (F7D56A and F7D51A), are considered to be of
+potential interest for further studies. Some S. cerevisiae isolates
+obtained during the present work have already been tested to produce bioethanol using carob pods as a carbon source (Lima-Costa,
+Tavares, Rodrigues, Quintas, & Raposo, 2010).
+It would be interesting to select a mixture of species isolated from A.
+unedo fruits' fermentation environment, aimed at achieving a rich speciﬁc organoleptic proﬁle typical of the region that avoids contaminations, off-ﬂavors and non-permitted compounds in the ﬁnal product,
+as described by Duarte et al. (2010) for raspberry wine. It is known
+that the yeast population is a key parameter in the quality of fermented
+and distilled beverages. On the other hand, yeast strains adapted to a
+speciﬁc substrate and climate environment give better characterized
+and certiﬁed products.
+4. Conclusion
+The main application of the fruits of the Mediterranean strawberry
+tree (A. unedo) is in the production of a distilled beverage that constitutes an important social agro-sustainable business permitting an additional income to families. The berries are fermented at room
+temperature through a solid state process dominated by a rich diversity
+of autochthonous yeasts. As fermentation progressed, a succession of
+species occurred culminating with S. cerevisiae and P. membranaefaciens
+in a mass with high concentrations of ethanol. The ethanol tolerant and
+killer resistant S. cerevisiae isolates could be tested in a microbial consortium to improve the arbutus berries fermentation and thus contribute to enhancement of the ﬁnal product's quality. The addition of
+knowledge to natural sustainable resources is a way of contributing to
+their preservation and creating ﬁnancial beneﬁts.
+Acknowledgments
+The authors thank the local industry "Manuel de Sousa Martins" for
+supplying the samples during the fermentation period, the local Association "IN LOCO" (Paula Quintas and Margarida Correia) through Project "RITA" and Alexandra Pereira for revising the manuscript.
+References
+Alarcão-E-Silva, M. L. C. M. M., Leitão, A. E. B., Azinheira, H. G., & Leitão, M. C. A. (2001).
+The Arbutus berry: Studies on its color and chemical characteristics at two mature
+stages. Journal Food Composition and Analysis, 14, 27–35.
+Ayaz, F. A., Kucukislamoglu, M., & Reunanen, M. (2000). Sugar, non-volatile and phenolic
+acids composition of strawberry tree (Arbutus unedo L. var. ellipsoidea) fruits. Journal
+Food Composition and Analysis, 13, 171–177.
+
+50
+
+D.E. Santo et al. / Food Research International 47 (2012) 45–50
+
+Baleiras Couto, M. M., Reizinho, R. G., & Duarte, F. L. (2005). Partial 26S rDNA restriction
+analysis as a tool to characterize non-Saccharomyces yeasts present during red
+wine fermentations. International Journal of Food Microbiology, 102, 49–56.
+Bisson, L. F. (1999). Stuck and sluggish fermentations. American Journal of Enology and
+Viticulture, 50, 107–119.
+Cavaco, T., Longuinho, C., Quintas, C., & Carvalho, I. S. (2007). Chemical and microbial
+changes during the natural fermentation of strawberry tree (Arbutus unedo L.)
+fruits. Journal of Food Biochemistry, 31, 715–725.
+Ciani, M., & Fatichenti, F. (2001). Killer toxin of Kluyveromyces phafﬁi DBVPG 6076 as a
+biopreservative agent to control apiculate wine yeasts. Applied and Environmental
+Microbiology, 67, 3058–3063.
+Csoma, H., & Sipiczki, M. (2008). Taxonomic reclassiﬁcation of Candida stellata strains
+reveals frequent occurrence of Candida zemplinina in wine fermentation. FEMS
+Yeast Research, 8, 328–336.
+de Llanos Frutos, R., Fernandez-Espinar, M. T., & Querol, A. (2004). Identiﬁcation of
+species of the genus Candida by analysis of the 5.8S rRNA gene and the two
+ribosomal internal transcribed spacers. Antonie Van Leeuwenhoek, 85, 175–185.
+Duarte, W. F., Dias, D. R., Oliveira, J. M., Vilanova, M., Teixeira, J. A., Silva, J. B. A., et al.
+(2010). Raspberry (Rubus idaeus L.) wine: Yeast selection, sensory evaluation
+and instrumental analysis of volatile and other compounds. Food Research International, 43, 2303–2314.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., & Querol, A. (1999). Identiﬁcation of yeasts
+by RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed
+spacers. International Journal of Systematic Bacteriology, 49, 329–337.
+Ferreira, N., Belloch, C., Querol, A., Manzanares, P., Vallez, S., & Santos, A. (2010). Yeast
+microﬂora isolated from brazilian cassava roots: Taxonomical classiﬁcation based
+on molecular identiﬁcation. Current Microbiology, 60, 287–293.
+Galego, L. R., & Almeida, V. R. (2007). Aguardentes de frutos e licores do Algarve. Lisboa:
+Colibri978-972-772-722-3 (In Portuguese).
+García, D. C., & Reichenbächer, M. (1999). Application of SPME methods for the determination of volatile wine aroma compounds in view of the varietal characterization. In J. Pawliszyn (Ed.), Application of solid phase microextraction
+(pp. 372–392). UK: Royal Society of Chemistry.
+González, E. A., Agrasar, A. T., Castro, L. M. P., Fernández, I. O., & Guerra, N. P. (2011).
+Solid-sate fermentation of red raspberry (Rubus ideaus L.) and arbutus berry (Arbutus
+unedo L.) and characterization of their distillates. Food Research International, 44,
+1419–1426.
+Guillamón, J. M., Sabaté, J., Barrio, E., Cano, J., & Querol, A. (1998). Rapid identiﬁcation of
+wine yeast species based on RFLP analysis of the ribosomal internal transcribed
+spacer (ITS) region. Archives of Microbiology, 169, 387–392.
+Hernández, A., Martín, A., Córdoba, M. G., Benito, M. J., Aranda, E., & Pérez-Nevado, F. (2008).
+Determination of killer activity in yeasts isolated from the elaboration of seasoned
+green table olives. International Journal of Food Microbiology, 121, 178–188.
+Inácio, J., Portugal, L., Spencer-Martins, I., & Fonseca, Á. (2005). Phylloplane yeasts from
+Portugal: Seven novel anamorphic species in the Tremellales lineage of the
+Hymenomycetes (Basidiomycota) producing orange-coloured colonies. FEMS
+Yeast Research, 5, 1167–1183.
+Kurtzman, C. P. (2003). Phylogenetic circumscription of Saccharomyces, Kluyveromyces
+and other members of the Saccharomycetaceae, and the proposal of the new genera
+Lachancea, Nakaseomyces, Naumovia, Vanderwaltozyma and Zygotorulaspora. FEMS
+Yeast Research, 4, 233–245.
+Kurtzman, C. P., & Robnett, C. J. (1998). Identiﬁcation and phylogeny of ascomycetous
+yeasts from analysis of nuclear large subunit (26S) ribosomal DNA partial sequences.
+Antonie Van Leeuwenhoek, 73, 331–371.
+Lachance, M. A. (1995). Yeast communities in a natural tequila fermentation. Antonie
+Van Leeuwenhoek, 68, 151–160.
+Lima-Costa, M. E., Tavares, C., Rodrigues, B., Quintas, C., & Raposo, S. (2010). Bioethanol
+production using carob pod, as carbon source on submerged fermentation. Journal
+of Biotechnology, 150, S170-S170.
+
+Loureiro, V., & Malfeito-Ferreira, M. (2003). Spoilage yeasts in the wine industry. International Journal of Food Microbiology, 86, 23–50.
+Marquina, D., Peres, C., Caldas, F. V., Marques, J. F., Peinado, J. M., & Spencer Martins, I.
+(1992). Characterization of the yeast population in olive brines. Letters in Applied
+Microbiology, 14, 279–283.
+Ocón, E., Gutiérrez, A. R., Garijo, P., Tenorio, C., López, I., López, R., et al. (2010). Quantitative
+and qualitative analysis of non-Saccharomyces yeasts in spontaneous alcoholic fermentations. European Food Research and Technology, 230, 885–891.
+Oliveira, I., Baptista, P., Malheiro, R., Casal, S., Bento, A., & Pereira, J. A. (2011). Inﬂuence
+of strawberry tree (Arbutus unedo L.) fruit ripening stage on chemical composition
+and antioxidante activity. Food Research International, 44, 1401–1407.
+Querol, A., Barrio, E., & Ramon, D. (1992). A comparative-study of different methods of
+yeast-strain characterization. Systematic and Applied Microbiology, 15, 439–446.
+Quintas, C., Sotoca, R., Loureiro-Dias, M. C., & Peinado, J. M. (2005). A model of the speciﬁc growth rate inhibition by weak acids in yeasts based on energy requirements.
+International Journal of Food Microbiology, 100, 125–130.
+Raspor, P., Milek, D. M., Polanc, J., Mozina, S., & Cadez, N. (2006). Yeasts isolated from
+three varieties of grapes cultivated in different locations of the Dolenjska vinegrowing region, Slovenia. International Journal of Food Microbiology, 109, 97–102.
+Romano, P., Fiore, C., Paraggio, M., Caruso, M., & Capece, A. (2003). Function of yeast species
+and strains in wine ﬂavour. International Journal of Food Microbiology, 86, 169–180.
+Ruiz-Rodríguez, B. M., Morales, P., Fernández-Ruiz, V., Sanchez-Mata, M. C., Cámara, M.,
+Díez-Marqués, C., et al. (2011). Valorization of wild strawberry-tree fruits (Arbutus
+unedo L.) through nutritional assessment and natural production data. Food Research International, 44, 1244–1253.
+Sabate, J., Cano, J., Esteve-Zarzoso, B., & Guillamon, J. M. (2002). Isolation and identiﬁcation
+of yeasts associated with vineyard and winery by RFLP analysis of ribosomal genes and
+mitochondrial DNA. Research in Microbiology, 157, 267–274.
+Sangorrín, M. P., Zajonskovsky, I. E., Lopes, C. A., Rodríguez, M. E., Giraudo de van Broock, M. R.,
+& Caballero, A. C. (2001). Killer behaviour in wild wine yeasts associated with Merlot and
+Malbec type musts spontaneously fermented from northwestern Patagonia (Argentina).
+Journal of Basic Microbiology, 4, 105–113.
+Santos, A., San Mauro, M., Bravo, E., & Marquina, D. (2009). PMKT2, a new killer toxin from
+Pichia membranifaciens and its promising biotechnological properties for control of the
+spoilage yeast Brettanomyces bruxellensis. Microbiology, 155, 624–634.
+Schwan, R. F., Mendonça, A. T., da Silva, J. J., Rodrigues, V., & Wheals, A. E. (2001). Microbiology and physiology of Cachaça (Aguardente) fermentations. Antonie Van
+Leeuwenhoek, 79, 89–96.
+Sipiczki, M. (2004). Species identiﬁcation and comparative molecular and physiological
+analysis of Candida zemplinina and Candida stellata. Journal of Basic Microbiology, 44,
+471–479.
+Souﬂeros, E. H., Mygdalia, S. A., & Natskoulis, P. (2005). Production process and characterization of the traditional Greek fruit distillate “Koumaro” by aromatic and mineral composition. Journal Food Composition and Analysis, 18, 699–716.
+Valles, B. S., Bedriñana, R. P., Tascón, N. F., Simón, A. Q., & Madrera, R. R. (2007). Yeast
+species associated with the spontaneous fermentation of cider. Food Microbiology,
+24, 25–31.
+Versini, G., Seeber, R., Dalla Serra, A., Sferlazzo, G., Carvalho, B., & Reniero, F. (1995). Aroma
+compounds of arbutus distillate. In G. Charalambous (Ed.), Food ﬂavors generation, analysis and process inﬂuence (pp. 1779–1790). London: Elsevier Science.
+White, T. J., Bruns, T., Lee, S., & Taylor, J. (1990). Ampliﬁcation and direct sequencing of
+fungi ribosomal RNA genes for phylogenetics. In M. A. Innis, D. H. Gelfand, J. J.
+Sninsky, & T. J. White (Eds.), PCR protocols: A guide to methods and applications
+(pp. 315–322). San Diego: Academic Press.
+Zalar, P., Gostincar, C., Hoog, G. S., Ursic, V., Sudhadham, M., & Gunde-Cimerman, N. (2008).
+Redeﬁnition of Aureobasidium pullulans and its varieties. Studies in Mycology, 61, 21–38.
+
+

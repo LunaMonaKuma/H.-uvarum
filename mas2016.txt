@@ -1,0 +1,299 @@
+Available online at www.sciencedirect.com
+
+ScienceDirect
+Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+Florence “Sustainability of Well-Being International Forum”. 2015: Food for Sustainability and
+not just food, FlorenceSWIF2015
+
+Taking advantage of natural biodiversity for wine making: The
+WILDWINE Project
+Albert Masa*, Beatriz Padillaa, Braulio Esteve-Zarzosoa, Gemma Beltrana, Cristina
+Reguanta and Albert Bordonsa
+a
+
+Oenological Biotechnology Research Group. Dept Biochemistry and Biotechnology. Faculty of Oenology. University Rovira I Virgili. 43007Tarragona, Spain.
+
+Abstract
+Fermentation processes have proceeded without microbiological control until starter cultures came up in 19th Century. However,
+in some processes, such as wine making a widespread use of starter cultures did not come up until the end of the 20th Century,
+when the cellar-friendly active dry wine yeast (ADWY) were available. However, this practice was challenged for the uniformity
+that brought a limited number of commercially available presentations and new tendencies in wine making have withdrawn the
+use of ADWY. The return to non-controlled wine fermentations may have considerable set backs especially in terms of
+economical losses, as these wines have much higher risks of presenting different levels of spoilage (presence of unwanted
+compounds that will be organoleptically detectable) that will not be acceptable for the consumer.
+The WILDWINE Project (EU contract 315065) proposed a system to overcome the criticism on the uniformity after use of
+ADWY by bringing “wild” microorganisms to the starter culture practice. The Project proposed mixed cultures as an alternative
+to single strain cultures that is the usual practice for starter cultures. This multi-strain and multi-species starter cultures aimed at
+reproducing the vineyard natural microbiota with the advantage of a selection of those strains and species that could add
+complexity to the final wines. The WILDWINE Project has focused the selection of this “wild” microorganism in 5 worldwiderecognised wine regions: Nemea and Crete (Greece), Piedmont (Italy), Bordeaux (France) and Priorat (Spain). The basic protocol
+was the same for all the regions: (i) to establish the natural biodiversity of the regions and determine the “microbial fingerprint”
+of the region, (ii) oenological screening of all the strains and species isolates to determine their quality for the wine making
+process and (iii) to use the microbial cocktails at pilot plants and in commercial cellars to determine the “microbial footprint” that
+the “wild” microorganisms leave on the final wines.
+In the Priorat region, a limited number of different strains from Saccharomyces cerevisiae were detected after sampling cellars
+and vineyards in two different harvests (2012 and 2013). These low number of S. cerevisiae strains is in sharp contrast with the
+
+* Corresponding author.
+E-mail address: albert.mas08@gmail.com
+
+2210-7843 © 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Peer-review under responsibility of Fondazione Simone Cesaretti
+doi:10.1016/j.aaspro.2016.02.002
+
+Albert Mas et al. / Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+high biodiversity observed in the same area 18 years before when a selection of strains of this species was preformed to provide a
+commercial “autochthonous” strain for the Priorat region. Furthermore, the main species found in the vineyards were the yeastlike fungus Aerobasidium pullulans and Hanseniaspora uvarum. A. pullulans disappeared when grapes were turned into must and
+then H. uvarum and Candida zemplinina were the main species. Minority species found in musts and later in wines were
+Metschnokowia pulcherrima and Torulaspora delbrueckii.
+2015 The Authors. Published by Elsevier
+© 2016
+Elsevier B.V.
+B.V. This is an open access article under the CC BY-NC-ND license
+Peer-review under responsibility of Fondazione Simone Cesaretti.
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of Fondazione Simone Cesaretti
+Keywords: Terroir, Yeast, Lactic acid Bacteria
+
+1. Introduction
+Natural biodiversity is defined as the variety of life found in a given ecosystem. If we consider biodiversity as the
+quantification of life forms in a given place, it is obvious that agriculture is seen as the opposite of diversity, as the
+main objective has been always to prioritize one or a limited number of species (“the crops”) over others that could
+be found in a given area. Since Roman times, agriculture has moved towards enhancing monocultures, using a
+widespread arrange of tools (chemical, mechanical, human) to optimise the productivity of a single crop in a given
+area. A massive array of chemical fertilizers and pesticides (herbicides, fungicides, etc.) has been applied
+systematically to crops, especially in the last half of the 20th century. These practices have had a considerable
+impact on biodiversity, soil, plant and animal welfare. These chemicals remain in the soil and environment, helping
+the development of resistance and the appearance of new pests, which reduce their efficiency. This has called into
+question our ability to sustain industrial agricultural practices, making more sustainable food options more popular.
+Thus, a desire to recover natural diversity has emerged with considerable strength in agriculture, giving rise to the
+use of terms such as “organic”, “ecological”, “eco-friendly”, “biodynamic”, “natural”, and “sustainable” to describe
+agricultural practices and food in general.
+Viticulture and wine making cannot be separated from these tendencies. A first step toward sustainability could
+be considered “integrated” pest management. It is based on an acceptable level of pests and the biological control of
+many of them, facilitating the development of some predators, antagonists or competitors of the pests. It is also a
+labour-intensive practice, as frequent monitoring and action are required for effective pest control. It can incorporate
+the use of some pesticides and fertilizers, yet the objective is to reduce them as much as possible and try to use more
+“natural” alternatives; such as compost to fertilize. Despite being common practice, there is no strict requirement or
+certification for “integrated” grapes or wines, although sometimes “integrated management” is indicated.
+A step further is the use of the term “Organic production” (or organic product), which is only one legally
+regulated and accepted. Organic production aims at increasing natural biodiversity in crop ecosystems to facilitate
+the development of interactions among living beings. These denominations are well-defined (although the definition
+varies in different countries) and organizations exist to monitor and certify these practices. Some certifications are
+used to identify “wines produced from organic grapes”, which refers to conventional winemaking by using
+oenological products that are common in industrial cellars. The use of the term “organic wines” involves a more
+stringent use of those oenological products, which requires reducing the concentrations of some of them (for
+instance, sulphites). In addition, some conventional products may be eliminated by using available microorganisms
+which are either grown on organic molasses, for instance, or selected from the local origin. Regulations on the use of
+microorganisms are often scarce and contradictory among countries and certifying organisations. While establishing
+specific rules at the stage of winemaking is still debated, it is expected that in a near future the production of organic
+wine will consider specific limitations. In this sense, oenological processes are likely to be indicated on the labels
+("obtained without the addition of commercial yeast" or "produced with indigenous yeasts").
+A specific type of organic wines should be considered the biodynamic wines. The specificity is related to the
+philosophy called “antroposophy”, by Rudolf Steiner (1924), who established the concept of searching integration
+spiritual-ethical-ecological in human activities. The biodynamic movement is currently becoming very popular
+among viticulturists and some winemakers. Biodynamic producers use specific “preps” that should be “dynamised”
+and spread in the fields. Furthermore, a biodynamic vineyard should be fertilised by animals that pasture in the
+vineyards, which requires other plants to be incorporated in the fields to feed the animals. The agricultural practices
+
+5
+
+6
+
+Albert Mas et al. / Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+are adapted according to lunar cycles. Although some of the biodynamic practices are considered to be positive and
+incorporated into organic production, severe criticism has arisen from other wine producers and scientists (reviewed
+by Barquin & Smith, 2006). The first criticism is that many biodynamic producers follow practices almost
+religiously as if they were based more in faith than reasoning and observation, and are often reluctant to make use of
+scientific analysis. Although there is no question lunar cycles effect sea tides, the effect of the moon on agriculture
+has not yet been proven and is believed to be minimal. The main criticism is in regard to the “preps”, which are
+mostly based on esoteric preparations (skulls or horns filled with manure, bark or camomile) that are “dynamised”
+and diluted to such an extent that they are applied at homeopathic levels and are based on integration with astrology
+and cosmic energy. Finally, strict biodynamic producers do not use any microbial preparation for the fermentation of
+wine. Regarding the labelling of these products as biodynamic, there are private monitoring organisations that also
+certify these, yet they cannot claim any legal status as biodynamic. These wines are often labelled as organic
+Another denomination that is being developed is the “natural” wines (when the other wines became not natural?).
+These wines are not regulated or certified by any monitoring organisation and this consideration is based on mutual
+trust. The production of these natural wines is based exclusively on traditional practices. Among these practices in
+the farm only copper sulphate or sulphur are accepted, but not other pesticides; no fertilizers other than compost are
+allowed. When it comes to wine making, the use of sulphur dioxide or preparations of microorganisms are not
+allowed.
+Finally, “sustainable” wines are the result of a more holistic approach integrating ecology (in terms of landscape
+and energy expenses), economic profit and social development and well-being (Zucca et al, 2009). If we define
+sustainability as the use and benefit of resources without compromising their use for future generations, we should
+assume that human activity would ensure that the land can support human life and development and, while requiring
+a social structure that will be able to benefit from that land for generations to come. There is no official certification
+of such “sustainable” wines, although some producers are already creating associations to grant such denomination.
+2. The Fermentation process: Alcoholic fermentation
+Grapes and their derivative must are ecological niches for a variety of microorganisms that proliferate freely.
+Since Roman times, the use of SO2 has been common practice to prevent proliferation of unwanted nonfermentative microorganisms. Nowadays, this addition is done in the form of sulphite. Its use has several
+applications because it is an antioxidant, helps the precipitation of solids, but also has antimicrobial properties
+(fungistatic and bacteriostatic), which prevents the growth of the populations of yeast and bacteria (Ribereau Gayon
+et al, 2006). This practice is intended to reduce the activity of non-Saccharomyces yeasts and bacteria that usually
+result in unwanted effects on the wine that can cause not only a decrease of the wine quality, but also withdrawal
+from the market. However, it has been shown that the wine yeast Saccharomyces cerevisiae has specific genes that
+produce SO2 resistance. It also has specially adapted metabolism for alcoholic fermentation, so it predominates
+quickly over other yeasts and conducts the alcoholic fermentation (Constanti et al, 1998). As a result of this activity
+it produces alcohol as well as other compounds with antimicrobial activity (Wang et al, 2015).
+The presence of non-Saccharomyces yeast has traditionally been an indicator of detrimental wine spoilage. In
+contrast, the wine yeast S. cerevisiae, has been a common starter culture in the wine industry since the development
+of Active Dry Wine Yeast (ADWY), offering great control of fermentation to the winemaker. The selection of
+starter cultures has been performed using different tests and criteria, so that at present many different commercially
+available ADWY can be found. There are yeasts to increase aromatic expression, resistant to ethanol, low or high
+temperature, with different nutrient requirements, etc. Nonetheless all of them have a good fermentation potential
+and are generally adequate to complete the alcoholic fermentation.
+Yeast lead the alcoholic fermentation, but also has an important role in wine quality. The activity of different
+yeast species and strains has an impact on the organoleptic profiles of wine increasing its complexity and sensory
+richness (Ribereau Gayon et al, 2006). Currently, producers worldwide use commercial starters of S. cerevisiae to
+ensure a predictable, reproducible and controlled fermentation. However, a side-effect of the widespread use of
+commercial starter cultures is the elimination of native microbiota, which might result in wines with similar
+analytical and sensory properties, depriving them from the variability, complexity and personality that define the
+typicity of a wine (Fleet, 1993), that is the characteristics that provide the identification of a wine with the territory
+
+Albert Mas et al. / Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+where it has been produced. The use of native or indigenous yeasts is a tool to defend this typicity, since it has been
+shown that microbial diversity is characteristic of a given area (Bokulich et al, 2013). We could define the microbial
+population characteristic of a given area as its microbial fingerprint. This microbial population will give the wine
+character, measurable by the different components (molecules) that each microorganism leaves in the final wine,
+which we could define as the microbial footprint.
+To understand the winemaking process and how different microorganisms leave their microbial footprint, it is
+important to understand how long these microorganisms are present in the winemaking process. The study of the
+evolution of yeast populations during alcoholic fermentation has been going on since the development of effective
+methods in microbiology. Obviously, as techniques have evolved, we are having better knowledge. The grapes have
+populations of native or indigenous yeasts that are between 104 and 106 cells / g of grapes, which are mainly nonSaccharomyces yeasts. The populations of Saccharomyces are very low in grapes, although they are not completely
+absent (Beltran et al, 2002). These populations change slightly when they enter in contact with the cellar
+environment (presses, pumps, tanks) where they join the resident microbiota. This microbiota is rarely in new
+wineries, particularly if the equipment has not been used previously (Constanti et al, 1997). The cellar is a good
+niche for S. cerevisiae, which becomes the main cellar-resident yeast (Beltran el al, 2002).
+However, in fermentations without use of starters (spontaneous fermentations), the native microbiota, mostly
+non-Saccharomyces, proliferate for several days, producing different compounds that could improve the
+organoleptic quality of the wines. When the yeast have been analysed, the presence of interesting enzymatic activity
+has been detected: esterases, pectinolytic, beta-glucosidase, etc. (Jolly et al, 2014). Additionally, these NonSaccharomyces yeast may be able to reduce ethanol (Gonzalez et al, 2013), which has been proposed as a key
+objective in current winemaking due to the increased concentration of sugars, among other effects, derived from
+climate change (Mira de Orduna, 2010). Despite these favourable aspects, the traditional bias of winemakers against
+non-Saccharomyces yeast has prevented their massive use. However, in recent years the interest for mixed
+fermentations and selection of non-Saccharomyces yeasts for mixed fermentations with S. cerevisiae has increased
+considerably. In any case, the key role of S. cerevisiae in the alcoholic fermentation has been recently challenged
+(Jolly 2014).
+The selection of non-Saccharomyces yeast has focused on their direct positive effects on wine quality either by
+providing new aromas or by removing detrimental compounds that would affect wine quality. Consequently,
+Torulaspora delbrueckii has been proposed to reduce volatile acidity produced by Saccharomyces and has proven to
+be useful in the fermentation of botrytised grape must (Bely et al, 2008). Currently, there are various commercial
+preparations of this yeast. Another non-Saccharomyces yeast that is commercially available is Metschnikowia
+pulcherrima, recommended for the production of some thiols and terpenes in white wines to increase their aromatic
+intensity. Finally, Lachancea thermotolerans is also commercially available to increase glycerol and lactic acid
+(Gobbi et al, 2013). Although there are still few commercial preparations of non-Saccharomyces yeasts, they will
+probably increase in the near future. These include Candida zemplinina, with production of large amounts of
+glycerol, and also because it is fructophilic, which favours the end of fermentation (Soden et al, 2000). Other nonSaccharomyces species include Hanseniaspora uvarum, H. vinae and H. guilliermondii. Alternate species that have
+aroused interest are of the genera Zygosaccharomyces, Schizosaccharomyces, Pichia, Hansenula, etc. although
+commercial development seems unlikely (Jolly et al, 2014).
+However, the use of these non-Saccharomyces yeasts is meant to improve some characteristics of the final wines,
+yet it does not solve the problem caused by the massive use of ADWY: the uniformity that results from the use of a
+limited number of commercially available presentations. To increase the influence of the native microbiota in the
+production of wine, many winemakers have begun to eliminate or reduce the size of starter cultures with respect to
+the manufacturer’s recommendations. This practice can lead to uncontrolled fermentation. The return to noncontrolled wine fermentations may have considerable setbacks especially in terms of economical losses, as these
+wines are at higher risk of spoilage (presence of unwanted compounds that will be organoleptically detectable) that
+will not be acceptable for the consumer.
+The proposed solution to fight uniformity was to exploit indigenous yeasts. Some years ago different yeast
+producers developed commercial "local selection" yeasts in an attempt to defend the typicity and authenticity of
+wines. However, in all cases the focus was on strains of S. cerevisiae. This solution defends the policy of terroir and
+typicity by using these starter cultures from a local selection. Therefore, there have been proposals to use
+
+7
+
+8
+
+Albert Mas et al. / Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+oenologically competent indigenous yeasts as suitable inoculum for the production of conventional or organic
+wines, but to achieve this goal a previous oenological evaluation of natural isolates is required.
+3. The malolactic fermentation
+After the alcoholic fermentation caused by yeast, there is often malolactic fermentation (MLF), which is carried
+out spontaneously by native lactic acid bacteria (LAB). Currently, small wineries still proceed with spontaneous
+MLF. However, spontaneous MLF is very unpredictable, due to the lack of control. This can lead to the appearance
+of potentially negative aspects, such as undesired off-odours or the occurrence of biogenic amines. To overcome
+these obstacles, 40 years ago certain commercial starter cultures of LAB strains appeared, especially from the
+species Oenococcus oeni, due to its resistance to ethanol and the pH of the wine. Despite the clear benefits of starter
+cultures for MLF, the number of strains of O. oeni used successfully is still very limited, and there is a growing
+demand for new strains to conduct rapid development MLF in difficult and diverse wine conditions. These strains
+should have good organoleptic properties, and meet food security standards, especially ensuring the lack of
+production of biogenic amines. Besides O. oeni, other species of LAB may also exhibit good MLF performance.
+Among them, the strains of Lactobacillus plantarum present the most promising results in wines with high pH, low
+production of acetic acid and higher complex enzyme activities. The selection of indigenous LAB wild strains
+(whether O. oeni or other species), which are appropriate for the use as starter cultures, is another trend in the
+development of commercial LAB starters. Similarly to yeast, the use of indigenous bacteria from a particular terroir
+enhances the wine typicity and recovers the wine’s microbiological footprint.
+4. The WILDWINE Project
+The WILDWINE Project (EU contract 315065, http://www.wildwine.eu/en/) proposes a way to overcome the
+criticism of uniformity after use of ADWY by bringing “wild” microorganisms to the starter culture practice. The
+Project proposes mixed cultures as an alternative to single strain cultures, which are common practice for starter
+cultures. This multi-strain and multi-species starter cultures aim to reproduce the vineyards natural microbiota with
+the advantage of a selection of those strains and species that could add complexity to the final wines. Thus, the
+objective of this project is to provide small and medium enterprises and the different Appelations of origin (AOC)
+with instruments to diversify and offer innovative premium wines for domestic and global markets. These wines are
+also aimed at attracting new consumers through controlled wines and where the factor of terroir is particularly
+prominent. As stated, the project's strategic goal is to develop WildWine original and peculiar mixtures combining
+indigenous yeast both S. cerevisiae, non-Saccharomyces yeasts and LAB for the production of premium quality
+wines with a strong terroir typicity.
+The WILDWINE Project has focused on the selection of these “wild” microorganisms in 5 world-renowned wine
+regions: Nemea and Crete (Greece), Piedmont (Italy), Bordeaux (France) and Priorat (Spain). The basic protocol
+was the same for all the regions: (i) to establish the natural biodiversity and determine the microbial fingerprint of
+the region, (ii) oenological screening of all the strains and species isolates to determine their appropriateness for the
+wine making process and (iii) to use the microbial cocktails in pilot plants and commercial cellars to determine the
+microbial footprint that the “wild” microorganisms will leave on the final wines.
+In the Priorat region, a limited number of different strains from S. cerevisiae were detected after sampling cellars
+and vineyards in two different harvests (2012 and 2013). These low number of S. cerevisiae strains is in sharp
+contrast with the high biodiversity observed in the same area 18 years before when a selection of strains of this
+species was preformed to provide a commercial “autochthonous” strain for the Priorat region (Torija et al, 2002).
+Furthermore, the main species found in the vineyards were the yeast-like fungus Aerobasidium pullulans and
+Hanseniaspora uvarum. A. pullulans disappeared when grapes were turned into must and then H. uvarum and C.
+zemplinina were the main species. Minority species found in musts, and later in wines, were M. pulcherrima and T.
+delbrueckii. Regarding LAB, several autochthonous strains of Oenococcus oeni and some Lactobacillus were
+isolated and characterized from samples of vineyards and cellars during the same harvests as yeasts. Interestingly,
+this is the first time that several strains of O. oeni have been clearly isolated from grapes.
+
+Albert Mas et al. / Agriculture and Agricultural Science Procedia 8 (2016) 4 – 9
+
+The use of combinations of these species in starter cultures instead of a single strain of a single species will help
+maintain the biodiversity and is consistent with natural or organic practices that aim to employ more sustainable
+procedures.
+Acknowledgements
+The present work was supported by the Wildwine EU Project (grant agreement 315065).
+References
+Barquín J, Smith D. 2006. On fertile ground? Objections to biodynamics. The World of Fine Wine, 12: 108-113.
+Beltran, Torija MJ, Novo M, Ferrer N, Poblet M, Guillamon JM, Rozes N, Mas A. 2002. Analysis of yeast populations during alcoholic
+fermentation: a six year follow-up study. Systematic and Applied Microbiology 25: 287-293.
+Bely M, Stoeckle P, Masneuf-Pomarède I, Dubourdieu D. 2008. Impact of mixed Torulaspora delbrueckii–Saccharomyces cerevisiae culture on
+high-sugar fermentation. International Journal of Food Microbiology 122: 312–320.
+Bokulich NA, Thorngated JH, Richardsone PM, Mills DA. 2013. Microbial biogeography of wine grapes is conditioned by cultivar, vintage, and
+climate. Proceedings of the National Academy of Sciences, E139-E148.
+Constantí M, Poblet M, Arola Ll, Mas A, Guillamón JM. 1997. Analysis of yeast populations during alcoholic fermentation in a newly
+established winery. American Journal of Enology and Viticulture 48: 339-344.
+Constantí M, Reguant C, Poblet M, Zamora F, Mas A, Guillamón JM. 1998. Molecular analysis of yeast population dynamics: effect of sulphur
+dioxide and the inoculum in must fermentation International Journal of Food Microbiology, 41: 169-175.
+Fleet GH, Heard GM. 1993. Yeasts: growth during fermentation. In: Fleet GH (Ed) Wine Microbiology and Biotechnology (pp 27–54). Harwood.
+Gobbi M, Comitini F, Domizio P, Romani C, Lencioni L, Mannazzu I, Ciani M. 2013. Lachancea thermotolerans and Saccharomyces cerevisiae
+in simultaneous and sequential co-fermentation: a strategy to enhance acidity and improve the overall quality of wine. Food Microbiology 33:
+271–281.
+Gonzalez R, Quiros M, Morales P. 2013. Yeast respiration of sugars by non-Saccharomyces yeast species: A promising and barely explored
+approach to lowering alcohol content of wines. Trends in Food Science and Technology, 29: 55-61.
+Jolly NP, Varela C, Pretorius IS. 2014. Not your ordinary yeast: non-Saccharomyces yeasts in wine production uncovered. FEMS Yeast Research
+14: 215–237.
+Mira de Orduna R. 2010. Climate change associated effects on grape and wine quality and production. Food Research International, 43: 1844–
+1855
+Ribereau-Gayon P, Dubourdieu D, Donèche B. 2006 Handbook of enology; John Wiley & Sons Ltd.
+Soden A, Francis IL, Oakey H, Henschke PA. 2000. Effects of co-fermentation with Candida stellata and Saccharomyces cerevisiae on the aroma
+and composition of Chardonnay wine. Aust J Grape Wine Res 6: 21–30.
+Wang C, Esteve-Zarzoso B, Mas A. 2015. Factors involved in the interaction between Saccharomyces cerevisiae and Hanseniaspora uvarum
+populations during alcoholic fermentation. International Journal of Food Microbiology, doi: 10.1016/j.ijfoodmicro.2015.04.022)
+Zucca G, Smith DE, Mitry DJ. 2009. Sustainable viticulture and winery practices in California: What is it, and do customers care? International
+Journal of Wine Research, 2: 189-194.
+
+9
+
+

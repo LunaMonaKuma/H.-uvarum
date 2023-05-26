@@ -1,0 +1,2558 @@
+10
+Brettanomyces infection in wine
+
+10.1
+
+What is `Brett'?
+
+L. Bisson
+`Brett' is a colloquialism referring to the yeast Brettanomyces. Brettanomyces is
+a budding yeast also called Dekkera and is perhaps the most controversial
+organism of wine production. Brettanomyces is frequently isolated from wines.
+If these isolates display sexual spore formation they are classified as Dekkera. If
+no spores are formed they are classified as Brettanomyces. DNA sequence
+comparisons indicate that Dekkera and Brettanomyces are identical, but the use
+of the two terms still persists in taxonomic classification.
+Brettanomyces infection of wine is widespread and this yeast has been
+isolated from all wine-producing regions on six continents. This yeast is able to
+form biofilms, coatings of tanks, hoses and other winery surfaces that are
+difficult to eliminate and organisms in biofilms can resist sanitation agents and
+survive. Because wood is porous and provides wood sugars barrels are difficult
+to clean and sanitize and often host populations of Brettanomyces. Another
+reason Brettanomyces is such a problem is that it can exist in what is called a
+viable non-culturable (VNC) state. Most sanitation practices are monitored for
+effectiveness by determining if viable cells remain on the surface that was
+treated. Organisms in a VNC state do not grow under these conditions and give
+the false impression that the sanitation regimen was effective, but are in fact still
+viable and capable of growing later on.
+Brettanomyces is known for growing under harsh environmental conditions
+and has an interesting metabolism. This organism makes both ethanol and
+acetate from sugar, and which form is produced depends upon the strain and the
+conditions of growth. More importantly, Brettanomyces is able to produce vinyl
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 291
+phenols from wine phenolic compounds. The characters made by Brettanomyces
+are described as: sweaty horse, animal, earthy, wet wool, burnt plastic, BandAid, barnyard, smoky, soy sauce, spicy, mushroom, putrid, leather, mushroom,
+tobacco, lilac, wet dog, pharmaceutical, soapy, and baby diaper just to name a
+few. Not all strains produce all characters, and there is a great variation in the
+levels and spectrum of characters produced. It is difficult to predict how a given
+strain will perform in a specific wine, as the factors leading to the appearance of
+these compounds are not well known. This is the heart of the controversy
+surrounding this yeast ± some winemakers feel that the conversion of grape
+varietal characters to specific Brettanomyces end products is central to the
+development of varietal character and the expression of terroir. Other
+winemakers consider the development of these characters to detract from true
+varietal character giving the wine an off-taste and defective aroma.
+
+ß Woodhead Publishing Limited, 2010
+
+292
+
+Winemaking problems solved
+
+10.2 What is the history of Brettanomyces and where does it
+come from?
+L. Van de Water
+Taxonomy
+With sincere apologies to Shakespeare, `What's in a name? Would `Brett' by
+any other name smell as nasty?' Some taxonomists use the name Brettanomyces
+(anamorph, nonsporulating) for these yeasts, others use Dekkera (teleomorph,
+sporulating) for all of them, and some use a combination. For simplicity here
+we will use the name Brettanomyces to mean Dekkera/Brettanomyces
+bruxellenensis, excluding Dekkera anomala.
+Of the five Brettanomyces/Dekkera species currently recognized
+(bruxellensis, custersianus, naardenensis, and nanus, plus D. anomala), only
+bruxellensis is consistently isolated from wine. Former species that were
+consolidated into bruxellensis after genetic and other tests include B. custersii,
+B. intermedius, B. lambicus, D. abstinens, and D. intermedia (Smith et al., 1990;
+Smith, 1998; Barnett et al., 2000; Egli and Henick-Kling, 2001). Dekkera
+anomala has been isolated in Europe from cider (Delanoe and Suberville, 2005)
+soft drinks (Smith and van Grinsven, 1984), beer and wine (Oelofse et al., 2009).
+In the USA it has been isolated from cider and fruit juice (personal observation).
+Because the same yeast's name changes when its taxonomy changes, and
+because different researchers continue to call the same yeast by different names,
+someone who is not a yeast taxonomist is likely to be confused. If you check the
+references cited here, you will find a plethora of different names, many of which
+have since been consolidated. However, a `Brett-type' yeast in wine is almost
+certain to be Brettanomyces/Dekkera bruxellensis (it could be D. anomala but
+that is less likely), so you are dealing with the same yeast, no matter what its
+current taxonomic name(s) is/are.
+Many different strains of Brettanomyces/Dekkera bruxellensis have been
+isolated from wine and studied to one extent or another. Genetic and
+physiological differences among strains are profound, and will be discussed in
+10.3.
+History and distribution
+In EÂtudes sur le vin, the original treatise on wine microbiology, Pasteur does not
+describe any malady that seems to refer to Brettanomyces, nor do his meticulous
+drawings include any yeasts resembling them microscopically (Pasteur, 1866).
+Brettanomyces was identified in 1904 in British beer (Claussen, 1904), and
+subsequently in beer and wine from other countries. `Lambic beer' and some
+ciders are traditionally produced with Brettanomyces yeast. By now,
+Brettanomyces infection of wine has been confirmed in wines on six continents,
+and in nearly every region where wine is made (Licker et al., 1998; Arvik and
+Henick-Kling, 2002). Our labs have cultured Brettanomyces from wines from
+Argentina, Australia, Canada, Chile, France, Italy, Moldova, New Zealand,
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 293
+Thailand, Uruguay, and USA, which is to say, all countries whose wines were
+cultured.
+Interestingly, the genetics of the strains studied by Conterno et al. (2006)
+indicated a loose geographical association among isolates, but there were many
+exceptions, with some New World strains in groups of Old World strains, and
+vice versa. For example, their largest grouping on the basis of 26S rDNA
+included strains from France and Belgium but also strains from California and
+Chile, plus a morphologically distinct strain from Thailand. Complicating the
+picture, physiological characteristics did not match the genetic groupings. Dias
+et al. (2003) and Curtin et al. (2005, 2007) also described strains belonging to
+one genotype found in wines from widely separated countries.
+Recent history of Brettanomyces identification
+In California, a 1972 Napa Valley Gamay spoiled in the bottle. The change was
+appalling; a fruity wine with lots of mid-palate flavors lost its fruitiness, developed strong horsey odors, became simple-tasting, and had a metallic aftertaste
+(personal observation, 1973). Brettanomyces was isolated and identified in 1974
+from that Gamay by Dr Ralph Kunkee, microbiology professor at U.C. Davis
+(Kunkee, personal communication; Kunkee, 1996). Shortly afterwards, the yeast
+was cultured and identified in a number of other California wines (personal
+experience; personal communication, names withheld on request). Before then,
+Brettanomyces was called `the Cucamonga stink' in California's Central Valley,
+because although it was recognized as a spoilage problem, they did not know
+what caused it. The classic `Brett' descriptors (see 10.4) were consistently
+noticed in all these wines, though there was no method at the time to identify the
+ethyl phenols and other compounds responsible.
+Unfortunately, winemakers were reticent to discuss their experiences with
+other winemakers, which delayed recognition of the widespread nature of the
+Brettanomyces problem for some years. `Brett' was actually called `the clap' by
+some wineries, because of winery-to-winery transmission, because the infection
+was easy to miss (a slogan for STD testing at the time was `you can have it and
+not know'), and because of the stigma attached to the infection. The result was
+that Brettanomyces was almost a taboo subject in California for a number of
+years. A prominent winemaker, reached by phone in 1974 because `Brett'
+character had been detected in one of his wines, thundered, `Why the hell would
+you want to talk about a thing like that?' and slammed down the receiver. Few
+winemakers acknowledged publicly (or even to their own sales and marketing
+people) that their wineries were infected, although most who were producing red
+wine knew they had a Bretttanomyces infection in their cellars. To this day, a
+`don't ask, don't tell' dynamic lingers on.
+During the 1970s and 1980s, wines were intensely scrutinized for
+Brettanomyces infection in California at wineries and commercial labs, but
+formal research was seldom if ever funded until the 1990s. USA research
+funding still struggles mightily, though some very important studies have been
+
+ß Woodhead Publishing Limited, 2010
+
+294
+
+Winemaking problems solved
+
+performed already, and can continue if funded. More research is now carried out
+in other countries, because of funding considerations.
+In some winegrowing countries, Brettanomyces was identified years earlier,
+but sometimes the awareness faded. For example, Brettanomyces was studied in
+South African wines in the late 1950s and early 1960s (van der Walt and van
+Kerken, 1960), and the genus Dekkera was named in 1964 (van der Walt, 1964).
+However, by 2004, many South African winemakers were unaware of
+Brettanomyces infections in their wineries (personal observation).
+Winemakers in other countries also discovered relatively recently that
+Brettanomyces is the origin of certain sensory characteristics. Despite excellent
+Australian research on ethyl phenol production by Brettanomyces (Heresztyn,
+1986), until the late 1990s it was assumed by many Australians that the so-called
+`Hunter Valley stink' in Syrah was a regional or varietal characteristic.
+However, even in the 1970s, Californians visiting Australia recognized the
+telltale sensory characters of Brettanomyces in some of the wines, and some
+Australian winemakers were discussing the possibility that there was
+Brettanomyces in Australia (Carol Shelton, personal communication). Since
+1999, when it was discovered that a large proportion of Australian reds had high
+ethyl phenol levels (Henschke et al., 2004), the Australian Wine Research
+Institute have been extremely proactive in their research on Brettanomyces and
+in educating winemakers about the problem. By 2004, 1500 winemakers had
+attended their `Institute Roadshows'.
+While Brettanomyces was discovered in French wine in 1930 by researchers
+in Germany (Licker et al., 1998), and studies continued in France over time
+(for example, Peynaud and Domercq, 1956), the link between Brettanomyces
+and 4-ethyl phenols in French wine was not observed until 1992 (Chatonnet et
+al., 1992). Until then, Brettanomyces was assumed by French winemakers to
+produce only `mousiness' (Ribereau-Gayon et al., 2006). However, the other
+effects of Brettanomyces growth ± horsey, barnyard, spicy descriptors ± had
+been detected sensorily for many years in some French wines by winemakers
+and enologists in California, and Brettanomyces had been cultured from certain
+French wines since 1974 (personal observation). For example, a 1978
+Bordeaux from a highly regarded chaÃteau was cultured because of a complaint
+from a St Helena, CA, retailer, and was found to be heavily infected with
+Brettanomyces.
+It is unfair to point to any one region as more thoroughly infected than
+another, however. Management practices usually make the difference in wines
+with `Brett' character, not numbers of infected wineries. In the 1970s,
+Californians considered the Burgundy region in France to be a hotbed of
+Brettanomyces because of a miscommunication. Gerald Asher, then wine writer
+for The San Francisco Chronicle, asked Robert Mondavi why his 1971 Reserve
+Pinot Noir seemed so Burgundian, and he replied, `Oh, that's from the touch of
+Brettanomyces we had in there.' In fact, that wine did not have Brettanomyces, it
+had Pediococcus (personal observation) which is very common in red
+Burgundies.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 295
+Does Brettanomyces come from the vineyard?
+Whether or not Brettanomyces/Dekkera bruxellensis ± the wine species ± is
+commonly present in vineyards is very controversial. Some winemakers believe
+that Brettanomyces comes in on most grapes, therefore all red wines have
+Brettanomyces. Popular articles quoting wine writers and winemakers are filled
+with numerous references to Brettanomyces on grapes, but almost all of that
+evidence is anecdotal. A California winemaker declared in Harpers Wine and
+Spirit Review (Goode, 2003), `Since Brett is largely ubiquitous, a rampant Brett
+infection is often more of a function of a large inoculum coming in on the grapes'.
+Are these ideas about Brettanomyces substantiated by research? No. The
+opinion that Brettanomyces is part of the natural flora of all red wines is not
+borne out by testing of wines in hundreds of wineries over many years (personal
+observation). After reviewing formal research, independent lab results, and inhouse studies performed by wineries, the inescapable conclusion is that not all
+wineries are infected with Brettanomyces, even when neighboring wineries are.
+In fact, if Brettanomyces bruxellensis is present in vineyards, it is very
+difficult to find. A number of studies around the world over the past 35 years did
+not find the yeast on grapes (Fugelsang et al., 1993; Oelofse et al., 2008; also
+personal communication). In a 2007 French study, Renouf and Lonvaud-Funel
+(2007) developed a special liquid medium, EBB, to culture Brettanomyces
+yeasts from grapes, and then used polymerase chain reaction (PCR) to confirm
+the yeasts' identity. Similar studies in other regions would be helpful; a Napa
+Valley winery using EBB medium located no Brettanomyces on their grapes, but
+other yeast species (Candida catenulata and Debaromyces hansenii) grew.
+Those species also reacted with other tests presumed to be specific for
+Brettanomyces (personal communication, name withheld on request).
+Many winemakers assume that Brettanomyces can populate vineyards if
+infected pomace is spread in the vineyard. This may indeed occur, but it has not
+yet been proven by controlled studies (a good topic for future research). The
+yeasts were found on airborne droplets within a winery (Connell et al., 2002),
+and in insects in and around wineries by van der Walt and van Kirken (1960),
+though not on pomace. It has not been established that insects are actually
+vectors for infection of wine among different wineries. Species of
+Brettanomyces have been found in fruit orchards and in bees (Licker et al.,
+1998), but it was not determined whether or not these belonged to bruxellensis;
+if not, they were unlikely to infect wine. All in all, Brettanomyces may be
+present at very low levels in some vineyards, but winemakers should not look to
+grapes as a primary source of Brettanomyces infection.
+Brettanomyces in the winery
+So how do the yeasts get into a winery? The most important vehicles of
+transmission of these yeasts from cellar to cellar are infected wines and wooden
+or plastic containers (Fugelsang et al., 1993; Boulton et al., 1996; also personal
+experience). Movement of bulk wine in a number of countries has spread
+
+ß Woodhead Publishing Limited, 2010
+
+296
+
+Winemaking problems solved
+
+Brettanomyces yeasts internationally and domestically (Curtin et al., 2007).
+When infected wine is purchased, unless the winery is prepared to deal with the
+infection before it enters the cellar, one wine can contaminate the entire cellar.
+Purchasing used red wine barrels from other wineries is economically very
+tempting, although Brettanomyces often comes along also (white wine barrels
+are much less frequently infected). There is no legal or moral requirement to
+disclose the Brettanomyces infection status of barrels for sale, even if known; it
+is definitely a `buyer beware' situation. The practice of importing used barrels
+from Bordeaux wineries with the hope of capturing some of the `gout de terroir'
+of that region has assisted in distributing Brettanomyces around the world. Used
+whiskey barrels have not been implicated in spreading Brettanomyces,
+presumably because the high alcohol content of whiskey prevents an infection
+from taking hold, even if somehow the yeasts were introduced.
+Case histories abound of Brettanomyces entering a winery through wine or
+wood and taking up residence, infecting subsequent wines for many years
+thereafter. Three examples:
+1.
+
+2.
+3.
+
+A new winery was built for the 2001 vintage. They were warned never to
+bring in anything from another winery, and had three vintages completely
+free of Brettanomyces, although the winery was in a valley full of infected
+wineries. Then, in 2004, the new winemaker bought 5000 liters of wine
+from another winery, but did not check it for Brettanomyces beforehand.
+The wine was infected, and as a result, the winery has been fighting
+Brettanomyces ever since (personal observation).
+A winemaker whose small winery had been free of Brettanomyces
+unknowingly purchased an infected wine and used it to top all his red
+barrels, infecting the entire cellar.
+The 1995 decision by a New Zealand winery to sell barrels after only three
+years sent Brettanomyces quickly around the country, into numerous
+wineries that previously were uninfected (personal observation).
+
+Once in the winery, the yeasts are easily spread from wine to wine. Numerous
+studies have found infections in various places inside wineries, and as far back
+as 1960, it was recognized that these pools of Brettanomyces infection in the
+winery could lead to cross-contamination. `The infection of wines and musts by
+Brettanomyces species is due to contamination spreading from latent foci of
+infection within the winery' (van der Walt and van Kirken, 1960).
+Sanitizing measures such as SO2, ozone, peroxycarbonate, and peracetic acid
+reduce the population in a barrel but do not kill all the yeasts, which can be 0.8 cm
+deep in the wood (Malfeito-Ferreira et al., 2004). Shaving a barrel greatly
+reduces the infection (Pollnitz et al., 2000) but does not always completely
+eliminate it. Asked why he was the only one in New Zealand with Brettanomyces
+in his Chardonnay, a winemaker immediately replied, `That's because I use
+shaved red wine barrels for my Chardonnay' (personal communication, name
+withheld on request). The shaving got rid of the color but did not go down far
+enough to eliminate the infection deep in the staves.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 297
+Brettanomyces grows more readily in new barrels, but this is more likely to
+be related to the composition of new wood, rather than new barrels bringing in
+an infection. While some winemakers believe new barrels to be a primary
+source, this has not been confirmed by research (see 10.3).
+Avoiding Brettanomyces infection:
+· Do not buy barrels, or wooden or plastic tanks, that were previously used for
+red wine in another cellar (white wine barrels could be infected but are much
+less likely to be).
+· Do not buy bulk red wine unless it can be sterile-filtered before going into
+wood or plastic containers in your cellar.
+· Do not buy equipment that cannot be sanitized with hot water or steam before
+use.
+Acknowledgements
+I would like to thank the following people for reviewing my question texts: Dr
+Charles Edwards, Washington State University; Dr Paul Grbin, University of
+Adelaide; Sarah Inkersell, Pacific Rim Oenology Services, New Zealand; C. M.
+Lucy Joseph, University of California at Davis, Zoran Ljepovic, Constellation
+Wines US, and Doug Manning, winemaking consultant, Napa, California.
+Also thanks to Dr Ken Fugelsang, California State University, Fresno; Dr
+Trevor Phister, NCSU and Dr Bruce Zoecklein, Virginia Tech University for
+their helpful suggestions.
+References
+
+and HENICK-KLING, T., 2002, `Overview: Brettanomyces bruxellensis occurrence,
+growth, and effect on wine flavor,' Practical Winery and Vineyard, May/June:
+117±123.
+BARNETT, J. A., PAYNE, R. W. and YARROW, D., 2000, Yeasts: Characteristics and
+Identification, 3rd edn, Cambridge, Cambridge University Press.
+BOULTON, R., SINGLETON, V., BISSON, L. and KUNKEE, R., 1996. Principles and Practices of
+Winemaking, New York, Chapman and Hall.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J. N., 1992, `The origin of ethyl phenols in
+wines,' J. Sci. Food Agric. 68, 165±178.
+CLAUSSEN, N. H., 1904, `On a method for the application of Hansen's pure yeast system in
+the manufacturing of well-conditioned English stock beers,' J. Inst. Brew. 10, 308±
+331.
+CONNELL, L., STENDER, H. and EDWARDS, C., 2002, `Rapid detection and identification of
+Brettanomyces from winery air samples based on peptide nucleic acid analysis,'
+Am. J. Enol. Vitic. 53:4, 322±324.
+CONTERNO, L., JOSEPH, C.M.L., ARVIK, T., HENICK-KLING, T. and BISSON, L., 2006, `Genetic and
+physiological characterization of Brettanomyces bruxellensis strains isolated from
+wines,' Am. J. Enol. Vitic. 57:2, 139±147.
+ARVIK, T.
+
+CURTIN, C., BELLON, J., COULTER, A., COWEY, G., ROBINSON, E., DE BARROS-LOPES, M., GODDEN,
+P., HENSCHKE, P., PRETORIUS, I.,
+
+2005, `The six tribes of ``Brett'' in Australia ±
+
+ß Woodhead Publishing Limited, 2010
+
+298
+
+Winemaking problems solved
+
+distribution of genetically divergent Dekkera bruxellensis strains across Australian
+winemaking regions,' Aust. NZ Wine Ind. J. 20:6, 28±36.
+CURTIN, C., BELLON, J., HENSCHKE, P., GODDEN, P. and BARROS-LOPEZ, M., 2007, `Genetic
+diversity of Dekkera/Brettanomyces bruxellensis isolates from Australian
+wineries,' FEMS Yeast Res. 7, 471±481. doi: 10.1111/j.1567-1364.2006.00183.x.
+DELANOE, D. and SUBERVILLE, N., 2005, `Troubles et deÂpo
+Ã ts des boissons fermenteÂes et des
+jus de fruits. Aspects pratiques du diagnostic', ChaintreÂ France, Oenoplurimedia.
+DIAS, L., DIAS, S., SANCHO, T., STENDER, H., QUEROL. A., MALFEITO-FERREIRA, M. and LOUREIRO,
+V., 2003, `Identification of yeasts isolated from wine-related environments and
+capable of producing 4-ethylphenol,' Food Microbiol. 20, 567±574.
+EGLI, M. and HENICK-KLING, T., 2001, `Identification of Brettanomyces/Dekkera species
+based on polymorphism in the rRNA internal transcribed spacer region,' Am. J.
+Enol. Vitic. 52, 241±247.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+GOODE, J., 2003, `Brettanomyces', Harpers Wine and Spirit Weekly, 18 April, 42±46.
+HENSCHKE, P., BELLON, J., CAPONE, D., COULTER, A., COWEY, G., COZZOLINO, D., CURTIN, C.,
+FIELD, J., GISHEN, M., GRAVES, P., LATEY, K., ROBINSON, E., FRANCIS, I.L., DE BARROS
+
+LOPES, M. and GODDEN, P., 2004, Incidence and control of Brettanomyces: the
+Australian perspective. Abstr. Am. J. Enol. Vitic. 55, 304A.
+HERESZTYN, T., 1986, `Metabolism of phenolic compounds from hydroxycinnamic acids
+by Brettanomyces yeasts,' Arch. Microbiol. 146, 96±98.
+KUNKEE, R., 1996, `Several decades of wine microbiology: have we changed or have the
+microbes?', Wine Spoilage Microbiology Conference, Toland, T. and Fugelsang,
+K. (eds). California State University, Fresno.
+LICKER, J., ACREE, T. and HENICK-KLING, T., 1998, `What is ``Brett'' (Brettanomyces)
+flavor?: a preliminary investigation', in Chemistry of Wine Flavor, Waterhouse, A.
+and Ebeler, S. (eds), Washington, DC, American Chemical Society Symposium
+series.
+MALFEITO-FERREIRA, M., LAUREANO, P., BARATA, A., D'ANTUONO, I., STENDER, H. and
+LOUREIRO, V., 2004, `Effect of different barrique sanitation procedures on yeasts
+isolated from the inner layers of wood,' Abstr. Am. J. Enol. Vitic. 55, 304A.
+OELOFSE, A., PRETORIUS, I. and DU TOIT, M., 2008, `Significance of Brettanomyces and
+Dekkera during winemaking: a synoptic review,' S. Afr. J. Enol. Vitic. 29:2, 128±
+144.
+OELOFSE, A., LONVAUD-FUNEL, A. and DU TOIT, M., 2009, `Molecular identification of
+Brettanomyces bruxellensis strains isolated from red wine and volatile phenol
+production,' Food Microbiol. 26, 377±385. doi: 10.1016/j.fm.2008.10.011.
+Â tudes sur le vin: ses maladies, causes qui les provoquent, proceÂdeÂs
+PASTEUR, L., 1866, E
+nouveaux pour le conserver et pour le vieillir, Victor Masson et fils, Paris.
+PEYNAUD, E. and DOMERCQ, S., 1956, `Sur les Brettanomyces isoleÂes de raisins et de vins',
+Arch. Mikrobiol. 24, 266±280.
+POLLNITZ, A., PARDON, K. and SEFTON, M., 2000, `Quantitative analysis of 4-ethylphenol and
+4-ethylguauacol in red wine', J. Chromatogr. A 874, 101±109.
+RENOUF, V. and LONVAUD-FUNEL, A., 2007, `Development of an enrichment medium to
+detect Dekkera/Brettanomyces bruxellensis, a spoilage wine yeast, on the surface
+of grape berries,' Microbiol. Res. 162, 154±167.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 299
+and DUBOURDIEU, D., 2006, Handbook of
+Enology Volume 2: The Chemistry of Wine Stabilization and Treatments, John
+Wiley & Sons, Chichester.
+SMITH, M. T., 1998, `Brettanomyces Kufferath and van Laer', in The Yeasts, 4th edn,
+Kurtman, C.P. and Fell, J.W. (eds), Elsevier, New York, 450±453.
+SMITH, M. and VAN GRINSVEN, A., 1984, `Dekkera anomala sp. nov., the teleomorph of
+Brettanomyces anomalus, recovered from spoiled soft drinks,' A. Van Leeuw. 50:2,
+143±148.
+SMITH, M.T., YAMAZAKI, M. and POOT, G.A., 1990, `Dekkera, Brettanomyces and Eeniella:
+electrophoretic comparison of enzymes and DNA-DNA homology,' Yeast 6:4,
+299±310.
+VAN DER WALT, J. and VAN KERKEN, A., 1960, `The wine yeasts of the Cape, Part V: Studies
+on the occurrence of Brettanomyces intermedius and Brettanomyces schanderlii,'
+A. van Leeuw. 26, 292.
+VAN DER WALT, J., 1964, `Dekkera, a new genus of the Saccharomycetaceae,' A. van
+Leeuw. 30, 273±280.
+RIBEREAU-GAYON, P., GLORIES, Y., MAUJEAN, A.
+
+ß Woodhead Publishing Limited, 2010
+
+300
+
+10.3
+
+Winemaking problems solved
+
+How does Brettanomyces grow?
+
+L. Van de Water
+Brettanomyces can live on other microbes' nutritional leftovers, earning
+themselves the nickname `junkyard dog of wine yeasts'. They are surprisingly
+versatile in their nutritive requirements. At least some strains of Brettanomyces
+bruxellensis can live in almost any red wine, and some whites, below around
+15% alcohol or so, bottled or not, dry or sweet. They can use a number of
+carbon-containing substrates, some of which are always present in the wine.
+Low wine pH is not a limiting factor except as it relates to molecular SO2
+(Conterno et al., 2006).
+Red wines are most at risk for Brettanomyces infection and growth. Red wine
+pH is higher than most whites, so SO2 protection is not as effective. Reds are
+often kept warmer during at least part of their cellaring, and they often are aged
+in infected cooperage for a much longer time than whites would be. However,
+white wines are not immune to Brettanomyces; infections have been found in
+white wines fermented or aged in used wood (even if shaved), and in sparkling
+wine.
+It has often been noted that Brettanomyces yeasts grow more extensively in
+new barrels compared to old ones. It was therefore speculated that this meant
+that new barrels were contaminated with Brettanomyces, but this has not been
+substantiated. Rather, it has been shown that most strains can use the
+disaccharide cellobiose, a component of toasted wood, as a sole carbon source
+(McMahon and Zoecklein, 1999; Mansfield et al., 2002). This is a very
+important aspect of Brettanomyces growth, especially in new barrels. Cellobiose
+is more abundant in new oak, promoting more active growth if new barrels are
+filled with infected wines (Boulton et al., 1996; Fugelsang and Edwards, 2007).
+At normal cellar temperatures (13ëC/55ëF) and conditions the yeasts grow
+slowly over some months or may even become temporarily dormant, though at a
+warm temperature (over 20ëC/68ëF) they may grow significantly in a few weeks
+(Chatonnet et al., 1995). For example, warming stuck wines to encourage
+fermentation also encourages Brettanomyces growth, if the wine has already
+become infected. Inconveniently, exponential growth may be stimulated by a
+rise in storage temperature when unfiltered wine is sent to market.
+Brettanomyces can grow throughout the wine, but the cells tend to settle in
+barrels or tanks, so the population is often higher near the bottom, sometimes
+much higher (Boulton et al., 1996). In barrels with ill-fitting bungs or other
+containers with ill-fitting closures, there may also be a population near the top,
+taking advantage of dissolved oxygen to broaden their range of substrates. Some
+strains make biofilms that can adhere to surfaces in contact with the wine, such as
+tanks, hoses, and other equipment (Joseph et al., 2007). Despite some reports, the
+yeast does not normally make a film on the surface of cellared wine (Fugelsang et
+al., 1993). Occasionally a very thin film may form (which can extend up the sides
+of a small glass container for several cm) if an infected lab sample of wine is
+continually exposed to air for several months (personal observation).
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 301
+Micro-oxygenation is contraindicated for Brettanomyces-infected wines,
+because research shows that they take up the oxygen more quickly than the
+phenolics do, stimulating Brett growth (du Toit et al., 2005, 2006). While
+stimulated by oxygen, they do not need it; the yeasts also grow in unfiltered,
+bottled wine (Chatonnet et al., 1992; Fugelsang and Zoecklein, 2003; Romano et
+al., 2008; Coulon et al., 2010; also personal observation).
+Brettanomyces appear to be less sensitive to CO2 than Saccharomyces
+because they have been isolated from bottled sparkling wine (Ciani and Ferraro,
+1997; Licker et al., 1998). One methode champenoise sparkling wine had viable
+Brettanomyces cells after having been en tirage (on yeast lees, with a large
+buildup of CO2) for four years (personal observation).
+Strain diversity
+Winemakers everywhere ± and even wine microbiologists ± tend to think of
+Brettanomyces/Dekkera as one yeast, but actually we should speak of the
+members of this species as `them' rather than `it.' There are many strains of this
+yeast, with extremely variable genetics and characteristics. Even chromosome
+size and number varies among bruxellensis strains (Oelofse et al., 2008). Thus,
+whenever one discusses Brettanomyces, much of what one can say about a
+particular strain can be contradicted by the behavior of another strain (Egli and
+Henick-Kling, 2001; Dias et al., 2003; Conterno et al., 2006; Barbin et al.,
+2008). Strain differences can account for some (though not all) of the
+misconceptions about Brettanomyces that abound in the popular literature.
+Everyone does agree that strain diversity and distribution in Brettanomyces
+are quite extensive. Curtin et al. (2007) tested 244 isolates in 31 regions in
+Australia and identified eight genotypes; 207 isolates from 28 regions were one
+genotype, a few isolates fit each of two other genotypes, and five genotypes had
+one isolate each. Most wineries had only one genotype, but a few had more.
+Barbin et al. (2008) found 23 strains in 24 isolates from two French wineries
+over three years. Martorell et al. (2006) found the same molecular pattern in
+strains from Portugal and from the USA.
+Strain differences in growth and metabolism
+All 35 strains in a study by Conterno et al. (2006) utilized arginine and proline,
+the two major amino acids in grapes, as a sole nitrogen source. Proline is not
+normally used by Saccharomyces so it is available after fermentation. Arginine
+is used during yeast fermentation, but some can be left over because of high
+levels in grapes, overenthusiastic nutrient supplementation, and yeast autolysis
+during lees aging.
+Those 35 strains also had an absolute requirement for the vitamins thiamine
+and biotin, which are also used by other microbes. Competition for these and/or
+other nutrients may be relevant to observations in wineries. One winery noticed
+that barrels infected with Brettanomyces struggled with malolactic fermentation
+
+ß Woodhead Publishing Limited, 2010
+
+302
+
+Winemaking problems solved
+
+(MLF) while uninfected barrels of the same wine did not, and barrels that had
+completed MLF did not grow Brettanomyces as readily as barrels of the same
+wine that had not yet undergone MLF (personal communication, name withheld
+on request). Romano et al. (2008) proposed that MLF might increase toxicity
+toward Brettanomyces.
+Conterno et al. (2006) confirmed that different strains can metabolize
+different substrates, show different growth patterns and morphology, and have
+different tolerances to alcohol, SO2, and temperature. Some strains did not
+produce the classic sensory hallmarks, 4-ethyl phenol (4EP) and 4-ethyl guaiacol
+(4EG), in the wine used, though the researchers postulated that those same
+strains may do so in other wines (Lucy Joseph, personal communication).
+Sugars
+As seen in Table 1, all of the 35 isolates could grow on the hexose sugars,
+glucose and fructose and the disaccharide sucrose, and most could use galactose,
+maltose, cellobiose, and trehalose; some strains could also use other sugars and
+sugar alcohols. Dry wines, with combined glucose and fructose levels by
+enzymatic analysis of 0.2 g/L or less, are quite able to support Brettanomyces
+growth (Chatonnet et al., 1995). Brettanomyces growth is too slow to compete
+successfully with Saccharomyces for sugar during yeast fermentation, but in
+stuck wines or bottled wines, Brettanomyces may help themselves to small
+amounts of various sugars along with other substrates.
+Alcohol
+Some strains (more European ones than US ones) can use ethyl alcohol as a sole
+carbon source in culture (Rodrigues et al., 2000, Conterno et al., 2006), and also
+in wine, reducing the alcohol level by a few tenths of a percent (personal
+observation). In aerobic conditions, many strains can produce alcohol and acetic
+acid from sugar. In anaerobic conditions acetic acid is not produced, and alcohol
+fermentation is at least temporarily inhibited, which is called the `Custers Effect'
+(Ciani and Ferraro, 1997).
+Variations in strain tolerance to alcohol have not been studied extensively,
+but this is definitely important. Barata et al. (2008) studied 29 strains, two of
+which tolerated almost 15% alcohol, but two did not even tolerate 14%. It may
+be significant the authors used mostly European strains, and included only two
+strains from California; many California wines 14% and over regularly grow
+Brettanomyces, and some strains manage alcohol levels at or over 15% (personal
+experience).
+Growth patterns
+There are also differences in growth patterns among strains. In a two-year study
+by Fugelsang and Zoecklein (2003), one strain reached a peak of cell growth,
+then declined (Fig. 1). Other strains grew, then declined so much that they were
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 303
+Table 1 Summary of physiological characteristics of 35 Brettanomyces strains
+Character tested
+
+Frequency (%)
+
+Isolates
+
+Carbon source growth
+Arginine, cellulose, proline, tartrate
+Adonitol
+Arabinose, citrate, starch
+Lactose, mannitol, raffinose
+Ethanol
+Glycerol
+Lactate
+Succinate
+Malate
+Galactose
+Cellobiose, maltose
+Trehalose
+Sucrose
+
+0
+2
+3
+4
+9
+10
+12
+13
+14
+28
+32
+34
+35
+
+0
+6
+9
+11
+26
+29
+34
+37
+40
+80
+91
+97
+100
+
+Nitrogen source growth
+Nitrate
+Arginine, proline
+
+25
+35
+
+71
+100
+
+Temperature growth
+at 37ëC
+at 10ëC
+
+13
+11
+
+37
+31
+
+Alcohol
+Tolerance >10%
+
+35
+
+100
+
+Sulfite tolerance
+>30 mg/L at pH 3.4
+
+17
+
+49
+
+pH growth
+at pH 2.0
+
+33
+
+94
+
+4-EP and 4-EG (lg/L)
+High (>2000 4-EP; >1500 4-EG)
+Medium (1000±2000 4-EP; 700±1500 4-EG)
+Low (<50 4-EP; <60 4-EG)
+None (<4.0 4-EP and 4-EG)
+
+17
+6
+7
+7
+
+49
+17
+20
+17
+
+Source: Conterno et al. (2006).
+
+not detectable by culturing, but later reached a second growth peak. Even when
+the culturable cell population had declined, the cells were still actively
+producing ethyl phenols. In another study (Barbin et al., 2008), nine growth
+profiles of four types were found in 23 strains, including a two-stage growth by
+some strains. They wrote, `One can assume that a compound necessary for
+growth was in default and that the yeast adjusted its metabolism before pursuing
+growth.' Whether or not the enzymes can continue to act in the wine after the
+cells have autolysed is not yet known. Much more research is needed on strain
+growth patterns to understand the behavior of these yeasts in wines.
+
+ß Woodhead Publishing Limited, 2010
+
+304
+
+Winemaking problems solved
+
+Fig. 1 Colony forming units/mL and concentration (mg/L) of 4-ethylphenol produced
+by three strains of Brettanomyces bruxellensis in Pinot noir wine. Source: Fugelsang and
+Zoecklein (2003).
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 305
+References
+
+and
+2008, `Survival patterns of Dekkera bruxellensis in wines and
+inhibitory effect of sulphur dioxide,' Int. J. Food Microbiol. 121:2, 201±207. doi:
+10.1016/j.ifoodmicro.2007.11.020.
+BARBIN, P., CHEVAL, J-L., GILIS, J-F., STREHAINANO, P. and TAILLANDIER, P., 2008, `Diversity
+in spoilage yeast Dekkera/Brettanomyces isolated from French red wine:
+assessment during fermentation of synthetic wine medium,' J. Inst. Brew 114:1,
+69±75.
+BOULTON, R., SINGLETON, V., BISSON, L. and KUNKEE, R., 1996. Principles and Practices of
+Winemaking, New York, Chapman and Hall.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J. N., 1992, `The origin of ethyl phenols in
+wines,' J. Sci. Food Agric. 68, 165±178.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J.N., 1995, `The influence of Brettanomyces/
+Dekkera spp. yeasts and lactic acid bacteria on the ethyl phenol content of red
+wines,' Am. J. Enol. Vitic. 46, 463±468.
+CIANI, M. and FERRARO, L., 1997, `Role of oxygen on acetic acid production by
+Brettanomyces/Dekkera in winemaking,' J. Sci. Food Agric. 75:4, 489±495.
+CONTERNO, L., JOSEPH, C.M.L., ARVIK, T., HENICK-KLING, T. and BISSON, L., 2006, `Genetic and
+physiological characterization of Brettanomyces bruxellensis strains isolated from
+wines,' Am. J. Enol. Vitic. 57:2, 139±147.
+COULON, J., PERELLO, M., LONVAUD-FUNEL, A., DE REVEL, G. and RENOUF, V., 2010,
+Brettanomyces bruxellensis evolution and volatile phenols production in red wines
+during storage in bottles,' J. Appl. Microbiol. 108, 1450±1455. doi: 10.1111/
+j.1365-2672.2009.04561.x.
+CURTIN, C., BELLON, J., HENSCHKE, P., GODDEN, P. and BARROS-LOPEZ, M., 2007, `Genetic
+diversity of Dekkera/Brettanomyces bruxellensis isolates from Australian
+wineries,' FEMS Yeast Res. 7, 471±481. doi: 10.1111/j.1567-1364.2006.00183.x.
+DIAS, L., DIAS, S., SANCHO, T., STENDER, H., QUEROL. A., MALFEITO-FERREIRA, M. and LOUREIRO,
+V., 2003, `Identification of yeasts isolated from wine-related environments and
+capable of producing 4-ethylphenol,' Food Microbiol. 20, 567±574.
+DU TOIT, W., PRETORIUS, I. and LONVAUD-FUNEL, A., 2005, `The effect of sulphur dioxide
+and oxygen on the viability and culturability of a strain of Acetobacter
+pasteurianus and a strain of Brettanomyces bruxellensis isolated from wine,' J.
+Appl. Microbiol. 98, 862±871.
+DU TOIT, W.J., LISKAK, K., MARAIS, J. and DU TOIT, M., 2006, `The effect of microoxygenation on the phenolic composition, quality and aerobic wine spoilage
+microorganisms of different South African red wines,' S. Afr. J. Enol. Vitic. 27:1,
+57±67.
+EGLI, M. and HENICK-KLING, T., 2001, `Identification of Brettanomyces/Dekkera species
+based on polymorphism in the rRNA internal transcribed spacer region,' Am. J.
+Enol. Vitic. 52, 241±247.
+FUGELSANG., K. and ZOECKLEIN, B., 2003, `Population Dynamics and Effects of
+Brettanomyces bruxellensis Strains on Pinot noir (Vitis vinifera L.) Wines,' Am.
+J. Enol. Vitic. 54:4, 294±300.
+FUGELSANG, K. and EDWARDS, C., 2007, Wine Microbiology, New York, Springer.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+BARATA, A., CALDIEIRA, J., BOTELHEIRO, R., PAGLIARA, D., MALFEITO-FERREIRA, M.
+LOUREIRO, V.,
+
+ß Woodhead Publishing Limited, 2010
+
+306
+
+Winemaking problems solved
+
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+JOSEPH, C. M.L., KUMAR, G., SU, E. and BISSON, L., 2007, `Adhesion and biofilm production by
+wine isolates of Brettanomyces bruxellensis,' Am. J. Enol. Vitic. 58, 373±378.
+LICKER, J., ACREE, T. and HENICK-KLING, T., 1998, `What is ``Brett'' (Brettanomyces)
+flavor?: a preliminary investigation', in Chemistry of Wine Flavor, Waterhouse, A.
+and Ebeler, S. (eds), Washington, DC, American Chemical Society Symposium
+series.
+MCMAHON, H. and ZOECKLEIN, B., 1999, `Glycoside activity in Brettanomyces bruxellensis
+strains,' J. Ind. Micro. Biochem. 23, 198±203.
+MANSFIELD, A., ZOECKLEIN, B. and WHITON, R., 2002, `Quantification of glycosidase
+acitivity in selected strains of Brettanomyces and Oenococcus oeni,' Am J. Enol.
+Vitc. 53:4, 303±307.
+MARTORELL, P., BARATA, A., MALFEITO-FERREIRA, M., FERNANDEZ-ESPINAR, M., LOUREIRO, V.
+
+and QUEROL, A., 2006, `Molecular typing of the yeast species Dekkera bruxellensis
+and Pichia guilliermondii recovered from wine related sources,' Int. J. Food
+Microbiol. 106, 79±84. doi: 10.1016/j.ifoodmicro.2005.05.014.
+OELOFSE, A., PRETORIUS, I. and DU TOIT, M., 2008, `Significance of Brettanomyces and
+Dekkera during winemaking: a synoptic review,' S. Afr. J. Enol. Vitic. 29:2, 128±
+144.
+RODRIGUES, N., GONcËALVES, G., PEREIRA DA SILVA, S., MALFEITO-FERREIRA, M. and LOUREIRO,
+V., 2000, `Development and use of a new medium to detect yeasts of the genera
+Dekkera/Brettanomyces,' J. Appl. Microbiol. 90, 1±12.
+ROMANO, A., PERELLO, M., DE REVEL, G. and LONVAUD-FUNEL, A., 2008, `Growth and volatile
+compound production by Brettanomyces/Dekkera bruxellensis in red wine,' J.
+Appl. Microbiol. 104, 1577±1585. doi: 10.1111/j.1365-2672.2007.03693.x.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 307
+
+10.4
+
+What do Brettanomyces do to wines?
+
+L. Van de Water
+Whether or not one appreciates the changes, it is obvious that Brettanomyces/
+Dekkera do affect the sensory characteristics of wine, sometimes only to a small
+degree, but sometimes profoundly. The more extensive the growth, and the longer
+the cells are present in the wine, the greater the sensory impact. However, it is
+essential to distinguish the sensory effects of Brettanomyces from other defects.
+For example, a `barnyard' character may indeed be caused by Brettanomyces, but
+that descriptor is also used for H2S or Pediococcus. Laboratory tests are necessary
+to distinguish different microbiological origins of sensory defects.
+Production of ethyl phenols
+Most Brettanomyces/Dekkera bruxellensis strains (perhaps all, in the right
+circumstances) produce the ethyl phenols 4-ethyl phenol (4EP), 4-ethyl guaiacol
+(4EG), and 4-ethyl catechol (4EC), by a two-step enzymatic process (cinnamate
+dehydrogenase followed by vinyl phenol reductase), from the hydroxycinnamic
+acids coumaric, ferulic, and caffeic, respectively (Hereszytn, 1986a; Chatonnet
+et al., 1992, 1995, Hesford et al., 2004; and many others).
+Pichia guilliermondii, a yeast found on grapes and in wineries, can produce
+4EP but has not been found to do so in wine (Stender et al., 2001; Jensen et al.,
+2009). Dias et al. (2003) remarked, `D. bruxellensis remain as the sole agents of
+``phenolic off-flavours'' in wines.'
+Production of ethyl phenols varies with Brettanomyces strain (Conterno et al.,
+2006; Romano et al., 2008; Oelofse et al., 2009; Harris et al., 2009; Coulon et
+al., 2010), grape variety (Pollnitz et al., 2000), and composition of the wine
+(lower alcohol leads to higher levels; higher residual sugar leads to higher
+levels), levels of precursors, temperature (more are produced at a higher temperature than lower), available oxygen (oxygen leads to higher ethyl phenols),
+and other variables (du Toit et al., 2005, 2006; SuaÂrez et al., 2007; Romano et
+al., 2008, Jensen et al., 2009, Benito et al., 2009), not all of them identified.
+More 4EP usually is produced than 4EG, but ratios vary, causing pronounced
+sensory variations. Chatonnet et al. (1992) reported an 8:1 ratio for 4EP:4EG. In a
+survey of 61 Australian reds, Pollnitz et al. (2000) found average ratios of
+4EP:4EG for Cabernet of 10:1, for Shiraz of 9:1 (highest 23:1) and for Pinot Noir
+3.5:1 (lowest 1.6:1). A later Australian survey found 4EP:4EG ratios in Cabernet
+from 2:1 to 21:1 with higher ratios in cooler regions than in warm ones (Coulter et
+al., 2003). An average ratio of 10:1 is often assumed (Romano et al., 2009).
+Sensory effects of ethyl phenols
+The ethyl phenols 4EP and 4EC are usually described as having `Band-AidÕ' or
+`plastic' odors, and 4EG smells `medicinal', `spicy' or like `clove' or `burnt
+beans.' The combination of these and other metabolites results in a character
+
+ß Woodhead Publishing Limited, 2010
+
+308
+
+Winemaking problems solved
+
+with descriptors such as `sweaty horse saddle', `wet dog/wet wool', `barnyard',
+`manure', `gamey', `tobacco', and others (Fugelsang et al., 1993; Boulton et al.,
+1996, Licker et al., 1998; Arvik and Henick-Kling, 2002). Fruitiness is reduced,
+the roundness and intensity in the mouth are diminished, and there is often a
+bitter, metallic finish.
+Traditionally, levels of 640 parts per billion, (ppb, also written as micrograms/liter or nanograms/ml) or 425 ppb have been cited as the sensory
+threshold for 4EP in wine (Chatonnet et al., 1992; Godden et al., 2004;
+Ribereau-Gayon et al., 2006; Romano et al., 2009), but Peter Godden of the
+AWRI was quoted as saying, `I've not been able to find an Aussie winemaker
+who doesn't find 100 micrograms/litre [4EP] negative' (Goode, 2003).
+In fact, as many AWRI tastings have demonstrated, sensory detection levels
+for ethyl phenols vary greatly with wine composition, taster sensitivity, presence
+of other Brettanomyces metabolites, and even wine temperature (Curtin et al.,
+2008; Cliff and King, 2009). In one study, the average detection level for a 10:1
+mixture of 4EP and 4EG in Bordeaux wine was 92 ppb, but the levels in samples
+judged `not tainted' by experienced tasters ranged from 5 to 1370 ppb, with an
+average of 403 ppb (Romano et al., 2009). What is very important to understand
+is that the sensory perception of Brettanomyces character depends on many
+variables.
+Fatty acids
+Two fatty acids, isovaleric acid (IVA) and isobutyric acid (IBA) also contribute
+significantly to `Bretty' odors (Fugelsang et al., 1993; Licker et al., 1998;
+Coulter et al., 2003; Oelofse et al., 2008; Romano et al., 2009). Their production
+has not been correlated with ethyl phenol production, but they may tend to mask
+ethyl phenol perception somewhat (Romano et al., 2009). The sensory effect of
+the combination, however, may be considered more unpleasant than ethyl
+phenols alone (Oelofse et al., 2008; also personal observation) as IVA adds a
+`rancid', `vomit', `sweaty feet', `wet goat' or `stinky cheese' component to the
+wine aroma (it is also a female pheromone).
+Color degradation
+Brettanomyces growth has been associated with color degradation in some
+wines. It has been postulated that the glycosidase activity found in many strains
+(Mansfield et al., 2002) may lead to formation of colorless anthocyanins
+(Oelofse et al., 2008), but this hypothesis has not been confirmed.
+`Mousiness'
+At least some Brettanomyces strains are capable of producing the `mousy taint'
+compounds acetyltetrahydropyridine and acetylpyrroline from the amino acids
+ornithine and lysine (Hereszytn, 1986b; Costello et al., 2001; Costello and
+Henschke, 2002; Grbin et al., 2007; Snowdon et al., 2006), which are liberated
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 309
+by yeasts after fermentation. The affected wine has a spectacularly offensive
+aftertaste of mouse urine or rancid macadamia nuts (more familiar to some
+people than mouse urine). Despite numerous references to an intense odor, these
+compounds are only slightly volatile at wine pH, so `mousy' wines in fact do not
+usually smell strongly of mice, but rather have a `popcorn' or `jasmine rice'
+aroma (Heresztyn, 1986b; Arvik and Henick-Kling, 2002; Snowdon et al.,
+2006). `Mousiness' is now so rare that many writers may not have experienced
+an actual `mousy' wine themselves, or at least not for some years.
+In the mouth, or if the wine is rubbed between the hands, the compounds
+become volatile at the higher pH of the body. So, when a `mousy' wine is tasted,
+the nasty retronasal (palatal) aroma suddenly develops and is perceived as a
+horrible aftertaste after a few seconds' delay. The length of the delay differs for
+different people tasting the same wine (Paul Henschke, personal communication), and the varying ability of tasters to detect the off-flavor appears to be
+genetic, perhaps related to saliva pH (Snowdon et al., 2006).
+While it is well established that Brettanomyces can produce the `mousy'
+compounds, especially in the presence of oxygen, Brettanomyces yeasts are not
+the only source. Lactic acid bacteria also produce the `mousy' heterocycles,
+perhaps even more so than Brettanomyces alone (Costello et al., 2001; Arvik
+and Henick-Kling, 2002). A `mousy taint' can also occur after heating wine if
+yeast lees and/or lactic acid bacteria are present (personal observation).
+Acetic acid
+Most, If not all, Brettanomyces strains produce large amounts of acetic acid
+aerobically in culture (Freer, 2002), and in wine if sufficient oxygen is present
+(Ciani and Ferraro, 1997; du Toit et al., 2005, 2006). However, Acetobacter
+bacteria are nearly universal companions of Brettanomyces in cellared wine, so a
+rise in volatile acidity is not necessarily attributable to the yeasts. A survey of
+bottled wines by the Australian Wine Research Institute did not find a
+correlation between levels of ethyl phenols and volatile acidity (Godden et al.,
+2004).
+Other effects
+Brettanomyces can also produce biogenic amines (Caruso et al., 2002), though
+strain differences have not been established. Some European countries put
+voluntary or compulsory limits on biogenic amines, so this is a topic for further
+research.
+Brettanomyces metabolites can reduce the perceived fruitiness of wines,
+especially reds, by masking the fruity esters (Fugelsang et al., 1993; Licker et
+al., 1998; Cliff and King, 2009) or perhaps by producing esterases that
+metabolize some of them. As wines age, and fresh fruitiness diminishes, ethyl
+phenols may also seem more intense. Varietal character often becomes much
+less prominent after Brettanomyces growth (Boulton et al., 1996), sometimes to
+
+ß Woodhead Publishing Limited, 2010
+
+310
+
+Winemaking problems solved
+
+the point that experienced tasters may not be able to identify the variety, even if
+they do not find the wine to be spoiled (personal observation).
+Spoilage or complexity?
+This is a controversial question. At lower levels of ethyl phenols, many people
+often consider the effects of Brettanomyces to be a `complexity' rather than
+spoilage, though levels of perception and preferences vary widely. Wines that
+some tasters consider completely spoiled are judged to be acceptable or even
+pleasant by others (Boulton et al., 1996; Arvik and Henick-Kling, 2002; Goode,
+2003; Curtin et al., 2008; Romano et al., 2008).
+Some wine writers actively appreciate some `Brett' character, going so far as
+to call people worried about the effects of Brettanomyces `Brett nerds' (Lynch,
+2004). Winemakers do occasionally blend wines with a small amount of
+`Brettiness' to improve ratings (personal communications, names withheld on
+request). Prepared Brettanomyces cultures are available for use in beermaking,
+and may perhaps have been used in wine. However, it is wise to remember the
+admonition, `never trust a microbe.' A strain of Brettanomyces that produced
+just a slight complexity in one wine in one situation may completely spoil
+another wine. Some winemakers seek `good' strains of Brettanomyces which
+would add complexity but not spoil wine; however, the very real possibility that
+a strain might behave well in one wine, but badly in another, tends to discourage
+this search. At higher levels of ethyl phenols, their flavor begins to predominate,
+which many tasters dislike. A `metallic' aftertaste may also develop, which is
+often perceived negatively even by those who are not offended by the aromas.
+We tend to enjoy flavors to which we have become accustomed. In the past
+30 years or so, there has been so much increase in `Bretty' wines that for some
+people, that character is normal for red wine. At a wine industry conference in
+2003, most tasters thought that a wine with 4000 ppb 4EP was disgusting, but
+one said that to him it just smelled `normal' (personal observation). Indeed,
+`Brett' character is sometimes thought to be a `gout de terroir', although it is
+hard to understand how a microbe found worldwide could be considered part of
+a particular terroir. `The same Brettanomyces characters will be imparted to all
+varieties in all climates. Brettanomyces metabolites are dominant and mask
+other flavors.' (Boulton et al., 1996). Commercial winemakers who do not find
+`Brett' character offensive should remember that many consumers consider very
+`Bretty' wines to be unpleasant to undrinkable. A smaller winery may be able to
+target consumers who appreciate the `Brett' character, but larger wineries may
+not have this option.
+Interestingly, more than one winery making expensive wines in more than
+one country has based their signature style on the effects of Brettanomyces.
+Fugelsang et al. (1993) noted that `some (not all) internationally recognized,
+award-winning wines had perceivable ``Brett character'''. However, other
+wineries have found less acceptance for their intensely `Bretty' wines, and have
+had to withdraw some of them from the market at considerable expense (names
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 311
+withheld on request). Few wine microbiologists, and winemakers whose wines
+have spoiled from the effects of Brettanomyces, would agree with Marc Perrin of
+ChaÃteau de Beaucastel, who said, `There are certainly some Brettanomyces in
+every natural wine because Brettanomyces is not a spoilage yeast (as many
+people think) but one of the yeasts that exist in winemaking' (Goode, 2003).
+For a discussion of Brettanomyces growth in bottled wines, see 10.9.
+
+References
+
+and HENICK-KLING, T., 2002, `Overview: Brettanomyces bruxellensis occurrence,
+growth, and effect on wine flavor,' Practical Winery and Vineyard, May/June:
+117±123.
+Â N, F. and SUA
+Â REZ-LEPE, J., 2009, `Factors
+BENITO, S., PALOMERO, F., MORATA, A., CALDERO
+affecting the hydroxycinnamate decarboxylase/vinylphenol reductase activity of
+Dekkera/Brettanomyces: application for Dekkera/Brettanomyces control in
+winemaking,' J. Food Sci. 74:1, M16±M21.
+BOULTON, R., SINGLETON, V., BISSON, L. and KUNKEE, R., 1996. Principles and Practices of
+Winemaking, New York, Chapman and Hall.
+CARUSO, M., FIORE, C., CONTURSI, M., SALZANO, G., PAPARELLA, A. and ROMANO, P., 2002,
+`Formation of biogenic amines as criteria for the selection of wine yeasts,' World
+J. Microbiol. Biotechnol. 18, 159±163.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J. N., 1992, `The origin of ethyl phenols in
+wines,' J. Sci. Food Agric. 68, 165±178.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J. N., 1995, `The influence of Brettanomyces/
+Dekkera spp. yeasts and lactic acid bacteria on the ethyl phenol content of red
+wines,' Am. J. Enol. Vitic. 46, 463±468.
+CIANI, M. and FERRARO, L., 1997, `Role of oxygen on acetic acid production by
+Brettanomyces/Dekkera in winemaking,' J. Sci. Food Agric. 75:4, 489±495.
+CLIFF, M. and KING, M., 2009, `Influence of serving temperature and wine type on
+perception of ethyl acetate and 4-ethyl phenol in wine,' J. Wine Res. 20, 45±52.
+doi: 10.1080/09571260902978535.
+CONTERNO, L., JOSEPH, C.M.L., ARVIK, T., HENICK-KLING, T. and BISSON, L., 2006, `Genetic and
+physiological characterization of Brettanomyces bruxellensis strains isolated from
+wines,' Am. J. Enol. Vitic. 57:2, 139±147.
+COSTELLO, P., LEE, T. and HENSCHKE, P., 2001, `Ability of lactic acid bacteria to produce Nheterocycles causing mousy off-flavour in wine,' Aust. J. Grape and Wine Res. 7,
+160±167.
+COSTELLO, P. and HENSCHKE, P., 2002, `Mousy off-flavor of wine: precursors and
+biosynthesis of the causative N-heterocycles 2-ethyltetrahydropyridine, 2acetyltetrahydropyridine, and 2-acetyl-1-pyrroline by Lactobacillus hilgardii
+DSM 20176,' Agric. Food Chem. 50, 7079±7087.
+COULON, J., PERELLO, M., LONVAUD-FUNEL, A., DE REVEL, G. and RENOUF, V., 2010,
+Brettanomyces bruxellensis evolution and volatile phenols production in red wines
+during storage in bottles,' J. Appl. Microbiol. 108, 1450±1455. doi: 10.1111/
+j.1365-2672.2009.04561.x.
+COULTER, A., ROBINSON, E., COWEY, G., FRANCIS, I. L., LATTEY, K., CAPONE, D., GISHEN, M. and
+GODDEN, P., 2003, `Dekkera/Brettanomyces yeast ± an overview of recent AWRI
+investigations and some recommendations for its control,' Proceedings of a Seminar
+ARVIK, T.
+
+ß Woodhead Publishing Limited, 2010
+
+312
+
+Winemaking problems solved
+Organized by the Australian Society for Viticulture and Oenology, Grapegrowing
+on the Edge, Managing the Wine Business, Impacts on Wine Flavor, Bell, S., de
+Garis, K., Dundon, C., Hamilton, R., Partridge S. and Wall, S. (eds), 41±50.
+
+CURTIN, C., BRAMLEY, B., COWEY, G., HOLDSTOCK, M., KENNEDY, E., LATTEY, K., COULTER, A.,
+
+and GODDEN, P., 2008, `Sensory perceptions of ``Brett''
+and relationship to consumer preference', in Proceedings of the Thirteenth
+Australian Wine Industry Technical Conference, Adelaide, SA, 207±211.
+DIAS, L., DIAS, S., SANCHO, T., STENDER, H., QUEROL. A., MALFEITO-FERREIRA, M. and LOUREIRO,
+V., 2003, `Identification of yeasts isolated from wine-related environments and
+capable of producing 4-ethylphenol,' Food Microbiol. 20, 567±574.
+DU TOIT, W., PRETORIUS, I. and LONVAUD-FUNEL, A., 2005, `The effect of sulphur dioxide
+and oxygen on the viability and culturability of a strain of Acetobacter
+pasteurianus and a strain of Brettanomyces bruxellensis isolated from wine,' J.
+Appl. Microbiol. 98, 862±871.
+DU TOIT, W.J., LISKAK, K., MARAIS, J. and DU TOIT, M., 2006, `The effect of microoxygenation on the phenolic composition, quality and aerobic wine spoilage
+microorganisms of different South African red wines,' S. Afr. J. Enol. Vitic. 27:1,
+57±67.
+FREER, S. N., 2002, `Acetic acid production by Dekkera/Brettanomyces yeasts,' World J.
+Microbiol. Biotechnol. 18, 271±275.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+GODDEN, P., COULTER, A., CURTIN, C., COWEY, G. and ROBINSON, E., 2004, 12th AWITC,
+`Brettanomyces workshop: Latest research and control strategies,' Melbourne,
+Australia.
+GOODE, J., 2003, `Brettanomyces', Harpers Wine and Spirit Weekly, 18 April, 42±46.
+GRBIN, P. R., HERDERICH, M., MARKIDES, A., LEE, T. and HENSCHKE, P., 2007, `The role of
+lysine amino nitrogen in the biosynthesis of mousy off-flavor compounds by
+Dekkera anomala,' J. Agric. Food Chem. 55:26, 10872±10879.
+HARRIS, V., FORD, C., JIRANEK, V. and GRBIN, P., 2009, `Survey of enzyme activity
+responsible for phenolic off-flavour production by Dekkera/Brettanomyces yeast',
+Appl. Microbiol. Biotechnol. 81: 1117±1127. doi: 10.1007/s00253-008-1708-7.
+HERESZTYN, T., 1986a, `Metabolism of phenolic compounds from hydroxycinnamic acids
+by Brettanomyces yeasts,' Arch. Microbiol. 146, 96±98.
+HERESZTYN, T., 1986b, `Formation of substituted tetrahydropyridines by species of
+Brettanomyces and Lactobacillus isolated from mousy wines,' Am. J. Enol. Vitic.
+37, 127±132.
+HESFORD, F., SCHNEIDER,K., PORRET, N. and GAFNER, J., 2004, `Identification and analysis of
+4-ethyl catechol in wine tainted by Brettanomyces off-flavor,' Abstr. Am. J. Enol.
+Vitic. 55, 304A.
+JENSEN, S., UMIKER, N., ARNEBORG, N. and EDWARDS, C., 2009, `Identification and characterization of Dekkera bruxellensis, Candida pararugosa and Pichia guilliermondii
+isolated from commercial red wines,' Food Microbiol. 26, 915±921. doi: 10.1016/
+j.fm.2009.06.010.
+LICKER, J., ACREE, T. and HENICK-KLING, T., 1998, `What is ``Brett'' (Brettanomyces) flavor?:
+a preliminary investigation', in Chemistry of Wine Flavor, Waterhouse, A. and
+Ebeler, S. (eds), Washington, DC, American Chemical Society Symposium series.
+HENSCHKE, P., FRANCIS, L.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 313
+2004, `Attack of the Brett nerds,' in Inspiring Thirst, Ten Speed Press,
+Berkeley, CA.
+MANSFIELD, A., ZOECKLEIN, B. and WHITON, R., 2002, `Quantification of glycosidase
+acitivity in selected strains of Brettanomyces and Oenococcus oeni,' Am J. Enol.
+Vitc. 53:4, 303±307.
+OELOFSE, A., PRETORIUS, I. and DU TOIT, M., 2008, `Significance of Brettanomyces and
+Dekkera during winemaking: a synoptic review,' S. Afr. J. Enol. Vitic. 29:2, 128±
+144.
+OELOFSE, A., LONVAUD-FUNEL, A. and DU TOIT, M., 2009, `Molecular identification of
+Brettanomyces bruxellensis strains isolated from red wine and volatile phenol
+production,' Food Microbiol. 26, 377±385. doi: 10.1016/j.fm.2008.10.011.
+POLLNITZ, A., PARDON, K. and SEFTON, M., 2000, `Quantitative analysis of 4-ethylphenol and
+4-ethylguauacol in red wine', J. Chromatogr. A 874, 101±109.
+RIBEREAU-GAYON, P., GLORIES, Y., MAUJEAN, A. and DUBOURDIEU, D., 2006, Handbook of
+Enology Volume 2: The Chemistry of Wine Stabilization and Treatments, John
+Wiley & Sons, Chichester.
+ROMANO, A., PERELLO, M., DE REVEL, G. and LONVAUD-FUNEL, A., 2008, `Growth and volatile
+compound production by Brettanomyces/Dekkera bruxellensis in red wine,' J.
+Appl. Microbiol. 104, 1577±1585. doi: 10.1111/j.1365-2672.2007.03693.x.
+ROMANO, A., PERELLO, M., LONVAUD-FUNEL, A., SICARD, G. and DE REVEL, G., 2009, `Sensory
+and analytical re-evaluation of ``Brett character'',' Food Chemistry 114, 15±19.
+doi: 10.1016/j.foodchem.2008.09.06.
+SNOWDON, E., M., BOWYER, M., GRBIN, P. and BOWYER, P., 2006, `Mousy off-flavor: a
+review,' J. Agric. Food Chem. 54, 6465±6474. doi: 10.1021/jf05528613.
+LYNCH, K.,
+
+STENDER, H., KURTZMAN, C., HYLDIG-NIELSEN, J., SORENSEN, D., BROOMER, A., OLIVEIRA, K.,
+
+PERRY-O'KEEFE, P., SAGE, A., YOUNG, B. and COULL, J., 2001, `Identification of
+Dekkera bruxellensis (Brettanomyces) from wine by fluorescence in situ
+hybridization using peptide nucleic acid probes,' Appl. Environ. Microbiol. 67:2,
+938±941. doi: 10.1128/AEM.67.2.938-941.2001.
+Â REZ, R., SUA
+Â REZ-LEPE, J., MORATA, A. and CALDEROÂN, F., 2007, `The production of
+SUA
+ethylphenols in wine by yeasts of the genera Brettanomyces and Dekkera: a
+review,' Food Chem. 102, 10±21. doi: 10.1016/j.foodchem.2006.03.030.
+
+ß Woodhead Publishing Limited, 2010
+
+314
+
+10.5
+
+Winemaking problems solved
+
+How do I sample for Brettanomyces testing?
+
+L. Van de Water
+Record-keeping
+When wine is tested for microbes, extensive records need to be kept or the
+results will not be very useful. Keeping the following information is highly
+recommended:
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+wine identity
+container identity, including each individual barrel sampled
+sampling method and date
+date tested
+person or commercial lab doing the tests
+test methods
+test procedure if done in-house
+test results
+interpretation, and
+action taken.
+
+Sampling procedures
+Use new plastic or glass containers with new caps/corks, or resanitized
+containers and caps (autoclave, or run through a dishwasher with no soap, or
+rinse with 70% beverage alcohol; do not try to resanitize corks) for samples that
+are to be cultured. Do not rinse sampling devices or containers with unsterilized
+water. Sampling devices must be new or carefully resanitized between barrels to
+avoid contaminating the next sample, and also the barrel itself.
+A recommended resanitizing procedure in the cellar is to rinse the device
+with water, then 70% beverage alcohol (not 95%, it is more effective if diluted
+to 70%), then with the next wine. If high-proof beverage alcohol is not available,
+100-proof vodka will have to do. Do not use `denatured' or `reagent' alcohol, or
+`meths'; these have additives that are poisonous to microbes as well as people. It
+is all right to put in an SO2 rinse as well, but SO2 is not a contact sterilant, so the
+alcohol rinse is important.
+Except for chemical or sensory analysis, sampling is critical no matter which
+test method is used, because Brettanomyces cells tend to settle to the bottom of a
+barrel or other container (Barata et al., 2008). Take a racking valve sample from
+a tank after letting at least a liter of wine run out of the valve (it can be returned
+to the top of the tank). Do not take top samples except for film evaluation. If a
+cell count that is representative of the wine is desired, the wine must be stirred or
+circulated. If the purpose is to find any Brettanomyces cells that may be present,
+a sample can be taken from the bottom valve of a tank, or from the bottom of a
+barrel with a sterilized hose. Another way to sample barrels is to use a device
+that takes a sample near but not at the bottom of a barrel, without a sucking
+action that disturbs lees.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 315
+Sampling new vs old barrels
+New barrels bind free SO2 at around twice the rate of older barrels (Ribereau-Gayon
+et al., 2006). Also, cellobiose (used by many strains of Brettanomyces, see 10.3) is
+higher in new wood (Fugelsang et al., 1993), and there is also more trapped oxygen,
+so Brettanomyces tends to grow more quickly and extensively in new oak. If a wine
+is aging in a mixture of new and older barrels, the new barrels and old barrels should
+be sampled separately for SO2 measurements and Brettanomyces tests.
+For culturing Brettanomyces, it is extremely important not to take samples
+within one to three weeks of adding SO2. Winemakers have observed for 30 or
+more years that at least some Brettanomyces strains respond to SO2 by losing
+their ability to grow in culture (personal observation). The cells remain alive but
+temporarily do not grow on culture media (Millet and Lonvaud-Funel, 2000; du
+Toit et al., 2005), resulting in false negatives based on plating (no visible colonies
+on agar = no Brettanomyces present). This state is sometimes called VBNC,
+although there are questions about whether this is the correct terminology. At
+least in some cases, the cells apparently can recover from this state and may
+reactivate in the wine (Umiker and Edwards, 2007). If SO2 has been added
+recently to a wine, it would be best to use PCR-based methods of detection.
+Unfortunately, it is still not possible to take samples for Brettanomyces
+testing from a barrel without destroying the barrel (Kenneth Fugelsang, personal
+communication), because the yeasts can penetrate deep into the wood (MalfeitoFerreira et al., 2004). Testing wine aged in a barrel is still the best way to test for
+Brettanomyces infection in that barrel.
+References
+
+and
+2008, `Survival patterns of Dekkera bruxellensis in wines and
+inhibitory effect of sulphur dioxide,' Int. J. Food Microbiol. 121:2, 201±207. doi:
+10.1016/j.ifoodmicro.2007.11.020.
+DU TOIT, W., PRETORIUS, I. and LONVAUD-FUNEL, A., 2005, `The effect of sulphur dioxide
+and oxygen on the viability and culturability of a strain of Acetobacter
+pasteurianus and a strain of Brettanomyces bruxellensis isolated from wine,' J.
+Appl. Microbiol. 98, 862±871.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+MALFEITO-FERREIRA, M., LAUREANO, P., BARATA, A., D'ANTUONO, I., STENDER, H. and
+LOUREIRO, V., 2004, `Effect of different barrique sanitation procedures on yeasts
+isolated from the inner layers of wood,' Abstr. Am. J. Enol. Vitic. 55, 304A.
+MILLET, V. and LONVAUD-FUNEL, A., 2000, `The viable but non-culturable state of wine
+micro-organisms during storage', Lett. Appl. Microbiol. 30, 136±141.
+RIBEREAU-GAYON, P., GLORIES, Y., MAUJEAN, A. and DUBOURDIEU, D., 2006, Handbook of
+Enology Volume 2: The Chemistry of Wine Stabilization and Treatments, John
+Wiley & Sons, Chichester.
+UMIKER, N. and EDWARDS, C., 2007, `Effects of SO2 on Brettanomyces', presented at
+Santiago, Chile, July.
+BARATA, A., CALDIEIRA, J., BOTELHEIRO, R., PAGLIARA, D., MALFEITO-FERREIRA, M.
+LOUREIRO, V.,
+
+ß Woodhead Publishing Limited, 2010
+
+316
+
+Winemaking problems solved
+
+10.6 What methods do I have available to detect
+Brettanomyces infection?
+L. Van de Water
+There are several methods for detecting Brettanomyces, all helpful to the
+winemaker. Rather than selecting one method only, a combination of methods
+gives the most complete picture of the status of a Brettanomyces infection in a
+wine. Wineries are best served by utilizing all methods at their disposal. The key
+is to select the appropriate methods for the information you need.
+Sensory detection
+Sensory evaluation of wines should begin with tasting of fermentors every day,
+and continue every month or two until the wine is bottled. After bottling, wines
+should be tasted and analyzed every few months during the first two years, to
+detect any changes in the bottle.
+With practice, winery workers can become proficient in recognizing the first
+signs of `Brett' character developing in cellared wine. Even if no specific
+sensory character is perceived, if there is an unexplained difference between one
+container and others in the same batch, Brettanomyces or other microbial
+activity should be suspected. When the sensory effects of Brettanomyces growth
+are strong, the wine has been affected permanently, but even noticing it at this
+point is better than missing it entirely. Train everyone handling the wine, in the
+cellar, lab, and tasting room, to recognize `Bretty' character. Use samples of 4ethyl phenol (4EP) and 4-ethyl guaiacol (4EG), and other compounds such as
+isovaleric acid, plus a wine naturally spoiled by Brettanomyces.
+· Levels of concern: any hint of `Brett' character should be investigated by
+other detection methods.
+· When to use sensory evaluation: any time that wine is handled, winery
+personnel should be alert to gassiness, cloudiness or odd aromas/flavors.
+Chemical analysis
+Routine chemical tests can indicate activity by a range of microbes, including
+Brettanomyces. Recommended tests include pH, free and total SO2, volatile
+acidity, and glucose+fructose (separately, not added together). For a discussion
+of the meaning of the results, see 10.8.
+Measurement of the Brettanomyces metabolites 4EP and 4EG by gas
+chromatography-mass spectrometry confirms the sensory effects of Brettanomyces, and helps wineries correlate sensory observations with analytical data.
+As noted in 10.4, sensory detection levels depend on wine composition, ratio
+of 4EP to 4EG, the individual taster, and many other variables, so
+measurement of ethyl phenols gives an objective reference point. Production
+of these ethyl phenols lags behind cell growth, and can continue to rise after
+cells have declined and are no longer detected in culture, so levels of ethyl
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 317
+phenols do not correlate well with cell growth patterns (Fugelsang and
+Zoecklein, 2003).
+· Levels of concern for ethyl phenols: levels of 4EP over four ppb indicate
+Brettanomyces growth at some point. A level of around 100 ppb 4EP may be
+detectible by 250±500 ppb 4EP and 20±50 ppb 4EG, a sensory effect should
+be noticeable (Godden et al., 2004; Guerra, 2008). At levels over 1000 ppb
+4EP and 100 ppb 4EG the aroma and flavor of most wines would be seriously
+impacted.
+· When to test 4EP and 4EG: during cellaring to confirm Brettanomyces
+growth, and to correlate with sensory observations.
+Microscopic exam
+Cells can be seen microscopically if there are at least 1000±2000 cells/ml,
+preferably more. This is a large population, but Brettanomyces cell counts
+sometimes reach a million per ml or more. Samples can be centrifuged to
+concentrate the cells at least 10 times, but particulate matter can make it difficult
+to see cells after centrifuging. Wine samples are prepared for direct examination
+as wet mounts by putting a small drop on a microscope slide and covering it with
+a cover glass of #1 thickness; these preparations last for half an hour or so before
+starting to dry up.
+Wet mounts are examined with a very good phase-contrast microscope. Costs
+start around US$2000±3000 for one with suitable resolution with plan or
+planachromat objectives of 10, 40, and 100 (oil). Eyepiece lenses are often
+10, but 15 is greatly preferred because the microbes appear larger and thus are
+easier to find. Phase-contrast permits observation of microbes and particles directly
+without staining, because light going through the cell is retarded compared with
+light passing through the wine. This sets up a diffraction pattern that makes the cell
+membrane dark and the cell contents darker or lighter than the background.
+If cells look clear but ghostly under phase contrast, without much distinction
+between them and the background, the phase rings in the condenser may be out
+of alignment, or an incorrect phase ring, which does not match the objective may
+have been selected. Causes of fuzzy images are oil on the 40 objective (clean
+with lens cleaner and lens paper) or two cover glasses stuck together. Fingerprints on the cover glass and dried-up places on the slide can resemble yeasts or
+bizarre microbes. Look around for the edge of an air bubble; the microbes will
+be in the same plane of focus as the air bubble, and it will then be easy to tell a
+dried place from the wine sample.
+Brightfield microscopes are not very useful for examining wine directly
+because the samples must be stained. White wines can be stained with Gram
+stain or 0.5% methylene blue and examined for yeast, but wine bacteria may
+resemble stain particles. Red wine pigment precipitates the stain, so red samples
+must be centrifuged and washed to remove the color, which may also remove
+some microbes. Phase-contrast microscopes are much preferable to brightfield
+for direct examination of wine.
+
+ß Woodhead Publishing Limited, 2010
+
+318
+
+Winemaking problems solved
+
+Microscope operators must be trained specifically in wine microbe identification, not just general microbiology. Under the microscope, Brettanomyces cells
+are smaller than Saccharomyces cells, and are often apiculate (pointy). Some
+young cells may be ovoid (egg-shaped) but more will resemble olives or thin
+bowling pins. Bud scars tend to flatten the ends, so older cells begin to look like
+rowboats, barrels, or gothic arches (`ogive'), often with a bud on an angle at one
+of the edges. Identification cannot be confirmed by microscopic exam alone, so
+if any suspiciously apiculate yeasts are seen with the microscope, the wine
+should be checked for Brettanomyces by more definitive methods.
+When growing in liquid (such as wine) Brettanomyces cells tend to make
+`pseudomycelia', elongated structures resembling thin mold hyphae (Edwards,
+2005). They range in length from 25 m or so to 100 m or much more. Small
+pseudomycelia can be seen in some cultures on Petri dishes, but they are much
+more extensive when growing in liquid.
+· Levels of concern: any Brettanomyces cells (confirm by culturing or PCR)
+seen directly under the microscope indicate an extensive infection.
+· When to examine wine microscopically for Brettanomyces: stuck wines
+(especially during reinoculation), wines that seem to be developing `Bretty'
+characteristics, and any time that unexplained activity or sensory change
+(good or bad) occurs in one or more containers of the same batch. Topping
+wines should be examined for Brettanomyces and other microbes
+(Acetobacter especially) and cultured for Brettanomyces; microbiological
+disasters have happened because all the red wine in the winery was topped
+with wine infected with Brettanomyces.
+Culturing
+Culturing wines in Petri dishes is the traditional method of detecting
+Brettanomyces. This method is discussed in 10.7.
+Genetic methods: real-time PCR
+In the past few years, tests based on polymerase chain reaction (PCR) for
+Brettanomyces and other wine microbes have become available (Phister and
+Mills, 2003; Cocolin et al., 2004; TessonnieÁre et al., 2009). The technology is
+very promising, representing a quantum leap from traditional methods. PCR
+methods take a few hours instead of days, and can often detect levels as low as
+10 cells/ml, or possibly even lower if the wine is centrifuged to concentrate
+cells.
+Real-time PCR is a molecular biology method, which amplifies DNA and
+links the amplification to fluorescence. In the first step, a small sequence of
+DNA (the `target region') specific to the microbe of interest is isolated from the
+sample by lysing (breaking open) the cells, and this target is amplified using
+enzymes and primers, small pieces of DNA which bind to the selected target
+region. Then the primers and enzymes copy the target DNA billions of times
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 319
+using cycles of alternatively heating and cooling in an instrument called a
+thermocycler. The DNA is linked to fluorescence of a dye added along with the
+primer or in some cases attached to it. The amount of DNA originally present in
+the sample is estimated by comparing fluorescence in the sample to prepared
+standards of Brettanomyces (Phister and Mills, 2003; Phister, personal
+communication).
+The methods are not without pitfalls. Care must be taken during extraction of
+the DNA to prevent contamination from extraneous DNA. Phenolic compounds
+in red wine interfere with PCR assays and must be removed by adding PVPP
+before cell lysis. It is difficult to prepare standards with known concentrations,
+which are essential to quantitative results, partly because of Brettanomyces'
+tendency to form pseudomycelia, and because standards must be freshly prepared, or the cell numbers may change. TessonnieÁre et al. (2009) also recommended using another microbe and its primer as an internal control to monitor
+the success of the procedure from DNA extraction through amplification and
+detection, to prevent false negatives.
+As well as active cells, PCR detects VBNC cells and other cells that are
+temporarily unable to grow in culture (Millet and Lonvaud-Funel, 2000). Thus,
+PCR can detect cells which would be missed by culturing but which may still be
+producing ethyl phenols, and which may also reactivate and resume growth later
+on (Umiker and Edwards, 2007; Coulon et al., 2010).
+Detection of dead cells by PCR-based tests in wine is controversial. Forensic
+PCR tests were designed to detect long-dead cells, including a 68-million-yearold dinosaur bone tested successfully a few years ago, but the time between
+yeast cell death in wine and disintegration of the nucleus, releasing DNA, is not
+clear. Dr David Mills remarked, `As long as the targeted sequence of DNA,
+typically only a few hundred base pairs long, is still intact, a PCR will likely
+amplify that DNA.' The dye ethidium monoazide is being investigated to bind
+with dead Brettanomyces cells and eliminate them from the DNA preparation
+before testing with PCR (Mills and Neeley, 2006; Phister, personal communication). This is a promising way to ensure that dead cells are not detected.
+Depending on the DNA sequence selected, the method can be extremely
+specific for the target microbe species, or it may be designed for broader
+reactions. Specificity is the greatest strength of PCR-based tests, if specificity is
+assured. There are several primers for Dekkera/Brettanomyces bruxellensis in use
+at labs around the world; ideally, these primers would react with all strains of this
+species, but with no other species. However, primers usually are checked against
+certain other species, but not all species which could potentially react. There is an
+unpublished report that a primer currently in use for B. bruxellensis reacted with
+other yeasts, including Candida catenulata and Debaryomyces hansenii, though
+it did not react with Dekkera anomala. Another primer for B. bruxellensis did not
+react with those non-bruxellensis yeasts, or with certain other species that may
+also be confused with B. bruxellensis in culture (unpublished results). A thorough
+testing of more Brettanomyces primers against numerous potential cross-reactive
+species is underway and will be beneficial to prevent false positive results.
+
+ß Woodhead Publishing Limited, 2010
+
+320
+
+Winemaking problems solved
+
+While very useful, PCR tests do not completely replace culturing to determine numbers of cells are alive and active. Both methods provide very useful
+information. For instance, if colonies grow quickly on a Petri dish (three to four
+days or so, depending on media used), they are actively growing in the wine, so
+more aggressive management is appropriate than if some small colonies struggle
+up after six or seven days or more. On the other hand, PCR tests can alert the
+winemaker to the presence of VBNC cells that may reactivate later.
+· Levels of concern: same as for cultured wines (see 10.7).
+· When to test for Brettanomyces by PCR (if available and economically
+feasible): stuck wines during reinoculation, routinely on a schedule during
+cellaring (such as every three months), when wine is moved, if `Brett'
+character is suspected, or if any unexpected activity is noticed during
+cellaring. Test blend components and also the final blend at least one
+week before bottling. Test bottled wines if activity or bottle variation is
+noticed.
+Gene sequencing
+Some labs offer identification of purified colonies by sequencing around 300±
+350 base pairs of yeast DNA, usually from the 26S ribosome. The yeast is
+identified as to genus and species, or the closest species in an extensive
+databank. Costs are around US$100 per colony. Results include closest match,
+other species by percentage match, and a phylogenetic tree.
+· When to send for sequencing: if a complete identification by genus and
+species is desired on a microbe that has been isolated and purified.
+Other methods
+Z-Brett, an antibody-based test, detects 1000 cells/ml. It can be swamped by
+large numbers of other species (such as during fermentation), so this test is best
+for monitoring large increases in Brettanomyces populations during barrelaging. The test cross-reacts with some other winery-related species, including
+certain Candida (surface film yeast).
+Research-level tests such as epi-fluorescence, flow cytometry, peptide
+nucleic acid probes (PNA), and restriction fragment linear polymorphism
+(RFLP) are not widely available commercially at this time.
+Interpreting test results
+How much Brettanomyces is too much? The answer depends on the type and
+composition of the wine, the stage of processing of the wine, and on how the
+result fits with previous results. Other factors to take into account are the
+intended filtration before bottling (or lack thereof), and the history of similar
+wines in the winery. Ideally, there would be fewer than 25 cfu/ml during
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 321
+cellaring (see 10.7), and zero before bottling, but this may not be achievable for
+all wines. It is wise to have wine periodically cultured for Brettanomyces or
+checked by PCR (preferably both) to establish a pattern for that particular wine.
+Summary of tests
+1. Sensory: detects `Brett' character.
+2. Microscopic exam: immediate result but at least 2000 cells/ml are required
+(less if sample is centrifuged).
+3. Culturing: detects cells that are alive and not inhibited by SO2. Direct
+culturing detects two to five cells/ml depending on sample amount used;
+membrane culture detects one cell in the amount filtered. Takes up to seven
+days in optimum conditions, longer in other conditions.
+4. PCR-based tests: detects live cells, VBNC cells, and may or may not detect
+some kinds of dead cells. Can detect down to 10 cells/ml. Takes a few
+hours.
+5. Sequencing: requires a purified culture. Yeasts are identified to genus and
+closest species in the databank.
+
+References
+
+and COMI, G., 2004, `Molecular detection
+and identification of Brettanomyces/Dekkera bruxellensis and Brettanomyces/
+Dekkera anomalus in spoiled wines,' Appl. Environ. Microbiol. 70:3: 1347±1355.
+doi: 10.1128/AEM.70.3.1347-1355.2004.
+COULON, J., PERELLO, M., LONVAUD-FUNEL, A., DE REVEL, G. and RENOUF, V., 2010,
+Brettanomyces bruxellensis evolution and volatile phenols production in red wines
+during storage in bottles,' J. Appl. Microbiol. 108, 1450±1455. doi: 10.1111/
+j.1365-2672.2009.04561.x.
+EDWARDS, C., 2005, Illustrated Guide to Microbes and Sediments in Wine, Beer and Juice.
+Pullman, VA, Wine Bugs LLC.
+FUGELSANG., K. and ZOECKLEIN, B., 2003, `Population Dynamics and Effects of
+Brettanomyces bruxellensis Strains on Pinot noir (Vitis vinifera L.) Wines,' Am.
+J. Enol. Vitic. 54:4, 294±300.
+GODDEN, P., COULTER, A., CURTIN, C., COWEY, G. and ROBINSON, E., 2004, 12th AWITC,
+`Brettanomyces workshop: Latest research and control strategies,' Melbourne,
+Australia.
+GUERRA, B., 2008, `Research update: Is Brettanomyces sneaking into our wines? A review
+of the factors that favor Brettanomyces development during wine aging, including
+available means of control,' Wine Business Monthly, June.
+MILLET, V. and LONVAUD-FUNEL, A., 2000, `The viable but non-culturable state of wine
+micro-organisms during storage', Lett. Appl. Microbiol. 30, 136±141.
+MILLS, D. and NEELEY, E., 2006, `Molecular methods to characterize wine microorganisms',
+in International Wine Microbiology Symposium Proceedings, California State
+University, Fresno.
+PHISTER, R. and MILLS, D., 2003, `Real-time PCR assay for detection and enumeration of
+Dekkera bruxellensis in wine,' Appl. Environ. Microbiol. 7430±7434. doi:
+10.1128/AEM.69.12.7430-7434.2003.
+COCOLIN, L., RANTSIOU, K., IACUMIN, L., ZIRONI, R.
+
+ß Woodhead Publishing Limited, 2010
+
+322
+
+Winemaking problems solved
+
+and REMIZE, F., 2009, `Design and
+performance testing of a real-time PCR assay for sensitive and reliable direct
+quantification of Brettanomyces in wine', Int. J. Food Microbiol. 129, 237±243.
+doi: 10.1016/j.ifoodmicro.2008.11.027.
+UMIKER, N. and EDWARDS, C., 2007, `Effects of SO2 on Brettanomyces', presented at
+Santiago, Chile, July.
+TESSONNIEÁRE, H., VIDAL, S., BARNAVON, L., ALEXANDRE, H.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 323
+
+10.7
+
+How can I culture the Brettanomyces strain in my wine?
+
+L. Van de Water
+Brettanomyces cells are grown by inoculating a Petri dish with wine and
+incubating it for a week or so, depending on conditions. Despite advice to the
+contrary, if the conditions are right, it is not difficult to culture Brettanomyces/
+Dekkera. Given optimum conditions, they can grow in seven days or fewer, and
+most colonies can be identified as Brettanomyces or not; ambiguous colonies
+can be sent to a wine analysis lab for confirmation.
+Important: Do not culture wine for Brettanomyces within one to three weeks
+after adding SO2 to the wine. The cells may become temporarily unculturable
+(Millet and Lonvaud-Funel, 2000; Umiker and Edwards, 2007), so false
+negatives could result (see 10.5). Test these samples with PCR methods instead,
+or wait to take the sample.
+Materials
+Culture media can be purchased pre-sterilized (shelf life until opened is several
+years), or purchased dry and prepared in-house in an autoclave (Wisconsin
+Aluminum Foundry Electric Steroclave 50X has a large capacity and is costeffective). Media can be sterilized in glass or narrow-mouth polypropylene
+bottles with caps. Also needed are a small 30ëC incubator, some sterile
+disposable plastic pipettes and disposable plastic 60  15 or 100  15 mm Petri
+dishes. To test filtered or bottled samples, pre-sterilized or resterilizable filter
+holders and nonsterile receiving flask, pre-sterilized membrane filters, vacuum
+pump, reagent alcohol, alcohol lamp, and metal forceps are also required.
+Media
+The general yeast media Wallerstein Labs Nutrient Medium (WLN), YM Green,
+and YM agar are often used. The first two have bromocresol green dye which
+yeast colonies pick up to some degree, aiding greatly in identification. Use only
+WLN produced in the USA; for reasons unknown, some brands produced
+elsewhere do not always grow Brettanomyces reliably, often resulting in much
+slower growth or even false negatives (personal observation). One Australian
+winery said that while their wines tested positive for 4EP/4EG, they could not
+grow Brettanomyces; a visit to the winery determined that in fact, they were
+growing Brettanomyces but the colonies were so slow-growing and so tiny
+(< 0.5 mm after more than a week) that they did not see them. Once they
+changed to a difference source of WLN, their cultures grew as expected.
+Culturing a sample known to have culturable Brettanomyces cells at the same
+time as the samples helps prevent false negatives.
+Reducing the amount of dry WLN used from 80 g/L (the amount on the bottle)
+to 60 g/L promotes Brettanomyces growth (personal observation). Supplementing
+media with thiamine and biotin encourages growth of these yeasts. Adding pcoumaric acid, metabolized by Dekkera/Brettanomyces into 4EP, to the media
+
+ß Woodhead Publishing Limited, 2010
+
+324
+
+Winemaking problems solved
+
+will result in development of the characteristic `phenolic' odor of 4EP, which
+aids in identification.
+Cycloheximide
+Brettanomyces strains that have been tested so far grow on agar containing
+100 ppm or more of the antibiotic cycloheximide, formerly known by the brand
+name Actidione. It is added after autoclaving the media, to suppress
+Saccharomyces, Zygosaccharomyces, and most (though not all) other yeasts
+(Edwards, 2005). Unless purchased media already contain 50 ppm
+cycloheximide, add 1 ml of a sterile solution of 0.5% cycloheximide per
+100 ml of agar after autoclaving. Media with lower levels of cycloheximide
+(such as WL Differential Medium which has only 4 ppm) allow growth of too
+many other cellar yeasts, including some species of Candida, Pichia, and other
+genera (personal observation). Cycloheximide is a carcinogen and teratogen so
+in its pure form, it should be handled with great care, using gloves, dust mask,
+and lab coat.
+Chloramphenicol or other bactericides are often added to media to suppress
+growth of bacteria, which are not sensitive to cycloheximide at all. Otherwise,
+they could swamp the Brettanomyces colonies, and acetic acid sometimes (not
+always) produced by Acetobacter bacteria in culture may confuse
+Brettanomyces identification.
+Other cycloheximide-resistant yeasts
+Kloeckera apiculata (teleomorph Hanseniaspora uvarum), the most populous
+yeast on grapes (Fleet and Heard, 1993), and a number of other vineyard yeasts
+are cyclohexmide-resistant. Kloeckera somewhat resembles Brettanomyces, and
+is often mistaken for it. Fortunately, Kloeckera dies during yeast fermentation or
+shortly afterwards, so it does not cause confusion in cultures of cellared wines. If
+juice or must is cultured, Kloeckera makes green colonies in one to two days on
+WLN with cycloheximide, as opposed to later-appearing white colonies of
+Brettanomyces.
+There are also some non-Brettanomyces, cycloheximide-resistant yeasts that
+have been found in wine cellars and as incidental contaminants in wines. These
+yeasts can cause false positive results for Brettanomyces unless the colonies are
+examined carefully, macroscopically and microscopically. Unlike Brettanomyces,
+these yeasts grow quickly and do not produce acetic acid on the Petri dish, but the
+colonies may closely resemble Brettanomyces. The microscopic morphology of
+these yeasts is usually (though not always) quite different from Brettanomyces.
+Some of these yeasts identified so far through C. M. Lucy Joseph, Culture
+Collection Curator at University of California, Davis, are Candida boidinii, C.
+cantarelli (very common), C. catenulata, C. ishiwadae, Debaryomyces hansenii,
+Lodderomyces elongisporus, and Pichia guilliermondii (unpublished results).
+Further studies continue, including PCR tests (see 10.6).
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 325
+Other media
+Other media for Brettanomyces growth have been developed. While popular in
+Europem DBDM uses ethanol as a sole carbon source, which not all strains can
+utilize, especially Californian ones (Conterno et al., 2006), so false negatives
+may occur. Certain non-Brettanomyces yeasts associated with wine cellars also
+grow on this medium (Dias et al., 2003).
+The liquid medium BSM (`Brettanomyces Specific Medium', not the same as
+Bacterial Standard Medium, also called BSM) from Millipore allows growth of
+Kloeckera (Iland et al., 2007) and some other cycloheximide-resistant yeast
+species (Louriero and Malfeito-Ferreira, 2003; Romano et al., 2008; personal
+observation). Brettanomyces colonies take 10 days or more to appear on BSM,
+and they are difficult to see against a white filter, being white, cream, or slightly
+pink from red wine color. Calcium carbonate agar is sometimes used to confirm
+acetic acid production by Brettanomyces because a clear space forms around the
+acid-producing colony.
+`Easy Blue', a pre-poured, blue/green-colored agar for Brettanomyces testing
+(Lebrun Labs, www.lebrunlabs.com), is offered for wineries without microbiology lab facilities. Cycloheximide and a bactericide are added to suppress
+growth of most other microbes. An odor of 4EP develops if Brettanomyces/
+Dekkera grow. The instructions do say that colonies should appear after four
+days or more, but do not state clearly enough that earlier-appearing colonies
+cannot be Brettanomyces. Recently, a winemaker (name withheld on request)
+panicked when colonies appeared the next day, but of course they were not
+Brettanomyces. As with other media for Brettanomyces culturing, Kloeckera and
+other cycloheximide-resistant yeasts will also grow on Easy Blue, though most
+(except Pichia guilliermondii) do not produce 4EP. The colonies should be
+checked microscopically for confirmation, either in-house or by a commercial
+wine-oriented lab (not general microbiology labs, which report only total colony
+counts and cannot identify specific wine microbes).
+`Sniff-Brett' cultures involve smelling 4EP production by Brettanomyces
+colonies on a special medium instead of examining colonies under a microscope
+(for wineries without microscopes). Depending on population, it can take two to
+seven days to develop the smell.
+Culturing procedure
+To melt pre-sterilized, solid agar, heat the agar bottle in a container of water in
+a microwave, one minute at a time (do not allow to boil) until completely
+melted. Before pouring the agar, on the bottom (not the top) of disposable
+plastic Petri dishes, write agar type, lot number, and date poured with a
+permanent marker. Pour Petri dishes half full. Poured Petri dishes should be
+poured no more than one week before inoculating with a sample, and should be
+kept upside down in a closed plastic container in a cool place. Write the sample
+identity and date cultured on the bottom of the Petri dish before inoculating
+with sample.
+
+ß Woodhead Publishing Limited, 2010
+
+326
+
+Winemaking problems solved
+
+If there are 10 to 20 cfu (colony-forming units) per ml or more, the wine can be
+pipetted directly on a Petri dish containing an agar medium. Centrifuging samples
+can help concentrate cells. If there are more than around 500 cfu/ml, the result
+will be a solid `lawn' or TNTC (too numerous to count). To set up a direct culture,
+shake the sample and immediately use a sterile pipette to dispense 0.2 to 0.5 ml of
+wine onto a 60 mm or 100 mm Petri dish containing agar. Do not tip the dish to
+move the wine around; the cells tend to go to the edges. To move the wine around
+the dish, use a Pasteur pipette bent in a flame to resemble a hockey stick.
+If the wine has been filtered, or if the population is expected to be quite low,
+the sample is filtered through a sterile 0.45 m (micron) membrane and the
+membrane is cultured on agar or on a broth-soaked pad. For a membrane
+filtration culture, set up a sterilzed filter holder on a receptacle (which itself need
+not be sterile) to catch the filtered wine. Put a pre-sterilized 0.45 m 47 mm
+filter in the holder.
+If there is a cork in the bottle, dip a corkscrew worm into reagent alcohol and
+set it alight; remove the bottle capsule, dip the neck of the bottle into alcohol and
+flame it also. Open the bottle without touching the corkscrew worm or the bottle
+neck. If there is a screw cap, flame the neck of the bottle to be tested, and break
+the seal using a swab or tissues dipped in alcohol to cover your hand. Then pour
+wine carefully into the filter holder for vacuum filtration. Our labs filter 250 ml
+for yeast cultures, 100 ml for Brettanomyces only, and 100 ml for bacteria.
+Flame metal forceps with alcohol and transfer the filter aseptically to an agar
+Petri dish, or the filter and broth-soaked pad to an empty sterile Petri dish.
+Incubate Petri dishes upside down at 28±31ëC. For direct cultures of wine, leave
+Petri dishes right side up overnight in an incubator, then turn upside down the
+next day. Using WLN and exactly the protocol described in this section, visible
+colonies appear in three to seven days. The faster the colonies grow, the more
+active the Brettanomyces cells are in the wine. If visible colonies appear in three
+or four days, different recommendations for handling the wine may be given
+than if small colonies struggle to grow after six or seven days. At lower
+temperatures, or if using other media, the colonies take longer to appear.
+Identifying colonies
+On WLN+C (cycloheximide) and other green media, Brettanomyces forms
+small, shiny, white colonies that turn olive green to light-green over time. The
+colonies produce acetic acid changing green media to yellow, which is helpful in
+identification. A slow-growing yeast making a strong acetic acid smell on a Petri
+dish of WLN+C is confirmed to be Brettanomyces or Dekkera.
+After growing, some colonies will need to be checked microscopically, either
+in-house or sent to a wine analysis laboratory. Most Brettanomyces cells are
+smaller than Saccharomyces, and though some young Brettanomyces cells can
+resemble Saccharomyces, the majority will be more apiculate (pointed). A
+prominent feature of a Brettanomyces culture is extreme polymorphism (many
+different shapes), so the cells will be quite variable, even within the same culture
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 327
+(C. M. Lucy Joseph, personal communication; Christian Butzke, personal communication; Zoran Ljepovic, personal communication; also personal observation).
+Different strains of Brettanomyces cannot be distinguished by culturing.
+Although morphological differences can be observed among some strains, strain
+identity cannot be confirmed without extensive genetic and physiological
+research.
+Even within one strain, cells vary greatly in size. Some are 3±4 m in width
+to 5±8 m in length (Millet and Lonvaud-Funel, 2000), but may be much longer.
+Some young cells may be ovoid (egg-shaped) but more may resemble olives.
+The first bud that a cell produces forms at one end, so the budding cell looks like
+a thin bowling pin, but it leaves a large bud scar, flattening the end somewhat
+(Fig. 1). Successive buds cannot form at the same place, so later buds are offset
+from the ends of the cell, and older cells begin to look like gothic arches
+(`ogive'), rowboats, watermelon seeds, or even barrels, with a bud sticking out
+from a corner of the flat end(s). Pseudomycelia (see 10.6) may begin to form in
+culture but can become much more extensive in liquid, such as wine.
+It is very important to note that identifying wine microbes microscopically,
+including Brettanomyces, takes some training. The very few texts about
+identifying wine microbes that are available are extremely useful (Edwards,
+2005). Texts cannot replace hands-on training in identifying wine microbes,
+however, and attending a wine microbe identification session is recommended.
+A number of universities and commercial labs offer workshops on wine
+culturing techniques and wine microbe identification. These are best if one or
+more days are spent laying the foundation, then at least another day is spent
+working with the details of microbe identification (personal experience).
+
+Fig. 1
+
+Brettanomyces cells showing polymorphism. The three arrows indicate bud scars.
+Photo: ß Lia Van de Water.
+
+ß Woodhead Publishing Limited, 2010
+
+328
+
+Winemaking problems solved
+
+· Levels of concern: these vary depending on the situation and stage of
+production. In wineries believed to be free from Brettanomyces, even one
+colony is cause for alarm. In cellars with known infections, wines with 100
+colony-forming units (cfu)/ml should be recultured frequently to monitor
+population increase; wines with 500 cfu/ml need better management; wines
+with more than 1000 cfu/ml require immediate attention to prevent spoilage,
+if the `Brett' character is not already too intense.
+· When to culture for Brettanomyces: routinely on a schedule (such as every
+three months) during cellaring, when wine is moved (before SO2 is added!), if
+`Brett' character is suspected, or if any unexpected sensory change occurs
+during cellaring. Culture blend components and also the final blend at least
+one week before bottling. Culture bottled wines if unexpected sensory change
+or bottle variation is noticed.
+
+Summary of what winemakers should know about Brettanomyces culturing:
+· Do not take samples within a few weeks after adding SO2; false negatives can
+result.
+· Following the exact procedures above, colonies should appear on WLN agar
+containing cycloheximide within three to seven days. On other media and
+under other conditions, colonies can take 10±14 days to appear.
+· Culture wines periodically, not just once, to monitor patterns of growth in
+each wine over time.
+References
+
+and BISSON, L., 2006, `Genetic and
+physiological characterization of Brettanomyces bruxellensis strains isolated from
+wines,' Am. J. Enol. Vitic. 57:2, 139±147.
+DIAS, L., DIAS, S., SANCHO, T., STENDER, H., QUEROL. A., MALFEITO-FERREIRA, M. and LOUREIRO,
+V., 2003, `Identification of yeasts isolated from wine-related environments and
+capable of producing 4-ethylphenol,' Food Microbiol. 20, 567±574.
+EDWARDS, C., 2005, Illustrated Guide to Microbes and Sediments in Wine, Beer, and
+Juice, Pullman, WA, Wine Bugs LLC.
+FLEET, G. H. and HEARD, G. M., 1993, `Yeasts-growth during fermentation,' in Wine
+Microbiology and Biotechnology, Fleet, G. H. (ed.), Switzerland, Harwood
+Academic Publishers, 27±55.
+ILAND, P., GRBIN, P., GRINBERGS, M., SCHMIDTKE, L. and SODEN, A., 2007, Microbiological
+Analysis of Grapes and Wine: Techniques and Concepts, Patrick Iland Wine
+Promotions Pty Ltd, Campbelltown, Australia.
+LOUREIRO, V. and MALFEITO-FERREIRA, M., 2003, `Spoilage yeasts in the wine industry,'
+Int. J. Food Microbiol. 86, 23±50.
+MILLET, V. and LONVAUD-FUNEL, A., 2000, `The viable but non-culturable state of wine
+micro-organisms during storage', Lett. Appl. Microbiol. 30, 136±141.
+ROMANO, A., PERELLO, M., DE REVEL, G. and LONVAUD-FUNEL, A., 2008, `Growth and volatile
+compound production by Brettanomyces/Dekkera bruxellensis in red wine,' J.
+Appl. Microbiol. 104, 1577±1585. doi: 10.1111/j.1365-2672.2007.03693.x.
+UMIKER, N. and EDWARDS, C., 2007, `Effects of SO2 on Brettanomyces', presented at
+Santiago, Chile, July.
+CONTERNO, L., JOSEPH, C.M.L., ARVIK, T., HENICK-KLING, T.
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 329
+
+10.8
+
+How can I manage Brettanomyces in the cellar?
+
+L. Van de Water
+Don't bring it in
+The very best way to deal with Brettanomyces is not to bring it into the cellar.
+Once it is established in a winery cellar, managing it, not eliminating it, is the
+goal (Fugelsang et al., 1993; Boulton et al., 1996). While there are many
+anecdotal references for Brettanomyces entering winery cellars by various
+means, and it is possible that the yeasts may occasionally come in on grapes,
+overwhelming evidence from studies in a number of countries points to wine or
+wooden containers as the major vectors for Brettanomyces contamination of
+cellars (Boulton et al., 1996; Fugelsang et al., 1993). Refraining from purchasing red wine or wood used for red wine from other cellars (no matter how
+extremely inconvenient it is to pass up used red wine barrels for sale!) has
+protected many wineries from Brettanomyces infection, until a mistake was
+made and Brettanomyces was brought in with used barrels or infected wine.
+Quarantine possibly infected lots
+Before bringing wine into a larger cellar, keep the wine in quarantine until it can
+be cultured (and tested by PCR if available), or simply sterile-filter all received
+wines on the way into the winery from the tanker truck (Fugelsang et al., 1993).
+Even then, put newly arrived wine into stainless steel, not wood, until it can be
+checked for residual Brettanomyces. Smaller wineries (and especially amateur
+producers) would be well advised never to bring in wine or any other item from
+another cellar. Do not top cellared wines with wine from another cellar, even
+bottled commercial wines. A purchased wine, no matter how tasty, may still
+have Brettanomyces, or it may have substrates (sugar, etc.) that could feed a
+Brettanomyces population if one is already resident in the winery.
+Brettanomyces growth in the cellar
+Danger signals for Brettanomyces growth in cellared wines include
+· a wine that was quiet becoming active
+· a wine that was clear becoming cloudy
+· an unexpected change in aroma, flavor, or analysis results.
+If any of these changes are noticed, take samples for analysis immediately,
+including pH, free and total SO2, volatile acidity, and microbial testing. Examine
+directly under a phase-contrast microscope, but even if other microbes are seen
+microscopically, check for Brettanomyces by culturing or PCR, because they
+may also be present at levels too low to observe, but high enough to cause
+problems.
+Wine composition influences Brettanomyces growth in cellared wines,
+especially nutrient depletion (sugar and nitrogen), pH and SO2 management, and
+
+ß Woodhead Publishing Limited, 2010
+
+330
+
+Winemaking problems solved
+
+turbidity. Cellar operations are also very important, including temperature
+control, minimizing oxygen contact, avoiding cross-contamination, population
+control, and sanitation.
+Wine composition influencing Brettanomyces growth
+Minimize substrates for growth (especially sugar and nitrogen)
+Brettanomyces can grow on very small amounts of hexose sugars (0.2 g/L, well
+below what is considered `dry'). However, they do avail themselves of more
+residual sugars if available. Stuck ferments are prime candidates for spoilage,
+especially from Brettanomyces and Lactobacillus (Godden et al., 2004). Procedures to encourage resuming stuck fermentations encourage Brettanomyces
+growth, if the wine is already infected. The most important must adjustment to
+avoid stuck ferments is to reduce Brix to 25±25.5 if it is higher; others include
+reducing pH to below 3.6 during fermentation and adding at least 40 ppm total
+SO2 before fermentation.
+Supplementation with complex nutrients, not just diammonium phosphate
+(DAP), in two or three portions at appropriate times and levels is very important
+in preventing stuck ferments and in avoiding leftover nitrogen. Amounts and
+timing of nutrient supplementation depend on tests of yeast-available nitrogen
+(YAN) on the juice. Nitrogen supplements should be calculated carefully and
+added during the first half to two-thirds of fermentation, because the cells are
+unable to bring in nitrogen later on, so late additions provide nitrogen that
+Brettanomyces can use (Coulter et al., 2003). Also, if too much DAP is added
+early in fermentation, utilization of amino acids can be inhibited, and some of
+these can be used by Brettanomyces as a sole nitrogen source (Conterno et al.,
+2006).
+Appropriate yeast strain selection and proper handling of yeast during
+rehydration and inoculation also help to prevent stuck ferments. Especially if
+grapes are damaged or diseased, be sure to add a vigorous dry yeast; do not
+ferment rotten or damaged grapes without adding yeast. To discourage growth of
+non-Saccharomyces vineyard yeasts before fermentation, which deplete
+nutrients and can inhibit Saccharomyces, minimize the length of time the must
+spends between 10 and 15ëC (50±60ëF). During fermentation, maintain strict
+temperature control so musts do not get too hot or too cold for Saccharomyces
+yeasts.
+SO2 and pH management
+Regular sensory evaluation and analysis of SO2 help winemakers watch for signs
+of microbial growth. Test for Brettanomyces population and SO2 levels in wines
+in new barrels separately from older ones holding the same batch of wine; new
+wood binds SO2 much more quickly than old wood (Ribereau-Gayon et al.,
+2006).
+The SO2 in a wine exists as molecular, free, and bound. Brettanomyces yeasts
+are not sensitive to legal levels of bound SO2 (Licker et al., 1998). When
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 331
+evaluating SO2 effectiveness, it is very important to consider molecular SO2, not
+just free SO2! Over many years, certain levels of free SO2 have been said to
+control Brettanomyces completely, but recommendations not based on
+molecular SO2 are misleading. The free SO2 level is meaningless unless it is
+taken with the wine pH to calculate molecular SO2 (Margalit, 2004). For
+example, in Handbook of Enology, the authors say, `a free SO2 concentration of
+30 mg/L SO2 always results in the total elimination of all viable populations [of
+Brettanomyces] after 30 days', but then they clarify this statement as applying to
+`red wines of normal pH levels (3.4±3.5)' and state that this level would be
+insufficient at pH 3.8 (Ribereau-Gayon et al., 2006).
+This brings up one of the most pervasive ± and most consistently overlooked
+± problems with making recommendations about unfamiliar wines. The
+Bordeaux wines Dr Ribereau-Gayon refers to as `normal' had a pH of 3.4 to
+3.5, but a `normal' wine in warmer climates ± west coast USA, Chile, Argentina,
+South Africa, Australia, and others ± may have a much higher pH unless it is
+strictly managed once the grapes are picked. Left to their own devices, some
+wines in those places may have a pH of 3.8 or higher. Thus, SO2 management in
+Bordeaux, and in other cool climate regions as varied as (for example) New
+Zealand's South Island, Michigan, and California's Santa Cruz Mountains, is
+much easier because of naturally lower pH. Sadly, if winemakers do not
+understand the effects of climatic differences between their region and others,
+they may take advice (in vineyards as well as in wineries) that are appropriate
+for somewhere else, but inappropriate for their own grapes and wines.
+In 1982 at the University of California at Davis, Clark Smith developed a
+formula and chart to assist winemakers in calculating molecular SO2 from free
+SO2 and pH (Fugelsang et al., 1993). This discovery about wine pH was a
+revelation, explaining so much about the influence of pH that was not understood before. Indeed, in the 1970s, pH was often considered to be of little or no
+consequence to winemaking (personal observation). More than thirty years later,
+most commercial winemakers worldwide use the pH/SO2 chart (Margalit, 2004),
+and those who do not, should do so.
+For example, at 3.5 pH, 30 ppm free SO2 calculates to 0.6 ppm molecular
+SO2, sufficient to delay or inhibit growth of many Brettanomyces strains, though
+not all. But at 3.8 pH, 30 ppm is only 0.3 ppm molecular SO2, too little to impact
+Brettanomyces growth. Note, however, that strain differences influence the
+response of Brettanomyces SO2; a level of molecular SO2 that will inhibit one
+strain may not inhibit another (Barata et al., 2008; Umiker and Edwards, 2007).
+Making larger SO2 additions less frequently rather than smaller, more
+frequent ones, results in a higher percentage of free SO2 rather than bound.
+Coulter et al. (2003) advise, `Therefore it is beneficial to make a large addition
+of SO2 to red wine after MLF, before aging in barrels, in order to reduce the
+populations of Dekkera/Brettanomyces.'
+Brettanomyces is not especially sensitive to pH in the pH range of wine
+(Conterno et al., 2006), but the lower the pH, the more molecular SO2 is
+present at the same free SO2 level, so the SO2 is more effective. This is very
+
+ß Woodhead Publishing Limited, 2010
+
+332
+
+Winemaking problems solved
+
+important when managing a Brettanomyces infection. Even one tenth of a pH
+unit makes a difference to the percentage of molecular SO2, and to the
+management of the wine. If the pH is over 3.65±3.70, winemakers can reduce
+the pH to 3.6 or less with tartaric acid during cellaring for greater SO2
+effectiveness, then bring the wines to the desired pH with potassium carbonate
+or bicarbonate before bottling. This makes Brettanomyces management much
+more successful, and it uses only ions that are naturally found in wine.
+Alternatively, Wine Secrets (www.winesecrets.com) perform electrophoresis to
+reduce acidity as the same time as reducing pH.
+Lower turbidity
+SO2 binds more readily in cloudy wines, leaving less free SO2. If at all possible,
+clarify the wine (even just racking off gross yeast lees) before adding SO2.
+Cleaning up wine as soon as it is finished yeast fermentation and MLF can help
+prevent spoilage. Chatonnet et al. (1995) noted that delaying racking, and thus
+delaying SO2 addition and removal from solids, could result in significantly
+higher ethyl phenol levels. Lees contact also increases substrates for
+Brettanomyces growth through yeast autolysis.
+Cellar conditions influencing Brettanomyces growth
+Temperature control
+Keeping the wine below 15ëC/60ëF greatly reduces Brettanomyces growth rate.
+Some strains (mostly European) can continue to grow at that temperature
+(Conterno et al., 2006), but their growth will be slowed; other strains will cease
+growth (though not die). Special vigilance is needed in cellars whose temperature rises during the summer, encouraging a Brettanomyces `bloom'.
+Minimizing oxygen contact
+The top surface of wine in tanks should be checked and topped at least once a
+week, and gassed regularly with N2, CO2, or argon. If a film is seen, this
+indicates that the headspace protection is not sufficient to prevent growth of
+aerobic microbes. Brettanomyces yeasts do not need oxygen, but their growth is
+stimulated by oxygen, which also allows them to use a wider range of substrates.
+Micro-oxygenation should not be performed on wines already infected with
+Brettanomyces because the yeasts take up the oxygen more quickly than the
+target molecules, wine phenolics (du Toit et al., 2005). Each time wine is
+racked, some oxygen pickup occurs, though delaying racking must be balanced
+against the increase in micronutrients that occurs during yeast autolysis.
+Avoid cross-contamination
+Clean hoses thoroughly to remove debris, stain, tartrate deposits, residual wine,
+etc. Sanitize hoses, topping equipment, sampling devices and receiving containers between batches of wine, unless you know that both batches are already
+infected with Brettanomyces. Trading bungs among barrels can easily spread
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 333
+infection (note: SO2 solution does not penetrate into the bung to kill sequestered
+microbes). Check the Brettanomyces infection status of topping wine before use,
+or simply sterile-filter topping wine.
+Do not ferment wines in Brettanomyces-infected wood, do not top wines that
+are not dry with infected wine, and do not put stuck or sweet wine into infected
+barrels, to avoid infecting wine with Brettanomyces while residual sugar is
+present. Do not put infected wine into new barrels; try to keep new barrels free
+of Brettanomyces as long as possible. Winemakers are often advised to `keep the
+problem children together', that is, to keep infected wine away from uninfected
+wine. Zoran Ljepovic (QA/QC, Constellation Wines US) advises, `We should
+put infected wines into quarantine because we cannot predict what the yeasts
+will do' (personal communication).
+Population control if needed (fining/filtering)
+Keep track of Brettanomyces population by culturing (and also PCR if possible).
+If the population is increasing rapidly, reduce the cell population by depth filter,
+diatomaceous earth, or crossflow filtration. Continue monitoring to watch for regrowth. Even if cell growth declines, the dormant cells may still be producing
+ethyl phenols. Monitoring 4EP and 4EG can track this, though it may be more
+economical to filter the wine to remove most of the cells than to check ethyl
+phenols frequently. If filtration is impossible, egg white fining and racking can
+remove a large proportion of the cells (personal observation). Other fining
+agents used to reduce yeast population are bentonite (not advised for reds
+because it tends to strip flavor), gelatin and PVPP.
+Cellar and barrel sanitation
+Sanitation is extremely important in preventing any microbial spoilage,
+including Brettanomyces, from spreading throughout the cellar. Effective cellar
+sanitizers include quaternary ammonia, peracetic acid, and peroxycarbonate.
+Chlorine is no longer recommended for use in wineries because of the potential
+for trichloroanisole formation (TCA, TeCA), strong moldy-smelling taints
+which can enter the wine through the air in the cellar.
+Alas, there is no reliable way that is available to remove all the microbes
+from a barrel all the time (Coulter et al., 2003; Fugelsang et al., 1993; also
+personal experience) except perhaps steaming, which removes oak flavor. You
+can kill some of the microbes all the time, and all the microbes some of the time,
+but not all the microbes all the time. More microbial toxicity is assumed than
+actualized. Burning sulfur wicks/rings in between wines, and whenever barrels
+are stored empty, has been shown to be more effective against Brettanomyces
+than SO2 gas (Ribereau-Gayon et al., 2006). While burning sulfur reduces
+Brettanomyces population, it does not eliminate the yeasts, which may penetrate
+0.8 cm deep in the wood (Malfeito-Ferreira et al., 2004). The same is true for
+ozone, discussed below, and any other current treatment for infected barrels.
+Boulton et al. (1996) explained, `We know of no sure way to sterilize infected
+barrels.'
+
+ß Woodhead Publishing Limited, 2010
+
+334
+
+Winemaking problems solved
+
+A procedure to greatly reduce Brettanomyces contamination in barrels using
+high-power ultrasound has been developed in Australia and offered by Cavitus
+(Yap et al., 2008). It is expensive, but warrants evaluation by wineries.
+Ozone treatment of barrels, when carried out correctly, is very effective in
+reducing the Brettanomyces population (Guerra, 2008), and has been considered
+a godsend for some wineries battling Brettanomyces in barreled wines.
+Brettanomyces may re-grow in the wine, and/or in wines subsequently aged in
+the same wood. Ozone has no residual sanitizing effect, so if infected wine is reintroduced into an ozonated barrel, the yeasts will grow as readily as if the barrel
+had not been treated.
+Effective (and safe) use of ozone requires adherence to strict procedures
+(SuaÂrez et al., 2007; Doug Manning, personal communication). The barrels need
+to be prepared with a high-pressure hot water wash so that there are no tartrates
+or other particles in them; they must be completely cooled after hot water
+treatment (by waiting, or using cold water rinse), before using ozone. Ozone
+should be charged into very cold, tightly filtered water. An ozone meter is
+essential; measure the ozone in the water going into the barrel (should be 2.0 to
+2.5 ppm) and coming out (should be 0.1 to 0.2 ppm). Rinse barrels with cold
+water before filling with wine. In most cellars, the procedure should be followed
+outside to reduce ozone exposure of winery workers, but wearing a tag to check
+cumulative ozone exposure is strongly recommended anyway. Many companies
+offer ozone treatment of barrels as a service.
+
+What is important?
+Brettanomyces management depends on principles that apply to managing other
+microbes. The most important aspect of management of Brettanomyces ± or any
+other microbe ± in the cellar is to understand that an integrated, holistic approach
+is essential (Coulter et al., 2003). These authors advise, `In situations where only
+some of the suggested control strategies are implemented it is likely that
+reductions in 4-ethyl phenol concentrations will be sporadic.' Dr Charles
+Edwards of Washington State University compares the process of Brettanomyces
+management to putting a number of hurdles in its path. One hurdle is not enough;
+to stop its progress, at least several `hurdles' must be in the way, combining to
+prevent rampant growth of microbes (Edwards, 2007).
+
+References
+
+and
+2008, `Survival patterns of Dekkera bruxellensis in wines and
+inhibitory effect of sulphur dioxide,' Int. J. Food Microbiol. 121:2, 201±207. doi:
+10.1016/j.ifoodmicro.2007.11.020.
+BOULTON, R., SINGLETON, V., BISSON, L. and KUNKEE, R., 1996. Principles and Practices of
+Winemaking, New York, Chapman and Hall.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J.N., 1995, `The influence of Brettanomyces/
+BARATA, A., CALDIEIRA, J., BOTELHEIRO, R., PAGLIARA, D., MALFEITO-FERREIRA, M.
+LOUREIRO, V.,
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 335
+Dekkera spp. yeasts and lactic acid bacteria on the ethyl phenol content of red
+wines,' Am. J. Enol. Vitic. 46, 463±468.
+CONTERNO, L., JOSEPH, C.M.L., ARVIK, T., HENICK-KLING, T. and BISSON, L., 2006, `Genetic and
+physiological characterization of Brettanomyces bruxellensis strains isolated from
+wines,' Am. J. Enol. Vitic. 57:2, 139±147.
+COULTER, A., ROBINSON, E., COWEY, G., FRANCIS, I. L., LATTEY, K., CAPONE, D., GISHEN, M. and
+GODDEN, P., 2003, `Dekkera/Brettanomyces yeast ± an overview of recent AWRI
+investigations and some recommendations for its control,' Proceedings of a
+Seminar Organized by the Australian Society for Viticulture and Oenology,
+Grapegrowing on the Edge, Managing the Wine Business, Impacts on Wine
+Flavor, Bell, S., de Garis, K., Dundon, C., Hamilton, R., Partridge S. and Wall, S.
+(eds), 41±50.
+DU TOIT, W., PRETORIUS, I. and LONVAUD-FUNEL, A., 2005, `The effect of sulphur dioxide
+and oxygen on the viability and culturability of a strain of Acetobacter
+pasteurianus and a strain of Brettanomyces bruxellensis isolated from wine,' J.
+Appl. Microbiol. 98, 862±871.
+EDWARDS, C., 2007, `Microbe Management: Minimizing Risk of Spoilage', presented in
+Auckland, New Zealand, November.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+GODDEN, P., COULTER, A., CURTIN, C., COWEY, G. and ROBINSON, E., 2004, 12th AWITC,
+`Brettanomyces workshop: Latest research and control strategies,' Melbourne,
+Australia.
+GUERRA, B., 2008, `Research update: Is Brettanomyces sneaking into our wines? A review
+of the factors that favor Brettanomyces development during wine aging, including
+available means of control,' Wine Business Monthly, June.
+LICKER, J., ACREE, T. and HENICK-KLING, T., 1998, `What is ``Brett'' (Brettanomyces)
+flavor?: a preliminary investigation', in Chemistry of Wine Flavor, Waterhouse, A.
+and Ebeler, S. (eds), Washington, DC, American Chemical Society Symposium
+series.
+MALFEITO-FERREIRA, M., LAUREANO, P., BARATA, A., D'ANTUONO, I., STENDER, H. and
+LOUREIRO, V., 2004, `Effect of different barrique sanitation procedures on yeasts
+isolated from the inner layers of wood,' Abstr. Am. J. Enol. Vitic. 55, 304A.
+MARGALIT, Y., 2004, Concepts in Wine Chemistry, 2nd edn, Wine Appreciation Guild,
+South San Francisco, CA.
+RIBEREAU-GAYON, P., GLORIES, Y., MAUJEAN, A. and DUBOURDIEU, D., 2006, Handbook of
+Enology Volume 2: The Chemistry of Wine Stabilization and Treatments, John
+Wiley & Sons, Chichester.
+Â REZ, R., SUA
+Â REZ-LEPE, J., MORATA, A. and CALDEROÂN, F., 2007, `The production of
+SUA
+ethylphenols in wine by yeasts of the genera Brettanomyces and Dekkera: a
+review,' Food Chem. 102, 10±21. doi: 10.1016/j.foodchem.2006.03.030.
+UMIKER, N. and EDWARDS, C., 2007, `Effects of SO2 on Brettanomyces', presented at
+Santiago, Chile, July.
+YAP, A., SCHMID, F., JIRANEK, V., GRBIN, P. and BATES, D., 2008, `Inactivation of
+Brettanomyces/Dekkera in wine barrels by high power ultrasound,' Wine Business
+Monthly (Australia), 23:5, 32±40.
+
+ß Woodhead Publishing Limited, 2010
+
+336
+
+Winemaking problems solved
+
+10.9 Can I bottle my wine unfiltered if it is infected with
+Brettanomyces?
+L. Van de Water
+It is well-established that Brettanomyces can grow in bottled wines (Chatonnet
+et al., 1992; Fugelsang and Zoecklein, 2003; Cocolin et al., 2004; Renouf et al.,
+2007; Coulon et al., 2010; also personal observation). So, the safest answer is
+`no.' However, here are some recommendations to assess the relative risk.
+Evaluating potential instability in the bottle
+First, consider aspects of marketing and liability. Is bottle variation acceptable to
+your target market, or do your consumers expect a stable, consistent product? If
+the wine is being made for another company, and they have requested that the
+wine not be sterile-filtered at bottling, they need to sign a release absolving the
+bottling winery from all responsibility for microbial instability. These questions
+and any others related to bottle instability should be considered far enough ahead
+of time before proceeding to bottle wine infected with Brettanomyces without
+sterile filtration.
+Then, ask the four questions:
+1.
+2.
+3.
+4.
+
+Does
+Does
+Does
+Does
+
+it
+it
+it
+it
+
+have
+have
+have
+have
+
+residual fermentable sugar?
+residual malic acid (if pH 3.3±3.4 or higher)?
+Pediococcus?
+Brettanomyces?
+
+Testing for instability in the bottle
+Assuming that the answer to the last question is yes, the others must also be
+investigated to prevent in-bottle spoilage from other microbes. Analysis by
+methods requiring a UV-VIS spectrophotometer, or at least a colorimeter
+(Megaquant, www.megazyme.com), are needed to assess stability. A winery that
+does not have the ability to run such tests should send samples to a commercial
+wine analysis lab.
+Enzymatic glucose and fructose (not added together, tested separately), pH,
+free and total SO2, and malic acid should be tested. If the wine is microbially
+unstable for other reasons such as residual fermentable sugar at 0.5 g/L or more,
+or malic acid over 0.1 g/L (in wine that underwent incomplete MLF),
+Brettanomyces may become irrelevant, and sterile filtration may be needed
+anyway. But if the other questions are answered `no' (or if lysozyme is added to
+kill Pediococcus), then the focus can be on Brettanomyces infection status.
+For most microbes, tests of levels of potential substrates are needed to help
+decide whether a wine can be bottled without sterile filtration. However,
+Brettanomyces can use a variety of substrates, so it is best to assume that cells
+can grow in the bottle if they are present. Because Brettanomyces can grow at
+levels of hexoses (glucose and fructose) well below those considered `dry'
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 337
+(Chatonnet et al., 1992, 1995), the absence of significant residual fermentable
+sugar is not a limiting factor in Brettanomyces growth in the bottle. In the 1980s
+some wineries bottled wines unfiltered on the assumption that Brettanomyces
+could not grow in dry wine, but they discovered that this idea was incorrect.
+Handling wines infected with Brettanomyces before bottling
+White wines infected with Brettanomyces should be sterile-filtered at bottling
+with a membrane filter because even a small amount of yeast growth will
+render the wine unacceptably cloudy. Even for reds, the `safe' answer is, of
+course, to filter out all the cells, so they cannot reactivate in the bottle. If they
+grow, they could potentially spoil the wine, or they could grow a little bit and
+then stop.
+Many winemakers are reluctant to filter reds before bottling. However, they
+need to weigh the potential for Brettanomyces (and perhaps other microbes) to
+reactivate in the bottle against their preference to avoid pre-bottling filtration.
+This is not easy, no matter how much experience the winemaker or consultant
+has. Levels of Brettanomyces infection can range from almost undetectable to
+10 million cells/ml (personal observation). While almost no one would bottle a
+wine that is visually cloudy with cells, it is difficult to set a lower limit on
+acceptable Brettanomyces populations in bottled wine. Sometimes,
+Brettanomyces does not grow in the bottle even though there are 100 cfu/ml
+or more, and sometimes they grow extensively from fewer than 1 cfu/ml.
+Culturing the wine can help in this assessment; healthy-looking colonies that
+grow sooner (in optimal culture conditions) indicate a more robust and active
+population of Brettanomyces than tiny colonies that appear later on (see 10.7).
+One way to evaluate a wine's spoilage potential is to hand-bottle three or four
+bottles straight from tank or barrel (preferably at a racking), without an SO2
+addition or filtration. Keep them in a warm place (in an office, or next to a hot
+water heater). Open one bottle a month, taste, and check the Brettanomyces
+population. If the `Brett' character increases or the population rises, the wine is
+probably not a good candidate for bottling unfiltered.
+Brettanomyces growth and survival in the bottle
+When Brettanomyces grow in the bottle, there will almost always be bottle
+variation, sometimes quite dramatic (Chatonnet et al., 1992; also personal
+observation). One bottle may have little or no effects, but another bottle in the
+same case may be completely spoiled. The lack of consistency means that repeat
+customers are likely to be disappointed, whether they prefer the `Bretty' or the
+`non-Bretty' bottles. When nutrients or vitamins are depleted, Brettanomyces
+becomes dormant but does not necessarily die. Live cells of Brettanomyces have
+been cultured from wines bottled for more than 30 years (personal observation).
+
+ß Woodhead Publishing Limited, 2010
+
+338
+
+Winemaking problems solved
+
+4-ethyl phenol (4EP) in the bottle
+If cells are present in the bottle, even if they do not grow extensively, they can
+continue to produce ethyl phenols after bottling (Fugelsang and Zoecklein,
+2003; Coulon et al., 2010). So, in a wine without recognizable `Brett' character
+but bottled unfiltered, the ethyl phenols can continue to increase, sometimes
+dramatically (Fugelsang et al., 1993).
+In some wines that have been sterile filtered to remove all cells, the
+perception of `Brett' character, particularly ethyl phenols, may increase quite
+dramatically even though analysis shows that the levels remained the same
+(personal observation). There is as yet no good explanation for this sensory
+phenomenon. Surely, as wine ages, its freshness and fruitiness diminishes,
+allowing other components to become more prominent, but the sometimes
+startling increase in perceived `Brett' character without an increase in ethyl
+phenols so far remains a mystery.
+Considerations about bottling unstable wine
+Some winemakers decide not to sterile-filter their wine or use inhibitors even if
+it has a known Brettanomyces infection. While wine microbiologists are all too
+aware that Brettanomyces growth in the bottle can be a disaster, they also realize
+that winemakers sometimes choose the option of bottling unstable wine. It is
+hard for many winemakers to imagine that a wine which has been quiet for
+months in the cellar could become active once it is bottled, but this does indeed
+occur (personal observation).
+The procedures recommended in 10.10 represent a conservative approach to
+Brettanomyces stability in the bottle. Every winemaker knows examples of
+wines that were bottled with viable Brettanomyces cells which did not grow in
+the bottle. Sometimes the yeasts' explosive growth completely spoils a wine, but
+sometimes they grow only a small amount or not at all. One of the most difficult
+and frustrating predictions to attempt to make pre-bottling is whether or not a
+small population of Brettanomyces will grow to a large one in the bottle. One
+never knows, but no matter how many instances a winemaker can cite when
+Brettanomyces yeasts failed to cause in-bottle spoilage, most wine microbiologists and consultants know of instances in which they did, and caused an
+economic calamity for the winery.
+In one example, a Merlot from another country was featured at a fancy tasting
+in the Napa Valley. On its way to the USA, Brettanomyces grew extensively in
+the bottle, so the wine had developed a strong `Brett' character. The distressed
+winemaker had no choice but to pour the wine, but as soon as he arrived back in
+his country he sought assistance to help prevent future problems in the bottle.
+The spoiled Merlot was already enough of a problem economically; they could
+afford no more microbial disasters.
+It is the potential for disastrous activity in the bottle that leads wine
+microbiologists to lean heavily toward procedures to achieve stability rather than
+risk spoilage. Whatever negative effects filtration may have (and many
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 339
+winemakers believe that the effects are only temporary), extensive
+Brettanomyces growth in the bottle is worse.
+See 10.10 for information about inhibition of Brettanomyces at bottling.
+References
+
+and BOIDRON, J. N., 1992, `The origin of ethyl phenols in
+wines,' J. Sci. Food Agric. 68, 165±178.
+CHATONNET, P., DUBOURDIEU, D. and BOIDRON, J.N., 1995, `The influence of Brettanomyces/
+Dekkera spp. yeasts and lactic acid bacteria on the ethyl phenol content of red
+wines,' Am. J. Enol. Vitic. 46, 463±468.
+COCOLIN, L., RANTSIOU, K., IACUMIN, L., ZIRONI, R. and COMI, G., 2004, `Molecular detection
+and identification of Brettanomyces/Dekkera bruxellensis and Brettanomyces/
+Dekkera anomalus in spoiled wines,' Appl. Environ. Microbiol. 70:3: 1347±1355.
+doi: 10.1128/AEM.70.3.1347-1355.2004.
+COULON, J., PERELLO, M., LONVAUD-FUNEL, A., DE REVEL, G. and RENOUF, V., 2010,
+Brettanomyces bruxellensis evolution and volatile phenols production in red wines
+during storage in bottles,' J. Appl. Microbiol. 108, 1450±1455. doi: 10.1111/
+j.1365-2672.2009.04561.x.
+FUGELSANG, K. and ZOECKLEIN, B., 2003, `Population Dynamics and Effects of
+Brettanomyces bruxellensis Strains on Pinot noir (Vitis vinifera L.) Wines,' Am.
+J. Enol. Vitic. 54:4, 294±300.
+FUGELSANG, K., OSBORN, M. and MULLER, C., 1993, `Brettanomyces and Dekkera,
+implications in winemaking', in Beer and Wine Production, Analysis,
+Characterization, and Technological Advances, Gump, B. (ed.), American
+Chemical Society, Washington, DC, 110±131.
+RENOUF, V., PERELLO, M-C., DE REVEL, G. and LONVAUD-FUNEL, A., 2007, `Survival of wine
+microorganisms in the bottle during storage,' Am. J. Enol. Vitic. 58:3, 379±386.
+CHATONNET, P., DUBOURDIEU, D.
+
+ß Woodhead Publishing Limited, 2010
+
+340
+
+Winemaking problems solved
+
+10.10 How should I prepare my wine for bottling if it has
+Brettanomyces?
+L. Van de Water
+Reducing ethyl phenols
+Trials performed with yeast hulls, live yeast, and potassium caseinate/casein
+reduce ethyl phenols. Reverse osmosis can be used to remove some of the ethyl
+phenols, reducing the objectionable `Brett' characters. Several companies
+provide this service.
+Assessing stability potential
+Test the level of Brettanomyces infection before making the final SO2 addition,
+by culturing and also by PCR if available, which can detect VBNC cells.
+Culturing is also important because the shorter the growth time in culture, the
+more active the cells are likely to be in the wine.
+Reducing population by fining and filtration
+If the wine will be sterile-filtered through an absolute 0.65 to 0.45 m membrane
+filter at bottling, then population reduction methods are recommended to reduce
+the cell load which the sterilizing filters may need to stop. The membrane filter
+should be preceded by a sterilizing depth filter or the sterilizing setting on crossflow or ultrafiltration. The final membrane filters should be just a precaution; they
+should not actually have to remove any cells. Membrane filters are very
+expensive, and the more cells they have to remove, the faster they will plug.
+Egg white fining can precipitate around 90±95% of the yeast cells (personal
+observation), resulting in a much more manageable population. Other fining
+agents that can reduce yeast population are casein/potassium caseinate, PVPP,
+and gelatin. Bentonite fining also reduces yeast population, but it is usually
+considered to be unsuitable for red wines.
+Filtering with diatomaceous earth (DE), crossflow, or a pad fliter reduces the
+Brettanomyces population dramatically, making it much easier to put the wine
+through the final membrane filters. The preparatory filters remove most of the
+yeasts, preparing the wine for sterile filtration.
+One winery follows this procedure for reducing the Brettanomyces population: settle the wine for at least one to two months in the barrel, undisturbed.
+Rack the top 90% into a tank; filter the rest into the tank through DE or a pad
+filter. Fine the tank with egg whites, and settle for at least two weeks. Rack the
+top 90% into another tank; filter the rest into the second tank. By this time, the
+Brettanomyces population is down to only a few cells/ml, which are removed by
+sterile filtration at bottling.
+It is very important to note that depth pads and cartridges may sport
+`nominal' numerical designations matching those of membrane filters, such as
+`0.45 m (micron)'. Understandably, winemakers often believe that the two
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 341
+types of filters are equivalent. However, the `nominal' micron designations refer
+only to an average retention size under certain circumstances, so they do not
+give the same protection as an `absolute' membrane filter.
+The difference between these two types of filters, both in cartridges, is
+critical. Depth filters depend on entrapment of particles (including microbes) in
+the matrix of the filter; particle size, particle load, pressure, and other variables
+determine what gets through and what does not. Wines with large amounts of
+small microbes are most likely to have microbes passing through depth filters.
+Depth filters remove a very large proportion of the Brettanomyces cells, and
+sometimes all of them, though not necessarily. A 0.45 m membrane filter,
+however, is an absolute barrier unless its integrity is compromised (a hole in it),
+or unless cells are small enough to pass through the pores.
+Inhibiting Brettanomyces growth
+SO2
+A molecular SO2 of 0.5±0.6 ppm is recommended for reds at bottling, to inhibit
+Brettanomyces growth temporarily, though it does not kill the cells. In most red
+wines, adding enough SO2 to kill all the yeasts (at least 0.8 ppm molecular SO2)
+would result in too high a level of total SO2, because much of the SO2 will bind
+to wine components.
+If SO2 is added just before bottling the `Brett' cells may respond by going into a
+`stunned' state which is sometimes called `VBNC' (`viable-but-not-culturable').
+The cells may shrink by as much as 30% (Charles Edwards, personal
+communication, 2007); some Brettanomyces cells are rather small anyway,
+around two to four microns by five to eight microns (Millet and Lonvand-Funel,
+2000). These authors reported that starved lactic acid bacteria, acetic acid bacteria,
+and cycloheximide-resistant yeasts presumed to be Brettanomyces had passed a
+0.45 m membrane filter. In practice, however, for many years wineries have had
+extremely reliable success stopping Brettanomyces (and bacteria) with a
+membrane filter of 0.45 m. Certainly, more work needs to be done on VBNC
+cells.
+Sorbate/sorbic acid
+The interaction of Brettanomyces/Dekkera and sorbate is not clear. There are
+quite a few references about resistance, at least in cultures (Chatonnet et al.,
+1992; Licker et al., 1998; Oelofse et al., 2009); and a few references to
+sensitivity (SuaÂrez et al., 2007). More investigation of the response of different
+strains to sorbate in wine would be helpful.
+Dimethyldicarbonate (DMDC, trade name VelcorinÕ)
+Brettanomyces is sensitive to DMDC (Renouf et al., 2008). Recent references
+suggest 100±150 ppm (Costa et al., 2008) or 200 ppm (Oelofse et al., 2009).
+Because DMDC degrades naturally within six to eight hours, there is no residual
+protection for wines that are reinfected after treatment. It is best used at bottling,
+
+ß Woodhead Publishing Limited, 2010
+
+342
+
+Winemaking problems solved
+
+and a special (expensive) doser is needed to achieve the correct dose in each
+bottle. DMDC is a hazardous material, very harmful to skin, so it requires care to
+use safely. It is not permitted in all countries.
+Other inhibitors
+Chitosan, a polysaccharide derived from chitin, is reported to inhibit
+Brettanomyces at 3±6 g/L (SuaÂrez et al., 2007). It may be possible to use
+killer toxins made by the yeast strains Pichia membranefaciens (PMKT2)
+(Santos et al., 2009), Pichia anomala and Kluveromyces wickerhamii to inhibit
+Brettanomyces. This competitive effect has been described as `the big fish eats
+the little fish' (Guerra, 2008). More research is needed to determine whether
+these yeast toxins would work in wine being prepared for bottling. Also,
+inhibition of some Brettanomyces strains by peptides derived from bovine
+lactoferrin is under investigation.
+Thermal inactivation
+Of course, flash pasteurization is very effective at killing all microbes in the
+wine. It does require expensive equipment, and not all winemakers are happy to
+subject their wine to this procedure, especially their finer wines. At least one
+study found that simply heating wine to 35ëC/94ëF killed Brettanomyces (Couto
+et al., 2005). However, heating could have serious effects on wine quality. Many
+years ago, a heating `experiment' was carried out inadvertently by a Napa
+Valley Winery (Doug Manning, personal communication). Their 1978 Cabernet
+had won an important gold medal, but it had live Brettanomyces cells in the
+bottle; bottles were cultured every week to detect a `bloom' if it began. But over
+the Fourth of July, the winery air conditioning failed and the wines became hot
+(no idea how hot); the bottles (miraculously) did not leak, but suddenly the
+Brettanomyces were dead. Many subsequent cultures grew no Brettanomyces,
+even 20 years later (personal experience).
+Preparing the bottling line
+After all the microbes have been filtered out of the wine, it is important that it
+does not become re-contaminated during bottling. The bottling line must be
+thoroughly sanitized to remove any resident microbes, including Brettanomyces,
+which could contaminate the wine. Sterilization, the complete removal of all
+microbes, can be achieved by running hot water (85±90ëC/180±185ëF, measured
+coming out of a filler spout) through the line for 20±30 minutes. Hot water may
+not physically penetrate far enough but the heat does, if it is applied for a long
+enough period. However, in bottling lines with blind spots and convoluted
+pathways, some microbes may be able to escape even being killed by the heat.
+Bottling lines can be sanitized with chemicals such as peracetic acid, quaternary
+ammonia, and ozone (a tricky procedure because of ozone's toxicity), though
+chemical sanitizers are not as effective as heat in killing microbes, especially
+
+ß Woodhead Publishing Limited, 2010
+
+Brettanomyces infection in wine 343
+those sequestered in out-of-the-way places in the bottling line, including bends
+and T-joints.
+Once the bottling line has been sanitized, it should be checked with a
+bioluminescence device, which detects ATP from cells (live or dead), to see if
+the procedure has eliminated all the microbes. If not, the bottling line should be
+re-sanitized before proceeding.
+Without detracting attention from the extreme importance of bottling line
+sanitation, in most well-appointed commercial cellars Brettanomyces infections
+in the bottle nearly always come from failure to remove all the cells already
+present in the wine before bottling, rather than Brettanomyces contamination in
+the bottling line (however, bottling line contamination is very common for
+fermentative yeasts). Prevention of Brettanomyces growth in the bottle usually
+focuses on eliminating an existing infection.
+
+After bottling
+At least three bottles per bottling day (more for high-speed lines) should be
+checked by membrane filtration culture. PCR methods are not sensitive enough
+to detect the very low numbers of cells (a few cells per bottle, not per ml)
+required to test for fermentation stability of tightly filtered wine, though PCR
+could be used to check for Brettanomyces in wine that was not sterile-filtered.
+Wines bottled without sterile filtration should also be cultured at 3, 6, and 12
+months and tasted critically for any evidence of Brettanomyces (or other)
+growth. If any sign at all of activity, sensory change, or bottle variation is
+noticed, microbial growth should be suspected and the wine checked thoroughly.
+
+References
+
+and BOIDRON, J. N., 1992, `The origin of ethyl phenols in
+wines,' J. Sci. Food Agric. 68, 165±178.
+COSTA, A., BARATA, A., MALFEITO-FERREIRA, M. and LOUREIRO, V., 2008, `Evaluation of the
+inhibitory effect of dimethyl dicarbonate (DMDC) against wine microorganisms,'
+Food Microbiol. 25:2, 422±427. doi: 10.10.1016/j.fm.2007.10.003.
+COUTO, J., NEVES, F., CAMPOS, F. and HOGG, T., 2005, Thermal inactivation of the wine
+spoilage yeasts Dekkera/Brettanomyces, Int. J. Food Microbiol. 104:3, 337±344.
+doi: 10.1016/j.ijfoodmicro.2005.03.014.
+GUERRA, B., 2008, `Research update: Is Brettanomyces sneaking into our wines? A review
+of the factors that favor Brettanomyces development during wine aging, including
+available means of control,' Wine Business Monthly, June.
+LICKER, J., ACREE, T. and HENICK-KLING, T., 1998, `What is ``Brett'' (Brettanomyces)
+flavor?: a preliminary investigation', in Chemistry of Wine Flavor, Waterhouse, A.
+and Ebeler, S. (eds), Washington, DC, American Chemical Society Symposium
+series.
+MILLET, V. and LONVAUD-FUNEL, A., 2000, `The viable but non-culturable state of wine
+micro-organisms during storage', Lett. Appl. Microbiol. 30, 136±141.
+OELOFSE, A., LONVAUD-FUNEL, A. and DU TOIT, M., 2009, `Molecular identification of
+CHATONNET, P., DUBOURDIEU, D.
+
+ß Woodhead Publishing Limited, 2010
+
+344
+
+Winemaking problems solved
+
+Brettanomyces bruxellensis strains isolated from red wine and volatile phenol
+production,' Food Microbiol. 26, 377±385. doi: 10.1016/j.fm.2008.10.011.
+RENOUF, V., STREHAIANO, P. and LONVAUD-FUNEL, A., 2008, `Effectiveness of dimethyldicarbonate to prevent Brettanomyces bruxellensis growth in wine,' Food Control
+19, 208±216.
+SANTOS, A., SAN MAURO, M., BRAVO, E. and MARQUINA, D., 2009, `PMKT2, a new killer toxin
+from Pichia membranifaciens, and its promising biotechnological properties for
+control of the spoilage yeast Brettanomyces bruxellensis,' Microbiology 155, 624±
+624.
+Â REZ, R., SUA
+Â REZ-LEPE, J., MORATA, A. and CALDEROÂN, F., 2007, `The production of ethyl
+SUA
+phenols in wine by yeasts of the genera Brettanomyces and Dekkera: a review,'
+Food Chem. 102, 10±21. doi: 10.1016/j.foodchem.2006.03.030.
+
+ß Woodhead Publishing Limited, 2010
+
+

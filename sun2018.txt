@@ -1,0 +1,1667 @@
+Accepted Manuscript
+Aroma modulation of Cabernet Gernischt dry red wine by optimal enzyme
+treatment strategy in winemaking
+Wei-Xuan Sun, Kai Hu, Jun-Xiang Zhang, Xiao-Lin Zhu, Yong-Sheng Tao
+PII:
+DOI:
+Reference:
+
+S0308-8146(17)31925-8
+https://doi.org/10.1016/j.foodchem.2017.11.106
+FOCH 22083
+
+To appear in:
+
+Food Chemistry
+
+Received Date:
+Revised Date:
+Accepted Date:
+
+14 August 2017
+28 November 2017
+28 November 2017
+
+Please cite this article as: Sun, W-X., Hu, K., Zhang, J-X., Zhu, X-L., Tao, Y-S., Aroma modulation of Cabernet
+Gernischt dry red wine by optimal enzyme treatment strategy in winemaking, Food Chemistry (2017), doi: https://
+doi.org/10.1016/j.foodchem.2017.11.106
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and
+review of the resulting proof before it is published in its final form. Please note that during the production process
+errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Aroma modulation of Cabernet Gernischt dry red wine by optimal enzyme
+treatment strategy in winemaking
+Wei-Xuan Suna, Kai Hua, Jun-Xiang Zhangb, Xiao-Lin Zhu a, Yong-Sheng Tao a,c,*
+a
+
+College of Enology, Northwest A&F University, Yangling, Shaanxi 712100, China
+
+b
+c
+
+Wine School of Ningxia University, Yinchuan, Ningxia 750021, China
+
+Shaanxi Engineering Resaerch Centre for Viti-viniculture, Yangling, Shaanxi 712100, China
+
+*Corresponding Author：
+：Tel: 0086-87092233, Fax: 0086-87091133
+E-mail: taoyongsheng@nwsuaf.edu.cn
+
+Abstract Cabernet Gernischt (CG) is a famous Chinese wine grape cultivar, the red wine of
+which is known for its green trait, especially when produced from grapes cultivated in regions
+with monsoon climate. To modify CG wine aroma, three enzyme preparations (H. uvarum
+extracellular enzyme, AR2000, and pectinase) were introduced in different winemaking stages
+with Saccharomyces cerevisiae. Free and bound aroma compounds in young wines were
+detected using headspace solid-phase micro-extraction and gas chromatography-mass
+spectrometry, and aroma characteristics were quantified by trained panelists. Results showed
+that simultaneous inoculation of enzymes and yeasts improved wine aroma. Partial
+least-squares regression revealed that the green trait was due mainly to varietal compounds,
+especially C6 compounds, and could be partly weakened by fermentative compounds.
+Moreover, H. uvarum enzyme treatments enriched the acid fruit note of CG wine by
+enhancing the synergistic effect of varietal volatiles and certain fermentative compounds, such
+as esters and phenylethyls.
+
+Keywords: Cabernet Gernischt, enzyme treatment, Hanseniaspora uvarum, wine aroma
+1
+
+enhancement, partial least-squares regression
+
+Chemical compounds studied in this article
+1-Hexanol (PubChem CID: 8103); α-Terpinene (PubChem CID: 7462); β-Damascenone
+(PubChem CID: 5366074); Ethyl acetate (PubChem CID: 8857); Phenylethyl acetate
+(PubChem CID: 7654).
+
+1. Introduction
+Cabernet Gernischt (Vitis vinifera L. cv.), also called “Shelongzhu” in Chinese, is a
+mutation of the Cabernet grape, and is one of the most important red wine cultivars in China
+(Fan, Xu, Jiang, & Li, 2010). The dry red wines made from CG are popular with customers
+because of their attractive color and taste, whereas CG wines also exhibit a green note, which
+is seldom appreciated by consumers who generally prefer wines with fruity aroma. Especially
+for viticulture in wet regions, grapes are often harvested early because of rainy weather during
+the maturation time, which enhances the green trait of the resulting wines. To meet the
+increasing demand for CG wines, methods of improving the aromatic profile of CG wine is
+now a major research interest in the Chinese wine industry.
+Mixed fermentation and flavor enzyme treatment are the prevailing approaches of
+bio-based processes for modulating the fruity aroma of wine. Many studies have investigated
+the effect of specific non-Saccharomyces yeasts on wine aroma by using them as a
+co-inoculum or sequential inoculum with Saccharomyces yeasts. Mixed fermentation
+produces higher amounts of volatile components, leading to stronger aroma intensity and
+complexity than pure fermentation (Renault, Coulon, Revel, Barbe, & Bely, 2015; Ciani &
+Comitini, 2015). However, the inoculum amount of the non-Saccharomyces yeast in mixed
+fermentation has to be controlled as it may interfere with wine flavor when inoculated at
+
+2
+
+higher ratios (Wang, Li, Marta, Niamat, Sun, & Tao, 2017).
+Apart from mixed fermentation, application of exogenous enzymes in winemaking has
+recently attracted attention. Commercial enzyme preparations from Aspergillus niger and
+Trichoderma harzianum have been widely used for aroma release, color extraction, must
+clarification, and filtration in enological practice (Fia, Canuti, & Rosi, 2014). Previous studies
+showed that these enzymes can positively affect wine aroma by increasing aromatic
+compound concentration (Vázquez, Pérez, & Cabezudo, 2002; Cabaroglu, Selli, & Canbas,
+2003; Palomo, Hidalgo, González-Viñas, & Pérez-Coello, 2005). Glycosidases especially
+enhance the aroma typicality and style by hydrolyzing odorless aroma precursors into volatile
+varietal compounds, such as terpenes and C13-norisoprenoids (Robinson, Boss, Solomon,
+Trengove, Heymann, & Ebeler, 2014). However, reports showed that certain glycosidase
+preparations of fungal origin are a mixture of non-specific enzymes, which may trigger
+collateral hydrolysis reactions or form undesirable flavors (Villena, Iranzo, & Perez, 2007;
+Hernandez-Orte, Cersosimo, Loscos, Cacho, Garcia-Moruno, & Ferreira, 2009). In addition to
+the use of fungal glycosidase, recent studies have focused on screening, enzyme properties,
+and aroma release of glycosidases from non-Saccharomyces yeasts (González-Pombo, Fariña,
+Carrau, Batista-Viera, & Brena, 2011; Wang, Zhang, Li, & Xu, 2013; López, Mateo, &
+Maicas, 2015). Nevertheless, the influence of enzyme treatment strategy on wine aroma has
+rarely been reported.
+In our previous study, we identified a novel glycosidase from an indigenous H. uvarum
+isolate, which had considerable potential for wine aroma enhancement (Hu, Qin, Tao, Zhu,
+Peng, & Ullah, 2016a). It is well-documented that high sugar and ethanol content inhibit
+glycosidase activity (Madrigal et al., 2013), and it is well-known that the sugar concentration
+decreases, whereas ethanol level increases during fermentation. This study attempted to
+enhance fruity aroma of CG wine by addition of H. uvarum glycosidase at three stages of the
+
+3
+
+enological process and compared it to wines produced using two commercial enzyme
+preparations and fermentation without enzyme addition. To illustrate the modulation effect,
+free and bound aroma compounds in CG wines were analyzed, and aroma characteristics were
+quantified by trained panelists. Further, the mathematical relationship between representative
+aroma traits and volatile compounds was built using partial least squares regression to
+highlight the main aroma contributors of wines.
+
+2. Material and methods
+2.1. Commercial yeast and enzyme preparations
+Saccharomyces cerevisiae (Actiflore F33) was purchased from Laffort Co. (Bordeaux,
+France). Three commercial enzyme preparations, AR2000 (DMS Food Specialties B.V., Delft,
+The Netherlands) containing 0.25 U/mg β-D-glucosidase activity, macerating pectinase
+(Optizym ®, Laffort Co. Bordeaux, France) containing 0.276 U/mg β-D-glucosidase activity,
+and β-D-glucosidase (G4511, Sigma-Aldrich, Beijing, China; 40 U/mg) were used.
+2.2. Chemical standards
+p-Nitrophenyl-β-D-glucopyranoside (98%), p-nitrophenyl-α-L-arabinofuranoside (98%),
+p-nitrophenyl-α-L-rhamnopyranoside (98%), p-nitrophenyl-β-D-galactopyranoside (98%),
+and p-nitrophenyl-β-D-xylopyranoside (98%) were obtained from Yuan Ye Bio-Technology
+Co. Ltd. (Shanghai, China). p-Nitrophenyl hexanoate (C6, 98%) was purchased from
+Sigma-Aldrich (Shanghai, China).
+Forty-two chromatographically pure standards (98%, Sigma-Aldrich, Shanghai, China),
+such as 1-hexanol, (E)-3-hexen-1-ol, (Z)-3-hexen-1-ol, nerolidol, β-damascenone, 1-butanol,
+phenethyl alcohol, ethyl acetate, 2-phenylethyl acetate, hexanoic acid, and octanoic acid, were
+
+4
+
+used for identification and quantitation. Water was purified using a Milli-Q system (Millipore,
+Billerica, MA).
+2.3. Extracellular enzyme extract from the selected strain
+Extracellular enzyme was extracted from H. uvarum, according to Hu, Zhu, Mu, Ma,
+Ullah, and Tao. (2016b). The strain was incubated in fermentation medium (10 mL/L Tween
+80, 10 g/L yeast extract powder, 20 g/L peptone, 20 g/L D-glucose, 3 g/L ammonium nitrate,
+0.5 g/L MgSO4·7H2O, and 4 g/L KH2PO4) for 72 h (28 °C, 150 rpm), after which the
+supernatant was obtained by centrifugation (9,338 g, 4 °C, 15 min). The extract was purified
+using finely ground (NH4)2SO4 to 80% saturation and kept overnight; it was centrifuged at
+16,200 g, 4 °C for 10 min and dialyzed (dialysis membrane cut off <10 kDa) in 0.1 mol/L
+sodium acetate buffer (pH 5.0) at 4 °C. Finally, the enzyme was concentrated 20 times (0.6
+U/mL β-D-glucosidase activity) by PEG 20,000.
+Enzyme activities of different glycosidases were measured following the method proposed
+by Fia et al. (2014) with some modifications. Enzyme extract (200 µL), 750 µL
+citric-phosphate buffer (pH 5.0), and 250 µL of 1 mmol/L corresponding glycosides were
+mixed together and reacted for 30 min at 40°C. Na2CO3 (1 mol/L, 1 mL) was immediately
+added to the mixture to terminate the reaction. Esterase activity was determined using the
+method of Pérez-Martín, Seseña, Izquierdo, and Palop (2013) with some modifications. For
+the assay, 1,720 µL 0.1 mol/L citrate/phosphate buffer (pH 5.0), 80 µL stock substrate solution
+(25 mmol/L p-nitrophenyl hexanoate in ethanol), and 200 µL of extracellular enzyme were
+mixed and incubated at 37 °C for 1 h, and terminated with 200 µL of 0.5 mol/L NaOH. The
+absorbance value of the released p-nitrophenyl (p-NP) was measured using an ultraviolet (UV)
+spectrophotometer (Agilent Technologies, Santa Clara, CA) at 400 nm. One unit (U) of
+enzyme activity was defined as the amount of enzyme that released 1 µmol of p-NP per min
+
+5
+
+under the experimental conditions.
+2.4. Winemaking process and enzyme treatment
+Two hundred kilograms of CG grapes, containing 193.6 g/L sugar and 7.8 g/L acid (as
+tartaric acid), were normally harvested from the Yuma vineyard (37°36′N, 105°21′E),
+Qingtongxia, Ningxia, in September 2014. As shown in the schema (Supplementary Fig. 1),
+the grapes were destemmed and crushed, 50 mg/L SO2 was added, followed by maceration at
+15 °C for approximately 24 h. The homogenized must was equally divided into twenty parts
+for different enzyme treatments (each treatment was 20 kg in duplicate), and inoculated with
+200 mg/L activated yeasts to initiate fermentation. Sucrose (22 g/L) was added to obtain 12%
+v/v alcohol. During the fermentation, cap management was conducted thrice a day by pushing
+the skins into the juice. The fermentation was performed at 25–27 °C for 8 days until the
+reducing sugar level dropped below 2 g/L. After fermentation, wines were separated with
+skins and lees, followed by addition of 50 mg/L SO2, and stored in clean tanks at 4 °C until
+analysis after 6 months.
+Enzyme treatments were conducted using 0.6 mU/mL β-D-glucosidase of each enzyme
+preparation. More specifically, H. uvarum extracellular enzyme (H), AR2000 (AR) and
+pectinase (P) were added at three winemaking stages, namely, maceration (1), simultaneous
+inoculation with yeast (2), and end of fermentation (3). Pure inoculation of S. cerevisiae
+served as control (CK). Each treatment was conducted in duplicate.
+2.5. Isolation and enzymatic hydrolysis of glycosidically-bound aroma compounds
+Aroma glycosides were extracted using a Lichrolut EN column (Lichrolut EN; Merck,
+Darmstadt, Germany) according to Hu et al. (2016b), with some modifications. Clarified wine
+samples (100 mL) were percolated on the activated column at a flow rate of 1 mL/min,
+followed successively by 50 mL pure water, 8 mL pentane/dichloromethane (2/1, v/v), and 8
+6
+
+mL ethyl acetate/methanol (9/1, v/v) to elute the aroma compounds. The last eluate was
+dissolved in methanol, evaporated to dryness by N2 gas, and reconstituted in 8 mL
+citrate-phosphate buffer (0.2 M, pH 5.0), followed by treatment with commercial
+β-D-glucosidase (5 U/mL) at 40 °C for 18 h to release volatile aromatic compounds.
+2.6. Volatile aroma analysis
+The free and released volatiles were extracted using DVB/CAR/PDMS fiber (50/30 µm
+film thickness, 2 cm Stableflex) assembled with a 57330-U holder (Supelco, Bellefonte PA,),
+followed by gas chromatography-mass spectrometry (GC-MS) according to Wang et al.
+(2017).
+Wine samples (8 mL), 0.4 mg/L internal standard (2-octanol), and 2 g NaCl were held in
+the 15 mL-headspace bottle and stirred by a magnetic bar in a 40 °C water bath for 15 min.
+After that, the fiber was exposed for 30 min and desorbed in the gas chromatography (GC)
+injector at 250 °C for 8 min. The TRACE 1310 GC was coupled with an ISQ LT single
+quadrupole MS (Thermo Scientific, Waltham, MA) equipped with a DB-WAX capillary
+column (60 m × 0.25 mm × 0.25 µm; Agilent J&W, Santa Clara, CA). The GC-MS operating
+conditions were: splitless/split injection with 0.8 min delay; carrier gas was ultrapure helium
+(99.999%) at 1 mL/min flow rate; temperature program: initial temperature 40 °C increased to
+130 °C at 3 °C/min, then ramped to 250 °C at 4 °C/min, and maintained at this temperature
+for 5 min. The temperatures of the injector, transfer line, and ion source were at 250 °C. Mass
+detector conditions: electron impact (EI) in positive ionization mode at 70 eV and scanning
+range was m/z 25–350 with a 0.2-s interval.
+Qualitative analysis for aroma compounds was based on the comparison of retention times
+and mass spectra with those of authentic standards and/or those in the Wiley 275.L database
+(Agilent Technologies Inc.). Quantitative data for the identified compounds were obtained by
+
+7
+
+interpolation of the relative areas versus the internal standard area in the calibration graphs for
+the pure reference compounds. The calibration graphs were drawn using a 5-point method for
+synthetic wines containing exact volumes of the standard chemicals (12% v/v ethanol, 6 g/L
+tartaric acid, pH 3.2,). The concentration of any volatile compound for which a pure reference
+compound was not available was obtained using the calibration graphs for compounds with
+similar chemical structure.
+2.7. Sensory analysis
+Wine sensory analysis was performed in duplicate according to Peng et al. (2013). Aroma
+characteristics were analyzed by the panelists (18 females and 12 males) who were
+well-trained with a 54-aroma kit (Le Nez du Vin®, France) until their accuracy of
+identification for each trait exceeded 95%. Panelists were asked to describe wine aroma using
+4-6 terms from the aroma kit, which had been classified into different groups, and grade the
+intensity using a five-point scale (1, very weak; 2, weak; 3, medium; 4, intense 5, very
+intense). On the basis of the material source, the terms were classified into several aroma
+groups, such as citrus (orange, lemon, and grapefruit), acid fruit (green apple, apple, and pear),
+sweet fruit (peach, plum, and apricot), berries (raspberry, blackberry, redcurrant, and
+blackcurrant), floral (rose, violet, and acacia), green (grass, green beans, green pepper), spicy
+(clove, licorice, pepper, cinnamon, and vanilla), smoky (smoky, tobacco, and coffee), and
+earthy (earth and mold).The mixture of intensity and frequency of detection was expressed as
+modified frequency (MF%), which was calculated using the formula:
+
+MF % =
+
+F (%)I (%)
+
+where F% is the detection frequency of an aroma group, and I% is average intensity
+expressed as the percentage of maximum intensity.
+2.8. Statistical analysis
+8
+
+Volatile and sensory data were compared using one-way analysis of variance (ANOVA)
+with Duncan test at the 95% level of confidence. Volatile data were also evaluated with
+two-way ANOVA. The summed data of volatiles from respective chemical categories were
+used as variables in principal component analysis (PCA) using a correlation matrix (SPSS
+19.0 software; SPSS Inc., Chicago IL). Partial least squares regression (PLSR) was conducted
+using PLSR 1 with Unscrambler 9.7 (Camo, Trondheim, Norway). The PLS model used cross
+validation and variables were standardized. The X-variables were the summed concentrations
+of aroma volatiles with OAVs ≥ 0.1 from respective chemical categories, and the Y-variables
+were MF values of aroma traits.
+
+3. Results and discussion
+3.1. Glycosidase activities in extracellular enzymes
+Stored glycosides form a significant proportion of aromatic precursors in grapes, and their
+release requires various enzymes that act sequentially in two steps; first, disaccharide
+glycosidic enzymes such as α-L-arabinosidase, α-L-rhamnosidase, and β-xylosidase cleave
+the terminal sugar unit of the glycoside; second, β-D-glucosidase liberates volatile odorants
+(Maicas, & Mateo, 2003). In the multiple glycosidase extract of H. uvarum, activities of both
+disaccharide glycosidic enzymes and β-D-glucosidase were detected, with β-D-galactosidase
+(30 mU/mL) and β-D-glucosidase (28 mU/mL) showing higher activities than others
+(Supplementary
+
+Fig.
+
+2).
+
+Activities
+
+of
+
+α-L-rhamnosidase,
+
+α-L-arabinosidase,
+
+and
+
+β-D-xylosidase were relatively lower, ranging from 17–25 mU/mL. This glycosidase profile
+was similar to that reported in a previous study on commercial enzyme preparations used for
+wine aroma enhancement (Fia et al., 2014), indicating that the extracellular enzymes
+possessed good potential for application. However, glycosidase activities of different
+commercial preparations varied largely in enological conditions. As Fia, Olivier, Cavaglioni,
+
+9
+
+Canuti, and Zanoni (2016) reported, only 2 of 15 commercial enzyme preparations had
+β-D-glucosidase activity in commercial grape juice (1.3 and 0.5 U/g or U/mL) and both
+preparations were specific for the release of varietal aroma. In addition to the glycosidase
+activities, commercial enzyme preparations from Aspergillus spp. and Trichoderma spp. also
+harbored esterase activity (Fia et al., 2014). The latter was also detected in the H. uvarum
+enzyme extract (23.08 mU/mL, expressed as C6 chain substrate specificity) in this study,
+indicating that its addition may affect ester profiles.
+In addition to the enzyme activities in these preparations, data in Supplementary Table 1
+suggested that with the exception of SO2, enzyme treatment affected the conventional
+physico-chemical parameters of CG wine negligibly. Therefore, it is necessary to confirm the
+modulation effect of enzyme treatment on aroma profiles.
+3.2. Varietal aroma compounds
+Twelve free varietal compounds were quantified (Table 1) and their total content in
+enzyme-treated wines ranged between 5.98 mg/L and 6.72 mg/L, which was higher than that
+in CK (5.91 mg/L). The increase in varietal compound levels suggested that glycosidase
+activities contributed to their enhancement, especially for AR2, that had the highest
+concentration (6.72 mg/L), followed by P1 (6.38 mg/L) and H2 (6.34 mg/L). Among these
+compounds, C6-compounds accounted for the majority (> 94%), followed by terpenes and
+C13-norisoprenoids.
+C6 compounds are derived from long-chain fatty acids in grapes during berry ripening and
+crushing (Palomo et al., 2005; Baumes, 2009). Although the total C6 compound content varied
+slightly between wines, an apparent difference in (E)-3-hexen-1-ol and (Z)-3-hexen-1-ol
+levels was observed. This suggested that the activity of the enzyme preparation used
+significantly affected certain C6 compounds. Terpenes and C13-norisoprenoids are derived
+
+10
+
+from the activities of glycosidase on grape precursors, and are responsible for the floral and
+fruity notes in wines (Pons, Allamy, Lavigne, Dubourdieu, & Darriet, 2017). Compounds such
+as α-terpinene, α-terpineol, (E)-geranylacetone, and β-damascenone are detected in higher
+concentration in most enzyme-treated wines. This observation was supported by previous
+results showing that exogenous enzymes increased the terpene and C13-norisoprenoid levels
+(Cabaroglu et al., 2003; Hu et al., 2016b). Two-way ANOVA was applied to evaluate the
+effect of enzymes, time of addition, as well as their interactions on free varietal aroma
+compounds. As shown in Supplementary Table 2, enzymes, time of addition, and their
+interactions all differentially affected the formation of terpenes, but not C6 compounds. In
+contrast, only enzymes showed significant differential modulation of C13-norisoprenoid
+content.
+Table 2 shows the volatile components derived from the aroma precursors, including C6
+compounds, terpenes, C13-norisoprenoids, higher alcohols, and phenylethyls. To determine the
+catalytic specificity of different enzyme treatment strategies, PCA was used to analyze the
+varietal chemical categories and their precursors (Fig. 1). Wines from H2, AR2, and H1 were
+located close to free aroma compounds at the negative part of PC1. On the contrary, CK, H3,
+P3, P2, and P1 were more related to bound compounds at the positive part of PC1, which
+implied that a large amount of varietal compounds remained unreleased in these wines. Thus,
+we confirmed that the addition of H. uvarum extracellular enzyme and AR2000 at optimal
+time (simultaneous inoculation with yeast) could accelerate the hydrolysis of glycosidic
+aroma precursors and increase the concentration of varietal aroma compounds. Nevertheless,
+the use of pectinase negligibly enhanced varietal aromas.
+3.3. Fermentative aroma compounds
+Thirty-six fermentative aroma compounds were identified, including 11 higher alcohols,
+
+11
+
+15 esters, 5 fatty acids, and 5 phenylethyls (Supplementary Table 3). In contrast to the
+dramatic release of varietal volatiles, the total content of fermentation compounds in most
+enzyme-treated wines seemed unchanged compared to the control wine (275–304 mg/L),
+except some slight decrease in wines from H3, AR3, and P2 (255–260 mg/L).
+Enhancement of higher alcohol levels may compete with fresh fruity notes and positively
+relate to vegetal/pepper notes in young red wines, leading to a decrease in wine quality (Aznar,
+López, Cacho, & Ferreira, 2003; San-Juan, Ferreira, Cacho, & Escudero, 2011; Cameleyre,
+Lytra, Tempere, & Barbe, 2015). Fatty acids are essential for the perception of fresh fruity
+notes, and their branched forms can suppress the animal note of ethylphenols (Romano,
+Perello, Lonvaud, Sicard, & Revel, 2009; San-Juan et al., 2011). However, excessive levels of
+fatty acids may generate negative aromas in wines (Noguerol-Pato, González-Álvarez,
+González-Barreiro, Cancho-Grande, & Simal-Gándara, 2012). Esters are known as the major
+contributors to the fruity trait of wine (Ugliano, 2009) and are mainly categorized into acetate
+esters and fatty acid ethyl esters. In this study, enzyme treatments negligibly influenced total
+ester levels. A previous study showed that AR2000 treatment generally reduced the
+concentration of fermentative aroma compounds in wines (Palomo et al., 2005). In this study,
+almost all the enzyme-treated wines had lower concentration of higher alcohols and fatty
+acids than the control wine. However, the H. uvarum enzyme extract-induced modulation of
+C3–C5 fatty acid ethyl esters, other esters, and phenylethyls showed an upward trend in CG
+wines, which was similar to that observed with white wine treated with an enzyme from
+Pichia fermentans (Ma, Yan, Wang, Zhang, & Tao, 2017). The results of two-way ANOVA in
+supplementary Table 2 suggested that the major profiles of fermentative volatiles were
+significantly affected by enzymes as well as their interactions with time of addition. In
+contrast, higher alcohols and acetates were only influenced by time of addition.
+PCA was applied for analyzing fermentative aroma compounds to determine the influence
+
+12
+
+of enzyme treatment on fermentative volatile profile. As shown in Fig. 2, all fermentative
+compounds were located on the positive part of PC1. Specifically, acetates, higher alcohols,
+and C3–C5 fatty acid ethyl esters were located on the positive part of PC2, whereas other
+compounds were on the negative part of PC2. The distribution of wine samples implied that H.
+uvarum enzyme treatments had a positive effect on fermentative compounds, such as acetates,
+C3–C5 fatty acid ethyl esters, and phenylethyls, which indicated the possibility of enhancing
+fruity aroma.
+3.4. Correlation between aroma characteristics and volatiles
+Fig. 3 shows the sensory profiles of wines obtained from different enzyme treatments,
+including acid fruit, sweet fruit, green, tropical fruit, floral, berry, and smoky notes (original
+data is shown in Supplementary Table 4). Among all the treatments, H2 wine received the
+highest levels of acid fruit, sweet fruit, and floral notes, followed by AR2 wine. However, the
+latter also exacerbated the green flavor of CG wines. This result was in agreement with that of
+Hu et al. (2016a), where H. uvarum glycosidase significantly improved floral and fruity traits
+while AR2000 treatment significantly enhanced the green note of wine with the improvement
+of fruity and floral notes. In contrast, berry note was the prominent aroma of the control wine
+and the three pectinase-treated wines, whereas the other traits were relatively weak, which
+imparted a bland wine aroma. This result indicated that the most promising treatment for
+enhancing fruity aroma in CG wines was simultaneous addition of H. uvarum extracellular
+enzyme and yeast.
+For wines derived after H. uvarum enzyme and AR2000 treatments, acid fruit and green
+traits were the most typical flavor, respectively. Hence, PLSR was conducted to clarify the
+underlying correlation between the typical aroma notes and aromatic compounds with OAVs
+≥ 0.1. Volatiles with coefficient > 0 or < 0 suggested that they affected aroma trait positively
+
+13
+
+or negatively. As shown in Fig. 4, varietal compounds (C6 compounds, terpenes and
+C13-norisoprenoids) had considerable positive contribution to both acid fruit and green notes,
+while fermentative compounds, such as higher alcohols, esters, and phenylethyls exerted a
+different effect. In terms of acid fruit note, phenylethyls (coefficient 0.486) and esters
+(coefficient 0.283) were synergistic with varietal volatiles, whereas higher alcohols
+(coefficient -0.409) had the opposite effect. In contrast, phenylethyls (coefficient -0.327) and
+esters (coefficient –0.159) adversely interacted with varietal volatiles and affected the green
+trait.
+Another remarkable observation is that C6 compounds played a critical role in both notes.
+Since C6 compounds are often supposed to have a negative effect on wine quality due to their
+grassy and herbaceous odors (Ugliano, 2009), their positive contribution to green note
+(coefficient 0.420) was predictable; however, their significant positive effect on acid fruit note
+(coefficient 0.323) was interesting, the reason for which might be the synergistic effect
+mentioned above. Similarly, C6 compounds were reported to be markers of early maturity
+stage Shiraz grapes, providing fresh aromas to wine derived from these grapes (Antalick,
+Šuklje, Blackman, Meeks, Deloire, & Schmidtke, 2015).
+
+4. Conclusions
+Enzyme treatment dramatically modulated the volatile concentration in CG wines, thereby
+affecting their aroma characteristics. The combined result of GC-MS and sensory analysis
+revealed that simultaneous inoculation with yeast was the optimal application time of the
+three enzyme preparations because of their better performance in aroma enhancement. PLSR
+models demonstrated that the green trait, the typical aroma of CG, was mainly generated by
+varietal compounds, while fermentative compounds, such as phenylethyls and esters, had a
+negative impact on the trait. The application of H. uvarum extracellular enzyme enhanced
+
+14
+
+fruity and floral aroma, especially the acid fruit note, by partially modulating the fermentative
+compound profile and facilitating the positive interaction between varietal compounds and
+fermentative compounds. This study provided an applicable approach for modulating wine
+aroma, especially for the improvement of aroma quality of CG wine. Further study for
+elucidating the effect of H. uvarum glycosidase on the taste, color, and antioxidant properties
+of CG wine are warranted.
+
+Author contributions
+Sun W. X. and Hu K. contributed equally to this work.
+Funding
+This work was accomplished under the auspices of the Major Science and Technology
+Program of Ningxia Hui Autonomous Region (2016BZ0603), National Natural Science
+Foundation of China (31771966) and Fundamental Research Funds of the Central
+Universities of Ministry of Education of China (2452017151).
+Conflict of Interest
+The authors declare no competing financial interest.
+
+References
+Antalick, G., Šuklje, K., Blackman, J. W., Meeks, C., Deloire, A., & Schmidtke, L. M. (2015). Influence of
+grape composition on red wine ester profile: comparison between Cabernet Sauvignon and Shiraz
+cultivars from Australian warm climate. Journal of Agricultural and Food Chemistry, 63, 4664–4672.
+Aznar, M., López, R., Cacho, J., & Ferreira, V. (2003). Prediction of aged red wine aroma properties from
+aroma chemical composition. Partial least squares regression models. Journal of Agricultural and
+Food Chemistry, 51, 2700–2707.
+Baumes, R. (2009). Wine Aroma Precursors. In M. V. Moreno-Arribas & M. C. Polo (Eds.) Wine Chemistry
+
+15
+
+and Biochemistry (251–275). New York: Springer.
+Cabaroglu, T., Selli, S., & Canbas, A. (2003). Wine flavor enhancement through the use of exogenous
+fungal glycosidases. Enzyme and Microbial Technology, 33, 581–587.
+Cameleyre, M., Lytra, G., Tempere, S., & Barbe, J. C. (2015). Olfactory impact of higher alcohols on red
+wine fruity ester aroma expression in model solution. Journal of Agricultural and Food Chemistry, 63,
+9777–9788.
+Ciani, M., & Comitini, F. (2015). Yeast interactions in multi-starter wine fermentation. Current Opinion in
+Food Science, 1, 1–6.
+Culleré, L., Escudero, A., Juan Cacho, A., & Ferreira, V. (2004). Gas chromatography-olfactometry and
+chemical quantitative study of the aroma of six premium quality Spanish aged red wines. Journal of
+Agricultural and Food Chemistry, 52, 1653–1660.
+Fan, W., Xu, Y., Jiang, W., & Li, J. (2010). Identification and quantification of impact aroma compounds in
+4 nonfloral Vitis vinifera varieties grapes. Journal of Food Science, 75, S81–S88.
+Ferreira, V., López, R., & Cacho, J. F. (2000). Quantitative determination of the odorants of young red
+wines from different grape varieties. Journal of the Science of Food and Agriculture, 80, 1659–1667.
+Fia, G., Canuti, V., & Rosi, I. (2014). Evaluation of potential side activities of commercial enzyme
+preparations used in winemaking. International Journal of Food Science and Technology, 49,
+1902–1911.
+Fia, G., Olivier, V., Cavaglioni, A., Canuti, V., & Zanoni, B. (2016). Side activities of commercial enzyme
+preparations and their influence on the hydroxycinnamic acids, volatile compounds and nitrogenous
+components of white wine. Australian Journal of Grape and Wine Research, 22, 366–375.
+González-Pombo, P., Fariña, L., Carrau, F., Batista-Viera, F., & Brena, B. M. (2011). A novel extracellular
+β-glucosidase from Issatchenkia terricola: Isolation, immobilization and application for aroma
+enhancement of white Muscat wine. Process Biochemistry, 46, 385–389.
+Guth, H. (1997). Identification of character impact odorants of different white wine varieties. Journal of
+Agricultural and Food Chemistry, 45, 3022–3026.
+Hernandez-Orte, P., Cersosimo, M., Loscos, N., Cacho, J., Garcia-Moruno, E., & Ferreira, V. (2009).
+Aroma development from non-floral grape precursors by wine Lactic acid bacteria. Food Research
+International, 42, 773–781.
+
+16
+
+Hu, K., Qin, Y., Tao, Y. S., Zhu, X. L., Peng, C. T., & Ullah, N. (2016a). Potential of glycosidase from
+non-Saccharomyces isolates for enhancement of wine aroma. Journal of Food Science, 81,
+M935–M943.
+Hu, K., Zhu, X. L., Mu, H., Ma, Y., Ullah, N., & Tao, Y. S. (2016b). A novel extracellular glycosidase
+activity from Rhodotorula mucilaginosa: its application potential in wine aroma enhancement. Letters
+in Applied Microbiology, 62, 169–176.
+Kheir, J., Salameh, D., Strehaiano, P., Brandam, C., & Lteif, R. (2013). Impact of volatile phenols and their
+precursors on wine quality and control measure of Brettanomyces/Dekkera yeasts. European Food
+Research and Technology, 237, 655–671.
+Laurence, G., Dianehelene, S., Adeline, D., Melanie, C., & Gabriel, T. (2009). Determination of activity
+profiles of the main commercial enzyme preparations used in winemaking. American Journal of
+Enology and Viticulture, 60, 322–331.
+López, M. C., Mateo, J. J., Maicas, S. (2015). Screening of β-glucosidase and β-xylosidase activities in four
+non-Saccharomyces yeast isolates. Journal of Food Science, 80, C1696–C1704.
+Ma, D. C., Yan, X., Wang, Q. Q., Zhang, Y. N., & Tao, Y. S. (2017). Performance of selected P. fermentans
+and its excellular enzyme in co-inoculation with S. cerevisiae for wine aroma enhancement. LWT Food Science and Technology, 86, 361–370.
+Madrigal, T., Maicas, S., Tolosa, J. J. M. (2013). Glucose and ethanol tolerant enzymes produced by Pichia
+(Wickerhamoces) isolates from enological ecosystems. American Journal of Enology and Viticulture,
+64, 126–33.
+Maicas, S., & Mateo, J. J. (2003). Hydrolysis of terpenyl glycosides in grape juice and other fruit juices: a
+review. Applied Microbiology and Biotechnology, 67, 322–335.
+Noguerol-Pato, R., González-Álvarez, M., González-Barreiro, C., Cancho-Grande, B., & Simal-Gándara, J.
+(2012). Aroma profile of Garnacha Tintorera-based sweet wines by chromatographic and sensorial
+analyses. Food Chemistry, 134, 2313–2325.
+Oliveira, J. M., Araújo, I. M., Pereira, Ó. M., Maia, J. S., Amaral, A. J., & Maia, M. O. (2004).
+Characterization and differentiation of five “Vinhos Verdes” grape varieties on the basis of
+monoterpenic compounds. Analytica Chimica Acta, 513, 269–275.
+Palomo, E. S., Hidalgo, D. M., González-Viñas, M. Á., & Pérez-Coello, M. S. (2005). Aroma enhancement
+
+17
+
+in wines from different grape varieties using exogenous glycosidases. Food Chemistry, 92, 627–635.
+Peng, C. T., Wen, Y., Tao, Y. S., & Lan, Y. Y. (2013). Modulating the formation of Meili wine aroma by
+prefermentative freezing process. Journal of Agricultural and Food Chemistry, 61, 1542–1553.
+Pérez-martín, F., Seseña, S., Izquierdo, P. M., & Palop, M. L. (2013). Esterase activity of lactic acid
+bacteria isolated from malolactic fermentation of red wines. International Journal of Food
+Microbiology, 163, 153–158.
+Pons, A., Allamy, L., Lavigne, V., Dubourdieu, D., & Darriet, P. (2017). Study of the contribution of
+massoia lactone to the aroma of Merlot and Cabernet Sauvignon musts and wines. Food Chemistry,
+232, 229–236.
+Renault, P., Coulon, J., Revel, G. D., Barbe, J. C., & Bely, M. (2015). Increase of fruity aroma during mixed
+T. delbrueckii / S. cerevisiae, wine fermentation is linked to specific esters enhancement. International
+Journal of Food Microbiology, 207, 40-48.
+Robinson, A. L., Boss, P. K., Solomon, P. S., Trengove, R. D., Heymann, H., & Ebeler, S. E. (2014).
+Origins of grape and wine aroma. Part 1. Chemical components and viticultural impacts. American
+Journal of Enology and Viticulture, 65, 1–24.
+Romano, A., Perello, M. C., Lonvaud-Funel, A., Sicard, G., & de Revel, G. (2009). Sensory and analytical
+re-evaluation of ‘‘Brett character”. Food Chemistry, 114, 15–19.
+San-Juan, F., Ferreira, V., Cacho, J., & Escudero, A. (2011). Quality and aromatic sensory descriptors
+(mainly fresh and dry fruit character) of Spanish red wines can be predicted from their aroma-active
+chemical composition. Journal of Agricultural and Food Chemistry, 59, 7916–7924.
+Ugliano, M. (2009). Enzymes in winemaking. In M. V. Moreno-Arribas & M. C. Polo (Eds.), Wine
+chemistry and biochemistry (pp. 103–126). New York: Springer.
+Vázquez, L. C., Pérez-Coello, M. S., & Cabezudo, M. D. (2002). Effects of enzyme treatment and skin
+extraction on varietal volatiles in Spanish wines made from Chardonnay, Muscat, Airén, and Macabeo
+grapes. Analytica Chimica Acta, 458, 39–44.
+Villena, M., Iranzo, J., & Perez, A. (2007). β-Glucosidase activity in wine yeasts: Application in enology.
+Enzyme and Microbial Technology, 40, 420–425.
+Wang, X. C., Li, A. H., Dizy, M., Ullah, N., Sun, W. X., & Tao, Y. S. (2017). Evaluation of aroma
+enhancement for “Ecolly” dry white wines by mixed inoculation of selected Rhodotorula
+
+18
+
+mucilaginosaand Saccharomyces cerevisiae. Food Chemistry, 228, 550–559.
+Wang, Y., Zhang, C., Li, J., & Xu, Y. (2013). Different influences of β-glucosidases on volatile compounds
+and anthocyanins of Cabernet Gernischt and possible reason. Food Chemistry, 140, 245–254.
+
+FIGURE CAPTIONS
+Fig. 1. Loadings of free varietal components, aroma precursors, and distribution of different
+enzyme-treated wines in the first two PCs. Wines treated by H. uvarum extracellular enzyme
+(H), AR2000 (AR), and pectinase (P) at maceration (1), yeast inoculation (2), and end of
+fermentation (3). CK was the wine without enzyme treatment.
+Fig. 2. Loadings of fermentative components and distribution of different enzyme-treated
+wine samples on the first two PCs. Wines treated by H. uvarum extracellular enzyme (H),
+AR2000 (AR), and pectinase (P) at maceration (1), yeast inoculation (2), and end of
+fermentation (3). CK was the wine without enzyme treatment.
+Fig. 3. MF% values of aroma characteristics of different enzyme-treated wine samples. Wines
+treated by H. uvarum extracellular enzyme (H), AR2000 (AR), and pectinase (P) at
+maceration (1), yeast inoculation (2), and end of fermentation (3). CK was the wine without
+enzyme treatment.
+Fig. 4. PLS regression of acid fruity (a) and green note (b) with aroma volatiles. Wines treated
+by H. uvarum extracellular enzyme (H) and AR2000 (AR) at maceration (1), yeast inoculation
+(2), and end of fermentation (3). CK was the wine without enzyme treatment.
+TABLES
+Table 1 GC-MS analysis of aromatic compounds in CG wine samples obtained from different
+enzyme treatment strategies.
+
+19
+
+Table 2 GC-MS analysis of bound aroma compounds in CG wine samples obtained from
+different enzyme treatment strategies.
+SUPPLEMENTARY DATA
+Supplementary Fig. 1. The schema of winemaking process.
+Supplementary Fig. 2. Enzyme profiles of H. uvarum extracellular enzyme.
+Supplementary Table 1 Conventional physicochemical parameters of wine samples obtained
+from different enzyme treatment strategies.
+Supplementary Table 2 Two-way ANOVA of the effects of enzyme types, time of addition,
+and their interaction on aroma compounds.
+Supplementary Table 3 GC-MS analysis of fermentative compounds in wine samples obtained
+from different enzyme treatment strategies.
+Supplementary Table 4 Modified frequency percentage of aroma characteristics of different
+enzyme-treated wine samples.
+
+20
+
+Table 1 GC-MS analysis of aromatic compounds in CG wine samples obtained from different enzyme treatment strategies.
+RI
+
+§
+
+Compounds
+
+Concentration† (µg/L)
+CK
+
+H1
+
+H2
+
+H3
+
+AR1
+
+AR2
+
+AR3
+
+P1
+
+P2
+
+P3
+
+Odor
+Threshold
+(µg/L)
+
+Odors
+
+C6 compounds
+
+Green,
+grassy[A]
+
+1392
+
+1-Hexanol
+
+[A]
+5460 ± 224a 5526 ± 282ab 5835 ± 252ab 5562 ± 274ab 5784 ± 294ab 6145 ± 292b 5509 ± 278ab 5872 ± 264ab 5601 ± 310ab 5537 ± 263ab 8000
+
+1401
+
+(E)-3-Hexen-1-ol
+
+78 ± 4cd
+
+57 ± 4a
+
+63 ± 6ab
+
+68 ± 4abc
+
+72 ± 6bc
+
+98 ± 6e
+
+77 ± 7cd
+
+85 ± 6d
+
+73 ± 4bcd
+
+66 ± 4abc
+
+400[B]
+
+Green, herb[C]
+
+1415
+
+(Z)-3-Hexen-1-ol
+
+155 ± 9ab
+
+192 ± 12cd
+
+179 ± 15bc
+
+142 ± 11a
+
+168 ± 10abc
+
+211 ± 17d
+
+159 ± 9ab
+
+177 ± 9bc
+
+170 ± 16abc
+
+152 ± 12ab
+
+400[B]
+
+Green,
+cypress[F]
+
+Subtotal
+
+5692 ± 237a 5776 ± 298ab 6077 ± 272ab 5771 ± 289ab 6024 ± 309ab 6454 ± 316b 5745 ± 293ab 6134 ± 278ab 5844 ± 330ab 5755 ± 279ab
+
+Terpenes
+
+Mint, fruity,
+herb[C]
+Citrus,
+lemon[F]
+
+1498
+
+Carvyl acetate
+
+7 ± 0b
+
+11 ± 1d
+
+10 ± 1c
+
+9 ± 0c
+
+7 ± 1b
+
+7 ± 0b
+
+9 ± 1c
+
+6 ± 1b
+
+6 ± 1b
+
+4 ± 0a
+
+NF
+
+1540
+
+α-Terpinene
+
+9 ± 1b
+
+13 ± 2d
+
+10 ± 1bcd
+
+7 ± 1a
+
+12 ± 1cd
+
+11 ± 1bcd
+
+9 ± 1bc
+
+13 ± 1d
+
+6 ± 0a
+
+9 ± 1b
+
+80[C]
+
+1633
+
+4-Terpinol
+
+9 ± 1a
+
+16 ± 1cd
+
+22 ± 2e
+
+13 ± 1b
+
+16 ± 2bcd
+
+36 ± 2f
+
+15 ± 1bc
+
+18 ± 2d
+
+15 ± 1b
+
+18 ± 1cd
+
+110-400[D]
+
+NF
+
+1706
+
+α-Terpineol
+
+40 ± 2cd
+
+34 ± 2ab
+
+37 ± 3bc
+
+29 ± 1a
+
+31 ± 1ab
+
+48 ± 5e
+
+33 ± 2ab
+
+46 ± 4de
+
+35 ± 3abc
+
+29 ± 3a
+
+250[E]
+
+Pleasant,
+floral[F]
+
+1869
+
+(E)-Geranylacetone
+
+15 ± 1bc
+
+17 ± 1c
+
+22 ± 1e
+
+20 ± 1de
+
+10 ± 1a
+
+17 ± 2cd
+
+14 ± 1b
+
+17 ± 1cd
+
+16 ± 2bc
+
+18 ± 1cd
+
+60[A]
+
+Floral[A]
+
+1558
+
+Nerolidol
+
+5 ± 0a
+
+9 ± 0c
+
+13 ± 1d
+
+7 ± 1b
+
+6 ± 1a
+
+9 ± 1bc
+
+6 ± 0a
+
+12 ± 1d
+
+8 ± 0bc
+
+15 ± 1e
+
+700[A]
+
+Rose, apple,
+citrus[A]
+
+2037
+
+Cedrol
+
+18 ± 1a
+
+26 ± 2c
+
+25 ± 2bc
+
+23 ± 1b
+
+19 ± 2a
+
+25 ± 0bc
+
+24 ± 1bc
+
+26 ± 2bc
+
+17 ± 1a
+
+24 ± 1bc
+
+NF
+
+NF
+
+Subtotal
+
+104 ± 5a
+
+127 ± 8bc
+
+139 ± 9cd
+
+108 ± 6ab
+
+101 ± 8a
+
+153 ± 10d
+
+110 ± 8ab
+
+138 ± 11cd
+
+103 ± 9a
+
+117 ± 9ab
+
+C13-Norisoprenoids
+1591
+
+Vitispirane
+
+72 ± 3a
+
+89 ± 4b
+
+77 ± 4a
+
+73 ± 7a
+
+68 ± 3a
+
+73 ± 6a
+
+66 ± 3a
+
+73 ± 4a
+
+69 ± 5a
+
+71 ± 4a
+
+800[A]
+
+Eucalyptus[A]
+
+1832
+
+β-Damascenone
+
+37 ± 3ab
+
+42 ± 2bc
+
+44 ± 3c
+
+37 ± 2ab
+
+47 ± 2c
+
+43 ± 3bc
+
+47 ± 4c
+
+32 ± 3a
+
+37 ± 2ab
+
+35 ± 2a
+
+0.05[A]
+
+Floral, honey,
+sweet, apple[A]
+
+Subtotal
+
+109 ± 6a
+
+131 ± 6b
+
+121 ± 8ab
+
+110 ± 9a
+
+115 ± 5ab
+
+116 ± 9ab
+
+113 ± 7a
+
+105 ± 7a
+
+106 ± 7a
+
+106 ± 6a
+
+Total
+
+5906 ± 248a 6033 ± 313ab 6337 ± 290ab 5989 ± 303ab 6239 ± 322ab 6723 ± 335b 5967 ± 307ab 6378 ± 283ab 6053 ± 346ab 5978 ± 294ab
+
+†: Data are the mean ± SD (n = 2). Values followed by different capital letters in a row are significantly different (p < 0.05) by Duncan test.
+
+21
+
+CK, without enzyme treatment; H, H. uvarum extracellular enzyme; AR, AR2000; P, pectinase; “1”, addition at maceration; “2”, simultaneous inoculation with yeast; “3”,
+addition at end of fermentation.
+§: Retention indices (RI) were on a DB-WAX column.
+NF: Not found. The letters following the values are references:
+A: (Peng et al., 2013), thresholds were in 12% ethanol/water mixture containing 5 g/L tartaric acid at pH 3.2.
+B: (Ferreira, López, & Cacho, 2000), thresholds were in a synthetic wine (11% ethanol, v/v, 7 g/L glycerine, 5 g/L tartaric acid, pH 3.4).
+C: Odor thresholds and characteristics were measured in the laboratory in a 9.72 g/100 g ethanol/water mixture containing 5 g/L tartaric acid at pH 3.2.
+D: (Oliveira et al., 2004.), thresholds were in an 8.10 g/100 g water/ethanol solution containing 5 g/L tartaric acid.
+E: (Guth, H, 1997), thresholds were in a water/ethanol (90/10) solution.
+F: (Wang et al., 2017), thresholds were measured in the laboratory in 11% ethanol/water mixture at pH 3.2.
+Table 2 GC-MS analysis of bound aroma compounds in CG wine samples obtained from different enzyme treatment strategies.
+RI§
+
+Compounds
+
+Concentration† (µg/L)
+CK
+
+H1
+
+H2
+
+H3
+
+AR1
+
+AR2
+
+AR3
+
+P1
+
+P2
+
+P3
+
+C6 compounds
+1392
+
+1-Hexanol
+
+1104 ± 57a
+
+1284 ± 71bc
+
+1034 ± 43a
+
+1320 ± 88cd
+
+1490 ± 98de
+
+1307 ± 59bcd
+
+1129 ± 63ab
+
+1530 ± 83e
+
+1708 ± 102f
+
+1336 ± 79cd
+
+1401
+
+(E)-3-Hexen-1-ol
+
+42 ± 2b
+
+25 ± 1a
+
+32 ± 2a
+
+100 ± 7f
+
+73 ± 5d
+
+52 ± 3c
+
+41 ± 2b
+
+86 ± 5e
+
+83 ± 4e
+
+67 ± 3d
+
+1415
+
+(Z)-3-Hexen-1-ol
+
+118 ± 5b
+
+131 ± 6bc
+
+94 ± 7a
+
+153 ± 9cd
+
+156 ± 11d
+
+75 ± 6a
+
+146 ± 8cd
+
+190 ± 16e
+
+156 ± 8d
+
+133 ± 9bc
+
+Subtotal
+
+1264 ± 65ab
+
+1441 ± 78bc
+
+1160 ± 52a
+
+1573 ± 104cd 1719 ± 114de 1434 ± 67bc
+
+1316 ± 72ab
+
+1805 ± 104ef 1947 ± 115f
+
+1536 ± 92cd
+
+Terpenes
+1706
+
+α-Terpineol
+
+18 ± 0e
+
+15 ± 1d
+
+13 ± 1c
+
+18 ± 1e
+
+7 ± 1a
+
+6 ± 0a
+
+15 ± 0d
+
+9 ± 1b
+
+9 ± 0b
+
+9 ± 0b
+
+1786
+
+β-Citronellol
+
+0 ± 0a
+
+2 ± 0ab
+
+7 ± 1c
+
+3 ± 0b
+
+9 ± 0d
+
+10 ± 1d
+
+17 ± 0f
+
+14 ± 1e
+
+9 ± 0d
+
+13 ± 1e
+
+22
+
+RI§
+
+Concentration† (µg/L)
+Compounds
+CK
+
+H1
+
+H2
+
+H3
+
+AR1
+
+AR2
+
+AR3
+
+P1
+
+P2
+
+P3
+
+1814
+
+Nerol
+
+14 ± 0d
+
+7 ± 0a
+
+9 ± 0b
+
+12 ± 1c
+
+14 ± 0d
+
+7 ± 0a
+
+11 ± 1c
+
+8 ± 0ab
+
+8 ± 0b
+
+9 ± 0b
+
+1856
+
+Geraniol
+
+38 ± 2def
+
+32 ± 1bcd
+
+30 ± 1bc
+
+44 ± 4f
+
+28 ± 3b
+
+21 ± 2a
+
+35 ± 3cde
+
+32 ± 2bc
+
+39 ± 2ef
+
+33 ± 3bcde
+
+1869
+
+(E)-Geranylacetone
+
+10 ± 0e
+
+5 ± 0a
+
+6 ± 0b
+
+8 ± 0d
+
+11 ± 1f
+
+7 ± 0c
+
+8 ± 0d
+
+7 ± 0c
+
+8 ± 0c
+
+6 ± 0b
+
+Subtotal
+
+80 ± 3de
+
+61 ± 3b
+
+65 ± 4bc
+
+84 ± 7e
+
+69 ± 6bc
+
+52 ± 2a
+
+87 ± 4e
+
+70 ± 4bc
+
+74 ± 2cd
+
+70 ± 4bc
+
+β-Damascenone
+
+75 ± 3d
+
+49 ± 3c
+
+57 ± 4c
+
+56 ± 5c
+
+55 ± 3c
+
+24 ± 1a
+
+34 ± 3b
+
+53 ± 3c
+
+57 ± 3c
+
+51 ± 3c
+
+Subtotal
+
+75 ± 3d
+
+49 ± 3c
+
+57 ± 4c
+
+56 ± 5c
+
+55 ± 3c
+
+24 ± 1a
+
+34 ± 3b
+
+53 ± 3c
+
+57 ± 3c
+
+51 ± 3c
+
+C13-Norisoprenoids
+1832
+
+Higher alcohols
+1165
+
+1-Butanol
+
+92 ± 8abc
+
+81 ± 5a
+
+88 ± 5ab
+
+91 ± 5abc
+
+85 ± 4ab
+
+91 ± 4abc
+
+102 ± 4cde
+
+97 ± 4bcd
+
+113 ± 5e
+
+105 ± 6de
+
+1273
+
+1-Pentanol
+
+49 ± 2e
+
+16 ± 1a
+
+25 ± 3b
+
+54 ± 4e
+
+34 ± 3c
+
+35 ± 3cd
+
+23 ± 3b
+
+41 ± 3d
+
+32 ± 3c
+
+53 ± 3e
+
+1449
+
+1-Octen-3-ol
+
+6 ± 0h
+
+5 ± 0e
+
+4 ± 0b
+
+6 ± 0g
+
+7 ± 0i
+
+3 ± 0a
+
+5 ± 0d
+
+5 ± 0c
+
+5 ± 0f
+
+4 ± 0b
+
+1450
+
+1-Heptanol
+
+281 ± 13d
+
+271 ± 21cd
+
+227 ± 14ab
+
+275 ± 15d
+
+226 ± 17ab
+
+198 ± 12a
+
+248 ± 13bcd
+
+251 ± 15bcd
+
+273 ± 15cd
+
+237 ± 13bc
+
+1676
+
+1-Nonanol
+
+27 ± 1e
+
+22 ± 1c
+
+23 ± 1cd
+
+26 ± 1de
+
+23 ± 2cd
+
+17 ± 0b
+
+13 ± 1a
+
+24 ± 2cd
+
+23 ± 1cd
+
+21 ± 1c
+
+Subtotal
+
+456 ± 24e
+
+395 ± 29abcd
+
+367 ± 23ab
+
+451 ± 25de
+
+375 ± 26ab
+
+345 ± 19a
+
+390 ± 21abc
+
+418 ± 23bcde
+
+446 ± 21cde
+
+419 ± 23bcde
+
+Phenylethyls
+1555
+
+Benzaldehyde
+
+1050 ± 77bcd
+
+793 ± 43a
+
+1066 ± 85bcd
+
+1137 ± 73cd
+
+963 ± 50abc
+
+920 ± 52ab
+
+1457 ± 79e
+
+1669 ± 85f
+
+2042 ± 145g
+
+1182 ± 73d
+
+1896
+
+Benzyl alcohol
+
+267 ± 12b
+
+167 ± 9a
+
+252 ± 14b
+
+285 ± 21bc
+
+234 ± 21b
+
+270 ± 18b
+
+321 ± 30cd
+
+441 ± 32e
+
+365 ± 28d
+
+286 ± 16bc
+
+1931
+
+Phenethyl alcohol
+
+4103 ± 164a
+
+3413 ± 143b
+
+3259 ± 157b
+
+3205 ± 162b
+
+3314 ± 199b
+
+2090 ± 118a
+
+2259 ± 153a
+
+4769 ± 239d
+
+3978 ± 290c
+
+3013 ± 159b
+
+Subtotal
+
+5420 ± 253c
+
+4372 ± 194b
+
+4576 ± 257b
+
+4627 ± 255b
+
+4511 ± 270b
+
+3279 ± 187a
+
+4037 ± 202b
+
+6879 ± 356d
+
+6384 ± 462d
+
+4481 ± 248b
+
+7295 ± 348c
+
+6318 ± 307b
+
+6224 ± 340b
+
+6792 ± 396bc 6728 ± 419bc 5133 ± 277a
+
+5864 ± 303ab 9224 ± 491d
+
+8908 ± 603d
+
+6557 ± 370bc
+
+Total
+
+†: Data are the mean ± SD (n = 2). Values followed by different capital letters in a row are significantly different (p < 0.05) by Duncan test.
+23
+
+CK, without enzyme treatment; H, H. uvarum extracellular enzyme; AR, AR2000; P, pectinase; “1”, addition at maceration; “2”, simultaneous inoculation with yeast; “3”,
+addition at end of fermentation.
+§: Retention indices (RI) were on a DB-WAX column.
+
+24
+
+Fig. 1. Loadings of free varietal components, aroma precursors, and distribution of different enzyme-treated wines
+in the first two PCs. Wines treated by H. uvarum extracellular enzyme (H), AR2000 (AR), and pectinase (P) at
+maceration (1), yeast inoculation (2), and end of fermentation (3). CK was the wine without enzyme
+
+treatment.
+
+Fig. 2. Loadings of fermentative components and distribution of different enzyme-treated wine samples on the
+first two PCs. Wines treated by H. uvarum extracellular enzyme (H), AR2000 (AR), and pectinase (P)
+25
+
+at maceration (1), yeast inoculation (2), and end of fermentation (3). CK was the wine without
+enzyme treatment.
+
+** Significantly different at 99% confidence level between wine samples.
+Fig. 3. Modified frequency percentage of aroma characteristics of different enzyme-treated wine samples. Wines
+
+treated by H. uvarum extracellular enzyme (H), AR2000 (AR), and pectinase (P) at maceration (1),
+yeast inoculation (2), and end of fermentation (3). CK was the wine without enzyme treatment.
+
+(a)
+
+26
+
+(b)
+
+Fig. 4. PLS regression of acid fruit note (a) and green note (b) with aroma volatiles. Wines treated by H.
+
+uvarum extracellular enzyme (H) and AR2000 (AR) at maceration (1), yeast inoculation (2), and
+end of fermentation (3). CK was the wine without enzyme treatment.
+
+27
+
+Highlights
+· A novel H. uvarum extracellular enzyme was used to modulate aroma of CG wine.
+· Green trait of CG dry red wine was mainly given by varietal volatiles.
+· Acid fruit flavor was improved by the synergistic effect of varietal and fermentative volatiles.
+
+28
+
+

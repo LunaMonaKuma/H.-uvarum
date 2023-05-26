@@ -1,0 +1,904 @@
+Food Control 22 (2011) 662e667
+
+Contents lists available at ScienceDirect
+
+Food Control
+journal homepage: www.elsevier.com/locate/foodcont
+
+Volatile compounds contribution of Hanseniaspora guilliermondii
+and Hanseniaspora uvarum during red wine viniﬁcations
+N. Moreira*, C. Pina, F. Mendes, J.A. Couto, T. Hogg, I. Vasconcelos
+CBQF/Centro de Biotecnologia e Química Fina, Escola Superior de Biotecnologia, Universidade Católica Portuguesa, Rua Dr. António Bernardino de Almeida, 4200-072, Porto, Portugal
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 21 September 2009
+Received in revised form
+11 July 2010
+Accepted 16 July 2010
+
+This work aims to investigate the contribution of a selected non-Saccharomyces yeast species, Hanseniaspora guilliermondii, to higher alcohols, esters, fatty acids and heavy sulphur compounds composition
+of red wine. Red grape must viniﬁcations of 100 l were performed and an inoculated fermentation with
+H. guilliermondii was compared to a spontaneous fermentation. The presence of apiculate yeasts was
+observed in both fermentations; however, Hanseniaspora uvarum was the only apiculate yeast isolated
+from the spontaneous fermentation. Apiculate yeasts dominated the fermentation until an ethanol
+concentration of 6% (v/v) was attained and remained in considerable high levels for an ethanol
+concentration of 12.5% (v/v). The grape must inoculated with H. guilliermondii led to the production of
+wine with higher concentrations of 1-propanol, 2-phenylethyl acetate and 3-(methylthio)propionic acid,
+and lower amounts of ethyl hexanoate, pentanoic acid, free fatty acids, 2-methyltetrahydrothiophen-3one and acetic acid-3-(methylthio)propyl ester, than wine resulting from the spontaneous fermentation.
+The present study shows that the use of speciﬁc apiculate yeasts in grape must fermentations may lead to
+the production of wines with different chemical proﬁles, emphasising the importance of Hanseniaspora
+yeasts as mixed starter cultures with Saccharomyces cerevisiae, in winemaking.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Hanseniaspora guilliermondii
+Hanseniaspora uvarum
+Volite composition
+Sulphur compounds and wine
+
+1. Introduction
+Traditionally wine fermentation has been carried out in
+a spontaneous way, by indigenous yeasts present on grapes when
+harvested, or passively introduced from contact surfaces during the
+viniﬁcation process (Constantí, Poblet, Arola, Mas, & Guillamón,
+1997). Many qualitative studies have shown the sequential development of yeast species during spontaneous wine fermentations.
+It is well known that the early stages are characterised by growth
+of non-Saccharomyces yeasts, mostly apiculate yeasts (Beltran et al.,
+2002; Fleet, 2003; Fleet & Heard, 1993; Fugelsang & Edwards, 2007,
+pp. 84e86; Granchi, Ganucci, Messini, Rosellini & Vincenzini, 1998).
+Hanseniaspora guilliermondii and Hanseniaspora uvarum can grow
+up to 106e108 cells/ml during the ﬁrst 4e6 days of fermentation,
+after which they die off largely as a result of the increasing ethanol
+concentration produced by Saccharomyces cerevisiae, which has
+higher fermentation activity and ethanol tolerance (Fleet, 2003;
+Fugelsang & Edwards, 2007, pp. 84e86; Granchi et al., 1998; Jolly,
+Augustyn, & Pretorius, 2006; Zott, Miot-Sertier, Claisse, Lanvaud-
+
+* Corresponding author. Tel.: þ351 22 5580049; fax: þ351 22 5090351.
+E-mail address: nemoreira@mail.esb.ucp.pt (N. Moreira).
+0956-7135/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.foodcont.2010.07.025
+
+Funel, & Masneuf-Pomarede, 2008). Generally, the species of Hanseniaspora, Candida, Pichia, Metschnikowia found in grape juice are
+not tolerant to ethanol concentrations exceeding 4e7%, and this
+explains their decline and death as the fermentation progresses
+beyond the mid-stage (Fleet, 2003; Fleet & Heard, 1993; Fugelsang
+& Edwards, 2007, pp. 84e86; Moreira, Mendes, Guedes de Pinho,
+Hogg, & Vasconcelos, 2008). However, the diversity of yeast population in grape musts, the interaction between different yeast
+species and strains, the S. cerevisiae inoculum concentrations, the
+nutrient composition of grape musts and the processing conditions
+(sulphur dioxide addition, oxygen content and fermentation
+temperature) also affect growth of non-Saccharomyces yeasts
+during alcoholic fermentation (Erten, Tanguler, Cabaroglu, &
+Canbas, 2006; Fleet, 2003; Hansen, Nissen, Sommer, Nielsen, &
+Arneborg, 2001; Jolly et al., 2006; Nissen & Arneborg, 2003;
+Nissen, Nielsen, & Arneborg, 2003; Pérez-Nevado, Albergaria,
+Hogg, & Gírio, 2006; Zott et al., 2008).
+Apiculate yeasts have become an object of increasing interest, as
+their proliferation in competition with S. cerevisiae can impact on
+the sensory quality of wine, because of higher esters production
+(Moreira et al., 2008; Plata, Millán, Mauricio, & Ortega, 2003; Rojas,
+Gil, Piñaga, & Manzanares, 2003; Viana, Gil, Genovés, Vallés, &
+Manzanares, 2008). Nevertheless, few reports are available in
+
+N. Moreira et al. / Food Control 22 (2011) 662e667
+
+literature concerning the contribution of non-Saccharomyces yeasts
+to fatty acids and heavy sulphur compounds composition of wines.
+These compounds, formed mainly during alcoholic fermentation,
+can contribute negatively to wine aroma; due to their impact on
+wines organoleptic proﬁle, it is important to evaluate how growth
+of non-Saccharomyces yeasts inﬂuences the composition of wine.
+Fatty acids are produced by yeasts as intermediates in the
+biosynthesis of long-chain fatty acids, important constituents of yeast
+membrane (Lambrechts & Pretorius, 2000). When present above
+certain concentrations, short- to medium-chain fatty acids can also
+act as inhibitors of growth and survival of S. cerevisiae, causing stuck
+fermentations (Fleet & Heard, 1993). The production of these acids
+varies signiﬁcantly with yeast species and strains and may inﬂuence
+the sequential growth of yeasts during fermentation (Fleet, 2003).
+Sulphur compounds in wines come mainly from the metabolism
+of yeast, being associated to the reduction of sulphate and, consequently, the production of sulphur amino acids (methionine and
+cysteine). Heavy sulphur compounds are volatile compounds
+present in wines in low amounts and are characterised by their low
+odour thresholds (Anocibar Beloqui & Bertrand, 1995; Mestres,
+Busto, & Guasch, 2000). They may play an attractive or repulsive
+role, according to their nature and quantity present in wine
+(Landaud, Helinck, & Bonnarme, 2008).
+The main heavy sulphur compound reported in wine is
+3-(methylthio)-1-propanol(methionol), usually found at concentrations above its threshold value, which attributes a cauliﬂower,
+cabbage, and cooked-potatoes aroma (Anocibar Beloqui & Bertrand,
+1995; Landaud et al., 2008). Most of the many other heavy sulphur
+compounds identiﬁed in wines, with low detection limits, are
+usually found at levels below their threshold value; these
+include 2-mercaptoethanol (poultry-like aroma), 2-methyltetrahydrothiophen-3-one (metallic, natural gas odour), 2-(methylthio)ethanol (French bean aroma), acetic acid-3-(methylthio)
+propyl ester (mushroom and garlic odour), 3-mercapto-1-propanol
+(roasted, potato, broth), 4-(methylthio)-1-butanol (chive-garlic
+aroma) and 3-(methylthio)propionic acid (chocolate, roasted
+ﬂavour) (Anocibar Beloqui & Bertrand, 1995; Landaud et al., 2008;
+Lavigne, 1996; Mestres et al., 2000; Rauhut, 1993; Swiegers &
+Pretorius, 2007). A family of volatile thiols was identiﬁed as
+a positive contributor to complexity and varietal character of wines
+(Sarrazin et al., 2007; Swiegers & Pretorius, 2007; Tominaga &
+Dubourdieu, 2006).
+In order to understand the growth behaviour of non-Saccharomyces yeasts, in particular apiculate yeasts, during grape must
+fermentation, and its inﬂuence on higher alcohols, esters, fatty
+acids and heavy sulphur compounds composition of wines,
+a H. guilliermondii NCYC 2380 inoculated fermentation was
+compared to a spontaneous fermentation of the same must.
+2. Materials and methods
+2.1. Yeast strain
+The yeast strain used in this work was H. guilliermondii NCYC
+2380 (National Collection of Yeast Cultures, Norwich, UK). This
+apiculate yeast was initially isolated from grape must used for Port
+wine production in the Douro region of Portugal. The strain was
+maintained on Yeast Malt agar slants (YM agar, Difco Laboratories
+Detroit, IN, USA) at 5  C prior to use.
+2.2. Fermentation conditions and media
+Red grapes of Tinta Roriz variety from the Dão region of central
+Portugal were used. Grapes were obtained before entrance into the
+winery to exclude contamination from winery surfaces. The must,
+
+663
+
+obtained by the traditional foot treading technique, had a pH of 3.7
+and a sugar content of approximately 205 g/l. Sulphur dioxide was
+added to the must at a concentration of 6 mg/l.
+Two fermentations (100 l each from the same batch of grapes),
+a spontaneous fermentation and a H. guilliermondii NCYC 2380
+inoculated fermentation (1% v/v inoculum) were carried out using
+identical open cylindrical vessels (depth of must about
+0.5  diameter of vessel) with an environmental temperature of
+around 21  C. The inoculum of H. guilliermondii NCYC 2380 was
+grown at 25  C for 24 h in YM medium (Difco, Detroit, IN, USA)
+under aerobic conditions (active oxygenation, achieved by orbital
+shaking at 150 rpm). Under these growth cultivation conditions,
+cells of H. guilliermondii NCYC 2380 showed a high viability when
+grown in presence of high ethanol contents (Pina, Santos, Couto, &
+Hogg, 2004). The inoculation was carried out immediately after
+grape crushing in order to obtain an initial cell concentration of
+approximately 106 cfu/ml.
+After 5 days of maceration, the skins and seed were removed by
+dejuicing and pressing. Alcoholic fermentation continued to
+completion (less than 2 g/l of residual sugar). After 14 days of
+fermentation, wines were bottled and stored at room temperature.
+Fermentation tests were carried out daily for yeast counting and
+sugar monitoring. The number of yeast cells, expressed as cfu/ml,
+was determined using the pour plate method, after incubation of
+plates at speciﬁc temperatures for 48 h on selective and nonselective media as described by Moreira, Mendes, Hogg, and
+Vasconcelos (2005). The various macroscopic colonies formed
+were counted, and representative colony forms were isolated and
+maintained on YM agar slopes at 4  C prior to identiﬁcation. The
+identiﬁcation of typical colonies was performed using the
+morphological, physiological and biochemical tests according to
+the scheme of Barnett, Payne, and Yarrow (1990). Sugar assimilation tests were carried out using API/ID 32CÒ galleries (bioMérieux,
+Mercy l’Etoile, France) with Yeast Nitrogen Base (Difco, Detroit, IN,
+USA) as suspending diluent.
+2.3. Analytical determinations
+Concentration of ethanol, glucose and fructose were determined
+by High Performance Liquid Chromatography (HPLC) using a Beckman (System Gold) chromatograph. Separation was performed on an
+AminexR HPX-87H column (300  7.8 mm, Bio-Rad) and detection
+was assessed by refractive index. The mobile phase was a 0.5 mM
+sulphuric acid solution, with a ﬂow rate of 0.5 ml/min, at 30  C.
+The free a-amino acids content of musts was analysed by HPLC
+using a Beckman (System Gold) chromatograph, according to the
+method described by Pripis-Nicolau, Revel, Marchand, Anocibar
+Beloqui, and Bertrand (2001).
+Aliphatic higher alcohols (1-propanol, 2-methyl-1-propanol,
+2-methyl-1-butanol and 3-methyl-1-butanol) and ethyl acetate
+were analysed using a HewlettePackard 5890 gas chromatograph
+equipped with a ﬂame ionisation detector and connected to
+a HewlettePackard 3396 Integrator. 50 ml of 4-methyl-2-pentanol
+at 10 g/l were added to 5 ml of wine as internal standard. The wine
+(1 ml) was injected (split, 1:60) into a CP-WAX 57 CB column
+(Chrompack) of 50 m  0.25 mm and 0.2 mm phase thickness.
+Temperature program was 40  C (5 min) to 180  C (0 min) at 3  C/
+min. Injector and detector temperatures were set at 250  C. The
+carrier gas was H2 at 1e2 ml/min.
+The determination of 2-phenylethanol, acetates of higher alcohols (isoamyl acetate, 2-phenylethyl acetate and hexyl acetate),
+ethyl esters of fatty acids (ethyl butyrate, ethyl hexanoate and ethyl
+octanoate), ethyl lactate, volatile fatty acids (pentanoic, isobutyric
+and butyric acid) and free fatty acids (hexanoic, octanoic and decanoic acids) was performed in a PerkineElmer Autosystem gas
+
+N. Moreira et al. / Food Control 22 (2011) 662e667
+
+chromatograph, equipped with a ﬂame ionisation detector. 50 ml of
+wine, with 4-decanol at 1.5 mg/l as internal standard, were extracted
+successively with 4, 2 and 2 ml of ether-hexane (1:1 v/v) for 5 min.
+The organic phase (1 ml) was injected (splitless, 0.3 min) into
+a CP-WAX 58 (FFAP)-CB column (Chrompack) of 50 m  0.32 mm
+and 0.3 mm phase thickness. Temperature program was 40  C (5 min)
+to 220  C (20 min) at 2  C/min. Injector and detector temperatures
+were set at 250  C. The carrier gas was H2 at 1e2 ml/min.
+Heavy sulphur compounds were determined according to
+the method described by Moreira, Guedes de Pinho, and Vasconcelos
+(2004). The sulphur compounds analysed were 2-(methylthio)
+ethanol, 2-methyltetrahydrothiophen-3-one, acetic acid-3-(methylthio)propyl ester, 3-(methylthio)propionic acid, methionol
+(3-(methylthio)-1-propanol), 3-(ethylthio)-1-propanol, 3-mercapto1-propanol, 4-(methylthio)-1-butanol, trans- and cis-2-methyltetrahydrothiophen-3-ol. Concentrations of commercially available
+sulphur compounds were expressed as mg/l. For those compounds
+whose reference standard was not available, the amounts were
+expressed as the ratio of peak area/peak area of internal standard.
+
+10
+
+A
+
+8
+
+Log cfu/ml
+
+664
+
+6
+
+4
+
+2
+
+0
+10
+
+B
+
+8
+
+An analysis of variance (ANOVA) was applied to the experimental data; results were considered signiﬁcant if the associated P
+value was below 0.05. The signiﬁcant differences were determined
+by Tukey tests. All statistical analyses were performed using the
+software SPSS for Windows, version 10.0.
+3. Results and discussion
+
+Log cfu/ml
+
+2.4. Statistical analysis
+6
+
+4
+
+2
+
+3.1. Yeast succession
+0
+
+The succession of yeasts during the spontaneous fermentation
+and the H. guilliermondii NCYC 2380 inoculated fermentation is
+shown in Fig. 1. Fresh grape must (prior to inoculation) contained
+a mixture of non-Saccharomyces yeasts composed by the genera
+Hanseniaspora, Rhodotorula, Cryptococcus and Debaryomyces
+(identiﬁcation probability  96%), which represented a total initial
+cell concentration of 106e107 cfu/ml. The Hanseniaspora yeasts
+where further identiﬁed to species level as H. uvarum. The level of
+non-Saccharomyces yeasts found in fresh must was high. Granchi
+et al. (1998) stated that, depending on the vintage, density of
+non-Saccharomyces yeasts in freshly extracted grape musts may
+range from about 103e106 cfu/ml. In the experiences performed,
+S. cerevisiae was never isolated from fresh musts by usual plating
+media, so its initial presence should have been always in much
+lower numbers than the non-Saccharomyces species, which is also
+in accordance to other quantitative studies (Beltran et al., 2002;
+Combina et al., 2005; Fugelsang & Edwards, 2007, pp. 84e86;
+Granchi et al., 1998). The disappearance of non-Saccharomyces nonapiculate yeasts at 5e6 days of fermentation was observed in both
+fermentations. S. cerevisiae was only detected after 4 days of
+fermentation, with a concentration of 107 cfu/ml, becoming the
+dominant species after 5e6 days until the end of fermentation.
+Growth and succession of yeasts did not differ signiﬁcantly in
+both fermentations, except for the presence of H. guilliermondii
+NCYC 2380 in the inoculated fermentation (Fig. 1B). A dominance of
+apiculate yeasts was observed in the ﬁrst 4e5 days of fermentation,
+reaching total counts of 108 cfu/ml. H. uvarum was the only apiculate yeast isolated from the spontaneous fermentation and died off
+after 4e5 days, but remained in countable numbers until the end of
+fermentation (Fig. 1A). The decrease of H. guilliermondii NCYC 2380
+was slower, becoming undetectable after 11 days.
+The growth behaviour of the yeast species that dominated the
+early stages of both fermentations is in good accordance with most
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+Time (days)
+Fig. 1. Evolution of yeasts population (log cfu/ml) during red grape must viniﬁcation in
+(A) spontaneous fermentation and (B) Hanseniaspora guilliermondii NCYC 2380 inoculated fermentation. (C) Saccharomyces cerevisiae, (6) total apiculate yeasts, (:) H.
+guilliermondii NCYC 2380 and (,) other non-Saccharomyces non-apiculate yeasts.
+Values for colony forming units are the average values of results obtained from four
+determinations.
+
+observations reported in literature, which refer the dominance of
+apiculate yeasts within the ﬁrst 3e4 days of fermentation, corresponding to an ethanol concentration of about 4e7% (v/v) (Fleet,
+2003; Fleet & Heard, 1993; Fugelsang & Edwards, 2007, pp.
+84e86; Moreira et al., 2008). The inoculated H. guilliermondii NCYC
+2380 strain and the indigenous H. uvarum remained viable, at
+considerable high concentration levels, until the end of the
+fermentation. Furthermore, the decline phase of these populations
+was very slow, cells being detected at levels of about 106e107 cfu/
+ml by the 6th fermentation day, with an ethanol level of 12.5% (v/v)
+present in the medium. Pina et al. (2004) showed that a pre-culture
+regime of H. guilliermondii NCYC 2380 with active oxygenation is
+a good method to enhance ethanol tolerance.
+
+3.2. Sugar, amino acids and ethanol contents during fermentation
+The grape must from Tinta Roriz variety presented an initial
+sugar content of 205 g/l and an initial total amino acid level of
+451 mg N/l. Similar results for sugar and amino acids consumption
+and ethanol production were obtained in both fermentations. Sugar
+was totally consumed in 6e8 fermentation days, reaching a ﬁnal
+ethanol concentration of 12.5% (v/v). The depletion of amino acids
+from the media was parallel to the consumption of sugar, presenting low values at the end of fermentation.
+
+N. Moreira et al. / Food Control 22 (2011) 662e667
+
+3.3. Volatile composition of wines
+3.3.1. Higher alcohols
+Similar contents of higher alcohols were found in both wines,
+except for the production of 1-propanol which was higher in the
+wine resulting from the H. guilliermondii NCYC 2380 inoculated
+fermentation (Table 1). The contents of total aliphatic higher alcohols (mean values of 363 and 373 mg/l) and 2-phenylethanol (21.2
+and 22.3 mg/l) were within the usual range described for wines,
+150e550 mg/l for aliphatic higher alcohols and 10e100 mg/l for
+2-phenylethanol
+(Ribéreau-Gayon,
+Glories,
+Manjean,
+&
+Dubourdieu, 2000). Excessive concentration of aliphatic higher
+alcohols can result in wines with a strong, pungent smell and taste,
+whereas balanced contents contribute to aromatic complexity. 2Phenylethanol contributes with ﬂoral, rose aroma to wines and
+presents an aroma threshold of 10 mg/l in hydroalcoholic solution
+(Ribéreau-Gayon et al., 2000; Swiegers, Bartowsky, Henschke, &
+Pretorius, 2005). Previous studies on grape musts showed that
+apiculate yeasts, when used as mixed starter cultures with S. cerevisiae, decrease the total aliphatic higher alcohols level and may
+not enhance considerately the production of 2-phenylethanol
+(Moreira et al., 2008).
+3.3.2. Esters
+Similar amounts of esters were found in both wines, except for
+2-phenylethyl acetate and ethyl hexanoate levels (Table 1). The
+inoculated fermentation led to a higher content of 2-phenylethyl
+acetate, 0.733 mg/l, whereas 0.356 mg/l were obtained in the
+spontaneous fermentation. The signiﬁcant difference observed is in
+agreement with previous studies showing that H. guilliermondii
+produced signiﬁcant levels of 2-phenylethyl acetate (Moreira et al.,
+
+665
+
+2008; Rojas et al., 2003; Viana et al., 2008). This compound
+contributes positively to wine aroma, bringing rose, honey, fruity
+and ﬂowery odours, and presents an aroma threshold of 0.25 mg/l
+in hydroalcoholic solution (Lambrechts & Pretorius, 2000). A
+signiﬁcant difference was found for the concentration of ethyl
+hexanoate, which was higher in the wine produced from the
+spontaneous fermentation (0.263 mg/l vs 0.163 mg/l). The ethyl
+esters of fatty acids also present pleasant ﬂoral and fruity odours in
+wines (Lambrechts & Pretorius, 2000).
+Herraiz, Reglero, Herraiz, Martín-Alvarez, and Cabezudo (1990)
+found that the production of ethyl acetates of fatty acids and isoamyl acetate was signiﬁcantly higher in wines produced by a pure
+culture of S. cerevisiae than in wines obtained from the sequential
+inoculation of apiculate yeasts. However, Rojas et al. (2003) showed
+that, in general, S. cerevisiae produces wines with higher contents in
+isoamyl acetate, ethyl hexanoate and octanoate, whereas H. guilliermondii produces higher levels of 2-phenylethyl acetate and
+hexyl acetate. The ability of apiculate yeasts to produce acetates
+was also reported by Plata et al. (2003).
+The content of ethyl acetate in wines was similar (858 vs
+791 mg/l). The high production of ethyl acetate and acetic acid by
+apiculate yeasts had been widely reported (Ciani & Maccarelli,
+1998; Ciani & Picciotti, 1995; Herraiz et al., 1990; Rojas et al.,
+2003; Romano, Fiore, Paraggio, Caruso, & Capece, 2003). Ethyl
+acetate is produced both in presence of acetyl-CoA, by acetiltransferases, and in presence of ethanol and acetic acid, by
+a reverse reaction of esterases; its level in wines increases
+considerably with aeration and glucose concentration of the media
+(Plata et al., 2003). The high production of acetic acid by apiculate
+yeasts, as well as the aeration level during fermentation, could be
+the main reason why high levels of ethyl acetate were present in
+
+Table 1
+Concentration of volatile compounds in wines produced by spontaneous fermentation and by H. guilliermondii NCYC 2380 inoculated fermentation.
+Concentration (mg/l)
+
+Spontaneous fermentation
+
+Higher alcohols
+1-Propanol
+2-Methyl-1-propanol
+2-Methyl-1-butanol
+3-Methyl-1-butanol
+Total aliphatic higher alcohols
+
+62.5
+81.7
+63.2
+156
+363
+
+2-Phenylethanol
+
+21.2 (0.2)
+
+(4.2)
+(4.7)
+(4.3)
+(3)
+(16)
+
+H. guilliermondii NCYC 2380
+inoculated fermentation
+
+Sig.
+
+(0.8)
+(2.3)
+(3.6)
+(4)
+(11)
+
+y
+ns
+ns
+ns
+ns
+
+22.3 (0.5)
+
+ns
+
+73.0
+86.5
+59.8
+154
+373
+
+Esters
+Isoamyl acetate
+Hexyl acetate
+2-Phenylethyl acetate
+Total acetates of higher alcohols
+
+4.44
+0.088
+0.356
+4.88
+
+(0.70)
+(0.009)
+(0.033)
+(0.74)
+
+3.34
+0.081
+0.733
+4.15
+
+(0.50)
+(0.013)
+(0.089)
+(0.60)
+
+ns
+ns
+y
+ns
+
+Ethyl butyrate
+Ethyl hexanoate
+Ethyl octanoate
+Total ethyl esters of fatty acids
+
+0.730
+0.263
+0.377
+1.37
+
+(0.047)
+(0.008)
+(0.027)
+(0.08)
+
+0.738
+0.163
+0.207
+1.11
+
+(0.027)
+(0.005)
+(0.004)
+(0.04)
+
+ns
+y
+ns
+ns
+
+Ethyl acetate
+Ethyl lactate
+
+858 (60)
+3.81 (0.75)
+
+Fatty acids
+Butyric acid
+Isobutyric acid
+Pentanoic acid
+Total volatile fatty acids
+
+1.64
+2.51
+1.07
+5.22
+
+(0.28)
+(0.39)
+(0.07)
+(0.74)
+
+1.18
+2.80
+0.850
+4.83
+
+(0.11)
+(0.17)
+(0.074)
+(0.35)
+
+ns
+ns
+yy
+ns
+
+0.582
+2.15
+0.537
+3.27
+
+(0.038)
+(0.18)
+(0.155)
+(0.37)
+
+0.344
+1.40
+0.218
+1.96
+
+(0.053)
+(0.14)
+(0.037)
+(0.23)
+
+yy
+yy
+ns
+y
+
+Hexanoic acid
+Octanoic acid
+Decanoic acid
+Total free fatty acids
+
+Values in parenthesis are standard deviations from four determinations.
+Sig.: signiﬁcance, y and yy displays the signiﬁcance at 1 and 5%, ns e not signiﬁcant.
+
+791 (72)
+3.58 (0.91)
+
+ns
+ns
+
+666
+
+N. Moreira et al. / Food Control 22 (2011) 662e667
+
+Table 2
+Concentration of heavy sulphur compounds in wines produced by spontaneous fermentation and by H. guilliermondii NCYC 2380 inoculated fermentation.
+Concentration (mg/l)
+
+Spontaneous fermentation
+
+H. guilliermondii NCYC 2380
+inoculated fermentation
+
+Sig.
+
+Methionol
+2-(Methylthio)ethanol
+4-(Methylthio)-1-butanol
+Acetic acid-3-(methylthio)propyl estera
+3-(Methylthio)propionic acida
+2-Mercaptoethanol
+3-Mercapto-1-propanol
+2-Methyltetrahydrothiophen-3-one
+cis-2-Methyltetrahydrothiophen-3-ola
+trans-2-Methyltetrahydrothiophen-3-ola
+
+1036
+33.9
+30.8
+1.21
+0.380
+56.7
+34.0
+127
+0.073
+0.028
+
+959
+30.5
+28.9
+0.901
+0.534
+58.9
+33.6
+104
+0.074
+0.024
+
+ns
+ns
+ns
+yy
+y
+ns
+ns
+y
+ns
+ns
+
+(111)
+(3.0)
+(5.0)
+(0.12)
+(0.131)
+(3.5)
+(1.4)
+(4)
+(0.001)
+(0.003)
+
+(213)
+(1.9)
+(3.2)
+(0.146)
+(0.136)
+(3.6)
+(0.8)
+(3)
+(0.002)
+(0.005)
+
+Values in parenthesis are standard deviations from four determinations.
+Sig.: Signiﬁcance, y and yy displays the signiﬁcance at 1 and 5%, ns e not signiﬁcant.
+a
+Amounts are expressed as the ratio of peak area/peak area of internal standard.
+
+the produced wines. Ethyl acetate is the main ester occurring in
+wine and possesses an unpleasant odour (acetic odour). This ester
+contributes signiﬁcantly to defect aroma at contents of
+150e200 mg/l (Lambrechts & Pretorius, 2000). The negative effect
+of ethyl acetate might be reduced during bottle aging (Rojas et al.,
+2003). However, to prevent a high level of ethyl acetate, wine
+must be produced under low oxygen concentrations, with a rapid
+fermentation beginning, maintenance of an adequate level of SO2
+and control of bacterial growth.
+3.3.3. Fatty acids
+No signiﬁcant differences were found for the amounts of
+butyric, isobutyric and decanoic acids in both wines (Table 1); the
+total volatile fatty acids was also similar in both wines (4.83 vs
+5.22 mg/l). However, the H. guilliermondii NCYC 2380 inoculated
+fermentation led to the production of wine with lower contents in
+pentanoic, hexanoic and octanoic acids than the wine produced
+from spontaneous fermentation. The total content of free fatty acids
+was also signiﬁcantly lower in the inoculated fermentation (1.96 vs
+3.27 mg/l). In literature, the total volatile and free fatty acids in red
+wines were found at levels up to 5.2 and 7.8 mg/l respectively
+(Escudero, Campo, Farina, Cacho, & Ferreira, 2007; Maicas, Gil,
+Pardo, & Ferrer, 1999; Ortega, López, Cacho, & Ferreira, 2001;
+Rocha, Rodrigues, Coutinho, Delgadilho, & Coimbra, 2004; Selli
+et al., 2004). Although fatty acids are present in wines in low
+amounts, they can contribute negatively to ﬁnal aroma. Odour
+descriptors of fatty-rancid, fruity, cheesy and sweaty characterise
+the impact of isobutyric and butyric acids in wines, with an odour
+threshold lower than 0.4 mg/l; free fatty acids are associated with
+fatty-rancid, grass, cheesy, dairy, dry and woody like-odours, and
+present odour thresholds lower than 6.70 mg/l (Rocha et al., 2004).
+3.3.4. Heavy sulphur compounds
+No signiﬁcant differences were found for the amounts of
+methionol (959e1036 mg/l), 2-(methylthio)ethanol (30.5e33.9 mg/
+l), 4-(methylthio)-1-butanol (28.9e30.8 mg/l), 2-mercaptoethanol
+(56.7e58.9 mg/l), 3-mercapto-1-propanol (33.6e34.0 mg/l), transand cis-2-methyltetrahydrothiophen-3-ol in both wines (Table 2).
+The methionol levels obtained for both wines are close to the
+odour threshold value (1000 mg/l; Escudero et al., 2007); similar
+concentrations were obtained in red wines by Fedrizzi, Magno,
+Badocco, Nicolini, and Versini (2007), who also reported values
+from literature up to 4.5 mg/l for methionol, 70 mg/l for 2-(methylthio)ethanol and 180 mg/l for 4-(methylthio)-1-butanol and 2mercaptoethanol.
+The wine obtained from the H. guilliermondii NCYC 2380 inoculated fermentation presented higher amounts of 3-(methylthio)
+propionic acid and lower levels of acetic acid-3-(methylthio)propyl
+
+ester and 2-methyltetrahydrothiophen-3-one than the wine
+resulting from spontaneous fermentation. Acetic acid-3-(methylthio)propyl ester is present at trace amounts in wines, normally
+below its perception threshold, having little inﬂuence on wine
+quality (Anocibar Beloqui & Bertrand, 1995; Mestres et al., 2000). 3Methylthiopropionic acid can be found in wines at higher contents,
+up to 1800 mg/l (Landaud et al., 2008). In general, 2-methyltetrahydrothiophen-3-one is present in wines at values lower than
+100 mg/l (Mestres et al., 2000).
+A previous study showed that, when H. guilliermondii NCYC
+2380 and H. uvarum were grown in mixed cultures with S. cerevisiae, wines presented amounts of heavy sulphur compounds
+similar to those produced by a pure culture of S. cerevisiae (Moreira
+et al., 2008). These results emphasise the fact that apiculate yeasts
+may not enhance the production of undesirable sulphur
+compounds.
+
+4. Conclusions
+The experiments performed underlie the fact that apiculate
+yeasts can survive throughout the alcoholic fermentation for
+longer periods than previously thought. It was observed that these
+yeasts survived in the presence of ethanol concentrations
+considerably high (12.5% v/v). Signiﬁcant higher levels of 2-phenylethyl acetate, 1-propanol and 3-(methylthio)propionic acid
+were observed in wine resulting from the H. guilliermondii NCYC
+2380 inoculated fermentation, whereas a higher content of total
+free fatty acids, pentanoic acid, ethyl hexanoate, 2-methyltetrahydrothiophen-3-one and acetic acid-3-(methylthio)propyl
+ester were found in wine produced by the spontaneous fermentation. These results highlight the fact that certain apiculate yeasts
+have the capacity to inﬂuence, in a positive way, the aromatic
+proﬁle of wines, and can be used in mixed starter cultures with S.
+cerevisiae. Furthermore, considering that the only apiculate yeast
+isolated from grape juice, and found at the end of spontaneous
+fermentation, was H. uvarum, research on this strain should be
+carried out. Moreover, the contribution of apiculate yeasts to the
+ﬁnal volatile composition of wines, as well as the contribution of
+aromas from the grape variety, should be studied further, aiming
+to obtain different and good quality wines.
+
+Acknowledgements
+The authors gratefully acknowledge the ﬁnancial support from
+FCT (via a Ph.D. fellowship Ref.a PRAXIS BD 13428/97 and Ref.a
+PRAXIS BD 5062/95).
+
+N. Moreira et al. / Food Control 22 (2011) 662e667
+
+References
+Anocibar Beloqui, A., & Bertrand, A. (1995). Study of sulfur compounds in wine:
+preliminary results. Italian Journal of Food Science, 3, 279e288.
+Barnett, J. A., Payne, R. W., & Yarrow, D. (1990). Yeasts, characteristics and identiﬁcation. Canbridge: Cambridge University Press.
+Beltran, G., Torija, M., Novo, M., Ferrer, N., Poblet, M., Guillamón, J., et al. (2002).
+Analysis of yeast population during alcoholic fermentation: a six year follow-up
+study. Systematic and Applied Microbiology, 25, 287e293.
+Ciani, M., & Maccarelli, F. (1998). Oenological properties of non-Saccharomyces
+yeasts associated with wine-making. World Journal of Microbiology and
+Biotechnology, 14, 199e203.
+Ciani, M., & Picciotti, G. (1995). The growth kinetics and fermentation behaviour of
+some non-Saccharomyces yeasts associated with wine-making. Biotechnology
+Letters, 17, 1247e1250.
+Combina, M., Elías, A., Mercado, L., Catania, C., Ganga, A., & Martinez, C. (2005).
+Dynamics of indigenous yeast populations during spontaneous fermentation of
+wine from Mendoza, Argentina. International Journal of Food Microbiology, 99,
+237e243.
+Constantí, M., Poblet, M., Arola, L., Mas, A., & Guillamón, J. (1997). Analysis of yeast
+populations during alcoholic fermentation in a newly established winery.
+American Journal of Enology and Viticulture, 48, 339e344.
+Erten, H., Tanguler, H., Cabaroglu, T., & Canbas, A. (2006). The inﬂuence of inoculum
+level on fermentation and ﬂavour compounds of white wines made from
+cv. Emir. Journal of the Institute of Brewing, 112, 232e236.
+Escudero, A., Campo, E., Farina, L., Cacho, J., & Ferreira, V. (2007). Analytical characterization of the aroma of ﬁve premium red wines. Insights into the role of
+odor families and the concept of fruitiness of wines. Journal of Agricultural and
+Food Chemistry, 55, 4501e4510.
+Fedrizzi, B., Magno, F., Badocco, D., Nicolini, G., & Versini, G. (2007). Aging effects
+and grape variety dependence on the content of sulphur volatiles in wine.
+Journal of Agricultural and Food Chemistry, 55, 10880e10887.
+Fleet, G. H. (2003). Yeast interactions and wine ﬂavour. International Journal of Food
+Microbiology, 86, 11e22.
+Fleet, G. H., & Heard, G. M. (1993). Yeasts-growth during fermentation. In G. H. Fleet
+(Ed.), Wine microbiology and biotechnology (pp. 27e55). Chur, Switzerland:
+Harwood Academic Publishers.
+Fugelsang, K., & Edwards, C. (2007)Wine microbiology, practical applications and
+procedures, Vol. 2. New York: Springer ScienceþBusiness Media/LLC.
+Granchi, L., Ganucci, D., Messini, A., Rosellini, D., & Vincenzini, M. (1998). Dynamics
+of yeast populations during the early stages of natural fermentations for the
+production of Brunello di Montalcino wines. Food Technology and Biotechnology,
+36, 313e318.
+Hansen, H., Nissen, P., Sommer, P., Nielsen, J. C., & Arneborg, N. (2001). The effect of
+oxygen on the survival of non-Saccharomyces yeasts during mixed cultures
+fermentations of grape juice with Saccharomyces cerevisiae. Journal of Applied
+Microbiology, 91, 541e547.
+Herraiz, T., Reglero, G., Herraiz, M., Martín-Alvarez, P., & Cabezudo, M. D. (1990). The
+inﬂuence of the yeast and type of culture on the volatile composition of wines
+fermented without sulfur dioxide. American Journal of Enology and Viticulture, 41,
+313e318.
+Jolly, N., Augustyn, O., & Pretorius, I. (2006). The role and use of non-Saccharomyces
+yeasts in wine production. South African Journal of Enology and Viticulture, 27,15e39.
+Lambrechts, M. G., & Pretorius, I. S. (2000). Yeast and its importance to wine aroma.
+A review. South African Journal of Enology and Viticulture, 21, 97e129.
+Landaud, S., Helinck, S., & Bonnarme, P. (2008). Formation of volatile sulfur
+compounds and metabolism of methionine and other sulfur compounds in
+fermented food. Applied Microbiology and Biotechnology, 77, 1191e1205.
+Lavigne, V. (1996). Recherches sur les composés soufrés volatils formés par la levure
+au cours de la viniﬁcation et l’élevage des vins blancs sec, Ph.D. thesis,
+University of Bordeaux II, Bordeaux, France.
+Maicas, S., Gil, J., Pardo, I., & Ferrer, S. (1999). Improvement of volatile composition
+of wines by controlled addition of malolactic bacteria. Food Research International, 32, 491e496.
+Mestres, M., Busto, O., & Guasch, J. (2000). Analysis of organic sulfur compounds in
+wine aroma. Journal of Chromatography A, 881, 569e581.
+Moreira, N., Guedes de Pinho, P., & Vasconcelos, I. (2004). Method for analysis of
+heavy sulphur compounds using gas chromatography with ﬂame photometric
+detection. Analytica Chimica Acta, 513, 183e189.
+
+667
+
+Moreira, N., Mendes, F., Guedes de Pinho, P., Hogg, T., & Vasconcelos, I. (2008).
+Heavy sulphur compounds, higher alcohols and esters production proﬁle of
+Hanseniaspora uvarum and Hanseniaspora guilliermondii grown as pure and
+mixed cultures in grape must. International Journal of Food Microbiology, 124,
+231e238.
+Moreira, N., Mendes, F., Hogg, T., & Vasconcelos, I. (2005). Alcohols, esters and heavy
+sulphur compounds production by pure and mixed cultures of apiculate wine
+yeasts. International Journal of Food Microbiology, 103, 285e294.
+Nissen, P., & Arneborg, N. (2003). Characterization of early deaths of non-Saccharomyces yeasts in mixed cultures with Saccharomyces cerevisiae. Archives of
+Microbiology, 5, 65e71.
+Nissen, P., Nielsen, D., & Arneborg, N. (2003). Viable Saccharomyces cerevisiae
+cells at high concentrations cause early growth arrest of non-Saccharomyces
+yeasts in mixed cultures by cellecell contact-mediated mechanism. Yeast, 20,
+331e341.
+Ortega, C., López, R., Cacho, J., & Ferreira, V. (2001). Fast analysis of important wine
+volatile compounds. Development and validation of a new method based on
+gas chromatographic-ﬂame ionisation detection analysis of dichloromethane
+microextracts. Journal of Chromatography A, 923, 205e214.
+Pérez-Nevado, F., Albergaria, H., Hogg, T., & Gírio, F. (2006). Cellular death of two
+non-Saccharomyces wine-related yeasts during mixed fermentations with
+Saccharomyces cerevisiae. International Journal of Food Microbiology, 108,
+336e345.
+Pina, C., Santos, C., Couto, J. A., & Hogg, T. (2004). Ethanol tolerance of ﬁve nonSaccharomyces wine yeasts in comparison with a strain of Saccharomyces cerevisiae-inﬂuence of different culture conditions. Food Microbiology, 21, 439e447.
+Plata, C., Millán, C., Mauricio, J. C., & Ortega, J. M. (2003). Formation of ethyl acetate
+and isoamyl acetate by various species of wine yeasts. Food Microbiology, 20,
+217e224.
+Pripis-Nicolau, L., Revel, G., Marchand, S., Anocibar Beloqui, A., & Bertrand, A.
+(2001). Automated HPLC method for the measurement of free amino acids
+including cysteine in musts and wine; ﬁrst applications. Journal of the Science of
+Food and Agriculture, 81, 731e738.
+Rauhut, D. (1993). Production of sulfur compounds. In G. H. Fleet (Ed.), Wine
+microbiology and biotechnology (pp. 183e242). Chur, Switzerland: Harwood
+Academic Publishers.
+Ribéreau-Gayon, P., Glories, Y., Manjean, A., & Dubourdieu, D. (2000). Handbook of
+enology. In The chemistry of wine stabilization and treatments, Vol. 2. Chichester:
+John Wiley & Sons Ltd.
+Rocha, S., Rodrigues, F., Coutinho, P., Delgadilho, I., & Coimbra, M. (2004). Volatile
+composition of Baga red wine. Assessment of the identiﬁcation of the would be
+impact odourants. Analytica Chimica Acta, 513, 257e262.
+Rojas, V., Gil, J., Piñaga, F., & Manzanares, P. (2003). Acetate ester formation in wine
+by mixed cultures in laboratory fermentations. International Journal of Food
+Microbiology, 86, 181e188.
+Romano, P., Fiore, C., Paraggio, M., Caruso, M., & Capece, A. (2003). Function of
+yeasts species and strains in wine ﬂavour. International Journal of Food Microbiology, 86, 169e180.
+Sarrazin, E., Shinkaruk, S., Tominaga, T., Bennetau, B., Frérot, E., & Dubourdieu, D.
+(2007). Odorous impact of volatile thiols on the aroma of young Botrytized
+sweet wines: identiﬁcation and quantiﬁcation of new sulfanyl alcohols. Journal
+of Agricultural and Food Chemistry, 55, 1437e1444.
+Selli, S., Cabaroglu, T., Canbas, A., Erten, H., Nurgel, C., Lepoutre, J. P., et al. (2004).
+Volatile composition of red wine from cv. Kalecik Karast grown in central
+Australia. Food Chemistry, 85, 207e213.
+Swiegers, J. H., Bartowsky, E. J., Henschke, P. A., & Pretorius, I. S. (2005). Yeast and
+bacterial modulation of wine aroma and ﬂavour. The Australian Journal of Grape
+and Wine Research, 11, 139e173.
+Swiegers, J. H., & Pretorius, I. (2007). Modulation of volatile sulphur compounds by
+wine yeast. Applied Microbiology and Biotechnology, 74, 954e960.
+Tominaga, T., & Dubourdieu, D. (2006). A novel method for quantiﬁcation of
+2-methyl-3-furanthiol and 2-furanmethanethiol in wines made from Vitis
+vinifera grape varieties. Journal of Agricultural and Food Chemistry, 54, 29e33.
+Viana, F., Gil, J., Genovés, S., Vallés, S., & Manzanares, P. (2008). Rational selection of
+non-Saccharomyces yeasts for mixed starters based on ester formation and
+enological traits. Food Microbiology, 25, 778e785.
+Zott, K., Miot-Sertier, C., Claisse, O., Lanvaud-Funel, A., & Masneuf-Pomarede, I.
+(2008). Dynamics and diversity of non-Saccharomyces yeasts during the early
+stages in winemaking. International Journal of Food Microbiology, 125, 197e203.
+
+

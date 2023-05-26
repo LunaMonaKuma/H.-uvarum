@@ -1,0 +1,1111 @@
+World Journal of Microbiology & Biotechnology 19: 297–304, 2003.
+ 2003 Kluwer Academic Publishers. Printed in the Netherlands.
+
+297
+
+Contribution of diﬀerent natural yeasts to the aroma of two alcoholic beverages
+L. Mingorance-Cazorla, J.M. Clemente-Jiménez, S. Martı́nez-Rodrı́guez, F.J. Las Heras-Vázquez
+and F. Rodrı́guez-Vico*
+Biochemistry and Molecular Biology, University of Almerı´a. La Cañada s/n, Almerı´a 04120, Spain
+*Author for correspondence: Tel.: +34-950-015055, Fax: +34-950-015008, E-mail: fvico@ual.es
+Received 31 July 2002; accepted 25 November 2002
+
+Keywords: Aroma, non-Saccharomyces, orange juice, volatile production, wine
+Abbreviations: CECT – Colección Española de Cultivos Tipo; GM – grape must; OJ – orange juice; SC – sugar cane
+
+Summary
+The aroma formation in the fermentation of two types of natural musts by 12 diﬀerent yeasts has been analysed. In
+grape must fermentation Pichia fermentans Colección Española de Cultivos Tipo (CECT) 11773, Clavispora
+lusitaniae OJ6 and Pichia anomala OJ5 produced the best balance between concentrations of ethyl acetate and high
+alcohols. When orange juice was fermented with the 12 yeasts, Pichia fermentans CECT 11773, Rhodotorula
+mucilaginosa OJ2 and Hanseniaspora uvarum CECT 10885 produced a good beverage with low alcoholic grade. For
+both types of natural musts Pichia fermentans CECT 11773 increased the presence of higher alcohols and ethyl
+acetate. After using this strain both alcoholic beverages obtained the highest evaluation in the sensory analysis.
+
+Introduction
+When referring to wine aroma it is important to
+distinguish between the aroma from the grapes (collection and processing), the aroma produced by fermentation and the bouquet produced by the transformation of
+the aroma during ageing. The majority of volatile
+compounds of which grape aroma is composed are
+known to be constituents of many other fruits. There are
+compounds that precipitate with the must slurry, such as
+aromatic hydrocarbons, aliphatic n-alkanes and n-alkenes. In certain varieties, only a few esters contribute to
+the aroma and these are acetate esters of short chain
+alcohols. Thus, when the grapes are pressed, C6-aldehydes and alcohols are formed enzymatically. However,
+these compounds have also been identiﬁed in the
+presence of enzyme inhibitors. It is, therefore, very
+diﬃcult to determine to what extent these compounds are
+formed by the grape varieties. Other compounds, such as
+monoterpenes, sesquiterpenes and ketones are present in
+some varieties of grape (Rapp & Mandery 1986).
+The wine aroma appears mainly during yeast fermentation. Ethanol is the main component followed by
+diols, higher alcohols and esters. Ethanol determines the
+viscosity (body) of wine and acts as a ﬁxer of aroma.
+Although the quantity of organic acids in the wine is
+small, they are suﬃciently volatile to contribute to its
+aroma. The most important of these organic acids are
+
+acetic acid, propanoic acid, butanoic acid and lactic
+acid, and the latter three are usually below the perception threshold. Esters are present in small amounts in
+grapes, but their formation is parallel to ethanol
+formation. The yeast used in the fermentation process
+has a great inﬂuence on ester production. The basic
+aroma of wine has been attributed to four esters (ethyl
+acetate, isoamyl acetate, ethyl caproate and caprylate),
+two alcohols (isobutyl and isoamyl) and acetaldehyde,
+while the remaining compounds only modify the basic
+aroma (Avakyants et al. 1981).
+Finally, the bouquet of a wine depends on the storage
+conditions. It may be due to the presence of aldehydes
+and acetals from the oxidation process, or to the
+reduction which takes place after ageing, although the
+latter is of less importance. Red wine beneﬁts from
+the aromatic elements extracted from the oak barrels,
+such as phenolic compounds or diastereomers. Apart
+from this, oxygen penetrates through the wood and
+changes the ﬂavours. During storage excess acetates in
+young white wines gradually hydrolyse, becoming acids
+and alcohols. The decrease in these acetates could be
+responsible for the loss of freshness and fruitiness. All of
+these compounds are produced by the yeasts in concentrations which are very close to the equilibrium concentrations of ester, fatty acid and ethanol. Other changes
+in the ageing of white wine are: a decrease in monoterpene alcohols (linalool, geraniol and citrenol), an
+
+298
+
+L. Mingorance-Cazorla et al.
+
+increase in oxides, and the formation of other monoterpenes (Rapp & Mandery 1986).
+In the same way as the positive ﬂavour compounds in
+wine-making come from three sources (grapes, fermentation and ageing), the undesirable odours are classiﬁed
+as those derived from the cultivar, fermentation and
+processing. The most important of these is hydrogen
+sulphide, which smells of rotten egg and is produced
+during fermentation. Another undesirable odour is the
+vinegary smell produced by acetic acid and ethyl acetate.
+When bacterial proliferation occurs lactic odour appears, due to malolactic fermentation. The equilibrium
+of these compounds is important in a fermented must in
+order to determine whether they are able to produce the
+desired ﬂavour compound and not the undesirable
+odours (Suárez-Lepe 1997).
+The spontaneous fermentation involved in the ﬁrst
+period of aroma production is carried out by the socalled non-Saccharomyces strains, such as Kloeckera,
+Hanseniaspora, Candida, Pichia, Zygosaccharomyces,
+Schizosaccharomyces, Torulaspora, Hansenula and
+Metschnikowia. These strains have been described as
+producers of high concentrations of some compounds
+whose inﬂuence on the sensory quality of wine has been
+reported (Rojas et al. 2001). These spontaneous yeasts
+are developed during the ﬁrst 4–6 days, after which they
+die due to their inability to tolerate ethanol concentrations of over 6% (Gil et al. 1996). Non-Saccharomyces
+yeasts can impart desirable or undesirable ﬂavourdeterminants to the fermented must. Hanseniaspora
+and Pichia are able to promote the esteriﬁcation of
+various alcohols such as ethanol, geraniol, isoamyl
+alcohol and 2-phenylethanol, thus increasing concentrations of esters with a fruity aroma (Rojas et al. 2001).
+These yeasts are, therefore, most useful for the production of volatile compounds. Consequently, their isolation, the type of aromas they are able to produce, their
+resistance to ethanol and the type of must they are able
+to ferment are all of great interest.
+
+Bearing in mind that the present trend in the wine
+industry is to develop new, original products, mixed or
+sequential cultures of non-Saccharomyces or authoctonous yeasts together with S. cerevisiae may be a good
+method of to conferring a particular aroma and characteristics to wines and other alcoholic beverages (Zironi
+et al. 1993). For this reason, two isolation processes
+were carried out to ﬁnd yeasts from natural sources
+which are able to ferment natural juices. By studying the
+aroma formation produced in the fermentation of two
+natural musts by 12 diﬀerent yeasts, this work aims to
+select a yeast which produces the most adequate
+aromatic proﬁle.
+
+Materials and methods
+Microbial strains
+All yeasts used in this study are listed in Table 1. Two
+are commercial (CM) Saccharomyces strains used in the
+wine industry (Saccharomyces cerevisiae L2056, Saccharomyces cerevisiae Colección Española de Cultivos
+Tipo (CECT) 1351). Seven were isolated from orange
+juice (OJ) and selected for their high capacity to produce
+volatiles (Las Heras-Vázquez et al. 2003) (Pichia fermentans CECT 11773, Rhodotorula mucilaginosa OJ2,
+Trichosporum asahii OJ3, Pichia anomala OJ4, Hanseniaspora uvarum CECT 10885, Saccharomyces cerevisiae
+OJ5, Clavispora lusitaniae OJ6). One was isolated from
+sugar cane (SC) (Pichia anomala SC1), while the last two
+were isolated from grape must (Hanseniaspora uvarum
+GM1, Metschnikowia zobellii GM2).
+The isolation from OJ was carried out by mixing juice
+and peel of oranges from the Andarax valley in Almerı́a
+(Spain) in sterile conditions. To avoid bacterial growth
+100 lg ml)1 of ampicillin was added to the mixture. The
+juice was maintained at 18 C for 20 days to allow the
+proliferation of native yeast. Aliquots were taken every
+
+Table 1. Source and evolution of yeast strains used in this study.
+Yeast
+
+Clavispora lusitaniae OJ6
+Hanseniaspora uvarum CECT 10885
+Hanseniaspora uvarum GM1
+Metschnikowia zobellii GM2
+Pichia anomala OJ4
+Pichia anomala SC1
+Pichia fermentans CECT 11773
+Rhodotorula mucilaginosa OJ2
+Saccharomyces cerevisiae CECT 1351
+Saccharomyces cerevisiae L2056
+Saccharomyces cerevisiae OJ5
+Trichosporum asahii OJ3
+
+Sensory analysis
+Source
+
+Grape must
+
+Orange juice
+
+OJ
+OJ
+GM
+GM
+OJ
+SC
+OJ
+OJ
+CM
+CM
+OJ
+OJ
+
+4
+1
+2
+1
+3
+2
+5
+3
+3
+5
+2
+2
+
+3
+4
+2
+2
+1
+2
+5
+4
+1
+2
+1
+1
+
+GM – grape must, OJ – orange juice, SC – sugar cane, CM – commercial strains. Sensorial study of the product formed by fermentation of GM
+and OJ with 12 strains of yeast.
+
+299
+
+Alcoholic beverage improvement
+day, diluted to 10)5 or 10-6 in Ringer solution and
+spread in YPD media. The plates were incubated at
+29 C and colonies appeared in 2 days. Each of the
+selected colonies was separated and analysed. Microorganisms were ﬁrst diﬀerentiated morphologically and
+separated. They were then classiﬁed by PCR-RFLP of
+the ITS region and sequencing. Microorganisms from
+GM were isolated and classiﬁed in the same way after
+being collected aseptically and crushed in a sterile jar.
+The must obtained was fermented at 18 C for 20 days
+with 100 lg of ampicillin ml)1 and aliquots were taken
+each day. The samples for GM were taken from the
+Alpujarra area in Almerı́a (Spain). The isolation of
+Pichia anomala SC1 was carried out taking aliquots
+from each stage of industrial alcohol production (Montero Inc. Motril) from SC diluted to 10)5 or 10)6 in
+Ringer solution and spread in YPD media. The isolated
+colonies were separated and analysed.
+
+The standard solution was distilled and the recovery
+factor of each compound was determined. Methanol:
+standard concentration 3979.90 mg l)1, recovery factor
+3.75, acetaldehyde: standard concentration 3959.79
+mg l)1, recovery factor 2.41, ethyl acetate: standard
+concentration 4522.61 mg l)1, recovery factor 3.53, 1propanol: standard concentration 4040.20 mg l)1,
+recovery factor 1.61, 2-methyl-1-propanol: standard
+concentration 4070.35 mg l)1, recovery factor 2.37, 3methyl-1-butanol: standard concentration 4070.35
+mg l)1, recovery factor 4.01, 2-methyl-1-butanol: standard concentration 4115.58 mg l)1, recovery factor 3.63
+were supplied by Montero Inc., ethanol: standard
+concentration 1% (v/v), recovery factor 1.32 and acetoin: standard concentration 1000 mg l)1, recovery factor 3.92 by Aldrich Chemical Company. Samples were
+analysed in triplicate, and the mean result was divided
+by the concentration factor (4) and multiplied by the
+recovery factor of each compound.
+
+Microviniﬁcation
+The GM was treated with 0.4 g l)1 of bentonite for
+2 days at 4 C before fermentation and the OJ was
+centrifuged at 5000 · g for 10 min at 4 C. Both were
+then inoculated with 106 cell of each yeast strain ml)1
+and fermentations were carried out at 18  1 C for
+20 days. In both cases the bottles were covered with a
+sterile double gauze layer to avoid contamination.
+Fermentation was carried out in laboratory conditions
+using 12 pure yeast cultures. The fermented products
+were centrifuged and stored at 4 C until analysed.
+Sensory analysis
+The fermented products were analysed sensorially and
+chemically. The sensorial study was evaluated on a scale
+from 1 to 5, where one represented low intensity of
+ﬂavour and ﬁve a very high intensity. This evaluation
+was carried out by two professional wine tasters.
+Diﬀerent fermented products were presented in random
+order at 10 C in standard wine-tasting glasses, covered
+with a watch-glass to avoid the escape of components
+(ISO, 1977) (Ubeda-Iranzo et al. 2000). The results of
+this evaluation were only used to support the analytical
+results.
+Gas chromatography analysis
+Direct injection of the samples was not possible due to
+the residual sugar in the fermented products. Fermented
+OJ or GM was distilled from a volume of 100 to 25 ml.
+From the distillate 1 ll was injected into a Varian 3900
+gas chromatograph with a ﬂame ionization detector (220 C) and a Carbowax (Supelco) column (50 
+0:25mm). Both injector and detector were operated at
+220 C. The carrier gas was H2 (99.999%) at a ﬂow rate
+of 35 ml min)1. The column temperature was programmed from 40 to 120 C at a rise rate of 7 C min)1
+and 4 min at 120 C.
+
+Results and discussion
+From the GM isolation, 148 yeasts were analysed, but
+only Hanseniaspora uvarum GM1 and Metschnikowia
+zobellii GM2 were diﬀerent. These strains were isolated
+and classiﬁed by PCR-RFLP of the ITS region. Seven
+strains from OJ isolated in our laboratory were also
+used for the fermentation (Las Heras-Vázquez et al.
+2003). Finally we have included in the present work one
+strain isolated from SC (Table 1).
+From the sensory analysis several strains could be
+discarded due to their poor taste and aroma (Table 1).
+Hanseniaspora uvarum GM1, Mestchnikowia zobellii
+GM2 from GM, Trichosporum asahii OJ3, Hanseniaspora uvarum CECT 10885, Rhodotorula mucilaginosa
+OJ2 from OJ and the SC isolate (Pichia anomala SC1)
+gave the worst results when GM was fermented.
+Moreover, these yeasts were not able to consume all
+the sugar (Table 2). Saccharomyces cerevisiae CECT
+1357 and Saccharomyces cerevisiae OJ5 were able to
+consume all the sugar, but the sensory analysis did not
+produce very good results owing to their low capacity to
+produce higher alcohols (Table 2). The sommelier described the product as having a tasteless, ‘bakery-like’
+aroma.
+Small amounts of higher alcohols contribute positively to wine quality, while excessive amounts may detract
+from quality. Higher alcohols are important as precursors for ester formation during ageing (Gil et al. 1996).
+We have studied the potential of all the strains to
+ferment GM and OJ and produce the following volatile
+compounds which are involved in the wine ﬂavour:
+ethanol, acetaldehyde, ethyl acetate, methanol, n-propanol, 2-methyl-1-propanol, 1-butanol, 2-methyl-1-butanol, 3-methyl-1-butanol (Table 2). None of them
+produced methanol (data not shown).
+Several authors have shown the vital role of yeasts
+in the formation of aroma (Suomalainen 1971). To
+
+Ethyl acetate
+
+±
+±
+±
+±
+±
+
+0.10
+0.08
+17.12
+0.32
+2.94
+0
+0
+5.84 ± 0.27
+0
+0
+
+14.35 ± 0.21
+3.27 ± 0.14
+0.08 ± 0.00
+
+0
+0
+10.57 ± 0.25
+0
+1.94 ± 0.11
+
+0
+4.05 ± 0.64
+1.16 ± 0.09
+0
+
+1-propanol
+
+0.05 ± 0.00
+15.71 ± 0.15
+
+0.01
+0.01
+0.20
+0.05
+0.01
+
+± 0.01
+± 0.62
+± 0.10
+± 0.00
+
+0.11
+14.03
+2.23
+0.04
+
+Ethanola
+
+0
+0
+
+2.84 ± 0.06
+
+0
+0
+
+0
+0
+8.91 ± 0.25
+0
+2.16 ± 0.06
+
+0
+3.79 ± 0.07
+3.36 ± 0.15
+0
+
+2-methyl-1propanol
+
+0
+0
+
+25.03 ± 0.98
+
+0
+0
+
+0
+0
+97.09 ± 0.37
+0
+20.72 ± 0.31
+
+0
+20.02 ± 0.29
+8.98 ± 0.23
+0
+
+2-methyl-1butanol
+
+20.29 ± 0.16
+0
+
+103.34 ± 0.42
+
+0
+0
+
+0
+0
+152.06 ± 0.54
+0
+59.31 ± 0.16
+
+0
+109.32 ± 0.91
+27.87 ± 0.24
+0
+
+3-methyl-1butanol
+
+± 4.82
+± 10.11
+± 7.71
+
+± 9.50
+
+73.98 ± 2.57
+47.79 ± 2.14
+
+97.35 ± 7.75
+
+0
+0
+
+214.05
+0
+67.47
+51.51
+226.25
+
+0
+60.05 ± 2.47
+200.43 ± 9.90
+106.09 ± 22.71
+
+Acetoin
+
+3.48
+3.41
+
+3.58
+
+3.60
+3.74
+
+3.33
+3.29
+3.55
+3.72
+3.27
+
+3.27
+3.65
+3.53
+3.28
+
+pH
+
+27.81
+25.35
+
+0
+
+24.99
+0
+
+27.99
+25.70
+0.03
+24.53
+21.30
+
+25.85
+0
+13.83
+25.65
+
+Glucoseb
+
+Fermentation was carried out at 18 C for 20 days. Fermentation was in triplicate and, after distilling, each sample was injected in triplicate. The values are, therefore, the mean of nine injections and are
+expressed in mg l)1.
+a
+% (v/v).
+b
+residual sugars: g glucose/100 ml.
+
+GM non-fermented
+80.16 ± 2.71
+0
+Wine produced in wine-cellar
+431.61 ± 8.12
+50.19 ± 1.76
+Clavispora lusitaniae OJ6
+724.37 ± 2.46
+26.33 ± 1.27
+Hanseniaspora uvarum
+71.84 ± 4.29
+0
+CECT10885
+Hanseniaspora uvarum GM1
+90.06 ± 3.35
+0
+Metschnikowia zobellii GM2
+110.16 ± 3.27
+0
+Pichia anomala OJ4
+1311.33 ± 18.32
+9.67± 1.12
+Pichia anomala SC1
+0
+109.89 ± 2.56
+Pichia fermentans
+132.21 ± 2.17 164.18 ± 1.54
+CECT 11773
+Rhodotorula mucilaginosa OJ2 160.67 ± 5.39
+0
+Saccharomyces cerevisiae
+0
+0
+CECT 1357
+Saccharomyces cerevisiae
+344.09 ± 11.61 55.63 ± 1.96
+L 2056
+Saccharomyces cerevisiae OJ5
+0
+10.27 ± 0.54
+Trichosporum asahii OJ3
+0
+0
+
+Acetaldehyde
+
+Table 2. Concentration and comparative study of major volatile compounds present in GM and wine fermented in the wine-cellar by Saccharomyces cerevisiae L2056, and products obtained by
+microviniﬁcation with 12 yeast strains.
+
+300
+L. Mingorance-Cazorla et al.
+
+301
+
+Alcoholic beverage improvement
+determine this inﬂuence we compared the gas chromatography (GC) proﬁles of the must fermented with the 12
+yeasts in the laboratory with that of CM wine made
+from the same Macabeo grape variety (Table 2). The
+CM wine was produced with Saccharomyces cerevisiae
+L2056 in the wine cellar, and we repeated the fermentation in our laboratory. The GC proﬁle was quite
+similar except for acetaldehyde, whose increase in CM
+wine may be due to the oxidation of ethanol during the
+ageing process in the bottle. Moreover, in laboratory
+fermentation not all the glucose was consumed. Very
+similar aromatic products have been obtained after
+fermentation with Pichia fermentans CECT 11773,
+Clavispora lusitaniae OJ6 and Pichia anomala OJ5. This
+is in accordance with the sensorial study, where Pichia
+fermentans CECT 11773 scored 5 Clavispora lusitaniae
+OJ6 scored 4 and Pichia anomala OJ5 scored 3. The
+lower scores for Clavispora lusitaniae OJ6 and Pichia
+anomala OJ4 may be due to the abnormally high
+acetaldehyde concentration (724.4 and 1311.3 mg l)1
+respectively), which has an important eﬀect on the
+sensory results. Furthermore, the high level of isoamyl
+alcohol and isobutanol may have a negative impact on
+the organoleptic quality of the wine (Sipiczki et al.
+2001). Thus, Pichia fermentans CECT 11773 showed the
+best proﬁle to ferment GM, and although it has a low
+capacity to produce ethanol, it does have a high capacity
+to produce volatile compounds which increase the
+aromatic properties of wine in a mixed culture.
+Ethyl acetate has a pleasant aroma which turns
+vinegary above 150 mg l)1. Between 50 and 150 mg l)1
+the ester contributes to the hard character of the wine
+(Rapp & Mandery 1986). High concentrations of ethyl
+acetate do not improve the aroma of young wines, but
+these negative eﬀects are reduced during bottle ageing.
+For this reason Pichia fermentans CECT 11773 ethyl
+acetate concentration does not have a negative inﬂuence,
+and it can be used to improve wine aroma (Lilly et al.
+2000; Rojas et al. 2001).
+The sensory and chemical analyses indicate that the
+best products correspond to the samples with a greater
+concentration of higher alcohols, acetates and ethyl
+esters, which contribute to the aroma quality in young
+wine. This is in accordance with the study developed by
+Lema et al. (1996), where the contribution to the aroma
+quality by non-Saccharomyces yeasts was shown. The
+ratio between the contents of ester and higher alcohols is
+described as a good measure of the contribution of a
+given yeast to the aroma of wine (Mateo et al. 1991).
+
+Table 3 shows the rate obtained for Saccharomyces
+cerevisiae L2056, Pichia fermentans CECT 11773, Pichia
+anomala OJ4, and Clavispora lusitaniae OJ6. Pichia
+fermentans and Clavispora lusitaniae showed the highest
+values. There is no information about the production of
+volatile compounds by fermentation with Pichia fermentans and Clavispora lusitaniae, because they do not
+appear naturally in GM. However, this study suggests
+that they are able to produce a good product with low
+alcoholic grade. Pichia anomala OJ4 has been shown to
+be a good producer of ethanol and higher alcohols, but
+not of ethyl acetate. Nonetheless, Rojas et al. (2001)
+have shown that Pichia anomala 10590 has high capacity
+to esterify alcohols and suggested its possible use in
+mixed starters for wine production (Rojas et al. 2001).
+Several authors have described must fermentations by
+non-Saccharomyces yeasts: Hanseniaspora guillermondii,
+Kloeckera apiculata (Romano et al. 1992, 1997a; Zironi
+et al. 1993; Gil et al. 1996), Pichia anomala (Rojas et al.
+2001), Candida stellata, Torulaspora delbrueckii (Ciani &
+Maccarelli 1998), Candida valida, Brettanomyces bruxellensis, Rhodotorula aurantica, Dekkera intermedia
+(Mateo et al. 1991; Romano et al. 1997b), Candida
+cantarellii (Toro & Vázquez 2001), all from GM.
+However, we have developed an organoleptically equilibrated product by the fermentation of GM with Pichia
+fermentans, Pichia anomala and Clavispora lusitaniae
+yeasts originally present in other sources such as OJ (Las
+Heras-Vázquez et al. 2003; Arias et al. 2002), lager
+breweries (van der Aa Kühle & Jespersen 1998) or
+bakeries (Arlorio et al. 1999).
+When OJ was used to produce an alcoholic beverage,
+a low production of higher alcohols was detected
+(Table 4). This low concentration of higher alcohols
+may be due to an insuﬃcient amino acid concentration
+in OJ to produce the same quantity as in the GM
+fermentation (Zoecklein et al. 2001). The ideal quantity
+of these compounds is between 140 and 210 mg l)1, and
+the quantity of products formed from OJ is lower in all
+cases (Table 5). In the sensory analysis Pichia fermentans CECT 11773, Rhodotorula mucilaginosa OJ2 and
+Hanseniaspora uvarum CECT 10885 produced a very
+good taste product. None of the yeasts were able to
+consume all the OJ sugar, increasing the instability of
+the ﬁnal product. Only Saccharomyces cerevisiae L2056
+was able to metabolize all the sugar and produce the
+highest alcohol grade (Table 4), but the taste was rotten,
+obtaining a score of only two in the sensory analysis
+(Table 1). The presence of methanol might be expected
+
+Table 3. Production of ethyl acetate, higher alcohols and the ratio between the ester and alcohol contents (E/A).
+
+Wine produced in brewery
+Clavispora lusitaniae OJ6
+Pichia anomala OJ4
+Pichia fermentans CECT 11773
+Saccharomyces cerevisiae L2056
+
+Ethyl Acetate (mg l)1)
+
+Higher alcohols (mg l)1)
+
+E/A
+
+50.19
+26.33
+9.67
+163.18
+55.63
+
+137.18
+41.37
+268.63
+84.13
+136.99
+
+0.37
+0.64
+0.04
+1.95
+0.41
+
+0
+0
+49.28 ± 0.56
+
+16.06 ± 0.40
+0
+12.60 ± 0.25
+60.86 ± 0.18
+13.87 ± 0.25
+13.09 ± 0.78
+7.34 ± 0.18
+
+0
+0
+0
+
+53.19 ± 1.92
+0
+0
+
+0
+0
+0
+0
+0
+0
+53.09 ± 0.27
+
+43.55 ± 1.45
+58.85 ± 1.21
+0
+
+Ethyl acetate
+
+±
+±
+±
+±
+±
+±
+±
+
+0.24
+0.20
+0.96
+0.28
+0.20
+0.86
+0.55
+
+43.45 ± 0.40
+88.14 ± 1.59
+60.05 ± 0.84
+
+69.97
+35.52
+50.91
+22.35
+22.53
+67.12
+27.38
+
+183.03 ± 19.90
+73.83 ± 1.37
+99.25 ± 0.65
+
+Methanol
+
+±0.01
+± 0.07
+±0.01
+± 0.01
+± 0.10
+±0.02
+± 0.03
+
+2.94 ±0.06
+5.27 ±0.08
+1.02 ± 0.03
+
+3.01
+1.51
+1.45
+0.11
+3.75
+1.29
+1.03
+
+0.74 ± 0.03
+1.68 ± 0.05
+3.92 ± 0.06
+
+Ethanola
+
+0
+2.064 ± 0.08
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+
+1-propanol
+
+0
+0
+1.59 ± 0.04
+
+0
+0
+0
+0
+1.13 ± 0.08
+0
+1.52 ± 0.09
+
+0
+1.89 ± 0.04
+0
+
+2-methyl-1propanol
+
+0
+18.5 ± 0.61
+0
+
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+
+2-methyl-1butanol
+
+± 0.36
+
+± 0.28
+± 0.32
+± 0.50
+
+16.92 ± 0.45
+62.92 ± 1.26
+8.98 ± 0.41
+
+6.29
+5.37
+9.91
+0
+0
+9.55
+0
+
+0
+12.75 ± 0.4
+0
+
+3-methyl-1butanol
+
+256.59 ± 15.85
+266.11 ± 8.05
+271.19 ± 2.28
+
+415.53 ± 17.46
+142.18 ± 6.60
+76.33 ± 5.62
+379.39 ± 8.37
+192.45 ± 10.25
+415.35 ± 17.75
+352.98 ± 5.98
+
+0
+457.40 ± 42.28
+0
+
+Acetoin
+
+4.00
+3.81
+3.90
+
+3.88
+3.73
+3.65
+3.92
+3.81
+3.81
+3.62
+
+3.74
+3.81
+3.84
+
+pH
+
+1.96
+0
+5.43
+
+1.87
+5.73
+4.99
+6.00
+1.76
+4.12
+5.72
+
+6.32
+4.79
+0.54
+
+Glucoseb
+
+Fermentation was carried out at 18 C for 20 days. Fermentation was in triplicate and after distilling each sample was injected in triplicate. The values are, therefore, the mean of nine injections and are
+expressed in mg l)1.
+a
+% (v/v).
+b
+residual sugars: g glucose/100 ml.
+
+Orange juice non-fermented
+Clavispora lusitaniae OJ6
+Hanseniaspora uvarum
+CECT 10885
+Hanseniaspora uvarum GM1
+Metschnikowia zobellii GM2
+Pichia anomala OJ4
+Pichia anomala SC1
+Pichia fermentans CECT 11773
+Rhodotorula mucilaginosa OJ2
+Saccharomyces cerevisiae
+CECT 1357
+Saccharomyces cerevisiae L 2056
+Saccharomyces cerevisiae OJ5
+Trichosporum asahii OJ3
+
+Acetaldehyde
+
+Table 4. Concentration and comparative study of major volatile compounds present in OJ and in the products obtained by microviniﬁcation with 12 yeast strains using OJ.
+
+302
+L. Mingorance-Cazorla et al.
+
+303
+
+Alcoholic beverage improvement
+Table 5. Production of ethyl acetate, higher alcohols and the ratio between the ester and alcohol contents (E/A).
+
+Clavispora lusitaniae OJ6
+Hanseniaspora uvarum CECT10885
+Hanseniaspora uvarum GM1
+Pichia anomala OJ4
+Pichia fermentans CECT 11773
+Rhodotorula mucilaginosa OJ2
+Saccharomyces cerevisiae CECT1357
+Saccharomyces cerevisiae L2056
+
+Ethyl acetate (mg l)1)
+
+Higher alcohols (mg l)1)
+
+E/A
+
+60.86
+49.28
+16.06
+12.60
+13.87
+13.09
+7.34
+0
+
+0
+0
+6.29
+9.91
+1.13
+9.55
+1.52
+16.92
+
+–
+–
+2.55
+1.22
+12.27
+1.37
+4.83
+–
+
+to be problematic in OJ fermentation, since the pectin
+concentration is higher in OJ than in GM (Zoecklein
+et al. 2001). However the methanol level in this new
+beverage is not a problem, as it is lower than that of
+wine, which is in the range of 100–200 mg l)1 (Kourkoutas et al. 2002).
+It is interesting to determine the acetoin concentration
+as it is involved in wine bouquet, particularly in
+apiculate species (Romano & Suzzi 1996). Acetoin levels
+produced by Saccharomyces cerevisiae in GM fermentation are in accordance with those described by
+Romano & Suzzi (1993): from non-detectable amounts
+to 194.6 mg l)1. Thus Saccharomyces cerevisiae L 2056
+may be considered as having a ‘high acetoin production’
+phenotype (97.35 mg l)1) which is chosen to confer
+desirable ﬂavour of the ﬁnal product. This is, in fact, the
+strain used in the wine-cellar. Although Saccharomyces
+cerevisiae OJ5 is also a good acetoin producer, it
+produces a smaller amount of higher alcohols than
+L2056. The level of acetoin produced by other nonSaccharomyces strains is high, with the exception of
+Metschnikowia zobellii GM2 and Rhodotorula mucilaginosa OJ2. Moreover, neither of these strains are very
+good candidates to ferment GM, due to their low level
+of production of alcohol and other compounds. The low
+acetoin concentration in the OJ fermentation shows that
+the level of acetoin produced depends on the media
+(Romano & Suzzi 1996). It would also be interesting to
+investigate whether the high acetoin concentration in
+GM is due to induction of the enzymes involved in its
+production, or because acetoin is not converted and
+therefore accumulates.
+The present study has found some yeasts that could be
+used to improve the body of the wine, increasing the
+concentration of ethyl acetate and higher alcohols.
+Furthermore, we have used these yeasts to develop a
+new product from OJ with low alcoholic grade and a
+very fresh taste (Mingorance-Cazorla et al. 1999).
+Acknowledgements
+This work was supported by Grants FIT-010000-2001177 from Programa Nacional de Biotecnologı́a and
+SAF-2001 2067 from Ministerio de Ciencia y Tecnologı́a, Spain.
+
+References
+Arias, C.R., Burns, J.K., Friedrich, L.M., Goodrich, R.M. & Parish,
+M.E. 2002 Yeast species associated with orange juice: evaluation of
+diﬀerent identiﬁcation methods. Applied and Environmental Microbiology 68, 1955–1961.
+Arlorio, M., Coı̈sson, J.D. & Martelli, A. 1999 Identiﬁcation of
+Saccharomyces cerevisiae in bakery products by PCR ampliﬁcation
+of the ITS region of ribosomal DNA. European Food Research
+Technology 209, 185–191.
+Avakyants, S.P., Rastyannikov, E.G., Chernayaga, B.S. & Navrotskii,
+V.J. 1981 Dhromato-mass-spektrometricheskoe issledovanie letuchikh vesnchestv vina. Vino del Vinograd 41, 50–53.
+Ciani, M. & Maccarelli, F. 1998 Oenological properties of nonSaccharomyces yeasts associated with wine-making. World Journal
+of Microbiology and Biotechnology 14, 199–203.
+Gil, J.V., Mateo, J.J., Jiménez, M., Pastor, A. & Huerta, T. 1996
+Aroma compounds in wine as inﬂuenced by apiculate yeasts.
+Journal of Food Science 61, 1247–1249.
+Kourkoutas, Y., Koutinas, A.A., Kanallaki, M., Banat, I.M. &
+Marchant, R. 2002 Continuous wine fermentation using a psychrophilic yeast immobilized on apple cuts at diﬀerent temperatures.
+Food Microbiology 19, 127–134.
+Las Heras-Vázquez, F.J., Mingorance-Cazorla, L., Clemente-Jiménez,
+J.M. & Rodrı́guez-Vico, F. 2003 Identiﬁcation of yeast species
+from orange fruit and juice by RFLP and sequence analysis of the
+5.8S rRNA gene and internal transcribed spacers. FEMS Yeast
+Research (accepted to publish FEMSYR reference 1053, Editorial
+reference: FEMSYR-069).
+Lema, C., Garcı́a-Jares, C., Orriols, I. & Angulo, L. 1996 Contribution
+of Saccharomyces and non-Saccharomyces populations to the
+production of some components of Albariño winte aroma.
+American Journal of Enology and Viticulture 47, 206–216.
+Lilly, M., Lambrechts, M.G. & Pretorius I.S. 2000 Eﬀect of increased
+yeast alcohol acetyltransferase activity on ﬂavor proﬁles of wine
+and distillates. Applied and Environmental Microbiology 66, 744–
+753.
+Mateo, J.J., Jiménez, M., Huerta, T. & Pastor, A. 1991 Contribution
+of diﬀerent yeasts isolated from musts of monastrell grapes to the
+aroma of wine. International Journal of Food Microbiology 14, 153–
+160.
+Mingorance-Cazorla, L., Molina-Ruiz J.M., Clemente-Jiménez J.M.,
+Las Heras-Vázquez, F.J. & Rodrı́guez-Vico, F. 1999 Procedimiento para la obtención de un producto derivado del zumo de
+naranja que implica la modiﬁcación de su composición quı́mica
+por un proceso de fermentación dirigida y natural mediante el
+empleo de levaduras alcoholeras. Patente Española No. 9902315.
+Rapp, A. & Mandery, H. 1986 Wine aroma. Experientia 42, 873–
+884.
+Rojas, V., Gil, J.V., Piñaga, F. & Manzanares, P. 2001 Studies on
+acetate ester production by non-Saccharomyces wine yeasts.
+International Journal of Food Microbiology 70, 283–289.
+Romano, P. & Suzzi, G. 1993 Acetoin production in Saccharomyces
+cerevisiae wine yeasts. FEMS Microbiology Letters 108, 23–26.
+
+304
+Romano, P. & Suzzi, G. 1996 Origin and production of acetoin during
+wine yeast fermentation. Applied and Environmental Microbiology
+62, 309–315.
+Romano, P., Suzzi, G., Comi G. & Zironi R. 1992 Higher alcohol and
+acetic acid production by apiculate wine yeasts. Journal of Applied
+Bacteriology 73, 126–130.
+Romano, P., Suzzi, G., Comi, G., Zironi, R. & Maifreni, M. 1997a
+Glycerol and other fermentation products of apiculate wine yeasts.
+Journal of Applied Microbiology 82, 615–618.
+Romano, P., Suzzi, G., Domizio, P. & Fatichenti, F. 1997b Secondary products formation as a tool for discriminating nonSaccharomyces wine strains. Antonie van Leeuwenhoek 71, 239–242.
+Sipiczki, M., Romano, P., Lipani, G., Miklos, I. & Antunovics, Z.
+2001 Analysis of yeasts derived from natural fermentation in a
+Tokaj winery. Antonie van Leeuwenhoek 79, 97–105.
+Suárez-Lepe, J.A. 1997 Levaduras vı´nicas. Funcionalidad y uso en
+bodega. pp. 121-149. Mundi-Prensa Eds. ISBN 84-7114-685-1.
+Suomalainen, H. 1971 Yeast and its eﬀect on the ﬂavour of alcoholic
+beverages. Journal of the Institute of Brewing 77, 164–177.
+
+L. Mingorance-Cazorla et al.
+Toro, M.E. & Vázquez, F. 2001 Fermentation behaviour of controlled
+mixed and sequential cultures of Candida cantarellii and Saccharomyces cerevisiae wine yeasts. World Journal of Microbiology and
+Biotechnology 18, 347–354.
+Ubeda-Iranzo, J.F., González-Magaña, F. & González-Viñas, M.A.
+2000 Evaluation of the formation of volatiles and sensory
+characteristics in the industrial production of white wines using
+diﬀerent commercial strains of the genus Saccharomyces. Food
+Control 11, 143–147.
+van der Aa Kühle, A. & Jespersen, L. 1998 Detection and identiﬁcation of wild yeasts in lager breweries. International Journal of Food
+Microbiology 43, 205–213.
+Zironi, R., Romano, P., Suzzi, G., Battistutta, F. & Comi, G. 1993
+Volatile metabolites produced in wine by mixed and sequential
+cultures of Hanseniaspora guilliermondii or Kloeckera apiculata and
+Saccharomyces cerevisiae. Biotechnology Letters 15, 235–238.
+Zoecklein, B.W., Fugelsang, K.C., Gump, B.H. & Nury, F.S. 2001
+Análisis y producción de vino. ed. Acribia, S.A. pp. 101–119. ISBN
+87-200-0936-9.
+
+

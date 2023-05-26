@@ -1,0 +1,1047 @@
+Journal of Applied Microbiology 2005, 98, 136–144
+
+doi:10.1111/j.1365-2672.2004.02434.x
+
+Molecular and technological approaches to evaluate strain
+biodiversity in Hanseniaspora uvarum of wine origin
+A. Capece1, C. Fiore1, A. Maraz2 and P. Romano1
+1
+
+Department of Bi.Di.Baf, University of Basilicata, Potenza, Italy, and 2Department of Microbiology and Biotechnology, Faculty of Food
+Science, Budapest University of Economic Sciences and Public Administration, Budapest, Hungary
+
+2004/0593: received 25 May 2004, revised and accepted 26 July 2004
+
+ABSTRACT
+A . C A P E C E , C . F I O R E , A . M A R A Z A N D P . R O M A N O . 2004.
+
+Aims: The characterization by molecular and physiological methods of wild apiculate strains, isolated from
+Aglianico del Vulture grape must.
+Methods and Results: The restriction analysis of 18S rDNA allowed the identification of strains at the species
+level, which were predominantly Hanseniaspora uvarum. The RAPD analysis and the evaluation of technological
+traits, such as the metabolic and enzymatic activities, were useful to evaluate the polymorphism of this species.
+Conclusions: The RAPD analysis clustered the wild H. uvarum strains in four main genetic groups and a very
+high phenotypic variability confirmed this genetic polymorphism. The technological variables, which determined
+the strain biodiversity differed significantly, demonstrating that these technological traits are strain dependent. A
+certain correlation was found between the strain behaviour and its isolation zone, indicating the influence of the
+environment on the genetic patrimony of the population.
+Significance and Impact of the Study: The genetic and technological biodiversity recorded among H. uvarum
+wild strains represents the basis for organizing a collection of apiculate strains exhibiting oenological characteristics
+at different levels, such as high/low production of secondary compounds, and, therefore, potentially useful for a
+selection programme.
+Keywords: enzymatic and metabolic activities, Hanseniaspora uvarum, PCR-RFLP analysis, RAPD-PCR analysis,
+strain biodiversity.
+
+INTRODUCTION
+Although Saccharomyces cerevisiae and related wine species
+are widely considered as the most important agents of
+alcoholic fermentation, there is increasing knowledge that
+non-Saccharomyces yeasts, which dominate the early fermentation stages, contribute significantly to wine fermentation and quality (Heard 1999; Romano 2003).
+Quantitative studies on yeasts participating in grape juice
+fermentation showed that non-Saccharomyces species survive
+at significant levels for longer periods during fermentation
+Correspondence to: Angela Capece, Department of Bi.Di.Baf, University of
+Basilicata, Viale dell’Ateneo Lucano, 10 – 85100 Potenza, Italy (e-mail:
+capeceang@hotmail.com).
+
+than previously thought and their growth was not suppressed in inoculated fermentations with selected cultures of
+S. cerevisiae (Schütz and Gafner 1993; Romano 1997; Egli
+et al. 1998). The role of non-Saccharomyces yeasts in
+winemaking has been emphasized only recently, leading to
+the investigation of the potential effect of different strains of
+non-Saccharomyces species on the organoleptic characteristics of wine (Lambrechts and Pretorius 2000; Romano et al.
+2003).
+Of these yeasts, species of the genus Hanseniaspora were
+often dominant during the early phase of grape must
+transformation and consequently numerous studies in the
+last decade have been developed aiming to evaluate the
+effects of apiculate strains on the quality of the final
+fermentation product (Romano et al. 1997, 2000; Comi et al.
+ª 2004 The Society for Applied Microbiology
+
+H. UVARUM WINE STRAINS BIODIVERSITY
+
+2001). In this context, determining the degree of variability
+of apiculate strain populations is of practical interest.
+Traditionally, the identification of yeast species has been
+based on conventional physiological identification (Kurtzman and Fell 1998). These methods utilize mostly assimilation tests of different carbon and nitrogen compounds,
+fermentation tests and morphological traits, such as the
+difference in the shape and number of ascospores. These
+techniques are labour-intensive and can give ambiguous
+results, because of yeast adaptation to the different environments. Another disadvantage of these methods is their
+inability to discriminate among strains within a species. To
+avoid doubtful identifications or misidentifications, genetic
+methods, which generate results independent of environmental conditions, have been applied and several studies
+reported the usefulness of molecular techniques in identifying wine yeast species and in discriminating strains
+(Baleiras Couto et al. 1996; Cadéz et al. 2002; Caruso et al.
+2002; Capece et al. 2003). Esteve-Zarzoso et al. (1999)
+evaluated the use of restriction fragments length polymorphism (RFLP) of rDNA amplified by polymerase chain
+reaction (PCR) to generate a database of restriction patterns
+for the routine identification of yeast species most frequently
+isolated from food; Guillamón et al. (1998) used the same
+methods to identify wine yeast species.
+The molecular techniques employed to differentiate
+strains at intraspecific level include mtDNA restriction
+analysis (Guillamón et al. 1994; Comi et al. 2000), comparison of chromosomal DNA profiles (Cardinali et al. 1995),
+and analysis of random amplified polymorphic DNA by
+PCR (RAPD-PCR) (Baleiras Couto et al. 1994; Quesada and
+Cenis 1995). Most of these techniques have been used to
+characterize S. cerevisiae strains. In the case of Hanseniaspora
+strains, analysis of chromosomal profiles has been used to
+differentiate H. uvarum wine strains (Schütz and Gafner
+1993; Vaughan-Martini et al. 2000).
+The aim of this work was to study Hanseniaspora isolates
+of the same wine origin, by determining the variability of
+technological and molecular traits, in order to emphasize the
+genetic polymorphism within this genus.
+
+MATERIALS AND METHODS
+Yeast strains
+In this study 57 strains, isolated from Aglianico del Vulture
+grape must were used. These strains were isolated from two
+different parts in the production area of this wine: the
+strains coded from H1 to H21 were isolated from Rionero
+zone (I), whereas the others (H22–H57) from Ripacandida
+zone (II).
+The isolation was carried out on grapes from different
+plants in same vineyard for each part. The grapes were
+
+137
+
+collected aseptically from the vines and then crushed in
+laboratory; grape must samples were diluted and plated on
+lysine medium in order to obtain single colonies. The
+plates were then incubated at 25C and 10 colonies were
+isolated from each sample. Only the strains identified
+as apiculate yeasts by morphological and biochemical
+analysis, according to Kurtzman and Fell (1998), were
+selected.
+In addition, type strains of Hanseniaspora spp. occurring
+in wine (H. uvarum, H. guilliermondii, H. occidentalis,
+H. osmophila and H. vineae) and seven H. uvarum reference
+strains, all obtained from Centraalbureau voor Schimmelcultures, were used (CBS314, CBS8130, CBS6617,
+CBS5934, CBS2587, CBS2589, CBS5073 and CBS5074
+for H. uvarum; CBS2591 for H. guilliermondii; CBS2592
+for H. occidentalis; CBS106 for H. osmophila; CBS8031 for
+H. vineae).
+Apiculate strains were maintained on slants of YPD (1%
+yeast extract; 2% peptone; 2% glucose; 2% agar) at 4C.
+Isolation of DNA
+DNA isolation was performed according to the method
+described by Capece et al. (2003).
+PCR-RFLP analysis of 18S rDNA
+The primers used for the amplification of 18S rDNA and
+ITS regions, including the 5Æ8 S fragment, were NS3
+(GCAAGTCTGGTGCCAGCAGCC) and ITS4 (TCCTCCGCTTATTGATATGC) (White et al. 1990).
+The final volume of the PCR reaction mixture was 50 ll
+containing 100 ng of genomic DNA, 5 ll of 10X reaction
+buffer (Promega, Madison, WI, USA), 5 ll of MgCl2
+(25 mmol l)1), 0Æ5 ll of 10 mmol l)1 deoxynucleoside triphosphate mixture, 20 ng of a pair of primers and 0Æ85 ll of
+Taq polymerase (5 U ll)1, Promega). The PCR conditions
+were as follows: an initial denaturation step of 5 min at
+95C, followed by 35 cycles at 95C for 30 s, at 61Æ5C for
+30 s and at 72C for 3 min. The last extension step was
+performed at 72C for 7 min and the samples were cooled
+down to 4C.
+The PCR products were analysed on a 1% (w/v) agarose
+gel in TBE buffer (Tris–borate 0Æ045 M, EDTA 0Æ001 M,
+pH 8) and subsequently submitted to restriction analysis by
+testing the following five enzymes: RsaI, HaeIII, ScrfI, MspI
+and DdeI. Digestions were performed in a final volume of
+10 ll, containing 3 ll of amplified rDNA, 1 ll of specific
+enzyme buffer and 2 U of each enzyme, by adding water
+until the final volume. The reaction mixture was incubated
+overnight at the temperature specific for each enzyme and
+the restriction fragments were separated on a 1Æ5% (w/v)
+agarose gel.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+138 A . C A P E C E ET AL.
+
+RAPD-PCR analysis
+
+Assay for proteolytic activity
+
+The sequence of the P80 primer used was 5-CGCGTGCCCA-3. The PCR reaction was performed in 30 ll
+reaction mixture containing 50 ng ll)1 of DNA template,
+3 ll of 10X reaction buffer (Promega), 3 ll of MgCl2
+25 mmol l)1, 0Æ3 ll of 10 mmol l)1 deoxynucleoside triphosphate mixture, 1Æ5 ll of primer 20 lmol l)1 and 0Æ5 ll
+of Taq DNA polymerase (5 U ll)1, Promega).
+The PCR conditions were as follows: denaturation at 94C
+for 5 min, followed by 35 cycles of denaturation at 94C for
+1 min, annealing at 40C for 1 min and polymerization at
+72C for 2 min. The polymerization was completed by one
+additional cycle of 7 min at 72C. On some strains the
+amplification was performed in duplicate on the same colonies
+in order to assess the reproducibility of the patterns obtained.
+The PCR products were separated on 1Æ5% agarose gel in
+TBE buffer (Tris–borate 0Æ045 M, EDTA 0Æ001 M, pH 8) and
+the DNA bands were sized against the DNA molecular weight
+marker VI (Roche Diagnostics, Milan, Italy). The RAPDPCR profiles obtained were analysed using molecular Analyst
+Fingerprint 2Æ0 (Bio-Rad, Milan, Italy). Similarities among
+combined fingerprints were calculated using the Pearson
+product–moment correlation coefficient. Cluster analysis of
+the pairwise values was generated using UPGMA algorithm.
+
+The proteolytic activity of H. uvarum wild strains was
+estimated by digestion of casein, following the method
+reported by Rosi et al. (1987). Yeasts were grown up
+overnight at 25C in 5 ml of simulated grape must medium
+(SGM), composed of 1Æ7 g l)1 yeast nitrogen base (Difco)
+without aminoacids and ammonium sulphate, 5 g l)1 tartaric acid, 5 g l)1 D-L-malic acid, 0Æ2 g l)1 citric acid, 2 g l)1
+casamino acids (Difco), 100 g l)1 glucose, pH 3Æ2. For each
+strain a preculture of 200 ll was inoculated in 10 ml SGM
+medium, supplemented with 1% (w/v) of casein. The
+samples were incubated at 26C for 14 days and the
+proteolytic activity was determined as reported by Charoenchai et al. (1997).
+
+Assay for b-glucosidase and b-xylosidase
+activities
+Hanseniaspora uvarum wild strains were tested for enzymatic
+activities of oenological interest, such as b-glucosidase and
+b-xylosidase activities.
+Yeasts were grown overnight in 25 ml GPY medium
+(glucose 40 g l)1; peptone 5 g l)1; yeast extract 5 g l)1; pH
+5Æ5) at 25C in an orbital shaker at 200 rev min)1. Cells were
+harvested by centrifugation and washed twice with sterile
+saline solution (0Æ85%, w/v, NaCl) to removal residual
+nutrients. The washed cells (106) were inoculated for 2 days
+at 25C in a medium specific for the two enzymatic activities.
+The b-glucosidase activity was determined in a medium
+containing 1Æ7 g l)1 yeast nitrogen base (Difco) (without
+aminoacids and ammonium sulphate), 5 g l)1 ammonium
+sulphate, 5 g l)1 yeast extract, 5 g l)1 peptone, 10 g l)1
+glucose, pH 5Æ5. For the determination of b-xylosidase
+activity the same medium was used, substituting glucose with
+xylose. The ingredients were dissolved in McIlvaine buffer
+(100 mmol l)1 citrate-phosphate buffer, pH 5Æ0).
+b-Glucosidase activity was measured using q-nitrophenyl-b-D-glucosidase (q-NPG, Sigma) as substrate, following
+the method described by Manzanares et al. (2000).
+b-Xylosidase activity was measured using q-nitrophenylb-D-xylosidase (q-NPX, Sigma) as substrate, following the
+method described by Manzanares et al. (1999).
+
+Microvinification and analytical determination
+Red grape must from Aglianico del Vulture cultivar,
+originating from a big cellar in the production area, was used
+to determine the strain capacity to produce secondary
+compounds. This grape must consisted of 19% (w/v)
+fermentable sugars, 0Æ70% (w/v) titrable acidity, pH 3Æ15.
+Fermentations were carried out in 130-ml Erlenmeyer
+flasks filled with 100 ml of grape must, autoclaved at 100C
+for 20 min. Each sample was inoculated with 104 cells per ml
+from a preculture grown for 48 h in the same must. The
+grape must surface was covered with a thin layer of sterilized
+paraffin oil in order to avoid air contact. The fermentation of
+the inoculated grape must went on for 6 days, without the
+total consumption of sugars. The determination of weight
+loss was used as a parameter to follow the fermentation
+process. The samples were incubated at 25C until the CO2
+evolution ceased, then refrigerated for 1 day at 2C, racked
+and stored at )20C until required for analysis.
+Higher alcohols (n-propanol, isobutanol, isoamyl alcohol),
+acetic acid, acetaldehyde and ethyl acetate were analysed by
+injecting 2 ll of fermented grape must into a 180 cm ·
+2 mm glass column packed with 80/120 Carbopak B/5%
+Carbowax 20 M (Supelco, Manchester, UK). A CARLO
+ERBA Fractovap series 2350 gas chromatograph, equipped
+with a flame ionization detector and linked to a software
+Cromatoplus (Shimadzu, Milan, Italy) was used. The
+column was run from 60 to 200C at a rise rate of 6C per
+min. The carrier gas was nitrogen at a flow rate of
+20 ml min)1. Each sample was preloaded with n-butanol
+at a concentration of 100 mg l)1.
+Statistical analysis
+Data regarding the metabolic and enzymatic activities
+exhibited by the H. uvarum strains were evaluated statistically, by converting these data into a dimensional values.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+H. UVARUM WINE STRAINS BIODIVERSITY
+
+Each metabolic and enzymatic activity was considered low,
+middle or high and each strain was evaluated as a function of
+its behaviour for all the parameters considered, assigned the
+value 0 to the parameters exhibited by the strains at the low
+level, value 1 at middle levels, value 2 at the high level.
+Similarity values were calculated using the Morisita coefficient and the dendrogram was generated using Paired
+Group algorithm by SAS software (SAS Institute, Cary,
+NC, USA, 1990).
+
+M
+
+1
+
+2
+
+3
+
+4
+
+139
+
+5
+
+653 bp
+
+298 bp
+
+RESULTS
+PCR-RFLP analysis of 18S rDNA
+All the wild strains and the type strains of Hanseniaspora
+wine species were submitted to the amplification and
+restriction analysis of 18S rDNA, a technique useful for
+the identification at the species level. The preliminary
+analysis was performed on the type strains. The size of the
+amplified fragment was the same (approx. 1900 bp) for all
+the species tested (data not shown), therefore in order to
+differentiate the Hanseniaspora species, the amplification was
+followed by restriction analysis with five restriction endonucleases. The restriction patterns obtained are reported in
+Table 1, where each endonuclease is indicated by the
+corresponding capital letter and the different patterns
+obtained are numbered in succession. By analysing these
+data, only the DdeI enzyme generated restriction patterns
+specific for each Hanseniaspora species tested. The restriction analysis with the other endonucleases did not allow to
+differentiate all the species. In particular, H. uvarum and
+H. guilliermondii yielded the same restriction profile with the
+other four enzymes tested; in addition, the MspI enzyme did
+not have restriction sites on the amplified 18S rDNA
+fragment for these species.
+Figure 1 reports the restriction patterns obtained with the
+DdeI enzyme. This enzyme was used to identify 57
+Hanseniaspora wine isolates. DdeI restriction patterns of 52
+strains showed the same profile as the type strain of
+H. uvarum, whereas five strains showed the profile exhibited
+Table 1 Patterns generated by PCR-RFLP analysis on Hanseniaspora
+wine species
+Restriction enzymes
+Type strains
+
+HaeIII
+
+MspI
+
+RsaI
+
+ScrfI
+
+DdeI
+
+H.
+H.
+H.
+H.
+H.
+
+H1
+H2
+H3
+H4
+H2
+
+M1
+M2*
+M1
+M1
+M2*
+
+R1
+R2
+R3
+R3
+R2
+
+S1
+S2
+S3
+S1
+S2
+
+D1
+D2
+D3
+D4
+D5
+
+osmophila
+guilliermondii
+occidentalis
+vineae
+uvarum
+
+*MspI has no restriction sites in 18S rDNA region of these species.
+
+Fig. 1 PCR-RFLP analysis of 18S rDNA region in Hanseniaspora
+type strains with the restriction enzyme DdeI. Lane 1:
+H. osmophila CBS 106; lane 2: H. guilliermondii CBS 2591; lane 3:
+H. occidentalis CBS2592; lane 4: H. vineae CBS 8031; lane 5: H. uvarum
+CBS 314. Lane M: Molecular Weight Marker VI (Roche Diagnostics)
+
+by H. guilliermondii type strain. In Fig. 2 the profiles of some
+H. uvarum isolates are presented together with some strains
+exhibiting restriction patterns typical of H. guilliermondii.
+RAPD-PCR analysis
+As the majority of wild strains (about 90%) belonged to the
+species H. uvarum, the work was focused on the molecular
+and technological characterization, by evaluating enzymatic
+activities and production of some secondary compounds.
+In order to evaluate the genetic variability of this species,
+the 52 wild strains, identified as H. uvarum, and seven
+H. uvarum reference strains were submitted to RAPD-PCR
+analysis with the primer P80. Amplification products
+obtained by RAPD-PCR are reported in Fig. 3, showing
+the dendrogram based on numerical analysis of the PCR
+patterns derived from amplification with this primer. At a
+similarity level <20%, five groups and one single strain
+(H53) were identified. The groups C, D and E can be
+subdivided in further subgroups and the strains in these
+subgroups were similar in the range around 70%. Clusters A
+and B included five of the seven H. uvarum reference strains;
+of the other reference strains one were in the cluster C and
+one in cluster D. Cluster E did not include reference strains.
+The strains in clusters C, D and E clustered according to
+their origin. In fact, H. uvarum strains from Aglianico del
+Vulture zone I belonged, for the majority, to group C,
+whereas strains from Aglianico del Vulture zone II were
+subdivided in clusters D and E. The D group represented
+the most homogeneous cluster, including strains which were
+isolated from the same area, with the exception of the
+reference strain CBS2587. These results seem to indicate
+the existence of a high genetic polymorphism among the
+H. uvarum wild and reference strains.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+140 A . C A P E C E ET AL.
+
+M
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15 16 17 18 M
+
+653 bp
+
+298 bp
+
+Fig. 2 PCR-RFLP analysis of 18S rDNA
+region of some apiculate wild strains with the
+restriction enzyme DdeI. Lane M: Molecular
+Weight Marker VI (Roche Diagnostics); lanes
+1–18: wild apiculate strains H1, H19, H3, H8,
+H9, H11, H12, H13, H16, H17, H18, H21,
+H24, H28, H32, H55, H45, H50
+
+Technological characterization of H. uvarum
+strains
+The 52 strains of H. uvarum were further characterized for
+some parameters of technological interest in oenology, in
+order to ascertain the existence of a significant phenotypic
+variability, as a result of the genetic polymorphism of strains
+studied. The strains were tested for proteolytic, b-glucosidase and b-xylosidase activities, as well as for the capacity to
+produce higher alcohols, acetic acid, acetaldehyde and
+acetoin during grape must fermentation. The data obtained
+by technological characterization were elaborated and submitted to cluster analysis. In Fig. 4 the resulting dendrogram can be seen. At a similarity level <0Æ5 two main
+groups, PA and PB, were identified; these groups could be
+further subdivided in subgroups PA1 and PA2 and PB1 and
+PB2. Table 2 reports the average and range values for
+enzymatic and metabolic activities, calculated on all the
+strains and separately for the different groups phenotypically individuated. By analysing the data reported in
+Table 2, the variables which differentiated the strains in
+groups were acetic acid levels and b-xylosidase activity. The
+majority of the strains grouping in PA were characterized by
+high acetic acid production levels and low b-xylosidase
+activity. In particular, the subgroup PA1 included strains
+exhibiting the highest production levels of acetic acid and
+the lowest values for b-xylosidase activity. The subdivision
+into the subgroups PA1 and PA2 was determined by
+b-glucosidase activity: the strains belonging to the subgroup
+PA1 did not exhibit b-glucosidase acitivity (except strain
+H35, which resulted separated from the others by the cluster
+analysis in Fig. 4), whereas the subgroup PA2 consisted of
+strains possessing the highest activity of this enzyme.
+Conversely, the strains belonging to the group PB were
+characterized by a low production level of acetic acid and
+
+high b-xylosidase activity, in particular PB2 grouped the
+apiculate strains exhibiting the highest level of this
+enzymatic activity.
+By the comparison between strain genetic and technological
+characterization, a significant correlation was found between
+genetic and technological characterization: the strains possessing the biotype C (Fig. 3) were included, for the majority,
+in the phenotype PB (Fig. 4), especially in the group PB2,
+whereas the major part of the strains exhibiting the biotypes D
+and E were included in the phenotype PA.
+DISCUSSION
+The aim of this study was to evaluate the natural genetic and
+technological variability of apiculate wild strains, isolated
+from Aglianico del Vulture grape musts of different zones
+in the production area of this wine.
+In the first step, the restriction analysis of 18S rDNA was
+used in order to identify, among the isolates, the most
+encountered apiculate species, which resulted in most of the
+strains tested being H. uvarum. By using PCR-RFLP
+analysis of this region with the restriction enzyme DdeI all
+the Hanseniaspora wine species were discriminated, whereas
+by using the others restriction enzymes different species
+exhibited identical restriction patterns. In particular,
+H. uvarum type strain showed the same profile of H. guilliermondii with all the endonucleases tested, except DdeI.
+This result indicates that these two species are closely
+related, as reported by other authors: Esteve-Zarzoso et al.
+(2001) found that H. guilliermondii and H. uvarum revealed
+an identical chromosomal profile, whereas other authors
+(Cadéz et al. 2002) found a high relatedness between these
+two species by means of ITS-RFLP analysis.
+The application to the wild apiculate strains of a
+polyphasic approach based on analysis of genetic and
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+H. UVARUM WINE STRAINS BIODIVERSITY
+
+50
+
+100
+
+141
+
+6·8±6·9%
+H5
+CBS8130
+H52
+CBS6617
+H24
+H25
+CBS5934
+H16
+H51
+H15
+CBS2589
+CBS5073
+H1
+H23
+H42
+H12
+H13
+H14
+H17
+H21
+H9
+H10
+H2
+H8
+H3
+H4
+H6
+H7
+H20
+CBS5074
+H45
+H46
+H38
+H32
+H33
+H34
+H44
+H41
+H26
+H28
+CBS2587
+H53
+H43
+H39
+H47
+H14´
+H49
+H40
+H48
+H50
+H31
+H35
+H36
+H11
+H18
+H30
+H54
+H57
+H37
+
+A
+
+B
+
+C1
+C
+C2
+
+C3
+
+D1
+
+D2
+
+D
+
+E1
+
+E2
+E
+E3
+E4
+E5
+
+Fig. 3 UPGMA cluster analysis of 59 Hanseniaspora uvarum strains based on RAPD-PCR fingerprints
+
+technological traits, has provided reliable information about
+the polymorphism of the species H. uvarum, also in function
+to the origin.
+
+The cluster analysis of the RAPD-PCR fingerprints
+revealed five distinct groups characterized by a very low
+degree of similarity among them. A certain correlation was
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+142 A . C A P E C E ET AL.
+
+PA
+PA1
+
+PA2
+
+PB1
+
+PB2
+
+H35
+H54
+H26
+H32
+H57
+H30
+H25
+H33
+H34
+H44
+H18
+H23
+H31
+H45
+H51
+H49
+H48
+H46
+H10
+H28
+H14
+H11
+H43
+H5
+H52
+H50
+H47
+H53
+H24
+H1
+H14′
+H15
+H38
+H16
+H17
+H20
+H2
+H36
+H3
+H21
+H41
+H42
+H37
+H6
+H39
+H7
+H8
+H9
+H12
+H40
+H13
+H4
+
+1
+
+PB
+
+0·9
+0·8
+
+Similarity
+
+0·7
+0·6
+0·5
+0·4
+0·3
+0·2
+0·1
+2·0
+
+1·0
+
+PROT
+
+b-GLU
+
+b-XYL
+
+By-products (mg l)1)
+P
+HA
+ACE
+ACET
+
+1Æ25
+0Æ38–1Æ73
+
+5Æ61
+0–28Æ27
+
+0Æ71
+0–2Æ32
+
+84Æ92
+38–173
+
+158Æ88
+49–279
+
+2211Æ67
+649–7736
+
+25
+10–93
+
+1Æ30
+1–1Æ73
+PA1
+1Æ39
+1Æ04–1Æ73
+PA2
+1Æ22
+1–1Æ58
+
+8Æ72
+0–28Æ27
+
+0Æ37
+0–1Æ28
+
+81Æ03
+53–109
+
+167Æ21
+88–251
+
+2793Æ66
+1322–7736
+
+28
+13–93
+
+2Æ19
+0–8Æ67
+
+0Æ06
+0–0Æ86
+
+81Æ79
+53–109
+
+175Æ43
+106–251
+
+3536Æ57
+2100–7736
+
+23Æ07
+15–32
+
+14Æ80
+7–28Æ27
+
+0Æ65
+0–1Æ28
+
+80Æ33
+62–102
+
+159Æ53
+88–222
+
+2100Æ27
+1322–5119
+
+32Æ60
+13–93
+
+1Æ69
+0–6Æ71
+
+1Æ14
+0–2Æ32
+
+89Æ83
+38–173
+
+148Æ39
+49–279
+
+1477Æ87
+649–2954
+
+21Æ22
+10–32
+
+1Æ20
+0–3Æ96
+
+0Æ52
+0–1Æ27
+
+81Æ86
+50–106
+
+172Æ43
+117–279
+
+1405Æ29
+905–1817
+
+18Æ86
+12–29
+
+1Æ90
+0–6Æ71
+
+1Æ41
+0Æ81–2Æ32
+
+93Æ31
+38–173
+
+137Æ88
+49–202
+
+1509Æ63
+649–2954
+
+22Æ25
+10–32
+
+Enzymatic activities
+Strains
+All strains
+Average
+Range
+Group PA
+Average
+Range
+Subgroup
+Average
+Range
+Subgroup
+Average
+Range
+Group PB
+Average
+Range
+Subgroup
+Average
+Range
+Subgroup
+Average
+Range
+
+5·0
+
+4·0
+
+3·0
+
+1Æ20
+0Æ38–1Æ53
+PB1
+1Æ33
+1Æ15–1Æ53
+PB2
+1Æ14
+0Æ38–1Æ53
+
+ADE
+
+Fig. 4 Dendrogram obtained by cluster analysis based on data of technological characterization of 52 Hanseniaspora uvarum wild
+strains
+Table 2 Average and range values of the
+technological traits determined in wild
+Hanseniaspora uvarum strains
+
+PROT ¼ proteolytic activity on casein (lmol tyrosine ml)1); b-GLU ¼ b-glucosidase activity
+P
+(lm q-NP h)1 ml)1); b-XYL ¼ b-xylosidase activity (lm q-NP h)1 ml)1); HA ¼ higher
+alcohols (n-propanol, isobutanol, amyl alcohols); ACE ¼ acetoin; ACET ¼ acetic acid;
+ADE ¼ acetaldehyde.
+
+found between the groups and the strain isolation origin,
+indicating the influence of the environment on the genetic
+patrimony of the population.
+
+A very high phenotypic variability among the H. uvarum
+wild strains corresponded to the genetic polymorphism. The
+evaluation of the expression of some parameters of techno-
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+H. UVARUM WINE STRAINS BIODIVERSITY
+
+logical importance in oenology, such as the production level
+of some by-products and enzymatic activities, revealed the
+existence of a wide phenotypic biodiversity in H. uvarum
+strains. Yeast strains possessing proteolytic activity are of
+interest in winemaking because this activity could improve
+the wine clarification, whereas the glycosidasic activities
+contribute to aroma formation. The technological variables,
+which determined the strain biodiversity, differed among
+the different groups, demonstrating that these technological
+traits are strain dependent. The strains belonging to the
+biotype C and phenotype PB can be considered as more
+suitable for winemaking because these apiculate yeasts are
+characterized by a general low production level of acetic
+acid. About 70% of the strains of this group produced
+<1Æ5 g l)1 of acetic acid, whereas only 12% of the strains
+included in the groups D and E assessed the ability to
+produce low level of acetic acid.
+Taking into account that apiculate strains, as dominant
+yeasts of early phase of grape must fermentation, can
+influence positively or negatively the sensory quality of the
+wine, the selection of suitable strains to use in mixed or
+sequential fermentation with S. cerevisiae becomes of
+practical interest. In this context, the wide strain biodiversity found in H. uvarum represents the basis for organizing a
+collection of apiculate strains possessing oenological characters at different levels and, therefore, potentially useful for a
+selection program.
+REFERENCES
+Baleiras Couto, M.M., van der Vossen, J.M.B.M., Hofstra, H. and
+Huis in’t Veld, J.H.J. (1994) RAPD analysis: a rapid technique for
+differentiation of spoilage yeasts. International Journal of Food
+Microbiology 24, 249–260.
+Baleiras Couto, M.M., Eijsma, B., Hofstra, H., Huis in’t Veld, J.H.J.
+and van der Vossen, J.M.B.M. (1996) Evaluation of molecular typing
+techniques to assign genetic diversity among Saccharomyces cerevisiae
+strains. Applied and Environmental Microbiology 62, 41–46.
+Cadéz, N., Raspor, P., de Cock, A.W.A.M., Boekhout, T. and Smith,
+M.T. (2002) Molecular identification and genetic diversity within
+species of the genera Hanseniaspora and Kloeckera. FEMS Yeast
+Research 1, 279–289.
+Capece, A., Salzano, G. and Romano, P. (2003) Molecular typing
+techniques as a tool to differentiate non-Saccharomyces wine species.
+International Journal of Food Microbiology 84, 33–39.
+Cardinali, G., Pellegrini, L. and Martini, A. (1995) Improvement of
+chromosomal DNA extraction from different yeast species by
+analysis of single preparation steps. Yeast 11, 1027–1029.
+Caruso, M., Capece, A., Salzano, G. and Romano, P. (2002) Typing of
+Saccharomyces cerevisiae and Kloeckera apiculata strains from Aglianico wine. Letters in Applied Microbiology 34, 323–328.
+Charoenchai, C., Fleet, G.H., Henschke, P.A. and Todd, B.E.N.
+(1997) Screening of non-Saccharomyces wine yeasts for the presence
+of extracellular hydrolytic enzymes. Australian Journal of Grape and
+Wine Research 3, 2–8.
+
+143
+
+Comi, G., Maifreni, M., Manzano, M., Lagazio, C. and Cocolin, L.
+(2000) Mitochondrial DNA restriction enzyme analysis and evaluation of the enological characteristics of Saccharomyces cerevisiae
+strains isolated from grapes of the wine-producing area of Collio
+(Italy). International Journal of Food Microbiology 58, 117–121.
+Comi, G., Romano, P., Cocolin, L. and Fiore, C. (2001) Characterization of Kloeckera apiculata strains from Friuli region in North
+Italy. World Journal of Microbiology and Biotechnology 17, 391–394.
+Egli, C.M., Edinger, W.D., Mitrakul, C.M. and Henick-Kling, T.
+(1998) Dynamics of indigenous and inoculated yeast populations and
+their effect on the sensory character of Riesling and Chardonnay
+wines. Journal of Applied Microbiology 85, 779–789.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F. and Querol, A. (1999)
+Identification of yeasts by RFLP analysis of the 5Æ8S rRNA gene and
+the two ribosomal internal transcribed spacers. International Journal
+of Systematic Bacteriology 49, 329–337.
+Esteve-Zarzoso, B., Peris-Torán, M.J., Ramón, D. and Querol, A.
+(2001) Molecular characterization of Hanseniaspora species. Antonie
+van Leeuwenhoek 80, 85–92.
+Guillamón, J.M., Barrio, E. and Querol, A. (1994) Rapid characterization of four species of the Saccharomyces sensu stricto complex
+according to mitochondrial DNA patterns. International Journal of
+Systematic Bacteriology 44, 708–714.
+Guillamón, J.M., Sabate, J., Barrio, E., Cano, J. and Querol, A. (1998)
+Rapid identification of wine yeast species based on RFLP analysis of
+the ribosomal internal transcribed spacer (ITS) region. Archives of
+Microbiology 169, 387–392.
+Heard, G.M. (1999) Novel yeasts in winemaking-looking to the future.
+Food Australia 51, 347–352.
+Kurtzman, C.P. and Fell, J.W. (1998) The Yeast, a Taxonomic Study,
+4th edn. pp. 214–220. Amsterdam: Elsevier Science.
+Lambrechts, M.G. and Pretorius, I.S. (2000) Yeast and its importance
+to wine aroma – a review. South African Journal of Enology and
+Viticulture 21, 97–129.
+Manzanares, P., Ramón, D. and Querol, A. (1999) Screening of nonSaccharomyces wine yeasts for the production of b-D-xylosidase
+activity. International Journal of Food Microbiology 46, 105–112.
+Manzanares, P., Rojas, V., Genovés, S. and Vallés, S. (2000) A
+preliminary search for anthocyanin-b-D-glucosidase activity in nonSaccharomyces wine yeasts. International Journal of Food Science and
+Technology 35, 95–103.
+Quesada, M. and Cenis, J.L. (1995) Use of random amplified
+polymorphic DNA (RAPD-PCR) in the characterisation of wine
+yeasts. American Journal of Enology and Viticulture 46, 204–208.
+Romano, P. (1997) Metabolic characteristics of wine strains during
+spontaneous and inoculated fermentation. Food Technology and
+Biotechnology 35, 255–260.
+Romano, P. (2003) Role of apiculate yeasts on organoleptic characteristics of wine. In Biodiversity and Biotechnology of Wine Yeasts ed.
+Ciani, M. pp. 99–109. Kerala, India: Research Signpost.
+Romano, P., Suzzi, G., Comi, G., Zironi, R. and Maifreni, M. (1997)
+Glycerol and other fermentation products of apiculate wine yeasts.
+Journal of Applied Microbiology 82, 615–618.
+Romano, P., Palla, G., Caligiani, A., Brandolini, V., Maietti, A. and
+Salzano, G. (2000) Evaluation of stereoisomers of 2,3-butanediol and
+acetoin to differentiate Saccharomyces cerevisiae and Kloeckera
+apiculata wine strains. Biotechnology Letters 22, 1947–1951.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+144 A . C A P E C E ET AL.
+
+Romano, P., Fiore, C., Paraggio, M., Caruso, M. and Capece, A. (2003)
+Function of yeast species and strains in wine flavour. International
+Journal of Food Microbiology 86, 169–180.
+Rosi, I., Costamagna, L. and Bertuccioli, M. (1987) Screening for
+extracellular acid protease(s) production by wine yeasts. Journal of
+the Institute Brewing 93, 322–324.
+Schütz, M. and Gafner, J. (1993) Analysis of yeast diversity during
+spontaneous and induced alcoholic fermentations. Journal of Applied
+Bacteriology 75, 551–558.
+
+Vaughan-Martini, A., Angelini, P. and Cardinali, G. (2000) Use of
+conventional taxonomy, electrophoretic karyotyping and DNADNA hybridization for the classification of fermentative apiculate
+yeasts. International Journal of Systematic and Evolutionary Microbiology 50, 1665–1672.
+White, T.J., Bruns, T., Lee, S. and Taylor, J. (1990) Amplification and
+direct sequencing of fungal ribosomal RNA genes for phylogenetics.
+In PCR Protocols ed. Innis, M.A., Gelfand, D.H., Sninsky, J.J. and
+White, T.J. pp. 315–322. London: Academic Press.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 98, 136–144, doi:10.1111/j.1365-2672.2004.02434.x
+
+

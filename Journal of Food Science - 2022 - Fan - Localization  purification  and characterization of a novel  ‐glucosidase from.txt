@@ -1,0 +1,963 @@
+Received: 12 September 2021
+
+Revised: 22 December 2021
+
+Accepted: 12 January 2022
+
+DOI: 10.1111/1750-3841.16068
+
+NEW H ORIZONS IN FOOD RESEARCH
+
+Localization, purification, and characterization of a novel
+β-glucosidase from Hanseniaspora uvarum Yun268
+Tongtong Fan1
+Yongsheng Tao1,2
+
+Siyu Jing1
+
+Hongyan Zhang3
+
+Xiaobing Yang1
+
+Guojie Jin1,2
+
+1
+
+College of Enology, Northwest A&F
+University, Yangling, China
+2
+
+Ningxia Helan Mountain’s East Foothill
+Wine Experiment and Demonstration
+Station of Northwest A&F University,
+Yongning, China
+3
+
+College of Plant Protection, Northwest
+A&F University, Yangling, China
+
+Correspondence
+Guojie Jin and Yongsheng Tao, Yongsheng
+Tao, College of Enology, Northwest A&F
+University, 22 Xinong Road, Yangling,
+Shaanxi 712100, China.
+Email: jingj@nwsuaf.edu.cn; taoyongsheng@nwsuaf.edu.cn
+Funding information
+National Natural Science Foundation of
+China, Grant/Award Numbers: 31801528,
+31972199
+
+Abstract: β-Glucosidase is a key enzyme that hydrolyzes nonvolatile glycosylated precursors of aroma compounds and enhances the organoleptic quality of
+wines. In this study, a novel β-glucosidase from Hanseniaspora uvarum Yun268
+was localized, purified, and characterized. Results indicated that β-glucosidase
+activity was mainly distributed within the cells. After purification via ammonium sulfate precipitation combined with chromatography, β-glucosidase specific activity increased 8.36 times, and the activity recovery was 56.90%. The
+enzyme had a molecular mass of 74.22 kDa. It has a Michaelis constant (Km )
+of 0.65 mmol/L, and a maximum velocity (Vmax ) of 5.1 nmol/min under optimum conditions; and Km of 0.94 mmol/L, and Vmax of 2.8 nmol/min under typical winemaking conditions. It exhibited the highest activity at 50◦ C and pH 5.0
+and was stable at a temperature range of 20–80◦ C and pH range of 3.0–8.0. The
+enzyme has good tolerance to Fe3+ , especially maintaining 93.68% of its activity with 10 mmol/L of Fe3+ . Ethanol (<20%) and glucose (<150 g/L) inhibited its
+activity only slightly. Therefore, β-glucosidase from H. uvarum Yun268 has excellent biochemical properties and a good application potential in winemaking.
+KEYWORDS
+
+biochemical properties, non-Saccharomyces yeast, varietal aroma, wine, β-glucosidase
+
+Practical Application: Winemaking is a biotechnological process in which
+exogenous β-glucosidase is used to overcome the deficiency of endogenous βglucosidase activity in grapes. By localizing, purifying, and characterizing of
+β-glucosidase from Hanseniaspora uvarum Yun268, it is expected to reveal its
+physical and chemical characteristics to evaluate its oenological properties in
+winemaking. The results may provide the basis for promoting the release of varietal aroma and improving wine sensory quality in the wine industry.
+
+1
+
+INTRODUCTION
+
+β-Glucosidase (EC 3.2.1.21) is a biologically important
+enzyme that hydrolyzes β-glucosidic linkage in aryl-,
+amino-, or alkyl-β-d-glucosides, cyanogenic glucosides,
+886
+
+R
+© 2022 Institute of Food Technologists
+
+and disaccharides and short-chain oligosaccharides. It
+plays an essential role in the food, pharmaceutical, and
+biofuel industries (da Silva et al., 2019; Y. L. Li et al.,
+2018; J. Zhang, Zhao, et al., 2021). β-Glucosidase promotes
+the hydrolysis of aroma glycosides in winemaking and
+
+wileyonlinelibrary.com/journal/jfds
+
+J. Food Sci. 2022;87:886–894.
+
+significantly improves the aroma quality of wines (N. Li,
+Wang, Xu, et al., 2020).
+The organoleptic properties of wine that reflect the
+typicality, style, and terroir are determined by the varietal aroma compounds in grapes, such as straightchain alcohols, volatile terpenoids, shikimic acid metabolites, and norisoprenoids (Sun et al., 2018). However,
+many varietal aroma compounds exist as nonvolatile
+and odorless glycosides (Winterhalter & Skouroumounis, 1997). By enzymatic hydrolysis, these glycosides get
+volatilized during winemaking. Glycosides in the form of
+mono-glucoside are directly hydrolyzed by β-glucosidase,
+while those in the form of diglycoside-bound aglycones
+are sequentially hydrolyzed by α-l-arabinopyranosidase,
+α-l-rhamnopyranosidase, β-d-apiofuranosidase, or β-dxylopyranosidase, followed by β-glucosidase (Claus &
+Mojsov, 2018; Y. H. Li, Wang, Xu, et al., 2020). Thus,
+β-glucosidase plays a significant role in the enzymatic
+hydrolysis of nonvolatile glycosides to release volatile
+aroma compounds in grapes and wine and improve the
+wine’s quality (Dong et al., 2014; Wang et al., 2015).
+β-Glucosidase is widely found in plants, animals, bacteria, and fungi. However, the activity of β-glucosidase
+in grapes and Saccharomyces yeast (a dominant strain in
+winemaking) is strongly inhibited under winemaking conditions, such as low pH, low temperature, and high ethanol
+or glucose concentrations (Barbagallo, Spagna, Palmeri,
+Restuccia, et al., 2004). Several studies have analyzed the βglucosidases of lactic acid bacteria in winemaking (Oenococcus oeni) and fungi (Aspergillus niger) (Dong et al., 2014;
+Gottschalk et al., 1934; J. Zhang, Zhao, et al., 2021). However, lactic acid bacteria, due to poor growth characteristics
+and sulfur dioxide tolerance, do not have wide industrial
+applications. β-Glucosidases from fungi have already been
+applied in wine production; however, they exhibit poor
+specificity, causing the hydrolysis of pigment glycosides
+to produce unpleasant flavor (volatile phenols) (Hu et al.,
+2016; Maicas & Mateo, 2005). Meanwhile, β-glucosidase
+from non-Saccharomyces yeast, existing on the surface of
+grape berries and in fresh must, exhibits high activity and
+reasonable specificity for glycosides under winemaking
+conditions (Kong et al., 2019; Wang et al., 2015). Recently,
+special attention has been given to explore the prospective
+role of non-Saccharomyces yeast for the production of βglucosidases with convenient features.
+Hanseniaspora uvarum, one of the most abundant nonSaccharomyces yeasts in fresh must, is an excellent producer of β-glucosidase (Belda et al., 2016; López et al.,
+2015). Mixed fermentation of S. cerevisiae and H. uvarum
+Yun268 increased volatile terpenes and C13 -norisoprenoids
+due to the high activity of β-glucosidase of H. uvarum
+Yun268, enhancing the floral and fruit aroma character-
+
+887
+
+istics of wine (Hu et al., 2018; Sun et al., 2018; Wang
+et al., 2015). However, the enzymology of β-glucosidase is
+unclear, which limits its application in winemaking. In
+this study, the production and localization of β-glucosidase
+from the H. uvarum Yun268 were analyzed, and their physical and chemical characteristics were assessed to evaluate
+its oenological properties in winemaking.
+
+2
+2.1
+
+MATERIALS AND METHODS
+Strain and media
+
+The H. uvarum Yun268, obtained from the China Center
+for Type Culture Collection (No: M 2013658; Wuhan city,
+Hubei province, China), was precultured in yeast peptone
+dextrose (YPD) broth for 3 days, and then the YPD culture
+was inoculated into the fermentation medium at a ratio
+of 10% (v/v) and then incubated in a shaking incubator
+(180 rpm) at 28◦ C. Three fermentation media were used
+in the experiment as follows: medium A containing 5 g/L
+NH4 SO4 , 3 g/L NH4 NO3 , 20 ml/L yeast nitrogen base without amino acids (YNB), 4 g/L KH2 PO4 , 0.5 g/L MgSO4 , and
+20 g/L glucose; medium B containing 5 g/L NH4 SO4 , 3 g/L
+NH4 NO3 , 20 ml/L YNB, 4 g/L KH2 PO4 , 0.5 g/L MgSO4 ,
+20 g/L glucose, and 2 g/L cellobiose; medium C containing
+10 g/L yeast extract, 20 g/L peptone, 20 g/L NH4 NO3 , 4 g/L
+KH2 PO4 , 0.5 g/L MgSO4 , and 20 g/L glucose.
+
+2.2
+
+Enzyme activity and protein content
+
+The β-glucosidase activity was measured by the colorimetric method (Barbagallo, Spagna, Palmeri, & Torriani,
+2004). The reaction mixture contained 0.75 ml of citrate phosphate buffer (pH 5.0, 125 mM), 0.25 ml of
+p-nitrophenyl-β-d-glucopyranoside (p-NPGlu, 1 mM, J&K
+Scientific Ltd., Beijing, China), and 0.2 ml of enzyme
+solution. The reaction was performed at 40◦ C for 30 min
+and stopped by adding 1 ml of Na2 CO3 solution (1 M).
+The p-nitrophenol (p-NP) generated was measured using
+an ultraviolet-visible spectrophotometer (Cary 60; Agilent Technologies, Bayan Lepas, Penang, Malaysia) at
+400 nm against a blank without substrates. One unit
+(U) of β-glucosidase activity is defined as the amount of
+β-glucosidase necessary to liberate 1 µmol of p-NP per
+min at 40◦ C. The Bradford method was used to determine
+the protein content at 595 nm (0.9 ml of distilled water,
+0.1 ml of protein solution, and 5 ml of coomassie brilliant
+blue G-250) using the bovine serum albumin standard.
+The standard curves of p-NP and protein are shown in
+Figure S1.
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Localization, purification, and characterization of β-glucosidase
+
+2.3
+
+Localization, purification, and characterization of β-glucosidase
+
+Enzyme localization
+
+Enzymatic activity of the culture supernatant, cell wall,
+and cell fragmentation supernatant was evaluated.
+Approximately 1.5 ml of the culture (the fermentation
+medium containing H. uvarum Yun268, which was collected at 72 h) was centrifuged at 8000 rpm for 15 min to
+obtain the culture supernatant and cell pellet. The culture
+supernatant was filtered through a 0.45 µm filter before
+enzymatic activity determination. The cell pellet was
+washed twice in sterile saline, resuspended in 1.5 ml of
+PBS buffer (pH 7.5, 10 mM), and broken up with a grinder
+(JXFSTPRP-15; Jingxin Technologies, Shanghai, China).
+This mixture was centrifuged to yield the fragmentation
+supernatant and cell debris. The cell debris was washed
+twice in sterile saline and resuspended in 1.5 ml of PBS
+buffer to obtain the cell wall fraction. All fractions were
+stored at 4◦ C for further analysis (Arévalo Villena et al.,
+2005; Mcmahon et al., 1999).
+
+2.4
+
+Enzyme production
+
+The optimal medium was identified based on the βglucosidase activity of cell fragmentation supernatant (the
+highest enzyme activity fraction in Section 2.3)of the different medium. The H. uvarum Yun268 was cultured in a fermentation medium to produce β-glucosidase. The visible
+cells in the fermentation medium were collected 8 times (0,
+17, 28, 40, 52, 64, 76, and 88 h) and then were counted using
+Wallerstein nutrient (WLN) agar (Hu et al., 2018) during
+the fermentation. The activity of β-glucosidase in fragmentation supernatant was determined at the end of fermentation (88 h) to evaluate the amount of enzyme produced in
+the media. Further, the cells in the optimal medium were
+harvested 7 times (24, 48, 60, 72, 84, 96, and 120 h), and
+the β-glucosidase activity was determined to ascertain the
+timing of peak enzyme synthesis.
+
+2.5
+
+loaded onto a DEAE-Sepharose fast flow column (1.0 cm
+× 20 cm) at a flow rate of 1.33 ml/min (Hu et al., 2018;
+Zhuang et al., 2016). The elution (protein peak elution was
+obtained at 280 nm) was carried out using an increasing
+gradient of NaCl (0–1 M) in five CV of phosphate buffer
+(pH 6.0, 50 mM). Fractions were collected and analyzed
+for β-glucosidase activity. The active fractions were pooled,
+concentrated with PEG 20,000 (4◦ C, 30 min), loaded onto a
+Sephadex G-200 column (1.6 cm × 40 cm), and eluted with
+citrate phosphate buffer (pH 6.5, 50 mM) at 0.4 ml/min
+flow rate to obtain protein peak elution at 280 nm. Each
+fraction was used for enzyme assay. The fractions with
+peak enzyme activity were pooled for further analysis.
+
+2.6
+Electrophoresis and molecular
+weight determination
+The protein samples for sodium dodecyl sulfatepolyacrylamide gel electrophoresis (SDS-PAGE) were
+prepared, electrophoresed, and visualized following the
+previously reported method (Dong et al., 2014). The
+protein samples were prepared by mixing the same volume of purified β-glucosidase (Sephadex G-200 column
+purified fraction) and gel loading buffer, boiled for 3 min,
+and loaded onto the gel, along with a molecular weight
+marker. After electrophoresis, the gel was stained for
+12 h with 0.25% Coomassie brilliant blue R-250 on a rocker.
+Later, the gel was destained with acidified methanol-water
+(45% methanol and 10% acetic acid) until the protein
+bands became distinguishable and prominent.
+The molecular weight of the purified β-glucosidase
+was determined using ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS)
+(Lippens et al., 2018). The chromatographic separation was
+carried out on a Shimadzu UPLC system (Nexera UHPLC
+LC-30A, Kyoto, Japan). Mass spectrometry determination
+was carried out on an AB SCIEX Triple TOF 4600 (Foster
+City, CA, USA).
+
+Enzyme purification
+2.7
+
+Here, (NH4 )2 SO4 was added to the crude enzyme extract
+on ice (the fraction with the highest β-glucosidase activity in Section 2.3) to 80% saturation to purify β-glucosidase
+from H. uvarum Yun268. The mixture was incubated for
+8 h at 4◦ C and then centrifuged at 8000 rpm for 10 min to
+obtain the precipitate, which was dissolved in acetic acidsodium acetate buffer (pH 5.0, 50 mM). The (NH4 )2 SO4
+precipitate was desalted with a dialysis bag (cutoff 14 kDa)
+using acetic acid-sodium acetate buffer (pH 5.0, 50 mM) at
+4◦ C, with four buffer changes at 4 h intervals. The solution was concentrated with PEG 20,000 (4◦ C, 30 min) and
+
+Effect of temperature and pH
+
+The effects of pH on the enzyme activity were evaluated
+by incubating the purified enzyme in citrate-phosphate
+buffer at pH ranging from 3.0 to 8.0. After setting the
+enzyme in different buffers at 4◦ C for 12 h, the stability
+was evaluated. Meanwhile, the effect of temperature
+(20−80◦ C) on the enzyme activity was investigated at pH
+5.0. The thermal stability of β-glucosidase was determined
+after incubating the purified enzyme solutions at temperatures ranging from 20 to 80◦ C for 1 h and in an ice bath for
+30 min.
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+888
+
+2.8
+
+889
+
+Inhibitory test
+
+The activity of β-glucosidase from H. uvarum Yun268 was
+assayed in varying concentrations of ethanol, sugars (glucose, fructose, and sucrose), and chloride salts (FeCl3 ,
+MnCl2 , MgCl2 , KCl, and CaCl2 ) to determine the influence of inhibitors. The inhibitor was added to the solution
+(0.75 ml of citrate phosphate buffer [pH 5.0, 125 mM] and
+0.2 ml of the enzyme solution) and incubated at 30◦ C for
+1 h, and the β-glucosidase activity was measured immediately. The β-glucosidase activity measured without the
+inhibitor was used as a control.
+
+2.9
+
+Kinetic parameters
+FIGURE 1
+
+Different concentrations of p-NPGlu (0.25 to 3 mmol/L)
+were used to determine the kinetic parameters (Km and
+Vmax ) of β-glucosidase under optimum conditions (optimum pH and optimum temperature) and under typical
+winemaking conditions (at 25◦ C, pH 3.5 and 15% ethanol)
+following the previously reported method by drawing the
+Lineweaver–Burk plot (Dong et al., 2014). The reciprocal
+plot (1/[V] vs. 1/[S]) was plotted, and the Km and Vmax were
+determined from the slope and intercept of the straight line
+(Mishra et al., 2012).
+
+3
+
+RESULTS AND DISCUSSION
+
+3.1
+Localization and production of
+β-glucosidase
+Three fractions were analyzed (culture supernatant, cell
+wall, and cell fragmentation supernatant) to determine
+β-glucosidase localization. As shown in Figure 1, βglucosidase activity was detected in all three fractions;
+however, enzyme activity and specific activity were significantly higher in the cell fragmentation supernatant than in
+the other two fractions, suggesting β-glucosidase distribution inside H. uvarum Yun268 cells. Enzyme activity in the
+culture supernatant and the cell wall might have derived
+via the cell autolysis during growth. The localization of βglucosidase in H. uvarum Yun268 is consistent with that
+in other H. uvarum strains (Arévalo Villena et al., 2005;
+Swangkeaw et al., 2010).
+The composition of the medium (carbon source, nitrogen source, or metal ions) often affects enzyme production. As shown in Figure 2a,b, no significant difference in
+viable cell number and β-glucosidase activity in cell fragmentation supernatant was observed between medium B
+(2 g/L cellobiose) and medium A after 88 h, indicating
+no inductive effect of cellobiose on β-glucosidase produc-
+
+β-Glucosidase localization in H. uvarum Yun268
+
+tion. Meanwhile, viable cell number in cell fragmentation
+supernatant of H. uvarum Yun268 cultured in medium C
+(containing organic nitrogen: 10 g/L yeast extract, 20 g/L
+peptone) for 88 h was 4.5 times more than that grown in
+medium A (inorganic nitrogen as the sole nitrogen), and
+β-glucosidase activity in cell fragmentation supernatant of
+H. uvarum Yun268 cultured in medium C for 88 h was
+3.8 times more than that cultured in medium A. The addition of organic nitrogen significantly promoted the growth
+of H. uvarum Yun268 and the production of β-glucosidase.
+Similarly, the highest β-glucosidase activity in Aspergillus
+awamori 2B.361 U2/1 was observed when yeast extract was
+present in the medium (Gottschalk et al., 1934). However,
+the mechanism by which the organic nitrogen affected
+β-glucosidase production remains unclear (Mateo Tolosa,
+2019). In addition, β-glucosidase activity attained a peak
+after 60 h growth of H. uvarum Yun268 in medium C
+(Figure 2c). The cell fragmentation supernatant at this time
+was used for the subsequent experiments.
+
+3.2
+
+β-Glucosidase purification
+
+The β-glucosidase from H. uvarum Yun268 was purified by
+(NH4 )2 SO4 precipitation, ion exchange, and gel-filtration
+chromatography. The results of β-glucosidase purification
+are presented in Table 1, and the electrophoresis of enzyme
+solution was shown in Figure 3. After (NH4 )2 SO4 precipitation, the β-glucosidase specific activity was 0.24 U/mg,
+and the purification factor was 1.09, similar to the crude
+extract. This observation suggested that β-glucosidase was
+not effectively separated from the other proteins through
+(NH4 )2 SO4 precipitation. Subsequently, two distinct fractions were eluted from the DEAE-Sepharose FF column
+until 2 h 44 min (Figure 3a), of which the second peak
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Localization, purification, and characterization of β-glucosidase
+
+Localization, purification, and characterization of β-glucosidase
+
+F I G U R E 2 Growth of H. uvarum Yun268 and production of β-glucosidase derived from cell fragmentation supernatant. (a) Biomass
+during fermentation and (b) β-glucosidase activity at the end of fermentation (88 h) under different media. (c) β-Glucosidase activity during
+fermentation in medium C
+TA B L E 1
+
+Purification protocol for β-glucosidase from H. uvarum Yun268
+
+Purification step
+
+Total
+activity (U)
+
+Total protein
+(mg)
+
+Specific activity
+(U/mg)
+
+Purification
+factor
+
+Yield (%)
+
+Crude extract
+
+2.97
+
+13.69
+
+0.22
+
+1.00
+
+100.00
+
+(NH4 )2 SO4 precipitation
+
+2.53
+
+10.58
+
+0.24
+
+1.09
+
+85.19
+
+DEAE-Sepharose FF
+
+2.50
+
+2.43
+
+1.03
+
+4.68
+
+84.18
+
+Sephadex G-200
+
+1.69
+
+0.92
+
+1.84
+
+8.36
+
+56.90
+
+F I G U R E 3 The result of β-glucosidase purification. (a) Chromatography spectrogram of DEAE-Sepharose FF. (b) Chromatography
+spectrogram of Sephadex G-200. (c) SDS-PAGE analysis of purified β-glucosidase. Lane assignment: lane M, protein marker; lane 1, Crude
+extract; lane 2, (NH4 )2 SO4 precipitation; lane 3, DEAE-Sepharose FF; lane 4, Sephadex G-200
+
+showed higher β-glucosidase activity (33.43 U/L). DEAESepharose FF column chromatography improved the βglucosidase specific activity and purification factor by 4.68
+times, while the yield of enzyme activity was 84.18%. Only
+one fraction was eluted from the Sephadex G-200 column until 2 h 4 min (Figure 3b). This fraction had a βglucosidase activity of 14.19 U/L. Sephadex G-200 column
+chromatography increased β-glucosidase specific activity
+and purification factor by 8.36 times; however, the yield of
+enzyme activity decreased by 56.90%. The SDS-PAGE gel
+electrophoresis showed many bands for the crude enzyme
+solution and (NH4 )2 SO4 precipitation (Figure 3c), indicat-
+
+ing the presence of several miscellaneous proteins. Meanwhile, a single band was obtained after ion-exchange and
+gel-filtration chromatography. UPLC-MS/MS was used to
+analyze the purified β-glucosidase, and the result is shown
+in Figure S2. The intensity of the purified β-glucosidase
+was significantly higher than that of the miscellaneous
+proteins, indicating that the β-glucosidase, with molecular mass 74.22 kDa, was highly purified. The β-glucosidase
+purification factor and enzyme activity yield obtained in
+this study were consistent with the earlier reports (Choi
+et al., 2011; Dong et al., 2014). In this study, after three
+purification steps, the purification factor and enzyme
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+890
+
+FIGURE 4
+
+891
+
+Effect of (a) temperature and (b) pH on β-glucosidase
+
+activity yield of β-glucosidase from H. uvarum Yun268
+were 8.36 and 56.90%, respectively, indicating well-purified
+β-glucosidase.
+
+study, the β-glucosidase from H. uvarum Yun268 was stable
+and maintained an activity above 50% at 20−30◦ C; its activity was above 60% at pH 3.0−3.5, indicating β-glucosidase
+from H. uvarum Yun268 as a good candidate for the wine
+industry.
+
+3.3
+Biochemical properties of
+β-glucosidase
+3.3.2
+3.3.1
+Effects of temperature and pH on
+β-glucosidase activity and stability
+Temperature and pH are essential factors that affect the
+activity and stability of β-glucosidase, which determines
+its application in winemaking. The β-glucosidase from
+H. uvarum Yun268 showed the highest activity at pH 5.0
+and 50◦ C and was the most stable at pH 5.0 and 30◦ C
+(Figure 4). Besides, the enzyme remained stable in the
+temperature range of 20−80◦ C, conserving more than 50%
+of the original activity. It also remained stable in the pH
+range of 3.0−8.0, preserving more than 45% of the initial activity. The optimal temperature and pH recorded in
+this study were consistent with the β-glucosidase isolated
+from Pichia guilliermondii G1.2, P. guilliermondii K1231, O. oeni ATCC BAA-1163, and Lactobacillus plantarum
+USC1 (da Silva et al., 2019; Michlmayr et al., 2010; Sestelo
+et al., 2004). However, the activity of most β-glucosidases
+reported previously was inhibited under the winemaking conditions (pH = 3.0−3.5, temperature = 18−30°C),
+which urged researchers to explore the prospective role
+of microorganisms with stable β-glucosidase activity during winemaking. The β-glucosidase activity from Wickerhamomyces Anomalus AL112 and MDD24 maintained 30%
+and 10% at pH 3.0, respectively. The β-glucosidase activity
+from Sporobolomyces Pararoseus SP8A, W. Anomalus 6 and
+Wa1 showed high activity at pH 4.0, but decreased dramatically at pH 3.0 (P. Zhang, Zhang, et al., 2021). In the present
+
+Inhibitory tests
+
+Few compounds (ethanol, sugars, and metal ions) inhibit
+β-glucosidase activity, limiting the application of βglucosidase (Cota et al., 2015; Dong et al., 2014; J.
+Zhang, Zhao, et al., 2021). As shown in Table 2, ethanol
+slightly inhibited the activity of β-glucosidase from H.
+uvarum Yun268. Meanwhile, glucose at 50 g/L concentration slightly promoted β-glucosidase activity while at 100
+and 150 g/L concentrations slightly inhibited; glucose at
+200 g/L concentration almost inactivated the enzyme. βGlucosidase was more sensitive to fructose and sucrose
+than glucose when the sugar concentration was less than
+150 g/L; both fructose and sucrose at 50 g/L remarkably
+inhibited the enzyme activity. Among the metal ions investigated, Mn2+ , Mg2+ , K+ , and Ca2+ remarkably reduced βglucosidase activity, while Fe3+ had very little inhibitory
+effect. Especially the enzyme maintained 93.68% of the
+activity with 10 mmol/L of Fe3+ .
+Sugars (fructose, glucose, and sucrose) in fruit juices
+generally inhibit β-glucosidase activity, limiting the application of β-glucosidase in winemaking (Cota et al., 2015;
+Swangkeaw et al., 2010). Grape must contains a large
+amount of glucose, so the tolerance level of β-glucosidase
+to glucose is considered as an important criterion for
+the selection of β-glucosidase in wine production. Generally, the β-glucosidase activity decreases and the substrate
+hydrolysis slows down with glucose at a high level. In addition, yeast growing at high level of glucose concentration
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Localization, purification, and characterization of β-glucosidase
+
+Localization, purification, and characterization of β-glucosidase
+
+TA B L E 2
+
+The result of inhibitory and substrate specificity tests
+
+Compound
+
+Concentration
+
+Control
+
+0
+
+Relative activity (%)
+100 ± 0a
+
+Ethanol (%, v/v)
+
+5
+
+86.75 ± 5.80b
+
+10
+
+81.39 ± 4.02b
+
+15
+
+79.97 ± 2.01b
+
+20
+
+89.12 ± 2.90b
+
+Control (g/L)
+
+0
+
+100 ± 0a
+
+Glucose
+
+50
+
+116.56 ± 7.81b
+
+100
+
+92.59 ± 3.35ac
+
+150
+
+82.97 ± 5.80c
+
+200
+
+3.94 ± 2.90d
+
+Control (g/L)
+
+0
+
+100 ± 0a
+
+Fructose
+
+50
+
+64.80 ± 3.48b
+
+100
+
+49.81 ± 4.24c
+
+150
+
+42.75 ± 0.82d
+
+200
+
+34.43 ± 3.01e
+
+Control (g/L)
+
+0
+
+100 ± 0a
+
+Sucrose
+
+50
+
+50.39 ± 4.51b
+
+100
+
+38.97 ± 1.78c
+
+150
+
+51.06 ± 2.04b
+
+200
+
+48.81 ± 2.03b
+
+Control (mmol/L)
+
+0
+
+100 ± 0a
+
+Fe3+
+
+10
+
+93.68 ± 5.75a
+
+2+
+
+10
+
+57.00 ± 8.27b
+
+Mg2+
+
+10
+
+55.77 ± 8.57b
+
++
+
+10
+
+61.25 ± 6.40b
+
+Ca2+
+
+10
+
+59.19 ± 7.92b
+
+Mn
+K
+
+Note: Values represent means ± standard error (n = 3). Different letters in different treatments denote a significant difference (p < 0.05).
+
+may produce too many alcohols that inhibit β-glucosidase
+activity. López et al. (2015) found the β-glucosidase activity
+from Pichia membranifaciens Pm7, Hanseniaspora vineae
+Hv3, and Wickerhamomyces anomalus Wa1 maintained
+lower than 40% of the maximum activity when glucose at
+36 g/L. It has also been reported that low concentrations of
+glucose increase β-glucosidase activity. Corrêa et al. (2021)
+reported that glucose improves the β-glucosidase activity
+by changing the size of the activity site entrance. Ethanol
+could inhibit β-glucosidase activity, probably due to denaturation (Gueguen et al., 1997). Swangkeaw et al. (2010)
+found that β-glucosidase from Hanseniaspora sp. BC9 was
+substantially inhibited in the presence of 4%−12% (v/v)
+ethanol. Barbagallo Spagna, Palmeri, and Torriani (2004)
+found that β-glucosidase of commercial strain DSTVR 1
+maintained 50% and 25% of the activity at 8% and 16%
+ethanol (v/v), respectively. β-Glucosidase with low tolerance to ethanol has low activity or even inactivation in
+the middle or late alcohol fermentation period, which is
+
+not conducive to the release of wine aroma. In the present
+study, β-glucosidase from H. uvarum Yun268 had the excellent tolerance to glucose and ethanol, suggesting its good
+performance in the winemaking.
+
+3.3.3
+
+Kinetic parameters
+
+Km and Vmax values are the characteristic constants of
+the enzyme under the certain condition. For β-glucosidase
+from H. uvarum Yun268, the Km and Vmax values for pNPGlu were 0.65 mmol/L and 5.1 nmol/min under optimum conditions, respectively. The Lineweaver–Burk plot
+is shown in Figure S3. The Km of this β-glucosidase
+was lower than those of β-glucosidases from Aspergillus
+niger CDBB-H-175 (2.7 mmol/L), A. niger CDBB-H-176
+(2.2 mmol/L), and O. oeni 31MBR (1.05 mmol/L) (Alarid
+García & Escamilla Silva, 2017; Dong et al., 2014), which
+indicates this enzyme has a higher binding force to aroma
+glycosides than the enzymes mentioned above. Besides,
+The Vmax was higher than that of β-glucosidase from O.
+oeni 31MBR (0.957 nmol/min), which indicates that this
+enzyme in our study has a better catalytic activity. In order
+to investigate the application potential of this enzyme, the
+kinetic parameters were determined under typical winemaking conditions (25◦ C, pH 3.5, and 15% ethanol). It
+was found that its Km (0.94 mmol/L) increased by 44.6%
+and its Vmax (2.8 nmol/min) decreased by 45.1% compared
+with those under optimum conditions. It indicates that
+winemaking conditions limited the catalytic ability of this
+enzyme greatly. However, its Km was still lower than the
+Km of enzymes from Candida glabrata strain D18 and
+H. uvarum strain H30, and its Vmax was similar to those
+enzymes under typical winemaking conditions (Han et al.,
+2021). It was reported that the enzymes from the strains
+D18 and H30 both showed high β-glucosidase activity during 16 days of wine fermentation and finally significantly
+increased the aroma of wine, suggesting that β-glucosidase
+in the present study may exhibit high catalytic efficiency in
+releasing wine aroma in winemaking.
+
+4
+
+CONCLUSION
+
+β-Glucosidase, a protein with an estimated molecular mass
+of 74.22 kDa, was purified from H. uvarum Yun268 cells
+using a combination of (NH4 )2 SO4 precipitation and chromatographic methods. It conserved more than 50% of the
+original activity at the temperature and pH range investigated. Furthermore, ethanol and glucose showed only
+a slight inhibitory effect on the enzyme activity. Its Km
+and Vmax values were 0.94 mmol/L and 2.8 nmol/min
+under typical winemaking conditions, respectively. These
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+892
+
+findings indicate the great potential of β-glucosidase from
+H. uvarum Yun268 in the wine industry due to its excellent tolerance to winemaking conditions. However, the
+action mechanism of this β-glucosidase on the glycosides
+of aroma compounds in grapes and wines needs to be
+investigated in the future.
+AC K N OW L E D G M E N T S
+This study was financially supported by the National Natural Science Foundation of China (31801528 and 31972199),
+Chinese Postdoctoral Science Foundation (2019M663833),
+the Key Research and Development Project of Xinjiang
+Uygur Autonomous Region in the 14th Five Year Plan
+(2020B01005-2), and the Basic Research Program of Natural Science in Shaanxi Province (2021JQ-147).
+AU T H O R CO N T R I B U T I O N S
+Tongtong Fan: writing—original draft–Equal. Siyu Jing:
+data curation–equal. Hongyan Zhang: formal analysis–
+equal. Xiaobing Yang: validation–equal. Guojie Jin:
+project administration–equal; writing—original draft–
+equal; writing—review & editing–Equal. Yongsheng
+Tao project administration–equal; resources–equal;
+supervision–equal; writing—review & editing–equal.
+CONFLICT OF INTEREST
+The authors declare no conflict of interest.
+ORCID
+Yongsheng Tao
+
+https://orcid.org/0000-0002-3854-3305
+
+REFERENCES
+Alarid García, C., & Escamilla Silva, E. M. (2017). Comparative study
+of the production of extracellular β-glucosidase by four different
+strains of Aspergillus using submerged fermentation. Preparative
+Biochemistry & Biotechnology, 47(6), 597–610. https://doi.org/10.
+1080/10826068.2017.1286598
+Arévalo Villena, M., Úbeda Iranzo, J. F., Cordero Otero, R. R., &
+Briones Pérez, A. I. (2005). Optimization of a rapid method for
+studying the cellular location of β-glucosidase activity in wine
+yeasts. Journal of Applied Microbiology, 99(3), 558–564. https://doi.
+org/10.1111/j.1365-2672.2005.02627.x
+Barbagallo, R. N., Spagna, G., Palmeri, R., & Torriani, S. (2004).
+Assessment of β-glucosidase activity in selected wild strains
+of Oenococcus oeni for malolactic fermentation. Enzyme and
+Microbial Technology, 34(3–4), 292–296. https://doi.org/10.1016/j.
+enzmictec.2003.11.013
+Barbagallo, R. N., Spagna, G., Palmeri, R., Restuccia, C., & Giudici, P. (2004). Selection, characterization and comparison of
+β-glucosidase from mould and yeasts employable for enological applications. Enzyme and Microbial Technology, 35(1), 58–66.
+https://doi.org/10.1016/j.enzmictec.2004.03.005
+Belda, I., Ruiz, J., Alastruey-Izquierdo, A., Navascues, E., Marquina, D., & Santos, A. (2016). Unraveling the enzymatic basis of
+wine “Flavorome”: A phylo-functional study of wine related yeast
+
+893
+
+species. Frontiers in Microbiology, 7, 12. https://doi.org/10.3389/
+fmicb.2016.00012
+Choi, J. Y., Park, A. R., Kim, Y. J., Kim, J. J., Cha, C. J., & Yoon, J.
+J. (2011). Purification and characterization of an extracellular βglucosidase produced by Phoma sp. KCTC11825BP isolated from
+rotten mandarin peel. Journal of Microbiology and Biotechnology,
+21(5), 503–508. https://doi.org/10.4014/jmb.1102.02014
+Claus, H., & Mojsov, K. (2018). Enzymes for wine fermentation:
+Current and perspective applications. Fermentation, 4(3), 52.
+https://doi.org/10.3390/fermentation4030052
+Corrêa, T. L. R., Franco Cairo, J. P. L., Cota, J., Damasio, A., Oliveira,
+L. C., & Squina, F. M. (2021). A novel mechanism of β-glucosidase
+stimulation through a monosaccharide binding-induced conformational change. International Journal of Biological Macromolecules, 166, 1188–1196. https://doi.org/10.1016/j.ijbiomac.2020.
+11.001
+Cota, J., Corrêa, T. L. R., Damásio, A. R. L., Diogo, J. A., Hoffmam,
+Z. B., Garcia, W., Oliveira, L. C., Prade, R. A., & Squina, F. M.
+(2015). Comparative analysis of three hyperthermophilic GH1 and
+GH3 family members with industrial potential. New Biotechnology, 32(1), 13–20. https://doi.org/10.1016/j.nbt.2014.07.009
+da Silva, R. R., da Conceição, P. J. P., de Menezes, C. L. A., de Oliveira
+Nascimento, C. E., Machado Bertelli, M., Pessoa Júnior, A., de
+Souza, G. M., da Silva, R., & Gomes, E. (2019). Biochemical characteristics and potential application of a novel ethanol and glucosetolerant β-glucosidase secreted by Pichia guilliermondii G1.2. Journal of Biotechnology, 294, 73–80. https://doi.org/10.1016/j.jbiotec.
+2019.02.001
+Dong, M., Fan, M. T., Zhang, Z., Xu, Y., Li, A. X., Wang, P. X., & Yang,
+K. (2014). Purification and characterization of β-glucosidase from
+Oenococcus oeni 31MBR. European Food Research & Technology,
+239(6), 995–1001. https://doi.org/10.1007/s00217-014-2296-7
+Gottschalk, L. M. F., Paredes, R. D. S., Teixeira, R. S. S., Silva, A. S.
+D., & Bon, E. P. D. S. (1934). Efficient production of lignocellulolytic enzymes xylanase, β-xylosidase, ferulic acid esterase and βglucosidase by the mutant strain Aspergillus awamori 2B.361 U2/1.
+Brazilian Journal of Microbiology, 44(2), 569–576. https://doi.org/
+10.1590/S1517-83822013000200037
+Gueguen, Y., Chemardin, P., Labrot, P., Arnaud, A., & Galzy, P. (1997).
+Purification and characterization of an intracellular β-glucosidase
+from a new strain of Leuconostoc mesenteroides isolated from cassava. Journal of Applied Microbiology, 82, 469–476. https://doi.org/
+10.1046/j.1365-2672.1997.00136.x
+Han, X., Qing, X., Yang, S., Li, R., Zhan, J., You, Y., & Huang, W.
+(2021). Study on the diversity of non-Saccharomyces yeasts in Chinese wine regions and their potential in improving wine aroma
+by beta-glucosidase activity analyses. Food Chemistry, 360, 129886.
+https://doi.org/10.1016/j.foodchem.2021.129886
+Hu, K., Jin, G. J., Xu, Y. H., & Tao, Y. S. (2018). Wine aroma response
+to different participation of selected Hanseniaspora uvarum in
+mixed fermentation with Saccharomyces cerevisiae. Food Research
+International, 108, 119–127. https://doi.org/10.1016/j.foodres.2018.
+03.037
+Hu, K., Qin, Y., Tao, Y. S., Zhu, X. L., Peng, C. T., & Ullah, N.
+(2016). Potential of glycosidase from Non-Saccharomyces isolates
+for enhancement of wine aroma. Journal of Food Science, 81(4),
+M935–M943. https://doi.org/10.1016/10.1111/1750-3841.13253
+Kong, C. L., Li, A. H., Jin, G. J., Zhu, X. L., & Tao, Y. S. (2019).
+Evolution of volatile compounds treated with selected
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Localization, purification, and characterization of β-glucosidase
+
+non-Saccharomyces extracellular extract during Pinot noir
+winemaking in monsoon climate. Food Research International,
+119, 177–186. https://doi.org/10.1016/j.foodres.2019.01.036
+Li, N., Wang, Q. Q., Xu, Y. H., Li, A. H., & Tao, Y. S. (2020). Increased
+glycosidase activities improved the production of wine varietal
+odorants in mixed fermentation of P. fermentans and high antagonistic S. cerevisiae. Food Chemistry, 332, 127426. https://doi.org/10.
+1016/j.foodchem.2020.127426
+Li, Y. H., Wang, Y., Fan, L. L., Wang, F., Liu, X. L., Zhang, H. Z.,
+& Zhou, J. Z. (2020). Assessment of β-D-glucosidase activity and
+bgl gene expression of Oenococcus oeni SD-2a. PLoS One, 15(10),
+e0240484. https://doi.org/10.1371/journal.pone.0240484
+Li, Y. L., Li, Q. X., Liu, R. J., & Shen, X. Q. (2018). Chinese medicine
+amygdalin and β-glucosidase combined with antibody enzymatic
+prodrug system as a feasible antitumor therapy. Chinese Journal of Integrative Medicine, 24(3), 237–240. https://doi.org/10.1007/
+s11655-015-2154-x
+Lippens, J. L., Egea, P. F., Spahr, C., Vaish, A., Keener, J. E., Marty, M.
+T., Loo, J. A., & Campuzano, I. D. G. (2018). Rapid LC-MS method
+for accurate molecular weight determination of membrane and
+hydrophobic proteins. Analytical Chemistry, 90(22), 13616–13623.
+https://doi.org/10.1021/acs.analchem.8b03843
+López, M. C., Mateo, J. J., & Maicas, S. (2015). Screening of βglucosidase and β-xylosidase activities in four non-Saccharomyces
+yeast isolates. Journal of Food Science, 80(8), C1696–C1704. https:
+//doi.org/10.1111/1750-3841.12954
+Maicas, S., & Mateo, J. J. (2005). Hydrolysis of terpenyl glycosides in
+grape juice and other fruit juices: A review. Applied Microbiology
+and Biotechnology, 67(3), 322–335. https://doi.org/10.1007/s00253004-1806-0
+Mateo Tolosa, J. J. (2019). Influence of nitrogen content on grape nonSaccharomyces glycosidic activities. American Journal of Enology
+and Viticulture, 70(3), 318–322. https://doi.org/10.5344/ajev.2019.
+18063
+Mcmahon, H., Zoecklein, B. W., Fugelsang, K., & Jasinski, Y. (1999).
+Quantification of glycosidase activities in selected yeasts and lactic
+acid bacteria. Journal of Industrial Microbiology and Biotechnology,
+23(3), 198–203. https://doi.org/10.1038/sj.jim.2900720
+Michlmayr, H., Schumann, C., Wurbs, P., da Silva, N. M. B. B., Rogl,
+V., Kulbe, K. D., & Del Hierro, A. M. (2010). A β-glucosidase from
+Oenococcus oeni ATCC BAA-1163 with potential for aroma release
+in wine: Cloning and expression in E. coli. World Journal of Microbiology & Biotechnology, 26(7), 1281–1289. https://doi.org/10.1007/
+s11274-009-0299-5
+Mishra, B. B., Gautam, S., & Sharma, A. (2012). Purification and characterisation of polyphenol oxidase (PPO) from eggplant (Solanum
+melongena). Food Chemistry, 134(4), 1855–1861. https://doi.org/10.
+1016/j.foodchem.2012.03.098
+Sestelo, A. B. F., Poza, M., & Villa, T. G. (2004). β-Glucosidase activity
+in a Lactobacillus plantarum wine strain. World Journal of Microbiology & Biotechnology, 20(6), 633–637. https://doi.org/10.1023/B:
+WIBI.0000043195.80695.17
+
+Localization, purification, and characterization of β-glucosidase
+
+Sun, W. X., Hu, K., Zhang, J. X., Zhu, X. L., & Tao, Y. S. (2018).
+Aroma modulation of Cabernet Gernischt dry red wine by optimal enzyme treatment strategy in winemaking. Food Chemistry,
+245, 1248–1256. https://doi.org/10.1016/j.foodchem.2017.11.106
+Swangkeaw, J., Vichitphan, S., Butzke, C. E., & Vichitphan, K. (2010).
+Characterization of β-glucosidases from Hanseniaspora sp. and
+Pichia anomala with potentially aroma-enhancing capabilities in
+juice and wine. World Journal of Microbiology & Biotechnology,
+27(2), 423–430. https://doi.org/10.1007/s11274-010-0474-8
+Wang, Y. X., Zhang, C., Xu, Y., & Li, J. M. (2015). Evaluating potential
+applications of indigenous yeasts and their β-glucosidases. Journal
+of the Institute of Brewing, 121(4), 642–648. https://doi.org/10.1002/
+jib.256
+Winterhalter, P., & Skouroumounis, G. K. (1997). Glycoconjugated
+aroma compounds: Occurrence, role and biotechnological transformation. Advances in Biochemical Engineering Biotechnology, 55,
+73–105. https://doi.org/10.1007/BFb0102063
+Zhang, J., Zhao, N., Xu, J. N., Qi, Y. M., Wei, X. Y., & Fan, M. T. (2021).
+Homology analysis of 35 β-glucosidases in Oenococcus oeni and
+biochemical characterization of a novel β-glucosidase BGL0224.
+Food Chemistry, 334, 127593. https://doi.org/10.1016/j.foodchem.
+2020.127593
+Zhang, P., Zhang, R., Sirisena, S., Gan, R., & Fang, Z. (2021).
+Beta-glucosidase activity of wine yeasts and its impacts on wine
+volatiles and phenolics: A mini-review. Food Microbiology, 100,
+103859. https://doi.org/10.1016/j.fm.2021.103859
+Zhuang, J. Q., Mei, J. G., Zu, L. C., Miao, L. Z., & Shen, Z.
+Q. (2016). Development of HI test antigen of avian infectious
+bronchitis virus. Progress in Veterinary Medicine, 37(7), 34–38.
+https://doi.org/10.16437/j.cnki.1007-5038.2016.07.007
+
+S U P P O RT I N G I N F O R M AT I O N
+Additional supporting information may be found in the
+online version of the article at the publisher’s website.
+
+How to cite this article: Fan, T., Jing, S., Zhang,
+H., Yang, X., Jin, G., & Tao, Y. (2022). Localization,
+purification, and characterization of a novel
+β-glucosidase from Hanseniaspora uvarum Yun268.
+Journal of Food Science, 87, 886–894.
+https://doi.org/10.1111/1750-3841.16068
+
+17503841, 2022, 3, Downloaded from https://ift.onlinelibrary.wiley.com/doi/10.1111/1750-3841.16068 by Centro de Investigacion y Asistencia en Tecnologia y Diseno del Estado de Jalisco, A.C., Wiley Online Library on [26/05/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+894
+
+

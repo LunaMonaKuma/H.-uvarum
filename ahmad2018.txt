@@ -1,0 +1,1341 @@
+CHAPTE R 11
+
+β-Glucan as a Food Ingredient
+Asif Ahmad, Muhammad Kaleem
+Pir Mehr Ali Shah Arid Agriculture University, Rawalpindi, Pakistan
+
+1 Introduction
+There is a direct relationship between epidemiology and food ingredients having their origin
+from plants. A growing trend of utilizing novel plant food ingredients as a prophylactic
+measure against several ailments is evident from the documented literature. Extraction,
+characterization, and utilization of these food constituents are directly associated with
+better human health. Among these vital food constituents, β-glucan holds a high position in
+plant-based and microbial sources that possess functional properties for industrial products
+as well as having several health implications. Chemically, it is a nonstarch polysaccharide
+belonging to the carbohydrates family and is composed of long chains of glucose units either
+in a branched or in an unbranched fashion. The binding force for these long-chain molecules
+are glycosidic linkages among β-d-glucopyranose molecules. Glycosidic linkages among
+glucose molecules may vary according to the source of β-glucan. For instance, β-glucan
+from cereal sources may have β-(1→3) and β-(1→4) linkages, thus forming a wormlike
+β-d-glucopyranose structure. In these cereal sources, β-(1→3) predominantly exists as
+cellotriosyl and cellotetraosyl units that constitute approximately 90% of the whole molecular
+structure (Ahmad and Anjum 2010; Wood et al., 1994). Most of the chemical properties such
+as gel formation can be best explained on 1→3 and 1→4 linkages and are under the control
+of specific genes (Schreiber et al., 2014; Wilson et al., 2015).
+The dietary fiber nature, health benefits, and numerous sources of β-glucan are documented
+in the literature. The usage of β-glucan against certain diseases may also vary according
+to different sources. Baker’s yeast is an important source of β-glucan that is associated
+with lowering of cholesterol and boosting of the immune system. These health-related
+benefits have a leading role for the development of dietary supplements from baker’s yeast.
+Mushrooms are another source from which β-glucan can be extracted and may be used
+for the development of similar dietary supplements. The health-related properties in these
+sources are attributed to the presence of β-(1→3) (1→6) linkages and are different from
+cereal source linkages that consist of β-(1→3) (1→4) linkages (Ahmad and Ahmed 2011;
+
+Biopolymers for Food Design
+http://dx.doi.org/10.1016/B978-0-12-811449-0.00011-6
+
+351
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+352
+
+Chapter 11
+
+Ahmad et al., 2012a). In these sources, glycosidic linkages in the form of β-(1→3) dominate
+and may connect approximately 1500 glucose units, whereas the number for β-(1→6)
+linkages is comparatively low and may connect about 150 glucose molecules. With reference
+to β-glucan from the cell wall of baker’s yeast, the 85% share of 1→3 linkages have more
+influence on characteristics and health implications as compared to 1→6 linkages that have a
+share of about 15% in the cell walls of these biological sources (Klis et al., 2002). The dietary
+fiber nature of β-glucan is responsible for reduction in blood low-density lipoprotein (LDL)
+cholesterol, which is confirmed by animal model studies (Anderson, 1995), as well as in
+clinical studies that β-glucan can impart health effects similar to those of other dietary fibers
+(Glore et al., 1994). β-Glucan from cereal source with 1→3 and 1→4 linkages provides relief
+in coronary heart disease. This kind of β-glucan dietary fiber, along with psyllium fiber and
+soy protein, is authorized by the US Food and Drug Administration (FDA) for patients with
+coronary heart disease. Regular consumption of barley or oat β-glucan is highly effective in
+reducing total serum and LDL cholesterol. Especially, barley β-glucan is highly effective in
+reducing postprandial glucose levels and modifying endocrine response related to digestion
+and absorption of sugars and glucose (Jenkins et al., 2002).
+β-Glucan is well known for its water holding, stabilizing, and texturing properties. Use
+of β-glucan in selective products as a fat replacer provides a way to develop products for
+weight watchers and diabetic patients. This will not only increase the range of food products
+for specialty use but also provide some health benefits to the general population. Regular
+consumption of β-glucan-containing foods also showed positive effects in coronary heart
+disease, diabetes, and hypercholesteremic conditions (Ahmad et al., 2009a; Yokoyama
+et al., 1997). The major health benefits are attributed to high viscosity introduced by β-glucan
+in the small intestine, and sometimes this intake is associated with appetite suppression.
+The viscous behavior of β-glucan in vivo and in vitro is highly associated with its molecular
+weight and chain length. In general, long-chain high-molecular-weight β-glucan has a
+tendency to form viscous gels due to the complex arrangement of the chains from mixed
+linkages (Vaikousi et al., 2004). Solubility and water holding capacity are other important
+factors in addition to molecular weight that may affect the viscosity and flow behavior of
+β-glucan. β-Glucan from barley has a capacity to form highly viscous gels of pseudoplastic
+nature. This pseudoplastic nature of barley β-glucan offers great resistance to digestion in the
+small intestine of human beings and other monogastric animals. High-viscosity pseudoplastic
+gels also aid in reduction of serum cholesterol, regulation of insulin secretion, and glucose
+absorption (Jenkins et al., 2002).
+Based on documented health benefits of β-glucan from various sources, there is a growing
+trend of utilization of β-glucan in value-added nutraceutical food products and supplements.
+Most of the interest in developing new products originates owing to positive impacts on
+metabolic parameters’, tendency to combat chronic diseases like diabetes, cardiovascular
+conditions, and cancer. Currently, functional and nutraceutical foods that address these
+
+β-Glucan as a Food Ingredient
+
+353
+
+chronic problems are limited in number, but the number of sufferers from these problems is
+increasing day by day. This is the driving force behind the ever growing market of β-glucancontaining products. The development of β-glucan-containing functional foods will be of
+paramount importance in the present era for diabetic, cardiovascular, and cancer patients
+(Ahmad et al., 2012b; American Diabetes Association, 1999; Ho et al., 2016).
+Apart from nutritional benefits of β-glucan that have implications for health, this valuable
+ingredient is also popular in the food industry owing to several industrial important
+properties. Some of these properties include provision of thickness to products, emulsification
+properties, water holding capacity, texturizing power, stabilizing properties, and gelation
+(Ahmad and Anjum, 2010). All of these properties along with several others define the
+suitability of β-glucan for incorporation into bread, soups, cookies, sauces, noodles,
+beverages, and other food products (Ahmad et al., 2008; Burkus and Temelli, 2000).
+Although β-glucan from various sources may be incorporated to develop these products,
+cereal β-glucan is the preferred and easily available source for application in food products.
+Among cereals, barley and oat β-glucan is more explored for this purpose as it imparts a
+better mouth feel and texture to previously mentioned food products with the provision of
+ample amounts of dietary fiber. β-Glucan from these two sources may be used to replace
+conventionally used stabilizers and thickeners such as gum arabic, carrageenan, modified
+starches, alginates, modified celluloses, pectin, xanthan gum, and guar gum. Based on
+the aforementioned arguments, β-glucan as a food ingredient has a greater potential to
+be used in numerous products that may extend from cereal-based products to meat-based
+products. It is equally good for beverages, pasta, noodles, sausages, yogurts, cakes, breads,
+soups, confectionary products, and many more (Ahmad and Ahmed, 2011; Skouroliakou
+et al., 2016; Temelli et al., 2004).
+
+2 β-Glucan From Different Sources
+With the progress in research, scientists have discovered new sources of β-glucan.
+Conventionally, cereal is perhaps the oldest source from which β-glucan has been extracted,
+or these sources in unpurified form have been used for the development of food products.
+Apart from conventional cereal sources, β-glucan is now extracted from yeast, algae, molds,
+mushrooms, bacteria, and marine animals. These sources along with their β-glucan content
+are briefly presented in Table 11.1. A brief account of these sources with respect to β-glucan
+is explained in following sections.
+
+2.1 β-Glucan From Cereal Sources
+Barley, oats, rye, and rice are the common cereals that have been under research focus
+for the extraction of β-glucan. However, barley and oats are considered richer in terms of
+β-glucan, having β-glucan content of 4%–7%. Hull-less varieties of barley are recognized as
+
+354
+
+Chapter 11
+Table 11.1: Sources of β-glucan and its content.
+Sources
+
+β-Glucan Content (%)
+
+Beans
+Canary seeds
+Corn/maize
+Flax
+Lentils
+Millet
+Peas
+Rice
+Rye
+Spelt
+Spring wheat
+Winter wheat
+Hull-less barley
+Barley
+Oat
+Barley mutant (HiAmi x Cheri) x Cheri
+
+2.4–3.5
+1.1–2.3
+0.1–1.3
+0.3–0.7
+0.4–1.1
+0.5–1.0
+0.3–0.7
+0.4–0.9
+0.7–2.4
+0.6–1.1
+0.4–1.4
+3.7–11
+5–10
+5–10
+3–7
+7–12
+
+Source: Ahmad, A., Munir, B., Muhammad, A., Shaukat, B., Muhammad, A., Tahira, T., 2012b.
+Perspective of β -glucan as functional ingredient for food industry. J. Nutr. Food Sci. 2(2), 133–139.
+
+having more β-glucan content than normal barley and may range up to 10%–13% β-glucan.
+In general, β-glucan is concentrated in bran and endosperm cell walls of oats and barley.
+Within the same cereal source β-glucan content may vary from cultivar to cultivar and also
+be influenced by environmental factors. In barley, waxy cultivars contain more amylose
+and β-glucan. Strong interaction between cultivars and environmental factors suggests that
+suitable cultivars should be selected for a specific region to have higher β-glucan content
+than the respective cereals source. Cereal β-glucan is characterized as having 1→3 and 1→4
+glycosidic linkages and is often referred to as mixed linkages β-glucan (Fig. 11.1). Although
+β-glucan from oats and barley appeared similar in chemical nature, they differ slightly in their
+functional properties. The oat bran and endosperm part of the kernel is also a rich source of
+β-glucan, and its concentration during extraction can be further increased at the purification
+step that focuses on removal of starches. The nature of oat β-glucan is inclined toward soluble
+dietary fibers that resist digestion in the small intestine and extend a feeling of satiety.
+The US FDA (1997) approved the claim that oat β-glucan is effective in reducing the
+cholesterol level of plasma and lowering the risk of heart disease. A similar move was
+adopted by the UK Joint Health Claims Initiative (JHCI) to recognize oat β-glucan for
+cholesterol-lowering health benefits. These agencies recommended a dose of 3 g oat β-glucan
+on a daily basis to reduce LDL cholesterol and total cholesterol (Ahmad et al., 2009a, 2012b).
+Rye is another cereal source from which β-glucan can be extracted but at lower levels.
+β-Glucan from this source is difficult to extract at this time, and more research is required
+to develop feasible extraction techniques for the extraction of β-glucan from rye. Alkali
+
+β-Glucan as a Food Ingredient
+
+355
+
+Figure 11.1: Chemical Structure for Cereal β-Glucan.
+*, Sequence of glucose molecules continues with corresponding glycosidic
+linkages in the polysaccharide chain.
+
+extraction techniques will have better prospects to extract β-glucan from this source (Tosh
+et al., 2004). A similar situation exists for wheat, which contains lesser amounts of β-glucan,
+and extraction is still a problem from this source (Hollmann and Lindhauer, 2005). Inglett
+et al. (2004) developed a technique for extraction of β-glucan from rice, and commercialized
+the product with the name of Ricetrim.
+
+2.2 β-Glucan From Mushrooms
+In Asian countries, mushrooms and mushroom-derived materials have been used for
+centuries for health purposes. These mushrooms are good sources of dietary fibers,
+β-glucan, antioxidants, and many other bioactive compounds and are exploited for the
+manufacturing of commercial products. β-Glucan extracted from cereal and mushroom
+sources has demonstrated health implications and is composed of basic β-d-glucan units
+that are arranged differently in cereals (1→3 and 1→4) and in mushrooms (1→3 and 1→6)
+(Zhang et al., 2013). In mushrooms, a higher amount of β-glucan is concentrated either
+in mycelia or in fruiting bodies. Mushroom sclerotia of Pleurotus tuberregium is a great
+source of β-glucan (Zhang et al., 2004). The edible mushroom Termitomyces eurhizus is
+another important source of β-glucan that can be extracted using the hot alkaline method
+(Banik et al., 2015). Some other researchers used a hot water extraction method instead of
+alkaline media to extract β-glucan from the fruiting bodies of edible mushrooms, Pleurotus
+eryngii and Pleurotus ostreatoroseus (Carbonero et al., 2006). β-Glucan was extracted
+from Penicillium chrysogenum mycelia by Wang et al. (2007). β-Glucan extracted from
+these fruiting bodies is effective to enhance the immune system and is used to stimulate the
+tumor necrosis factor. Some studies showed its potential against infection through activating
+infection-fighting cytokines. Mushroom β-glucan with some other bioactives of mushrooms
+
+356
+
+Chapter 11
+
+provide major protection against DNA damage to lymphocytes. The 1→3 glycosidic
+linkages in mushroom β-glucan are supposed to activate the macrophages to kill the diseasecausing cells of pathogens through induction of nitric oxide synthase, tumor necrosis factor,
+and macrophage inhibitor proteins. Many more researches are available indicating the
+effectiveness of mushroom β-glucan and other allied bioactives against radiation, infection,
+and tumors. However, more research is required to understand the mechanism of how the
+mushroom β-glucan acts to produce these beneficial effects. Nevertheless, it appears to have
+very different actions and activities from oat- and barley-derived β-glucan and dietary fiber
+(Ahmad et al., 2012b; Devi et al., 2015).
+
+2.3 β-Glucan From Yeast Cells
+Like cereals and mushrooms, the yeast cell wall is also a great source of the βglucan polysaccharides. Several scientists have extracted β-glucan from the cell
+walls of yeasts such as Saccharomyces cerevisiae, Kloeckera apiculata, Meyerozyma
+guilliermondii, Debaryomyces hansenii, Laminaria digitata, Zygosaccharomyces bailii,
+Pichia membranaefaciens, Kluyveromyces marxianus, Brettanomyces bruxellensis,
+Schizosaccharomyces pombe, and Candida milleri. These may be grown on various carbon
+sources, including sucrose, glucose, and fructose. Extracted β-glucan from these sources
+is composed of repeating units of β-d-glucose that are arranged together via 1→3 linear
+linkages, whereas branching originates as 1→6 linkages (Fig. 11.2). Side branching in
+yeast β-glucan is an important factor that determine its biological activity. Length of
+branched chain and frequency at which this branch originates influence the implications
+for biological activity. A higher degree of branching is considered better to achieve
+greater biological activity from the extracted β-glucan from these sources (Ahmad and
+Anjum, 2010; Carpenter et al., 2013; Nguyen et al., 1998; Solís-Pacheco et al., 2013;
+Sweeney et al., 2012).
+
+Figure 11.2: Chemical Structure for Yeast β-Glucan.
+*, Sequence of glucose molecules continues with corresponding glycosidic
+linkages in the polysaccharide chain.
+
+β-Glucan as a Food Ingredient
+
+357
+
+2.4 β-Glucan From Bacterial Sources
+It is possible to extract β-glucan from the bacterial cell wall. Bacterial cell walls offer
+diversified types of β-glucan that may vary from species to species. Chemistry of extracted
+β-glucan may range from linear to branched β-glucan. In linear fashion, bacterial β-glucan
+may exist as repeating glucose units linked together by β (1→3) linkages, but in branched
+form it consists of glucose units having (1→3,1→6) glycosidic linkages. A cyclic form also
+exists with branching at 1→2 position to get a chemical structure of (1→3,1→2)-β-glucans.
+The production capacity of β-glucan is evident in most of the prokaryotic and eukaryotic
+organisms. The biological activity and physiochemical properties of different variants of
+bacterial β-glucan may vary. The linear β-glucan that is often documented with the name
+of curdlan has good gelling and rheological properties in addition to excellent biological
+activity. A variety of bacterial microorganisms may be employed in a fermentation
+process to produce linear curdlan. Members belonging to Agrobacterium, Bacillus, and
+Pseudomonas are renowned for the production of curdlan. In recent times, a Pseudomonas
+species named Pseudomonas sp. QL212 from soil samples appeared as a potential source
+of low-molecular-weight curdlan. The low-molecular-weight property of curdlan is
+highly associated with increased solubility (Yang et al., 2016). Another species recently
+discovered from a Saudi Arabian soil sample is Paenibacillus sp. NBR-10; it is capable
+of producing reasonable amounts of curdlan as exopolysaccharide. Sophisticated machine
+analysis revealed the chemical nature of this curdlan product as having β-glucose units
+linked together with 1→3 glycosidic linkages (El-Sayed et al., 2016). Some of the bacterial
+members of the Agrobacterium genus possess high capacity to produce curdlan in the form
+of homopolysaccharide with a glycosidic linkage of (1→3)-β-glucans. This type of curdlan
+is devoid of branching, and Agrobacterium includes perhaps the most used bacteria for
+the scientific studies of curdlan. Among various strains from this group, Agrobacterium
+sp. ATCC 31749 has the highest potential to produce curdlan (Wu et al., 2016).
+
+2.5 Other Sources of β-Glucan
+Some other plant sources that contain minor amounts of β-glucan are millet (Panicum
+miliaceum), beans, corn/maize (Zea mays), flax, canary seed (Tropaeolum peregrinum),
+lentil (Lens culinaris), peas, spelt (Triticum spelta), spring wheat, and winter wheat (Ahmad
+et al., 2012b; Demirbas, 2005).
+
+3 Structure and Composition of β-Glucan
+Chemically, β-glucan is a nonstarch homopolysaccharide associated with cereal grains, but
+these are widespread in nature. Great diversity exists in structure and molecular weight of
+β-glucan based on its source. Today advancements in research make it possible to distinguish
+
+358
+
+Chapter 11
+
+linear and branched structures, α- and β-anomers, as well as mixed α,β-glucans with various
+glycoside bond positions and molecular masses. To enhance purity, substances like proteins,
+starches, lipids, minerals, and other polysaccharides need to be removed during extraction
+and purification steps. A great number of spectroscopic, chemical, and infrared machine
+analysis methods are available for identifying the nature and structure of β-glucan. Among
+these, Fourier-transform infrared (FTIR) spectroscopy and nuclear magnetic resonance
+(NMR) spectroscopy are powerful tools for elucidation of structural features of β-glucans.
+Vibrational spectroscopy is most effective to determine structure based on anomeric carbon
+of glucans and can be used for purity control as well. Size-exclusion chromatography
+along with multiple angular laser light scattering detectors is a useful tool for estimation of
+molecular weight for extracted β-glucan (Ahmad et al., 2012a; Synytsya and Novak, 2014).
+For fungal β-glucan analysis, organic elemental analysis may provide valuable information
+about composition. Extraction of nitrogenous compounds along with fungal β-glucan can
+be linked with proteins, amines, and chitosans. These contents along with sugars, uronic
+acids, and nitrogenous substances can be determined through chemical analysis and give
+an idea about the purity of extracted β-glucan. Use of sophisticated techniques provides
+valuable information about homogeneity, molecular weight distribution, and branching and
+may include techniques like gel permeation, size-exclusion chromatography, angular laser
+light scattering, and viscometry. A detailed sugar profile can be carried out using the gas
+chromatographic technique. These samples have to undergo strong acidic conditions for
+conversion into respective alditol acetate, and they require elevated temperature. FTIR and
+NMR spectroscopy again provide reliable data on the structure of yeast and fungal β-glucans
+(Borchani et al., 2016; Vetvicka and Novak, 2013).
+In cereals, β-glucan resides within the cell wall of the endosperm and bran part of the kernel.
+Barley endosperm contains about 75% of grain β-glucan along with arabinoxylan and minor
+proteins. Good sources of β-glucan include oat and barley, but there is little variation in
+the β-glucan content of these two cereals (i.e., oat contains 3%–7% whereas barley contain
+3%–11% β-glucan) (Skendi et al., 2003). Burkus and Temelli (2000) reported β-glucan
+content of oat and barley in the range of 4%–7%. These results are also supported by the
+findings of Wood (2002), but several cultivars of oat may contain 6%–7% and some cultivars
+of barley contain β-glucan up to 12%. The presence of arabinoxylan and minor proteins
+along with β-glucan within the cell wall influence the extraction method. For each extraction
+method these are extracted and purification is required to have a higher percentage recovery.
+During extraction from cereal source, (1→3) (1→4) β-glucan is the major product, whereas
+arabinoxylans and cellulose along with small quantities of vitamins, lipids, proteins, minerals,
+phenolic compounds, and antioxidants are impurities (Panfili et al., 2003). Sometimes
+other components having nutritional importance are attached with fibers that are capable of
+immunopotentiating, whereas others have antioxidant activities. Several minerals in hullless barley and β-glucan content of the hull-less barley correlate with each other. Out of
+
+β-Glucan as a Food Ingredient
+
+359
+
+these, Ca, Zn, Fe, Cu, Mn, and Se not only are related to β-glucan content but also have
+an impact to reduce blood sugar. Similar function is achieved through β-glucan, so these
+minerals are complementary to each other, reinforcing their effect if they exist in combination
+(Yan et al., 2016). Presence of β-glucan in cereal grain is directly controlled by genetic
+and environmental factors. The nature of polysaccharides in barley, oats, wheat, and rye
+is variable. For wheat and rye these polysaccharides are in the form of pentosans, whereas
+barley and oats are rich in β-glucan polysaccharides. In wheat, arabinoxylan is in the range
+of 4%–8%, whereas barley contains 4%–10%. Wheat has β-glucan content of 0.5%–1.0%,
+whereas in the case of barley it is 3%–11%. All tissues in barley seedlings except the root cap
+have been reported to contain β-glucan. However, β-glucan content in barley increases during
+elongation and decreases at the maturation stage. β-Glucan is found in the lowest quantity
+in the meristematic tissue as compared to other tissues (Ahmad and Anjum, 2010; Gibeaut
+et al., 2005; Yalcın et al., 2007).
+Several factors are responsible for variation in β-glucan content of cereal grains grown under
+different environmental conditions. The most important are agronomic factors, irrigation,
+type of cultivar, and nitrogen fertilizers. Cultivars of barley that are grown in Canada and
+the USA contain the highest β-glucan content; similarly, oat cultivars grown in the United
+States also have greater content of β-glucan. Oat cultivars grown in Sweden contain the
+lowest content of β-glucan (Genc et al., 2001). The effect of environmental and genetic
+factors on the β-glucan content of barley that is grown in Australia, Canada, and China was
+studied by Zhang et al. (2002). The β-glucan contents of cultivars grown in China are in
+the range of 2.98%–8.62%. The Tibet region was unique for cultivation of barley with the
+highest amounts of β-glucan. Temperature also influenced the presence of β-glucan content
+irrespective of location: Barley cultivars grown during the winter in China showed the same
+amounts of β-glucan content as the cultivars grown in Canada and Australia. Similarly,
+environmental factors and availability of water at maturation stage also significantly influence
+the β-glucan content in cereal grains. A moisture stress just before harvest usually increases
+β-glucan levels in grain (Ahmad and Anjum, 2010).
+
+4 Defining Dietary Fiber and Recognition of β-Glucan as Dietary Fiber
+One comprehensive definition of dietary fiber proposed by Trowell (1972) is based on
+resistance to enzymes digesting the plant cell wall. On the basis of this definition and several
+other definitions of dietary fiber that originated later on, β-glucan fulfills the requirements of
+these definitions and can therefore be classified as dietary fiber. As research progresses, the
+definition of dietary fiber is undergoing dynamic revision. In another definition of dietary
+fiber, Stear (1990) proposed a definition declaring polysaccharides, oligosaccharides, lignin,
+and associated plant substances to be dietary fibers. During the past two decades there have
+been global debates on defining dietary fiber. Codex (1998) presented a more comprehensive
+
+360
+
+Chapter 11
+
+definition of dietary fiber that includes edible parts of plant origin or analogous carbohydrates
+that are resistant to digestion and absorption in the human small intestine with complete
+or partial fermentation in the large intestine. A few years later, DeVries presented another
+definition of dietary fiber that relates dietary fiber as plant material that is digested by the
+microflora of the gut and is not hydrolyzed by the enzymes secreted by the human digestive
+system. Components of plants that come under this definition include polysaccharides
+that are not starches such as hemicellulose, cellulose, pectins, and gums along with
+resistant starches. Vegetables, wheat, and other cereals are good sources of dietary fiber
+(DeVries, 2001). At the same time, the Codex Alimentarius Commission (CAC) set up a
+special committee to revise the definition of dietary fiber; this Codex Committee on Nutrition
+and Foods for Special Dietary Uses (CCNFSDU) reviewed the definition of dietary fiber
+and included both edible animal and plant material for defining dietary fiber. However, the
+majority of the latest research and reports have shown that dietary fiber is obtained from
+plant sources. It was recommended by this committee that the definition of dietary fiber
+require an amendment to the current definition (WHO, 2001). A new definition proposed
+by the National Academy of Sciences shares the idea of functional fiber and claims that
+the total fiber is the sum of dietary fiber and functional fiber. Tungland and Meyer (2002)
+defined dietary fiber as a complex of nondigestible carbohydrates and lignin that are intrinsic
+and intact in plants, and functional fiber comprises nondigestible carbohydrates that have
+beneficial physiological effects in the human body. One year later, the World Health
+Organization (WHO, 2003) also supported the idea of intrinsic and added fiber in food. In
+2006, CAC again modified the definition of dietary fiber and included the idea of degree of
+polymerization (DP). According to this definition, carbohydrates with at least DP value of 3
+that are indigestible and unabsorbable in the human small intestine may be included in the
+definition of dietary fiber (CAC, 2006). Some modification was made to this definition with
+inclusion of a footnote that empowers national authorities to either consider it as dietary fiber
+or not (CAC, 2009; Phillips and Cui, 2011). Later on, researchers again finalized another
+definition that relates 10 or more monosaccharide units in the polysaccharide structure
+and that should not be broken down by the endogenous enzymes in the small intestine of
+humans (CAC, 2008, 2015). β-Glucan fulfilled all the requirements of all of these definitions
+presented in different eras. Therefore, β-glucan has been recognized as a dietary fiber in all
+of these eras.
+There are valid incidents that show the activity of β-glucan as dietary fiber. The same health
+benefits can be achieved through consumption of β-glucan as from other dietary fibers.
+These may include health benefits for diabetic patients due to change in glycemic index
+(Schulze et al., 2004), increased frequency of bowel movements (Sanjoaquin et al., 2004)
+and relief of constipation, and physiological benefits related to depression of cholesterol
+levels and the risk of colon cancer (Ahmad et al., 2009a; Anderson, 1991). To achieve all
+of these health-related benefits, WHO recommends consumption of about 25 g dietary fiber
+on a daily basis, whereas the FDA recommends 3 g of β-glucan per day. These amounts of
+
+β-Glucan as a Food Ingredient
+
+361
+
+dietary fiber or β-glucan can be achieved by consumption of fruits, vegetables, oats, barley,
+and beans (FDA, 2004; WHO, 2003).
+Processing in industrial conditions or fermentation in the large intestine has an effect on
+dietary fiber as well as β-glucan. No matter what is the source of β-glucan or dietary fiber, it
+undergoes changes during processing as well as by microbial flora in the large intestine. The
+actual dietary fiber contents may decrease through conversion into short-chain fatty acids in
+the large intestine. Some of the products produced as a result of this fermentation process are
+butyrates, lactates, propinonates, and acetates. The processing condition such as fermentation
+may affect the dietary fiber contents of the cereals. Under these changes insoluble dietary fiber
+undergoes more changes than does soluble dietary fiber from barley and oats. Fewer changes
+appeared in the case of oats as compared to other cereals. The soluble fiber and soluble β-glucan
+fraction from barley experiences major changes in viscosity and molecular weight during
+the fermentation process in large intestine. But oat dietary fiber, including β-glucan, showed
+fewer changes in viscosities after the fermentation process and there appeared less change in
+molecular weight (Dodevska et al., 2013; Lambo et al., 2005). Production of short-chain fatty
+acid in the large intestine by the ingestion of β-glucan and dietary fiber ensures maintenance
+of a balance for probiotic and prebiotic strains that have a favorable physiological response in
+the human body as well as help to maintain gut health. Consumption of β-glucan causes slow
+absorption of nutrients and glucose so important for diabetic patients. The viscosity changes
+result in delayed gastric emptying and change in mixing behavior of the intestinal content, thus
+modifying the body’s metabolism. Ingestion of β-glucan influences the gut transit rate; this
+may help provide relief to constipation patients. The capacity of β-glucan in binding excess bile
+acids helps to interact several mutagens and carcinogens for their removal from the body. The
+details for anticancer activity of β-glucan are reported by Cheung et al. (2002), who observed
+that β-glucan synergizes antitumor activity in xenograft tumor models by the production of
+monoclonal antibodies (mAb). Molecular size of β-glucan, as described earlier, also influenced
+these activities as an anticarcinogenic agent.
+
+5 β-Glucan Extraction and Purification
+The chemistry of sources from which β-glucan can be extracted varies to a high degree;
+thus the extraction and purification process may have variation. Many more techniques have
+been described in the scientific literature for the extraction and purification of β-glucan from
+numerous sources. One of the most used techniques for the extraction of β-glucan is based on
+hot water extraction. The basis for this extraction technique is dependent on the solubilization
+of β-glucan in extraction media increasing with a rise in temperature up to a certain limit.
+Several scientists used this technique for the extraction of β-glucan. In an attempt, Morgan
+and Ofman (1998) employed the hot water extraction process with inclusion of a modification
+of freeze–thaw cycles. A greater recovery of β-glucan along with a high level of purity can
+be achieved using this method. Several other researchers used this technique by combining
+
+362
+
+Chapter 11
+
+Figure 11.3: Extraction of β-Glucan From Oat.
+From Ahmad, A., Anjum, F.M., 2010. Perspective of β-glucan: Extraction and Utilization. VDM Publishers, Germany.
+
+alkaline or acidic extraction from cereal sources mainly from oats (Fig. 11.3). This technique
+with the application of high temperature as the sole treatment or in combination of acid or
+alkali resulted in higher recoveries of β-glucan. Overall extraction condition and sources under
+these techniques showed variation of about 45%–81% recovery (Ahmad and Anjum, 2010;
+Burkus and Temelli, 2000). In a similar method of extraction based on temperature, Knuckles
+et al. (1997) used consecutive hot water extraction applied in a series employing variable
+temperatures in the presence of alkali NaOH that was used at a later stage of extraction. The
+authors claimed a high yield of β-glucan in the form of gum material.
+Another most used technique for the extraction of β-glucan is an enzymatic process. A
+preparation of several enzymes is used to remove impurities that will improve purity and
+extraction within the extraction media, while impurities are separated using a centrifugation
+process in a series of steps. For that purpose a large number of enzymes that may include
+endo-β-(1→3)(1→4) glucanase, feruloyl esterase, endo-xylanases, xyloacetylesterase, and
+arabinofuranosidase may be used. Some indigenous enzymes need to be deactivated during
+the extraction process, as they can reduce the quantity and quality of extracted β-glucan.
+
+β-Glucan as a Food Ingredient
+
+363
+
+One of the indigenous enzymes is glucanase, which causes hydrolysis of β-glucan and
+increases during germination of the cereal source. Luckily, this enzyme can be deactivated
+at elevated temperature. Kanauchi and Bamforth (2001) described a method of β-glucan
+extraction using enzymes from outer sources. This method is based on solubilizing the βglucan from cell wall from their source. Some other enzymes that may increase recovery of
+β-glucan from the source are lichenase, xylanase, and esterases. Sometimes these enzymes
+are used as the sole treatment, but in other cases these may be used along with acid, alkali, or
+heat treatment to improve the solubilization of β-glucan. Skendi et al. (2003) made use of a
+heat-stable enzyme, termamyl, along with hot water treatment for the extraction of β-glucan
+from separate varieties of oats, and reported higher yields of β-glucan by this method. In
+a similar method Johansson et al. (2005) employed the same enzyme (termamyl) along
+with hot water treatment. This treatment effectively solubilized the β-glucan molecules for
+easy separation from the milled grains of oats. In addition to these treatments, the authors
+also used isopropanol and petroleum ether as defatting media that resulted in higher yield.
+During this extraction method, soluble and insoluble substances can be separated from each
+other using high-speed centrifuges. Most of the protein impurities can become insoluble at
+their isoelectric point or by use of protein-degrading enzymes and are removed during the
+centrifugation process. After removal of impurities, solubilized β-glucan was precipitated by
+either ethanol and calcium sulfate. Another enzymatic extraction technique for the extraction
+of β-glucan involved boiling and refluxing of grounded oat powder with ethanol. After
+defatting, all of the material was suspended in water and heat treated to further inactivate
+the indigenous enzymes. In this medium while it was maintained at hot temperature, αamylase (termamyl) preparation that is stable at high temperature was added to degrade
+starch impurities. For removal of protein impurities the enzyme pancreatin was used. Finally,
+β-glucan was precipitated by slow addition of ethanol until the concentration reached 50%
+in the extraction media. High-speed centrifugation at low temperature was carried out to
+recover β-glucan (Dongowski et al., 2005). In a similar attempt, Papageorgiou et al. (2005)
+recovered β-glucan from barley and oats by adopting an enzymatic process. The slurries of
+barley and oat flours were made by maintaining temperature of 50°C followed by removal of
+insoluble material through centrifugation. Material was heated with heat-stable amylase for
+starch removal followed by centrifugation. Further purification was carried out by addition
+of sodium azide during the cooling process. A slightly acidic condition was developed at
+this stage, and the mixture was kept overnight at 25°C. After centrifugation, the pH of the
+mixture was adjusted to neutral and it was again centrifuged. The water dialysis process
+was carried out for 3 days on the supernatant. Finally, ethanol was used to precipitate the
+β-glucan. Apart of barley and oat, β-glucan extraction can be carried out from other cereals
+using these extraction methods. Homogeneous rye flour having fine and uniform particle size
+can be used for extraction of β-glucan. For this purpose the prepared raw material is defatted
+using ethanol through continuous refluxing. For removal of starch impurities, thermostable
+α-amylase can be used followed by the centrifugation technique (Tosh et al., 2004).
+
+364
+
+Chapter 11
+
+β-Glucan extraction from noncereal sources may vary slightly as the compositions of
+these sources are variable in nature. This condition prevails in the case of yeast, molds,
+and mushrooms from which β-glucan can be extracted. This kind of β-glucan has
+different chemical composition, and alkaline treatment favors this type of extraction. For
+the extraction of β-glucan, the cell mass needs to be treated with a high concentration of
+alkali (1 M KOH) at low temperature for a long period of time with continuous agitation.
+This is followed by an exhaustive centrifugation process to separate supernatant and
+residue. The residue material still contains β-glucan, so it needs to be resuspended twice
+in the alkaline media for complete separation of β-glucan under the same conditions
+of temperature. All of the alkali extracts may be precipitated using ammonium sulfate
+by keeping the material overnight at a temperature of 4°C or lower followed by use of
+centrifugation at high speed under low temperature to recover β-glucan. This method
+is highly effective to recover higher amounts of β-glucan with elevated levels of
+purification from the mushroom cell wall (Nguyen et al., 1998). For extraction of βglucan from mycelium of P. chrysogenum, the mycelium was first freeze-dried and then
+ground into powder form. In this freeze-dried powder form the material was treated with
+alkaline solution for the extraction of β-glucan. In this form NaOH is a more effective
+alkali for the extraction of β-glucan. A concentration of 1 M NaOH at 40°C is quite
+sufficient to achieve maximum recovery. Freeze-dried powder of mycelia initially treated
+with the said concentration of alkali can extract β-glucan but with protein impurities
+that need to be separated by the sevage method that works at low pH. After removal of
+protein, the pH of the media is again adjusted toward neutral for separation of β-glucan.
+Further purification may be achieved through dialysis against distilled water (Wang
+et al., 2007).
+
+6 β-Glucan Characterization and Gelation
+Growing trends of functional and nutraceutical foods all over the world have major
+implications for people’s health. The idea is based on development of food products with
+health-promoting active food ingredients that provide some physiological benefits beyond
+basic nutrition. The nutritional scientists are striving hard to develop cereal-based, fruitbased, and milk-based nutraceutical products. Among these and several others, the cerealbased nutraceutical products are perhaps at the top of the list. The reason for acceptance
+of cereal-based nutraceutical products lies in the presence of diversified macro- and
+micronutrients and the use of cereals as staple food, making it ideal for nutrient fortification
+programs. Dietary fiber and β-glucan fortification and enrichment from cereal sources is
+a novel approach that most nutritionists and food technologists are adopting. These foods
+are helpful in the reduction of bowel transit time, reduction of risk of colorectal cancer,
+prevention of constipation, and promotion of the growth of beneficial gut microflora (Ahmad
+and Anjum, 2010).
+
+β-Glucan as a Food Ingredient
+
+365
+
+β-Glucan and other dietary fibers have a diversified nature of physiochemical properties
+that may be exploited in the food industry. These properties may include solubility, water
+holding capacities, foam stability, foaming capacities, and their rheological characteristics.
+All of these characteristics vary significantly in different types of dietary fibers and
+β-glucan from variable sources. Sometimes water holding capacity in these fibers
+represents hydrophobic/hydrophilic balance, change in chemical structure, and particle
+size of the fibers. For instance, β-glucan and guar gum have a capacity to form viscous
+solutions in the gut, some other fibers may form gel-like structures in the gut, and still
+other dietary fibers may have good water absorption power (Tungland and Meyer, 2002).
+In human gut conditions, almost all the dietary fibers retain high amounts of water and
+act as hydrocolloids, and sometimes dietary fiber rich in insoluble types of dietary fibers
+may provide bulk to the stool. These water-insoluble fibers, such as cellulose, have
+comparatively low water retention power as compared to soluble dietary fiber of the type
+of pectin and guar gum. The water retention power is also important from the point of
+view of gut microflora growth and existence. There is a direct relationship between water
+holding capacity and penetration of microorganisms in undigested food to ferment in
+the large intestine. It is a common phenomenon that β-glucan and dietary fibers having
+the capacity to retain more water are quickly fermented by gut microflora (Ahmad and
+Anjum, 2010; McIntyre et al., 1991). The barley- and oat-enriched products having more
+β-glucan content favor the growth and functioning of microflora in the large intestine that
+consume β-glucan and other dietary fibers during fermentation. Such barley and oat may
+be added in the cereal products as such or in the form of β-glucan. This addition of βglucan will result in more water retention, improved dough development, viscosity, dough
+stability, mixing tolerance index, and other rheological parameters. The bread products
+produced by this technique still have high sensory acceptability even up to 15% of barley
+flakes addition. This type of fortified bread can be used as a prophylactic product against
+several diseases related to gut health (Ahmad et al., 2008; Ahmad and Anjum, 2010;
+Kawka et al., 1999).
+A water holding capacity of 4–5 g H2O/g sample is considered sufficient to benefit gut health
+or industrial processes. Most of the dietary fibers have water-holding capacity in this range.
+Barley and oats due to higher β-glucan content have slightly higher water holding capacity.
+This is attributed to the nonionic nature of β-glucan from barley and oats that not only
+facilitates retention of more water but also provides higher viscosity and weak gel formation
+characteristics. Furthermore, the addition of β-glucan from these sources also augments the
+emulsion-forming and stabilizing properties. In solution form, β-glucan depicts a low flow
+behavior index and a high consistency index in the power law model to support an increase in
+viscosities (Ahmad and Anjum, 2010; Drzikova et al., 2005; Kontogiorgos et al., 2004).
+Gelling behavior for barley β-glucan is unique as it depicts reversible behavior for gels.
+Temperature rise is required to form stable gels, but temperature above 63°C causes
+
+366
+
+Chapter 11
+
+destabilization of these gels. At these temperatures gels start to melt. Sometimes if β-glucan
+is used at a low level (0.5%) for gelation purposes, the cooling process causes softness of
+gels (Burkus and Temelli, 2000). During this process, gelation time can be reduced if βglucan of higher molecular mass is used (Lazaridou et al., 2003). The dependence of gelling
+on molecular weight explains why β-glucan from different sources has variable time for
+gelation. Among cereal sources, the gelling ability follows the following order of gelation:
+wheat > barley > oat. Gelation is a complex phenomenon, and researchers have presented
+various views about gelling of β-glucan. Fincher and Stone (1986) were of the view that
+β-glucan gelation initiates with aggregation of β-glucan chains to form a network structure,
+whereas Böhm and Kulicke (1999) believed that 1→3 linkages in the form of cellotriose
+units of β-glucan are responsible for the gelation phenomenon. Strong linkages in these units
+along with some junction points provide the basis for β-glucan gelation. Some researchers
+have explained the mechanism of gelation on the basis of the ratio of trisaccharides to
+tetrasaccharides. A higher ratio that depicts more cellotriosyl units favors the formation of
+β-glucan gels (Lazaridou et al., 2003; Vaikousi et al., 2004).
+
+7 Rheology of β-Glucan
+Most industrial processes consider viscosity and rheology as vital parameters. These
+parameters are influenced by the presence of β-glucan and hydrocolloids. There are numerous
+applications of viscosity at the industrial level. Sometimes processors need higher viscosities,
+and sometimes lower viscosity in the product is required. For instance, too much high
+viscosity in some products has a negative sensory impact. This is especially important in
+beers and some other beverage products in which stabilizers, β-glucan, or hydrocolloids
+are added. Similarly, high viscosity in the feed industry is considered a negative practice
+and is considered an antinutritional factor (Lyly et al., 2003; Wang et al., 1992). In contrast
+to these examples, higher viscosity may be suitable for some industrial products. In these
+situations, β-glucan will have great applications as a thickening agent (Wood, 1984). In
+addition to industrial processes, an increase in viscosity due to β-glucan in the human body
+is related to vital benefits that reduce sugar absorption in diabetic patients or bring about
+lowering of cholesterol. When lower viscosity is required in the product, processors often
+prefer to use either a low concentration of β-glucan or low-molecular-weight β-glucan as
+ingredients. In these products, this will enhance sensory properties but physiological benefits
+that are associated with ingestion of β-glucan will be lowered. Therefore, while developing
+nutraceutical foods enriched with higher amounts of β-glucan, a satisfactory balance among
+nutraceutical properties, physiological health benefits, and sensory properties should be kept
+in mind (Brennan and Cleary, 2005).
+Concerning the viscosity of β-glucan solution, factors like pH, temperature, source, and
+extraction conditions are important. The β-glucan solution can be kept in unchanged
+form over a wide pH range (2–10), but stability decreases with a rise in temperature over
+
+β-Glucan as a Food Ingredient
+
+367
+
+a specific limit. Normally a slight rise in temperature is required to achieve an increase
+in viscosity, but when the temperature rises above 75°C viscosity tends to decline. The
+molecular weight of β-glucan is also a deciding factor for the viscosity of β-glucancontaining solutions (Ahmad et al., 2009b; Dongowski et al., 2005; Papageorgiou
+et al., 2005). Concentration of β-glucan is highly correlated with higher viscosities in an
+aqueous solution. This is equally true for industrial conditions as well as the intestinal tract
+of the human body. Variation in sources of extraction of β-glucan affects the molecular mass
+of β-glucan and thus the viscosity behavior of a solution to which this β-glucan is added
+as an ingredient. As the research carried out on muffins, thus holds true for muffins and
+require more research to confirm this phenomenon for other bakery products. The only thing
+affected during storage of β-glucan product is its solubility at freezing temperatures (Beer
+et al., 1997).
+Extraction conditions also affect the final viscosity of the β-glucan. Extraction of oat β-glucan
+at very high pH will cause changes in β-glucan that may lower its viscosity property. The
+interaction between high pH and medium temperature is highly unfavorable for the viscous
+property of β-glucan. This is attributed to the sensitive nature of 1→3 linkages at higher pH
+levels or medium temperatures.
+The endogenous enzymes are responsible for the changes in viscosity. There are at least
+two endogenous glucan hydrolase enzymes that cause degradation of β-glucans that
+ultimately modify the viscosity property of β-glucan. Sometimes these enzymes initiate
+depolymerization reactions, resulting in low viscosities (Ahmad and Anjum, 2010; Burkus
+and Temelli, 2000). Other factors that may affect the viscous nature in solution form are
+concentration of β-glucan content, salt concentration, sugars, and their interactions. These
+factors were studied by Vaikousi and Biliaderis (2005) with reference to changes in viscosity.
+During this study, viscosity was measured at different shear rates using response surface
+methodology. The researchers developed a positive linear model for β-glucan content and
+sugars. Salt did not significantly affect the viscosity property in solution form at a shear rate
+of 125 per second. However, the inclusion of β-glucan in solution form showed a significant
+negative quadratic effect for all three responses. Interaction between β-glucan and sucrose
+was negative and significant. A similar trend was observed for the interaction of salt and
+β-glucan at shear rates of 10 and 50 per second; significant interaction was observed only
+between β-glucan concentration and sucrose contents.
+In biological studies, several changes in dietary fiber are evident. Dietary fiber may undergo
+changes as it travels into the stomach and intestine. During this passage under gut conditions
+some of the insoluble dietary fiber and β-glucan may transform into soluble form. This
+transformation causes changes in viscosity and water absorption capacity in the gut. These
+changes in rheological properties are also important for the purpose of attaining a specific
+physiological response by ingestion of dietary fiber and β-glucan (Wood, 2002).
+
+368
+
+Chapter 11
+
+8 Utilization of β-Glucan in Food Products
+Physiochemical properties of β-glucans show great potential to use this valuable ingredient
+for preparation of various foods (e.g., ice creams, sauces, and salad dressings) (Wood, 1986).
+The major use of β-glucan in food relates to its stabilizing and hydrocolloid nature that
+makes it an alternative to guar gum, xanthan gum, locust bean gum, and gum arabic. In this
+form its best application could be for frozen ready-to-eat foods (Dawkins and Nnanna, 1995;
+Wood, 1986). Lyly et al. (2004) incorporated β-glucan into frozen ready-to-eat foods. As
+a thickening agent for beverages, sauces, ice creams, and salad dressings, β-glucan has
+applicable properties (Temelli et al., 2004; Wood, 1986). There is evidence that β-glucan
+from barley and mushroom sources has great potential to enrich snack products that have
+exhibited better physical and textural characteristics as compared to a control recipe. Such
+β-glucan-containing products may increase the possibility of controlling glycemic responses
+to a suitable condition (Brennan et al., 2013; Tosh, 2013). Similar potential of β-glucan was
+demonstrated while studying the effect of resistant starch, β-glucan, and simple starch on
+sausages using a response surface methodology technique. All of these treatments influenced
+most of the physical and sensory parameters. β-Glucan in combination with resistant starch
+produced a softer texture in sausages that is required for great consumer acceptance. The
+addition of these dietary fiber sources also positively influenced the color and other sensory
+parameters. Optimum formulation with the addition of 1.328% is possible in addition to
+incorporating resistant starch and simple starch (Amini Sarteshnizi et al., 2015).
+Owing to greater health benefits and the potential of using it as a vital ingredient in the food
+industry, the US FDA supported the usage of β-glucan as a functional ingredient in food
+items and endorsed a dose of 3 grams daily to provide health benefits (FDA, 1997). There
+is a strong relationship between consumption of β-glucan and other dietary fibers and the
+lowering of heart-related problems and incidence of diabetes. Their usage in staple foods
+offers a great advantage to achieve these health parameters. Administration of β-glucan in
+the body stimulates increased macrophage activity and enhances phagocytosis and secretory
+activities of macrophages. A cascade of reactions started by macrophage regulatory factors
+can be anticipated to occur and to eventuate in conversion of the glucan-treated host to an
+arsenal of defense (Fig. 11.4). Bread is a common staple food used in breakfasts in most
+countries. The use of β-glucan and other dietary fibers in bread will be an applicable strategy
+to activate phagocytosis activity and related reactions that may improve immune responses
+within the body. Other beneficial applications of β-glucan involve reduction of coronary
+heart problems and diabetes, and control of LDL cholesterol. This usage in food products will
+also impart better viscoelastic properties in bread dough and other bakery products (Ahmad
+et al., 2008; Byun et al., 2016; Jalil et al., 2015).
+Another industrial advantage of using β-glucan is its nature to act as a carbohydrate-based
+fat replacer, thus lowering the amount of fat in the product in order to develop products
+
+β-Glucan as a Food Ingredient
+
+369
+
+Figure 11.4: β-Glucan Activation of Macrophages.
+
+for weight watchers and diabetic patients. The β-glucan from spent brewer’s yeast may
+be extracted and can be used to develop a low-fat mayonnaise product. The replacement
+of fat in this case is dependent on the texture-modifying properties of β-glucan. Several
+levels of β-glucan have a tendency to exhibit acceptable quality parameters when added
+to a mayonnaise product. However, selective organoleptic properties related to color and
+appearance may have undesirable effects on the quality of mayonnaise (da Silva Araújo
+et al., 2014). Apart from spent yeast β-glucan, there is evidence that cereal β-glucan also
+imparts similar fat replacer properties. This was explored for the development of a low-fat
+cheese product. Cereal β-glucan resulted in improved texture in the final product (Lazaridou
+et al., 2014). The effectiveness of β-glucan as a fat replacer in meat products was explored by
+Álvarez and Barbut (2013), who found the suitability of β-glucan in color, emulsion stability,
+microstructure, and other textural characteristics in cooked meat batters. Without the use of
+β-glucan or other dietary fiber source, reduction in fat content adversely affects the cooking
+loss and causes a reduction in emulsion stability. This reduction in fat content also adversely
+influences the lightness properties, hard texture, and fracturing properties of cooked meat
+emulsions. This therefore necessitates that some dietary fiber ingredients be added in the
+system to lessen the effect of fat reduction. For that purpose, use of β-glucan, inulin, or their
+mixtures can provide a solution as fat replacer in this system. Published micrographs in this
+case have highly supported the idea of the addition of β-glucan alone or in mixtures of inulin
+plus β-glucan. This will have a positive effect on most textural properties and also reduce the
+losses during cooking. Another β-glucan preparation was made using oat as raw material.
+Later on, this product was commercialized with the name of Nutrim. This product has several
+
+370
+
+Chapter 11
+
+uses, including usage as fat replacer since its properties make it possible to partially replace
+saturated fats. In another research attempt, the extracted β-glucan preparation with the name
+of Nutrim-5 was developed from oat flour and bran using thermo-shearing processing. This
+again has excellent fat replacer and hydrocolloid properties. Its usage in rice flour noodles
+gives excellent results when incorporated at a level of 10%. The binding and rheological
+properties of this preparation are ideal in these products (Inglett et al., 2003, 2005). The
+hydrocolloid nature of this product is also important for use in Thai foods as a fat replacer.
+This addition enables the researchers to reduce saturated fats from the product. This strategy
+may lead the way to incorporation in cakes, cookies, pumpkin pudding, dips, custard, and
+sauté. A similar product with the name of Oatrim is again extracted from oat as raw material
+and is rich in β-glucan contents in addition to amylodextrins. This product is also meant for
+replacing fats with the soluble fiber nature of β-glucan. Several potential food products in
+which this ingredient may be used are muffins, meats, cakes, salad dressings, frozen desserts,
+sauces, gravies, soups, mayonnaise, margarine, breakfast cereals, and candy products (Inglett
+and Warner, 1992; Inglett et al., 2004).
+Large numbers of dairy products are consumed in every part on the globe. The addition of
+β-glucan in these products will ensure provision of nutraceutically based products to the
+population. It is a unique concept to develop new products with bioactive compounds. To
+implement this idea, a study was planned to investigate the interaction and mechanism for
+acid-set milk products containing caseinates. The details about microstructure and mechanical
+behavior were used to explain the results on texture of fermented dairy products. In the case
+of β-glucan-fortified cheese, desirable product development is possible with the use of oat
+β-glucan at levels of 0.7% and 1.4% (w/w). This product was compared with two controls;
+one was with full fat and the other was without β-glucan. Samples containing β-glucan
+in low-fat cheese milk showed a significant increase in organic acids during the cheese
+ripening stage (Kontogiorgos et al., 2006; Lazaridou et al., 2014; Volikakis et al., 2004).
+Food applications are not the only area in which β-glucan from different sources can be used.
+There are some instances where β-glucan was used for pharmaceutical products, showing
+its effectiveness as biological material. This is based on its natural applications against
+antiinflammatory activity and antitumor activity (Ishibashi et al., 2004; Li et al., 2004).
+
+8.1 β-Glucan and Bakery Products
+For developing bakery products having nutraceutical value, the importance of dietary fiber
+and β-glucan is evident from the literature. In these preparations they are used as stabilizers,
+thickening agents, and foaming agents and to promote water retention. With these properties,
+products may be marketed as nutraceutical products. Normal breads prepared with ordinary
+wheat flour contain less than 2.5% of dietary fiber, which is insufficient to provide the
+daily requirement of dietary fiber if this product is used as a staple food. If citizens of
+Western nations who are deficient in dietary fiber consumption use β-glucan-containing
+
+β-Glucan as a Food Ingredient
+
+371
+
+flour for bread preparation in their daily diets, it will improve their dietary fiber status on a
+daily basis (Ahmad et al., 2009a; Dziezak, 1987). In a research study, Brennan and Cleary
+(2007) explored the way we can increase the nutritional status of bread using dietary fiber.
+They suggested the use of barley β-glucan to improve the dietary fiber content of bread.
+The addition of β-glucan in these breads at a level of 2.5%–5% also reduced the release of
+reducing sugars while conducting an in vitro experiment. This happened in the bread with less
+conversion of starch into reducing sugars and resulted higher value of starch in the product.
+Overall, these mechanisms resulted in reduction of hyperglycemia and hyperinsulinemia, with
+reference to the control of diabetes (Ahmad et al., 2009a,b; Hajifaraji et al., 2012). A strong
+correlation exists between glycemic index and content of β-glucan in bread. Incorporation of
+oat flour into wheat flour that can increase β-glucan content by a value of 2.5% β-glucan is
+highly beneficial, as it ensures the daily consumption of β-glucan recommended by the FDA,
+provided that the person consumes at least two slices of this bread (Flander et al., 2007).
+Addition of β-glucan into bread sometimes causes a reduction in loaf volume with a firm
+crumb structure. This reduction in loaf volume is attributed to dilution of gluten content that
+reduces its property to hold gases during the fermentation process. Binding of more water
+in the dough also causes less availability of water to gluten. This underdeveloped gluten
+network is not capable of retaining gases in the cells to gain in volume and texture. Trogh
+et al. (2004) incorporated cereal β-glucan in wheat flour and raised the soluble dietary fiber
+with chemical structure of (1→3)(1→4)-β-d-glucan and arabinoxylan (AX) of dough. To
+solve the problem of substandard loaf volume, scientists directed their research toward the
+use of β-glucan in unpurified form instead of purified form. For this purpose, they used
+the whole barley flour, which is a good source of β-glucan. In this experiment, β-glucan
+in refined form was not added to the wheat flour. This resulted in production of bread with
+good sensory properties, and such breads have an acceptable volume. During this process,
+enzymatic degradation of β-glucan in the raw blend of wheat and barley flour was restricted
+by using coarse flour that offered less surface area for enzymatic action (Ahmad et al., 2008;
+Cavallero et al., 2002; Flander et al., 2007; Trogh et al., 2004).
+A recent study evaluated the potential use of barley flour for the production of sour dough.
+The production of sourdough is often characterized by use of microorganisms capable of
+running a fermentation process, and physically it seems difficult to produce sourdough
+of improved quality, as microorganisms in sourdough can hydrolyze β-glucan during
+fermentation (Sullivan et al., 2013). The effect of β-glucan incorporation in rice-based dough
+that offered a gluten-free product was evaluated. As expected, the rheological properties with
+reference to water holding capacity were influenced significantly. A negative correlation was
+evident between loaf-specific volume with dough elastic modulus (G′) and the viscosity (η0).
+Loaf volume was positively correlated with the loss tangent. After hydration to a maximum
+point, the rheological behavior and bread quality was affected by the levels of incorporated
+barley β-glucan. In contrast, the use of oat β-glucan at various levels influenced these
+parameters to a lesser extent. These trends elucidate that β-glucan from barley consists of
+
+372
+
+Chapter 11
+
+a low-molecular-weight substance that can generate a gel network if it is added in higher
+amounts. On the other hand, oat β-glucan with higher molecular weight shows more viscous
+behavior even at low concentration of β-glucan. Quantification of β-glucan in bread indicated
+that enzymes like β-glucanase significantly hydrolyze the β-glucan molecule, thus cutting
+their molecular weight. This necessitates that enzymatic activity must be controlled during
+this process in gluten-free doughs to reap the full benefit of β-glucan as a nutraceutical
+component and to achieve certain health benefits (Ahmad et al., 2008; Ronda et al., 2015).
+
+8.2 β-Glucan and Meat Products
+Meat and its derivatives are considered functional foods, but still there is a possibility to add
+more functional ingredients into them. This idea of supplementation of meat with dietary
+fiber, β-glucan, and some other nutraceutical ingredients for the purpose of achieving health
+benefits beyond basic nutrients will open up new avenues for the meat industry. Despite
+using conventional meat products, meat processors should explore innovative prospects
+for the meat industry. This may include controlling the composition of raw and processed
+materials via reformulation of a product recipe through inclusion of β-glucan, dietary fiber,
+antioxidants, probiotics, and some other nutraceutical ingredients (Siró et al., 2008). When
+mushroom extract was added into meat products, it provided protection against bacteria
+and oxidation reactions. This was actually attributed to the presence of β-glucan and other
+dietary fibers along with several natural antioxidants. This addition of mushroom extract
+also resulted in stabilization of meat color in the final products. Storage duration may be
+doubled or even tripled by this technique (Aida et al., 2009). Dietary β-glucan also has an
+impact on the quality of broiler breast meat following ingestion of β-glucan by chickens. A
+quantity of 60 ppm β-glucan in the feed of broiler chickens not only guarantees improvement
+in survival rate and feed conversion rate, but it also provides immunity against disease.
+Thus, consumption of β-glucan at this level in broilers shows the same effect as the quantity
+of antibiotics Zn-bacitracin at the level of 55 ppm. The outcomes of this study showed the
+potential of β-glucan (60 ppm) as an alternative to antibiotics in extending the survival rate
+of broilers (Moon et al., 2016). In an attempt to investigate the effects of β-glucan and inulin
+as dietary fiber sources for low-fat beef burgers, researchers observed more moisture holding
+capacity, increase in cooking yield, reduction in lightness, and satisfactory textural parameters
+of burger patties. Optimization results indicated that the combination of inulin (3.1 g per
+100 g), β-glucan (2.2 g per 100 g), and bread crumbs (2.7 g per 100 g) may provide better
+textural characteristics and cooking properties without altering organoleptic characteristics of
+the burger (Afshari et al., 2015). The properties of β-glucan as a fat replacer is applicable in
+meatball products. The molecular weight of β-glucan in this case is an important determinant
+to declare the overall quality of the low-fat meatballs. Intact β-glucan or hydrolyzed β-glucan
+from oats may influence the quality of the product to which it is added as a nutraceutical
+ingredient. Both the hydrolyzed form and the unhydrolyzed form of β-glucan exhibit shear-
+
+β-Glucan as a Food Ingredient
+
+373
+
+thinning behavior in these products, and hydrolyzed β-glucan due to low molecular weight
+also showed a decrease in the apparent viscosity. Scanning electron microscopy indicated
+improvement in smooth surface by the addition of hydrolyzed β-glucan (Liu et al., 2015).
+Some other functions of β-glucan and several other forms of dietary fibers in processed meat
+include: as binding agent, as filler agent, as extender ingredient, and as fat replacer, as well
+as to add a synergistic effect with nutrients, to control pH, to improve emulsion stability, to
+improve water holding capacity, and to expand its sensory parameters (Talukder, 2015).
+
+8.3 β-Glucan and Dairy Products
+Fermented dairy products have a great potential to develop effective delivery systems
+for β-glucans from various sources. Addition of β-glucans into milk or milk products or
+into dairy-based derived protein gels during the process of fermentation that produce acids
+and oxidative products of monosaccharides results in production of glucono-δ-lactone.
+This substance may modify textural, physiochemical, chemical, and sensory properties of
+milk products due to phase separation between these polysaccharides and milk proteins,
+thus altering the gelation process through retardation of interaction between proteins and
+carbohydrates. Higher temperatures during fermentation also favor acidification in these
+products, yielding a shorter gelation time. Probiotic strains, if included during the fermentation
+process, resulted in an increase in gelation rate (Lazaridou et al., 2014). Exopolysaccharides
+from Lactobacillus kefiranofaciens are rich in dietary fiber, including β-glucan, and also
+possess similar capacities to apply in dairy products (Ahmed et al., 2013a,b). Another
+exopolysaccharide-producing strain is Lactobacillus mucosae DPC 6426, which has a great
+potential to be used as an adjunct culture for the manufacturing of low-fat yogurt. These
+exopolysaccharides hold space in the pores of the gel network as confirmed by confocal laser
+scanning microscopy (London et al., 2015). Addition of glucagel, a commercial product
+derived from barley that is rich in β-glucan dietary fiber, influences the phase separation
+phenomenon in skimmed milk. In the presence of β-glucan dietary fiber, casein micelle
+showed depleted flocculation that is the driving force behind controlling phase separation.
+Volume fraction of casein molecules and the concentration of glucagel also control the rate at
+which phase separation may occur in dairy-based systems. Low-molecular-weight β-glucan
+was effective to limit the range of attraction between protein micelles and to produce a stable
+phase in the presence of casein micelles. These phase diagrams will be useful to dairy product
+manufacturers striving to improve the nutrient profiles of their products while avoiding product
+quality impairment (Repin et al., 2012; Sharafbafi et al., 2014).
+
+8.4 β-Glucan and Pasta Products
+In the modern era, consumers are demanding more products having health implications.
+These health benefits may be added in commonly consumed foods like pasta products. When
+
+374
+
+Chapter 11
+
+β-glucan from an unusual source, Amaranthus mantegazzianus, was added in wheat flour,
+it improved the pasta characteristics and influenced positively the dietary fiber content and
+the glycemic index, along with an improvement in carbohydrate and protein digestibility.
+Beneficial effects can be achieved if this source is added at the 30% level (Martinez
+et al., 2016). The incorporation of barley β-glucan into pasta has documented health benefits
+such as lowering of the glycemic index. Beyond its physiological benefits, it also requires
+suitable changes in processing methods as well to cause improvement in color, flavor, taste,
+and texture (Izydorczyk and Dexter, 2008). Barley β-glucan, when incorporated into wheat
+flour, imparts increased strength to dough, causes required changes in viscoelastic properties
+of the dough, and makes the dough have high resistance during mixing (Izydorczyk
+et al., 2001). Similarly, soluble β-glucan from barley has a capacity to reduce the resistance of
+dough against extension. Stickiness properties of starches are also influenced by the presence
+of β-glucan in these products. This addition also causes lowering of the viscosity of gel and
+elevation in gelatinization temperature (Brennan and Cleary, 2007). Pasta products produced
+with addition of β-glucan and enriched with wheat semolina showed a great potential for
+substitution at a level of 50%. This may result in a slightly darker color pasta product but
+have better quality cooking (Marconi et al., 2000). To produce yellow alkaline and white
+salted noodles using conventional processes with addition of barley flour as a source of βglucan results in an increase in water absorption in the pasta dough. This reduces the quantity
+of available water in the system and thus suppresses the gluten development and gas holding
+capacity that are considered positive traits for pasta production (Gill et al., 2002). The recipe
+for white salted noodles contains about 40% hull-less flour of barley, which was sufficient to
+satisfy the β-glucan level recommended by the FDA (2004). However, the effect is dependent
+on the physicochemical properties of β-glucans (Brennan and Cleary, 2007). Addition of
+β-glucan in pasta products produces dough that has high set thermoirreversible properties
+and is regarded as a β-glucan-enriched functional product (Laroche and Michaud, 2007).
+The β-glucan-enriched functional pastas produced by 50% of standard wheat durum
+semolina with barley flour that is enriched in β-glucan showed better quality with regard to
+firmness, bulkiness, and stickiness than pasta products produced by durum wheat (Marconi
+et al., 2000).
+
+Conclusions
+β-Glucan is a nonstarch polysaccharide having documented health benefits and industrial
+applications. It can be extracted from various sources, including cereals, bacteria, molds,
+and fungi. The chemical nature of extracted β-glucan from these sources differs slightly.
+This variation in chemistry defines its industrial uses and health benefits. Apart from
+source, the properties of β-glucan also depend on extraction techniques. Although several
+extraction techniques have been developed for extraction of β-glucan, there is yet more
+need to devise new extraction and purification techniques that can be materialized to
+
+β-Glucan as a Food Ingredient
+
+375
+
+increase the recovery of β-glucan from various sources. Documented health benefits
+make β-glucan a potential candidate for food product development having nutraceutical
+status. In the past decade, research was focused on investigating the use of β-glucan in
+bakery products, dairy products, meat products, and beverage products. There is still room
+to explore more areas for product development with reference to industrially important
+properties in these products.
+
+References
+Afshari, R., Hosseini, H., Khaksar, R., Mohammadifar, M.A., Amiri, Z., Komeili, R., Khaneghah, A.M., 2015.
+Investigation of the effects of inulin and [beta]-glucan on the physical and sensory properties of low-fat beef
+burgers containing vegetable oils: optimisation of the formulation using D-optimal mixture design. Food
+Technol. Biotechnol. 53 (4), 436.
+Ahmad, A., Ahmed, Z., 2011. Tailoring oat for future foods. In: Danielle, L.M. (Ed.), Oats: Cultivation, Uses and
+Health Effects. Nova Science Publishers, Hauppauge, NY.
+Ahmad, A., Anjum, F.M., Zahoor, T., Chatha, Z.A., Nawaz, H., 2008. Effect of barley β-glucan on sensory
+characteristics of bread. Pak. J. Agric. Sci. 45 (1), 88–94.
+Ahmad, A., Anjum, F.M., Zahoor, T., Nawaz, H., 2009a. Extraction of β-glucan from oat and its interaction with
+glucose and lipoprotein profile. Pak. J. Nutr. 8 (9), 1486–1492.
+Ahmad, A., Anjum, F.M., Zahoor, T., Nawaz, H., Din, A., 2009b. Physicochemical and functional properties of
+barley β-glucan as affected by different extraction procedures. Int. J. Food Sci. Technol. 44 (1), 181–187.
+Ahmad, A., Anjum, F.M., 2010. Perspective of β-Glucan: Extraction and Utilization. VDM Publishers,
+Saarbrücken, Germany.
+Ahmad, A., Anjum, F.M., Zahoor, T., Nawaz, H., Dilshad, S.M.R., 2012a. Beta glucan: a valuable functional
+ingredient in foods. Crit. Rev. Food Sci. Nutr. 52 (3), 201–212.
+Ahmad, A., Munir, B., Muhammad, A., Shaukat, B., Muhammad, A., Tahira, T., 2012b. Perspective of β-glucan as
+functional ingredient for food industry. J. Nutr. Food Sci. 2 (2), 133–139.
+Ahmed, Z., Wang, Y., Anjum, N., Ahmad, A., Khan, S.T., 2013a. Characterization of exopolysaccharide produced
+by Lactobacillus kefiranofaciens ZW3 isolated from Tibet kefir—Part II. Food Hydrocolloid. 30 (1),
+343–350.
+Ahmed, Z., Wang, Y., Anjum, N., Ahmad, H., Ahmad, A., Raza, M., 2013b. Characterization of new
+exopolysaccharides produced by coculturing of L. kefiranofaciens with yoghurt strains. Int. J. Biol.
+Macromol. 59, 377–383.
+Aida, F.M.N.A., Shuhaimi, M., Yazid, M., Maaruf, A.G., 2009. Mushroom as a potential source of prebiotics: a
+review. Trends Food Sci. Technol. 20 (11–12), 567–575.
+Álvarez, D., Barbut, S., 2013. Effect of inulin, β-glucan and their mixtures on emulsion stability, color and textural
+parameters of cooked meat batters. Meat Sci. 94 (3), 320–327.
+American Diabetes Association, 1999. Nutrition recommendations and principles for people with diabetes
+mellitus. Diabetes Care 22, 42–49.
+Amini Sarteshnizi, R., Hosseini, H., Bondarianzadeh, D., Colmenero, F.J., Khaksar, R., 2015. Optimization of
+prebiotic sausage formulation: effect of using β-glucan and resistant starch by D-optimal mixture design
+approach. LWT—Food Sci. Technol. 62 (1, Part 2), 704–710.
+Anderson, J.W., 1991. Lipid responses of hypercholesterolemic men to oat-bran and wheat-bran intake. Am. J.
+Clin. Nutri. 54, 678–683.
+Anderson, J.W., 1995. Dietary fiber, complex carbohydrate and coronary artery disease. Can. J. Cardiol. 11, 55–62.
+Banik, S.P., Khowala, S., Pal, C., Mukherjee, S., 2015. Proteomic approaches to identify novel therapeutics and
+nutraceuticals from filamentous fungi: prospects and challenges. In: Bagchi, D., Swaroop, A., Bagchi, M.
+(Eds.), Genomics, Proteomics and Metabolomics in Nutraceuticals and Functional Foods. 2nd ed. Wiley,
+Chichester, England, p. 265.
+
+376
+
+Chapter 11
+
+Beer, M.U., Wood, P.J., Weisz, J., 1997. Molecular weight distribution and (1→3) (1→4)-β-glucan content of
+consecutive extracts of various oat and barley cultivars. Cereal Chem. 74 (7), 476–480.
+Böhm, N., Kulicke, W.M., 1999. Rheological studies of barley (1→3) (1→4)-β-glucan in concentrated solution:
+investigation of the viscoelastic flow behaviour in the sol-state. Carbohydr. Polym. 315, 293–301.
+Borchani, C., Fonteyn, F., Jamin, G., Paquot, M., Thonart, P., Blecker, C., 2016. Physical, functional and structural
+characterization of the cell wall fractions from baker’s yeast Saccharomyces cerevisiae. Food Chem. 194,
+1149–1155.
+Brennan, C.S., Cleary, L.J., 2005. The potential use of cereal (1→3) (1→4)-β-d-glucans as functional food
+ingredients. J. Cereal Sci. 42 (4), 1–13.
+Brennan, C.S., Cleary, L.J., 2007. Utilisation of glucagel in the β-glucan enrichment of breads: a physicochemical
+and nutritional evaluation. Food Res. Int. 40 (2), 291–296.
+Brennan, M.A., Derbyshire, E., Tiwari, B.K., Brennan, C.S., 2013. Integration of β-glucan fibre rich fractions from
+barley and mushrooms to form healthy extruded snacks. Plant Foods Hum. Nutr. 68 (1), 78–82.
+Burkus, Z., Temelli, F., 2000. Stabilization of emulsions and foams using barley beta-glucan. Food Res. Int. 33,
+27–33.
+Byun, E.B., Park, S.H., Jang, B.S., Sung, N.Y., Byun, E.H., 2016. Gamma-irradiated β-glucan induces
+immunomodulation and anticancer activity through MAPK and NF-kB pathways. J. Sci. Food Agric. 96 (2),
+695–702.
+CAC (Codex Alimentarius Commission), 2006. Report of the 27th Session of the Codex Committee on Nutrition
+and Foods for Special Dietary Uses (CCNFSDU), Bonn, Germany, 21–25 November 2005. ALINORM
+06/29/26, 2006.
+CAC (Codex Alimentarius Commission), 2008. Report of the 30th Session of the Codex Committee on Nutrition
+and Foods for Special Dietary Uses, Cape Town, South Africa, 3–7 November 2008. ALINORM 09/32/26.
+CAC (Codex Alimentarius Commission), 2009. Report of the 31st Session of the Codex Committee on Nutrition
+and Foods for Special Dietary Uses, Dusseldorf, Germany, 2–6 November 2009. ALINORM 10/33/26.
+CAC (Codex Alimentarius Commission), 2015. Codex Alimentarius Guidelines on nutrition labelling CAC/GL
+2-1985 as last revision in 2015. Joint FAO/WHO, Codex Alimentarius International Food Standards, FAO,
+Rome.
+Carbonero, E.R., Gracher, A.H.P., Smiderle, F.R., Rosado, F.R., Sassaki, G.L., Gorin, P.A.J., Iacomini, M., 2006.
+A β-glucan from the fruit bodies of edible mushrooms Pleurotus eryngii and Pleurotus ostreatoroseus.
+Carbohydr. Polym. 66, 252–257.
+Carpenter, K., Breslin, W., Davidson, T., Adams, A., McFarlin, B., 2013. Baker’s yeast β-glucan supplementation
+increases monocytes and cytokines post-exercise: implications for infection risk? Br. J. Nutr. 109 (03),
+478–486.
+Cavallero, A., Empilli, S., Brighenti, F., Stanca, A.M., 2002. High (1→3, 1→4)-β-glucan barley fractions in bread
+making and their effects on human glycemic response. J. Cereal Sci. 36, 59–66.
+Cheung, N.-K.V., Modak, S., Vickers, A., Knuckles, B., 2002. Orally administered β-glucans enhance anti-tumor
+effects of monoclonal antibodies. Cancer Immunol. Immunother. 51 (10), 557–564.
+Codex, 1998. Codex Alimentarius: Food Labelling Complete Texts. FAO/WHO, Rome, Italy.
+da Silva Araújo, V.B., de Melo, A.N.F., Costa, A.G., Castro-Gomez, R.H., Madruga, M.S., de Souza, E.L.,
+Magnani, M., 2014. Followed extraction of β-glucan and mannoprotein from spent brewer’s yeast
+(Saccharomyces uvarum) and application of the obtained mannoprotein as a stabilizer in mayonnaise. Innov.
+Food Sci. Emerg. Technol. 23, 164–170.
+Dawkins, N.L., Nnanna, I.A., 1995. Studies on oat gum (1→3, 1→4)-β-d-glucan: composition, molecular weight
+estimation and rheological properties. Food Hydrocoll. 9 (1), 1–7.
+Demirbas, A., 2005. β-Glucan and mineral nutrient contents of cereals grown in Turkey. Food Chem. 90, 773–777.
+Devi, K.S.P., Behera, B., Mishra, D., Maiti, T.K., 2015. Immune augmentation and Dalton’s lymphoma
+tumor inhibition by glucans/glycans isolated from the mycelia and fruit body of Pleurotus ostreatus. Int.
+Immunopharmacol. 25 (1), 207–217.
+DeVries, J.W., 2001. AACC report: the definition of dietary fiber. Cereal Food. World 46 (3), 112–126.
+
+β-Glucan as a Food Ingredient
+
+377
+
+Dodevska, M.S., Djordjevic, B.I., Sobajic, S.S., Miletic, I.D., Djordjevic, P.B., Dimitrijevic-Sreckovic, V.S., 2013.
+Characterisation of dietary fibre components in cereals and legumes used in Serbian diet. Food Chem. 141
+(3), 1624–1629.
+Dongowski, G., Drzikova, B., Senge, B., Blochwitz, R., Gebhardt, E., Habel, A., 2005. Rheological behaviour of
+β-glucan preparations from oat products. Food Chem. 93, 279–291.
+Drzikova, B., Dongowski, G., Gebhardt, E., Habel, A., 2005. The composition of dietary fibre-rich extrudates
+from oat affects bile acid binding and fermentation in vitro. Food Chem. 90, 181–192.
+Dziezak, J.D., 1987. Yeasts and yeast derivatives. Appl. Food Technol. 41, 122–125.
+El-Sayed, M.H., Arafat, H.H., Elsehemy, I.A., Basha, M., 2016. Optimization, purification and physicochemical
+characterization of curdlan produced by Paenibacillus sp. strain NBR-10. Biosci. Biotechnol. Res. Asia 13 (2).
+FDA, 1997. Food labeling, health claims: oats and coronary heart disease; rules and regulations. Fed. Reg. 62,
+3584–3601.
+FDA, 2004. Code of federal regulations, health claims: soluble fiber from certain foods and risk of coronary
+heart disease (CHD). Department of Health and Human Services, Washington, DC. Food labeling available
+from http://a257.g.akamaitech.net/7/257/2422/12feb20041500/docket.access.gpo.gov/cfr_2004/aprqtr/
+pdf/21cfr101.81.pdf.
+Fincher, G.B., Stone, B.A., 1986. Cell walls and their components in cereal grain technology. In: Pomeranz, Y.
+(Ed.), Advances in Cereal Science and Technology. American Association of Cereal Chemists, St. Paul, MN,
+pp. 207–295.
+Flander, L., Salmenkallio-Marttila, M., Suortti, T., Autio, K., 2007. Optimization of ingredients and baking process
+for improved wholemeal oat bread quality. LWT—Food Sci. Technol. 40, 860–870.
+Genc, H., Ozdemir, M., Demirbas, A., 2001. Analysis of mixed-linked (1→3), (1→4)-β-d-glucans in cereal grains
+from Turkey. Food Chem. 73, 221–224.
+Gibeaut, D.M., Pauly, M., Bacic, A., Fincher, G.B., 2005. Changes in cell wall polysaccharides in developing
+barley (Hordeum vulgare) coleoptiles. Planta 221 (5), 729–738.
+Gill, S., Vasanthan, T., Ooraikul, B., Rossnagal, B., 2002. Wheat bread quality as influenced by the substitution of
+waxy and regular barley flours in their native and cooked forms. J. Cereal Sci. 36 (2), 239–251.
+Glore, S.R., Van, T.D., Knehans, A.W., Guild, M., 1994. Soluble fiber and serum lipids: a literature review. J. Am.
+Diet. Assoc. 94, 425–436.
+Hajifaraji, M., Najjar Safari, S., Rezvani, V., Rashidkhani, B., Maddah, M., 2012. Comparison study between
+the effect of oat and barley breads on serum glucose and lipid profiles in dyslipidemic and type 2 diabetic
+subjects: a short-term trial. Mediterr. J. Nutr. Metab. 5 (3), 247–252.
+Ho, H.V.T., Sievenpiper, J.L., Zurbau, A.L., Mejia, S.B., Jovanovski, E., Yeung, F.A., Jenkins, A.L., Vuksan,
+V., 2016. The effect of oat beta-glucan on clinical lipid markers for cardiovascular disease risk reduction: a
+systematic review & meta-analysis of randomized controlled trials. FASEB J. 30 (1 Suppl.), 285–289.
+Hollmann, J., Lindhauer, M.G., 2005. Pilot-scale isolation of glucuronoarabinoxylans from wheat bran.
+Carbohydr. Polym. 59, 225–230.
+Inglett, G.E., Warner, K., 1992. Amylodextrin containing β-glucan from oats as a fat substitute in some cookies
+and candies. Cereal Food. World 37, 589.
+Inglett, G.E., Carriere, C.G., Maneepun, S., Tungtrakul, P., 2004. A soluble fiber gel produced from rice bran and
+barley flour as a fat replacer in Asian foods. Int. J. Food Sci. Technol. 39, 1–10.
+Inglett, G.E., Carriere, C.J., Maneepun, S., 2003. Health related fat replacers prepared from grains for improving
+functional and nutritive values of Asian foods. In: Shi, J., Ho, C.-T., Shahidi, F. (Eds.), Asian Functional
+Foods. Marcel Dekker, New York.
+Inglett, G.E., Peterson, S.C., Carriere, C.J., Maneepun, S., 2005. Rheological, textural, and sensory properties of
+Asian noodles containing an oat cereal hydrocolloid. Food Chem. 90, 1–8.
+Ishibashi, K.I., Miura, N.N., Adachi, Y., Tamura, H., Tanaka, S., Ohno, N., 2004. The solubilization and biological
+activities of Aspergillus β-(1→3)-d-glucan. FEMS Immunol. Med. Microbiol. 42, 155–166.
+Izydorczyk, M., Dexter, J., 2008. Barley β-glucans and arabinoxylans: molecular structure, physicochemical
+properties, and uses in food products—a review. Food Res. Int. 41 (9), 850–868.
+
+378
+
+Chapter 11
+
+Izydorczyk, M., Hussain, A., MacGregor, A., 2001. Effect of barley and barley components on rheological
+properties of wheat dough. J. Cereal Sci. 34 (3), 251–260.
+Jalil, A., Combet, E., Edwards, C.A., Garcia, A.L., 2015. Antioxidant properties of breads prepared with β-glucan
+and black tea. Proc. Nutr. Soc. 74 (OCE1), E31–E32.
+Jenkins, A.L., Jenkins, D.J., Zdravkovic, U., Wursch, P., Vuksan, V., 2002. Depression of the glycemic index by
+high levels of β-glucan fiber in two functional foods tested in type 2 diabetes. Eur. J. Clin. Nutr. 56, 622–628.
+Johansson, L., Virkki, L., Nttila, H., Esselstro, H., Tuomainen, P., Sontag-Strohm, T., 2005. Hydrolysis of βglucan. Food Chem. 97, 71–79.
+Kanauchi, M., Bamforth, C.W., 2001. Release of β-glucan from cell walls of starchy endosperm of barley. Cereal
+Chem. 78 (2), 121–124.
+Kawka, A., Gorecka, D., Gasiorowski, H., 1999. The effects of commercial barley flakes on dough characteristic
+and bread composition. Electron. J. Pol. Agric. Univ. 2 (2), 17–23.
+Klis, F., Mol, P., Hellingwerf, K., Brul, S., 2002. Dynamic of cell wall structure in Saccharomyces cerevisiae.
+FEMS Microbiol. Rev. 26, 239–256.
+Knuckles, B.E., Hudson, C.A., Chiu, M.M., Sayre, R.N., 1997. Effect of β-glucan barley fractions in high-fibre
+bread and pasta. Cereal Food. World 42 (2), 94–100.
+Kontogiorgos, V., Biliaderis, C.G., Kiosseoglou, V., Doxastakis, G., 2004. Stability and rheology of egg-yolk-stabilized
+concentrated emulsions containing cereal β-glucans of varying molecular size. Food Hydrocoll. 18 (6), 987–998.
+Kontogiorgos, V., Ritzoulis, C., Biliaderis, C.G., Kasapis, S., 2006. Effect of barley β-glucan concentration on the
+microstructural and mechanical behaviour of acid-set sodium caseinate gels. Food Hydrocoll. 20, 749–756.
+Lambo, A.M., Oste, R., Nyman, M.E.G., 2005. Dietary fibre in fermented oat and barley β-glucan rich
+concentrates. Food Chem. 89, 283–293.
+Laroche, C., Michaud, P., 2007. New developments and prospective applications for β (1,3) glucans. Recent Pat.
+Biotechnol. 1 (1), 59–73.
+Lazaridou, A., Biliaderis, C.G., Izydorczyk, M.S., 2003. Molecular size effects on rheological properties of oat
+β-glucans in solution and gels. Food Hydrocoll. 17, 693–712.
+Lazaridou, A., Serafeimidou, A., Biliaderis, C.G., Moschakis, T., Tzanetakis, N., 2014. Structure development and
+acidification kinetics in fermented milk containing oat β-glucan, a yogurt culture and a probiotic strain. Food
+Hydrocoll. 39, 204–214.
+Li, C., Ha, T., Kelley, J., Gao, X., Qiu, Y., Kao, R.L., 2004. Modulating Toll-like receptor mediated signaling by
+(1→3)-β-d-glucan rapidly induces cardioprotection. Cardiovasc. Res. 61, 538–547.
+Liu, R., Wang, N., Li, Q., Zhang, M., 2015. Comparative studies on physicochemical properties of raw and
+hydrolyzed oat β-glucan and their application in low-fat meatballs. Food Hydrocoll. 51, 424–431.
+London, L.E.E., Chaurin, V., Auty, M.A.E., Fenelon, M.A., Fitzgerald, G.F., Ross, R.P., Stanton, C., 2015. Use of
+Lactobacillus mucosae DPC 6426 an exopolysaccharide-producing strain positively influences the technofunctional properties of yoghurt. Int. Dairy J. 40, 33–38.
+Lyly, M., Salmenkallio-Marttila, M., Suortti, T., Autio, K., Poutanen, K., Lahteenmaki, L., 2003. Influence of oat
+β-glucan preparations on the perception of mouth feel and on rheological properties in beverage prototypes.
+Cereal Chem. 80, 536–541.
+Lyly, M., Salmenkallio-Marttila, T., Suortti, K., Autio, K., Poutanen, Lahteenmaki, K., 2004. The sensory
+characteristics and rheological properties of soups containing oat and barley β-glucan before and after
+freezing. Lebensm. Wiss. Technol. 37, 749–761.
+Marconi, E., Graziano, M., Cubadda, R., 2000. Composition and utilization of barley pearling by-products for
+making functional pastas rich in dietary fiber and β-glucans. Cereal Chem. 77 (2), 133–139.
+Martinez, C.S., Ribotta, P.D., León, A.E., Yildiz, F., 2016. Influence of the addition of Amaranthus mantegazzianus
+flour on the nutritional and health properties of pasta. Cogent Food Agric. 2 (1), 1–12.
+McIntyre, A., Young, G.P., Taranto, T., Gibson, P.R., Ward, P.B., 1991. Different fibers have different regional
+effects on luminal contents of rat colon. Gastroenterology 101 (5), 1274–1281.
+Moon, S.H., Lee, I., Feng, X., Lee, H.Y., Kim, J., Ahn, D.U., 2016. Effect of dietary beta-glucan on the
+performance of broilers and the quality of broiler breast meat. Asian-Australas. J. Anim. Sci. 29 (3), 384–389.
+Morgan, K.R., Ofman, D.J., 1998. Glucagel, a gelling β-glucan from barley. Cereal Chem. 75, 879–881.
+
+β-Glucan as a Food Ingredient
+
+379
+
+Nguyen, T.H., Fleet, G.H., Rogers, P.L., 1998. Composition of the cell walls of several yeast species. Appl.
+Microbiol. Biotechnol. 50, 206–212.
+Panfili, G., Fratianni, A., Irano, M., 2003. Normal phase high-performance liquid chromatography method for the
+determination of tocopherols and tocotrienols in cereals. J. Agr. Food Chem. 51, 3940–3944.
+Papageorgiou, M., Lakhdara, N., Lazaridou, A., Biliaderisd, C.G., Izydorczyk, M.S., 2005. Water extractable
+(1→3) (1→4)-β-d-glucans from barley and oats: an intervarietal study on their structural features and
+rheological behaviour. J. Cereal Sci. 42, 213–224.
+Phillips, G.O., Cui, S.W., 2011. An introduction: evolution and finalisation of the regulatory definition of dietary
+fibre. Food Hydrocoll. 25 (2), 139–143.
+Repin, N., Scanlon, M.G., Gary Fulcher, R., 2012. Phase behaviour of casein micelles and barley beta-glucan
+polymer molecules in dietary fibre-enriched dairy systems. J. Colloid Interf. Sci. 377 (1), 7–12.
+Ronda, F., Perez-Quirce, S., Lazaridou, A., Biliaderis, C.G., 2015. Effect of barley and oat β-glucan concentrates
+on gluten-free rice-based doughs and bread characteristics. Food Hydrocoll. 48, 197–207.
+Sanjoaquin, M.A., Appleby, P.N., Spencer, E.A., Key, T.J., 2004. Nutrition and lifestyle in relation to bowel movement
+frequency: a cross-sectional study of 20,630 men and women in EPIC-Oxford. Public Health Nutr. 7, 77–83.
+Schreiber, M., Wright, F., MacKenzie, K., Hedley, P.E., Schwerdt, J.G., Little, A., Burton, R.A., Fincher, G.B.,
+Marshall, D., Waugh, R., 2014. The barley genome sequence assembly reveals three additional members of
+the CslF (1, 3;1, 4)-β-glucan synthase gene family. PLoS One 9 (3), e90888.
+Schulze, M.B., Liu, S., Rimm, E.B., Manson, J.E., Willett, W.C., Hu, F.B., 2004. Glycemic index, glycemic load,
+and dietary fiber intake and incidence of type 2 diabetes in younger and middle-aged women. Am. J. Clin.
+Nutr. 80, 348–356.
+Sharafbafi, N., Tosh, S.M., Alexander, M., Corredig, M., 2014. Phase behaviour, rheological properties, and
+microstructure of oat β-glucan-milk mixtures. Food Hydrocoll. 41, 274–280.
+Siró, I., Kápolna, E., Kápolna, B., Lugasi, A., 2008. Functional food: product development, marketing and
+consumer acceptance––a review. Appetite 51 (3), 456–467.
+Skendi, A., Biliaderis, C.G., Lazaridou, A., Izydorczyk, M.S., 2003. Structure and rheological properties of water
+soluble β-glucans from oat cultivars of Avena sativa and Avena bysantina. J. Cereal Sci. 38, 15–31.
+Skouroliakou, M., Ntountaniotis, D., Kastanidou, O., Massara, P., 2016. Evaluation of barley’s beta-glucan food
+fortification through investigation of intestinal permeability in healthy adults. J. Am. Coll. Nutr. 35 (1), 13–19.
+Solís-Pacheco, J., Peter, K., López, Z., González-Reynoso, O., Macías-Rodríguez, M., González-Álvarez, V.,
+Lacroix, M., Aguilar-Uscanga, B., 2013. Differences in the amount of β-glucan and mannan in strains
+of Saccharomyces cerevisiae and Meyerozyma guilliermondii isolated from agave must used in tequila
+production. Microbiol. Res. Int. 2 (1), 1–8.
+Stear, C.A., 1990. Formulation and processing techniques for specialty-bread. Handbook of Breadmaking
+Technology. Elsevier Science, London, England, 342.
+Sullivan, P., Arendt, E., Gallagher, E., 2013. The increasing use of barley and barley by-products in the production
+of healthier baked goods. Trends Food Sci. Technol. 29 (2), 124–134.
+Sweeney, T., Collins, C., Reilly, P., Pierce, K., Ryan, M., O’Doherty, J., 2012. Effect of purified β-glucans derived
+from Laminaria digitata, Laminaria hyperborea and Saccharomyces cerevisiae on piglet performance,
+selected bacterial populations, volatile fatty acids and pro-inflammatory cytokines in the gastrointestinal tract
+of pigs. Br. J. Nutr. 108 (07), 1226–1234.
+Synytsya, A., Novak, M., 2014. Structural analysis of glucans. Ann. Trans. Med. 2 (2), 17.
+Talukder, S., 2015. Effect of dietary fiber on properties and acceptance of meat products: a review. Crit. Rev. Food
+Sci. Nutr. 55 (7), 1005–1011.
+Temelli, F., Bansema, C.B., Stobbe, K.S., 2004. Development of an orange-flavored barley β-glucan beverage with
+added whey protein isolate. J. Food Sci. 69 (7), 237–242.
+Tosh, S.M., 2013. Review of human studies investigating the post-prandial blood-glucose lowering ability of oat
+and barley food products. Eur. J. Clin. Nutr. 67 (4), 310–317.
+Tosh, S.M., Brummer, Y., Wood, P.J., Wang, Q., Weisz, J., 2004. Evaluation of structure in the formation of gels by
+structurally diverse (1→3) (1→4)-β-d-glucans from four cereal and one lichen species. Carbohydr. Polym.
+57, 249–259.
+
+380
+
+Chapter 11
+
+Trogh, I., Courtin, C.M., Andersson, A.A.M., Man, A.P., Sorensen, J.F., Delcour, J.A., 2004. The combined use
+of hull-less barley flour and xylanase as a strategy for wheat/hull-less barley flour breads with increased
+arabinoxylan and (1→3) (1→4)-β-d-glucan levels. J. Cereal Sci. 40, 257–267.
+Trowell, H., 1972. Crude fiber, dietary fiber and atherosclerosis. Atherosclerosis 16, 138–140.
+Tungland, B.C., Meyer, D., 2002. Nondigestible oligo- and polysaccharides (dietary fiber): their physiology and
+role in human health and food. Compr. Rev. Food Sci. F. 1 (3), 90–109, 73.92.
+Vaikousi, H., Biliaderis, C.G., 2005. Processing and formulation effects on rheological behavior of barley β-glucan
+aqueous dispersions. Food Chem. 91, 505–516.
+Vaikousi, H., Biliaderis, C.G., Izydorzcyk, M.S., 2004. Solution flow behavior and gelling properties of watersoluble barley β-glucans varying in molecular size. J. Cereal Sci. 39, 119–137.
+Vetvicka, V., Novak, M., 2013. Biology and Chemistry of Beta Glucan, Vol. 2, Beta-Glucan, Structure, Chemistry
+and Specific Application. Bentham Science Publishers, Oak Park, IL.
+Volikakis, P., Biliaderis, C.G., Vamvakas, C., Zerfiridis, G.K., 2004. Effects of a commercial oat β-glucan
+concentrate on the chemical, physico-chemical and sensory attributes of a low-fat white-brined cheese
+product. Food Res. Int. 37, 83–94.
+Wang, L.J., Newman, R.K., Newman, C.W., Hofer, P.J., 1992. Barley β-glucans alter intestinal viscosity and
+reduce plasma cholesterol concentration in chicks. J. Nutr. 122, 2292–2297.
+Wang, T., Deng, L., Li, S., Tan, T., 2007. Structural characterization of a water-insoluble (1→3)-α-d-glucan
+isolated from the Penicillium chrysogenum. Carbohydr. Polym. 67, 133–137.
+WHO, 2001. Safety assessment of foods derived from genetically modified microorganisms: report of a joint
+FAO/WHO expert consultation on foods derived from biotechnology, 24–28 September 2001. World Health
+Organization/Food and Agriculture Organization of the United Nations, Geneva, Switzerland. Available from:
+<http://www.who.int/fsf/Documents/GMMConsult_Final_pdf>.
+WHO, 2003. Diet, nutrition and the prevention of chronic diseases: report of a joint WHO/FAO expert
+consultation. WHO Technical Report Series 916.
+Wilson, S.M., Ho, Y.Y., Lampugnani, E.R., Van de Meene, A.M., Bain, M.P., Bacic, A., Doblin, M.S., 2015.
+Determining the subcellular location of synthesis and assembly of the cell wall polysaccharide (1, 3; 1, 4)-βd-glucan in grasses. Plant Cell 27 (3), 754–771.
+Wood, P., 1984. Physicochemical properties and technological and nutritional significance of cereal β-glucans.
+In: Rasper, V.F. (Ed.), Cereal Polysaccharides in Technology and Nutrition. American Association of Cereal
+Chemists, St. Paul, MN, pp. 52–57.
+Wood, P.J., 1986. Oat β-glucan: structure, location and properties. In: Webster, F.H. (Ed.), Oats: Chemistry and
+Technology. American Association of Cereal Chemists, St. Paul, MN, pp. 121–152.
+Wood, P.J., 2002. Relationships between solution properties of cereal β-glucans and physiological effects: a
+review. Trends Food Sci. Technol. 13, 313–320.
+Wood, P.J., Weisz, J., Blackwell, B.A., 1994. Structural studies of (1→3) (1→4)-β-d-glucans by 13 C-nuclear
+magnetic resonance spectroscopy and by rapid analysis of cellulose-like regions using high-performance
+anion-exchange chromatography of oligosaccharides released by lichenase. Cereal Chem. 71 (3), 301–307.
+Wu, D., Li, A., Ma, F., Yang, J., Xie, Y., 2016. Genetic control and regulatory mechanisms of succinoglycan and
+curdlan biosynthesis in genus Agrobacterium. Appl. Microbiol. Biotechnol. 100 (14), 6183–6192.
+Yalcın, E., Celik, S., Akar, T., Sayim, I., Koksel, H., 2007. Effects of genotype and environment on β-glucan and
+dietary fiber contents of hull-less barleys grown in Turkey. Food Chem. 101, 171–176.
+Yan, W.W., Yao, H.Y.Y., Nie, S.P., Li, Y.J., 2016. Mineral analysis of hulless barley grown in different areas and its
+β-glucan concentrates. Cogent Food Agr. 2, 1186139.
+Yang, M., Zhu, Y., Li, Y., Bao, J., Fan, X., Qu, Y., Wang, Y., Hu, Z., Li, Q., 2016. Production and optimization of
+curdlan produced by Pseudomonas sp. QL212. Int. J. Biol. Macromol. 89, 25–34.
+Yokoyama, W.H., Hudson, C.A., Knucles, B.E., Chiu, M.C.M., Sayre, R.N., Turnlund, J.R., Schneeman, B.O.,
+1997. Effect of barley β-glucan in durum wheat pasta on human glycemic response. Cereal Chem. 74,
+293–296.
+
+β-Glucan as a Food Ingredient
+
+381
+
+Zhang, G., Junmei, W., Jinxin, C., 2002. Analysis of β-glucan content in barley cultivars from different locations
+of China. Food Chem. 79 (2), 251–254.
+Zhang, M., Cheung, P.C.K., Zhang, L., Chiu, C., Ooi, V.E.C., 2004. Carboxymethylated β-glucans from
+mushroom sclerotium of Pleurotus tuber-regium as novel water-soluble anti-tumor agent. Carbohydr. Polym.
+57, 319–325.
+Zhang, Y., Xia, L., Pang, W., Wang, T., Chen, P., Zhu, B., Zhang, J., 2013. A novel soluble β-1, 3-d-glucan salecan
+reduces adiposity and improves glucose tolerance in high-fat diet-fed mice. Br. J. Nutr. 109 (02), 254–262.
+
+

@@ -1,0 +1,1049 @@
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+journal homepage: www.elsevier.com/locate/ijfoodmicro
+
+Optimization of fermentation-relevant factors: A strategy to reduce ethanol
+in red wine by sequential culture of native yeasts
+
+T
+
+⁎
+
+Y. Paola Maturanoa,b,1, M. Victoria Mestrea,b, ,1, Benjamín Kuchena,b, M. Eugenia Toroa,
+Laura A. Mercadoc, Fabio Vazqueza, Mariana Combinab,c
+a
+
+Instituto de Biotecnología, Universidad Nacional de San Juan (UNSJ), Av. San Martín 1109 (O), San Juan 5400, Argentina
+Consejo Nacional de Investigaciones Cientíﬁcas y Tecnológicas (CONICET), Av. Rivadavia 1917, Ciudad Autónoma de Buenos Aires C1033AAJ, Argentina
+c
+Estación Experimental Agropecuaria Mendoza, Instituto Nacional de Tecnología Agropecuaria (INTA), San Martin 3853, 5507 Luján de Cuyo, Mendoza, Argentina
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Non-Saccharomyces native yeasts
+Sequential culture
+Reduced ethanol wines
+Fermentation-relevant factors
+Box-Behnken design
+
+Current consumer preferences are determined by well-structured, full-bodied wines with a rich ﬂavor and with
+reduced alcohol levels. One of the strategies for obtaining wines with reduced ethanol content is sequential
+inoculation of non-Saccharomyces and Saccharomyces cerevisiae yeasts. However, diﬀerent factors aﬀect the
+production of metabolites like ethanol, glycerol and acetic acid by inoculated yeasts. In order to obtain low
+alcohol wines without quality loss, the aims of our study were: i) to determine optimum conditions (fermentation
+temperature and time of permanence and initial inoculum size of the non-Saccharomyces population at the
+beginning of the process, prior to inoculation with S. cerevisiae); ii) to validate the optimized factors; and iii) to
+assess sensory quality of the wines obtained after validation. Two combinations of yeasts were used in this study:
+Hanseniaspora uvarum BHu9/S. cerevisiae BSc114 and Candida membranaefaciens BCm71/S. cerevisiae BSc114.
+Optimization of three fermentation factors that aﬀect to non-Saccharomyces yeasts prior to S. cerevisiae inoculation was carried out using a Box-Behnken experimental design. Applying the models constructed by
+Response Surface Methodology, the lowest ethanol production by H. uvarum BHu9/S. cerevisiae BSc114 coculture was obtained when H. uvarum BHu9 was inoculated 48 h 37 min prior to S. cerevisiae inoculation, at a
+fermentation temperature of 25 °C and at an initial inoculum size of 5 × 106 cells/mL. Lowest alcohol production
+with C. membranaefaciens BCm71/S. cerevisiae BSc114 was observed when C. membranaefaciens BCm71 was
+inoculated 24 h 15 min prior to S. cerevisiae at a fermentation temperature of 24.94 °C and at an initial inoculum
+size of 2.72 × 106 cells/mL. The optimized conditions of the two co-cultures were subsequently submitted to labscale validation. Both proposed strategies yielded ethanol levels that were signiﬁcantly lower than control
+cultures (S. cerevisiae). Wines fermented with non-Saccharomyces/Saccharomyces co-cultures under optimized
+conditions were also associated with higher aromatic complexity characterized by the presence of red fruit
+aromas, whereas wines obtained with S. cerevisiae BSc114 were described by parameters linked with high
+ethanol levels.
+
+1. Introduction
+Spontaneous alcohol fermentation is a process carried out by a
+complex group of diverse yeast species associated with the grape and
+enological environment, and generally classiﬁed into two groups: nonSaccharomyces and Saccharomyces yeasts. The development of nonSaccharomyces yeasts during the early stage of winemaking is still
+considered an uncontrollable risk by some scientists and enologists,
+whereas for others, their participation is a way to enhance the wine
+quality (Albertin et al., 2017). Numerous researchers have reported
+
+exhaustive and appropriate screening methods to select non-Saccharomyces yeasts that positively aﬀect the winemaking process (Comitini
+et al., 2011; Mestre et al., 2017; Varela, 2016; Viana et al., 2008).
+Current consumer preferences are determined by well-structured,
+full-bodied wines with a rich ﬂavor and with reduced alcohol levels.
+However, successful accomplishment of this set of traits is rather difﬁcult due to imbalance between sugar accumulation and phenolic
+maturity of the berries (which require late harvest in order to guarantee
+proper aromatic and phenolic maturity) (Goold et al., 2017). Diverse
+strategies (viticultural, pre-fermentation, microbiological and post
+
+⁎
+
+Corresponding author at: Instituto de Biotecnología, Universidad Nacional de San Juan (UNSJ), Av. San Martín 1109 (O), San Juan 5400, Argentina.
+E-mail addresses: victoria.mestref@gmail.com, victoria_mestref@hotmail.com (M.V. Mestre).
+1
+Both authors contributed equally to this work.
+https://doi.org/10.1016/j.ijfoodmicro.2018.08.016
+Received 25 April 2018; Received in revised form 9 August 2018; Accepted 14 August 2018
+Available online 18 August 2018
+0168-1605/ © 2018 Elsevier B.V. All rights reserved.
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+2. Materials and methods
+
+fermentation practices) have been proposed to obtain wine with reduced ethanol content, and the use of native non-Saccharomyces yeasts
+could be emphasized (Contreras et al., 2014). Some authors have reported a reduction in ethanol concentration using non-Saccharomyces
+yeasts in co-cultures with S. cerevisiae (compared to the ethanol concentration obtained with a single S. cerevisiae inoculum) (Ciani et al.,
+2014; Contreras et al., 2014, 2015; Englezos et al., 2016; Varela, 2016).
+In a previous study, we evaluated 114 non-Saccharomyces yeasts to
+determine their respiratory, fermentation and physiological characteristics in order to select yeast isolates as candidates for the design of
+sequential co-culture for production of wine with reduced alcohol
+content (Mestre et al., 2017). However, many factors are involved in
+the yeast-yeast interactions and metabolite production of the inoculated
+yeasts. Optimization of some factors to favor the desired metabolic
+activity of the selected non-Saccharomyces yeasts is very important to
+obtain good results.
+It is well known that diﬀerent factors can aﬀect the course of the
+fermentation process, aﬀecting the performance and adaptation of each
+speciﬁc yeast population. Temperature is one of the main variables that
+directly aﬀects microorganism growth and membrane composition
+(Charoenchai et al., 1998), and consequently it deﬁnes the ﬁnal wine
+composition (Torija et al., 2003). A number of researchers have emphasized that low fermentation temperatures (10–15 °C) increase tolerance of certain non-Saccharomyces yeasts to ethanol and high sugar
+concentrations, and therefore they can remain longer in the process
+(Gao and Fleet, 1988; Tofalo et al., 2012; Zott et al., 2008).
+The use of diﬀerent yeast starter species under co-culture conditions
+needs to be carefully monitored and analyzed prior to its application in
+winemaking.
+In order to promote the impact of non-Saccharomyces populations on
+the ﬁnal wine composition, several authors have shown that by increasing the inoculation ratio of the non-Saccharomyces (NS) population
+(like NS:S. cerevisiae 10:1, 100:1 or 1000:1) they could outgrow S.
+cerevisiae populations, which would prolong persistence of NS populations (Comitini et al., 2011; Domizio et al., 2011; Pérez-Nevado et al.,
+2006). Another strategy is the use of sequential inoculation, which
+delays S. cerevisiae starter development. This approach is supposed to
+mimic spontaneous fermentation, and it would allow more interaction
+between NS and S. cerevisiae yeast populations (Ciani et al., 2016).
+Therefore, the concentration and viability of non-Saccharomyces inocula
+at the beginning of the alcoholic fermentation as well as the period of
+time that non-Saccharomyces yeasts remain alone (in absence of S.
+cerevisiae) is crucial to their implantation and persistence in the process.
+Response Surface Methodology (RSM) is a very useful statistical and
+mathematical tool to optimize a response (output variable) which is
+inﬂuenced by several independent variables (input variables) (Behera
+et al., 2018). Several researchers have studied optimization of factors
+that aﬀect winemaking such as pH, temperature, ammonium and glucose concentrations, inoculum size, and inoculation strategy (ArroyoLópez et al., 2009; D'amato et al., 2006; Englezos et al., 2016; Gosh
+et al., 2012). However, more information is necessary to better understand NS yeasts during winemaking in order to reduce ethanol in
+wines. In this context, we proposed optimizing three controllable factors that directly aﬀect the performance of non-Saccharomyces yeasts
+during the fermentation using a Box-Behnken experimental design (BB).
+This method is suitable for exploration of quadratic response surfaces
+and it generates a second degree polynomial model, which is used to
+optimize a process using a small number of experimental runs
+(Amenaghawon et al., 2013). In order to obtain wines with reduced
+ethanol without loss of quality, the aims of our study were: i) to determine the optimum conditions of the time of permanence of nonSaccharomyces, fermentation temperature and the non-Saccharomyces
+inoculum size at the beginning of the process prior to S. cerevisiae inoculation; ii) to validate the optimized factors; and iii) to assess sensory
+quality of the wines obtained after validation.
+
+2.1. Microorganisms
+Hanseniaspora uvarum BHu9, Candida membranaefaciens BCm71 and
+Saccharomyces cerevisiae BSc114 were used in this study. These yeasts
+have been previously isolated from oenological environments and
+molecularly identiﬁed by our research group (Maturano et al., 2015).
+Selection of the yeasts was based on their fermentative performance
+and respiratory characteristics to be employed in sequential inoculation
+to obtain wines with reduced ethanol content (Mestre et al., 2017).
+Strains were stored and cryogenically preserved at −80 °C in the Culture Collection of Autochthonous Microorganisms (Institute of Biotechnology, School of Engineering-UNSJ, San Juan, Argentina).
+2.2. Yeast inoculum preparation
+Each strain was grown on YEPD-agar (g/L): Yeast extract 10, peptone 20, glucose 20, agar-agar 20, and incubated at 25 °C. After 48 h,
+entire plates were collected and inoculated in YEPD-broth at 25 °C for
+4 h under aerobic conditions (130 rpm). After that, the pre-inoculum
+was transferred to the grape must (13 °Brix, pH 3.8, supplemented with
+0.1% yeast extract and 0.4% peptone) and kept at 25 °C during 12 h
+under aerobic conditions (130 rpm). Cell counts were carried out with
+an improved Neubauer counting chamber. The pre-adaptation in YEPD
+broth, was carried out in order to reduce the lag-stage in the grape
+must, which would mean that strains started growing exponentially in
+the grape juice.
+2.3. Experimental design
+A Box–Behnken (BB) experimental design was employed to assess
+the eﬀects of three independent variables at three diﬀerent levels for
+ethanol reduction (Table 1). The selection of the variables and their
+levels was established into a range of real conditions employed in
+winemaking. BB designs were independently assayed for the following
+yeast combinations: BHu9/BSc114 and BCm71/BSc114. Time of permanence of non-Saccharomyces (NS) prior to S. cerevisiae BSc114 inoculation (X1), temperature of must prior to S. cerevisiae BSc114 inoculation (X2) and initial inoculum size of NS yeasts (X3) were
+determined. Minimum, medium and maximum time of permanence,
+temperature and inoculation size assayed were: 24, 48 and 72 h; 15, 20
+and 25 °C; and 1, 3 and 5 × 106 cells/mL, respectively. Then, each experiment was inoculated with 2 × 106 cells/mL of S. cerevisiae BSc114
+in order to complete alcoholic fermentation under static conditions at
+25 °C ± 2.
+Ethanol production was selected as response variable, while glycerol and acetic acid were used as quality parameters. A total of 15
+experiments, including three replicates of the center point, were carried
+out in 75 mL of sterile grape must at 21 °Brix (pH was adjusted to 3.8
+with tartaric acid, total acidity 5.5 g/L). All fermentations were conducted under static conditions and monitored through the release of
+CO2 by measuring daily weight loss. Gentle manual agitation of the
+Erlenmeyer ﬂask was performed every 24 h for 5 s to assure oxygen
+availability in the fermentation medium.
+Table 1
+Summary of the three parameters evaluated according to the Box-Behnken
+design for two yeast combinations: BHu9/BSc114 and BCm71/BSc114.
+
+41
+
+Levels
+
+X1 - time of
+permanence of NS
+yeasts (h)
+
+X2 - temperature
+(°C)
+
+X3 – inoculum size of NS
+yeasts (×106 cells/mL)
+
+Minimum
+Medium
+Maximum
+
+24
+48
+72
+
+15
+20
+25
+
+1
+3
+5
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+assessed using a non-structured scale from 0 to 5, where 0 indicates that
+the descriptor was not perceived and values between 1 and 5 indicate
+that the intensity of the descriptors was very low to very high.
+
+Yeast population dynamics were analyzed throughout the fermentation process. Must and wine samples were taken at diﬀerent stages: 1,
+2, 3, 4, 5, 6, 7, 10, 14 and 22 days. Decimal dilutions in sterile physiologic solution (0.85% NaCl) were performed, spread onto
+Wallerstein Laboratory Nutrient (WLN) Agar medium (Oxoid,
+Hampshire, UK) and incubated during 4 days at 28 °C. Total yeast colonies were counted and examined daily until the Saccharomyces and
+non-Saccharomyces yeasts could be diﬀerentiated morphologically according to Pallmann et al. (2001): H. uvarum BHu9 (green colonies), C.
+membranaefaciens BCm71 (light blue colonies) and S. cerevisiae BSc114
+(white colonies) (Fig. S1 a, b, c and d, Supplementary data).
+
+2.7. Data analysis
+Each assay was performed independently in triplicate and the results are represented as the average of three determinations with the
+corresponding standard deviation ( ± SD). Diﬀerences between measurements were determined using one-way analysis of variance
+(ANOVA). In order to simplify the interpretation of the sensorial analysis, principal components analysis (PCA) was applied using the
+Infostat statistical package (version 2012, Cordoba, Argentina).
+The design and statistical analysis of RSM was generated with StatEase software (Design-Expert 7.0.0, Minneapolis, USA). Analysis of
+Variance (ANOVA) was carried out to estimate statistically signiﬁcant
+factors and the quality of the model equation was expressed as (R2)
+using ethanol values.
+
+2.4. Validation model
+Lab-scale validation was conducted using the optimized factors
+previously determined by RSM analysis. Vitis vinifera L. cv. Malbec
+grapes were harvested from a vineyard located in Cañada Honda (San
+Juan, Argentina) during the 2017 season. After crushing, 3 L of juice
+was distributed in 5 L vessels and sterilized during 15 min at 70 °C. The
+must juice had the following composition: 238.2 g/L of sugar (glucose
+and fructose), pH 3.8, titratable acidity 5.3 g/L and 175 mg/L yeast
+assimilable nitrogen (YAN). Musts were supplemented with nitrogen by
+adding 20 mg/L of diammonium phosphate after 48 h and in the middle
+of the fermentation (when 5% weight loss was veriﬁed). These supplementations were selected based on nitrogen uptake previously assayed on selected yeasts (data not shown).
+H. uvarum BHu9/S. cerevisiae BSc114 (T1) and C. membranaefaciens
+BCm71/S. cerevisiae BSc114 (T2) were evaluated in sequential treatments with optimized factors according to RSM. Monoculture fermentation with S. cerevisiae BSc114 was used as control (T3). All treatments
+were performed under static conditions and monitored through the
+release of CO2, by measuring daily weight loss until constant weight.
+Moreover, punching down was carried each 24 h in order to kept the
+dissolved oxygen levels throughout the process. In order to know the
+Saccharomyces and non-Saccharomyces populations, samples were collected periodically. Dilutions of 10−3 to 10−5 were spread onto WLN
+agar medium and incubated during 7 days at 28 °C. Three types of colonies could be morphologically diﬀerentiated according to Pallmann
+et al. (2001).
+After the sugar was completely consumed, fermentations were
+stopped by adding 50 mg/L of SO2. The wines were chemically stabilized, ﬁltered, bottled and conserved at 16 °C until chemical and sensorial analyses.
+
+3. Results
+3.1. Eﬀects of fermentation - relevant factors
+In order to reduce the ethanol concentration in wine, optimization
+of three fermentation factors (time of permanence prior to addition of S.
+cerevisiae BSc144 (X1), temperature (X2) and inoculation size at the
+beginning of the process (X3)) were evaluated in two nonSaccharomyces/Saccharomyces yeast combinations (H. uvarum BHu9/S.
+cerevisiae BSc114 and C. membranaefaciens BCm71/S. cerevisiae BSc114)
+using a Box-Behnken experimental design. Table 2 shows the ﬁnal values of ethanol, glycerol and acetic acid of the co-cultures NS/Saccharomyces and their respective controls.
+Tables S1 and S2 of the Supplementary data show the coeﬃcients
+estimated for both co-cultures and their signiﬁcances. Two secondorder polynomial equations were obtained for ethanol production. Eq1
+and Eq2 (expressed in actual values) represent H. uvarum BHu9/S.
+cerevisiae BSc114 and C. membranaefaciens BCm71/S. cerevisiae BSc114
+yeast combination models, respectively. In order to reduce the complexity of the equations only signiﬁcant coeﬃcients were used. Both
+models had a non-signiﬁcant lack of ﬁt (p > 0.05). The variability in
+response, measured through the R2 coeﬃcient, was 89% for H. uvarum
+BHu9/S. cerevisiae BSc114 and 98% for C. membranaefaciens BCm71/S.
+cerevisiae BSc114, indicating that both models are acceptable predictors
+(Tables S1 and S2, Supplementary data).
+According to our results, in both cases ethanol production was signiﬁcantly inﬂuenced by the time of permanence of non-Saccharomyces
+prior to addition of S. cerevisiae to the fermentation. Addition of S.
+cerevisiae BSc114 48 h after inoculation of H. uvarum BHu9 showed
+lowest ethanol levels (Fig. 1a). When C. membranaefaciens BCm71 remained 24 h as a monoculture, lowest ethanol values were registered
+(Fig. 1d). The temperature also signiﬁcantly aﬀected ethanol production in fermentations with C. membranaefaciens BCm71. In this case,
+higher temperatures favored the reduction of ethanol in wines (Fig. 1e).
+In the fermentations with H. uvarum BHu9, the temperature did not
+signiﬁcantly aﬀect ethanol production (Fig. 1b). However, it can be
+observed that the lowest ethanol yields were registered when H. uvarum
+was grown at 25 °C. The inoculum size of non-Saccharomyces had no
+eﬀect on the ethanol levels for either yeast combination (Fig. 1c and f).
+However, the time of permanence of non-Saccharomyces prior to addition of S. cerevisiae showed signiﬁcant interaction with the inoculum
+size of non-Saccharomyces yeasts in both co-cultures (p ˂ 0.05) (Tables
+S1 and S2, Supplementary data).
+The resulting response surfaces show the eﬀect of time of permanence of non-Saccharomyces, fermentation temperature and nonSaccharomyces inoculum size on ethanol levels of the two yeast cocultures (Fig. 2; left and right panel). The response surface models
+
+2.5. Chemical analyses
+Ethanol concentration (% v/v), pH, residual sugars, glycerol, titratable acidity and acetic acid (g/L) were determined using an ALPHA
+FT-IR Wine Analyzer (Bruker Optics, Ettlingen, Germany).
+2.6. Sensorial analysis
+Wines were evaluated after 4 months of bottle aging. They were
+analyzed by descriptive analysis following previously published
+guidelines (Lawless and Heymann, 2010). A trained panel of 7 individuals (5 males and 2 females between 35 and 50 years old) from the
+Wine Sensorial Analysis Department at Instituto Nacional de Vitivinicultura (Mendoza, Argentina) tasted the wines. All treatments were
+tasted blindly and in duplicate. A constant volume of 30 mL of each
+wine at room temperature was evaluated and cold water was used for
+palate cleansing. A total of 19 sensorial attributes were evaluated: three
+color/appearance descriptors (color intensity, red and brown color),
+eight aroma descriptors (mineral note, plum, cherry, blackberry,
+strawberry, violets, chili pepper, vanilla) and eight taste parameters
+(acidity, sweetness, astringency, hotness, bitterness, structure, aromatic
+persistence and varietal typicity). The intensity of each attribute was
+42
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+Table 2
+Experimental runs included in the Box-Behnken design and permanence of NS yeasts, ethanol, glycerol and acetic acid values registered for Candida membranaefaciens
+BCm71, Hanseniaspora uvarum BHu9 and Saccharomyces cerevisiae BSc114under pure and co-culture conditions.
+Run
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Factor
+
+BCm71/BSc114
+
+BHu9/BSc114
+
+X1
+
+X2
+
+X3
+
+Ethanol (% v/v)
+
+Glycerol (g/L)
+
+Acetic acid (g/L)
+
+P NS (days)
+
+Ethanol (% v/v)
+
+Glycerol (g/L)
+
+Acetic acid (g/L)
+
+P NS (days)
+
+48
+72
+24
+48
+72
+48
+48
+24
+24
+24
+72
+48
+48
+72
+48
+
+20
+25
+15
+25
+15
+15
+20
+25
+20
+20
+20
+15
+25
+20
+20
+
+3
+3
+3
+1
+3
+1
+3
+3
+1
+5
+5
+5
+5
+1
+3
+
+11.83 ± 1.07
+10.83 ± 1.53
+10.6 ± 1.45
+10.13 ± 1.53
+11.3 ± 0.95
+10.53 ± 1.19
+9.53 ± 2.01
+9.4 ± 1.47
+11.03 ± 0.42
+11.83 ± 0.81
+10.37 ± 1.79
+10 ± 0.36
+10.33 ± 0.70
+11.27 ± 0.32
+10.77 ± 0.93
+
+7.7 ± 0,87
+8.86 ± 1,83
+9.7 ± 0,66
+9.7 ± 0,17
+8.63 ± 1,59
+8.13 ± 0,60
+8.26 ± 0,65
+8.63 ± 2,12
+8.76 ± 1,26
+9.13 ± 1,66
+8.3 ± 0,53
+7.76 ± 1,33
+8.26 ± 0,55
+9.13 ± 0,25
+8.9 ± 0,17
+
+0.53 ± 0.12
+0.61 ± 0.12
+0.64 ± 0.06
+0.6 ± 0.08
+0.64 ± 0.13
+0.65 ± 0.11
+0.69 ± 0.13
+0.67 ± 0.07
+0.67 ± 0.22
+0.77 ± 0.23
+0.66 ± 029
+0.65 ± 0.27
+0.69 ± 0.26
+0.72 ± 0.36
+0.57 ± 0.33
+
+4
+5
+2
+5
+5
+3
+4
+3
+2
+2
+5
+3
+4
+5
+4
+
+10.03 ± 0.4
+10.02 ± 0.32
+9.97 ± 0.23
+9.81 ± 0.35
+10.47 ± 0.20
+9.75 ± 0.58
+10.88 ± 0.10
+9.22 ± 0.46
+10.08 ± 0.04
+10.74 ± 0.25
+10.84 ± 0.48
+10.29 ± 0.04
+9.27 ± 0.69
+12.56 ± 0.23
+9.87 ± 0.01
+
+9.35 ± 1.06
+11 ± 0
+9.95 ± 1.06
+8.6 ± 1.41
+9.35 ± 0.92
+9.2 ± 1.13
+9.5 ± 0.57
+9.25 ± 0.92
+9.85 ± 1.63
+10.25 ± 0.07
+9.6 ± 1.41
+9.3 ± 0.28
+8 ± 0.57
+8.4 ± 1.70
+9.8 ± 0.14
+
+0.63 ± 0.08
+0.79 ± 0
+0.61 ± 0.01
+0.545 ± 0.01
+0.635 ± 0.04
+0.565 ± 0.06
+0.625 ± 0.04
+0.63 ± 0.11
+0.6 ± 0.10
+0.7 ± 0.04
+0.685 ± 0.05
+0.66 ± 0.03
+0.63 ± 0.03
+0.58 ± 0.13
+0.66 ± 0.03
+
+6
+5
+4
+5
+6
+5
+6
+4
+6
+5
+6
+5
+5
+5
+5
+
+Control cultures pure
+
+Ethanol (% v/v)
+
+Glycerol (g/L)
+
+Acetic acid (g/L)
+
+P NS (days)
+
+H. uvarum BHu9
+C. membranaefaciens BCm71
+S. cerevisiae BSc114
+
+5.73 ± 0.03
+1.6 ± 0.02
+12.51 ± 0.56
+
+5 ± 0.35
+1.1 ± 0.05
+8.4 ± 0.70
+
+0.55 ± 0.04
+0.2 ± 0.014
+0.52 ± 0.03
+
+22
+22
+
+X1: time of permanence of non-Saccharomyces; X2: temperature; X3: inoculum size of non-Saccharomyces; P: permanence time of non-Saccharomyces.
+Values are means ± standard deviation of three independent experiments.
+
+indicate how a variation of factors aﬀects ethanol levels. According to
+Fig. 2, the minimum production of ethanol by H. uvarum BHu9/S.
+cerevisiae BSc114 was reached under the following conditions:
+
+permanence of H. uvarum BHu9 prior to S. cerevisiae inoculation of 48 h
+and 37 min, a fermentation temperature of 25 °C and an initial inoculum size of 5 × 106 cells/mL. Optimum fermentation conditions for
+
+Fig. 1. Ethanol production obtained with a polynomial equation of Hanseniaspora uvarum BHu9/Saccharomyces cerevisiae BSC114 and Candida membranaefaciens
+Cm71/Saccharomyces cerevisiae BSC114 co-cultures: a) time of permanence of Hanseniaspora uvarum BHu9, b) temperature of the fermentation during Hanseniaspora
+uvarum BHu9 as a pure culture, c) inoculum size of Hanseniaspora uvarum BHu9 at the beginning of the fermentation process, d) time of permanence of Candida
+membranaefaciens BCm71, e) temperature of the fermentation during Candida membranaefaciens BCm71 as a pure culture and f) inoculation size of Candida membranaefaciens BCm71at the beginning of the fermentation. In each case, the other two factors remained constant at the central point (3 × 106 cells/mL for inoculation
+size, 48 h for time of persistence and 20 °C for temperature).
+43
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+Fig. 2. Response surface of resulting ethanol levels after fermentation of two co-cultures. The left panel corresponds to parameters assayed for BHu9 and the right
+panel to BCm71 parameters. The “Y” axis registers the ﬁnal ethanol yield. Ethanol levels are represented as a function of a) temperature and inoculum size
+interactions b) time of permanence of BHu9 or BCm71 and initial BHu9 or BCm71 inoculum size and c) time of permanence of BHu9 or BCm71 and fermentation
+temperature.
+
+Furthermore, all yeasts assayed reached higher populations than the coinocula conditions (Figs. S2, S3 and S4, Supplementary data).
+Final glycerol and acetic acid production by H. uvarum/S. cerevisiae
+ranged between 8.0 ± 0.57 and 11.0 ± 0.07 g/L and 0.56 ± 0.06
+and 0.79 ± 0.0, respectively. In the case of C. membranaefaciens/S.
+cerevisiae, glycerol levels ranged from 7.7 ± 0.87 to 9.7 ± 0.66 g/L
+and acetic acid values ranged from 0.53 ± 0.12 to 0.77 ± 0.23
+(Table 2). Both compounds are considered quality parameters and
+presented acceptable values for wine.
+
+wine with reduced ethanol level with C. membranaefaciens BCm71/S.
+cerevisiae BSc114 were: permanence of C. membranaefaciens BCm71
+prior to S. cerevisiae inoculation of 24 h 15 min, a fermentation temperature of 24.94 °C and an initial inoculum size of 2.72 × 106 cells/
+mL.
+Growth of the diﬀerent yeast populations was monitored periodically. In the case of H. uvarum/S. cerevisiae, the two yeasts coexisted for
+3 days in 66.6% of the experimental runs. In the case of BCm71/
+BSc114, C. membranaefaciens coexisted for 2 days with S. cerevisiae in
+60% of the experimental runs (Table 2). Coexistence was independent
+of the three factors assayed (X1, X2 and X3) (Figs. S2 and S3, Supplementary data). In Fig. S4 are shown population dynamics of H. uvarum
+BHu9, C. membranaefaciens BCm71 and S. cerevisiae BSc114 under pure
+conditions. It is important highlight that both non-Saccharomyces population remained throughout fermentative process (22 days).
+
+3.2. Validation analysis
+Two treatments and one control were carried out to conﬁrm optimized conditions by RSM analysis (Table 3).
+Ethanol production and sugar consumption in T1, after that 48 h
+44
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+Table 3
+Model validations with optimal parameters for fermentation of sterile grape must of Vitis vinifera L. cv Malbec.
+Treatment
+
+Strains inoculated at t0
+
+Time of persistence of NS yeast (h:min)
+
+Temperature (°C)
+
+Inoculation level (×106 cells/mL)
+
+T1
+T2
+T3 (control)
+
+H. uvarum BHu9
+C. membranaefaciens BCm71
+S. cerevisiae BSc114
+
+48:37
+24:15
+–
+
+25
+24.94
+25
+
+5
+2.72
+2
+
+t0: yeast inoculation in grape must at time zero.
+
+Fig. 3. Ethanol (% v/v). Glycerol (g/L) and acetic acid (g/L) productions in T1.
+T2 and T3. Diﬀerent letters indicate signiﬁcant diﬀerences.
+T1: Hanseniaspora uvarum BHu9/Saccharomyces cerevisiae BSc114 co-culture.
+T2: Candida membranaefaciens BCm71/Saccharomyces cerevisiae BSc114 coculture.
+T3: Saccharomyces cerevisiae BSc114 pure culture (control).
+
+37 min (prior to BSc114 inoculation), Hanseniaspora uvarum BHu9
+consumed 72.53 g/L of sugars (30.8%) and produced 1.89% (v/v) of
+ethanol. With respect to T2, after 24 h 5 min (prior to BSc114 inoculation), Candida membranaefaciens BCm69 consumed 37.08 g/L of
+sugars (15.57%) and produced 0.5% (v/v) of ethanol.
+Fig. 3 shows the ﬁnal chemical parameters of the wines obtained. As
+could be expected, ethanol levels in wines fermented with H. uvarum
+BHu9/S. cerevisiae BSc114 (T1) and C. membranaefaciens BCm71/S.
+cerevisiae BSc114 (T2) co-cultures were signiﬁcantly lower than with a
+pure S. cerevisiae BSc114 (T3) culture (p < 0.05). The ethanol values
+attained for H. uvarum BHu9/S. cerevisiae BSc114 and C. membranaefaciens BCm71/S. cerevisiae BSc114 were 13.86% (v/v) ± 0.06 and
+13.76% (v/v) ± 0.25, respectively, while the control treatment
+reached values of 14.5% (v/v) ± 0.46. The rate of sugars converted
+into ethanol (sugar consumed (g/L)/ethanol produced (% v/v)) for T1,
+T2 and T3 was 17.18, 17.31 and 16.30 g/L, respectively.
+Glycerol production was signiﬁcantly higher for H. uvarum BHu9/S.
+cerevisiae BSc114 (T1) than for S. cerevisiae BSc114 (control):
+11.9 ± 0.57 g/L and 11 ± 0.2 g/L, respectively. In contrast, S. cerevisiae BSc114 (control) registered a higher glycerol concentration than
+C. membranaefaciens BCm71/S. cerevisiae BSc114 (T2) co-culture
+(10.25 ± 0.1 g/L). With regard to acetic acid concentrations, there was
+no signiﬁcant diﬀerence between treatments (Fig. 3). The ﬁnal pH values reached with T1, T2 and T3 were 3.49 ± 0.08, 3.71 ± 0.01 and
+3.63 ± 0.06, respectively.
+Regarding fermentation kinetics, H. uvarum BHu9/S. cerevisiae
+BSc114 (T1) and C. membranaefaciens BCm71/S. cerevisiae BSc114 (T2)
+both ﬁnished alcoholic fermentation after 9 days, while S. cerevisiae
+BSc114 (control) ﬁnished fermentation after 8 days (Fig. 4a). H. uvarum
+BHu9/S. cerevisiae BSc114 showed the lowest fermentation kinetics,
+while S. cerevisiae BSc114 registered highest values of CO2 production.
+As can be observed in Fig. 4a, CO2 release in T2 (BCm71/BSc114) exhibited an intermediate behavior between T1 and T3.
+The population dynamics of each yeast species inoculated in the
+
+Fig. 4. Development of validation fermentations: a) Fermentation kinetics
+(measured as CO2 release) of T1, T2 and T3. Arrows indicate inoculation of
+Saccharomyces cerevisiae BSc114 b) population dynamics of Hanseniaspora
+uvarum BHu9/Saccharomyces cerevisiae BSc114 co-culture (T1) compared with
+BSc114 control (T3) and c) population dynamics of Candida membranaefaciens
+BCm71/Saccharomyces cerevisiae BSc114 co-culture (T2) compared with
+Saccharomyces cerevisiae BSc114 control (T3).
+
+45
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+4. Discussion
+
+diﬀerent treatments are displayed in Fig. 4b and c. In T1, the H. uvarum
+BHu9 population increased from its initial concentration of
+5 × 106 cells/mL to a concentration of about 7 × 107 cells/mL on Day 4
+(Fig. 4b). On the contrary, C. membranaefaciens BCm71 did not show
+any increase and from the second day, BCm71 became undetectable
+(Fig. 4c). In T1, H. uvarum BHu9 maintained high populations up to day
+4, after which concentrations were below the detection limit of the
+technique applied. Meanwhile, in the same treatment the S. cerevisiae
+BSc114 population increased from their initial concentration of
+2 × 106 cells/mL to 7.8 × 107 cells/mL, reaching its maximum population on day 7 (Fig. 4b). In the C. membranaefaciens BCm71/S. cerevisiae BSc114 (T2) co-culture, C. membranaefaciens BCm71 kept its population until day 2 and it became undetectable from day 3 onward. S.
+cerevisiae BSc114 reached populations of about 108 cells/mL, similar to
+the control treatment (Fig. 4c).
+It is important to highlight that the interaction period of
+Saccharomyces and non-Saccharomyces yeasts in experimental runs of
+the BB design and the validations test was diﬀerent. In the latter case,
+the yeasts of both co-cultures assayed, T1 and T2, coexisted for 2 days
+and 1 day, respectively.
+
+It is commonly known that non-Saccharomyces yeasts can strongly
+aﬀect the chemical composition and ﬂavor of wine (Rossouw and
+Bauer, 2016). In addition, non-Saccharomyces yeasts are generally recognized as non-ethanologenic and/or present a low eﬃciency of
+sugar/ethanol conversion compared to S. cerevisiae (Contreras et al.,
+2014). However, the inﬂuence of these yeasts on the ﬁnal wine composition could be aﬀected by fermentation factors such as temperature,
+pH, sugar and nitrogen availability, culture type (single, mixed or sequential), and starter inoculum size (Ribéreau-Gayon, 2000; Torija
+et al., 2003).
+In the present work, time of permanence of NS yeasts signiﬁcantly
+aﬀected ethanol production by both co-cultures assayed, even though
+each yeast strain behaved diﬀerently. Several research groups have
+studied the eﬀect of diﬀerent co-inoculation periods of yeasts in wines
+for diverse purposes, but in general, no correlations were found between co-inoculation times and ethanol values (Ciani et al., 2006;
+Clemente-Jimenez et al., 2005; Gobbi et al., 2013). In the present study,
+permanence of H. uvarum BHu9 of 48 h prior to addition of S. cerevisiae
+BSc114 registered the lowest ethanol level in the wines assayed. This
+can be related to high sugar consumption through oxidative metabolism
+by H. uvarum BHu9 at the beginning of the winemaking, which would
+have diminished the sugars in the grape juice available for fermentation
+by S. cerevisiae. However, when permanence of H. uvarum BHu9 was
+extended to 72 h results were not as expected, because wines showed
+higher ethanol levels. A possible explanation is that after depletion of
+oxygen in the grape juice after 48 h, H. uvarum population, fully
+adapted to grape must fermentation, started to ferment sugars into
+ethanol.
+An unexpected result was registered for C. membranaefaciens
+BCm71/S. cerevisiae BSc114, because the co-culture produced less
+ethanol when both strains remained together for a longer period of time
+(when S. cerevisiae was inoculated to 24 h). Recent studies have elucidated that certain S. cerevisiae strains produce antimicrobial molecules
+like small peptides or amino acids, short and medium chain fatty acids
+and Killer-like toxins (Branco et al., 2015; Ciani et al., 2016; Wang et al.,
+2016). Some of these molecules, e.g. antimicrobial peptides, are derived
+from glycolytic enzyme, and they are probably linked to sugar metabolism of S. cerevisiae as has been reported by Wang et al. (2016). More
+knowledge is required to ﬁnd out whether NS strains produce
+
+3.3. Sensorial analysis
+Principal component analysis (PCA) was performed in order to
+characterize the sensorial attributes of the wines. The wine tasters
+analyzed 19 sensorial attributes (Fig. 5). PC1 explains 66.1% of the
+total variability, while PC2 explains 33.9%. The attributes that best
+described the ﬁrst component (with their respective eigenvector values
+indicated in parenthesis) were red (−0.46) and brown color (0.57).
+These attributes allowed a clear separation of T3 and T1 from T2.
+PC2 was descripted by attributes such as vanilla (0.48), bitterness
+(0.49) and blackberry (−0.29). This component shows a separation
+between T1 and T3. Wines fermented with H. uvarum BHu9/S. cerevisiae
+BSc114 (T1) appeared to be deﬁned by varietal typicity, plum, strawberry, red color and acidity. Wines produced with C. membranaefaciens
+BCm71/S. cerevisiae BSc114 co-culture (T2) were related to attributes
+like brown color, blackberry, cherry and mouthfeel. Vanilla, astringency, chili peppers, hotness, bitterness and sweetness were related
+to wine fermented by S. cerevisiae BSc114 (control) (Fig. 5).
+
+Fig. 5. Principal component analysis (PCA) of sensorial attributes evaluated by wines tasters in T1: Hanseniaspora uvarum BHu9/Saccharomyces cerevisiae BSc114 coculture, T2: Candida membranaefaciens BCm71/Saccharomyces cerevisiae BSc114 co-culture and T3: Saccharomyces cerevisiae BSc114 pure culture (control).
+46
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+With regard to sensory analysis, wines fermented by nonSaccharomyces/Saccharomyces co-cultures under optimized conditions
+were associated with higher aromatic complexity characterized by the
+presence of red fruit aromas intimately linked to the presence of esters
+in wines. According to reported results by Erten and Campbell (2001),
+the ability of non-Saccharomyces yeasts to utilize sugars through oxidative metabolism could favor the production of desirable esters and
+other wine ﬂavors.
+High ethanol concentrations can negatively aﬀect the sensory attributes of wine (Guth and Sies, 2002). For example, high alcohol
+content masks certain ﬂavor-related volatile compounds and it also
+increases the perception of bitterness, hotness and sweetness (Williams
+and Rosser, 1981; Tilloy et al., 2014). Moreover, elevated ethanol levels
+decreases perception of fruit aromas in wines (Escudero et al., 2007).
+Our results have demonstrated that wines fermented with S. cerevisiae
+BSc114 (T3) were associated with the parameters previously mentioned.
+With respect to the color parameters evaluated, a brown color was
+strongly related to fermentation with C. membranaefaciens BCm71/S.
+cerevisiae BSc114. This color is a negative parameter according to wine
+consumers. Candida spp. has been reported as ascorbic acid producer
+(Abbas, 2006), and this compound it combines with SO2. As consequence, a depletion of SO2 in the medium occurs. Hence the antioxidant activity decrease and production of yellow pigments
+(browning) increase (Li et al., 2008). The authors also reported that
+ascorbic acid in the presence of O2 (due to periodical remounting) can
+be oxidized to dehydroascorbic acid and H2O2. This latter reagent is a
+highly oxidative compound of anthocyanin. On the other hand, C.
+membranaefaciens BCm71 presents β-glucosidase activity (Mestre et al.,
+2017). These enzymes can act on monoglucoside-anthocyanins and,
+consequently release the anthocyanidin, which spontaneously converts
+into brown or colorless compounds (Manzanares et al., 2000).
+It has been reported that H. uvarum is able to produce and release
+higher amounts of organic acids than other NS and S. cerevisiae yeasts
+(Hong and Park, 2013). Under the current assay conditions, this treatment registered the lowest pH values. It is well known that phenolic
+compounds (especially anthocyanins) are more stable in acid medium
+presenting a red tonality (Ribéreau-Gayon et al., 2006). In contrast, low
+pH values promote a higher percentage of free SO2 in the medium,
+being more eﬀective as antioxidant. This fact could be the reason why
+T1 is strongly related to the red tonality.
+In conclusion, under the current assay conditions both co-inoculations produced the desired response regarding our main goal to produce
+wines with reduced ethanol. However, the quality of the wines diﬀered.
+Further research should be carried out to assess both strategies
+under diﬀerent conditions. Viniﬁcations should be performed with fresh
+grape must without sterilization and the fermentation scale should be
+increased. It would also be interesting to study the volatile compositions of the wines using GC–MS in order to acquire more comprehensive
+and detailed knowledge. This is necessary to transfer a fully reliable
+strategy to the industry.
+
+antimicrobial compounds that aﬀect the sugars metabolism of S. cerevisiae strains.
+In this context, it is important to emphasize the role of environmental conditions in fermentations when analyzing the interaction
+between diﬀerent yeasts (Wang et al., 2016). High sugar concentrations, low pH values, availability of nitrogen and other essential compounds, decreasing oxygen and increasing ethanol levels are some of
+the main factors that could aﬀect the strain or speciﬁc interactions
+between Saccharomyces and non-Saccharomyces yeasts such as synergism, mutualism, competition or amensalism during the fermentation
+process.
+According to the results of the population dynamics of the present
+study, we can infer that t exist strong interaction between nonSaccharomyces and S. cerevisiae yeasts assayed because of nonSaccharomyces yeasts were detected only the ﬁrst stage. Another possible explanation is that certain conditions (such as: nitrogen limitation,
+low oxygen availability, increasing ethanol, SO2 presence and low
+temperature) induce a viable but non-culturable (VBNC) cellular state
+of the NS yeasts (Maturano et al., 2016; Wang et al., 2016).
+It is well known that growth and permanence of yeast populations is
+strongly inﬂuenced by the fermentation temperature (Fleet and Heard,
+1993; Torija et al., 2003). Several authors have suggested that certain
+NS species have a better chance to grow and persist at low temperatures
+than Saccharomyces species (Heard and Fleet, 1988; Sharf and
+Margalith, 1983). Low temperature can increase tolerance of some
+yeast species to ethanol and high sugar concentrations of the initial
+grape must (Gao and Fleet, 1988; Torija et al., 2003). Accordingly, H.
+uvarum BHu9 and C. membranaefaciens BCm71 were selected for their
+ability to grow at low temperature (15 °C) (Mestre et al., 2017). However, in the present study the two NS strains showed lowest fermentation activity (based on fermentation kinetics) at the lowest temperature
+assayed (15 °C), which means that sugar consumption was very little
+(data not shown). Consequently, high sugar concentrations remained
+available, which were subsequently fermented by S. cerevisiae BSc114.
+Under the present experimental conditions, ethanol concentration decreased with a higher initial temperature of the process. An explanation
+would be that at low temperature the rigidity of the lipid bilayer
+membrane increases (or the ﬂuidity decreases). This can aﬀect activity
+of transmembrane proteins, like those involved in nutrient uptake
+(García-Ríos et al., 2016; Redón et al., 2011). Hence, activity of
+membrane-associated enzymes is reduced, greatly decreasing membrane transport (Aguilera et al., 2007; Murata et al., 2006; Vigh et al.,
+1998). Although sugar transport is mediated by facilitated diﬀusion,
+reduced enzymatic activity in the membrane would hamper sugar
+transport to the inside of the cell and therefore its uptake (RibéreauGayon et al., 2006). Under the present assay conditions, the experimental runs at high initial temperature (25 °C) registered lowest
+ethanol production as has been mentioned above. This could partially
+be explained by the fact that NS yeasts kept their membrane in optimal
+conditions under the high assay temperature, which facilitated diﬀusion of hexoses into the cytoplasm and subsequently their rapid metabolism. Based on the results of a previous study (Mestre et al., 2017), H.
+uvarum BHu9 and C. membranaefaciens BCm71 require high amounts of
+sugar to produce ethanol. This enological trait of NS yeasts enhances a
+reduction in available sugar which is subsequently fermented by S.
+cerevisiae. In this context, our results coincide with those reported by
+Torija et al. (2003), who observed that the ethanol yield of S. cerevisiae
+was lower at higher fermentation temperature. Similarly, RibéreauGayon et al. (2006) reported that elevated temperature generally
+yielded a lower alcohol concentration.
+The inoculum size is another key parameter in microbial fermentation (Medina et al., 1997; Papagianni and Moo-Young, 2002; Rao
+et al., 2004). We have not found information about the inoculum size of
+NS yeasts and its eﬀect on the ethanol concentration in wines. According to our results, diﬀerent inoculum sizes of the NS yeasts assayed
+did not signiﬁcantly aﬀect the ﬁnal ethanol production (p > 0.05).
+
+Acknowledgements
+This work was supported by the Research Project IDeA 1400-SECITI
+0041-2014. The authors would like to thank: National Vitiviniculture
+Institute (INV)-San Juan (engineer Hebe Norte and microbiologist
+Anabel Marun) and Magister María Lucía Martín for their analytical
+assistance; INV-Mendoza (engineer Carla Aruani) for coordination to
+the sensorial panel and PhD in Agronomy-National University of Cuyo.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://
+doi.org/10.1016/j.ijfoodmicro.2018.08.016.
+47
+
+International Journal of Food Microbiology 289 (2019) 40–48
+
+Y.P. Maturano et al.
+
+References
+
+Guth, H., Sies, A., 2002. Flavour of wines: towards an understanding by reconstitution
+experiments and an analysis of ethanol's eﬀect on odour activity of key components.
+In: Proceedings of the Eleventh Australian Wine Industry Technical Conference, 7–11
+October 2001, Adelaide, Australia. Australian Wine Industry Technical Conference
+Inc., Adelaide, SA, pp. 128–139.
+Heard, G.M., Fleet, G.H., 1988. The eﬀects of temperature and pH on the growth of yeast
+species during the fermentation of grape juice. J. Appl. Microbiol. 65 (1), 23–28.
+Hong, Y.A., Park, H.D., 2013. Role of non-Saccharomyces yeasts in Korean wines produced
+from Campbell Early grapes: potential use of Hanseniaspora uvarum as a starter culture. Food Microbiol. 34 (1), 207–214.
+Lawless, H.T., Heymann, H., 2010. Sensory evaluation of food: principles and practices.
+Springer Science & Business Media.
+Li, H., Guo, A., Wang, H., 2008. Mechanisms of oxidative browning of wine. Food Chem.
+108 (1), 1–13.
+Manzanares, P., Rojas, V., Genovés, S., Vallés, S., 2000. A preliminary search for anthocyanin-β-D-glucosidase activity in non-Saccharomyces wine yeasts. Int. Food Sci.
+Technol. 35 (1), 95–103.
+Maturano, Y.P., Mestre, M.V., Esteve-Zarzoso, B., Nally, M.C., Lerena, M.C., Toro, M.E.,
+Combina, M., 2015. Yeast population dynamics during prefermentative cold soak of
+Cabernet Sauvignon and Malbec wines. Int. J. Food Microbiol. 199, 23–32.
+Maturano, Y.P., Mestre, M.V., Combina, M., Toro, M.E., Vazquez, F., Esteve-Zarzoso, B.,
+2016. Culture-dependent and independent techniques to monitor yeast species during
+cold soak carried out at diﬀerent temperatures in winemaking. Int. J. Food Microbiol.
+237, 142–149.
+Medina, K., Carrau, F.M., Gioia, O., Bracesco, N., 1997. Nitrogen availability of grape
+juice limits killer yeast growth and fermentation activity during mixed-culture fermentation with sensitive commercial yeast strains. Appl. Environ. Microbiol. 63 (7),
+2821–2825.
+Mestre, M.V., Maturano, Y.P., Combina, M., Mercado, L.A., Toro, M.E., Vazquez, F., 2017.
+Selection of non-Saccharomyces yeasts to be used in grape musts with high alcoholic
+potential: a strategy to obtain wines with reduced ethanol content. FEMS Yeast Res.
+17 (2).
+Murata, Y., Homma, T., Kitagawa, E., Momose, Y., Sato, M.S., Odani, M., Fujita, K., 2006.
+Genome-wide expression analysis of yeast response during exposure to 4 C.
+Extremophiles 10 (2), 117–128.
+Pallmann, C.L., Brown, J.A., Olineka, T.L., Cocolin, L., Mills, D.A., Bisson, L.F., 2001. Use
+of WL medium to proﬁle native ﬂora fermentations. Am. J. Enol. Vitic. 52 (3),
+198–203.
+Papagianni, M., Moo-Young, M., 2002. Protease secretion in glucoamylase producer
+Aspergillus niger cultures: fungal morphology and inoculum eﬀects. Process Biochem.
+37 (11), 1271–1278.
+Pérez-Nevado, F., Albergaria, H., Hogg, T., Girio, F., 2006. Cellular death of two nonSaccharomyces wine-related yeasts during mixed fermentations with Saccharomyces
+cerevisiae. Int. J. Food Microbiol. 108 (3), 336–345.
+Rao, R.S., Prakasham, R.S., Prasad, K.K., Rajesham, S.S., Sarma, P.N., Rao, L.V., 2004.
+Xylitol production by Candida sp.: parameter optimization using Taguchi approach.
+Process Biochem. 39 (8), 951–956.
+Redón, M., Guillamón, J.M., Mas, A., Rozès, N., 2011. Eﬀect of growth temperature on
+yeast lipid composition and alcoholic fermentation at low temperature. Eur. Food
+Res. Technol. 232 (3), 517–527.
+Ribéreau-Gayon, P., 2000. The Microbiology of Wine and Viniﬁcations. Wiley-VCH.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., Lonvaud, A. (Eds.), 2006. Handbook of
+Enology, Volume 1: The Microbiology of Wine and Viniﬁcations. John Wiley & Sons.
+Rossouw, D., Bauer, F.F., 2016. Exploring the phenotypic space of non-Saccharomyces
+wine yeast biodiversity. Food Microbiol. 55, 32–46.
+Sharf, R., Margalith, P., 1983. The eﬀect of temperature on spontaneous wine fermentation. Eur. J. Appl. Microbiol. Biotechnol. 17 (5), 311–313.
+Tilloy, V., Ortiz-Julien, A., Dequin, S., 2014. Reduction of ethanol yield and improvement
+of glycerol formation by adaptive evolution of the wine yeast Saccharomyces cerevisiae
+under hyperosmotic conditions. Appl. Environ. Microbiol. 80 (8), 2623–2632.
+Tofalo, R., Schirone, M., Torriani, S., Rantsiou, K., Cocolin, L., Perpetuini, G., Suzzi, G.,
+2012. Diversity of Candida zemplinina strains from grapes and Italian wines. Food
+Microbiol. 29 (1), 18–26.
+Torija, M.J., Rozes, N., Poblet, M., Guillamón, J.M., Mas, A., 2003. Eﬀects of fermentation
+temperature on the strain population of Saccharomyces cerevisiae. Int. J. Food
+Microbiol. 80 (1), 47–53.
+Varela, C., 2016. The impact of non-Saccharomyces yeasts in the production of alcoholic
+beverages. Appl. Microbiol. Biotechnol. 100 (23), 9861–9874.
+Viana, F., Gil, J.V., Genovés, S., Vallés, S., Manzanares, P., 2008. Rational selection of
+non-Saccharomyces wine yeasts for mixed starters based on ester formation and enological traits. Food Microbiol. 25 (6), 778–785.
+Vigh, L., Maresca, B., Harwood, J.L., 1998. Does the membrane's physical state control the
+expression of heat shock and other genes? Trends Biochem. Sci. 23 (10), 369–374.
+Wang, C., Mas, A., Esteve-Zarzoso, B., 2016. The interaction between Saccharomyces
+cerevisiae and non-Saccharomyces yeast during alcoholic fermentation is species and
+strain speciﬁc. Front. Microbiol. 7, 502.
+Williams, A.A., Rosser, P.R., 1981. Aroma enhancing eﬀect of ethanol. Chem. Senses 6
+(2), 149–153.
+Zott, K., Miot-Sertier, C., Claisse, O., Lonvaud-Funel, A., Masneuf-Pomarede, I., 2008.
+Dynamics and diversity of non-Saccharomyces yeasts during the early stages in
+winemaking. Int. J. Food Microbiol. 125 (2), 197–203.
+
+Abbas, C.A., 2006. Production of antioxidants, aromas, colours, ﬂavours, and vitamins by
+yeasts. In: Yeasts in Food and Beverages. Springer, Berlin, Heidelberg, pp. 285–334.
+Aguilera, J., Randez-Gil, F., Prieto, J.A., 2007. Cold response in Saccharomyces cerevisiae:
+new functions for old mechanisms. FEMS Microbiol. Rev. 31 (3), 327–341.
+Albertin, W., Zimmer, A., Miot-Sertier, C., Bernard, M., Coulon, J., Moine, V., MasneufPomarede, I., 2017. Combined eﬀect of the Saccharomyces cerevisiae lag phase and the
+non-Saccharomyces consortium to enhance wine fruitiness and complexity. Appl.
+Microbiol. Biotechnol. 101 (20), 7603–7620.
+Amenaghawon, N.A., Nwaru, K.I., Aisien, F.A., Ogbeide, S.E., Okieimen, C.O., 2013.
+Application of Box-Behnken design for the optimization of citric acid production from
+corn starch using Aspergillus niger. British Biotech. J. 3 (3), 236–245.
+Arroyo-López, F.N., Orlić, S., Querol, A., Barrio, E., 2009. Eﬀects of temperature, pH and
+sugar concentration on the growth parameters of Saccharomyces cerevisiae,
+Saccharomyces kudriavzevii and their interspeciﬁc hybrid. Int. J. Food Microbiol. 131
+(2), 120–127.
+Behera, S.K., Meena, H., Chakraborty, S., Meikap, B.C., 2018. Application of response
+surface methodology (RSM) for optimization of leaching parameters for ash reduction
+from low-grade coal. Int. J. Min. Sci. Technol. 28 (4), 621–629.
+Branco, P., Viana, T., Albergaria, H., Arneborg, N., 2015. Antimicrobial peptides (AMPs)
+produced by Saccharomyces cerevisiae induce alterations in the intracellular pH,
+membrane permeability and culturability of Hanseniaspora guilliermondii cells. Int. J.
+Food Microbiol. 205, 112–118.
+Charoenchai, C., Fleet, G.H., Henschke, P.A., 1998. Eﬀects of temperature, pH, and sugar
+concentration on the growth rates and cell biomass of wine yeasts. Am. J. Enol. Vitic.
+49 (3), 283–288.
+Ciani, M., Beco, L., Comitini, F., 2006. Fermentation behaviour and metabolic interactions of multistarter wine yeast fermentations. Int. J. Food Microbiol. 108 (2),
+239–245.
+Ciani, M., Canonico, L., Oro, L., Comitini, F., 2014. Sequential fermentation using nonSaccharomyces yeasts for the reduction of alcohol content in wine. In: BIO Web of
+Conferences, vol. 3. EDP Sciences, pp. 02015.
+Ciani, M., Capece, A., Comitini, F., Canonico, L., Siesto, G., Romano, P., 2016. Yeast
+interactions in inoculated wine fermentation. Front. Microbiol. 7, 555.
+Clemente-Jimenez, J.M., Mingorance-Cazorla, L., Martínez-Rodríguez, S., Las HerasVázquez, F.J., Rodríguez-Vico, F., 2005. Inﬂuence of sequential yeast mixtures on
+wine fermentation. Int. J. Food Microbiol. 98 (3), 301–308.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., Ciani, M.,
+2011. Selected non-Saccharomyces wine yeasts in controlled multistarter fermentations with Saccharomyces cerevisiae. Food Microbiol. 28 (5), 873–882.
+Contreras, A., Hidalgo, C., Henschke, P.A., Chambers, P.J., Curtin, C., Varela, C., 2014.
+Evaluation of non-Saccharomyces yeasts for the reduction of alcohol content in wine.
+Appl. Environ. Microbiol. 80 (5), 1670–1678.
+Contreras, A., Hidalgo, C., Schmidt, S., Henschke, P.A., Curtin, C., Varela, C., 2015. The
+application of non-Saccharomyces yeast in fermentations with limited aeration as a
+strategy for the production of wine with reduced alcohol content. Int. J. Food
+Microbiol. 205, 7–15.
+D'amato, D., Corbo, M.R., Nobile, M.A.D., Sinigaglia, M., 2006. Eﬀects of temperature,
+ammonium and glucose concentrations on yeast growth in a model wine system. Int.
+J. Food Sci. Technol. 41, 1152–1157.
+Domizio, P., Romani, C., Lencioni, L., Comitini, F., Gobbi, M., Mannazzu, I., 2011.
+Outlining a future for non-Saccharomyces yeasts: selection of putative spoilage wine
+strains to be used in association with Saccharomyces cerevisiae for grape juice fermentation. Int. J. Food Microbiol. 147 (3), 170–180.
+Englezos, V., Rantsiou, K., Cravero, F., Torchio, F., Ortiz-Julien, A., Gerbi, V., Cocolin, L.,
+2016. Starmerella bacillaris and Saccharomyces cerevisiae mixed fermentations to reduce ethanol content in wine. Appl. Microbiol. Biotechnol. 100 (12), 5515–5526.
+Erten, H., Campbell, I., 2001. The production of low-alcohol wines by aerobic yeasts. J.
+Inst. Brew. 107, 207–217.
+Escudero, A., Campo, E., Fariña, L., Cacho, J., Ferreira, V., 2007. Analytical characterization of the aroma of ﬁve premium red wines. Insights into the role of odor families
+and the concept of fruitiness of wines. J. Agric. Food Chem. 55 (11), 4501–4510.
+Fleet, G.H., Heard, G.M., 1993. Yeasts: growth during fermentation. In: Fleet, G.H. (Ed.),
+Wine Microbiology and Biotechnology. Harwood Academic Publishers, Australia.
+Gao, C., Fleet, G.H., 1988. The eﬀects of temperature and pH on the ethanol tolerance of
+the wine yeasts, Saccharomyces cerevisiae, Candida stellata and Kloeckera apiculata. J.
+Appl. Microbiol. 65 (5), 405–409.
+García-Ríos, E., Ramos-Alonso, L., Guillamón, J.M., 2016. Correlation between low
+temperature adaptation and oxidative stress in Saccharomyces cerevisiae. Front.
+Microbiol. 7, 1199.
+Ghosh, S., Chakraborty, R., Raychaudhuri, U., 2012. Optimizing process conditions for
+palm (Borassus ﬂabelliﬀer) wine fermentation using response surface methodology.
+Int. Food Res. J. 19 (4), 16–33.
+Gobbi, M., Comitini, F., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., Ciani, M.,
+2013. Lachancea thermotolerans and Saccharomyces cerevisiae in simultaneous and
+sequential co-fermentation: a strategy to enhance acidity and improve the overall
+quality of wine. Food Microbiol. 33 (2), 271–281.
+Goold, H.D., Kroukamp, H., Williams, T.C., Paulsen, I.T., Varela, C., Pretorius, I.S., 2017.
+Yeast's balancing act between ethanol and glycerol production in low-alcohol wines.
+Microb. Biotechnol. 10 (2), 264–278.
+
+48
+
+

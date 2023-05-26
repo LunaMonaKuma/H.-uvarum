@@ -1,0 +1,1169 @@
+International Journal of Systematic and Evolutionary Microbiology (2003), 53, 1671–1680
+
+DOI 10.1099/ijs.0.02618-0
+
+Hanseniaspora meyeri sp. nov., Hanseniaspora
+clermontiae sp. nov., Hanseniaspora lachancei
+sp. nov. and Hanseniaspora opuntiae sp. nov.,
+novel apiculate yeast species
+Neza Cadez,1 Gé A. Poot,2 Peter Raspor1 and Maudy Th. Smith2
+Correspondence
+Maudy Th. Smith
+smith@cbs.knaw.nl
+
+1
+
+University of Ljubljana, Biotechnical Faculty, Department of Food Science and Technology,
+Jamnikarjeva 101, 1000 Ljubljana, Slovenia
+
+2
+
+Centraalbureau voor Schimmelcultures, Yeast Division, PO Box 85167, 3508 AD Utrecht,
+The Netherlands
+
+Fourteen apiculate yeast strains isolated from various sources in South Africa, North America
+and the Hawaiian islands were found to be genetically divergent from other Hanseniaspora–
+Kloeckera species by using randomly amplified polymorphic DNA (RAPD)-PCR. After cluster
+analysis of the RAPD-PCR fingerprints, five groups were recognized. DNA reassociation values
+among representatives of these groups and strains of Hanseniaspora–Kloeckera species revealed
+that the strains represent five novel species. Four are described here as novel species of
+Hanseniaspora: Hanseniaspora meyeri sp. nov. (type CBS 8734T), Hanseniaspora clermontiae
+sp. nov. (type CBS 8821T), Hanseniaspora lachancei sp. nov. (type CBS 8818T) and
+Hanseniaspora opuntiae sp. nov. (type CBS 8733T). The fifth novel species, which is represented
+by only a single strain, CBS 8772, is not introduced as a new taxon. Phylogenetic analyses of the
+D1/D2 region of the 26S rDNA and internal transcribed spacer (ITS) regions with 5?8S rDNA
+sequences placed H. meyeri, H. clermontiae, H. lachancei, H. opuntiae and strain CBS 8772
+close to Hanseniaspora uvarum and Hanseniaspora guilliermondii. The key characteristics for
+standard physiological identification of H. clermontiae and H. lachancei were respectively
+maximal growth temperature and assimilation of 2-keto-D-gluconate. However, physiological
+characteristics did not allow the distinction of H. opuntiae and strain CBS 8772 from
+H. guilliermondii or H. meyeri from H. uvarum. These three novel taxa can be identified by either
+ITS sequencing or PCR-RFLP of ITS regions using restriction enzymes MboII and HinfI.
+
+INTRODUCTION
+In a previous study (Cadez et al., 2002), the genetic diversity
+of apiculate yeasts belonging to the genera Hanseniaspora
+Zikes and Kloeckera Janke was determined using randomly
+amplified polymorphic DNA (RAPD)-PCR analysis. Cluster
+analysis of the combined fingerprints of 74 strains segregated the strains into six major clusters, each representing
+a currently recognized species in the genus Hanseniaspora
+(Smith, 1998a), and one separate cluster of five strains that
+were physiologically indistinguishable from Hanseniaspora
+Abbreviations: ITS, internal transcribed spacer; RAPD, randomly amplified polymorphic DNA.
+The GenBank/EMBL/DDBJ accession numbers for the sequences
+determined in this study are AJ512451–AJ512461 (26S rDNA D1/
+D2 domain) and AJ512427–AJ512443 (ITS region and 5?8S rDNA).
+Detailed DNA–DNA hybridization data for the novel strains, a D1/D2based phylogenetic tree and results of PCR-RFLP of the ITS region are
+available as supplementary material in IJSEM Online.
+
+02618 G 2003 IUMS
+
+Printed in Great Britain
+
+uvarum (Cadez et al., 2002). Because the origins of these
+five strains were natural and man-made environments in
+North America and Africa only, nine additional strains from
+Hawaii and Mexico were included in rapid genomic
+fingerprinting. Eleven strains sharing five distinct RAPDPCR banding patterns were subjected to further studies
+involving DNA–DNA reassociation determinations. In
+addition, the D1/D2 and internal transcribed spacer (ITS)
+regions (ITS1, ITS2) and the 5?8S rRNA genes were
+sequenced to determine phylogenetic relationships.
+Because standard physiological identification tests did not
+allow the separation of all Hanseniaspora and Kloeckera
+species, a combination of phenotypic and molecular
+tests is required for accurate identification of these novel
+Hanseniaspora species.
+
+METHODS
+Yeast strains and their characterization. The strains examined
+
+and their origin, location and DNA G+C contents are listed in
+1671
+
+N. Cadez and others
+Table 1. Physiological characteristics of the yeasts were determined
+according to the methods of Yarrow (1998). Utilization of carbon
+compounds was tested in liquid media after incubation at 25 uC in
+tubes for 4 weeks with continuous shaking at 30 r.p.m. Assimilation
+of nitrogen compounds was examined by the auxonographic
+method after 1 week.
+
+The molecular sizes of the ITS and 5?8S rDNA digests were determined by comparison to a DNA molecular marker (100 bp ladder;
+Gibco-BRL) using the Quantity One 4.0.3 (Bio-Rad) computer
+program.
+
+RAPD-PCR analysis. Genomic DNA was isolated as described by
+Möller et al. (1992). Three microsatellite primers, (ATG)5, (GTG)5
+and (GACA)4, were used in PCRs as described before (Cadez et al.,
+2002). A Perkin Elmer 2400 thermal cycler was programmed for 35
+cycles of 1 min at 94 uC, 1 min at 48 uC [primer (ATG)5], 52 uC
+[(GTG)5] or 43 uC [(GACA)4] followed by 2 min at 72 uC. PCR
+products were separated on 2 % agarose gels in 16 TAE buffer.
+Ethidium bromide-stained gels were documented by GelDoc 2000
+(Bio-Rad).
+
+RESULTS AND DISCUSSION
+
+The RAPD-PCR profiles of each strain were combined in a composite
+fingerprint and a binary matrix was generated manually by scoring
+the absence (0) or presence (1) of each fragment. Further analyses
+were performed using NTSYS software package version 2.0 (Applied
+Biostatistics). Similarity values were calculated using the Dice coefficient and cluster analysis was performed using the UPGMA algorithm.
+Genomic DNA analyses. For DNA extraction, strains were grown
+
+for 2 days at 25 uC on a rotary shaker at 125 r.p.m. in 2 l yeast
+extract/malt extract broth (YM; Difco) using four 1 l flat-bottom
+flasks. Isolation and purification of DNA, determination of DNA
+base composition and DNA–DNA reassociations were performed
+according to Golubev et al. (1989). Strains used in DNA–DNA
+reassociations are indicated in Table 1.
+rDNA sequencing and phylogenetic analyses. The D1/D2
+
+domain of 26S rDNA was amplified using primers NL-1 and NL-4
+(O’Donnell, 1993) and the ITS (ITS1, ITS2) and 5?8S rRNA gene
+regions were amplified using primers ITS1-F (Gardes & Bruns, 1993)
+and ITS4 (White et al., 1990). Amplification was performed under
+the following conditions: an initial denaturing step of 5 min at 94 uC,
+followed by 35 cycles of 40 s at 94 uC, 40 s at 55 uC and 30 s at 72 uC,
+with a final extension step of 7 min at 72 uC. The PCR products were
+purified using the Wizard PCR purification kit (Promega) according
+to the manufacturer’s instructions and sequenced directly by using a
+Thermo Sequenase Cy5 Dye Terminator kit (Amersham Pharmacia
+Biotech). The primers used to sequence both strands of the D1/D2
+domain and ITS1–5?8S rDNA–ITS2 regions were the same as for
+PCR amplification. The thermal cycling conditions were as follows:
+25 cycles of 30 s at 94 uC, 30 s at 50 uC and 1 min at 72 uC. Purified
+sequencing reactions were loaded on ALFexpress II automatic DNA
+sequencer (Amersham Pharmacia Biotech).
+The D1/D2 and ITS1–5?8S rDNA–ITS2 sequences were aligned
+automatically using the multiple sequence alignment program
+CLUSTAL X 1.8 (Thompson et al., 1997) and were adjusted manually.
+Positions where gaps existed in any of the aligned sequences were
+excluded. Further phylogenetic analyses employed the PHYLIP software package version 3.6 (Felsenstein, 2000). A distance matrix was
+obtained using DNADIST with Kimura’s two-parameter method (Jin
+& Nei, 1990) and phylogenetic trees were constructed using the
+neighbour-joining method (Saitou & Nei, 1987). Stability of branches
+was assessed by bootstrap analysis (Felsenstein, 1985) in which 1000
+replicates were used.
+PCR-RFLP analysis of ITS. The ITS1–5?8S rDNA–ITS2 regions
+were amplified using primers ITS1 and ITS4 as described previously
+(Cadez et al., 2002) and were digested directly with restriction
+enzymes DdeI (Promega), HinfI (Roche) and MboII (Promega)
+according to the instructions of the manufacturers. The digests were
+separated on 3 % agarose gels in 16 TAE buffer.
+
+1672
+
+Genetic diversity
+Initially, the genetic diversity of 14 strains of the genus
+Hanseniaspora isolated from various sources in Africa,
+North America and Hawaii was analysed using RAPDPCR analysis in comparison with the type and other
+representative strains of Hanseniaspora and Kloeckera
+species (Table 1). UPGMA clustering of the combined
+RAPD-PCR fingerprints obtained with microsatellite
+primers (ATG)5, (GTG)5 and (GACA)4 is shown in Fig. 1.
+The 14 strains segregated into five distinct groups, which
+clustered with the other Hanseniaspora and Kloeckera
+species at a similarity level below 40 %. On the basis of
+previous correlation between similarity values derived
+from RAPD-PCR analysis and DNA–DNA reassociations
+(Messner et al., 1994; Molnár et al., 1995), we predicted that
+the five groups were genetically divergent from currently
+accepted species of Hanseniaspora.
+DNA relatedness
+Subsequently, DNA–DNA reassociation analysis of strains
+of the five genetically divergent groups (I–V) was performed. Of group I, four selected isolates from South
+Africa, Hawaii and Georgia (USA) exhibited DNA relatedness values ranging from 91 to 100 %. Relatedness of
+100 % was observed within groups II and III, the latter
+consisting of two strains, CBS 8818T and CBS 8819, isolated
+from a traditional tequila fermentation in Mexico and
+referred to by Lachance (1995) as atypical Hanseniaspora
+guilliermondii strains because of their lack of assimilation
+of 2-keto-D-gluconate. Among the Hawaii isolates, CBS
+8733T and CBS 8820 of group IV, a relatedness value of
+97 % was observed. Group V included only a single strain,
+CBS 8772, isolated from orange juice concentrate in
+Georgia (USA). Detailed DNA relatedness data for strains
+of groups I–V are available as supplementary material in
+IJSEM Online.
+In Table 2, the mutual DNA relatedness values of the five
+groups and the seven currently accepted Hanseniaspora
+and Kloeckera species are shown. Mutual DNA relatedness
+values were usually low, ranging from 1 to 40 %. However,
+several intermediate values were found among groups;
+62 % between groups I and II, 66 % between groups IV and
+V and 51 and 53 %, respectively, between group III and
+groups IV and V. From these values, it can be concluded
+that the groups represent five novel species, and, from the
+intermediate similarity values in particular, it can be
+inferred that groups I and II and groups III, IV and V
+represent two groups of diverging species complexes.
+International Journal of Systematic and Evolutionary Microbiology 53
+
+http://ijs.sgmjournals.org
+
+Table 1. Strains studied
+Culture collections are abbreviated as follows: CBS, Centraalbureau voor Schimmelcultures, Utrecht, The Netherlands; NCAIM, National Collection of Agricultural and Industrial Microorganisms, Budapest, Hungary; NRRL, ARS Culture Collection, National Center for Agricultural Utilization Research, Peoria, IL, USA; UWO-PS, University of Western Ontario Plant
+Sciences Yeast Culture Collection, London, Ontario, Canada. Standard deviations of G+C content determinations were ±0?5 mol%. ND, Not determined; NK, not known.
+Strain
+
+G+C content (mol%)
+
+D1/D2 accession no.
+
+Fruit of Sapindus sp., Hawaii, USA
+Spoiled grape punch, Georgia, USA
+Flower from Schotia sp. tree, South Africa
+Flower from Schotia sp. tree, South Africa
+Flower from Schotia sp. tree, South Africa
+Drosophilid from Sapindus sp. berries, Hawaii, USA
+Drosophilid from Sapindus sp. berries, Hawaii, USA
+Stem rot, Clermontia sp., Hawaii, USA
+Drosophilid from Sapindus sp. berries, Hawaii, USA
+
+37
+37?2
+37?4
+
+AJ512454
+
+ND
+
+AJ512461
+AJ512460
+
+Stem rot, Clermontia sp., Hawaii, USA
+Stem rot, Clermontia sp., Hawaii, USA
+
+35?7
+37?2
+
+AJ512452
+AJ512456
+
+Fermenting agave juice, Mexico
+Drosophila sp., fermenting agave juice, Mexico
+Fermenting agave juice, Mexico
+
+34?8
+35?6
+
+AJ512457
+
+ND
+
+AJ512459
+
+Opuntia ficus-indica rot, Hawaii, USA
+Opuntia ficus-indica rot, Hawaii, USA
+
+33?6
+35?3
+
+AJ512453
+AJ512451
+
+Orange juice concentrate, Georgia, USA
+
+31?5
+
+AJ512455
+
+Fermenting bottled tomatoes, The Netherlands
+Infected nail, South Africa
+Trachea of bee, France
+
+33?4aD
+33?2a
+33?9a
+
+ND
+ND
+
+36?6
+
+AJ512458
+
+ND
+ND
+
+1673
+
+Novel Hanseniaspora species
+
+Hanseniaspora meyeri sp. nov. (group I)
+CBS 8734T* (=UWO-PS 91-661.1T=NRRL Y-27513T)
+CBS 8771* (=NCAIM Y.725)
+CBS 8773*
+CBS 8774
+CBS 8775
+CBS 8815* (=UWO-PS 91-643.1)
+CBS 8823 (=UWO-PS 91-732.2)
+UWO-PS 87-2361.1
+UWO-PS 91-637.1
+Hanseniaspora clermontiae sp. nov. (group II)
+CBS 8821T* (=UWO-PS 87-2370.1T=NRRL Y-27515T)
+CBS 8822* (=UWO-PS 87-2440.2)
+Hanseniaspora lachancei sp. nov. (group III)
+CBS 8818T* (=UWO-PS 92-218.1T=NRRL Y-27514T)
+CBS 8819* (=UWO-PS 92-232.4)
+UWO-PS 92-221.1
+Hanseniaspora opuntiae sp. nov. (group IV)
+CBS 8733T* (=UWO-PS 87-2121.3T=NRRL Y-27512T)
+CBS 8820* (=UWO-PS 87-2120.3)
+Hanseniaspora sp. (group V)
+CBS 8772* (NCAIM Y.741)
+Hanseniaspora guilliermondii
+CBS 95
+CBS 465T*
+CBS 2591*
+
+Origin
+
+N. Cadez and others
+
+1674
+
+Table 1. cont.
+Strain
+
+International Journal of Systematic and Evolutionary Microbiology 53
+
+Hanseniaspora occidentalis
+CBS 282
+CBS 283
+CBS 2592T*
+Hanseniaspora osmophila
+CBS 106*
+CBS 313T*
+CBS 1999
+NCAIM Y.726
+Hanseniaspora uvarum
+CBS 314T*
+CBS 279
+CBS 2570*
+CBS 2584
+CBS 2585
+Hanseniaspora valbyensis
+CBS 479T*
+CBS 281
+CBS 6558
+Hanseniaspora vineae
+CBS 277*
+CBS 2171T*
+CBS 2568
+CBS 8031
+Kloeckera lindneri
+CBS 285T*
+
+Origin
+
+G+C content (mol%)
+
+Soil, Java, Indonesia
+Soil, Java, Indonesia
+Soil, West Indies (St Croix)
+
+34?9a
+35?6a
+34?9a
+
+Bark of tree, Denmark
+Ripe Reisling grape, Germany
+Soil, West Indies (St Croix)
+Pineapple juice concentrate, Georgia, USA
+
+40?3
+40?5a
+40?5a
+
+Muscatel grape, Crimea, Ukraine
+Institute of Brewing, Tokyo
+Drosophila sp., Brazil
+Sour dough, Portugal
+
+33?9a
+34?4a
+34?7
+34?4a
+32?9a
+
+Soil, Germany
+Sap of tree, Japan
+Pulque, Mexico
+
+30?0a
+29?0a
+29?0a
+
+Soil, Algeria
+Soil of vineyard, South Africa
+Drosophila persimilis
+Black knot gall on Prunus virginiana, Canada
+
+38?8a
+40?2a
+40?5a
+39?6b
+
+Soil, Java, Indonesia
+
+34?8
+
+NK
+
+*Strain used in DNA–DNA reassociation analysis.
+DData from Meyer et al. (1978) (a) and Smith & Poot (1985) (b).
+
+ND
+
+D1/D2 accession no.
+
+Novel Hanseniaspora species
+
+H. occidentalis CBS 2592T
+H. occidentalis CBS 283
+H. occidentalis CBS 282
+H. osmophila CBS 313T
+H. osmophila CBS 1999
+H. osmophila NCAIM 726
+T
+
+H. clermontiae CBS 8821
+
+Group II
+
+H. clermontiae CBS 8822
+T
+
+H. vineae CBS 2171
+
+H. vineae CBS 8031
+H. vineae CBS 2568
+T
+
+H. uvarum CBS 314
+H. uvarum CBS 279
+
+H. uvarum CBS 2585
+K. lindneri CBS 285
+
+T
+T
+
+H. guilliermondii CBS 465
+
+H. guilliermondii CBS 2591T
+H. valbyensis CBS 479T
+H. valbyensis CBS 6558
+H. valbyensis CBS 281
+H. meyeri CBS 8734T
+H. meyeri CBS 8773
+H. meyeri CBS 8815
+H. meyeri CBS 8823
+
+Group I
+
+H. meyeri CBS 8774
+H. meyeri CBS 8775
+H. meyeri CBS 8771
+H. lachancei CBS 8818T
+
+Fig. 1. UPGMA dendrogram of Hanseniaspora–Kloeckera strains based on combined
+RAPD-PCR fingerprints obtained with microsatellite primers (ATG)5, (GTG)5 and (GACA)4.
+The distance between strains was calculated
+using the Dice coefficient. The dotted line
+indicates a similarity level of 40 %.
+
+Group III
+
+H. lachancei CBS 8819
+Hanseniaspora sp. CBS 8772 Group V
+H. opuntiae CBS 8733T
+
+Group IV
+
+H. opuntiae CBS 8820
+0.15
+
+0.57
+
+0.36
+
+0.79
+
+1.00
+
+Dice coefficient
+
+species were determined by sequence comparisons. The
+D1/D2 sequences of 26S rDNA of 11 selected strains
+were determined (GenBank accession numbers shown in
+Table 1) and aligned with those of the other Hanseniaspora
+
+Sequence analysis and phylogenetic placement
+The phylogenetic relationships of the four novel species
+and strain CBS 8772 to other Hanseniaspora and Kloeckera
+
+Table 2. DNA–DNA relatedness among taxa of Hanseniaspora and Kloeckera
+Values are mean percentages of at least two determinations. The standard deviation for levels of reassociation within and among groups
+was ¡5 %.
+Source of DNA
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1. H. occidentalis
+2. H. vineae
+3. H. osmophila
+4. H. valbyensis
+5. K. lindneri
+6. H. uvarum
+7. H. guilliermondii
+8. H. meyeri sp. nov. (group I)
+9. H. clermontiae sp. nov. (group II)
+10. H. lachancei sp. nov. (group III)
+11. H. opuntiae sp. nov. (group IV)
+12. Hanseniaspora sp. (group V)
+
+–
+10
+14
+11
+21
+7
+8
+25
+11
+29
+1
+30
+
+100
+33
+28
+24
+9
+12
+22
+13
+30
+6
+16
+
+96
+24
+14
+12
+13
+26
+19
+14
+15
+7
+
+100
+37
+20
+15
+22
+33
+20
+17
+21
+
+–
+28
+33
+36
+31
+15
+19
+21
+
+99
+22
+23
+25
+20
+17
+31
+
+100
+18
+40
+29
+35
+19
+
+98
+62
+29
+22
+24
+
+100
+15
+22
+34
+
+100
+53
+51
+
+97
+66
+
+–
+
+http://ijs.sgmjournals.org
+
+1675
+
+N. Cadez and others
+
+Fig. 2. Phylogenetic tree showing the
+relationships of Hanseniaspora–Kloeckera
+species inferred from ITS1–5?8S rDNA–
+ITS2 sequences. The tree was constructed
+by using the neighbour-joining analysis. Bootstrap percentages above 50 % from 1000
+bootstrap replicates are shown. The outgroup species was Saccharomyces cerevisiae. Bar, 2 % sequence divergence.
+
+and Kloeckera type strains. Pairwise comparisons revealed
+that sequence divergences among the six species and strain
+CBS 8772 belonging to the H. guilliermondii–H. uvarum
+cluster did not exceed 1 % (6 nucleotide substitutions), a
+value suggested by Kurtzman & Robnett (1998) to be the
+borderline of species separation. Nucleotide substitutions
+of more than 1 % are indicative of separate taxa, while
+differences of 0–3 nucleotides seem to be indicative of
+conspecificity or sister species. However, DNA–DNA
+reassociation may, as in the present case, detect genetic
+divergence that is not detectable by sequencing. The study
+of Boekhout et al. (1994) showed that H. uvarum and
+H. guilliermondii, species sharing low DNA relatedness
+[11–29 % (Meyer et al., 1978); 22 %, this study], had
+sequence divergence in the D1/D2 region of only 1 % (6
+base substitutions). Consequently, the rates for D1/D2
+substitutions between the recently diverged species complexes Hanseniaspora meyeri sp. nov.–Hanseniaspora
+clermontiae sp. nov. and Hanseniaspora lachancei sp. nov.–
+Hanseniaspora opuntiae sp. nov. were proportionally lower,
+as H. clermontiae differed by only two base substitutions
+(0?35 % sequence divergence) from H. meyeri and
+H. opuntiae differed by three base substitutions (0?5 %
+sequence divergence) from H. lachancei. Strain CBS 8772,
+a sister taxon to the species complex H. opuntiae–H.
+lachancei, differed by four (0?7 % sequence divergence) and
+five (0?9 % sequence divergence) base substitutions, respectively, from H. opuntiae and H. lachancei. The D1/D2-based
+phylogenetic tree is available as Supplementary Fig. A in
+IJSEM Online.
+The placement of the four novel species and CBS 8772
+within the H. uvarum–H. guilliermondii cluster by D1/D2
+sequence analysis was found to have a low level of statistical
+support (bootstrap values <70 %) and, therefore, the
+non-coding ITS regions, with higher rates of sequence
+substitution, were applied to resolve the phylogenetic
+position of these very closely related yeasts (James et al.,
+1996; Oda et al., 1997).
+The ITS1–5?8S rDNA–ITS2 sequences of the type and other
+1676
+
+strains of Hanseniaspora–Kloeckera species were determined and used to construct a phylogenetic tree by the
+neighbour-joining method (Fig. 2). Our tree topology is
+consistent with that reported previously (Esteve-Zarzoso
+et al., 2001). A high bootstrap value (100 %) supported
+the placement of H. meyeri and H. clermontiae in close
+relationship to H. uvarum and H. lachancei, H. opuntiae
+and strain CBS 8772 to H. guilliermondii, which is in
+agreement with phenotypic similarities and DNA reassociation results (Table 2). The short branches imply very
+close phylogenetic relationships between species of the
+H. uvarum–H. guilliermondii cluster. Detailed sequence
+analysis of the ITS1 and ITS2 regions of the genetically
+closer pairs revealed that H. meyeri differed from H.
+clermontiae (57–66 % DNA relatedness) by a single base
+substitution, H. lachancei differed from H. opuntiae (53–
+55 % DNA relatedness) by nine base substitutions and
+Hanseniaspora vineae differed from Hanseniaspora osmophila [38–60 % DNA relatedness (Meyer et al., 1978); 33 %,
+this study] by 17 base substitutions. This lack of correspondence between the degree of sequence divergence
+and DNA reassociation data for Hanseniaspora species
+supports the observation of Seifert et al. (1995), that the
+rate of evolution in the ITS region varies from species to
+species.
+Identification
+The diagnostic key for identification of Hanseniaspora
+and Kloeckera species using standard yeast identification
+procedures was supplemented from Smith (1998b) and
+Barnett et al. (2000) as shown in Table 3.
+H. lachancei can be distinguished from H. guilliermondii,
+H. opuntiae and strain CBS 8772 by its ability to assimilate
+2-keto-D-gluconate as a sole carbon source and from the
+other Hanseniaspora and Kloeckera species by the presence
+of growth at 37 uC. H. clermontiae can be differentiated from
+its sister species H. meyeri and H. uvarum by the absence
+of growth at 30 uC and from Hanseniaspora valbyensis by
+its ability to assimilate 2-keto-D-gluconate. Conventional
+International Journal of Systematic and Evolutionary Microbiology 53
+
+Novel Hanseniaspora species
+
+Table 3. Diagnostic key for identification of Hanseniaspora
+and Kloeckera species
+Key
+1. Growth at 37 uC
+a. Present
+2
+b. Absent
+3
+2. 2-Keto-D-gluconate assimilated
+a. Yes
+H. guilliermondii/H.
+opuntiae/CBS 8772*
+b. No
+H. lachancei
+3. Sucrose fermented
+a. Yes
+H. occidentalis
+b. No
+4
+4. 2-Keto-D-gluconate assimilated
+a. Yes
+5
+b. No
+6
+5. Growth at 30 uC
+a. Yes
+H. uvarum/H. meyeri*
+b. No
+H. clermontiae
+6. Growth with 0?01 % cycloheximide
+a. No
+H. vineae/H. osmophila*
+b. Yes
+H. valbyensis/K. lindneri*
+*Species can be differentiated from one another either by rDNA
+sequencing or by PCR-RFLP of ITS regions (see Supplementary
+Fig. B in IJSEM Online).
+
+physiological criteria cannot distinguish H. meyeri from
+H. uvarum or H. opuntiae and strain CBS 8772 from
+H. guilliermondii. For accurate identification of these
+species, sequencing of the ITS regions is needed. As an
+alternative to sequencing, a rapid identification method,
+PCR-RFLP of ITS regions, can be applied. Restriction of
+the ITS regions with enzyme MboII separates H. meyeri
+from H. uvarum or H. opuntiae from H. guilliermondii
+and HinfI separates strain CBS 8772 from H. guilliermondii
+(Supplementary Fig. B in IJSEM Online).
+Species descriptions
+Of the five novel species, only four are described below.
+One taxon, represented by a single strain, will not be
+introduced until additional isolates are available. Nevertheless, it is included in the identification key.
+Group I
+Latin diagnosis of Hanseniaspora meyeri
+sp. nov.
+In medio liquido post 48 horas 25 uC cellulae apiculatae,
+ovoideae vel elongatae, 2?5–12?561?5–6?0 mm, singulae vel
+binae; gemmatione bipolari repruducentes. Post unum
+mensem annulus tenuis et sedimentum formantur. In agaro
+farina Zeae maydis confecto pseudomycelium rudimentarium.
+In quoque asco 2–4 ascosporae petasiformes. Glucosum et
+http://ijs.sgmjournals.org
+
+cellobiosum fermentantur. Glucosum, cellobiosum, salicinum,
+arbutinum, glucono-d-lactonum, 2-ketogluconatum, Dglucitolum, ethylaminum, lysinum et cadaverinum assimilantur. Non assimilantur galactosum, L-sorbosum,
+D-glucosaminum, D-ribosum, D-xylosum, L-arabinosum,
+D-arabinosum, L-rhamnosum, sucrosum, maltosum, trehalosum, methyl a-D-glucosidum, melibiosum, lactosum, raffinosum, melezitosum, amylum solubile, glycerolum, erythritolum,
+L-arabinitolum,
+D-glucitolum,
+ribitolum,
+xylitolum,
+D-mannitolum, galactitolum, inositolum, acidum Dglucuronicum, acidum D-galacturonicum, acidum DLlacticum, acidum succinicum, acidum citricum, methanolum
+et ethanolum. Maxima temperatura crescentiae 30 uC.
+Crescit in medio addito 10 % NaCl, 50 % glucoso et
+0?1 % cycloheximido. G+C acidi deoxyribonucleati 36?6–
+37?4 mol%. Typus: CBS 8734T (=NRRL Y-27513T) ex
+pomo Sapindi sp. in Hawaii, isolatus. In collectione zymotica
+Centraalbureau voor Schimmelcultures, Trajectum ad
+Rhenum lyophilus depositus.
+Description of Hanseniaspora meyeri sp. nov.
+Hanseniaspora meyeri (mey9er.i. N.L. gen. n. meyeri
+honouring Piet Meyer, a young, promising South African
+scientist interested in taxonomy, who died too young).
+In YM liquid medium after 48 h at 25 uC, cells are apiculate, ovoid to elongate, 2?5–12?561?5–6?0 mm, single or in
+pairs. Budding is bipolar. A sediment is present. After 1
+month, a very thin ring is formed. After 1 month at 25 uC,
+the streak culture on malt agar is cream-coloured, butyrous,
+smooth, glossy, flat to slightly raised at the centre, with an
+entire to slightly undulate margin. On cornmeal agar, a
+rudimentary pseudomycelium is formed. Asci containing
+two to four hat-shaped ascospores are observed after 2
+weeks on 5 % Difco malt extract agar at 25 uC. Glucose
+and cellobiose are fermented. The following carbon
+compounds are assimilated: glucose, cellobiose, salicin,
+arbutin, glucono-d-lactone, 2-ketogluconate and Dgluconate. The following are not assimilated: galactose,
+L-sorbose, glucosamine, D-ribose, D-xylose, L-arabinose,
+D-arabinose, L-rhamnose, sucrose, maltose, trehalose,
+methyl a-D-glucoside, melibiose, lactose, raffinose, melezitose, starch, glycerol, erythritol, ribitol, xylitol, L-arabinitol,
+D-glucitol, D-mannitol, galactitol, myo-inositol, Dglucuronate, D-galacturonate, DL-lactate, succinate, citrate,
+methanol and ethanol. Assimilation of nitrogen compounds: positive for ethylamine, lysine and cadaverine;
+negative for sodium nitrate and sodium nitrite. Growth at
+30 uC is positive; no growth at 35 uC. Growth on YM agar
+with 10 % NaCl is positive. Growth on 50 % glucose (w/w)/
+yeast extract agar is weak. Growth in the presence of 0?1 %
+cycloheximide is positive. Diazonium blue B reaction is
+negative. G+C content of nDNA (Tm) is 36?6–37?4 mol%.
+The type, CBS 8734T (=NRRL Y-27513T), was isolated
+from fruit of Sapindus sp., Hawaii. It has been deposited
+in the Centraalbureau voor Schimmelcultures, Utrecht,
+The Netherlands.
+1677
+
+N. Cadez and others
+
+Group II
+Latin diagnosis of Hanseniaspora clermontiae
+sp. nov.
+In medio liquido post 48 horas 25 uC cellulae apiculatae,
+ovoideae vel elongatae, 3?5–18?062?5–5?0 mm, singulae
+vel binae; gemmatione bipolari repruducentes. Post unum
+mensem annulus tenuis et sedimentum formantur. In agaro
+farina Zeae maydis confecto pseudomycelium rudimentarium.
+In quoque asco, 2–4 ascosporae petasiformes. Glucosum et
+cellobiosum fermentantur. Glucosum, cellobiosum, salicinum,
+arbutinum, glucono-d-lactonum, 2-ketogluconatum, Dglucitolum, ethylaminum, lysinum et cadaverinum assimilantur. Non assimilantur galactosum, L-sorbosum, Dglucosaminum, D-ribosum, D-xylosum, L-arabinosum,
+D-arabinosum, L-rhamnosum, sucrosum, maltosum, trehalosum, methyl a-D-glucosidum, melibiosum, lactosum, raffinosum, melezitosum, amylum solubile, glycerolum, erythritolum,
+L-arabinitolum,
+D-glucitolum,
+ribitolum,
+xylitolum,
+D-mannitolum, galactitolum, inositolum, acidum Dglucuronicum, acidum D-galacturonicum, acidum DLlacticum, acidum succinicum, acidum citricum, methanolum
+et ethanolum. Maxima temperatura crescentiae 25 uC.
+Crescit in medio addito 10 % NaCl, 50 % glucoso et
+0?1 % cycloheximido. G+C acidi deoxyribonucleati 35?7–
+37?2 mol%. Typus: CBS 8821T (=NRRL Y-27515T) isolatus
+ex infecta Clermontia sp. in Hawaii. In collectione zymotica
+Centraalbureau voor Schimmelcultures, Trajectum ad
+Rhenum lyophilus depositus.
+Description of Hanseniaspora clermontiae
+sp. nov.
+Hanseniaspora clermontiae (cler.mon9ti.ae. N.L. gen. n.
+clermontiae of Clermontia, the genus name of the host
+plant).
+In YM liquid medium after 48 h at 25 uC, cells are apiculate, ovoid to elongate, 3?5–18?062?5–5?0 mm, single or in
+pairs. Budding is bipolar. A sediment is present. After 1
+month, a very thin ring is formed. After 1 month at 25 uC,
+the streak culture on malt agar is cream-coloured, butyrous,
+smooth, glossy, flat to slightly raised at the centre, with
+an entire to slightly undulate margin. On cornmeal agar, a
+rudimentary pseudomycelium is formed. Asci containing
+two to four hat-shaped ascospores are observed after 2
+weeks on 5 % Difco malt extract agar at 25 uC. Glucose
+and cellobiose are fermented. The following carbon
+compounds are assimilated: glucose, cellobiose, salicin,
+arbutin, glucono-d-lactone, 2-ketogluconate and Dgluconate. The following are not assimilated: galactose,
+L-sorbose, glucosamine, D-ribose, D-xylose, L-arabinose,
+D-arabinose, L-rhamnose, sucrose, maltose, trehalose,
+methyl a-D-glucoside, melibiose, lactose, raffinose, melezitose, starch, glycerol, erythritol, ribitol, xylitol, L-arabinitol,
+D-glucitol, D-mannitol, galactitol, myo-inositol, Dglucuronate, D-galacturonate, DL-lactate, succinate, citrate,
+methanol and ethanol. Assimilation of nitrogen compounds:
+1678
+
+positive for ethylamine, lysine and cadaverine; negative
+for sodium nitrate and sodium nitrite. Growth at 25 uC
+is positive; no growth at 30 uC. Growth on YM agar
+with 10 % NaCl is positive. Growth on 50 % glucose
+(w/w)/yeast extract agar is weak. Growth in the presence
+of 0?1 % cycloheximide is positive. Diazonium blue B
+reaction is negative. G+C content of nDNA (Tm) is
+35?7–37?2 mol%.
+The type, CBS 8821T (=NRRL Y-27515T), was isolated
+from Clermontia sp. rot, Hawaii. It has been deposited in
+the Centraalbureau voor Schimmelcultures, Utrecht, The
+Netherlands.
+Group III
+Latin diagnosis of Hanseniaspora lachancei
+sp. nov.
+In medio liquido post 48 horas 25 uC cellulae apiculatae,
+ovoideae vel elongatae, 2?5–18?561?0–5?5 mm, singulae
+vel binae; gemmatione bipolari repruducentes. Post unum
+mensem annulus tenuis et sedimentum formantur. In agaro
+farina Zeae maydis confecto pseudomycelium rudimentarium.
+In quoque asco, 4 ascosporae petasiformes. Glucosum et
+cellobiosum fermentantur. Glucosum, cellobiosum, salicinum,
+arbutinum, glucono-d-lactonum, acidum gluconicum, ethylaminum, lysinum et cadaverinum assimilantur. Non
+assimilantur galactosum, L-sorbosum, D-glucosaminum,
+D-ribosum,
+D-xylosum,
+L-arabinosum,
+D-arabinosum,
+L-rhamnosum, sucrosum, maltosum, trehalosum, methyl
+a-D-glucosidum, melibiosum, lactosum, raffinosum, melezitosum, amylum solubile, glycerolum, erythritolum, ribitolum,
+xylitolum, L-arabinitolum, D-glucitolum, D-mannitolum,
+galactitolum, inositolum, 2-ketogluconatum, acidum
+D-glucuronicum, acidum D-galacturonicum, acidum DLlacticum, acidum succinicum, acidum citricum, methanolum
+et ethanolum. Maxima temperatura crescentiae 37 uC.
+Crescit in medio addito 10 % NaCl, 50 % glucoso et
+0?1 % cycloheximido. G+C acidi deoxyribonucleati 34?8–
+35?6 mol%. Typus: CBS 8818T (=NRRL Y-27514T) isolatus
+e Agaves fermentatum in Mexico. In collectione zymotica
+Centraalbureau voor Schimmelcultures, Trajectum ad
+Rhenum lyophilus depositus.
+Description of Hanseniaspora lachancei
+sp. nov.
+Hanseniaspora lachancei (la.chan9ce.i. N.L. gen. n. lachancei
+honouring M.-A. Lachance, for his enormous contributions to yeast taxonomy and ecology).
+In YM liquid medium after 48 h at 25 uC, cells are apiculate,
+ovoid to elongate, 2?5–18?561?0–5?5 mm, single or in
+pairs. Budding is bipolar. Sediment is present. After 1
+month, a very thin ring and a sediment are formed. After 1
+month at 25 uC, the streak culture on malt agar is creamcoloured, butyrous, smooth, glossy, flat to slightly raised
+at the centre, with an entire to slightly undulate margin. On
+International Journal of Systematic and Evolutionary Microbiology 53
+
+Novel Hanseniaspora species
+
+cornmeal agar, a rudimentary pseudomycelium is formed.
+Asci containing four hat-shaped ascospores are observed
+on 5 % Difco malt extract agar at 25 uC. Glucose and
+cellobiose are fermented. The following carbon compounds
+are assimilated: glucose, cellobiose, salicin, arbutin,
+glucono-d-lactone and D-gluconate. The following are not
+assimilated: galactose, L-sorbose, glucosamine, D-ribose,
+D-xylose, L-arabinose, D-arabinose, L-rhamnose, sucrose,
+maltose, trehalose, methyl a-D-glucoside, melibiose, lactose,
+raffinose, melezitose, starch, glycerol, erythritol, ribitol,
+xylitol, L-arabinitol, D-glucitol, D-mannitol, galactitol, myoinositol, 2-ketogluconate, D-glucuronate, D-galacturonate,
+DL-lactate, succinate, citrate, methanol and ethanol.
+Assimilation of nitrogen compounds: positive for ethylamine, lysine and cadaverine; negative for sodium nitrate
+and sodium nitrite. Growth at 37 uC is positive, growth at
+40 uC is negative. Growth on YM agar with 10 % NaCl is
+positive. Growth on 50 % glucose (w/w)/yeast extract agar
+is weak. Growth in the presence of 0?1 % cycloheximide
+is positive. Diazonium blue B reaction is negative. G+C
+content of nDNA (Tm) is 34?8–35?6 mol%.
+The type, CBS 8818T (=NRRL Y-27514T), was isolated
+from fermenting agave juice, Mexico. It has been deposited
+in the Centraalbureau voor Schimmelcultures, Utrecht,
+The Netherlands.
+
+Group IV
+Latin diagnosis of Hanseniaspora opuntiae
+sp. nov.
+In medio liquido post 48 horas 25 uC cellulae apiculatae,
+ovoideae vel elongatae, 3?0–16?061?5–5?0 mm, singulae
+vel binae; gemmatione bipolari repruducentes. Post unum
+mensem annulus tenuis et sedimentum formantur. In agaro
+farina Zeae maydis confectopseudomycelium rudimentarium.
+In quoque asco, 4 ascosporae petasiformes. Glucosum et
+cellobiosum fermentantur. Glucosum, cellobiosum, salicinum,
+arbutinum, glucono-d-lactonum, 2-ketogluconatum, acidum
+gluconicum, ethylaminum, lysinum et cadaverinum assimilantur. Non assimilantur galactosum, L-sorbosum, Dglucosaminum, D-ribosum, D-xylosum, L-arabinosum,
+D-arabinosum, L-rhamnosum, sucrosum, maltosum, trehalosum, methyl a-D-glucosidum, melibiosum, lactosum, raffinosum, melezitosum, amylum solubile, glycerolum, erythritolum,
+L-arabinitolum,
+D-glucitolum,
+ribitolum,
+xylitolum,
+D-mannitolum, galactitolum, inositolum, acidum Dglucuronicum, acidum D-galacturonicum, acidum DLlacticum, acidum succinicum, acidum citricum, methanolum
+et ethanolum. Maxima temperatura crescentiae 37 uC.
+Crescit in medio addito 10 % NaCl, 50 % glucoso et
+0?1 % cycloheximido. G+C acidi deoxyribonucleati 33?6–
+35?3 mol%. Typus: CBS 8733T (=NRRL Y-27512T) isolatus
+ex Opuntia megacantha in Hawaii. In collectione zymotica
+Centraalbureau voor Schimmelcultures, Trajectum ad
+Rhenum lyophilus depositus.
+http://ijs.sgmjournals.org
+
+Description of Hanseniaspora opuntiae sp. nov.
+Hanseniaspora opuntiae (op.un9ti.ae. N.L. gen. n. opuntiae
+of Opuntia, the genus name of the host plant).
+In YM liquid medium after 48 h at 25 uC, cells are apiculate, ovoid to elongate, 3?0–16?061?5–5?0 mm, single or
+in pairs. Budding is bipolar. Sediment is present. After 1
+month, a very thin ring and a sediment are formed. After 1
+month at 25 uC, the streak culture on malt agar is creamcoloured, butyrous, smooth, glossy, flat to slightly raised
+at the centre, with an entire to slightly undulate margin.
+On cornmeal agar, a rudimentary pseudomycelium is
+formed. Asci containing four hat-shaped ascospores are
+observed on 5 % Difco malt extract agar at 25 uC. Glucose
+and cellobiose are fermented. The following carbon compounds are assimilated: glucose, cellobiose, salicin, arbutin,
+glucono-d-lactone, 2-ketogluconate and D-gluconate. The
+following are not assimilated: galactose, L-sorbose, glucosamine, D-ribose, D-xylose, L-arabinose, D-arabinose,
+L-rhamnose, sucrose, maltose, trehalose, methyl a-Dglucoside, melibiose, lactose, raffinose, melezitose, starch,
+glycerol, erythritol, ribitol, xylitol, L-arabinitol, D-glucitol,
+D-mannitol,
+galactitol, myo-inositol, D-glucuronate,
+D-galacturonate, DL-lactate, succinate, citrate, methanol
+and ethanol. Assimilation of nitrogen compounds: positive
+for ethylamine, lysine and cadaverine; negative for sodium
+nitrate and sodium nitrite. Growth at 37 uC is positive,
+growth at 40 uC is negative. Growth on YM agar with 10 %
+NaCl is positive. Growth on 50 % glucose (w/w)/yeast
+extract agar is weak. Growth in the presence of 0?1 %
+cycloheximide is positive. Diazonium blue B reaction is
+negative. G+C content of nDNA (Tm) is 33?6–35?3 mol%.
+The type, CBS 8733T (=NRRL Y-27512T), was isolated
+from Opuntia megacantha in Hawaii. It has been deposited
+in the Centraalbureau voor Schimmelcultures, Utrecht,
+The Netherlands.
+
+ACKNOWLEDGEMENTS
+We are indebted to Dr Marc-André Lachance (University of Western
+Ontario, Canada) for kindly supplying many isolates and DNA
+sequences and to Dr Dénes Dlauchy and Professor Tibor Deak
+(National Collection of Agricultural and Industrial Micro-organisms,
+Hungary) for providing cultures. Jernej Jakše is gratefully acknowledged for helpful advice pertaining to nucleotide sequencing.
+
+REFERENCES
+Barnett, A. A., Payne, R. W. & Yarrow, D. (2000). Yeasts,
+
+Characteristics and Identification, 3rd edn. Cambridge: Cambridge
+University Press.
+Boekhout, T., Kurtzman, C. P., O’Donnell, K. & Smith, M. T. (1994).
+
+Phylogeny of the yeast genera Hanseniaspora (anamorph Kloeckera),
+Dekkera (anamorph Brettanomyces), and Eeniella as inferred from
+partial 26S ribosomal DNA nucleotide sequences. Int J Syst Bacteriol
+44, 781–786.
+Cadez, N., Raspor, P., De Cock, A. W. A. M., Boekhout, T. & Smith,
+M. Th. (2002). Molecular identification and genetic diversity within
+
+1679
+
+N. Cadez and others
+species of the genera Hanseniaspora and Kloeckera. FEMS Yeast Res 1,
+279–289.
+
+Molnár, O., Messner, R., Prillinger, H., Stahl, U. & Slavikova, E.
+(1995). Genotypic identification of Saccharomyces species using
+
+Esteve-Zarzoso, B., Peris-Torán, M. J., Ramón, D. & Querol, A.
+(2001). Molecular characterisation of Hanseniaspora species. Antonie
+
+random amplified polymorphic DNA analysis. Syst Appl Microbiol
+18, 136–145.
+
+van Leeuwenhoek 80, 85–92.
+
+Oda, Y., Yabuki, M., Tonomura, K. & Fukunaga, M. (1997). A
+
+Felsenstein, J. (1985). Confidence limits on phylogenies: an
+
+approach using the bootstrap. Evolution 39, 783–791.
+
+phylogenetic analysis of Saccharomyces species by the sequence of
+18S-28S rRNA spacer regions. Yeast 13, 1243–1250.
+
+Felsenstein, J. (2000). PHYLIP – phylogenetic inference package,
+
+O’Donnell, K. (1993). Fusarium and its near relatives. In The Fungal
+
+version 3.6 (alpha). University of Washington, Seattle, USA.
+Gardes, M. & Bruns, T. D. (1993). ITS primers with enhanced
+
+specificity for basidiomycetes – application to the identification of
+mycorrhizae and rusts. Mol Ecol 2, 113–118.
+Golubev, W. I., Smith, M. T., Poot, G. A. & Kock, J. L. F. (1989).
+
+Species delineation in the genus Nadsonia Sydow. Antonie van
+Leeuwenhoek 55, 369–382.
+James, S. A., Collins, M. D. & Roberts, I. N. (1996). Use of an rRNA
+
+internal transcribed spacer region to distinguish phylogenetically
+closely related species of the genera Zygosaccharomyces and
+Torulaspora. Int J Syst Bacteriol 46, 189–194.
+Jin, L. & Nei, M. (1990). Limitations of the evolutionary parsimony
+
+method of phylogenetic analysis. Mol Biol Evol 7, 82–102.
+Kurtzman, C. P. & Robnett, C. J. (1998). Identification and
+
+phylogeny of ascomycetous yeasts from analysis of nuclear large
+subunit (26S) ribosomal DNA partial sequences. Antonie van
+Leeuwenhoek 73, 331–371.
+Lachance, M. A. (1995). Yeast communities in natural tequila
+
+Holomorph: Mitotic, Meiotic and Pleomorphic Speciation in Fungal
+Systematics, pp. 225–233. Edited by D. R. Reynolds & J. W. Taylor.
+Wallingford, UK: CAB International.
+Saitou, N. & Nei, M. (1987). The neighbor-joining method: a
+
+new method for reconstructing phylogenetic trees. Mol Biol Evol 4,
+406–425.
+Seifert, K. A., Wingfield, B. D. & Wingfield, M. J. (1995). A critique of
+
+DNA sequence analysis in the taxonomy of filamentous ascomycetes
+and ascomycetous anamorphs. Can J Bot 73, 760–767.
+Smith, M. Th. (1998a). Hanseniaspora Zikes. In The Yeasts, a
+
+Taxonomic Study, 4th edn, pp. 214–220. Edited by C. P. Kurtzman &
+J. W. Fell. Amsterdam: Elsevier.
+Smith, M. Th. (1998b). Kloeckera Janke. In The Yeasts, a Taxonomic
+Study, 4th edn, pp. 580–581. Edited by C. P. Kurtzman & J. W. Fell.
+Amsterdam: Elsevier.
+Smith, M. T. & Poot, G. A. (1985). Conspecificity of Hanseniaspora
+
+nodinigri and Hanseniaspora vineae: comparison by DNA reassociation. Antonie van Leeuwenhoek 51, 151–153.
+
+fermentation. Antonie van Leeuwenhoek 68, 151–160.
+
+Thompson, J. D., Gibson, T. J., Plewniak, F., Jeanmougin, F. &
+Higgins, D. G. (1997). The CLUSTAL_X windows interface: flexible
+
+Messner, R., Prillinger, H., Altmann, F., Lopandic, K., Wimmer, K.,
+Molnár, O. & Weigang, F. (1994). Molecular characterization and
+
+strategies for multiple sequence alignment aided by quality analysis
+tools. Nucleic Acids Res 25, 4876–4882.
+
+application of random amplified polymorphic DNA analysis of
+Mrakia and Sterigmatomyces species. Int J Syst Bacteriol 44, 694–703.
+
+White, T. J., Bruns, T., Lee, S. & Taylor, J. (1990). Amplification and
+
+Hanseniaspora Zikes and Kloeckera Janke. Antonie van Leeuwenhoek
+44, 79–96.
+
+direct sequencing of fungal ribosomal RNA genes for phylogenetics.
+In PCR Protocols: a Guide to Methods and Applications, pp. 315–322.
+Edited by N. Innis, D. Gelfand, J. Sninsky & T. White. London:
+Academic Press.
+
+Möller, E. M., Bahnweg, G., Sandermann, H. & Geiger, H. H. (1992).
+
+Yarrow, D. (1998). Methods for the isolation, maintenance and
+
+A simple and efficient protocol for isolation of high molecular
+weight DNA from filamentous fungi, fruit bodies, and infected plant
+tissues. Nucleic Acids Res 20, 6115–6116.
+
+identification of yeasts. In The Yeasts, a Taxonomic Study, 4th edn,
+pp. 77–100. Edited by C. P. Kurtzman & J. W. Fell. Amsterdam:
+Elsevier.
+
+Meyer, S. A., Smith, M. Th. & Simione, F. P., Jr (1978). Systematics of
+
+1680
+
+International Journal of Systematic and Evolutionary Microbiology 53
+
+

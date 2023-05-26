@@ -1,0 +1,757 @@
+Postharvest Biology and Technology 100 (2015) 52–58
+
+Contents lists available at ScienceDirect
+
+Postharvest Biology and Technology
+journal homepage: www.elsevier.com/locate/postharvbio
+
+Effect of preharvest application of Hanseniaspora uvarum on
+postharvest diseases in strawberries
+Zikang Cai, Rong Yang, Hongmei Xiao ∗ , Xiaojie Qin, Linyuan Si
+Key Laboratory of Agricultural and Animal Products Processing and Quality Control, Ministry of Agriculture/College of Food Science and Technology,
+Nanjing Agricultural University, Nanjing 210095, PR China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 8 August 2014
+Received in revised form
+24 September 2014
+Accepted 27 September 2014
+Keywords:
+Hanseniaspora uvarum
+Strawberry
+Defense-related enzymes
+
+a b s t r a c t
+This study was conducted to evaluate the efﬁcacy of preharvest applications of Hanseniaspora uvarum
+against postharvest mold decay of strawberry (Fragaria ananassa) fruit and quality maintenance during
+storage at 2 ± 1 ◦ C and 90–95% RH. Results showed that the treatment signiﬁcantly reduced postharvest
+mold decay (P < 0.05), maintained fruit ﬁrmness and total soluble solids content, and did not impair pH and
+surface color during postharvest storage. Morever, it was found that the activities of some defense-related
+enzymes, peroxidase, superoxide dismutase, catalase, polyphenoloxidase, phenylalanine ammonia-lyase,
+␤-1,3-glucanase and ascorbate peroxidase, increased and malondialdehyde content, a decomposition
+product of polyunsaturated fatty acid hydroperoxides, was reduced, in response to preharvest application
+of H. uvarum. Overall, preharvest application of H. uvarum has potential for controlling postharvest decay
+of strawberry.
+© 2014 Published by Elsevier B.V.
+
+1. Introduction
+In recent years, the use of biocontrol agents has become a new
+way for controlling postharvest diseases of fruit and vegetables.
+Among them, antagonistic yeasts are attracting research focus, with
+their wide antimicrobial spectrum, good antagonitic effects, genetic
+stability, low nutrition requirements and high security (Fan et al.,
+2009a; Zong et al., 2010; Mekbib et al., 2011; Yu et al., 2012). Yeasts
+that are naturally present on. fruit surfaces represent the major
+group and they have also been isolated from other sources, such
+as the phyllosphere, roots, soil, and sea water (Liu et al., 2013).
+The mechanisms of action of most biocontrol agents of postharvest diseases are poorly understood and it is generally assumed
+that they involve a complex interaction between host, pathogen,
+antagonists and environment (Nunes, 2012). The basic mechanism
+of action for most of antagonistic yeasts is competition for available nutrients and space (Liu et al., 2013), which often occurs in
+the ﬁrst 24 h after the yeast cells come into contact with fruit surface. Other modes of action of yeast antagonists against speciﬁc
+fungal pathogens are: induction of host defense (Zheng and Chen,
+2009; Xu et al., 2013), attachment and lytic enzyme secretion (Chan
+and Tian, 2005), adjustment of population density (McGuire, 2000;
+Fiori et al., 2012), morphology change (Fiori et al., 2012), reactive
+
+∗ Corresponding author. Tel.: +86 13921431029.
+E-mail addresses: xhm@njau.edu.cn, 2013108039@njau.edu.cn (H. Xiao).
+http://dx.doi.org/10.1016/j.postharvbio.2014.09.004
+0925-5214/© 2014 Published by Elsevier B.V.
+
+oxygen species (ROS) tolerance (Liu et al., 2011a), iron depletion
+(Saravanakumar et al., 2008), alleviation of oxidative damage of
+the fruit host (Xu et al., 2008), and induction of ROS production in
+the host (Macarisin et al., 2010).
+Strawberry (Fragaria × ananassa Duch.) is a non-climacteric fruit
+with a very short postharvest life. Loss of quality in this fruit is
+mostly due to its relatively high metabolic activity and sensitivity to
+fungal decay, and the decay is mainly caused by gray mold (Botrytis
+cinerea Pers.) and rhizopus rot (Rhizopus stolonifer (Ehrenb.) Vuill.)
+(Romanazzi et al., 2001). Strawberry is also susceptible to water
+loss, bruising and mechanical injuries due to their soft texture
+and lack of a protective rind (Hernández-Muñoz et al., 2006). Several antagonistic yeasts against fruit rot in strawberry have been
+studied. El-Neshawy and Shetaia (2003) found the yeast Candida
+oleophila followed by Candida fructus provided signiﬁcant decay
+control, with the greatest effect from C. fructus in restricting visual
+rating of mold development on strawberry and maintaining quality
+parameters, including ﬁrmness, soluble solid content, anthocyanin
+content, titratable acidity (TA), pH and surface color. Fan et al.
+(2009b) found a novel edible bio-ﬁlm containing Cryptococcus laurentii signiﬁcantly reduced microbial decay, decreased weight loss
+and maintained the ﬁrmness of strawberries. Karabulut et al. (2004)
+tested the yeast Metschnikowia fructicola for control of preharvest
+and postharvest rots of strawberry fruit and found it reduced the
+incidence of fruit rot signiﬁcantly. Long and Yuan (2009) found preharvest treatment with the yeast Kloeckera apiculata strain (34-9)
+was the most effective to control B. cinerea on strawberry, while
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+postharvest and sumilex treatment equally reduced the incidence
+of decay. Zhang et al. (2007a) sprayed strawberry fruit with the
+antagonist Rhodotorula glutinis and found the higher the concentration of the antagonist, the lower the disease incidence. Zhang
+et al. (2007b) also found that the yeast C. laurentii was effective in
+controlling Rhizopus rot of strawberries and if combined with short
+hot water dips, the effect would be greater.
+Although most postharvest diseases appear in the packinghouse, infections often begin in the ﬁeld (Palou et al., 2002).
+Preharvest application can enhance the biocontrol system, because
+it will allow the antagonist to have longer interaction with the
+pathogen and to colonize tissues before the arrival of the pathogen,
+such as happens in latent and incipient infections occurring through
+wounds resulting from the harvesting period (Nunes, 2012). Therefore, spraying antagonistic yeasts before harvest to suppress fruit
+and vegetables postharvest storage diseases will be one of the
+important areas of the application of antagonistic microorganisms.
+Hanseniaspora uvarum was an effective antagonist against gray
+mold of grape and had inhibitory effect on spore germination and
+lesion growth of B. cinerea and reduced the natural decay development of grape berries, and did not impair quality parameters
+(Liu et al., 2010b). The objective of the present work was to assess
+the efﬁcacy of preharvest application of the antagonistic yeast H.
+uvarum in inducing resistance against postharvest diseases and its
+effects on quality parameters of strawberries during storage.
+2. Materials and methods
+2.1. Preparation of suspensions of antagonist
+H. uvarum (CGMCC 2.3970), isolated from strawberry
+fruit and identiﬁed based on a similarity analysis of its
+physiological–biochemical characteristics and 26S rDNA D1/D2
+domain sequence, was cultured in 250 mL Erlenmeyer ﬂasks with
+100 mL of PDB (1 L distilled water containing potato 200 g and
+glucose 20 g) on a gyratory shaker at 180 rpm for 24 h at 28 ◦ C.
+The cells were harvested by centrifuging at 10,000 rpm for 15 min
+at 4 ◦ C, then washed with sterile-distilled water two times and
+resuspended in sterile distilled water. Cells concentration was
+counted with a haemocytometer and diluted to 1 × 108 CFU mL−1
+with sterile-distilled water containing 0.05% Tween-20 as required.
+2.2. Preharvest treatment of strawberry
+Strawberries, cv. HongYan, were grown in a greenhouse located
+in Yuhua district, Nanjing city, Jiangsu province, China. Diurnal
+temperature in the greenhouses ranges from 8 ◦ C to 25 ◦ C. At 3
+days before harvest in December, the fruit were sprayed with
+distilled water (as the control) and the yeast cell suspensions
+(1 × 108 CFU mL−1 ) using a 500 mL watering can, until all fruit
+were wet to run-off. The watering can was soaked with 75% alcohol for 10 min and dried out an a clean bench before using. To
+ensure sufﬁcient number of fruit for each treatment, no less than
+400 were given different treatments and were separated by nontreated fruit. Commercially mature fruit were harvested after three
+days. Fruit free of wounds and homogeneous in maturity and size
+were selected, and then placed in polyethylene-lined plastic boxes
+and transported to storage room at 2 ± 1 ◦ C and 90–95% RH. Each
+treatment contained three replications with 90 single berries per
+replication.
+2.3. Effect of antagonist H. uvarum on decay index of strawberries
+Fruit decay was determined on 40 fruit per sample according to
+a ﬁve-point scale, where 0 = no decay, 1 = very slight decay, covering
+<10% of the fruit surface, 2 = slight decay, covering >10% but <25% of
+
+53
+
+the fruit surface, 3 = moderate decay, covering >25% but <40% of the
+fruit surface, and 4 = severe decay, covering >40% of the fruit surface.
+The decay index was calculated using the following formula:
+Decay index =
+
+(1 × N1 + 2 × N2 + 3 × N3 + 4 × N4 )
+4×N
+
+where N was the total number of fruit measured and N1 , N2 , N3
+and N4 were the numbers of fruit showing the different severities
+of decay.
+2.4. Effect of antagonist H. uvarum on fruit quality
+Quality parameters were measured after storage on three replicates of ten fruit each. The testing methods are described below:
+Fruit ﬁrmness was measured at two points on the equatorial
+region by using a TA-XT2i texture analyzer (Stable Micro Systems
+Ltd., UK) with a P50 cylinder plunger probe and the maximum
+force was recorded as fruit ﬁrmness (N). Test conditions used for
+measurements were: pre-test speed of 5.0 mm s−1 , test speed of
+1.0 mm s−1 , and post-test speed of 5.0 mm s−1 , penetration distance
+of 4 mm.
+Total soluble solids (TSS) were determined by measuring the
+refractive index of the strawberry fruit juice with a hand-held
+refractometer (WYT-4, Top instrument Co., Ltd., China) and the
+results expressed as percentages (g per 100 g fruit weight).
+Surface color was measured at two points around the equatorial
+zone of the fruit by a Minolta CR-400 Chronometer (Konica Minolta
+Sensing, Osaka, Japan), using the CIE (Commission International de
+I’Eclairage) color space L*, a* and b* values. Values of lightness L*
+(ranging from 0, black to 100 white) and a* (positives values for
+red, negative values for green) were measured.
+pH was measured by using a pH meter (DELTA 320, Top instrument Co., Ltd., China) and strawberry juice ﬁltered through one
+layer of cheesecloth was prepared for the measurement.
+2.5. Effect of antagonist H. uvarum on MDA and defense-related
+enzyme activities of strawberry
+At various time intervals (0, 3, 6, 9,12 and 15 days) after harvest, fruit peels were removed from ﬁve fruit in each treatment
+using a sterile scalpel to cut off peel of about 2 mm thickness, the
+achenes were discarded, and the skinless pulp tissues were frozen
+until assayed.
+2.5.1. MDA content
+Lipid peroxidation was determined in terms of malondialdehyde (MDA) content by the TBA reaction as described by Du and
+Bramlage (1992). Tissues (1 g) prepared were ground with 7 mL
+(V1 ) 5% (w/v) cold trichloroacetic acid (TCA). The homogenate was
+centrifuged at 10,000 rpm for 15 min at 4 ◦ C. The solution contained 2 mL (V2 ) of the resulting supernatant and 2 mL 0.67% (w/v)
+TBA was heated at 100 ◦ C for 5 min, and quickly cooled in an icebath. The absorbance of the supernatants was recorded at A532
+and A600 . MDA content was calculated according to the following
+formula: CMDA (nmol g−1 ) = (A532 –A600 ) × V1 /1.55 × 10−1 × V2 × m,
+where 1.55 × 10−1 was the molar extinction coefﬁcient of MDA and
+m (g) was the weight of tissues prepared for measured.
+2.5.2. SOD, POD and APX activity
+For the determination of peroxidase (POD), superoxide dismutase (SOD) activity and ascorbate peroxidase (APX), skinless
+pulp tissues (2 g) prepared were ground with in 8 mL cold
+50 mmol L−1 phosphate buffered saline solution (pH 7.8) containing 1% (w/v) polyvinyl–polypyrrolidone (PVPP). The homogenate
+was centrifuged at 10,000 rpm for 15 min at 4 ◦ C, and 1 mL resulting supernatants were used as crude enzyme extracts for assaying
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+the enzyme activities. 1 mL guaiacol and 1 mL H2 O2 were used
+as the substrates for POD activity determination (Kochba et al.,
+1977). Enzyme activity was deﬁned as the increase in absorbance at
+460 nm at 25 ◦ C within 2 min. SOD activity was evaluated following the method of Luna (Luna et al., 1994). The reaction mixture
+was illuminated with a ﬂuorescent lamp at 400 Lux for 10 min and
+the absorbance was measured at 560 nm. The same solutions held
+in the dark were used as the blank. One unit of SOD activity was
+deﬁned as the amount of enzyme that caused a 50% decrease of the
+SOD-inhibitable NBT reduction. APX activity was evaluated according to the method described by Nakano and Asada (1981). One unit
+was deﬁned as the change in 0.001 absorbance units per minute
+at 290 nm. The speciﬁc activity was expressed as units per gram of
+fresh weight.
+2.5.3. CAT activity
+For the determination of catalase (CAT) activity, skinless
+pulp tissues (2 g) prepared were mixed with 8 mL of ice-cold
+100 mmol L−1 sodium phosphate buffer (pH 7.0) containing 1%
+(w/v) polyvinyl–polypyrrolidone (PVPP) and ground thoroughly.
+The homogenate was centrifuged at 10,000 rpm for 15 min at 4 ◦ C.
+CAT activity determination was performed following the method
+of Wang et al. (2004). The reaction mixture contained 2 mL of
+sodium phosphate buffer, 0.4 mL of H2 O2 and 1 mL of crude extract.
+The decomposition of H2 O2 was measured at 240 nm with a spectrophotometer. One unit was deﬁned as the change in 0.001
+absorbance units per minute and the speciﬁc activity was expressed
+as units per gram of fresh weight.
+2.5.4. PAL activity
+For the determination of PAL activity, skinless pulp tissues (2 g)
+prepared were mixed with 8 mL of ice-cold 100 mmol L−1 boracic
+acid buffer (pH 8.7) containing 1% (w/v) polyvinyl–polypyrrolidone
+(PVPP), ground thoroughly and centrifuged at 10,000 rpm for
+15 min at 4 ◦ C. PAL activity was analyzed using the method of
+Assis et al. (2001). One unit was deﬁned as the change in 0.001
+absorbance units per minute at 290 nm. The speciﬁc activity was
+expressed as units per gram of fresh weight.
+2.5.5. PPO activity
+For the determination of PPO activity, skinless pulp tissues (2 g) prepared were homogenized with 8 mL of ice-cold
+200 mmol L−1 citric acid buffer (pH 6.8) containing 1% (w/v)
+polyvinyl–polypyrrolidone (PVPP) and centrifuged at 10,000 rpm
+for 15 min at 4 ◦ C. PPO activity was evaluated according to the
+method described by Tian et al. (2002). The assay was performed
+by using 2 mL of citric acid buffer (pH 6.8), 1 mL of 100 mmol L−1
+4-methylcatechol and 2 mL of the supernatant. The increase in
+absorbance at 398 nm at 25 ◦ C within 2 min was recorded. The speciﬁc activity was expressed as units per gram of fresh weight.
+2.5.6. ˇ-1,3-Glucanase activity
+␤-1,3-Glucanase was assayed by measuring the amount of
+reducing sugar released from the substrate by the method reported
+by Abeles et al. (1971). For the determination, skinless pulp tissues (2 g) prepared were homogenized with 8 mL of ice-cold
+50 mmol L−1 citric acid/disodium hydrogen phosphate buffer (pH
+4.8) containing 1% (w/v) polyvinyl–polypyrrolidone (PVPP) and
+centrifuged at 10,000 rpm for 15 min at 4 ◦ C. The assay was assayed
+by incubating 1 mL of the enzyme supernatant citric acid/disodium
+hydrogen phosphate buffer (pH 4.8), 1 mL of 0.4% laminarin (w/v)
+and 1 mL of citric acid/disodium hydrogen phosphate buffer (pH
+4.8) for 60 min at 37 ◦ C and 1.5 mL 3,5-dinitrosalicylic acid (DNS)
+was added, then put in boiling water for 5 min. One unit was deﬁned
+
+1.0
+Decay index
+
+.8
+
+Decay index
+
+54
+
+a
+
+.6
+b
+
+.4
+
+.2
+
+0.0
+
+CK
+
+H.uvarum
+
+Treatment
+Fig. 1. The effect of pre-harvest application of antagonist yeast on the decay index of
+strawberries during storage at 2 ◦ C and 95% RH for 15 days. Vertical bars represent
+standard errors of the means of three replications. The different letters (a and b)
+above the bars indicate signiﬁcantly different scores, according to Duncan’s multiple
+range tests at P < 0.05 level.
+
+as the change in 0.001 absorbance units per minute at 530 nm. The
+speciﬁc activity was expressed as units per gram of fresh weight.
+2.6. Analysis of data
+All statistical analyses were performed in the SAS Software (Version 8.2; SAS Institute, Cary, NC, USA). The data were analyzed by
+one-way analysis of variance (ANOVA). Comparison of means was
+performed by Duncan’s multiple range tests. A value of P < 0.05 was
+considered statistically signiﬁcant.
+3. Results
+3.1. Efﬁcacy of H. uvarum on decay index of strawberries
+Treatment with preharvest application of H. uvarum at
+1 × 108 CFU mL−1 could signiﬁcantly reduce the incidence of mold
+decay in strawberries, compared with the control after storage at
+2 ± 1 ◦ C and 90–95% RH for 15 days (Fig. 1). The decay index showed
+a 2-fold reduction over the water control.
+
+Fig. 2. The effect of pre-harvest application of antagonist yeast on the MDA content
+of strawberries during storage at 2 ◦ C and 95% RH for 15 days. Vertical bars represent
+standard errors of the means of three replications. The “*” above the bars indicate
+signiﬁcantly different scores, according to Duncan’s multiple range tests at P < 0.05
+level.
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+55
+
+Table 1
+The effect of pre-harvest application of antagonist yeast on the ﬁrmness, TSS and PH of strawberries during storage at 2 ◦ C and 95% RH for 15 days.
+Storage time (days)
+
+F (N)
+
+TSS (%)
+
+Control
+0
+3
+6
+9
+12
+15
+
+3.61
+3.35
+3.00
+2.75
+1.96
+1.57
+
+±
+±
+±
+±
+±
+±
+
+H. uvarum
+0.01a
+0.04a
+0.04a
+0.03a
+0.04a
+0.05a
+
+3.81
+3.49
+3.22
+2.84
+2.51
+1.82
+
+±
+±
+±
+±
+±
+±
+
+0.03b
+0.06a
+0.02ab
+0.03b
+0.01ab
+0.02b
+
+pH
+
+Control
+6.72
+7.51
+11.44
+10.75
+6.10
+5.10
+
+H. uvarum
+
+±
+±
+±
+±
+±
+±
+
+1.75a
+0.76a
+1.12a
+0.91a
+0.73a
+0.73a
+
+7.40
+9.67
+11.08
+11.70
+6.90
+5.90
+
+±
+±
+±
+±
+±
+±
+
+1.07b
+0.70b
+1.22a
+1.08b
+0.88b
+0.88b
+
+Control
+3.86
+3.65
+3.96
+4.64
+4.76
+4.94
+
+±
+±
+±
+±
+±
+±
+
+H. uvarum
+0.06a
+0.06a
+0.06ab
+0.00a
+0.02a
+0.03a
+
+3.87
+3.66
+3.89
+4.50
+4.91
+4.99
+
+±
+±
+±
+±
+±
+±
+
+0.02a
+0.04a
+0.06b
+0.17a
+0.00a
+0.13a
+
+All the results were expressed as means ± standard deviation of three replications. Values in a column followed by different letters are signiﬁcantly different scores, according
+to Duncan’s multiple range test at P < 0.05 level.
+
+3.2. Efﬁcacy of H. uvarum on strawberry quality
+
+3.3. Efﬁcacy of H. uvarum on MDA content
+
+The effect of preharvest spray treatment of H. uvarum on strawberry fruit ﬁrmness, TSS, and pH is shown in Table 1. During the
+15 days of storage at 2 ± 1 ◦ C and 90–95% RH, the fruit ﬁrmness
+was reduced and the total soluble solute content was increased in
+the ﬁrst days and then reduced. However, the ﬁrmness of strawberries treated by H. uvarum decreased more slowly than that of
+the control, the total soluble solute content peak came on the
+9th day, which was late and signiﬁcantly higher than for the
+control, and there was no signiﬁcant difference in pH and surface color (L* values and a* values); L* values decreased from
+42.35 ± 1.30 to 30.14 ± 1.90 and a* values from 41.21 ± 1.14 to
+29.18 ± 1.91.
+
+The MDA content gradually increased in the ﬁrst 6 days during storage (Fig. 2), and then began to decrease. The MDA content
+of strawberries treated with H. uvarum was lower than that of the
+control at all the storage periods. Especially at the 3rd day of storage, the MDA content of strawberries treated with H. uvarum was
+reduced 19.3% of that in the control, but no signiﬁcant difference
+was found at the 9th day.
+3.4. Efﬁcacy of H. uvarum on defense-related enzyme activities
+The changes in SOD, POD, CAT and APX activities in response to
+H. uvarum are shown in Fig. 3 and the changes in PAL, PPO and
+
+Fig. 3. The effect of pre-harvest application of antagonist yeast on the SOD, POD, CAT and APX activities of strawberries during storage at 2 ◦ C and 95% RH for 15 days. Vertical
+bars represent standard errors of the means of three replications. The “*” above the bars indicate signiﬁcantly different scores, according to Duncan’s multiple range tests at
+P < 0.05 level.
+
+56
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+Fig. 4. The effect of pre-harvest application of antagonist yeast on the PAL, PPO and ␤-1,3-glucanase activities of strawberries during storage at 2 ◦ C and 95% RH for 15 days.
+Vertical bars represent standard errors of the means of three replications. The “*” above the bars indicate signiﬁcantly different scores, according to Duncan’s multiple range
+tests at P < 0.05 level.
+
+␤-1,3-glucanase activities in Fig. 4. The SOD activities (Fig. 3A)
+under treatment with H. uvarum showed 1.6- and 1.2-fold increases
+over those in the water control at 0 and 3 days, respectively.
+Although SOD activity in yeast-treated tissues decreased to a low
+level at 9 days and was a little bit lower than that in the control,
+a signiﬁcant increase in activity was observed at 12 days and 1.2fold increase occurred at day 15 (P < 0.05). During the whole storage
+period, POD activity (Fig. 3B) under treatment with H. uvarum
+remained a stable higher level than the water control, especially on
+the 6th and 9th days, approximately 1.9- and 1.6-fold that of the
+water, respectively. In comparison to the control, the CAT (Fig. 3C)
+activity in the yeast-pretreated fruit was signiﬁcantly higher at days
+6 and 9 (P < 0.05), which was approximately 1.3- and 1.2-fold that of
+the water control, respectively. The APX (Fig. 3D) activity increased
+in strawberry fruit in the ﬁrst 12 days of storage and was slightly
+reduced at the end of storage, and the yeast-treated tissues had
+more enzyme activity, about 1.4-fold of that of the control on the
+3rd day.
+In comparison to the control, the PAL activity (Fig. 4A) in the
+yeast-pretreated fruit was only higher at days 0 and 9, approximately 1.3- and 1.2-fold that of the water control, and there was
+no signiﬁcant difference between the treatment and the control.
+On the day of harvest, the PPO (Fig. 4B) activities of treatmed fruit
+were signiﬁcantly higher and almost 1.6-fold that of the water control (P < 0.05). During storage, the PPO activities were increasing
+over the ﬁrst nine days, then lower, and the activities in treated
+fruit were basically 1.2-fold those of the water control. The trend of
+
+␤-1,3-glucanase activities (Fig. 4C) was similar to that of PPO activities, only the peak was at the 6th day and the biggest difference
+betweeen the treatment and the control was found on the 3rd day,
+which was approximately 1.4-fold.
+
+4. Discussion
+Research on the effect of H. uvarum in controlling postharvest decay and its effect on quality parameters of fruit is scarce.
+Liu et al. (2010c) found that the antagonist H. uvarum used alone
+signiﬁcantly inhibited spore germination and lesion diameters of
+B. cinerea in vitro, reduced natural decay development of grape
+berries, and did not impair quality parameters. In addition, NH4 Mo (Liu et al., 2010d) and tea polyphenol (Liu et al., 2010b)
+could improve the efﬁcacy of H. uvarum. However, this is the ﬁrst
+time that preharvest application of H. uvarum has been used on
+strawberries and the results indicate that H. uvarum appears to signiﬁcantly reduce fruit decay and induce disease resistance, which
+might be associated with the increased activities of SOD, CAT, POD,
+PPO, PAL, APX and ␤-1,3-glucanase in the fruit.
+Plants under stress will induce accumulation of reactive oxygen species (ROS) and stimulate disease resistance reaction (Thoma
+et al., 2003). The accumulation of ROS has the potential to serve as
+resistance against invading pathogens and as signals for activating
+further plant defense reactions (Lamb and Dixon, 1997), although
+ROS overproduction can lead to lipid peroxidation and cause
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+oxidative damage (Thoma et al., 2003). It is well known that plants
+can induce effective antioxidant systems to protect themselves
+against oxidation damage. SOD, CAT, POD and APX are associated
+with ROS metabolism (Zhao et al., 2008; Liu et al., 2010a; Maya and
+Matsubara, 2013) and MDA is the end product of lipid peroxidation
+(Ge et al., 2010). A higher level of SOD, CAT, POD and APX activities and a lower level of MDA content are equal to a more effective
+antioxidant defense system and closely associated with delayed
+senescence in harvested fruit. Our results showed that SOD, CAT,
+POD and APX activities of strawberries treated with H. uvarum were
+higher than those of the control, and MDA content of treated strawberries was lower than that of the control at most storage periods.
+Especially on the 6th day during storage, the CAT and POD activity in the yeast-pretreated fruit were 1.3- fold and 1.9-fold that
+of the water control, respectively. This indicates that preharvest
+application of H. uvarum had a signiﬁcant effect on increasing the
+antioxidative activity of the fruit.
+The metabolism of the phenylpropanoid pathway is known to
+be inﬂuenced signiﬁcantly by biocontrol agents and postharvest
+pathogens (Ballester et al., 2012, 2011; Hershkovitz et al., 2012).
+The key enzyme PAL in this pathway catalyzes the conversion of
+phenylalanine to trans-cinnamic acid, a key intermediate in the
+synthesis of salicylic acid. Moreover, PAL plays important roles in
+biosynthesis of phenolics, phytoalexins and lignin, the key factors
+responsible for disease resistance (Joe et al., 2012). PPO is a copper containing enzyme, which oxidizes phenolics to highly toxic
+quinines and is involved in the terminal oxidation of diseased plant
+tissue, and which is attributed for its role in disease resistance.
+In this experiment, antagonistic yeast treatment could enhance
+PPO and PAL activities during storage. Consequently, we suggest
+that preharvest application of H. uvarum could be associated with
+promoting high values of lignin contents, which increases the resistance of plant cell walls against pathogens, and on the other hand,
+limits pathogenic bacteria access to water and nutrients from the
+host.
+The synthesis of pathogenesis-related proteins is thought to be
+another important mechanism of resistance to various diseases.
+␤-1,3-glucanase is the most fully characterized PR protein, which
+acts directly by degrading the cell walls of the pathogen or indirectly by releasing oligosaccharides, elicitors of defense reactions,
+both of which are potential defense mechanisms against fungal
+infection (Liu et al., 2010a). Our results showed that the activity
+of ␤-1,3-glucanase was signiﬁcantly stimulated by the treatment,
+which mean pre-harvest spraying the yeast could enable strawberries to accumulate sufﬁcient ␤-1,3-glucanase to help stimulate the
+defense system in senescing fruit.
+In addition to disease control, the main quality parameters
+including ﬁrmness, TSS, pH and surface color of strawberry fruit
+were also assayed. It was found that preharvest H. uvarum treatments maintained fruit ﬁrmness, ascorbic acid and TSS, and did
+not impair pH and surface color during postharvest storage. These
+results indicated that H. uvarum might have potential for control of
+major postharvest decay and prolong the shelf-life of strawberries,
+although more experiments need to be carried out. Further research
+should focus on studying the detailed mechanisms of action of H.
+uvarum using DNA microarrays and high-throughput sequencing
+technologies and identifying approaches to enhance efﬁcacy.
+
+5. Conclusions
+Results from the present study showed that the preharvest
+spraying of the antagonist H. uvarum did not signiﬁcantly induce
+effects on surface color parameters and pH of strawberries, but
+signiﬁcantly reduced microbiological decay incidence, maintained
+the ﬁrmness and TSS of strawberries, and improved the quality
+
+57
+
+and storage properties of the fruit throughout storage. The mechanism by which this antagonist inhibited postharvest decay might
+be closely related to its ability to increase the activities of defenserelated enzymes. However, the detailed modes of its mechanisms
+need to be elucidated further. In addition, with regard to application
+in practice, the biocontrol efﬁcacy of the preharvest application of
+H. uvarum requires to be further enhanced.
+Acknowledgments
+This study was supported by Science and Technology Department of Jiangsu Province (No BE2010385) and A Project Funded
+by the Priority Academic Program Development of Jiangsu Higher
+Education Institutions and National College Students’ innovation
+and entrepreneurship (No. 201310307046).
+References
+Abeles, F., Bosshart, R., Forrence, L., Habig, W., 1971. Preparation and puriﬁcation of
+glucanase and chitinase from bean leaves. Plant Physiol. 47, 129–134.
+Assis, J.S., Maldonado, R., Muñoz, T., Escribano, M., Merodio, A.I.C., 2001. Effect of high
+carbon dioxide concentration on PAL activity and phenolic contents in ripening
+cherimoya fruit. Postharvest Biol. Technol. 23, 33–39.
+Ballester, A.R., Lafuente, T.M., de Vos, R.C., Bovy, A.G., González-Candelas, L., 2012.
+Citrus phenylpropanoids and defense against pathogens. Part I: Metabolic proﬁling in elicited fruits. Food Chem. 136, 178–185.
+Ballester, A.R., Lafuente, M.T., Forment, J., Gadea, J., De Vos, R.C., Bovy, A.G., GonzálezCandelas, L., 2011. Transcriptomic proﬁling of citrus fruit peel tissues reveals
+fundamental effects of phenylpropanoids and ethylene on induced resistance.
+Mol. Plant Pathol. 12, 879–897.
+Chan, Z., Tian, S., 2005. Interaction of antagonistic yeasts against postharvest
+pathogens of apple fruit and possible mode of action. Postharvest Biol. Technol.
+36, 215–223.
+Du, Z., Bramlage, W.J., 1992. Modiﬁed thiobarbituric acid assay for measuring lipid
+oxidation in sugar-rich plant tissue extracts. J. Agric. Food Chem. 40, 1566–1570.
+El-Neshawy, S.M., Shetaia, Y.M.H., 2003. Biocontrol capability of Candida spp. against
+Botrytis rot of strawberries with respect to fruit quality. In: Tijskens, L.M.M.,
+Vollebregt, H.M. (Eds.), Proceedings of the International Conference on Quality
+in Chains. Vols. 1 and 2: An Integrated View on Fruit and Vegetable Quality. , pp.
+727–733.
+Fan, Y., Xu, Y., Wang, D., Zhang, L., Sun, J., Sun, L., Zhang, B., 2009a. Effect of alginate
+coating combined with yeast antagonist on strawberry (Fragaria × ananassa)
+preservation quality. Postharvest Biol. Technol. 53, 84–90.
+Fan, Y., Xu, Y., Wang, D., Zhang, L., Sun, J., Sun, L., Zhang, B., 2009b. Effect of alginate
+coating combined with yeast antagonist on strawberry (Fragaria × ananassa)
+preservation quality. Postharvest Biol. Technol. 53, 84–90.
+Fiori, S., Scherm, B., Liu, J., Farrell, R., Mannazzu, I., Budroni, M., Maserti, B.E., Wisniewski, M.E., Migheli, Q., 2012. Identiﬁcation of differentially expressed genes
+associated with changes in the morphology of Pichia fermentans on apple and
+peach fruit. FEMS Yeast Res. 12, 785–795.
+Ge, L., Zhang, H., Chen, K., Ma, L., Xu, Z., 2010. Effect of chitin on the antagonistic
+activity of Rhodotorula glutinis against Botrytis cinerea in strawberries and the
+possible mechanisms involved. Food Chem. 120, 490–495.
+Hernández-Muñoz, P., Almenar, E., Ocio, M.J., Gavara, R., 2006. Effect of calcium dips
+and chitosan coatings on postharvest life of strawberries (Fragaria × ananassa).
+Postharvest Biol. Technol. 39, 247–253.
+Hershkovitz, V., Ben-Dayan, C., Raphael, G., Pasmanik-Chor, M., Liu, J., Belausov, E.,
+Aly, R., Wisniewski, M., Droby, S., 2012. Global changes in gene expression of
+grapefruit peel tissue in response to the yeast biocontrol agent Metschnikowia
+fructicola. Mol. Plant Pathol. 13, 338–349.
+Joe, M.M., Islam, M.R., Karthikeyan, B., Bradeepa, K., Sivakumaar, P.K., Sa, T., 2012.
+Resistance responses of rice to rice blast fungus after seed treatment with the
+endophytic Achromobacter xylosoxidans AUM54 strains. Crop Prot. 42, 141–148.
+Karabulut, O.A., Tezcan, H., Daus, A., Cohen, L., Wiess, B., Droby, S., 2004. Control of
+preharvest and postharvest fruit rot in strawberry by Metschnikowia fructicola.
+Biocontrol Sci. Technol. 14, 513–521.
+Kochba, J., Lavee, S., Spiegel-Roy, P., 1977. Differences in peroxidase activity and
+isoenzymes in embryogenic ane non-embryogenic ‘Shamouti’ orange ovular
+callus lines. Plant Cell Physiol. 18, 463–467.
+Lamb, C., Dixon, R.A., 1997. The oxidative burst in plant disease resistance. Ann. Rev.
+Plant Biol. 48, 251–275.
+Liu, F., Tu, K., Shao, X., Zhao, Y., Tu, S., Su, J., Hou, Y., Zou, X., 2010a. Effect of hot air
+treatment in combination with Pichia guilliermondii on postharvest anthracnose
+rot of loquat fruit. Postharvest Biol. Technol. 58, 65–71.
+Liu, H.M., Guo, J.H., Cheng, Y.J., Liu, P., Long, C.A., Deng, B.X., 2010b. Inhibitory activity
+of tea polyphenol and Hanseniaspora uvarum against Botrytis cinerea infections.
+Lett. Appl. Microbiol. 51, 258–263.
+Liu, H.M., Guo, J.H., Cheng, Y.J., Luo, L., Liu, P., Wang, B.Q., Deng, B.X., Long, C.A.A.,
+2010c. Control of gray mold of grape by Hanseniaspora uvarum and its effects on
+postharvest quality parameters. Ann. Microbiol. 60, 31–35.
+
+58
+
+Z. Cai et al. / Postharvest Biology and Technology 100 (2015) 52–58
+
+Liu, H.M., Guo, J.H., Luo, L., Liu, P., Wang, B.Q., Cheng, Y.J., Deng, B.X., Long, C.A., 2010d.
+Improvement of Hanseniaspora uvarum biocontrol activity against gray mold by
+the addition of ammonium molybdate and the possible mechanisms involved.
+Crop Prot. 29, 277–282.
+Liu, J., Sui, Y., Wisniewski, M., Droby, S., Liu, Y., 2013. Review: utilization of antagonistic yeasts to manage postharvest fungal diseases of fruit. Int. J. Food Microbiol.
+167, 153–160.
+Liu, J., Wisniewski, M., Droby, S., Tian, S., Hershkovitz, V., Tworkoski, T., 2011a.
+Effect of heat shock treatment on stress tolerance and biocontrol efﬁcacy of
+Metschnikowia fructicola. FEMS Microbiol. Ecol. 76, 145–155.
+Long, C.-A., Yuan, G., 2009. Kloeckera apiculata strain (34-9) to control Botrytis cinerea
+during the pre- and postharvest handling of strawberries. Ann. Microbiol. 59,
+77–81.
+Luna, C.M., González, C.A., Trippi, V.S., 1994. Oxidative damage caused by an excess
+of copper in oat leaves. Plant Cell Physiol. 35, 11–15.
+Macarisin, D., Droby, S., Bauchan, G., Wisniewski, M., 2010. Superoxide anion and
+hydrogen peroxide in the yeast antagonist–fruit interaction: a new role for reactive oxygen species in postharvest biocontrol? Postharvest Biol. Technol. 58,
+194–202.
+Maya, M.A., Matsubara, Y.-I., 2013. Tolerance to Fusarium wilt and anthracnose diseases and changes of antioxidative activity in mycorrhizal cyclamen. Crop Prot.
+47, 41–48.
+McGuire, R.G., 2000. Population dynamics of postharvest decay antagonists growing
+epiphytically and within wounds on grapefruit. Phytopathology 90, 1217–1223.
+Mekbib, S.B., Regnier, T.J., Korsten, L., 2011. Efﬁcacy and mode of action of yeast
+antagonists for control of Penicillium digitatum in oranges. Trop. Plant Pathol.
+36, 233–240.
+Nakano, Y., Asada, K., 1981. Hydrogen peroxide is scavenged by ascorbate-speciﬁc
+peroxidase in spinach chloroplasts. Plant Cell Physiol. 22, 867–880.
+Nunes, C.A., 2012. Biological control of postharvest diseases of fruit. Eur. J. Plant
+Pathol. 133, 181–196.
+Palou, L., Usall, J., Smilanick, J.L., Aguilar, M.J., Vinas, I., 2002. Evaluation of food
+additives and low-toxicity compounds as alternative chemicals for the control
+of Penicillium digitatum and Penicillium italicum on citrus fruit. Pest Manag. Sci.
+58, 459–466.
+Romanazzi, G., Nigro, F., Ippolito, A., Salerno, M., 2001. Effect of short hypobaric
+treatments on postharvest rots of sweet cherries, strawberries and table grapes.
+Postharvest Biol. Technol. 22, 1–6.
+
+Saravanakumar, D., Ciavorella, A., Spadaro, D., Garibaldi, A., Gullino, M.L.,
+2008. Metschnikowia pulcherrima strain MACH1 outcompetes Botrytis cinerea,
+Alternaria alternata and Penicillium expansum in apples through iron depletion.
+Postharvest Biol. Technol. 49, 121–128.
+Thoma, I., Loefﬂer, C., Sinha, A.K., Gupta, M., Krischke, M., Steffan, B., Roitsch, T.,
+Mueller, M.J., 2003. Cyclopentenone isoprostanes induced by reactive oxygen
+species trigger defense gene activation and phytoalexin accumulation in plants.
+Plant J. 34, 363–375.
+Tian, S., Xu, Y., Jiang, A., Gong, Q., 2002. Physiological and quality responses of longan
+fruit to high O2 or high CO2 atmospheres in storage. Postharvest Biol. Technol.
+24, 335–340.
+Wang, Y.S., Tian, S.P., Xu, Y., Qin, G.Z., Yao, H., 2004. Changes in the activities of proand anti-oxidant enzymes in peach fruit inoculated with Cryptococcus laurentii
+or Penicillium expansum at 0 or 20 ◦ C. Postharvest Biol. Technol. 34, 21–28.
+Xu, B., Zhang, H., Chen, K., Xu, Q., Yao, Y., Gao, H., 2013. Biocontrol of postharvest
+Rhizopus decay of peaches with Pichia caribbica. Curr. Microbiol., 1–7.
+Xu, X., Qin, G., Tian, S., 2008. Effect of microbial biocontrol agents on alleviating
+oxidative damage of peach fruit subjected to fungal pathogen. Int. J. Food Microbiol. 126, 153–158.
+Yu, T., Yu, C., Lu, H., Zunun, M., Chen, F., Zhou, T., Sheng, K., Zheng, X., 2012. Effect of
+Cryptococcus laurentii and calcium chloride on control of Penicillium expansum
+and Botrytis cinerea infections in pear fruit. Biol. Control 61, 169–175.
+Zhang, H., Wang, L., Dong, Y., Jiang, S., Cao, H., Meng, R., 2007a. Postharvest biological
+control of gray mold decay of strawberry with Rhodotorula glutinis. Biol. Control
+40, 287–292.
+Zhang, H., Zheng, X., Wang, L., Li, S., Liu, R., 2007b. Effect of yeast antagonist in
+combination with hot water dips on postharvest Rhizopus rot of strawberries.
+J. Food Eng. 78, 281–287.
+Zhao, Y., Tu, K., Shao, X., Jing, W., Su, Z., 2008. Effects of the yeast Pichia guilliermondii against Rhizopus nigricans on tomato fruit. Postharvest Biol. Technol. 49,
+113–120.
+Zheng, X., Chen, J., 2009. Microarray analysis of gene expression proﬁle induced
+by the biocontrol yeast Cryptococcus laurentii in cherry tomato fruit. Gene 430,
+12–16.
+Zong, Y., Liu, J., Li, B., Qin, G., Tian, S., 2010. Effects of yeast antagonists in combination
+with hot water treatment on postharvest diseases of tomato fruit. Biol. Control
+54, 316–321.
+
+

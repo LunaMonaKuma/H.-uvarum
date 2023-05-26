@@ -1,0 +1,1668 @@
+CHAPTE R 10
+
+Biotechnology of Ice Wine Production
+Wang Jing*, Li Min*, Li Jixin*, Ma Tengzhen*, Han Shunyu*,
+Antonio Morata**, Jose A. Suárez Lepe**
+*Gansu Agricultural University, Gansu, China; **Technical University of Madrid, Madrid, Spain
+
+1 Introduction
+Ice wine is a kind of dessert wine or naturally sweet wine produced from frozen grapes obtained
+after natural freezing while the grapes are still on the vine. A major difference with other high
+quality sweet wines, such as Sauternes or Tokaji, is that the grape is not botrytized. Variations
+include artificial ice wines produced from running must concentrated by cooling. The origin
+of ice wine probably occurred by chance, when winemakers tried to produce wine from frozen
+grapes after unsuitable climatic conditions in northern areas at the end of maturity. Ice wine is
+believed to have been first produced in the Franconia region in 1794 after a vineyard’s grapes
+froze while the monks in charge were waiting for the permission to harvest them. The first fully
+documented Eiswein harvest dates back to 1830, when wine growers left grapes on the vine
+to freeze, assuming they could be used as an animal fodder. However, once they pressed the
+grape they realized the quality of the must and the extreme sweetness. The fermentation process
+must have proved difficult because of the high sugar content and it is quite likely that it was
+impossible to fully ferment the sugars so that as a result the wine remained sweet, but it is likely
+that they liked it very much and perceived it as high-quality wine.
+Ice wines are produced in Canada, Germany, Austria, Switzerland, and China. They are
+(Bīngjiǔ) in Chinese, Vin de glace
+known as ice wines in English, Eiswein in German,
+in Luxembourg, and vi de gel in Catalan. The greatest producers are Germany and Canada.
+Ice wines are really expensive because 3–4 kg of grapes are used to produce a small 375 mL
+bottle, equating to a glass per vine or a drop per grape berry; however, the magic conjunction
+of a strongly concentrated must in sugar acidity and aromatic compounds together with a
+complex and delicate fermentation process produce an enological jewel.
+In many countries, ice wines are strongly connected with heroic viticulture, extreme climates,
+and even big slope mountain viticulture, making vineyard management and soil conditioning
+really difficult. But there are also connections to protect excellent natural environments with
+sustainable/organic viticulture.
+
+Advances in Biotechnology for Food Industry
+http://dx.doi.org/10.1016/B978-0-12-811443-8.00010-4
+
+267
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+268
+
+Chapter 10
+
+2 Market
+Currently, the main global producer is Canada (8500 hL, 2015) and the main world
+market is China. Canadian ice wines generally come from Ontario’s Niagara Peninsula
+and the Okanagan Valley in British Columbia, but also Nova Scotia and Quebec (www.
+winesofcanada.com). Year after year, Canada’s wineries are awarded gold medals throughout
+the world for their quality ice wines and Canadian winemakers strive to produce better wines,
+challenging themselves and each other to produce this liquid gold. Only ice wine approved
+by the appellation of origin system called Vintners Quality Alliance (VQA) is allowed to be
+produced in Canada and several requirements set by the VQA must be met, which includes
+the prohibition of artificial freezing and sugar addition during the entire ice wine (“icewine”
+in the VQA terminology) production process (Setkova et al., 2007). Thus, one of the most
+important things is to distinguish real ice wines from the fraudulent products that have begun
+to emerge in the market recently. The main market for Canadian ice wines is China with sales
+of more than 65,000 L, followed by the United States of America and South Korea with about
+22,000 L (Agriculture and Agri-Food Canada, 2010). The price of Canadian ice wines in
+China ranges from €30 to more than €400 in premium categories.
+Due to the lower yield of grapes and the difficulty of processing, ice wines are more
+expensive than table wines. They are sold in half-bottles, with the average price being around
+$45 per bottle. Currently, with a gradually increased understanding of ice wine, the Chinese
+market is steadily expanding. It has been reported that China has overtaken France as the
+world’s largest consumers of red wine in 2014, having consumed 1.86 and 1.80 billion bottles
+of red wine, respectively, and considering the special preference for dessert wines, it is
+probable that China is also the world’s main consumers of ice wines.
+Production of ice wine in China is slightly higher than 700,000 L, about 40% of the global
+production. The price of ice wines ranges from €49 to €92 for 375 mL bottles in the Gansu
+province and from €21 to €115 in Changyu (Golden Ice Wine Valley, Liaoning province).
+Chinese ice wine history is not more than 20-years old and as such its exportation is not
+fully developed. In Gansu, Qilian exports ice wine to Japan and Malaysia, but only a very
+limited amount of about 1000 L. Changyu Golden Ice Wine Valley has exported to Germany,
+Australia, the United Kingdom, the United States, and other European countries, but the
+export volume is also very limited, just 3000–5000 L each year.
+
+3 Regions for Ice Wine Production
+There are few places suitable for producing ice wine in the world, traditionally only three
+countries including Germany, Austria, and Canada. The main ice wine producing countries
+are Germany and some regions in Austria, Ontario in Canada, Niagara Peninsula, and British
+Columbia’s Ken Root Valley (Fig. 10.1).
+
+Biotechnology of Ice Wine Production 269
+
+Figure 10.1: Countries and Regions Producing Ice Wines.
+
+Germany is the home of ice wine, originating in the Franconia region. At present, the main
+regions that produce ice wine in Germany are Pfalz, Mosel, Rheingau, and Rheinhessen.
+Although Germany is the home of ice wine, it cannot produce it year after year. Eiswein
+is part of the Prädikatswein quality category in German wine classification. The Pradikat
+level is determined by the level of sugars in the grape at harvest, and chaptalization is not
+permitted. Grapes used must be of a Beerenauslese quality. The main difference between
+Canadian and German ice wines is in the varieties of grapes, with Riesling being one of the
+most important for the production. Also, German generally has lower alcoholic volumes with
+6%–9% (v/v) being the most common.
+Ontario (Canada) has been producing ice wine since 1972 with three VQA wine
+appellations—Niagara Peninsula, Prince Edward County, and Lake Erie North Shore; the
+Niagara Peninsula is also divided into 10 subappellations. The Inniskillin winery produced
+its first vintage in 1984, the first commercial production of Canadian ice wine, but in 1972, a
+German immigrant made ice wine at Okanagan using Riesling grapes. In 2015, Canadian ice
+wine production was 850,000 L (Wine Country Ontario, 2015).
+Switzerland ice wines are produced in Valais among Europe’s highest vineyards, the plots range
+in altitude from between 650 and 1150 m. Swiss production is very small but is of high quality.
+Austria is also famous for its ice wine production, and has four ice wine producing areas
+including Vienna, Wachau, Styrie, and Burgeland. Wachau is the most popular ice wine
+producing area in Austria.
+In recent decades, China has developed its ice wine producing regions. There are several ice wineproducing regions, which includes the Qilian Mountain in Gaotai (Gansu Province), Huanren and
+
+270
+
+Chapter 10
+
+Tonghua in Liaoning Province, Meri Snow Mountain’s Lancang River Valley in Yunnan, and
+Yili, Xinjiang. The two most famous ice wine producing regions are the Qilian Mountain in
+Gansu and Huanren in Liaoning. The Qilian producing region, located in the central area of Hexi
+Corridor in Gansu Province at northern latitude 47 degrees, is flat, and the elevation is 1400 m.
+Area of 300 Ha is devoted to ice wine production in Gansu. It has a very extreme climate, with
+very cold temperatures in winter (reaching −25°C), making it necessary to cultivate the vineyard
+using buried viticulture. At −20°C, the permanent wood of the vine dies and it is necessary to
+protect the plants against extreme cold. For this purpose, plants are within a trench below ground
+level and the plant is covered by earth over the colder months of winter (Fig. 10.2).
+
+Figure 10.2: Vineyard at Qilian Employing Buried Viticulture Techniques (Gansu province, China).
+
+Biotechnology of Ice Wine Production 271
+There is enough sunshine, the average daily temperature is 14.9°C, the climate is dry,
+the annual precipitation ranges from 66.4 to 104.4 mm, the relative humidity of sandy
+soil is 52%, heat changes fast, and water from the Qilian Mountain is used for irrigation.
+This production region uses the Qilian Mountain as a natural protective screen. The
+region has optimal conditions for organic production because of the low incidence of
+pests and rot diseases due to very low environmental humidity and extreme temperatures
+in winter. As there is no disease and industrial pollution, it is a favorable region for ice
+wine development, and the annual production of ice wine is 330,000 L. The Huanren
+ice wine producing region in Liaoning is located near northern latitude 41 degrees,
+known as the Liaoning Huanlonghu Region, it has a plantation area that is 380 m high,
+has fertile soil, the vineyard is on a gentle slope, the summer is hot but there is a large
+temperature difference between the day and night, the winter is cold but not dry. As
+such, it has three ideal conditions “a cold climate, water, and sunshine” to develop
+the grape, and is called the golden ice valley by wine experts. The region produces
+400,000 L wine annually.
+Michigan has been turning frozen grapes into ice wine since 1983. New York’s Finger Lakes
+region also produces ice wines in the United States of America. The climate is not always
+ideal for ice wine. Some places get cold enough a few years in a decade, but this is not
+generally the case. The production is quite small but the wines are of a very good quality and
+come with a high price tag. In 2016, President Obama served Grand Traverse County at an
+official reception dinner at the white house. It is necessary for temperature to be at −8°C to
+collect frozen grapes for Michigan ice wines.
+Luxembourg also produces Vin de glace. Quality labels Vin de Glace (also Vendanges
+Tardives and Vin de Paille) were regulated in 2001 following very explicit quality criteria,
+such as sugar concentration, varieties, and handmade harvests. The harvest of the grapes
+for this wine occurs at around 6 a.m., following a night of frosty temperatures with a
+minimum of −7°C. Several hours of this low temperature are needed one night before the
+grapes can be gathered. This is why, the harvest of the grapes for this wine is only possible
+in December or even in January. Under the control of the Wine Growing Institute (Institut
+vini-viticole, IVV), three domains harvested grapes: Alice-Hartmann (Wormeldange),
+Schumacher-Lethal (Wormeldange), and Madame Aly Duhr (Ahn) (Grand Duchy of
+Luxembourg official site, 2016).
+Other countries with notable ice wine industries include Croatia, Slovenia, Slovakia, the
+Czech Republic, Hungary, and Romania (Schreiner, 2001). In warm regions, altitude can
+play a role in making ice wines, even though some areas are hot and dry, the Spanish winery
+Altolandon, with vineyards at 1100 m (3600 ft.) made an ice wine with the Petit Manseng
+variety in January 2014 after temperatures dropped to −8.5°C.
+
+272
+
+Chapter 10
+
+4 Varieties and Harvesting Conditions
+Because of the high residual sugar and alcohol content in ice wine, there is a real need for
+high acidity to balance taste to avoid cloying, so traditional ice wines are generally made from
+aromatic and acidic grape varieties. Although cold weather conditions result in an absolute
+loss in acidity (potassium tartrate crystallization), juice concentration due to ice formation
+could provide sufficient acidity) (Jackson, 2008). The aromatic varieties often used for white
+ice wine are Vidal Blanc, Riesling, Silvaner, Gewürztraminer, Italian Riesling, etc., while
+Cabernet Franc, Merlot, Syrah, Cabernet Sauvignon, etc., for red ice wines.
+Traditional ice wines are made from aromatic and acidic white Riesling, Gewürztraminer,
+Vidal Blanc, and Sylvaner varieties. In Canada and the United States, Vidal Blanc (Vitis
+vinifera Ugni blanc × Rayon d’Or 4986), a white hybrid grape variety is widely used. It
+is Canada’s leading grape variety. It is a late-ripening variety with great cold hardiness.
+The clusters can hang on the vine after frost, until almost 30% of its weight is lost due to
+dehydration. It can be harvested more than 40 days after reaching maturity. Vidal Blanc is
+a thick skin variety so it is more protected than more sensitive V. vinifera against the cold
+temperatures before harvest. Vidal Blanc is readily available, inexpensive to grow, and easy
+to manage.
+For red grape varieties, Cabernet Franc is used frequently in Canada for ice wine production
+bit Merlot, Pinot noir, and even Cabernet Sauvignon varieties can also be used. The Niagaraon-the-Lake region was the first to produce Syrah ice wine in 2004. They also started with
+Sangiovese in 2007.
+Austrian red ice wine is made with Zweigel (St. Laurent × Blaufränkisch), which ensures
+large and heavy clusters hang on the vine for a long time after reaching maturity. White ice
+wine is made from Scheurebe, Grüner Veltliner, Riesling, Gewürztraminer, and Welschriesling.
+The ice wine in China’s Huanren producing region is mainly made from white Vidal grapes
+and red Beibinghong grapes. The ice wine in the Qilian producing region is mainly made
+of white Vidal and Italian Riesling grapes, and red Merlot grapes (Fig. 10.3). Grapes are
+frequently harvested at night, and squeezed and fermented in low temperatures.
+Beibinghong was selected from the hybrid of the female parent Zuoyouhong, which is the
+hybrid of (V. amurensis Zuoshaner and V. vinifera Tchervine muscat) F1 × V. amurensis
+74-1-326, and the male parent 86-24-53, which is the hybrid of (V. amurensis 73040 and
+V. vinifera Ugni blanc) F1 × V. amurensis Shuangfeng in 1995 (Song et al., 2008). This
+cultivar is resistant to extreme cold and serious fruit diseases: downy mildew, white rot,
+and anthracnose (Liu and Li, 2013). Because of its strong resistance to cold, earth covering
+treatment, which is common in buried local viticultural practice in Northeastern China
+for international varieties (such as Vidal, Riesling, and Cabernet Franc), is not required.
+
+Biotechnology of Ice Wine Production 273
+
+Figure 10.3: Frozen Merlot Grapes at Quilian (Gansu, China).
+
+Therefore, the vinicultural management of Beibinghong is less labor intensive. Moreover,
+Beibinghong berries have relatively thick skins and high acidity, which is similar to cultivars
+typically used in ice wine production. In recent years, Beibinghong, widely cultivated in the
+Changbaishan region (Jilin province) and the Huanren region (Liaoning Province), was the
+most popular cultivar for red ice wine production (Yi-Bin et al., 2016).
+Some vinicultural practices will increase many key aroma compounds in ice wine. After
+thinning at veraison, the volatile compounds in Vidal and Riesling ice wines increased
+significantly (Bowen and Reynolds, 2015a,b). Delaying the harvest of Riesling grapes
+increases many key aroma compounds in ice wines, such as: 1-octen-3-ol, ethyl benzoate, ethyl
+octanoate, cis-rose oxide, and β-ionone (Khairallah et al., 2016), and ethyl isobutyrate, ethyl
+3-methylbutyrate, 1-hexanol, 1-octen-3-ol, 1-octanol, cis-rose oxide, nerol oxide, ethyl benzoate,
+ethyl phenylacetate, γ-nonalactone, and β-damascenone in Gewürztraminer (Lukić et al., 2016).
+Early harvesting produces higher concentrations of esters and aliphatic compounds.
+Birds are a big problem for ice vine plots because the delayed harvest makes the sweet grapes
+really attractive to them. Moreover, at these times, seeds used as food by birds became scarce
+so they eat bunches of the fruit, destroying the entire crops. This is normally controlled by
+covering canopies with thin nets. Wild boars may also jeopardize bunches in some regions.
+Environmental conditions can affect the quality of grapes; wind, rain, hail, or even warm
+temperatures during harvest make the collection of frozen grapes or grapes at suitable
+temperature (below −7°C) impossible. Pests and mold can also degrade grape quality,
+making it difficult to produce high quality ice wines.
+Harvesting can be done using mechanical vine harvesters or by picking grapes by hand
+(Fig. 10.4). Manual harvesting aids in the selection of bunches on the plot with the ability
+to reject those affected by pests or rotting. A mechanical process is useful to harvest at night
+when low temperatures are a priority. It is also faster and lower in cost.
+
+274
+
+Chapter 10
+
+Figure 10.4: Frozen Vineyards and Harvests by Hand at Huanren (Liaoning province) and Qilian
+(Gansu province, China).
+
+5 Pressing Technology and the Wine-Making Process
+For sugar solutions, a temperature of around −20°C is necessary to completely freeze water
+and sugar. When temperatures are in the range between −8 and −15°C, water is frozen as
+pure ice crystals, and the resulting liquid is highly concentrated syrup of sugar with little
+water. So, if the grapes are frozen at this temperature, the syrup can be removed by pressing
+with a high concentration degree (25–42°Brix), with most of the water remaining in the
+pomace as ice crystals. Normally, ice wines are pressed in hydraulic basket presses and it
+
+Biotechnology of Ice Wine Production 275
+
+Figure 10.5: (A) Pressing of frozen merlot grapes, (B) Settling of syrupous white must, and (C)
+Must fermentation.
+
+takes a long time (several hours) because of the hardness of the frozen grape (Fig. 10.5A).
+It is beneficial to use prechilled presses to keep grape temperature. Pneumatic presses are
+not frequently used even when it is the most suitable technology for conventional white
+wines, because it is difficult to extract must at the working pressure range of these presses,
+usually below 2 bar. Ontario presses at Tª between −8 and −12°C, and Germany not higher
+than −7°C. It is usually said that one grape yields a single drop of ice wine must. The yield
+of pressing is about 10%–15%, which produces sugar concentrations that are generally
+higher than 25°Brix (Table 10.1). The pressure can reach up to 95 bar and frequently higher
+than 20 bar. Pressing takes more than 2 h and grapes must remain frozen. After pressing,
+water remains in the pomace as ice crystals. Pressing process also concentrate acids (malic
+and tartaric), reaching acidity values frequently higher than 10 g/L.
+The wine-making process has several key steps (Fig. 10.6), such as pressing because it
+is necessary to keep temperatures below −7 to −8°C during the process to keep water in
+the pomace and to obtain a very concentrated must. Settling is a very slow process due
+to the syrupous and thick consistency of must because of the high concentration levels
+of sugar (Fig. 10.5B). Also, fermentation is a very difficult stage that is prone to sluggish
+fermentations because of the high concentration of sugar and extreme osmotic pressure
+(Fig. 10.5C). After fermentation, the next steps include typical stabilization processes and
+bottling—usually in small half bottles or even in 200 mL batches.
+
+5.1 Cryoconcentration
+Some wine producers try to emulate the natural ice wine traits by freezing grapes or musts.
+Defenders of this technique in warm countries or regions like California, Australia, New
+
+Table 10.1: Main regional regulations in ice wine production.
+
+Country
+
+Region
+
+Maximum
+Temperature
+Must Yield
+Production at Harvest
+(°C)
+(%)
+(L)
+
+OIV
+Austria
+
+Canada
+
+China
+
+−7
+−7
+
+Juice
+Concentration
+(°Brix)
+Varieties
+>25
+29
+
+850,000
+Ontario (three
+appellations:
+Niagara
+Peninsula, Prince
+Edward County,
+and Lake Erie
+North Shore)
+Gansu
+330,000
+
+−8
+
+10–15
+
+35–38
+
+−8
+
+15
+
+35–38
+
+Huanren
+
+−8
+
+15
+
+33
+
+400,000
+
+White
+Grüner Veltliner
+Red
+Zweigelt
+White
+Vidal
+Riesling
+Chardonnay
+Gewurztraminer
+Red
+Cabernet Franc
+White
+Vidal
+Italian Riesling
+Red
+Merlot
+White
+Vidal
+Red
+Beibinghong
+
+Residual
+Sugars
+Acidity
+(g/L)
+(g/L)
+
+Maximum
+Volatile
+Acidity
+(g/L)
+
+Ethanol
+[% (v/v)]
+
+2.1
+2.1
+
+>5.5
+>5.5
+
+180–320 >10
+Average
+220
+
+146–180 8.1–9.2
+
+8–13
+
+1.1–1.5
+
+140–180 8.0–10.0 0.8–1.5
+
+11.5–11.8
+
+11.0
+
+Country
+
+Region
+
+Germany
+
+Mosel
+Rheingau
+Rheinhessen
+Pfalz
+
+Maximum
+Temperature
+Must Yield
+Production at Harvest
+(°C)
+(%)
+(L)
+
+Juice
+Concentration
+(°Brix)
+Varieties
+
+45,000
+
+>28
+
+−7
+
+Luxembourg Moselle
+
+−7
+
+Switzerland
+
+Valais
+
+−12
+
+United
+States
+
+Michigan and
+the Finger Lakes
+(NY)
+
+5,000a
+
+−8
+
+10
+
+35–40
+Minimum 28
+
+39
+
+<20
+
+36–40
+
+White
+Riesling
+Red
+Merlot
+Pinot noir
+White
+Riesling
+Pinot Blanc
+Pinot Gris
+Red
+Pinot noir
+Eyholzer Roter
+(Hibou)
+White
+Vidal
+Riesling
+Red
+Cabernet Franc
+
+Residual
+Sugars
+Acidity
+(g/L)
+(g/L)
+>100
+>250
+
+>125
+
+>10
+
+Maximum
+Volatile
+Acidity
+(g/L)
+
+Ethanol
+[% (v/v)]
+
+2.1
+
+>5.5
+
+1.8
+
+12
+
+12.5
+
+6 Michigan Wineries in 2002.
+Source: From Wine Country Ontario, 2015. Available from: http://winecountryontario.ca/media-centre/icewine; Bowen, A.J., 2010. Managing the quality of ice wines. In: Reynolds, A. (Ed.), Managing Wine
+Quality, first ed. Woodhead Publishing, Cambrige, UK, pp. 523–552 (Chapter 18); Commission Regulation (EC), 2008. No 423/2008. Off. J. Eur. Union 8; OIV, 2003. Definition of Ice Wine. Resolution
+OENO 6/2003. International Organization of Vine and Wine. Paris, France; Robinson, J., 2001. Available from: http://www.jancisrobinson.com/articles/icewine-worth-the-money-and-the-hassle.
+
+a
+
+278
+
+Chapter 10
+
+Figure 10.6: Chart Flow for Ice Wine Making.
+
+Zealand, Spain, and even Argentina, say that the way in which the grape is frozen is not
+of importance and that the artificial process using cooling technology also allows the
+preservation of grapes from microbial alterations and pests. However, traditional producers
+say that not only the cold is necessary but that grapes mature under these aggressive
+conditions to develop the full aromatic complexity of a traditional ice wine.
+
+6 Fermentation and Biotechnologies
+The ecology of grapes under ice wine harvesting conditions shows a prevalence of
+Aureobasidium pullulans and Rhodotorula glutinis (Alessandria et al., 2013). Also,
+spontaneous fermentations were mainly driven by Hanseniaspora uvarum, Metschnikowia
+fructicola, and Saccharomyces cerevisiae at the midend of the fermentation process.
+
+Biotechnology of Ice Wine Production 279
+
+Figure 10.7: Saccharomyces cerevisiae fermenting concentrated must at 38°Brix (A–B) and running
+must at 22°Brix (C–D). Smaller size, lower turgency, and less budding percentage.
+
+Ice wine fermentation is a complex and difficult process due to the high sugar content in the
+majority of the regions, with typical levels reaching higher than 30°Brix. There are reports
+that Riesling juice cannot reach 10% (v/v) of ethanol if the initial sugar concentration is
+higher than 42°Brix (Pigeau et al., 2007). Moreover, a sugar concentration of above 52.5°Brix
+could make the must unfermentable. During the making of ice wine, yeast cells are under
+very limitative conditions. It is frequent to observe smaller sized cells than those in normal
+wines (22–23°Brix), and osmotic pressure also affects yeast by reducing budding percentage
+and plasmolysis can be observed in the shape of the cells (Fig. 10.7). Buds are smaller, and
+take more time to evolve into adult cells, slowing the fermentation rate.
+When yeasts are under hyperosmotic stress due to very high sugar concentrations, they
+produce glycerol and accumulate it inside the cytoplasm to balance external osmotic pressure.
+
+280
+
+Chapter 10
+
+It also means a higher excretion of glycerol to the fermentative media (Fig. 10.8) that
+usually reach 10 g/L. The over production of acetic acid is another typical consequence of
+hyperosmotic stress with values ranging from 0.8 to 2.3 g/L.
+Fermentation of must from frozen grapes takes a long time (>6 weeks, sometimes several
+months) and values of some fermentative intermediates are normally higher than for
+conventional wines (Fig. 10.9). Cell growth is inhibited by hyperosmotic conditions in
+standard must fermentations (24–26°Brix), the cell counts can easily overcome log 8 CFU/mL,
+
+Figure 10.8: Biochemistry of the High Production of Glycerol and Acetic Acid Under
+Hyperosmotic Conditions.
+
+Biotechnology of Ice Wine Production 281
+
+Figure 10.9: Fermentative Production of Acetic Acid, Glycerol, Ethanol, and Residual Sugars
+Depending on the Initial Sugar Concentration.
+Adapted from Pigeau, G.M., Bozza, E., Kaiser, K., Inglis, D.L., 2007. Concentration effect of Riesling ice wine
+juice on yeast performance and wine acidity. J. Appl. Microbiol. 103, 1691–1698.
+
+however, ice wine musts (38–40°Brix) are frequently around or below log 7. The lag phase is
+considerably longer and the fermentation rate is slower than for table wines.
+Acetic acid, glycerol, and total acidity formation standardized to metabolized sugar strongly
+correlate to must concentration (Pigeau et al., 2007). The fermentation of 38°Brix must
+increases acetic acid and glycerol production 8.4- and 2.7-folds, respectively (Pigeau and
+Inglis, 2007). Fig. 10.10 shows value ranges of acetic acid and glycerol depending on initial
+sugar concentration in must.
+Acetaldehyde concentration reaches values of four times higher than normal wines during
+the first week, but later the concentration is lower due perhaps to the high volatility of
+such molecules and its metabolization by aldehyde dehydrogenases. The expression of
+several mitochondrial aldehyde dehydrogenases has been observed and it can also affect
+the formation of glycerol-3-phosphate. Production of acetic acid means more than an 80%
+increase in total acidity (Pigeau et al., 2007). The content of ethyl acetate in ice wines is
+frequently higher than in traditional wines because of the levels of volatile acidity (Lukić
+et al., 2016).
+Typical prolonged lag phases and sluggish fermentations of highly concentrated musts in
+ice wine production mean that it may take several months to obtain the suitable alcohol
+volume. The use of stepwise rehydration protocols increases ethanol concentration levels
+and improves yeast viability making the fermentation process safer and shorter (Fig. 10.11).
+The procedure includes several acclimatization steps from more diluted juice to higher
+concentrate media to adapt yeast metabolism and cell envelops to extreme osmotic conditions
+(Kontkanen et al., 2004). The use of warm temperatures makes the yeast membrane and cell
+
+282
+
+Chapter 10
+
+Figure 10.10: Range of acetic acid (grey line) and glycerol (black line) in high sugar fermentations.
+Adapted from Pigeau, G.M., Bozza, E., Kaiser, K., Inglis, D.L., 2007. Concentration effect of Riesling ice
+wine juice on yeast performance and wine acidity. J. Appl. Microbiol. 103, 1691–1698 and Inglis, D., 2012.
+Torulaspora delbrueckii and ice-wine fermentation: the start of a winning combination. XXIIIes Entretiens
+Scientifiques Lallemand. Monestier, France.
+
+Figure 10.11: Acclimatization Protocol for Yeast Starters to Ferment Ice Wines.
+Adapted from Kontkanen, D., Inglis, D.L., Pickering, G.J., Reynolds, A., 2004. Effect of yeast inoculation rate,
+acclimatization, and nutrient addition on icewine fermentation. Am. J. Enol. Viticult. 55, 363–370.
+
+Biotechnology of Ice Wine Production 283
+wall more flexible to pressure adaptation. Under these conditions, it is possible to get higher
+yeast counts and better-adapted cells to the fermentation of highly concentrated musts. When
+acclimatized yeasts are used at 0.2 g/L, the alcoholic volume increases slightly, however,
+when double inoculation dose (0.5 g/L) and stepwise acclimatization are used together, it is
+easier to reach 10% (v/v) of ethanol (Kontkanen et al., 2004).
+To increase the quality of ice wine fermentation yeast, selection and breeding are powerful
+tools for obtaining strains or hybrids with improved performances that are better adapted to
+the osmotic stress of high concentrated musts. The hybridization of a robust Saccharomyces
+cerevisiae wine strain with S. bayanus with a strong fermentative power and low production
+of volatile acidity has been used to reduce its contents during ice wine fermentation (Bellon
+et al., 2015). The yeast strain also produces variations in the wine’s aromatic profile but
+it is also strongly influenced by interactions between the yeast effect, vintage, and variety
+(Crandles et al., 2015).
+The choice of yeast strain has also been found to significantly affect the accumulation of
+acetic acid, glycerol, reduced-sulfur odor, and color (Erasmus et al., 2004). Compared with
+using S. cerevisiae, spontaneous fermentation in Cabernet Franc ice wine is unique in its
+production of geranyl acetone and ethyl benzoate. Using S. bayanus in Cabernet Franc ice
+wine produces the highest concentrations of 15 compounds including 4 alcohols, 7 esters,
+furfural, hexanoic acid, TDN, β-damascenone (Kinga et al., 2015), and highest concentrations
+of 2-methyl-1-butanol, isoamyl acetate, and ethyl decanoate in Riesling ice wines (Crandles
+et al., 2015). This demonstrates that different yeast species produce unique compounds or
+higher concentrations of specific compounds relative to other treatments (Kinga et al., 2015).
+The addition of nutrients, especially to increase yeast assimilable nitrogen, is normally
+carried out by dosing diammonium phosphate or yeast hydrolysates. Also, yeast fragments
+release unsaturated lipids and vitamins that help yeast to grow and to make fermentation,
+even under extreme conditions, easier. Some commercial yeast activators have been described
+because of the positive role it plays in ice wine fermentations or in problem musts or stuck
+fermentations: GO-FERM (Lallemand, Montreal, and Canada) is a rehydration nutrient
+containing pantothenate, biotin, magnesium, zinc, and manganese (Kontkanen et al., 2004).
+Ice wines are frequently found in 375 mL bottles because of its high price. In bottling,
+refermentations and alterations can be controlled by the addition of sulfur dioxide and
+sorbate. In Canada, average ice wine values were 180 and 140 mg/L, respectively (Soleas
+and Pickering, 2007). The addition of SO2 can be diminished by using lysozyme to control
+bacterial growth (Chen et al., 2015). In ice wines, sulfite content ranges 2–3 times the
+average values found in table wines because of the high amount of residual sugar, helping to
+avoid refermentation in the bottle by yeast, but also bacterial developments. Lysozyme, an
+enzyme able to hydrolyze the peptidoglycan layer of a bacteria cell wall, reduces the viability
+of Gram-positive bacteria. Its use is allowed in oenology to control or delay malolactic
+
+284
+
+Chapter 10
+
+fermentation and bacterial alterations. So, the use of lysozyme, together with SO2 and sorbate,
+produce synergistic effects that largely help to control bacterial developments at lower SO2
+values (Chen et al., 2015).
+
+7 Use of Non-Saccharomyces
+The use of non-Saccharomyces yeasts is a trend in current oenology (Morata and SuárezLepe, 2016; Suárez-Lepe and Morata, 2012), with some species, such as Torulaspora
+delbrueckii, which behave as an osmotolerant, becoming an interesting alternative to S.
+cerevisiae. T. delbrueckii (Fig. 10.12A–B) is a low producer of acetic acid and ethyl acetate,
+when it is used in ice wine fermentation whose volatile acidity is near 0.4 g/L, reaching a final
+alcoholic degree of 9% (v/v). When the same yeast is used in sequential fermentation with S.
+cerevisiae, it is possible to obtain 10% (v/v) of ethanol, which is more suitable for ice wine
+production, and volatile acidity remains below 0.6 g/L (Inglis, 2012). Moreover, the control of
+osmolality in T. delbrueckii can be managed by the production of glycerol and arabitol (Lucca
+et al., 2002), perhaps facilitating a better adaptation to hyperosmotic substrates. The production
+of some interesting aroma compounds, such as 2-phenylethyl acetate (rose petals), 3-ethoxy
+propanol (solvent and blackcurrant), and diacetyl (buttery and nutty) can be enhanced with many
+T. delbrueckii strains, helping to improve the sensory profile (Loira et al., 2014) (Table 10.2).
+
+Figure 10.12: Optical Microscopy of T. delbrueckii.
+(A) Budding cell, (B) conjugation and Schizosaccharomyces pombe, (C) reproduction by bipartition,
+and (D) lineal sporulation with four asci.
+
+Biotechnology of Ice Wine Production 285
+Table 10.2: Some non-Saccharomyces yeasts used or with potential applications in ice wine
+production.
+
+Species
+
+Brand
+
+Level2 TD
+Viniflora
+PRELUDE
+L. (Kluyveromyces) Viniflora
+CONCERTO
+thermotolerans
+Schizosaccharomyces ProMalic
+pombe
+T. delbrueckii
+
+Producer
+
+Nitrogen
+Requirements
+
+Alcohol
+Tolerance
+[% (v/v)]
+
+Volatile
+Acidity
+
+Sugar
+Tolerance
+
+Lallemand
+CHR Hansen
+
+Moderate
+Moderate
+
+10
+9
+
+Low
+Low
+
+High
+High
+
+CHR Hansen
+
+Moderate
+
+10
+
+Low
+
+Medium
+
+Proenol
+
+Very low
+
+13
+
+High
+
+High
+
+http://www.enolviz.com/modulos/pdfs/productos/levaduras/28/699118_PRELUDE.nsac.pdf; http://www.lallemandwine.
+com/products/catalogue/product-detail/?range=9&id=54; http://www.proenol.com/files/editorials/ProMalic_FT20409_PT.pdf?u=.
+
+Schizosaccharomyces pombe (Fig. 10.12C–D) reduces malic acid levels by maloalcoholic
+fermentation (Suárez-Lepe et al., 2012), and could prove interesting in achieving a
+better acidity balance in some ice wines. Malic acid degradation is very efficient in S.
+pombe because of the existence of a specific malic acid carrier mae1p, and also because
+malic enzyme is cytosolic nonmitochondrial like in S. cerevisiae (Saayman and ViljoenBloom, 2006).
+Many S. pombe strains can reach more than 13% (v/v) of ethanol in table wines, so can be
+used as single inoculum to make complete fermentations in ice wines. The only problem is
+the high production of acetic acid, frequently near 1 g/L in table wines (Benito et al., 2012),
+but this has never been studied in highly concentrated musts. Also, acetate production can
+be controlled by means of mixed or sequential fermentations with S. cerevisiae (Loira
+et al., 2015). The peculiar metabolism of S. pombe increases the amount of pyruvate
+during fermentation, affecting the formation of stable pyranoanthocyanins, such as vitisin
+A and vitisin A derivatives. These pigments behave as very stable pigments in enological
+conditions and can improve color and color persistence of red ice wines (Morata et al., 2012).
+Furthermore, nitrogen requirements of S. pombe are very low and it has been proposed as a
+biotechnology to reduce biogenic amines due to low yeast assimilable nitrogen needs and
+the metabolization of malic acid by maloalcoholic fermentation reducing the development of
+lactic acid bacteria (Benito et al., 2012).
+Lachancea (Kluyveromyces) thermotolerans has been described as a low acetate producer
+(Comitini et al., 2011) and is able to produce +l-lactic acid (Gobbi et al., 2013). Moreover,
+L. thermotolerans is able to ferment until it reaches 10% (v/v) of ethanol, a property that
+makes it really interesting in ice wine production. Additionally, it has been reported that
+an increase in both glycerol and 2-phenylethanol levels is associated with S. cerevisiae
+(Gobbi et al., 2013).
+
+286
+
+Chapter 10
+
+Non-Saccharomyces offer new tools to control volatile acidity in ice wines and at the
+same time they are able to increase aromatic complexity and there is a possibility of other
+improvements in biological ageing and stability with some species.
+
+8 Ageing of Ice Wines
+8.1 Ageing on Lees
+Ageing on lees (AOL) is a biological ageing technique consisting of keeping wines in contact
+with lees (Fig. 10.13) for several months/years to increase mouth feel by the release of yeast
+polysaccharides and mannoproteins and to improve aromatic complexity by some yeast
+metabolites or because of the formation of new aromatic compounds. Lees are the death
+cells that have fermented the wine. The AOL of ice wines can improve structure, increasing
+the integration and smoothing of acidity. Moreover, it is possible to obtain a more complex
+sensory profile by the formation of new aromatic compounds with notes of baked goods and
+yeast.
+AOL starts with the autolysis process of yeast-by-yeast enzymes that starts to depolymerize
+cell envelops. In this process, not only cell wall constituents but also cytosolic contents are
+released in wines. Yeast cell walls are formed by chitin, glucans, and mannoproteins. The
+cell wall is 30% of the yeast’s dry weight, polysaccharides represent approximately 85%,
+and proteins 15% (Nguyen et al., 1998). Yeast cell wall polysaccharides increase mouthfeel,
+reduce astringency and bitterness, improving wine softness and density.
+
+Figure 10.13: Yeast Lees Sediments During Bottle Ageing on Lees (AOL).
+
+Biotechnology of Ice Wine Production 287
+Moreover, AOL is reductive protecting fruitiness and it probably helps to preserve variety
+aromas in ice wines. Yeast cell walls contain glutathione, a tripeptide with strong antioxidant
+properties located mainly in its thiol groups. Glutathione is currently used by many winemakers to control oxidations and minimize levels of SO2, which are higher in sweet wines
+than in dry ones.
+Yeast autolysis is a very slow process but is also strain dependent, so selection of suitable
+strains can help speed it up. The production of pure yeast biomasses of a single yeast culture
+selected for its specific positive properties for AOL improves the microbiological application
+of this technique (Suárez-Lepe and Morata, 2006). Moreover, cocktails of several yeast
+species/strains can be used for AOL processes to increase the amount of polysaccharide
+released and to increase aromatic complexity.
+The use of non-Saccharomyces yeast has been recently described as a tool to improve AOL
+processes (Kulkarni et al., 2015; Suárez-Lepe et al., 2012), speeding it up, and reducing the
+time needed for autolysis. When osmophilic yeasts with specific configurations of doublelayer cell walls, such as S. pombe or S. ludwigii are used, the possibilities presents to increase
+polysaccharide contents in a shorter time is a technical advantage (Palomero et al., 2009).
+At the same time, it is possible to improve mouthfeel given the large average size of their
+polysaccharides compared to S. cerevisiae.
+The use of AOL in ice wines can help to improve the aromatic complexity and flavor balance
+and, at the same time, protect the aroma compounds from oxidation. Moreover, AOL can
+soften the acidity making a better-balanced wine. AOL can be applied in a barrel or steel tank.
+Several biotechnologies can be used, from the simple use of lees from fermentation to the
+production of pure lees of a specific yeast strain or even the use of non-Saccharomyces yeasts.
+
+8.2 Sparkling Ice Wines
+First sparkling ice wine was made in Canada in 1998, by Inniskillin Company using the
+Charmat Method in stainless steel tanks. At sensory level, the integration of CO2 bubbles
+reduces sweetness and helps to improve integration and freshness. To make sparkling wines,
+there are main technologies for traditional bottle fermentation and Charmat process.
+In the first technique, the most traditional one, partial fermentation of the sugar must be done
+in the bottle reaching the desired CO2 pressure, after fermentation the typical AOL stage
+improves mouthfeel and aromatic complexity. As AOL take a long time to develop yeast
+autolysis and promote the formation of aromatic compounds, a period longer than 9 months
+is frequently recommended to reach suitable expression. After fermentation and AOL, it is
+necessary to remove lees to obtain a clean and clear product (disgorging). Dosing, capping,
+riddling, disgorging, and corking in the usually small quantities of 375 mL bottles is labor
+intensive. However, a lengthy AOL time produces a better integration of CO2 with fine
+
+288
+
+Chapter 10
+
+bubbles, a creamy texture, and a complex AOL flavor. A second possibility is the Charmat
+Method in which fermentation is carried out on a bigger scale in steel pressure tanks, where
+the sparkling wine is settled and later transferred to bottles under isobaric conditions. The
+Charmat Method is easier and has lower costs compared with traditional bottle fermentation.
+In both techniques, yeasts undergo a very difficult fermentation process because of the high
+osmotic and CO2 pressures.
+
+8.3 Oak Aged Ice Wines
+Also available in the market are ice wines aged in French and American oak barrels for a variable
+time (4–9 months) for added complexity. Barrel ageing also means an evolution in color, with
+it being typical for these white ice wines to turn into golden or honey tones. The great natural
+acidity is softened by barrel aging, but at the same time, the high acidity of ice wines protects
+them during the long ageing period and helps to maintain structure and balance. The complex
+aroma evolves from fruity notes to reach greater complexity and depth and also improves
+with a creamy vanilla flavor. Simultaneous use of lees and oak aging together with agitation
+(Bâtonnage) will result in a smooth buttery wine with toffee characteristics. During ageing,
+temperatures must remain below 15°C and there should be high humidity levels. Bottled ice wine
+should have a long life if kept at a suitable temperature in the absence of light and vibrations.
+
+9 Analytical Controls
+Due to its relatively high price, the authenticity of ice wine is becoming a real issue in wine
+production. Ice wines are produced according to strict production standards and regulations.
+According to German law, Eiswein is classified under Qualitätswein mit Prädikat (QmP).
+Frozen grapes for ice wine production must be harvested at the minimum sugar concentration
+level and should be between 110 and 128° Oechsle (26–30°Brix). The minimal alcohol by
+volume content is 5.5% and the maximum quantity of total SO2 allowed is 400 mg/L. In
+Canada, ice wine is regulated by the VQA. A VQA regulation states that frozen grapes for ice
+wine production must be harvested at the minimal level of sugar must be 35°Brix equivalent
+to 153.5° Oechsle. According to the VQA, ice wines in Canada must have at least 7% alcohol,
+a concentration of acetic acid not above 2.1 g/L and residual sugars must be 125 g/L (100 g/L
+in British Colombia). Austrian law dictates that Eiswein must have 25° Klosterneuburger
+Mostwaage (KMW). Under Luxembourg legislation, Vin de Glace must have 120° Oechsle
+(28.1°Brix) (Mencarelli and Tonutti, 2013). According to the National Standard of the
+People’s Republic of China, the alcohol content should be between 9% and 14% by volume
+and residual sugar must be above 125 g/L in
+.
+Analytic measurements are a necessary approach in ice wine production for product
+monitoring and quality control. OIV recognized and published many analysis methods, and
+some countries consider that the methods of analysis shall prevail as reference methods
+
+Biotechnology of Ice Wine Production 289
+for the determination of the analytical composition of the wine in the context of control
+operations. Many vine-growing countries have introduced its definitions and methods
+into their own regulations (OIV, 2015). In fact, the fast and unambiguous identification of
+potential markers, suitable to qualitatively differentiate the crops from various areas and
+farming systems, is a crucial requirement in trade and regulations. Conclusive analysis is a
+matter of highly reliable and objective instrumentation (Setkova et al., 2007).
+
+9.1 GC Applications
+Today, Gas Chromatography (GC) and GC-MS with specific sample preparation
+are widely used for the detection and quantification of the organic molecules and
+also organometallic species in ice wine, especially for the analysis of both volatile
+and semivolatile compounds. Setkova et al. (2007) utilized a headspace solid-phase
+microextraction-gas chromatographic-time-of-flight mass spectrometric (SPME–GC–
+TOF-MS) method for the analysis of volatile and semivolatile components of ice wine
+from Canada and the Czech Republic. The entire method for ice wine analysis did not
+exceed 20 min per sample (Table 10.3). An odor assessment of 25 Canadian and German
+ice wines was carried out using a GC olfactory detector system (SGE International Pty.
+Table 10.3: Optimized conditions of the analytical method for the determination of volatile and
+semivolatile components of the ice wine aroma.
+SPME
+Ice wine sample volume
+Salting out
+Sample incubation conditions
+SPME fiber and mode
+Sample extraction conditions
+Sample agitation speed (incubation/extraction)
+Fiber desorption conditions
+
+3 mL in 10 mL headspace vial
+1 g NaCl
+45°C, 5 min
+DVB/CAR/PDMS 50/30 µm; headspace
+45°C, 5 min
+500 rpm/500 rpm
+260°C, 2 min
+
+GC–TOF-MS
+GC column
+Injection mode
+GC oven program
+Carrier gas, mode, and flow
+Transfer line temperature
+GC run time
+Mass analyzer
+Ionization type/energy
+Ion source temperature
+Detector voltage
+Mass fragments collected
+Data acquisition rate
+
+RTX-5 (10 m × 0.18 mm I.D., 0.2 µm)
+Split less
+40°C (30 s); 50°C/min to 275°C (30 s)
+Helium at constant flow, 1.5 mL/min
+275°C
+5.7 min (last wine component eluted at 4.45 min)
+High-speed time-of-flight
+EI/70 eV
+200°C
+1700 V
+35–450 m/z
+50 spectra/s
+
+SPME, Solid-phase microextraction.
+
+290
+
+Chapter 10
+
+Ltd, Ringwood, Australia). The end of the GC column was connected to a variable outlet
+splitter set to deliver flow to the mass selective detector and the olfactory detector port
+at a ratio of 30:70. This aroma port was fitted to vacant detector housing, and the tubing
+passing through the oven wall was heated with oven temperature air by means of an air
+venturi (Cliff et al., 2002). Other researchers have been analyzing ice wine volatiles
+using a GC equipped with a Carbowax column (Cliff and Pickering, 2006; Nurgel
+et al., 2004). GC-MS has also been used to determine amino acid. Ice wine stored for
+24 years contained 0.9% d-Proline, 6.4% d-Glx, 3.0% d-Asparagine, and 1.5% d-Alanine
+determined by GC-MS-MS (Ali et al., 2010).
+
+9.2 LC Applications
+High performance liquid chromatography (HPLC) methods are widely used for the
+analysis of many nonvolatile compounds in ice wine. The technique is suitable for sugar
+determination and fast detection glucose and fructose in ice wine. Two types of sugars in
+six types of ice wine were determined by HPLC with evaporative light-scattering detector.
+The samples were analyzed on a NH2 chromatographic column (5 µm × 4.6 mm × 25 cm).
+The flowing phase was acetonitrile:H2O = 80:20 and the flow was 0.8 mL/min. The
+temperature in column and detector was 40°C and the injection volume was 20 µL (Wang
+et al., 2014). HPLC also has been used for the determination of phenolic compounds in
+ice wine. Li et al. (2016) determined phenolic compounds in two types of ice wine using
+the HPLC-MS-MS method. For anthocyanins, the mobile phase was composed of (A)
+6% (v/v) acetonitrile containing 2% (v/v) formic acid, and (B) 54% (v/v) acetonitrile
+with 2% (v/v) formic acid. The gradient elution was as follows: 10% B for 1 min, from
+10% to 25% B for 17 min, isocratic 25% B for 2 min, from 25% to 40% for 10 min, from
+40% to 70% for 5 min, and from 70% to 100% for 5 min, with a flow rate of 1.0 mL/min.
+The injection volume was 30 µL and the detection wavelength was 525 nm. The column
+temperature was 50°C. The MS conditions were as follows: electrospray ionization,
+positive ion model; nebulizer, 35 psi; dry gas flow, 10 L/min; dry gas temperature, 325°C;
+scan, 100–1000 m/z. For the nonanthocyanin phenolic compounds, the mobile phase
+was comprised of (A) 10% (v/v) acetic acid, and (B) 90% (v/v) acetonitrile containing
+10% (v/v) acetic acid. The elution gradient ranged from 5% to 8% B for 5 min, from 8%
+to 12% B for 2 min, from 12% to 18% for 5 min, from 18% to 22% for 5 min, from 22%
+to 35% for 2 min, from 35% to 100% B for 2 min, 100% B for 4 min, and from 100% to
+5% B for 2 min with a flow rate of 1.0 mL/min. The injection volume was 2 µL and the
+detection wavelength was 280 nm. The column temperature was 25°C. The MS conditions
+were as follows: electrospray ionization, negative ion model; nebulizer, 35 psi; dry gas
+flow, 10 L/min; dry gas temperature, 325°C; scan, 100–1000 m/z. Also, glucose, fructose,
+and malic acid could be monitored by LC equipped with a UV detector set to 210 nm and a
+refractive index detector.
+
+Biotechnology of Ice Wine Production 291
+
+9.3 FT-MIR Applications
+Using Fourier transform-middle infrared spectrometry (FT-MIR), it is possible to analyze
+wine and must within a 90 s timeframe simultaneously on a significant number of important
+enological parameters, such as alcohol content, relative density, extract, sugar-free extract,
+refraction, conductivity, glycerol, total phenols, reducing sugar, fructose, glucose, sucrose,
+total acid, pH value, volatile acid, total SO2 and tartaric acid, malic acid, lactic acid, and
+citric acid. Sample preparation is usually easy, fast, and cheap, which includes decarbonation
+and cleaning by centrifugation or filtration. FT-MIR is a secondary analytical method
+that first needs to calibrate the instrument against the chemical reference methods for the
+different components (Table 10.4). Once the system has been cleaned and zeroed, it is a good
+practice to perform the standardization procedure before running calibration samples. Some
+companies have applications to transfer calibrations developed on the unit to be transferred to
+another standardized instrument (Patz et al., 2004).
+Table 10.4: Concentration range in wines, average, and correlation (R2).
+Parameter
+
+Range
+
+Average
+
+R > 2a
+
+Alcohol (vol.%)
+Alcohol (g/L)
+Relative density (20/20)
+Extract (g/L)
+Sugar-free extract (g/L)
+Conductivity (µS/cm)
+Glycerol (g/L)
+Total phenol (mg/L)
+TEAC (mmol/L)
+
+7.4–14.0
+58.7–110.7
+0.9908–1.0940
+19.8–238.1
+14.7–55.6
+1150–3230
+5.20–27.80
+134–2260
+2.5–30.9
+
+11.4
+90
+1.0021
+42.7
+22.2
+1879
+7.85
+570
+7.1
+
+0.982
+0.975
+0.999
+0.999
+0.859
+0.948
+0.983
+0.959
+0.920
+
+Sugars
+Fructose (g/L)
+Glucose (g/L)
+Sugar before inversion (g/L)
+Sugar after inversion (g/L)
+
+0.0–165.7
+0.2–63.5
+1.5–220.8
+1.5–234.7
+
+14.9
+6.5
+23.1
+23.8
+
+0.998
+0.996
+0.998
+0.998
+
+Acidity and organic acids
+Total acid (g/L)
+pH
+Volatile acid (g/L)
+Tartaric acid (g/L)
+Malic acid (g/L)
+Citric acid (g/L)
+
+3.72–14.10
+2.49–3.99
+0.14–1.41
+0.8–3.3
+0.0–6.6
+0.0–2.3
+
+6.14
+3.37
+0.44
+2
+2.3
+0.32
+
+0.973
+0.834
+0.768
+0.423
+0.811
+0.487
+
+SO2
+Total SO2 (mg/L) (Tanner–Brunner)
+Total SO2 (mg/L) (photometry)
+Free SO2 (mg/L)
+
+32–588
+7–415
+0–58
+
+120
+86
+20
+
+0.703
+0.843
+0.120
+
+Averaged from validation with two independent data sets (A and B).
+
+a
+
+292
+
+Chapter 10
+
+9.4 Texture
+As texture analysis is a fast and low-cost analytical technique, it can also be favorably
+applied in oenology as a routine tool for monitoring wine grape quality. Among the different
+mechanical parameters measurable, berry skin thickness and hardness are indices that
+reflect anthocyanin extractability and dehydration kinetics with adequate reliability (Rolle
+et al., 2012). Universal testing machines are those currently used in texture tests applied in
+grape studies and provide precise measures of force, time, distance, and deformation (Rolle
+et al., 2010). In grapes for ice wines, this technique can report information on frozen grape
+extractability.
+
+10 Sensory Quality
+10.1 Visual Appearance and Color
+Appearance is very important for a wine. Sight is the first of our senses to be used in wine
+tasting. The eyes introduce a wine, providing an initial reference point, such as clarity,
+transparency, sediment, brilliance, color, bubbles, and fluidity. Meanwhile, sight can also
+affect the sensitivity of smell and taste. A glass of quality ice wine should be clear, bright,
+transparent, shiny, and reflective. Depending on its depth of color, a limpid red ice wine might
+not be transparent, but transparency is necessary for white ice wine.
+Clarity is closely related to taste. A cloudy wine with particles in suspension will directly
+and adversely affect one’s taste bud sensory qualities. The wine will be masked by a screen
+of impurities and the flavor will be distorted. A cloudy wine never tastes right; it is rough
+and lacking in harmony. Furthermore, haze is always a sign of spoilage for consumers. An
+appropriate level of wine clarity implies the level of visible impurities under analysis does
+not exceed the threshold of what is considered acceptable, because there is no such thing
+as absolute limpidity in wine. A clear wine becoming hazy once again is quite natural,
+regardless of whether it’s been cleared by natural settling, or by a clarification procedure.
+Some fragile clear wines can become cloudy when exposed to air, while others can be
+similarly affected by light, cold, heat, or microbiological changes, all of which can detract
+from the wine’s clarity and quality. It is only a stable wine that can harmoniously develop
+all its qualities as it ages. As long as the wine remains unstable, it is susceptible to various
+changes in clarity, known as cases.
+In general, a glass of ice wine will reduce fluidity due to a high viscosity, which is largely
+dependent on the sugar, ethanol, glycerol, and soluble polysaccharide content. This is
+discernible only at unusually high sugar (15 g/L fructose or 5 g/L glucose) and/or alcohol
+(10%–15%) content or when the glycerol content exceeds 25 g/L (Jackson, 2009), and ice
+wine just meets this condition in terms of sugars. At and above this level, viscosity could
+reduce the perceived intensity of astringency and sourness of wine (Smith and Noble, 1998).
+In addition, ice wine will form more rivulets than dry wine due to capillary action.
+
+Biotechnology of Ice Wine Production 293
+The color of a wine may provide some indication of a wine’s body, its age, health, and maturity.
+Generally, color is related to characteristics, a certain color indicates a certain type of wine. A white
+ice wine with a yellowish-golden color makes us recall a cluster of overripe grapes with yellow
+skins and a sweet fruity taste. Such a special golden color probably results from the joint effects of
+juice concentration, caftaric acid oxidation, and the release of catechins on freezing (Jackson, 2008).
+
+10.2 Aroma Profile
+Ice wine has distinctive aromatic characteristics, varying from peach, pear, fig, green apple,
+raisin, dried apricot, citrus, pineapple, litchi, mango, to violet, honey, and caramel, depending
+on its origin, grape variety, and vinification. Young ice wine has a lively fruity flavor, the
+sensory profile evolves into honey, caramel, and dried fruit notes upon aging. The complex
+flavor of ice wine may be a cause of the following: using aromatic white varieties, aromatics
+adequately accumulate during the slow maturity of the berry, high sugar content enriched
+yeast fermentation to produce more alcohol and esters, besides, being aged in barrel or aged
+on lees can show more complex or evolved aromas.
+Canadian white ice wine is known for its honey, lemon, apple, and tropical fruits, such as
+mango, fig, pawpaw, pineapple, lychee, dried apricot, and smoky, cinnamon fragrance, balanced
+with the proper acidity levels. Its sensory profile evokes dried apple, jam, and caramel when
+aged in barrels, and finishes with the smell of oranges. Aroma profile of red ice wine is a mix of
+strawberry, cream, spice, and mild herbs (Kinga et al., 2015). Sparkling ice wine has a fragrance
+of nectarine, apricot, lemon, honey, and the bubbles are finer than sparkling Brut wine.
+German Eiswein (Qualitätswein mit Prädikat) are ice wines of beerenauslese concentration,
+made from grapes collected and pressed while frozen to concentrate sugar, acidity and
+extract, it is a truly special wine with a singular concentration of fruity acidic freshness
+and sweetness. Some of the wines present nutty and oily notes. Riesling is, without doubt,
+Germany’s most highly esteemed grape variety, and also the main variety for Eiswein.
+Riesling is relatively cold hardy so the fruits can mature slowly to form its elegant and
+delicate aroma, and maintain high acidity in the pulp (Zhan, 2010). Riesling Eiswein is truly
+special with a singular concentration of fruity acidic freshness and sweetness, full of green
+lemon, pear, apple, peach, cherry (jam), chamomile, honey, raisin, dried apricot, syrup,
+cinnamon, and caramel aromas. Some of them have nut and oily notes (Parker, 2012).
+Austria Zweigel red ice wine has a rose appearance with a fresh, sweet but not cloying taste.
+White ice wine made from Scheurebe, Grüner Veltliner, Riesling, Gewürztraminer, and
+Welschriesling show freshness and sweetness, that is, well balanced with the high acidity, full
+body, similar with Germa Eiswein.
+Beibinghong ice wine is deep purple in color, has a special fruity aroma of V. amurensis, and
+sweet, honey, roast caramel, and is typically full-bodied with a lasting finish. Sensory profiles
+of Vidal Blanc ice wine in China depend on the region, and in the Jilin province is full-body,
+
+294
+
+Chapter 10
+
+sweet, balanced, refreshing, and has a lasting finish, while on the contrary, in the Liaoning
+province it is tart, watery and light (Table 10.5).
+Luxembourg Riesling ice wines show a typical golden-yellow color. They have complex and
+concentrated aromas of dried flowers, lemon grass, and pineapple. Later, you are left with a
+fresh and powerful mouthfeel—large and generous mineral freshness with citrus hints in a
+perfect balance.
+Sensory profiles of some typical varieties used in the elaboration of ice wines share common
+aspects but also remarkable specificities. Vidal Blanc has an intense character that is enhanced
+by the freezing process, resulting in an ice wine with a typical flavor profile that is greatly
+appreciated by the market. It is typical to find honey and peach aromas, as well as pineapple,
+apricot, and butterscotch in ice wines made with the Vidal grape. Gewürztraminer ice wines
+show terpene, floral, pungent, and ripe fruit aroma series (Lukić et al., 2016). Riesling ice wine
+provides a medium-bodied taste full of sweet apricot, peach, apple, citrus, and grapefruit and the
+aromas of honey and sweet grape. Fruit aroma is well balanced with a suitable and stimulating
+acidity. Cabernet Franc produces a wine with a bright red ruby tone and the powerful aroma of
+fresh strawberries. Sensory features and pairing of main ice wine varieties are as:
+•
+
+•
+
+•
+
+•
+
+Riesling (V. vinifera) is Germany’s leading grape variety, a white grape known for its
+characteristic “transparency” in flavor. Aroma varies from sweet apricot, peach, apple,
+citrus, grapefruit, floral to mineral substance. The color will change to deep golden
+yellow through aging, accompanied by a more complex flavor of ripe fruit and honey. Its
+fine aroma is well balanced with a suitable and stimulating acidity. Riesling Eiswein can
+be paired with fish, chicken, shell fish, and soft cheese (Zhan, 2010).
+Vidal Blanc is an ideal variety for ice wine making. Matured fruit can form a mix fruity
+of orange, pineapple, grapefruit, apricot, and honey. When aged in barrel, it looks like a
+golden liquid with a complex aroma and delicate mouthfeel, is full bodied with a long
+finish. “Vidal Blanc” ice wine can be paired with fried goose liver, fruit, complex flavored
+cheese, ice cream, chocolate, etc. (Zhan, 2010).
+Gewürztraminer (V. vinifera), a white grape, has high sugar content and a relative low
+acidity level. It is famous for its high density complex aroma, varying from tropical
+fruit, such as banana, mango, lemon, litchi, peach to rose, honeysuckle, peony, violet,
+geranium, locust, verbena, gingersnap, lilac, cinnamon, even musk (Zhan, 2010).
+“Gewürztraminer” ice wines show terpene, floral, pungent, and ripe fruit aroma series
+(Lukić et al., 2016). It can be paired with meat sauces, cheese, foie gras, and venison,
+goes especially well with Asian food like Sichuan cuisine, Indian Curries, Vietnamese,
+and Thai cuisines (Zhan, 2010).
+Sylvaner (V. vinifera, Traminer × Osterreichisch-Weiβ), a white grape, has a unique aroma
+like “Riesling” but relative low acidity. With the fragrance of soil, basil, cotton, fern, ripe fruit,
+pale in color, “Sylvaner” ice wine can be paired with seafood, and asparagus (Zhan, 2010).
+
+Table 10.5: Sensory properties of ice wine produced by several companies in China.a
+Region
+
+Province
+
+Company
+
+Northeast
+
+Jilin
+
+Tonghua Wine Industry
+Co., Ltd
+
+Qingshanyuan Wine
+Industry Co., Ltd
+Xuelan Wine Industry
+Co., Ltd
+Tonghua Zilong Wine
+Industry Co., Ltd
+
+Liaoning
+
+Northwest
+
+Xinjiang
+Gansu
+
+Ningxia
+
+Sun Valley Ice Wine
+Industry Co., Ltd
+
+Wunv Mountain Milan
+Liquor Company
+Zhangyu Golden Ice Valley
+Wine Industry Co., Ltd
+Yizhu Wine Industry Co.,
+Ltd
+Qilian Wine Industry Co.,
+Ltd
+
+Hangsheng Xixia King
+Liquor Company
+Florian Wine Co., Ltd
+
+–, Not mentioned.
+a
+Data from the company’s website.
+
+Ice Wine
+Style
+
+Varieties
+
+Aroma
+
+Color
+
+Mouthfeel
+
+White
+
+Vidal blanc
+
+Yellow–golden
+
+Red
+
+Beibinghong
+
+Red
+
+Beibinghong
+
+Floral, fruity, tropical fruit,
+honey
+Dried fruit, honey, dried
+grape
+Fine
+
+Sweet, vinous, balance,
+refresh, long finish
+Sweet, balance, refresh,
+long finish
+Vinous
+
+Red
+White
+White
+
+Beibinghong
+Vidal blanc
+–
+
+Red
+
+Shuanghong
+
+Red
+White
+
+Beibinghong
+Riesling
+
+White
+
+Vidal blanc
+
+White
+Red
+White
+White
+
+Pinot blanc
+Beibinghong
+Vidal blanc
+Vidal blanc
+
+Red
+White
+White
+Red
+
+–
+Vidal blanc
+Italian Riesling
+Semillon
+Merlot
+
+White
+White
+White
+Red
+
+Riesling
+Lemon, rose
+Gewürztraminer
+Chardonnay
+Fruity
+Pinot nior
+Fruity
+
+–
+–
+Apricot, pineapple, honey,
+tropical fruit
+Honey, peach, pineapple,
+black berry, fruity
+Grape, fruity, nut
+Floral, fruity, delicate, fine,
+complex
+Pineapple, mango, apricot,
+peach, honey, sweet melon
+Complex, fine, long finish
+–
+–
+Fruity, pineapple, honey,
+tropical fruit
+–
+Fruit, honey, apple, fruity,
+complex, fine, harmony
+–
+
+Ruby-red
+–
+–
+–
+–
+Ruby-red
+
+–
+–
+Sweet, fat, balance, long
+finish
+–
+
+Garnet
+Yellow–golden
+
+Soft, balance, bouquet
+–
+
+Yellow–golden
+
+Tart, watery, light
+
+Yellow–golden
+–
+–
+Yellow–golden
+
+Refresh, sweet, balance
+–
+–
+Sweet, fine, delicate,
+full-body, long finish
+–
+
+–
+Pale yellow–
+golden
+Ruby-red
+Yellow–golden
+
+Mellow, fat, bouquet,
+typical
+Sweet, vinous, long
+finish
+Sweet, vinous, special
+
+Straw-yellow
+Ruby-red
+
+Sweet, mellow
+Sweet, mellow
+
+296
+•
+
+Chapter 10
+
+Cabernet Franc (V. vinifera), a red grape variety, produces a wine with a bright red ruby tone
+and the powerful aroma of fresh strawberries. It’s frequently used in Canada for ice wine
+production but Merlot, Pinot noir, and even Cabernet Sauvignon can also be used. The Niagaraon-the-Lake region was the first to produce Syrah ice wine in 2004 and Sangiovese in 2007.
+
+Ice wines show a complex aroma formed by terpenes, furans, acetals, esters, etc. (Lukić
+et al., 2016). When aromatic profiles by stir bar sorptive extraction-gas chromatographyolfactometry-mass spectrometry (SBSE-GC-O-MS) of both table and ice wines made
+from Riesling and Vidal blanc varieties, higher concentrations of more aroma compounds
+were observed in the second ones (Bowen and Reynolds, 2012). The highest odor activity
+was observed in: β-damascenone, 1-octen-3-ol, ethyl octanoate, cis-rose oxide, and ethyl
+hexanoate; these molecules were above threshold in Riesling and Vidal ice wines. Also in
+ice wines of these varieties, Crandles et al. (2015) measured odor activity values higher than
+unit in: Linalool, cis-rose oxide, 1,1,6-trimethyl-1,2-dihydronaphthalene, β-damascenone,
+β-ionone, ethyl cinnamate, p-vinyl guaiacol, and decanal.
+Ice wine is quite refreshing, despite the high amount of residual sugars, due to high acidity
+levels (normally >10 g/L). Many people describe it as a delicious dessert in a glass, and it is
+quite common for a small 375 mL bottle to be enjoyed by 6–8 people.
+Ice wine usually has a medium to full body, with a prolonged finish. Its aroma is frequently
+evocative of peach, pear, dried apricot, honey, citrus, figs, caramel, green apple, raisins,
+and a hint of violet on both the nose and palate, etc., depending on the variety (Fig. 10.14).
+
+Figure 10.14: Sensory Profile of Typical White Ice Wines.
+Intensity of some descriptors is variable according to grape variety.
+
+Biotechnology of Ice Wine Production 297
+The perfume of tropical and exotic fruits, such as pineapple, lychee, or mango is quite
+common, especially with white varietals. Moreover, its sensory profile evolves according to
+harvest times, with more complex late harvest ice wines being more frequent. On the other
+hand, nonconventional ice wines: sparkling, aged in barrel, aged on lees, can show more
+complex or evolved aromas according to the specificities of the ageing process. Barrel ageing
+increase notes like butterscotch and brown sugar and it further improves body and achieves a
+more rounded mouth feel.
+
+11 Conclusions
+Ice wines are produced in only a few special regions worldwide, ideal climatic conditions
+are necessary for good grape maturation together with a requirement for frozen grapes
+at harvest times. Furthermore, although ice wines are produced on small scale compared
+with traditional still wines, they are in a high price bracket and they enhance the prestige
+of wine-making regions able to create these wines. As ice wine making is a hard process,
+new biotechnological improvements can help oenologists to improve fermentation quality
+and safety. Lot of improvements and trends are being incorporated to ice wine technology:
+the use of nontraditional varieties in ice wine technology allowing new sensory profiles
+or better resistance against the cold, pests, or diseases, new ageing technologies, such as
+sparkling ice wines, barrel-aged ice wines, and so on, open new possibilities to develop very
+interesting products. Finally, ice wine is a magic synthesis of extreme climate conditions,
+human tradition, and knowhow, and extremely adverse fermentations that makes a really
+beautiful wine.
+
+Acknowledgments
+We would like to express our gratitude to Chen Yangxiong, enologist of Gansu Qilian Winery Co. Ltd., for kindly
+providing us the photos used in Figs. 10.2, 10.3, 10.4, and 10.5.
+
+References
+Agriculture and Agri-Food Canada, 2010. Available from: http://www5.agr.gc.ca/resources/prod/Internet-Internet/
+MISB-DGSIM/CB-MC/PDF/5320-eng.pdf.
+Alessandria, V., Giacosa, S., Campolongo, S., Rolle, L., Rantsiou, K., Cocolin, L., 2013. Yeast population diversity
+on grapes during on-vine withering and their dynamics in natural and inoculated fermentations in the
+production of ice wines. Food Res. Int. 54, 139–147.
+Ali, H.S.M., Pätzold, R., Brückner, H., 2010. Gas chromatographic determination of amino acid enantiomers in
+bottled and aged wines. Amino Acids 38, 951–958.
+Bellon, J.R., Yang, F., Day, M.P., Inglis, D.L., Chambers, P.J., 2015. Designing and creating Saccharomyces
+interspecific hybrids for improved, industry relevant, phenotypes. Appl. Microbiol. Biotechnol. 99, 8597–8609.
+Benito, S., Palomero, F., Morata, A., Calderón, F., Suárez-Lepe, J.A., 2012. New applications for
+Schizosaccharomyces pombe in the alcoholic fermentation of red wines. Int. J. Food Sci. Technol. 47,
+2101–2108.
+
+298
+
+Chapter 10
+
+Bowen, A.J., Reynolds, A.G., 2012. Odour potency of aroma compounds in Riesling and Vidal blanc table wines
+and ice wines by gas chromatography-olfactometry-mass spectrometry. J. Agric. Food Chem. 60, 2874–2883.
+Bowen, A.J., Reynolds, A.G., 2015a. Aroma compounds in Ontario Vidal and Riesling ice wines. II. Effects of
+crop level. Food Res. Int. 76, 540–549.
+Bowen, A.J., Reynolds, A.G., 2015b. Aroma compounds in Ontario Vidal and Riesling ice wines. I. Effects of
+harvest date. Food Res. Int. 76, 550–560.
+Chen, Kai, Han, Shun-yu, Zhang, Bo, Li, Min, Sheng, Wen-jun, 2015. Development of lysozyme-combined
+antibacterial system to reduce sulphur dioxide and to stabilize Italian Riesling ice wine during aging process.
+Food Sci. Nutr. 3, 453–465.
+Cliff, M.A., Pickering, G.J., 2006. Determination of odour detection thresholds for acetic acid and ethyl acetate in
+ice wine. J. Wine Res. 17, 45–52.
+Cliff, M., Yuksel, D., Girard, B., King, M., 2002. Characterization of Canadian ice wines by sensory and
+compositional analyses. Am. J. Enol. Viticult. 53, 46–53.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., Ciani, M., 2011. Selected nonSaccharomyces wine yeasts in controlled multistarter fermentations with Saccharomyces cerevisiae. Food
+Microbiol. 28, 873–882.
+Crandles, M., Reynolds, A.G., Khairallah, R., Bowen, A., 2015. The effect of yeast strain on odour active
+compounds in Riesling and Vidal blanc ice wines. LWT—Food Sci. Technol. 64, 243–258.
+Erasmus, D.J., Cliff, M., van Vuuren, H.J.J., 2004. Impact of yeast strain on the production of acetic acid, glycerol,
+and the sensory attributes of ice wine. Am. J. Enol. Viticult. 55, 371–378.
+Gobbi, M., Comitini, F., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., Ciani, M., 2013. Lachancea
+thermotolerans and Saccharomyces cerevisiae in simultaneous and sequential co-fermentation: a strategy to
+enhance acidity and improve the overall quality of wine. Food Microbiol. 33, 271–281.
+Grand Duchy of Luxembourg official site, 2016. Available from: http://www.luxembourg.public.lu/en/
+actualites/2016/01/25-vinglace/index.html.
+Inglis, D., 2012. Torulaspora delbrueckii and ice-wine fermentation: the start of a winning combination. XXIIIes
+Entretiens Scientifiques Lallemand. Monestier, France.
+Jackson, R.S., 2008. Wine Science, third ed. Elsevier Publishing, Amsterdan, Bostonpp. 526–527, Chapter 9.
+Jackson, R.S., 2009. Wine Tasting—A Professional Handbook, second ed. Elsevier Publishing, Amsterdan,
+Bostonp. 45, Chapter 2.
+Khairallah, R., Reynolds, A.G., Bowen, A.J., 2016. Harvest date effects on aroma compounds in aged Riesling ice
+wines. J. Sci. Food Agric. 96, 4398–4409.
+Kinga, S., Reynolds, A.G., Bowen, A.J., 2015. Effect of yeast strain on aroma compounds in Cabernet franc ice
+wines. LWT—Food Sci. Technol. 64, 227–235.
+Kontkanen, D., Inglis, D.L., Pickering, G.J., Reynolds, A., 2004. Effect of yeast inoculation rate, acclimatization,
+and nutrient addition on icewine fermentation. Am. J. Enol. Viticult. 55, 363–370.
+Kulkarni, P., Loira, I., Morata, A., Tesfaye, W., González, M.C., Suárez-Lepe, J.A., 2015. Use of nonSaccharomyces yeast strains coupled with ultrasound treatment as a novel technique to accelerate ageing on
+lees of red wines and its repercussion in sensorial parameters. LWT—Food Sci. Technol. 64, 1255–1262.
+Li, J.C., Li, S.Y., He, F., Yuan, Z.Y., Liu, T., Reeves, M.J., Duan, C.Q., 2016. Phenolic and chromatic properties of
+Beibinghong red ice wine during and after vinification. Molecules 21, 431.
+Liu, L., Li, H., 2013. Review: Research progress in amur grape, Vitis amurensis Rupr. Can. J. Plant Sci. 93, 565–575.
+Loira, I., Vejarano, R., Bañuelos, M.A., Morata, A., Tesfaye, W., Uthurry, C., Villa, A., Cintora, I., Suárez-Lepe,
+J.A., 2014. Influence of sequential fermentation with Torulaspora delbrueckii and Saccharomyces cerevisiae
+on wine quality. LWT—Food Sci. Technol. 59, 915–922.
+Loira, I., Morata, A., Comuzzo, P., Callejo, M.J., González, C., Calderón, F., Suárez-Lepe, J.A., 2015. Use of
+Schizosaccharomyces pombe and Torulaspora delbrueckii strains in mixed and sequential fermentations to
+improve red wine sensory quality. Food Res. Int. 76, 325–333.
+Lucca, M.E., Spencer, J.F.T., Figueroa, L.I.C., 2002. Glycerol and arabitol production by an intergenic hybrid,
+PB2, obtained by protoplast fusion between Saccharomyces cerevisiae and Torulaspora delbrueckii. Appl.
+Microbiol. Biotechnol. 59, 472–476.
+
+Biotechnology of Ice Wine Production 299
+Lukić, I., Radeka, S., Grozaj, N., Staver, M., Peršurić, D., 2016. Changes in physico-chemical and volatile
+aroma compound composition of Gewürztraminer wine as a result of late and ice harvest. Food Chem. 196,
+1048–1057.
+Mencarelli, F., Tonutti, P., 2013. Ice wine. Sweet, Reinforced and Fortified Wines: Grape Biochemistry,
+Technology and Vinification. John Wiley & Sons, Ltd., Chichester, West Sussex, UK, pp. 301–302,
+Chapter 20.
+Morata, A., Suárez-Lepe, J.A., 2016. New biotechnologies for wine fermentation and ageing. In: Ravishankar Rai,
+V. (Ed.), Advances in Food Biotechnology. first ed. John Wiley & Sons, Ltd., West Sussex, United Kingdom,
+pp. 288–289.
+Morata, A., Benito, S., Loira, I., Palomero, F., González, M.C., Suárez-Lepe, J.A., 2012. Formation of
+pyranoanthocyanins by Schizosaccharomyces pombe during the fermentation of red must. Int. J. Food
+Microbiol. 159, 47–53.
+Nguyen, T.H., Fleet, G.H., Rogers, P.L., 1998. Composition of the cell walls of several yeast species. Appl.
+Microbiol. Biotechnol. 50, 206–212.
+Nurgel, C., Pickering, G.J., Inglis, D.L., 2004. Sensory and chemical characteristics of Canadian ice wines. J. Sci.
+Food Agric. 84, 1675–1684.
+OIV, 2015. In: Compendium of International Methods of Wine and Must Analysis. China Zhijian Publishing
+House & Standards Press of China Publishing, Beijing. p. 8 (Foreword).
+Palomero, F., Morata, A., Benito, S., Calderon, F., Suarez-Lepe, J.A., 2009. New genera of yeasts for over-lees
+aging of red wine. Food Chem. 112, 432–441.
+Parker, R.P., 2012. The World’s Greatest Wine Estates. Beijing Union Company Publishing, Beijing, pp. 457–475.
+Patz, C.D., Blieke, A., Ristow, R., Dietrich, H., 2004. Application of FT-MIR spectrometry in wine analysis. Anal.
+Chim. Acta 513, 81–89.
+Pigeau, G.M., Inglis, D.L., 2007. Response of wine yeast (Saccharomyces cerevisiae) aldehyde dehydrogenases to
+acetaldehyde stress during ice wine fermentation. J. Appl. Microbiol. 103, 1576–1586.
+Pigeau, G.M., Bozza, E., Kaiser, K., Inglis, D.L., 2007. Concentration effect of Riesling ice wine juice on yeast
+performance and wine acidity. J Appl. Microbiol. 103, 1691–1698.
+Rolle, L., Torchio, F., Cagnasso, E., Gerbi, V., 2010. Evolution of mechanical variables of winegrapes for ice wine
+production during on-vine drying. Italian J. Food Sci. 22, 143–149.
+Rolle, L., Siret, R., Segade, S.R., Maury, C., Gerbi, V., Jourjon, F., 2012. Instrumental texture analysis parameters
+as markers of table-grape and winegrape quality: a review. Am. J. Enol. Viticult. 63, 11–28.
+Saayman, M., Viljoen-Bloom, M., 2006. The biochemistry of malic acid metabolism by wine yeasts—a review.
+S. Afr. J. Enol. Viticult. 27, 113–122.
+Schreiner, J., 2001. Icewine, the Complete Story, first ed. Warwick Publishing, Toronto.
+Setkova, L., Risticevic, S., Pawliszyn, J., 2007. Rapid headspace solid-phase microextraction–gas
+chromatographic–time-of-flight mass spectrometric method for qualitative profiling of ice wine volatile
+fraction: method development and optimization. J. Chromatogr. A 1147, 213–223.
+Smith, A.K., Noble, A.C., 1998. Effects of increased viscosity on the sourness and astringency of aluminium
+sulphate and citric acid. Food Quality Prefer. 9, 139–144.
+Soleas, G.J., Pickering, G.J., 2007. Influence of variety, wine style, vintage and viticultural area on selected
+chemical parameters of Canadian ice wine. J. Food Agric. Environ. 5, 97–112.
+Song, R.G., Lu, W.P., Shen, Y.J., Jin, R.H., 2008. A new ice-red wine grape variety—Beibinghong. Sino-Overseas
+Grapevine Wine 4, 19–22.
+Suárez-Lepe, J.A., Morata, A., 2006. New method of aging on lees. Spanish Patent P-200602423.
+Suárez-Lepe, J.A., Morata, A., 2012. New trends in yeast selection for winemaking. Trends Food Sci. Technol. 23,
+39–50.
+Suárez-Lepe, J.A., Palomero, F., Benito, S., Calderón, F., Morata, A., 2012. Oenological versatility of
+Schizosaccharomyces spp. Eur. Food Res. Technol. 235, 375–383.
+Wang, Y.Z., Hu, W.Z., Li, T.T., Ma, K., Jiang, A.L., 2014. Determination of sugars in five types of ice wine by high
+performance liquid chromatography (HPLC) with evaporative light-scattering detector (ELSD). Sci. Technol.
+Food Ind. 21, 320–323.
+
+300
+
+Chapter 10
+
+Wine Country Ontario, 2015. Available from: http://winecountryontario.ca/media-centre/icewine.
+Yi-Bin, Lan, Xu, Qian, Zhong-Jun, Yang, Xiao-Feng, Xiang, Wei-Xi, Yang, Tao, Liu, Bao-Qing, Zhu, Qiu-Hong,
+Pan, Chang-Qing, Duan, 2016. Striking changes in volatile profiles at sub-zero temperatures during overripening of ‘Beibinghong’ grapes in Northeastern China. Food Chem. 212, 172–182.
+Zhan, J.C., 2010. Wine Grape Varieties. China Agricultural University, Beijing, China, pp. 85–106, Chapter 4.
+
+Further Reading
+Ronald, S.J., 2008. Wine Science, third ed. Elsevier Publishing, Amsterdan, Boston, pp. 526–527, Chapter 9.
+
+

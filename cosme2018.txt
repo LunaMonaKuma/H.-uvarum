@@ -1,0 +1,2015 @@
+CHAPTE R 9
+
+Wine Microbial Spoilage: Advances
+in Defects Remediation
+Fernanda Cosme, Alice Vilela, Luís Filipe-Ribeiro, António Inês,
+Fernando M. Nunes
+CQ-VR—Chemistry Research Centre, University of Trás-os-Montes and Alto Douro, Vila Real, Portugal
+
+1 Introduction
+Since microbiological activity can develop quickly and without warning in wine, early
+identification of possible spoilage problems is critical to implementing corrective remedies.
+However, identifying the contributing microorganisms and the appropriate correction is
+not always simple, because a given microorganism can cause multiple spoilage problems,
+and a specific wine fault can be caused by different microorganisms. The contaminations
+are often undetected, until the wine problem becomes noticeable by sensory evaluation.
+Spoilage microorganisms besides affecting the healthiness of wine can make it unsafe for
+human consumption, by producing biogenic amines (BA) and precursors of ethyl carbamate
+(Capozzi et al., 2012). A diversity of fungi can infect grapes prior to harvest, the principal
+ones being species of Botrytis, Uncinula, Alternaria, Plasmopara, Aspergillus, Penicillium,
+Rhizopus, Oidium, and Cladosporium (Fleet, 2001). Fungal growth on grapes can produce
+various metabolites and conditions that may disturb the ecology and growth of yeasts
+during alcoholic fermentation. There are reports that Botrytis cinerea, Aspergillus spp., and
+Penicillium spp. produce metabolites that retard the growth of yeasts during fermentation
+(Doneche, 1993).
+In wines, the main spoilage microorganisms are yeasts of the genera Dekkera/
+Brettanomyces, Candida, Hansenula, Hanseniaspora/Kloeckera, Pichia, Saccharomycodes,
+and Zygosaccharomyces, among others (Fig. 9.1); the lactic acid bacteria (LAB)
+Lactobacillus, Leuconostoc, and Pediococcus; and the acetic acid bacterial genera
+Acetobacter and Gluconobacter (Du Toit and Pretorius, 2000). The faults caused include
+excessive bitterness and off-flavors, such as ester taint, vinegar, butter, geranium character,
+and phenolic (horsy) character (Bartowsky, 2009) (Figs. 9.2 and 9.3). They also cause
+sensory visual problems, such as film formation, turbidity, viscosity, and sediment
+(Fig. 9.4). The formation of volatile phenols (4-ethylguaiacol and 4-ethylphenol) (Chatonnet
+et al., 1997) and mousy off-odor by acetamide production of tetrahydropyridines (Costello
+Microbial Contamination and Food Degradation
+http://dx.doi.org/10.1016/B978-0-12-811515-2.00009-3
+
+271
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+272
+
+Chapter 9
+
+Figure 9.1: Yeasts-Related Faults in Wine and Examples of Causal Microorganism.
+Adapted from Considine, J.A., Frankish, E., 2014. A Complete Guide to Quality in Small-Scale Winemaking, first
+ed. Academic Press, Waltham, USA.
+
+Figure 9.2: Summary of Bacterial and Yeasts Pathways Leading to Spoilage Aroma and Flavor
+Compounds of Wine.
+Adapted from Bartowsky, E.J., 2009. Bacterial spoilage of wine and approaches to minimize it. Lett. Appl.
+Microbiol. 48 (2), 149–156.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+273
+
+Figure 9.3: Pathway to the Formation of 4-Ethylphenol and 4-Ethylguaiacol in Wine.
+A carboxylase decarboxylates the hydroxycinnamic acids into the corresponding vinyl derivative
+(4-vinylphenol from p-coumaric acid or 4-vinylguaiacol from ferulic acid). In the second reaction, a
+reductase converts the vinyl group into the corresponding ethyl compound.
+
+Figure 9.4: Microorganisms sensory visual problems, such as sediment (A1 and A2); film formation
+(B); and turbidity and viscosity (C).
+
+274
+
+Chapter 9
+
+and Henschke, 2002) during malolactic fermentation (MLF) can also occur. LAB can
+also be responsible for the production of other compounds, which will impart negative
+effects on wine quality, such as the formation of ethyl carbamate by the degradation
+of arginine (Liu, 2002) and BA, such as histamine, tyramine, and putrescine, by the
+degradation of precursor amino acids (Arena and Manca de Nadra, 2001; LonvaudFunel, 2001), compounds that may affect the consumer’s health. Although less frequent,
+in our time, bitterness by acrolein formation from glycerol degradation (Claisse and
+Lonvaud-Funel, 2001), butter aroma due to excessive production of diacetyl (Martineau
+and Henick-Kling, 1995), flocculent growth (Amerine and Kunker, 1968), mannitol
+taint (Sponholz, 1993), ropiness (Walling et al., 2001), tartaric acid degradation
+(Sponholz, 1993), and the geranium off-odor (Crowell and Guymon, 1975) may occur.
+Besides bacteria and yeasts, filamentous fungi, such as Aspergillus, may likewise be
+responsible for depreciating the wine quality by the production of mycotoxins, such as
+aflatoxins (AFs), ochratoxins, and fumonisins, which are also detrimental for human health
+(Zain, 2011). Aspergillus black rot is among one of the many bunch rots occurring on
+grapes. The disease appears on the berries as a black rot due to prolific fungal sporulation
+after it has attacked and consumed the berries, which look completely empty and dry. This
+fungus can be isolated using the Dichloran Rose Bengal Agar medium, a selective isolation
+and enumeration of fungi-yeasts and molds, of significance in food spoilage medium
+(Fig. 9.5) (Somma et al., 2012).
+The selection of yeast and bacteria strains for performing alcoholic and MLFs, gathering the
+best enological characteristics and eliminating the bad ones may be the first step for achieving
+wines with the best quality. Also, ability of wines deacetification, detoxifying mycotoxins,
+and BA must be additional criteria in yeast and bacteria selection for vinification.
+The early detection and identification of wine spoilage microbes can be done by using
+microbial physiological techniques, including plating in selective and differential media
+(Kántor and Kačániová, 2015), molecular detection like PCR-based DGGE analysis, and
+qRT-PCR, among others (Mills et al., 2008), and by metabolomics.
+The composition of wine is determined by a complex interplay between environmental
+factors, genetic factors, and viticulture practices (Roullier-Gall et al., 2014), and
+metabolomics offers the toolbox for integrated analyses of the wine composition
+resulting from all of these factors. Metabolomics approaches have shown great potential
+for the study of grapes and wines (Flamini, 2014). The concept of wine omics for the
+untargeted wine analysis coupling NMR and GC-MS were followed by the oenomics
+approaches. All inclusive analysis require access to sensitive and powerful instruments.
+Therefore, metabolomics employs high-resolution techniques, such as FTICR-MS,
+LC-MS, GC-MS, and NMR spectroscopy, combined with multivariate statistics
+(Roullier-Gall et al., 2014).
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+275
+
+Figure 9.5: Aspergillus conidiophore (A1) and conidia (A2). Different black Aspergillus colonies from
+berries from direct plating on Dichloran Rose Bengal Chloramphenicol (DRBC) agar homogenate
+(B1), diluted and plated on DRBC (B2). Black rot of berries caused by black Aspergilli (C). Adapted
+from Somma, S., Perrone, G., Logrieco, A.F., 2012. Diversity of black Aspergilli and mycotoxin risks in grape, wine
+and dried vine fruits—review. Phytopathol. Mediterr. 51 (1), 131−147.
+
+Metabolomics approaches have been used in different food matrices to identify compounds
+related to a particular microbial contamination, usually via GC-MS, HPLC, SIFT-MS, and
+NMR (Fig. 9.6) (Leroy et al., 2014).
+
+2 Wine Microbial Spoilage
+2.1 Acidic Wines: Can Wine Turn Into Vinegar?
+Over the course of time, numerous winemaking strategies were developed, resulting in
+a range of wine products, from Champagne to fortified wines like Port wine. However,
+since the time of Louis Pasteur (around 1873) the microbial contribution to the production
+of wine has become a subject of research and, often, debate (Mills et al., 2008). Pasteur
+discovered that beers, wines, and many other fermented products were produced by yeast.
+
+276
+
+Chapter 9
+
+Figure 9.6: Examples of Methods for Metabolic Analysis Aiming at the Establishment
+and Analysis of Food/Wine Metabolomes.
+Adapted from Leroy, F., Kerrebroeck, S.V., Vuyst, L., 2014. Metabolomics. In: Battt, C.A., Tortorello, M.L.,
+(Eds.), Encyclopedia of Food Microbiology, Elsevier, New York, pp. 780–787.
+
+However, when a spoiling effect occurred, Pasteur found that the microorganisms present
+in the beverage are much smaller than the yeast cells. Pasteur concluded that these smaller
+microorganisms, called bacteria, caused wine to spoil into a vinegar-like product. Over 150
+years later, winemakers still deal with this spoilage in wines today.
+Volatile acidity (VA) is derived from acids of the acetic series in the “free state” and
+combined as salts (Office International de la Vigne et du Vin, 2009). In extreme quantities,
+volatile acids confer to the wine an unpleasant vinegar aroma/flavor associated with a sour
+taste. The maximum acceptable limit for VA in most wines is 1.2 g/L of acetic acid (Office
+International de la Vigne et du Vin, 2010). The aroma threshold for this acid depends on the
+wine style and variety. An acetic acid concentration of 0.90 g/L can produce a clear bitter and
+sour aftertaste in wine, still not causing a strong odor (Ribéreau-Gayon et al., 2006a). Acetic
+acid can be formed at the beginning of wine production (in grapes), during fermentation, and
+in the bottled wine as a bacterial or yeast metabolite (Table 9.1) (Vilela-Moura et al., 2011).
+Bacteria, in B. cinerea-infected grapes, can produce acetic acid. Due to rupture of grape
+berry skin, B. cinerea infection permits access of bacteria to the berry’s interior. Acetobacter
+species dominate on the surface of rotten grapes. These microorganisms use the ethanol
+produced by wild yeasts as a carbon source, producing acetic acid (Du Toit and Lambrechts,
+
+Table 9.1: Acetic acid in grapes and wines: microbial origin and range of concentrations.
+Responsible Microorganism
+Acetic Acid Bacteria
+Grape musts
+
+Alcoholic
+fermentation
+(AF)
+
+Filamentous Fungi
+
+S. cerevisiae
+
+Lactic Acid Bacteria
+
+• Oxidation of ethanol
+• A. niger, A. tenuis, C. herbarum,
+• Due to very rapid
+to acetic acid by
+R. arrhizus, and Penicillium
+growth of indigenous
+Gluconobacter spp.
+spp., typically associated with
+Lactobacilli (so-called
+and Acetobacter spp.
+sour rot, are responsible for
+“ferocious”) in
+in B. cinerea-infected
+black fungal sporulation and
+improperly treated
+grapes (Du Toit and
+typical sour rot symptoms—
+freshly crushed
+Lambrechts, 2002)
+berry cracking and leakage
+must, which leads to
+• Unspoiled grapes (less
+along with a pungent vinegar
+high concentrations
+than 102–103 cells/g of G.
+smell (Rooney-Latham
+of acetic acid,
+oxydans, contain 0.016–
+et al., 2008)
+rather than lactic
+0.023 g/L acetic acid
+• Musts made with partially
+acid (Boulton
+• Spoiled grapes (as high
+sour grapes can contain more
+et al., 1996)
+as 106 cells/g, mainly A.
+than 1.0 g of acetic acid and
+pasteurianus and A. aceti)
+several grams of gluconic acid
+contain up to 3.9 g/L
+per litter (Ribéreau-Gayon
+acetic acid (Joyeux
+et al., 2006b)
+et al., 1984a,b)
+• Pasteurianus and A.
+• Healthy grape • Mainly produced by
+liquefaciens that survive
+must with sugar
+heterofermentative
+during fermentation can
+concentration
+Oenococcus spp.,
+also increase the acetic
+(<220 g/L)
+even if there is a
+acid content of wines
+can display
+small residual sugar
+and may cause wine
+0.1–0.3 g/L of
+concentration.
+spoilage (Du Toit and
+acetic acid
+Acetic acid is
+Lambrechts, 2002)
+• Some S.
+produced (0.12–
+cerevisiae strains
+0.24 g/L) from sugar
+produce more
+after their growth
+than 1 g/L of
+phase associated
+acetic acid
+with MLF (Ribéreau(RibéreauGayon et al., 2006b)
+Gayon
+et al., 2006b)
+
+Spoilage Yeast
+• Hansenula spp. in unsulfited and
+noninoculated must (RibéreauGayon et al., 2006b)
+• B. bruxellensis is also thought
+to be associated with grape
+contamination (Zuehlke
+et al., 2013)
+
+• P. anomala, Candida krusei, and
+C. stellata (Fleet and Heard,
+1993), as well as Hanseniaspora
+uvarum/K. apiculate (Romano
+et al., 1992), produce high levels
+of acetic acid (1–2, 1–1.3, and
+1–2.5 g/L, respectively) before
+and during initial fermentation
+steps, leading to serious
+wine deterioration (Fleet and
+Heard, 1993)
+• S. ludwiggii strains can produce
+acetic acid concentrations
+higher than 0.75 g/L (Romano
+et al., 1999)
+(Continued)
+
+Table 9.1: Acetic acid in grapes and wines: microbial origin and range of concentrations.
+Responsible Microorganism
+Acetic Acid Bacteria
+MFL
+
+Wine
+
+• A substantial increase in
+acetic acid (0.5–3.5 g/L
+for 1 × 103–9 × 104 cfu/
+mL) and a decrease in
+ethanol concentration
+was correlated to an
+increase in A. pasteurianus
+population (Bartowsky
+and Henschke, 2008)
+
+Filamentous Fungi
+
+S. cerevisiae
+
+Lactic Acid Bacteria
+• The decarboxylation
+of malic acid
+into lactic acid
+by LAB (O. oeni
+and L. plantarum),
+is associated
+with changes in
+the amino acid
+composition and
+increment in acetic
+acid concentration
+(0.05–0.32 g/L) of
+the initial VA (PozoBayón et al., 2005)
+• Lactobacillus,
+Pediococcus,
+and Leuconostoc
+spp., almost
+nondetectable in
+wine, cause spoilage
+when growth occurs
+by producing 0.8–
+6.1 g/L acetic acid
+(Sponholz, 1993)
+
+Spoilage Yeast
+
+• Species of the genus Dekkera/
+Brettanomyces (Boulton
+et al., 1996; Pretorius, 2000)
+produce acetic acid up to
+7.2 g/L (Sponholz, 1993)
+
+LAB, Lactic acid bacteria; MLF, malolactic fermentation; VA, volatile acidity.
+Source: Adapted from Vilela-Moura, A., Schuller, D., Mendes-Faia, A., Silva, R.F., Chaves, S.R, Sousa, M.J. Côrte-Real, M., 2011. The impact of acetate metabolism on yeast fermentative performance and wine
+quality: reduction of volatile acidity of grape-musts and wines—minireview. Appl. Microbiol. Biotechnol. 89, 271–280.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+279
+
+2002). Fungi associated with sour rot, such as Aspergillus niger, Alternaria tenuis,
+Cladosporium herbarum, Rhizopus arrhizus, and Penicillium spp. can also be responsible for
+the manifestation of acidic musts, with more than 1.0 g/L of acetic acid (Ribéreau-Gayon et
+al., 2006b; Rooney-Latham et al., 2008) (Table 9.1).
+Saccharomyces cerevisiae produce acetic acid as a byproduct of alcoholic fermentation,
+mostly at the start of fermentation. This production is dependent on the yeast strain, grapemust composition, and must nitrogen concentration (Delfini and Costa, 1993; Torrens et
+al., 2008; Vilanova et al., 2007). In response to sugars hyperosmotic stress, yeasts, in wine,
+produce acetic acid to equilize the redox balance. This phenomenom is particularly severe
+in grape-must with a ºBrix (sugar content) higher than 35 (Erasmus et al., 2004). Yeasts,
+such as Dekkera/Brettanomyces (Sponholz, 1993), and apiculated wine yeasts, such as
+Hanseniaspora/Kloeckera (Ciani and Maccarelli, 1998), can produce acetic acid up to 7.2
+g/L. At the end of the fermentation process and during wine storage S. ludwigii, a spoilage
+yeast frequently isolated from wine, can also produce detrimental amounts of acetic acid
+(Romano et al., 1999).
+The decarboxylation of malic acid into lactic acid by lactic acid bacteria (BAL) during MLF
+is associated with changes in the amino acid content of wines, leading to an increase of the
+initial VA (Pozo-Bayón et al., 2005). Starter cultures of Oenococcus oeni, under pantothenic
+acid deprivation due to CoA deficiency, can produce acetate (Richter et al., 2001). This
+production is also due to competition between yeasts and bacterial populations during
+concurrent MLFs (Boulton et al., 1996). Acetic acid bacteria (Acetobacter pasteurianus
+and A. liquefaciens) can also increase the acetic acid content of wines and may cause wine
+spoilage (Du Toit and Lambrechts, 2002). Furthermore, after bottling, red wines under
+peculiar circumstances, may carry a small population of acetic acid bacteria that proliferates
+in bottles stored in an upright position (Bartowsky and Henschke, 2008) (Table 9.1).
+
+2.2 Ester Taint: Banana or Glue?
+Yeasts strains belonging to the species, Hanseniaspora uvarum, Kloeckera apiculata,
+Metschnikowia pulcherrima, and P. anomala, can be responsible for ester taint in wines,
+especially if their growth is not controlled during the initial stages of alcoholic fermentation
+(Loureiro and Malfeito-Ferreira, 2003). The compounds formed are the esthers ethyl acetate,
+with an acetone/glue aroma, and methylbutyl acetate, that presents as banana or pear drops
+with a fruity aroma.
+The presence of too much ethyl acetate in wine is not wanted due to its unpleasant acetone/
+glue aroma, especially if it is present in concentrations above 100–200 mg/L (Cliff and
+Pickering, 2006). Ethyl acetate is formed in wine through the action of yeast or via
+esterification. The final concentration is dependent on the species of yeast and the wine
+composition (Plata et al., 2003).
+
+280
+
+Chapter 9
+
+Carbonic maceration, must aeration, must clarification, and yeast species play an important
+role in the amounts of isoamyl acetate formed in wines. This compound possesses a bananalike odor and may also impart some complexity to neutral white wines and to red and white
+premier wines. When present in excess it can cover the varietal character of wines (RibéreauGayon et al., 2006a).
+Growth of Z. bailii may also lead to wine with an increase in acetic and succinic acid,
+a decrease of l-malic acid, reduction in total acidity, and an altered ester concentration
+(Boulton et al., 1996).
+
+2.3 “Brett Character” and Mousy Taint: Unpleasant Horsy Aroma and Mice Taste
+in Wines
+Some wine microorganisms can produce volatile phenols (vinylphenols and ethylphenols)
+from grape p-coumaric and ferulic acids. Brettanomyces bruxellensis produce abovethreshold concentrations of “phenolic,” “animal,” or “stable” odor-active ethylphenols like
+4-ethylphenol (4-EP) and 4-ethylguaiacol (4-EG), by decarboxylation of the trans-ferulic and
+trans-p-coumaric precursor compounds present in wine (Chatonnet et al., 1997).
+Dekkera and its anamorph Brettanomyces are considered spoilage yeast and are probably
+the most important organisms responsible for the production of volatile phenols (Chatonnet
+et al., 1992). They are not among the most dominant microorganisms during fermentation;
+however, in wines and in other fermented beverages, such as beer and cider, they can be found
+after 6–10 months of storage (Cocolin et al., 2004). Optimal substrates for the proliferation
+of Brettanomyces are wood barrels. Wine maturation and storage in wood, with lower levels
+of sulfur dioxide, some dissolved oxygen, and storage at higher temperature than at any
+other time, provides both the time and the lack of competition needed for Brettanomyces to
+successfully grow to levels that result in wine sensory defects (Lin et al., 2014). For all these
+reasons, it is thought that the time between the completion of alcoholic fermentation and the
+start of MLF is the most likely time when Brettanomyces multiplies and produces “Brett
+character” in wine (Lin et al., 2014). Furthermore, it is thought that these yeasts can also
+multiply after bottling if the wine contains residual fermentable sugars, a situation made more
+likely if the wine was minimally filtered (Du Toit and Pretorius, 2000).
+Nevertheless, Brettanomyces occurs almost exclusively in red wines. Red wines have a much
+higher level of phenolic acids than white wines, since they are extracted from the grape
+skins during red wine fermentation. The mechanism of conversion involves a sequence of
+two enzymatic reactions. The wine yeast S. cerevisiae and some LAB, such as Lactobacillus
+have enzymes (decarboxilases), which degrade these acids to weakly smelling intermediates
+like 4-vinylphenol and 4-vinylguaiacol. These compounds, by the enzimatic mechanism
+of Brettanomyces, are transformed to the off-odors 4-ethylphenol and 4-ethylguaiacol,
+respectively (Chatonnet et al., 1995). In wine, Brettanomyces is the only yeast that can
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+281
+
+Figure 9.7: Structures and Chemical Properties of 4-Ethylguaiacol (4-EG) and 4-Ethylphenol (4-EP).
+
+produce from 4-vinylphenol the horsy smelling 4-ethylphenol. Usually, 4-ethylphenol is
+considered to impart the characteristic “Brett character” aroma profile of Brettanomyces wine
+contamination (Couto et al., 2005) (Figs. 9.7 and 9.8).
+The perception threshold of EPs (4-ethylphenols, designated as 4-ethylphenol and
+4-ethylguaiacol) is greatly influenced by the matrix in which they are dissolved. The values
+reported by Chatonnet et al. (1992)—440 µg/L for 4-EP and 135 µg/L for 4-EG—were found
+in a model solution. In red wines the 4-ethylphenol presents a detection threshold of 230 µg/L
+(Chatonnet et al., 1990) while the combination of 4-ethylphenol with 4-ethylguaiacol shows a
+threshold of 400 µg/L (Chatonnet et al., 1992) and this happens when active Brettanomyces in
+the wine overcome 103 cells/mL (Chatonnet et al., 1995; Lonvaud-Funel and Renouf, 2005).
+The concentration of 4-EP found in 61 bottled commercial Australian red wines, of various
+ages, ranging from 2 µg/L in a Merlot up to 2660 µg/L in a Shiraz, with a mean concentration
+of 795 µg/L. 4-EG was also detected in every red wine analyzed, ranging in concentration
+from 1 µg/L (in a Pinot noir) up to 437 µg/L (in a Merlot) with a mean concentration of 99
+µg/L (Pollnitz et al., 2000).
+However, the presence of 4-vinylphenol and 4-ethylguaiacol, in wine, can be due to the
+metabolism of Saccharomyces yeast during grape-must fermentation (Gunata et al., 1990).
+Meaden and Taylor (1991) cloned and identified a nuclear gene phenolic off-flavor (POF
+1) that confers, to the yeast S. cerevisiae, the ability to carry out the decarboxylation of pcoumaric and ferulic acid. Grando et al. (1993) verified the character expressed by strains
+Pof+ and Pof– in fermentation of Traminer grape-musts, confirming the influence of the yeast
+strain Pof phenotype from analytical results of 4-vinylphenol and 4-ethylguaiacol and from
+sensorial evaluation. Some of the genetic and environmental factors that affect Pof phenotype
+on S. cerevisiae are today well understood (Howell et al., 2005).
+
+282
+
+Chapter 9
+
+Figure 9.8: Formation of Ethylphenols from Hydroxycinnamic Precursors.
+
+Under laboratory conditions, volatile phenols can also be produced by LAB (Cavin et al.,
+1993; Couto et al., 2006). Cavin et al. (1993) found that strains of the genera Lactobacillus
+and Pediococcus can produce volatile phenols. Couto et al. (2006) after testing 20 different
+species of LAB (35 strains) found that only L. plantarum–type strain NCFB1752 produced
+the predictable quantity of 4-vinylphenol and 4-ethylphenol from p-coumaric acid. However,
+the production of these off-flavors by L. plantarum NCFB1752 was affected by the growth
+conditions/environmental factors (Silva et al., 2011a, 2011b) and yielded lower concentration
+of these compounds than those normally obtained by Dekkera/Brettanomyces yeasts,
+considered to be the principal agents responsible for volatile phenols in wine (Fras et al.,
+2014).
+Besides “Brett character” Brettanomyces also can produce mousy wines. This wine defect
+appears due to the metabolism of ornithine and lysine that leads to the production of extremely
+powerful and unpleasant nitrogen-heterocylic compounds [2-acetyltetrahydropyridine
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+283
+
+(ACTPY), 2-acetyl-1-pyrroline (ACPY), and 2-ethyltetrahydropyridine (ETPY)] (Costello
+and Henschke, 2002). These molecules are recognized on the back palate (retro-nasal area)
+as a persistent aftertaste suggestive of caged mice (Grbin et al. 1996). The temperature of
+the mouth (near 36°C) associated with the pH of basic saliva neutralizes the wine’s acid pH.
+This unpleasent flavor is perceived in the mouth and is often called “mice taste” (Grbin and
+Henschke, 2000).
+The minimum population of yeast required for producing “mice taste wines” or “horsy
+wines” may account for the differences in the incidence of these two Dekkera/Brettanomyces
+spoilage phenomena. Chatonnet et al. (1995) determined that a population of 3 × 103 cells/
+mL was sufficient to produce an above-threshold concentration of 4-ethylphenol in a red
+wine, while based on the data presented by Grbin and Henschke (2000), a higher population
+could be necessary for mousy off-flavor development.
+
+2.4 Formation of Ethyl Carbamate and Biogenic Amines
+The amino acid metabolism by microorganisms can have implications on quality and safety
+of fermented food products. For bacteria, the amino acid use can increase their ability to
+obtain energy, particularly in media with nutrient limitation and in response to acid stress
+(Cotter and Hill, 2003).
+Arginine is one of the amino acids present in higher concentrations, in must and wine. The
+wine lactic acid bacteria degrade arginine by arginine deaminase pathway that involves three
+enzymes: arginine deaminase (ADI, EC 3.5.3.6), ornithine transcarbamylase (OTC, EC
+2.1.3.3), and carbamate kinase (CK, EC 2.7.2.2) (Lasik, 2013; Liu, 2002; Manca de Nadra
+et al., 2003; Mira de Orduna et al., 2001). Its degradation yields citrulline and carbamoyl
+phosphate, precursors of ethyl carbamate, a potentially carcinogenic compound. This
+compound, also referred to as urethane, results from a spontaneous chemical reaction involving
+ethanol and precursors including urea, citrulline, carbamoyl phosphate, N-carbamyl α- and
+β-aminoacids and allantoin (Ough et al., 1988a). The ethanolysis reaction of citrulline and urea
+(from the metabolism of arginine by yeasts) (Vincenzini et al., 2009) to form ethyl carbamate
+can occur at elevated temperatures or at normal storage temperatures (Ough et al., 1988a). The
+presence of the three enzymes of the ADI pathway appears to occur in most heterofermentative
+genera, Lactobacillus, Leuconostoc, and Oenococcus, although already detected in some
+homofermentative LAB species isolated from wine. However, the degradation of arginine by
+this pathway, in all species, seems to be a strain-dependent phenotype (Spano et al., 2006).
+The genes involved in the degradation of arginine are arranged in arc operon. While this
+operon structure presents variations between different species of LAB, the genes coding for
+arginine deaminase (arcA); ornithine transcarbamylase (arcB), and carbamate kinase (arcC)
+are always present (Divol et al., 2003). This operon has been described in Lactobacillus
+hilgardii (Arena et al., 2002, 2013), O. oeni (Inês, 2007; Mira de Orduna et al., 2001; Nehmé
+
+284
+
+Chapter 9
+
+et al., 2006), L. plantarum (Spano et al., 2006), and L. sake (Zuniga et al., 2002). In wine,
+prolonged contact of LAB (viable and viable but not culturable) with the yeast lees should
+be considered as a significant risk factor for the increased formation of citrulline and thus
+ethyl carbamate (Terrade and Mira de Orduna, 2006; Tonon and Lonvaud-Funel, 2000). So,
+it is not advisable to use strains of O. oeni that excrete citrulline as starter cultures. Some of
+these authors also suggest that strains having only the first pathway enzyme (ADI+, OTC–) or
+strains that have ADI but low OTC activity should be excluded in the process of selection of
+starters for the realization of MLF. According to Vincenzini et al. (2009), urea is considered
+the major precursor for urethane in wine and it can be released by wine yeasts as a metabolic
+intermediate from arginine breakdown by arginase enzyme. Urea excretion principally occurs
+during the first stages of fermentation and is potentiated by conditions of high availability of
+quickly assimilable nitrogen sources.
+The BA are organic low molecular weight bases, which can be produced and degraded
+during normal metabolic activity of animals, plants, and microorganisms (Arena and
+Manca de Nadra, 2001). In humans, these substances may play an important metabolic
+role related to growth (polyamines) or functions of the nervous and circulatory systems
+(histamine and tyramine). When BA are ingested in excess they can cause hypotension,
+hypertension, heart palpitations (vasoactive amines), headaches (psychoactive amines), and
+various allergic reactions (De las Rivas et al., 2005; Kushnereva, 2015; Lonvaud-Funel,
+2001). The BA are essentially formed from the decarboxylation of their respective precursor
+amino acids (Guerrini et al., 2002; Lasik, 2013; Lonvaud-Funel, 1999; Marcobal et al.,
+2006a,b; Vincenzini et al., 2009). Thus, amines histamine, tyramine, tryptamine, serotonin,
+2-phenylethylamine, agmatine, and cadaverine are formed from the amino acids histidine,
+tyrosine, tryptophan, hydroxytryptophan, phenylalanine, arginine, and lysine, respectively
+(Buckenhüskes, 1993; Henríquez-Aedo et al., 2016; Kalac and Krizec, 2003). The aliphatic
+volatile amines (methylamine, ethylamine, and isoamylamine) can be originated by the
+amination of nonnitrogen compounds, such as aldehydes and ketones. The putrescine may be
+formed from agmatine or ornithine and the polyamines spermidine and spermine are formed
+from putrescine by binding aminopropyl groups catalyzed by spermidine synthase and
+spermine synthase (Vincenzini et al., 2009).
+The formation of biogenic amines (BA) by BAL may occur during the fermentation processes
+of various raw materials for obtaining foods and beverages, such as cheese, sausages,
+fermented vegetables, beer, and wine. Many bacteria have decarboxylase activities, which
+promote growth and survival in acidic environments, by a pH increase. In wine, various
+amino acids can be decarboxylated and therefore BA may be found, predominating histamine,
+tyramine, putrescine, the isopentylamine, and phenylethylamine (Lonvaud-Funel, 2001;
+Moreno-Arribas et al., 2003). Although some BA can be derived directly from grapes and
+others result from the metabolic activity of the Saccharomyces and non-Saccharomyces yeast
+and acetic bacteria, BA normally increase after MLF (Landete et al., 2005; Lonvaud-Funel,
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+285
+
+2001; Pramateftaki et al., 2006; Torrea-Goni and Ancín-Azpilicueta, 2001). Results for yeast
+contribution in the BA production are very contradictory. Caruso et al. (2002) found that
+different species, such as K. apiculata, M. pulcherrima, B. bruxellensis, and S. cerevisiae
+produced 2-phenethylamine and agmatine; however, Landete et al. (2007) stated that none
+of the 36 yeast strains (belonging to 12 different species) evaluated for BA production were
+able to produce BA (histamine, tyramine, 2-phenethylamine, putrescine, cadaverine, and
+tryptamine) in synthetic medium and grape must. Among the LAB, the decarboxylase activity
+is strain-specific and within different species of Lactobacillus, Pediococcus, Leuconostoc,
+and Oenococcus is randomly distributed. In wine, however, their levels are much lower than
+those described for other foods, though ethanol can enhance the toxic effect of histamine,
+by inhibiting amino oxidases. Currently, most of the EU countries and Canada recommend
+histamine levels not exceeding 10 mg/L, while in Germany the limit is 2 mg/L. Besides their
+toxicity, at higher concentrations, BA may confer detectable unpleasant sensory changes,
+such as putrescine and cadaverine, with rotten fruit and rotten flesh aromas, respectively. The
+appearance of BA in wine has been linked to the existence of precursor amino acids, strains
+with descarboxilase activity of factors that affect the growth of these strains, as well as some
+enological practices (González-Marco and Ancín-Azpilicueta, 2006; Lonvaud-Funel, 2001;
+Martín-Álvarez et al., 2006), such as nutrient addition, prolonged contact with grape skins
+and lees (Lonvaud-Funel, 2001; Vincenzini et al., 2009) during fermentation process, because
+they can directly affect the content of the precursor amino acids of BA (Vincenzini et al.,
+2009). Red wines generally have higher contents of BA compared to pink, white, and fortified
+wines (Bover-Cid et al., 2006; Landete et al., 2005; Leitão et al., 2000).
+
+2.5 Oxidized Taint From Acetaldehyde: Grass, Green Apple, Sherry Taint
+For human health, acetaldehyde causes some concern since it is also implicated in hangovers
+and severe headaches. In wine it can impart some undesirable flavors, when above a certain
+concentration. Acetaldehyde is an intermediate product of yeast fermentation; however,
+it is more commonly associated with ethanol oxidation, catalyzed by the enzyme ethanol
+dehydrogenase. Acetaldehyde production is also associated with the presence of surface-filmforming yeasts Candida sp., Pichia sp., and Hansenula sp., S. ludwigii, and bacteria, such
+as acetic acid bacteria, which form the compound by the decarboxylation of pyruvate. The
+sensory threshold for acetaldehyde is 100–125 mg/L (Carlton et al., 2007). Beyond this level,
+it imparts a sherry-type character to the wine that can also be described as green/baked apple
+and very ripe persimmon. Only in sherry wines, the oxidation character of acetaldehyde is
+considered a typicity of the wine, and not a wine fault. In this type of wines the acetaldehyde
+concentration may reach to values closer to 500 mg/L (Zoecklein et al., 1995).
+However, wine aroma is influenced by complex interactions between various wine constituents.
+Recently, Coetzee et al. (2016) investigated the sensory interactive effects of Sauvignon Blanc
+impact compounds, 3-mercaptohexan-1-ol and 3-isobutyl-2-methoxypyrazine, Sauvignon
+
+286
+
+Chapter 9
+
+Blanc sensory markers, with acetaldehyde. They found that complex sensory interactions
+may occur between these compounds and one of the main oxidation-derived compounds,
+acetaldehyde. Acetaldehyde can enhance or suppress pleasant fruity characters depending on
+the concentration.
+
+2.6 Production of Mycotoxins
+Mycotoxins are small molecules (MW∼700), natural grape contaminants, that are very toxic
+chemical products produced as secondary metabolits by a few fungal species. The most
+important include AFs, fumonisins (FB1 and FB1), and ochratoxin A (OTA) (García-Cela et
+al., 2012; Hathout and Aly, 2014). The conditions necessary for the production of mycotoxins
+by fungal, depends on availability of nutrients, moisture, pH, temperature, and strain (Fung
+and Clark, 2004). The most dangerous mycotoxins are the AFs, which are mainly produced by
+A. flavus and A. parasiticus (Hathout and Aly, 2014). The chemical structure of AFs consists
+in a difuranocoumarin derivate produced by a polyketide pathway (García-Cela et al., 2012).
+Ochratoxins are produced by filamentous fungal species belonging to the genera Penicillium
+and Aspergillus (Caronel et al., 2011; Gil-Serna et al., 2011). This mycotoxin is a colorless
+crystalline compound. Its chemical structure consists of a dihydroisocoumarin moiety linked
+to l-β-phenylalanine by a peptide bond (García-Cela et al., 2012; Quintela et al., 2012a,
+2012b). Fumonisines were mainly produced by different strains of Fusarium (Friavad et al.,
+2007), with fumonisin B1 being the most important and chemically the diester of propane1,2,3-tricarboxylic acid and 2-amino-12,16-dimethyl-3,5,10,14,15-pentahydroxyeicosane
+(Lino et al., 2004).
+
+3 Current Methods for the Reduction of Volatile Acidity in Wines and
+Grape Musts
+Several methodologies, aiming to decrease excessive VA of acidic wines, have been proposed
+(Vilela-Moura et al., 2011): (1) microbial stabilization of the acidic wine followed by
+mixture with other wines, (2) reverse osmosis (RO) and nanofiltration, and (3) biological
+removal of acetic acid through refermentation (Ribéreau-Gayon et al., 2006b). In the first
+approach the acidic wine is blended with other wines with low acetic acid. The acidic wine
+can be sold for distillation to the ethanol industry, with economical losses for the producers.
+RO and nanofiltration, two new membrane filtration techniques, can also be used for the
+deacidification of wines. These methods produce an acetic-acid-rich permeate, which is then
+treated by ion exchange to remove the acetic acid (Boulton et al., 1996). Several corporations
+market RO systems for wine VA reduction. A Californian company (Vinovation) proposed
+coupling RO and anion exchange resins (U.S. Patent No. 08/218,920), whereas, in a second
+approach, the company “VA Filtration” proposes a combination of RO and selective
+adsorption of acetic acid, with a reduction of 30% in VA on a single pass (VA Filtration,
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+287
+
+2015). According to Massot et al. (2008), a third approach consists of the combination of two
+stages of RO, where the targeted acid of the first permeate is transferred into a salty form and
+then retained by the second stage RO membrane.
+
+3.1 Biological Deacetification of Musts and Wines
+In order to achieve wines with balanced sugar and acid contents, several approaches have
+been developed for biodeacidification; however, they are limited to the metabolism of malic
+acid (Bony et al., 1997; Husnik et al., 2007). Concerning VA, a genetically modified strain
+that decreases acetate has been obtained (Remize et al., 2000). However, such a strain will
+not be used for winemaking in the near future, due to the controversy regarding the use of
+genetically modified foods in Europe (Schuller, 2010). Abnormally high concentrations
+of acetic acid in wines can be removed by refermentation. Yeasts are able to metabolize
+acetic acid during a refermentation process (Ribéreau-Gayon et al., 2000a). Acording to
+these authors and the works by Vilela-Moura et al. (2008, 2010, and 2011), one third of
+acidic wine is mixed with two thirds of freshly crushed grapes or of the residual marc from
+the fermentation of a finished wine (remaining pulp, after draining the newly made wine),
+such that the VA of this mixture does not exceed 0.73 g/L of acetic acid. This empirical
+methodology reduces VA to values closer to 0.37 g/L of acetic acid and has relatively low
+costs (Zoecklein et al., 1995).
+3.1.1 Acetic acid catabolism in yeast
+As referred in the introduction, acetic acid in grape-must or wines can be the product of fungi,
+bacteria, or yeast metabolism. The ability of yeasts to catabolize acetic acid can be especially
+exploited to develop methods for the zymological deacidification of grape-musts or wines.
+Acetate can be used as a sole carbon and energy source for the generation of energy and
+cellular biomass under aerobic conditions (Schüller, 2003). In S. cerevisiae, acetate transport
+and metabolism are subject to glucose repression. Therefore, when grown in medium
+containing glucose and acetic acid, S. cerevisiae displays a diauxic growth with consumption
+of acetic acid only after glucose reduction (Rodrigues, 1998). However, in chemostat cultures
+of S. cerevisiae grown in mixtures of glucose and acetic acid, the glucose concentration can
+be so low that the cells are no longer repressed and can metabolize acetate concomitantly
+with glucose (dos Santos et al., 2003). This behavior is identical of the species Z. bailii, which
+displays a biphasic growth in medium containing glucose and acetic acid (Sousa et al., 1998).
+A review made by Vilela-Moura et al. (2011) discusses the catabolism of acetic acid in
+yeast, including its cellular uptake/transport, which is important to stimulate its degradation
+reducing acetic acid concentration in grape-musts and wines. In glucose-repressed yeast
+cells at low pH, where acetic acid is mostly undissociated (pKa 4.75), it enters mainly by
+simple diffusion (Casal et al., 1996). Ethanol enhances the passive influx acetic acid, which
+
+288
+
+Chapter 9
+
+follows first-order kinetics with a rate constant that increases exponentially with ethanol
+concentration (Casal et al., 1998). It is known that Jen1p is required for the uptake of lactate
+in S. cerevisiae and can also transport other monocarboxylates, including acetate (Casal et
+al., 1999). The protein Ady2p was later found to be essential for acetate transport activity in
+acetic acid-grown cells (Paiva et al., 2004). When available as the sole carbon and energy
+source, acetate is metabolized to acetyl coenzyme A (acetyl-CoA) by one of the two ACS
+proteins: Acs1p (peroxisomal) or Acs2p (cytosolic). Acetyl-CoA is then oxidized in the
+tricarboxylic acid cycle after entering mitochondria. It is also used to produce succinate
+replenishing the cell with biosynthetic precursors by entering the glyoxylate cycle (Fig. 9.9),
+which involves the key enzymes isocitrate lyase (Icl1p) and malate synthase (Mls1p) in the
+cytosol and peroxisome, respectively (Vilela-Moura et al., 2011). In addition, acetyl-CoA is
+used for synthesis of macromolecules, which requires active gluconeogenesis (Kruckeber and
+Dickinson, 2004).
+
+Figure 9.9: Cell Compartmentation of Acetate Metabolism in Yeast.
+When available as the sole carbon and energy source, acetate is metabolized to acetyl-CoA by one
+of the two ACS proteins: Acs1p (peroxisomal) or Acs2p (cytosolic). Acetyl-CoA is then oxidized in
+the tricarboxylic acid cycle after entering mitochondria. It is also used to produce succinate and
+hence replenish the cell with biosynthetic precursors by entering the glyoxylate cycle, which involves
+the key enzymes isocitrate lyase (Icl1p) and malate synthase (Mls1p) in the cytosol and peroxisome,
+respectively. In addition, acetyl-CoA is used for synthesis of macromolecules, which requires active
+gluconeogenesis (Vilela-Moura, 2010).
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+289
+
+Figure 9.10: Growth and Color Change (due to pH Changes) of the Differential Medium,
+With 0.5% (v/v) Acetic Acid, 0.05% (w/v) Glucose, and Bromocresol Green 0.005% (w/v),
+at pH 4.0, Indicating Simultaneous Consumption of Glucose and Acetic Acid by the Isolated
+Strains 30, 43, 44, and 45C.
+(A) S. cerevisiae PYCC 4072 (negative control); (B) Z. bailii ISA1307 (positive control). Adapted from
+Schuller, D., Côrte-Real, M., Leão, C., 2000. A differential medium for the enumeration of the spoilage yeast
+Zygosaccharomyces bailii in wine. J. Food Prot. 63 (11), 1570–1575; Vilela, A., Amaral, C., Shuller, D.,
+Mendes-Faia, A., Corte-Real, M., 2015. Combined use of Wallerstein and Zygosaccharomyces bailii modified
+differential media to isolate yeasts for the controlled reduction of volatile acidity of grape musts and wines. J.
+Biotechnol. Res. 6, 43–53.
+
+3.1.2 Volatile acidity bioreduction by Saccharomyces cerevisiae yeast strains
+Vilela et al. (2015) isolated several yeast strains (Saccharomyces and non-Saccharomyces) in
+Wallerstein Laboratory Nutrient Agar (WL) medium from refermentation processes of acidic
+wines, at winery scale. Among these isolates, 135 were tested for their ability to consume
+acetic acid in the presence of glucose, using a differential medium adapted of the one created
+by Schuller et al. (2000) containing acetic acid and glucose. Four isolates (Fig. 9.10) were
+obtained in this medium and were characterized by molecular methods that confirmed the
+presence of a non-Saccharomyces strain (L. thermotolarans coded as 44C) and three isolates
+of S. cerevisiae (30, 43, and 45C) (Vilela et al., 2015).
+Vilela-Moura et al. (2008) also found that consumption of glucose and acetic acid was,
+likewise, an attribute of commercial wine yeasts. They characterized nine S. cerevisiae
+
+290
+
+Chapter 9
+
+commercial strains regarding this particular physiological feature. Among the strains studied,
+S26, S29, and S30 displayed a simultaneous consumption pattern of glucose and acetic
+acid. Afterward, these strains were further assessed in simulated refermentation assays
+of acidic wines with a synthetic culture medium containing high glucose and low ethanol
+concentrations, simulating the process of refermentation with a grape-must; and low glucose
+and high ethanol concentrations, simulating the process of refermentation with a marc.
+Commercial strain S29 was the most efficient one in the simulated refermentation assay with
+must, and under low oxygen availability. Conversely, for the simulated refermentation assay
+with marc, under aerobic conditions, S26 was the most efficient acetic acid-degrading strain.
+Under limited-aerobic conditions all the S. cerevisiae strains evaluated displayed acetic acid
+degradation efficiencies identical to Z. bailii ISA 1307. Remarkably, S26 strain also revealed
+capacity to decrease 92% and 61%, the VA of wines, without the addition of grape-must or
+marcs, in aerobic and limited aerobic conditions, respectively (Vilela-Moura et al., 2008).
+3.1.3 Effects of ethanol, acetic acid, sulfur dioxide, and microoxygenation (MO) on the removal
+of volatile acidity from acidic wines by Saccharomyces cerevisiae strains
+Upon inoculation of grape-must, yeast cells need to adapt to a fermentative environment
+that gradually changes during fermentation and that imposes multiple stress conditions, such
+as high osmolarity, low pH (2.9–3.8; Pizarro et al., 2007), sulfur dioxide (SO2) presence
+between 40 and 100 mg/L (Ribéreau-Gayon et al., 2000a), ethanol toxicity (Ribéreau-Gayon
+et al., 2000a), temperature variations (Pizarro et al., 2007), and increasing nitrogen limitation
+(Martínez-Moreno et al., 2012). A refermentation process that aims to reduce excessive
+VA imposes additional stress due to elevated acetic acid concentrations that may lead to a
+reduced cellular growth, cellular death, and, consequently, to stuck fermentations (Eglinton
+and Henschke, 1999). A controlled oxygen environment is also important for yeast acetic acid
+consumption (Vilela-Moura et al., 2008).
+Controlled wine oxygenation is currently achieved through microoxygenation (MO). By
+this technique small amounts of oxygen are delivered along fermentation. Oxygen is usually
+added by a stainless steel sparger that produces small bubbles, promoting the dissolution of
+oxygen. The aim of MO is to provide oxygen at a rate equal to or slightly less than the wine’s
+oxygen consumption rate, to avoid the buildup of too much oxygen in the wine (Llaudy et al.,
+2006; Tao et al., 2007). This procedure has an impact on multiple aspects of wine production,
+such as increased production of sterols and other fatty acids by yeast (Zoecklein et al.,
+1995), removal of unwanted reductive flavors (Paul, 2002), and reduced vegetative aromas
+(McCord, 2003).
+The influence of different combinations of the initial concentration of acetic acid, ethanol,
+sulfur dioxide, and MO on acetic acid removal from acidic wines by two commercial S.
+cerevisiae strains S26 and S29 was evaluated by Vilela-Moura et al. (2010a,b). Both strains
+reduced the VA of an acidic wine [1.0 g/L acetic acid, 11% (v/v) ethanol] by 78 and 48%,
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+291
+
+respectively. Strain S26 revealed better removal efficiency due to its higher tolerance to
+stress factors imposed by acidic wines. Sulfur dioxide (SO2) in the concentration range
+95–170 mg/L inhibited the ability of both strains to reduce the VA of the acidic wine under
+the experimental conditions used. Deacidification of wines with the better performing
+strain was associated with changes in the concentration of volatile compounds. Moreover,
+deacidification led to an increased on fatty acids concentration, but still within the range of
+values described for spontaneous fermentations, and with apparently no negative impact on
+the organoleptical properties (Vilela-Moura et al., 2010a).
+Afterward, the applicability of the aforementioned characterized commercial and
+indigenous S. cerevisiae strains for the deacidification of white and red wines at a pilot
+scale was determined (Vilela-Moura et al., 2010b). The effect of the refermentation
+process, as well as MO (20 mg/Lh of oxygen applied with a MicroSafeO2) on acetic
+acid removal efficiency and wine aromatic composition was assessed in a red wine.
+The commercial strains S26 and S29 efficiently reduced both acetic acid (43 and 47%,
+respectively) and sugar (100%) after 264 h of refermentation of an acidic white wine that
+was supplemented with grape must. Similar results (60%–66% of acetic acid removal)
+were observed for red wine deacidification using grape must, independently of MO. Wines
+obtained by refermentation with the must had significantly lower acetic acid and a higher
+total SO2 concentration in comparison to the wines deacidified by the grape marcs. The
+volatile aroma compound’s composition of deacidified red wines was dependent on the
+refermentation process used, rather than on MO. The marc-deacidified wine obtained by
+the use of strain S26 and without MO achieved the best sensory classification. When data
+from all analytical and sensory evaluation were combined, principal component analysis
+separated the wines into three distinct groups according to the strain and the refermentation
+process independently of MO (Vilela-Moura et al., 2010b).
+3.1.4 Bioreduction of volatile acidity by immobilized Saccharomyces cerevisiae cells
+Cell immobilization by entrapment in beads is a technique that received increasing attention
+in recent years, resulting in a great number of applications in industry (Yamada et al.,
+2002), medicine, and agriculture (Liu et al., 2007). Compared with suspension cultures,
+this technique offers the advantages of continuous cell utilization in addition to the
+protection of immobilized cells against inhibitory substances in the fermentation medium,
+increased fermentation rates, stimulation of production, and protection from shear forces
+(Riley et al., 1990).
+Vilela et al. (2013) studied the efficiency of acetic acid removal from acidic wines by
+immobilized cells of the previously characterized commercial strain S26. The effect of
+different parameters for cellular immobilization, such as cell concentration, initial pH, and
+number/composition of the immobilization matrix on the deacidification process efficiency
+was also determined. Immobilized cells using double layer alginate-chitosan beads were
+
+292
+
+Chapter 9
+
+Figure 9.11: SEM Image of S. Cerevisiae S26 Cells, Entrapped in Double Layer (DL)
+Alginate-Chitosan Beads.
+(A) Internal yeast cells distribution of a double-layer bead with alginate 2.0% (w/v) and chitosan 1.0% (w/v) after
+deacidification at pH 3.12 (10,000×); (B) External layer (chitosan 1.0%, w/v) of a bead after deacidification,
+pH 3.12 (5,000×) (Vilela et al., 2013).
+
+able to reduce 21.6% of the initial VA of an acidic wine (1.1 g/L acetic acid) with 12.5%
+(v/v) ethanol and pH 3.5, after 72 h. Deacidification did not change after 168 h and was
+associated with a slight ethanol decrease and cell leakage from the beads. Duplication of
+initial cell concentration and pH adjustment to 3.12 lead to an increase of VA removal up to
+61.8%, depending on the initial acetic acid concentration. No cell leakage occurred during
+the process, whereas ethanol decreased slightly (0.7%, v/v). SEM analysis of immobilized
+cells confirmed these results, suggesting that the initial pH value is critical for beads integrity
+maintenance (Fig. 9.11). Thus, immobilized S26 cells in double layer alginate-chitosan beads
+appear to be an efficient alternative to improve wine quality by correction of excessive VA. In
+summary, the results mentioned earlier, are the basis to develop efficient and cheap enological
+solutions for the rectification of VA of wines using free or immobilized select yeast strains.
+
+4 Role of LAB on Wine Safety and Quality
+LAB are important since they perform the MLF reducing the wine acidity, important in
+red wines contributing to microbiological stability and sensory quality of the final product
+(Maicas, 2001; Sumby et al., 2014). Phenolic compounds, mainly phenolic acids and
+their esters and some flavonols, stimulate bacterial growth (Campos et al., 2003) and are
+metabolized during MLF, but LAB also increase the wine with new phenolic compounds not
+detected in the initial wine (Hernández et al., 2007). Consequently, it may be suggested that
+LAB could be among the factors that contribute to the antioxidant activity of wine. There are
+also LAB species with potential to hydrolyze tannins. Tannin acyl hydrolase (E.C. 3.1.1.20),
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+293
+
+commonly called tannase, catalyzes the hydrolysis of ester bonds in hydrolyzable tannins,
+such as tannic acid, thereby releasing glucose and gallic acid (Aguilar and Gutierrez-Sanchez,
+2001). This enzyme also hydrolyzes the esters bonds from polyphenols, avoiding their
+polymerization, giving a wine with a high content of aromatic compounds and appropriate
+color, increasing its quality. The tannase activity could be considered an important criterion
+for the selection of malolactic starter cultures (Buckenhüskes, 1993) since it may confer
+advantages in the winemaking process by reducing astringency and haze in wine (Vaqueres
+Vaquero et al., 2004).
+Is well known that LAB are considered health beneficial microorganisms because they are
+traditionally used in the production of fermented food and feed products, and because they
+have several well-known probiotic properties, thus being considered as GRAS (generally
+recognized as safe) microorganisms. Lately, they also began to be recognized for their ability
+to detoxify mycotoxins (Dalié et al., 2010; Salminen et al., 2010), thus being considered a
+promising solution to reduce exposure to dietary mycotoxins. This unusual LAB characteristic
+is strain specific and involves adsorption and metabolization mechanisms. Ochratoxin A (OTA)
+is one of the most prominent mycotoxins found in agricultural commodities, including wine.
+It was reported by Abrunhosa et al. (2014) that the ability of Pediococcus parvulus strains
+isolated from Douro wines that spontaneously underwent MLF to detoxify OTA. These strains
+have a potential value that can be exploited for applications in food and feed, as probiotic for
+animal nutrition, as inoculants for silages, as biocontrol agents in crop fields, as starter cultures
+for fermented products, and/or as starter cultures for wine MLFs.
+Beside OTA removal or degradation, also BA degradation is another important role of LAB
+in the destruction of metabolites of microbial origin with an impact on consumer health
+(Russo et al., 2016). BA in wine represent a toxicological risk for the health of the consumer,
+with several trade implications. Capozzi et al. (2012) isolated wine L. plantarum strains able
+to degrade BA, thus with added potential for being used as malolactic starter cultures. In a
+recent study, Callejón et al. (2014) verified a high degradative power of histamine, tyramine,
+and putrescine by wine LAB strains belonging to L. plantarum and P. acidilactici species.
+
+5 Preventive Treatments to Avoid Brettanomyces sp. Wine
+Contamination
+5.1 Sulfur Dioxide
+The most commonly used additive to control the growth of microorganisms in wine is sulfur
+dioxide (SO2). However, starting from the late 1970s, the use of sulfite in food has been
+questioned because of its allergenicity identified by the European Food Safety Authority
+(EFSA, 2004). EFSA, leading the European Union (EU), the USA, Australia, and other
+countries to implement labeling frameworks for foods containing more than 10 mg/L of this
+additive (European Union, 2011). The addition of this compound is legal and effective, and it
+
+294
+
+Chapter 9
+
+can inhibit the growth of Dekkera/Brettanomyces when the concentration of free SO2 is just
+under 20 mg/L at pH 3.6–3.7 (Chatonnet et al., 1993).
+Portugal et al. (2014) compared several antimicrobial agents, such as dimethyl dicarbonate
+(DMDC), chitosan, potassium metabisulphite (PMB), and enological tannins against
+Brettanomyces, and they verify that PMB was the most efficient antimicrobial agent in
+concentrations near the usually applied legal limits for enology. PMB efficiency was also studied
+in red wines naturally contaminated by Brettanomyces. Volatile phenols levels were quantified
+after long aging of the wines treated with PMB. The results obtained showed that there is a
+negative correlation between the concentrations of PMB employed and the concentrations of
+4-ethylphenol, 4-ethylguaiacol, 4-propylguaiacol, and Brettanomyces populations in the studied
+wine. For wine industry it was important that it was verified that 100 mg/L of total PMB could
+prevent efficiently Brettanomyces growth in the storage red wines and that volatile phenols
+concentrations were significantly (P < 0.05) higher in wines with lower levels of PMB.
+
+5.2 Chitosan
+Chitosan is a chitin-derived polysaccharide extracted from crustaceous or fungi species.
+Chitosan, the deacetylated form of chitin, is an important polyssaccharide because of the
+high density of amino groups present. In 2011, the use of chitosan in winemaking has been
+authorized by the EU (Reg. EU 53/2011) for heavy metals, iron and copper cloudiness (100
+g/hL) contaminant removal, special ochratoxin A (500 g/hL), and for control and reduction of
+undesirable Brettanomyces spp. population (10 g/hL).
+The antimicrobial activity of chitosan has been mainly explained by its positive electrical
+charge, which is incremented at acid pH and with higher chitosan degrees of deacetylation,
+so, a higher positive charge densityis directly correlated with antimicrobial effectiveness
+of chitosan (Kong et al., 2010). Portugal et al. (2014) showed that chitosan inhibitory
+effect against B. bruxellensis was identical in the presence or absence of 12.5% ethanol in
+the culture broth, where 62 mg/L of chitosan were enough to reduce 90% of yeast wine
+population (MIC50 and MIC90 were defined as the MIC, minimal inhibitory concentration,
+that inhibited 50 and 90%, respectively, of the experimental microorganisms, where MBC50
+and MBC90 means minimal biocidal concentration). In the presence of 12.5% of ethanol, the
+MIC50 was also 62 mg/L. The MBC90 value was not obtained, because it was out of range of
+chitosan concentrations used in this work. However, Gómez-Rivas et al. (2004) reported that
+it is necessary to use 6 g/L of shell crab chitosan to completely inhibit Brettanomyces growth.
+
+5.3 Dimethyl dicarbonate
+Esters of pyrocarbonic acid, diethyldicarbonate (DEDC) and dimethyldicarbonate (DMDC),
+are known since 1938 (Boehm and Mehta, 1938). DMDC due to this lower toxicicity is
+usually prefered instead of DEDC, which releases ethyl carbamate from its degradation
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+295
+
+(Schlatter and Lutz, 1990). DMDC is not a precursor of ethyl carbamate in wine, and
+therefore does not present a potential carcinogenic risk. When 200 mg/L of DMDC were
+applied to the wine, aromatic constitution was not altered (Ough, 1975). The hydrolysis of
+DMDC in wine is fast: 1 h at 30°C and 5 h at 10°C (Delfini et al., 2002). The legal limit in
+the United States, Australia, and European Union is 200 mg/L for several beverages (Costa
+et al., 2008). The antimicrobial activity of DMDC is particularly effective when the pH is
+low, and/or the concentration of DMDC and the temperature are high (Ough and Ingraham,
+1961). The microorganism’s inhibition occurs prior to complete hydrolysis. The presence of
+SO2 also increased the antimicrobial power of DMDC, even though the combination of SO2
+and other preservatives (such as sorbic acid) reduced the effect of each component (Terrel
+et al., 1993). When DMDC is hydrolized, this inhibits acetate kinase andl-glutamic acid
+decarboxylase enzymes, and the enzymes alcohol dehydrogenase and glyceraldehyde-3phosphate-dehydrogenase by methoxycarbonylation of the nucleophilic residues (imidazoles,
+amines, thiols) (Renouf et al., 2008). These authors also showed that 150 mg/L is enough
+to inhibit B. bruxellensis strains in different points of wine production: before and during
+alcoholic fermentation, before MLF, and in finished wine. In the prebottling treatment, 200
+mg/L was also efficient. Due to the need for specific dosing equipment, proper safety and
+operator training, and maintaining the guarantee of a constant dosing, applying DMDC to
+wine harbors significative cost for the industry (Boulton et al., 1996). Currently, the wineries
+rent specialized equipment, as it is less expensive than buying them.
+
+5.4 Weak Acids
+Weak acids, such as sorbic and benzoic, are used extensively as preservatives in the food
+industry, and their effects on the efficiency of thermal treatment are considered of outmost
+importance (Guerzoni et al., 1990). Hydroxycinnamic acids (HCAs) may be also considered
+as weak organic acids (Rosazza et al., 1995), and thus, their inhibition mechanism may be
+postulated to resemble that of more common weak organic acids, such as acetic acid or lactic
+acid. Under acidic conditions, undissociated weak acids, in general, diffuse through the
+lipidic plasma membrane, reaching the more alkaline environment of the cytoplasm where
+dissociation occurs. Damage to the cells follows, unless the pH is reestablished by the outpumping of H+, with energy dissipation (Warth, 1988).
+HCAs are endogenous compounds of grapes and are considered natural food preservatives,
+besides being precursors of volatile phenols. HCAs have been reported to inhibit the growth
+of a variety of organisms, including plants, fungi, and bacteria (Campos et al., 2003). The
+viability and intracellular pH changes in B. bruxellensis, in response to extracellular pH, as
+well as to the presence of an energy source and HCAs, have been investigated by means of
+fluorescent ratio imaging microscopy (FRIM) (Campolongo et al., 2014). The results obtained
+by the authors show that B. bruxellensis is able to maintain viability and increase its pH
+gradient with decreasing external pH values, whereas it is not able to maintain a pH gradient
+
+296
+
+Chapter 9
+
+at high external pH values (i.e., pH 8) and, as a consequence, dies. The growth inhibitory
+effects of ferulic and p-coumaric acid do not seem to be caused by a weak-acid inhibition
+mechanism, since both acids induce a similar, or even higher, intracellular acidification
+at a high external pH than at a low external pH. However, the results presented have to
+be confirmed by using other strains of B. bruxellensins in order to validate the outcomes
+obtained in these studies.
+
+5.5 Enological Tannins
+It is usually accepted that tannins can react with proteins, provoking precipitation of large
+macromolecular aggregates in wine, mostly established by hydrophobic interactions and
+hydrogen bonds. The antimicrobial activity of the tannins is related with those characteristics,
+that is, it increased in the presence of ethanol (Portugal et al., 2014), once ethanol changed
+the dielectric constant and modified hydrogen bonds, thus provoking cell flocculation and
+changing the membrane properties (Soares, 2011). The presence of 12.5% ethanol in the
+culture broth decreases substantially the quantity of tannins required to inhibit 50 and 90% of
+B. bruxellensis strains (Portugal et al., 2014). Because of this, both MIC50 and MIC90 (MIC50
+and MIC90 were defined as the MIC that inhibited 50% and 90%, respectively, of the tested
+microorganisms, and an analogous definition was used for minimal biocidal concentration,
+MBC50 and MBC90), lowered, respectively, from 0.5–1 to 0.12 mL/L. Tannins showed large
+biocidal activity affecting 50% of the tested strains at a dosage of 0.25 mL/L in the presence
+of 12.5% ethanol; however, the MBC90 value was above the legal limit (0.4 mL/L) for the
+application of commercial enological tannins against B. bruxellensis in winemaking.
+
+5.6 Reduction of Ethylphenol Precursors in Red Wines via the Formation
+of Pyranoanthocyanins
+Brettanomyces is able to produce from grape HCAs the vinylphenol (VPh) and ethyl
+phenols (EPs) in two enzymatic steps. First the HCAs are decarboxilated to vinylphenols
+by hydroxycinnamate decarboxilase (HCDC) enzyme, which is reduced to ethyl phenols by
+vinylphenol reductase (Chatonnet et al., 1995) (Figs. 9.7 and 9.8).
+It is possible to reduce precursors of EPs using HCDC + Saccharomyces yeasts during
+fermentation to release VPs (Suárez-Lepe and Morata, 2012). These compounds are able to
+rapidly react with grape anthocyanins forming vinylphenolic pyranoanthocyanins (VPAs)
+(Morata et al., 2006). VPAs are stable pigments under winemaking conditions (Bakker and
+Timberlake, 1997), decreasing at the same time the amount of EP precursors. There are only
+a few amounts of hydroxycinnamic in grapes, as free acids or sterificated with tartaric acid,
+these last ones can be slowly hydrolyzed in acidic polar media as wine. HCAs can increase
+during the barrel ageing raising the precursors for EPs. Natural hydrolysis can be accelerated
+using prior-to-fermentation cinnamyl esterases enzymes. These enzymes rapidly release
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+297
+
+HCAs, then HCDC + S. cerevisiae strains transform HCAs in VPs by an enzymatic process.
+At the end, VPs are able to react chemically with grape anthocyanins yielding VPAs. This
+enzymatic-biological–chemical mechanism globally reduces the precursors for EPs (Morata
+et al., 2013).
+
+5.7 Pulsed Electric Field (PEF)
+Pulsed electric field (PEF) technology constitutes one of the most novel technologies for the
+pasteurization of foods due to its ability to inactivate pathogenic and spoilage microorganisms
+at room temperature, without modifying the quality of food (Martín-Belloso and SobrinoLópez, 2011). Strong electric fields ranging from 26 to 35 kV/cm are produced in 1–4 µs pulses
+between two electrodes contacting the product (Garde-Cerdán et al., 2007). Short-duration
+high-intensity field strengths cause the electroporation of cell membranes and an increase in
+their permeability (Zimmerman, 1986). Cell death is achieved as dielectric breakdown increases
+permeability of the cytoplasmic and nuclear membranes, leading to cell lysis (Puértolas et
+al., 2010). Although PEF processing is effective against most microorganisms, yeasts tend to
+be more sensitive than bacteria (Marselles-Fontanet et al., 2009). PEF has been investigated
+as a means to reduce microbial contamination in wines (Santos et al., 2012). Puértolas et al.
+(2009a,b) reported that PEF treatment reduced populations of B. bruxellensis by 99.9% in both
+grape must and wine. Among yeast, B. bruxellensis in must and S. bayanus in wine were the
+most sensitive microorganisms, and D. anomala was the most PEF resistant independently of
+the medium. The wine obtained from PEF-treated grapes was similar to the control wine from a
+sensory point of view (Puértolas et al., 2010).
+
+5.8 Low Electric Current (LEC)
+Low electric current (LEC) is a treatment that involves the application of direct current
+voltage pulses for very short periods of time, in the range between microseconds to
+milliseconds, through a material placed between two electrodes. This voltage results in
+an electric field, the intensity of which depends on the gap between the electrodes and the
+voltage delivered (Puértolas et al., 2012). The possibility of applying low-intensity electricity
+has been studied because of its effects on viable microflora and related microbial interactions
+(Bawcom et al., 1995; Rajnicek et al., 1994; Shi et al., 1993). In fact, the application of
+external electric fields to biological cells causes alteration in the membrane structure, leading
+to pore formation. Under mild pulsation conditions, membrane pore formation is reversible,
+whereas more drastic conditions lead to the irreversibility of the phenomenon that eventually
+results in cell death (Weaver and Chizmadzhev, 1996). Current is generally applied to the
+product at less than 200 mA over the period of several days to several months (Lustrato et
+al., 2010; Palaniappan et al., 1992). Microbial inactivation is caused by electrical breakdown
+in the membrane’s lipid bilayer (Lustrato et al., 2003). Increasing this current resulted in
+
+298
+
+Chapter 9
+
+a direct relationship with reduced membrane integrity and metabolic activity (Lustrato
+et al., 2003; Ranalli et al., 2002). Lustrato et al. (2010) applied LEC to contaminated red
+wine and concluded that a 200 mA treatment over a 60-day interval reduced B. bruxellensis
+populations by over six logs. The effects of LEC in controlling yeast spoilage were found to
+be comparable with those of adding SO2. Lustrato et al. (2006) reported that wine fermented
+using LEC was not organoleptically different from wine fermented using SO2. In contrast,
+Nakanishi et al. (1997) observed that wine fermented using a 100 mA treatment had overall
+greater final concentrations of higher alcohols, esters, some organic acids, and acetaldehyde.
+
+6 Reduction of 4-Ethylphenol and 4-Ethylguaiacol Using Fining Agents
+6.1 Classic Enological Products: Bentonite, Activated Carbon, and PVPP
+Fining agents have to be removed from wine as they are not additives but technological
+adjuvants. Most fining agents react within seconds and the contact time between the
+fining agent and the wine should be as short as possible. Activated carbon and PVPP
+can be filtered out immediately or a few hours after fining. At the opposite, formation of
+flocculates requires a few days when proteins are used (depending on wine temperature) and
+they require a week or two to settle. If the electrical charge is opposite of the particles in
+suspension, neutralization and adsorption may occur. In most cases, the fining agent adsorbs
+the suspended material and exerts some clarifying action by virtue of formation of particles
+of high density, thus increasing filterability (Marchal and Jeandet, 2009). Some enological
+products, such as bentonite, PVVP, and activated carbon, used at many years in the wine
+industry, could remove partially the “Brett character” from wine (Table 9.2).
+
+6.2 Yeast Cell Walls
+Yeast cell walls, yeast hulls, and lees have been used in wine as biosorbents of undesirable
+molecules. Sites for the interaction between different molecules and yeast are located on
+the yeast wall. Yeast walls may bind undesirable compounds present in must that are toxic
+for cells and they might provoke a stuck fermentation (medium-chain saturated fatty acids)
+(Lafon-Lafourcade et al., 1984).
+The yeast cell wall is composed of a three-dimensional internal skeletal layer of 1,3-β-glucan
+and 1,6-β-glucan (30%–40% of wall mass) stabilized by hydrogen bonds. Other important
+components of the yeast cell wall are the mannoproteins (30%–40% of wall mass), which
+are the most highly exposed cell-wall molecules, and these may therefore form sorption sites
+(Pradelles et al., 2008). 4-Ethylguaiacol and 4-ethylphenol show a fast sorption process,
+indicating that they become fixed to the functional groups of the molecules that cover the
+surface of the yeast walls (Nieto-Rojo et al., 2014). These authors showed, in synthetic wine,
+that the sorption ability of yeast cell walls for 4-EG is greater and with a faster kinetics than
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+299
+
+Table 9.2: Reduction of ethylphenols by activated carbon, PVPP, and yeast cell walls.
+Enological Dosage
+Product
+(g/hL)
+
+Matrix
+
+Before Treatment After Treatment (µg/L, %) Analysis
+4-EP
+4-EG
+4-EP
+4-EG
+Methods
+
+Activated
+carbon
+
+20
+
+Red wine 539
+
+46
+
+442 (18%)
+
+41 (11%)
+
+Activated
+carbon
+
+80
+
+Red wine 1500
+
+300
+
+58%
+
+56%
+
+Activated
+carbon
+
+20
+
+White
+wine
+
+250
+
+1803 (27%)
+
+185 (26%)
+
+PVPP
+
+80
+
+Red wine 539
+
+46
+
+481 (11%)
+
+—
+
+PVPP
+
+50
+
+Red wine 1500
+
+300
+
+4.4%
+
+—
+
+Yeast cell
+walls
+
+500
+
+Synthetic —
+wine
+
+—
+
+21.7 (%)
+
+47.8 (%)
+
+Yeast cell
+walls
+
+500
+
+Synthetic 1000
+wine
+
+1000
+
+920 (8%)
+
+956 (4.4%)
+
+2470
+
+Authors
+
+n-Pentane,
+GC/MS-SIM
+
+Lisanti
+et al.
+(2008)
+n-Pentane/
+Milheiro
+diethyl ether, et al.
+GC/MS-SIM (2016)
+n-Pentane,
+Lisanti
+GC/MS-SIM et al.
+(2008)
+n-Pentane,
+Lisanti
+GC/MS-SIM et al.
+(2008)
+SPME, GC/
+Milheiro
+MS-SIM
+et al.
+(2016)
+SPE, GC/MS NietoRojo et al.
+(2014)
+SPE, GC/MS JiménezMoreno
+and AncínAzpilicueta
+(2009)
+
+PVPP, Polyvinylpolypyrrolidone.
+
+for 4-EP; however, the bonds are weaker than in the case of 4-EP. The capacity of yeast cell
+wall on reduction or mitigation of 4-EP and 4-EG can be observed in Table 9.2.
+
+6.3 Cellulose Acetate
+The complex carbohydrate cellulose, being the basic structural component of the plant cell
+wall, is the most abundant polymer in nature. In the primary structure, glucose units are
+attached together by β-1,4 linkages forming a long chain (microfibril). These chains are able
+to form intramolecular hydrogen bonds together, producing a cellulose fiber with unique
+properties in terms of mechanical strength and chemical stability, and also able to form a
+large number of hydrogen bonds on its surface, along with other molecules. The substitution
+of acetyl, propyl, and butyl groups for OH cellulose groups leads to materials, such as
+cellulose acetate (CA; CAS 9004-35-7), cellulose acetate propionate (CAP; CAS 9004-391), cellulose acetate butyrate (CAB; CAS 9004-36-8), and cellulose propionate (CP; CAS
+9004-48-2). The presence of acetyl, propyl, and butyl groups leads to cellulose derivatives
+that can be effectively dissolved by solvents, such as acetone (Allen and Bevington,
+
+300
+
+Chapter 9
+
+1989). The ability of cellulose acetate, cellulose acetate propionate (CAP), cellulose
+acetate butyrate (CAB), and cellulose propionate (CP) fibers to reduce 4-ethylphenol and
+4-ethylguaiacol was tested by Larcher et al. (2012). CAP and CP performed best in a
+preliminary comparative test. CAP effectiveness was studied in relation to the reduction in
+volatile phenols with doses of up to 20 g/L and wine contact times of up to 60 min. Using
+4 g/L, reduction of both phenols was, on average, 31%–32% in defective red wines. Wine
+treatment affected neither color nor total proanthocyanidins and catechins, and wines were
+judged to be better than the corresponding spoiled controls. CAP fiber can be regenerated
+by washing with ethanol or aqueous solution (pH 12), without notable changes in depletion
+efficiency. The technological characteristics of CAP and, to a lesser extent, CP offer
+interesting prospects for producing filtration beds, pads, and membranes for the treatment of
+wines and beverages affected by “Brett character”.
+
+6.4 Polyaniline-Based Materials (PANI-EB and PANI-ES)
+One group of compounds with potential applications in several fields, including the
+removal of unwanted substances from food and beverages, is the polyaniline (PANI)-based
+materials. PANI has been used in the development of transistors, switches, electrochemical
+actuators, and lightning protection (Marican et al., 2014). The polyaniline-based polymers
+exist in several forms, the most stable of which are the emaraldine states (i.e., emeraldine
+salt, ES and emeraldine base, EB). They have been synthesized in high yields in aqueous
+medium, are stable at high temperatures and pH, and are not metabolized by common
+microorganisms (Ashley et al., 2011). The reason is possibly based on the fact that
+PANI has often been regarded with caution because its reaction intermediates (aniline,
+dimers, and oligomers) are aromatic amines that can be physiologically active or even
+harmful (Yslas et al., 2012). PANI is relatively inexpensive, easy to synthesize, has good
+environmental stability, and shows interesting redox properties associated with the nitrogen
+chain. The ability of polyaniline-based materials (PANI-EB and PANI-ES) was tested
+as a potential fining agent for the removal of 4-EG in wine. First, a screening study was
+developed in order to determine the binding capacity of 4-EG by PANI materials in 12%
+ethanol solution. Then, the capturing ability of PANI against 4-EG was evaluated with a
+solution containing gallic acid (GA), 4-methyl-catechol (4-MC), in which the concentration
+of the phenolic compounds were maintained as in the real wine. The results obtained by
+Yslas et al. (2012) showed that the retention percentage varied from 0% to 100% (4-EG),
+13.81% to 72.32% (GA), and 0% to 17.39% (4-MC), depending on the interaction time and
+amount of the PANI used. Finally, the capturing capacity of PANI-EB and PANI-ES against
+4-EG was evaluated in a real wine sample containing originally 3.10 mg/L of 4-EG and
+2.55 g/L of other total phenolic compounds. The analysis performed indicated that PANIEB is more effective in removing 4-EG than PANI-ES, with retention percentages varying
+between 36% and 50%.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+301
+
+6.5 Cyclodextrins
+Cyclodextrins (CDs) are carbohydrates composed of α-1,4-linked glucopyranose, also called
+glucose units, where the glucopyranose molecules are arranged to form a ring that looks like a
+bottomless bucket (Botelho et al., 2011). The outer side of this ring has a molecular structure
+that gives it solubility in water (as other simple carbohydrates), while the inside repels water,
+favoring molecules that are insoluble in water. These molecules, dissolved or dispersed in
+water, have a preference for being in the cavity rather than in water (Duchene et al., 2003).
+When the host molecules are in the cavity, it is not covalent forces that prevent them from
+leaving, but atomic (Van der Waals), thermodynamic (hydrogen bonding), and solvent
+(hydrophobic) forces in the hydrophobic environment of the CD cavity (Astray et al.,
+2009). These links can be destroyed easily by heating, pH changing, and other factors. A
+complex can be formed if a balance exists between the relative concentrations of the CD
+and the potential guest chemical. The rate at which the associated complex is formed is
+determined by the accessibility of the guest molecule to the CD cavity and the magnitude
+of the thermodynamic driving force. Hydrophobic guest molecule is removed from the
+aqueous environment, while water molecules previously associated in the CD cavity return
+into aqueous environment; that’s why this binding is energetically favorable (Singh et al.,
+2002).
+According to these preliminary results obtained by Botelho et al. (2011), the concentration of
+11.52 g/L of β-CD (ratio of 2:1) was enough to remove the off-odors caused by 4-ethylphenol
+or 4-ethylphenol + 4-ethylguaiacol in a red wine by sensorial analysis. Furthermore,
+the addition of β-CD to red wine increased significantly the color intensity and the total
+polyphenols index.
+
+7 Prevention of Biogenic Amines Formation During Winemaking
+As mentioned earlier, BA origin and levels in wines is a multifactorial problem, starting
+from agricultural practices to the winemaking technology (Ancín-Azpilicueta et al., 2008;
+Del Prete et al., 2009). In order to reduce the presence of BA in vine-based products, the
+International Organization of Vine and Wine (OIV) published the “OIV Code of Good
+Vitivinicultural Practices.” According the OIV Guide (2011), the actions in vineyards and
+cellars favoring the presence of BA in wines are: soil, nitrogenous fertilization, poor state of
+health of the grapes combined with mold, a high must pH, and development of certain yeasts
+during alcoholic fermentation. Also the levels of BA in wines are significantly increased by
+LAB during MLF (Ancín-Azpilicueta et al., 2008). According to Callejón et al. (2014), there
+are three main ways of diminishing the BA formation: preventing the growth of spoilage
+bacteria, reducing the concentration of amino acid precursors, and inoculating starter cultures
+without amino acid decarboxylases.
+
+302
+
+Chapter 9
+
+7.1 Methods for Reduction of Formed BA in Wines
+Fining of finished wines with bentonite, either calcium, sodium-calcium, or sodium form
+are able to reduce the content of BA in wines (Binner et al., 2013; Grossmann et al., 2007;
+Kallay and Body-Szalkai, 1996; Mannino et al., 2006). The efficiency of removal was
+dependent on the bentonite dose used with a reduction of 40% at 100 g/hL of bentonite for a
+BA content of 25 mg/L (Mannino et al., 2006), nevertheless high bentonite doses can impact
+negatively on the sensorial and chromatic characteristics of wine. To overcome this problem,
+the previous addition of ellagic tannins to wine can decrease the amount of bentonite needed
+(reduction to 20 g/hL obtaining the same results of 60 g/hL of bentonite only) (Mannino et
+al., 2006). Nevertheless, when fining is applied to the must, the decrease of BA in the final
+wine is higher (80% decrease for must treatment compared to 40% obtained for the wine
+treatment (Binner et al., 2013; Grossmann et al. 2007), and besides the decrease observed
+for bentonite, other fining agents, such as potassium caseinate, gelatin, and activated carbons
+also have an effect on the BA levels in the final wine (Grossmann et al., 2007). Recently
+the use of commercial zirconium phosphate in the sodium form showed strong adsorbent
+activity for histamine and putrescine (Amghouz et al., 2014). The use of material with high
+selectivity for the BA can be a good technology to reduce the BA levels in wines after the
+fermentation.
+
+7.2 Methods for Degrading Formed BAs
+Another alternative for the reduction of BA levels in wines is its degradation by the use of
+microorganisms or enzyme preparations. Garcia-Ruiz et al. (2011) studied the ability of
+diverse LAB strains for their ability to degrade hitamine, tyramine, and putrescine. They
+observed that 25% of the strains were able to degrade histamine and 18% were able to
+degrade tyramine and putrescine. Two L. plantarum biotypes of twenty-six strains were
+able to synergistically reduce BA levels with higher efficiency (Capozzi et al., 2012). This
+reduction of BA by bacteria was attributed to the presence of amine oxidase activity. The
+use of enzyme preparation presenting amine oxidase activity instead of the cells has been
+also studied (Callejón et al., 2014; Sekiguchi et al., 2004), although their efficiency has been
+limited by the low wine pH and also the complex wine matrix.
+
+8 Ethyl Carbamate Mitigation
+The presence of ethyl carbamate in wines is mainly related to the formation of urea by yeasts,
+where its excretion and utilization during alcoholic fermentation is governed mainly by the
+yeast strain used and environmental conditions, that after reaction with ethanol results in this
+potential toxic product (Ough et al., 1988b). So, important parameters for the postfermentative
+formation of ethyl carbamate are the concentration of ethanol, urea, citrulline, temperature,
+and time of storage (Hasnip et al., 2004). A less important parameter is the levels of carbamyl
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+303
+
+phosphate produced by yeasts, and in addition, daylight exposure doesn’t seem to be related
+with ethyl carbamate formation (Tegmo-Larsson and Spittler, 1990). At present, only
+preventive treatments have been found to be efficient for the reduction of ethyl carbamate
+levels in wines. Principal among these has been a series of preventative actions drawn from
+scientific research and produced jointly by U.C. Davis, the Wine Institute, and the US Food
+and Drug Administration (Butzke and Bisson, 1997). These actions covering best practices
+in viticulture, juice nutrient status, yeast strains and LAB, urease application, sur lie aging,
+distillation, and shipment and storage have helped US wine growers and distillers to control
+the formation of ethyl carbamate in their products. On the other hand, legislation authorizes
+the use of an enological additive, the enzyme urease, in wines with high urea levels. The
+urease used is isolated from L. fermentum. This enzyme has been effective on urea at doses of
+50 mg/L in red wines and at doses of 25 mg/L in white wines (Bertrand, 1997).
+
+9 Application of Fining Agents to Reduce OTA Concentration from Wine
+According to the European Commission Regulation (EC) No. 123/2005 the maximum limit
+for OTA in wine is 2 µg/kg [Commission Regulation (EC) No. 123/2005]. Therefore, it is
+important to prevent and control their occurrence in wines. In general red wines comprise
+greater OTA concentration than white, which is related with the vinification process of
+red wines, namely with the maceration operation. With the purpose to remove this toxin,
+several adsorvents (potassium caseinate, activated carbon, bentonite, egg albumin, gelatin,
+and polyvinylpolypyrrolidone) have been described in the literature by several researchers,
+such as Castellari et al. (2001), Kurtbay et al. (2008), Quintela et al. (2012a, 2012b), in
+order to study the removal of OTA from contaminated wine. The application of the different
+fining agents aims to assess their ability to firmly bind and immobilize the mycotoxin. The
+outcomes obtained in the different studies showed that the efficiency in the removal of OTA
+from the wine is influenced by several factors, such as the wine OTA concentration, the fining
+agent applied, in addition to its type and dosage.
+
+10 Final Remarks
+Yeast and bacterial meeting the best enological characteristics and the optimization of fining
+and technological treatments are the future steps to produce quality wines, promoting human
+health and enjoyment, with benefits to the palatability of wines.
+
+References
+Abrunhosa, L., Inês, A., Rodrigues, A.I., Guimarães, A., Pereira, V.L., Parpot, P., Mendes-Faia, A., Venâncio,
+A., 2014. Biodegradation of ochratoxin A by Pediococcus parvulus isolated from Douro wines. Int. J. Food
+Microbiol. 188 (1), 45–52.
+Aguilar, C.N., Gutierrez-Sanchez, G., 2001. Review: sources, properties, applications and potential uses of tannin
+acylhydrolase. Food Sci. Technol. Int. 7, 373–382.
+
+304
+
+Chapter 9
+
+Allen, G., Bevington, J.C., 1989. Comprehensive Polymer Science: The Synthesis, Characterization, Reactions,
+and Applications of Polymers. Pergamon Press, New York.
+Amerine, M., Kunker, R.E., 1968. Microbiology of winemaking. Annu. Rev. Microbiol. 22, 323–358.
+Amghouz, Z., Ancn-Azpilicueta, C., Burusco, K.K., et al., 2014. Biogenic amines in wine: individual and
+competitive adsorption ona modified zirconium phosphate. Micropor. Mesopor. Mat 197, 130–139.
+Ancín-Azpilicueta, C., González-Marco, A., Jiménez-Moreno, N., 2008. Current knowledge about the presence of
+amines in wine. Crit. Rev. Food Sci. 48, 257–275.
+Arena, M.E., Lisi, M.S., Manca de Nadra, M.C., Alberto, M.R., 2013. Wine composition plays an important role
+in the control of carcinogenic precursor formation by Lactobacillus hilgardii X1B. J. Sci. Food Agric. 93,
+142–148.
+Arena, M., Manca de Nadra, M., 2001. Biogenic amine production by Lactobacillus. J. Appl. Microbiol. 90,
+158–162.
+Arena, M., Manca de Nadra, M., Munoz, R., 2002. The arginine deiminase pathway in the wine lactic acid
+bacterium Lactobacillus hilgardii X1B: structural and functional study of the arcABC genes. Gene 301,
+61–66.
+Ashley, P.C., Joseph, M.J., Mohanan, P.V., 2011. Activity of diastase α-amylase immobilized on polyanilines
+(PANIs). Food Chem. 127, 1808–1813.
+Astray, G., Gonzalez-Barreiro, C., Mejuto, J.C., Rial-Otero, R., Simal-Gandara, J., 2009. A review on the use of
+cyclodextrins in food. Food Hydrocoll. 23 (7), 1631–1640.
+Bakker, J., Timberlake, C.F., 1997. Isolation, identification, and characterization of new color-stable anthocyanins
+occurring in some red wines. J. Agric. Food Chem. 45, 35–43.
+Bartowsky, E.J., 2009. Bacterial spoilage of wine and approaches to minimize it. Lett. Appl. Microbiol. 48 (2),
+149–156.
+Bartowsky, E.J., Henschke, P.A., 2008. Acetic acid bacteria spoilage of bottled red wine: a review. Int. J. Food
+Microbiol. 125 (1), 60–70.
+Bawcom, D.W., Thompson, L.D., Miller, M.F., Ramsey, C.B., 1995. Reduction of microorganisms of beef surfaces
+utilizing electricity. J. Food Prot. 58, 35–38.
+Bertrand, A., 1997. Le Carbamate D’ethyle dans les Vins, Observations sur Son Origine, Possibilit´e d’en
+Diminuer la Teneur. Rapport OIV. Décembre.
+Binner, A., Smit, I., Loehnertz, O., Linsenmeier, A., Grossmann, M., Treutter, D., 2013. Influence of enological
+measures on biogenicamines in wine. Mitteilungen Klosterneuburg 63, 139–158.
+Boehm, T., Mehta, D., 1938. Ester der Pyrokohlensaure. Berichte 17, 1797.
+Bony, M., Bidart, F., Camarasa, C., Ansanay, V., Dulau, L., Barre, P., Dequin, S., 1997. Metabolic analysis of S.
+cerevisiae strains engineered for malolactic fermentation. FEBS Lett. 410, 452–456.
+Botelho, G., Valiau, C., Moreira da Silva, A., 2011. Effect of cyclodextrins on off-odors removal of red wine: an
+innovative aproach. Ciência Téc. Vitic 26 (2), 63–68.
+Boulton, R.B., Singleton, V.L., Bisson, L.F., Kunkee, R.E. (Eds.), 1996. Principles and Practices of Winemaking.
+first ed. Chapman & Hall, New York, USA.
+Bover-Cid, S., Iquierdo-Pulido, M., Mariné-Font, A., Vidal-Carou, M., 2006. Biogenic mono-, di- and polyamine
+contents in Spanish wines and influence of a limited irrigation. Food Chem. 96, 43–47.
+Buckenhüskes, H.J., 1993. Selection criteria for lactic acid bacteria to be used as starter cultures for various food
+commodities. FEMS Microbiol. Rev. 12, 253–272.
+Butzke, C.E., Bisson, L.F., 1997. Ethyl Carbamate Preventative Action Manual, US Food and
+Drug Administration, Washington, DC. Available from: http://www.fda.gov/downloads/Food/
+FoodborneIllnessContaminants/UCM119802.pdf.
+Callejón, S., Sendra, R., Ferrer, S., Pardo, I., 2014. Identification of a novel enzymatic activity from lactic acid
+bacteria able to degrade biogenic amines in wine. Appl. Microbiol. Biotechnol. 98 (1), 185–198.
+Campolongo, S., Siegumfeldt, H., Aabo, T., Cocolin, L., Arneborg, N., 2014. The effects of extracellular pH and
+hydroxycinnamic acids influence the intracellular pH of Brettanomyces bruxellensis DSM 7001. LWT—Food
+Sci. Technol. 59, 1088–1092.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+305
+
+Campos, F.M., Couto, J.A., Hogg, T.A., 2003. Influence of phenolic acids on growth and inactivation of
+Oenococcus oeni and Lactobacillus hilgardii. J. Appl. Microbiol. 94, 167–174.
+Capozzi, C., Russ, P., Ladero, V., Fernández, M., Fiocco, D., Alvarez, M., Grieco, F., Spano, G., 2012. Biogenic
+amines degradation by Lactobacillus plantarum: toward a potential application in wine. Front. Microbiol.
+Food Microbiol. 3 (122), 1–6.
+Carlton, W.K., Gump, B., Fugelsang, K., Hasson, A.S., 2007. Monitoring acetaldehyde concentrations during
+micro-oxygenation of red wine by headspace solid-phase microextraction with on-fiber derivatization. J.
+Agric. Food Chem. 55, 5620–5625.
+Caronel, M.B., Marin, S., Cano, G., Ramos, A.J., Sanchis, V., 2011. Ochratoxin A on Spanish retail ground rosted
+coffee: occurrence and assessment of the expousure in Catalonia. Food Control 22 (2-3), 414–419.
+Caruso, M., Fiore, C., Contursi, M., Salzano, G., Paparella, A., Romano, P., 2002. Formation of biogenic amines
+as criteria for selection of wine yeasts. World J. Microbiol. Biotechnol. 18, 159–163.
+Casal, M., Cardoso, H., Leão, C., 1996. Mechanisms regulating the transport of acetic acid in Saccharomyces
+cerevisiae. Microbiology 142, 1385–1390.
+Casal, M., Cardoso, H., Leão, C., 1998. Effects of ethanol and other alkanols on transport of acetic acid in
+Saccharomyces cerevisiae. Appl. Environ. Microbiol. 64, 665–668.
+Casal, M., Paiva, S., Andrade, R.P., Gancedo, C., Leão, C., 1999. The lactate-proton symport of Saccharomyces
+cerevisiae is encoded by JEN1. J. Bacteriol. 181, 2620–2623.
+Castellari, M., Versari, A., Fabiani, A., Parpinello, G.P., Galassi, S., 2001. Removal of ochratoxin A in red wines
+by means of adsorption treatments with commercial fining agents. J. Agr. Food. Chem. 49, 3917–3921.
+Cavin, J.F., Andioc, V., Etievant, P., Diviès, C., 1993. Ability to wine lactic acid bacteria to metabolize phenol
+carboxylic acids. Am. J. Enol. Viticult. 44, 76–80.
+Chatonnet, P., Boidron, J., Dubourdieu, D., 1993. Infuence des conditions d’élevage etde sulfitage des vins rouges
+en barriques sur le teneur en ácide acétique et ethylphenols. J. Int. Sci. Vigne Vin 27, 277–298.
+Chatonnet, P., Boidron, J., Pons, M., 1990. Elevage des vins rouges en fûts de chêne: évolution de certains
+composés volatils et de leur impact arômatique. Sci. Aliment. 10, 587–656.
+Chatonnet, P., Coralie, V., Dubourdieu, D., 1997. Influence of polyphenolic components of red wines on the
+microbial synthesis of volatile phenols. Am. J. Enol. Viticult. 48, 443–448.
+Chatonnet, P., Dubordieu, D., Boidron, J., 1995. The influence of Brettanomyces/Dekkera sp. yeasts and lactic acid
+bacteria on the ethylphenol content of red wines. Am. J. Enol. Viticult. 46, 463–468.
+Chatonnet, P., Dubourdieu, D., Boidron, J.N., Pons, M., 1992. The origin of ethylphenols in wine. J. Sci. Food
+Agric. 60, 165–178.
+Ciani, M., Maccarelli, F., 1998. Oenological properties of non-Saccharomyces yeasts associated with winemaking. World J. Microbiol. Biotechnol. 14, 199–203.
+Claisse, O., Lonvaud-Funel, A., 2001. Detection de bactéries lactiques produisant du 3-hydroxypropionaldehyde
+(precurseur d’acroleine) à partir du glycerol par tests moléculaires. Lait 81, 173–181.
+Cliff, M.A., Pickering, G.J., 2006. Determination of odor detection thresholds for acetic acid and ethyl acetate in
+ice wine. J. Wine Res. 17 (1), 45–52.
+Cocolin, L., Rantsiou, K., Iacumin, L., Zironi, R., Comi, G., 2004. Molecular detection and identifcation of
+Brettanomyces/Dekkera bruxellensis and Brettanomyces/Dekkeraanomalus in spoiled wines. Appl. Environ.
+Microbiol. 70 (3), 1347–1355.
+Coetzee, C., Brand, J., Jacobson, D., Du Toit, W.J., 2016. Sensory effect of acetaldehyde on the perception of
+3-mercaptohexan-1-ol and 3-isobutyl-2-methoxypyrazine. Aust. J. Grape Wine Res. 22 (2), 197–204.
+Costa, A., Barata, A., Malfeito-Ferreira, M., Loureiro, V., 2008. Evaluation of the inhibitory effect of dimethyl
+dicarbonate (DMDC) against wine microorganisms. Food Microbiol. 25, 422–427.
+Costello, P.J., Henschke, P.A., 2002. Mousy off-flavour of wine: precursors and biosynthesis of the causative Nheterocycles 2-ethyltetrahydropyridine, 2-acetyltetrahydropyridine, and 2-acetyl-1-pyrroline by Lactobacillus
+hilgardii DSM 20176. J. Agric. Food Chem. 50, 7079–7087.
+Cotter, P., Hill, C., 2003. Surviving the acid test: responses of gram-positive bacteria to low pH. Microbiol. Mol.
+Biol. Rev. 67, 429–453.
+
+306
+
+Chapter 9
+
+Couto, J.A., Barbosa, A., Hogg, T., 2005. A simple cultural method for the presumptive detection of the yeasts
+Brettanomyces/Dekkera in wines. Lett. Appl. Microbiol. 41, 505–510.
+Couto, J.A., Campos, F., Figueiredo, R., Hogg, T., 2006. Ability of lactic acid bacteria to produce volatile phenols.
+Am. J. Enol. Viticult. 57, 166–171.
+Crowell, E.A., Guymon, J.F., 1975. Wine constituents arising from sorbic acid addition, and identification of
+2-ethoxyhexa-3,5-diene as source of geranium-like off-odor. Am. J. Enol. Viticult. 26, 97–102.
+Dalié, D.K.D., Deschamps, A.M., Richard-Forget, F., 2010. Lactic acid bacteria: potential for control of mold
+growth and mycotoxins: a review. Food Control 21, 370–380.
+De las Rivas, B., Marcobal, A., Munoz, R., 2005. Improved multiplex-PCR method for the simultaneous detection
+of food bacteria producing biogenic amines. FEMS Microbiol. Lett. 244, 367–372.
+Del Prete, V., Costantini, A., Cecchini, F., Morassut, M., Garcia-Moruno, E., 2009. Occurrence of biogenic amines
+in wine: the role of grapes. Food Chem. 112, 474–481.
+Delfini, C., Costa, A., 1993. Effects of the grape must lees and insoluble materials on the alcoholic fermentation
+rate and on the production of acetic acid, pyruvic acid and acetaldehyde. Am. J. Enol. Viticult. 44, 86–92.
+Delfini, C., Gaia, P., Schellino, R., Strano, M., Pagliara, A., Ambro, S., 2002. Fermentability of grape must after
+inhibition with dimethyl dicarbonate (DMDC). J. Agric. Food Chem. 50, 5605–5611.
+Divol, B., Tonon, T., Morichon, S., Gindreau, E., Lonvaud-Funel, A., 2003. Molecular characterization of
+Oenococcus oeni genes encoding proteins involved in arginine transport. J Appl. Microbiol. 94, 738–746.
+Doneche, B., 1993. Botrytized wines. In: Fleet, G.H. (Ed.), Wine Microbiology and Biotechnology. Harwood
+Academic Publishers, Chur, Switzerland, pp. 327–353.
+dos Santos, M.M., Gombert, A.K., Christensen, B., Olsson, L., Nielsen, J., 2003. Identification of in vivo enzyme
+activities in the cometabolism of glucose and acetate by Saccharomyces cerevisiae by using 13C-labeled
+substrates. Eukaryot. Cell 2, 599–608.
+Du Toit, W.J., Lambrechts, M.G., 2002. The enumeration and identification of acetic acid bacteria from South
+African red wine fermentations. Int. J. Food Microbiol. 74, 57–64.
+Du Toit, M., Pretorius, I.S., 2000. Microbial spoilage and preservation of wine: using weapons from nature’s own
+arsenal: a review. S. Afr. J. Enol. Viticult. 21 (Special Issue), 74–96.
+Duchene, D., Bochot, A., Yu, S.-C., Pepin, C., Seiller, M., 2003. Cyclodextrins and emulsions. Int. J. Pharma. 266
+(1-2), 85–90.
+Eglinton, J.M., Henschke, P.A., 1999. Restarting incomplete fermentations: the effect of high concentrations of
+acetic acid. Aust. J. Grape Wine. Res. 52, 71–78.
+Erasmus, D.J., Cliff, M., van Vuuren, H.J.J., 2004. Impact of yeast strain on the production of acetic acid, glycerol,
+and the sensory attributes of ice wine. Am. J. Enol. Viticult. 55, 371–378.
+European Food Safety Authority (EFSA), 2004. Opinion of the Scientific Panel on Dietetic Products, Nutrition,
+and Allergies on a request from the commission relating to the evaluation of allergenic foods for labelling
+purposes. Parma, Italy. Available from: http://www.efsa.europa.eu/de/efsajournal/doc/32.pdf.
+European Union (EU), 2011. Commission regulation (EU) 53/2011 of January 21, 2011. Off. J. Eur. Union 2011,
+L19/1−L19/6.
+VA Filtration, 2015. Eliminate volatile personality from your wine. Available from: http://vafiltration.com/blog/
+eliminate-volatile-personality-from-your-wine/.
+Flamini, R., 2014. Recent applications of mass spectrometry in the study of grape and wine polyphenols: review
+article. ISRN Spectroscopy. Article ID 813563, 45 p.
+Fleet, G.H., 2001. Wine. In: Doyle, M.P., Beuchat, L.R., Montville, T.J. (Eds.), Food Microbiology Fundamentals
+and Frontiers. second ed. ASM Press, Washington, DC, pp. 747–772.
+Fleet, G.H., Heard, G.M., 1993. Yeasts-growth during fermentation. In: Fleet, G.H. (Ed.), Wine Microbiology and
+Biotechnology. Harwood Academic Publishers, Chur, Switerzland, pp. 27–54.
+Fras, P., Campos, F.M., Hogg, T., Couto, J.A., 2014. Production of volatile phenols by Lactobacillus plantarum in
+wine conditions. Biotechnol. Lett. 36, 281–285.
+Friavad, J.C., Smedsgaad, J., Samson, R.A., Larsen, T.O., Thrane, U., 2007. Fumonisin B2 production by
+Aspergillus niger. J. Agr. Food Chem. 55, 9727–9732.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+307
+
+Fung, F., Clark, R.F., 2004. Health effects of mycotoxins: a toxicological overview. J. Toxicol. Clin. Toxicol. 42
+(2), 217–234.
+García-Cela, E., Ramos, A.J., Sanchis, V., Marin, S., 2012. Emerging risk management metrics in food safety:
+FSO, PO—how do they apply to the mycotoxin hazard? Food Control 25, 797–808.
+Garcia-Ruiz, A., Gonzalez-Rompinelli, E.M., Bartolome, B., Moreno-Arribas, M.V., 2011. Potential of wineassociated lactic acid bacteria to degrade biogenic amines. Int. J. Food Microbiol. 148, 115–120.
+Garde-Cerdán, T., Arias-Gil, M., Marsellés-Fontanet, A.R., Ancín-Azpilicueta, C., Martín Belloso, O., 2007.
+Effects of thermal and nonthermal processing treatment on fatty acids and free amino acids of grape juice.
+Food Control 18, 473–479.
+Gil-Serna, J., Vazquez, C., Sardiñas, N., Gonzàlez-Jaén, M.T., Patiño, B., 2011. Revision of ochratoxin A
+production capacity by the main species of Aspergillus section Circumdati, Apergillus steynii revealed as the
+main risk of OTA contamination. Food Control 22 (2), 343–345.
+Gómez-Rivas, L., Escudero-Abarca, B.I., Aguilar-Uscanga, M.G., Hayward-Jones, P.M., Mendoza, P., Ramirez,
+M., 2004. Selective antimicrobial action of chitosan against spoilage yeasts in mixed culture fermentations. J.
+Ind. Microbiol. Biotechnol. 31, 16–22.
+González-Marco, A., Ancín-Azpilicueta, C., 2006. Influence of lees contact on evolution of amines in chardonnay
+wine. J. Food Sci. 71, C544–C548.
+Grando, M.S., Versini, G., Nicolini, G., Mattivi, F., 1993. Selective use of wine yeast strains having different
+volatile phenols production. Vitis 32, 43–50.
+Grbin, P.R., Costello, P.J., Herderich, M., Markides, A.J., Henschke, P.A., Lee, T.H., 1996. Developments in the
+sensory, chemical, and microbiological basis of mousey taint. In: Stockley, C.S., Sas, A.N., Johnstone, R.S.,
+Lee, T.H. (Eds.), In: Proceedings of the Ninth Australian Wine Industry Technical Conference. Adelaide,
+Australia, pp. 57–61.
+Grbin, P.R., Henschke, P.A., 2000. Mousy off-flavour production in grape juice and wine by Dekkera and
+Brettanomyces yeasts. Aust. J. Grape Wine Res. 6, 255–262.
+Grossmann, M., Smit, I., Loehnertz, O., Ansorge, A., 2007. Biogenic amines and grapes: effect of microbes
+and fining agents. In: Proceedings of International Symposium of Microbiology and Food Safety of Wine.
+Vilafranca, Spain: November 20–21, 2007.
+Guerrini, S., Bastianini, A., Granchi, L., Vincenzini, M., 2002. Effect of oleic acid on Oenococcus oeni strains and
+malolactic fermentation in wine. Curr. Microbiol. 44 (1), 5–9.
+Guerzoni, M.E., Gardini, F., Duan, J., 1990. Interactions between inhibition factors on microbial stability of fruitbased systems. Int. J. Food Microbiol. 10, 1–18.
+Gunata, Z., Bitteur, S., Baumes, R., Sapis, J.C., Bayonove, C., 1990. Activites glycosidases en vinification.
+Perspectives d’exploitation des precurseurs d’arome du raisin, de nature glycosidique. Rev. Franc. Oenol. 30
+(122), 37–41.
+Hasnip, S., Caputi, A., Crews, C., Brereton, P., 2004. Effects of storage time and temperature on the concentration
+of ethyl carbamate and its precursors in wine. Food Addit. Contam. 21, 1155–1161.
+Hathout, A.S., Aly, S.E., 2014. Biological detoxification of mycotoxins: a review. Ann. Microbiol. 64 (3),
+905–919.
+Henríquez-Aedo, K., Durán, D., Garcia, A., Martha, B., Hengst, M.B., Aranda, M., 2016. Identification of biogenic
+amines-producing lactic acid bacteria isolated from spontaneous malolactic fermentation of Chilean red
+wines. LWT—Food Sci. Technol. 68, 183–189.
+Hernández, T., Estrella, I., Pérez-Gordo, M., Alegría, E.-G., Tenorio, C., Ruiz-Larrrea, F., 2007. Contribution
+of Oenococcus oeni and Lactobacillus plantarum to the nonanthocyanin phenolic composition of red wine
+during malolactic fermentation. J. Agr. Food Chem. 55, 5260–5266.
+Howell, K.S., Klein, M., Swiegers, J.H., Hayasaka, Y., Elsey, G.M., Fleet, G.H., Høj, P.B., Pretorius, I.S., de
+Barros Lopes, M.A., 2005. Genetic determinants of volatile-thiol release by Saccharomyces cerevisiae during
+wine fermentation. Appl. Environ. Microbiol. 71, 5420–5426.
+Husnik, J.I., Delaquis, P.J., Cliff, M.A., van Vuuren, H.J.J., 2007. Functional analyses of the malolactic wine yeast
+ml01. Am. J. Enol. Viticult. 58, 42–52.
+
+308
+
+Chapter 9
+
+Inês, A.F.H., 2007. Abordagem polifásica na caracterização e selecção de bactérias do ácido láctico de vinhos da
+Região Demarcada do Douro. 198 p. PhD Thesis, Universidade de Trás-os-Montes e Alto Douro.
+Jiménez-Moreno, N., Ancín-Azpilicueta, C., 2009. Sorption of volatile phenols by yeast cell walls. Int. J. Wine
+Res. 1, 11–18.
+Joyeux, A., Lafon-Lafourcade, S., Ribéreau-Gayon, P., 1984a. Evolution of acetic acid bacteria during
+fermentation and storage of wine. Appl. Environ. Microbiol. 48, 153–156.
+Joyeux, A., Lafon-Lafourcade, S., Ribéreau-Gayon, P., 1984b. Metabolism of acetic acid bacteria in grape must:
+consequences on alcoholic and malolactic fermentation. Sci. Aliments 4, 247–255.
+Kalac, P., Krizec, M., 2003. A review of biogenic amines and polyamines in beer. J. Inst. Brew 109, 123–128.
+Kallay, M., Body-Szalkai, M., 1996. Ammine biogene nei vini ungheresi. Rivista díViticoltura e di Enologia 3,
+29–38.
+Kántor, A., Kačániová, M., 2015. Isolation and identification of spoilage yeasts in wine samples by MALDI-TOF
+MS biotyper. Anim. Sci. Biotechnol. 48 (1), 156–161.
+Kong, M., Chen, X.G., Xing, K., Park, H.J., 2010. Antimicrobial properties of chitosan and mode of action: a state
+of the art review. Int. J. Food Microbiol. 144, 51–63.
+Kruckeber, A.L., Dickinson, J.R., 2004. Carbon metabolism. In: Dickinson, J.R., Schweizer, M. (Eds.), The
+Metabolism and Molecular Physiology of Saccharomyces cerevisiae. CRC Press, New York, pp 42–76.
+Kurtbay, H.M., Bekçi, Z., Merdivan, M., Yurdakoç, K., 2008. Reduction of ochratoxin A levels in red wine by
+bentonite, modified bentonites, and chitosan. J. Agr. Food Chem. 56, 2541–2545.
+Kushnereva, E.V., 2015. Formation of biogenic amines in wine production. Appl. Biochem. Microbiol 51,
+108–112.
+Lafon-Lafourcade, S., Genedc, C., Ribéreau-Gayon, P., 1984. Inhibition of alcoholic fermentation of grape
+must by fatty acids produced by yeasts and their elimination by yeast ghosts. Appl. Envion. Microb. 47 (6),
+1246–1249.
+Landete, J.M., Ferrer, S., Pardo, I., 2005. Which lactic acid bacteria are responsible for histamine production in
+wine? J. Appl. Microbiol. 99, 580–586.
+Landete, J.M., Ferrer, S., Pardo, I., 2007. Biogenic amine production by lactic acid bacteria acetic bacteria and
+yeast isolated from wine. Food Control 18, 1569–1574.
+Larcher, R., Puecher, C., Rohregger, S., Malacarne, M., Nicolini, G., 2012. 4-Ethylphenol and 4-ethylguaiacol
+depletion in wine using esterified cellulose. Food Chem. 132, 2126–2130.
+Lasik, M., 2013. The application of malolactic fermentation process to create good quality grape wine produced in
+cool-climate countries: a review. Eur. Food Technol. 237, 843–850.
+Leitão, M., Teixeira, H., Barreto Crespo, M., San Romao, M., 2000. Biogenic amines occurrence in wine: amino
+acid decarboxylase and proteolytic activities expression by Oenococcus oeni. J. Agric. Food Chem. 48,
+2780–2784.
+Leroy, F., Kerrebroeck, S.V., Vuyst, L., 2014. Metabolomics. In: Batt, C.A., Tortorello, M.L. (Eds.), Encyclopedia
+of Food Microbiology. Elsevier, New York, pp. 780–787.
+Lin, W., You, W. Feng, T., 2014. Review of Brettanomyces of grape wine and its inhibition methods. In: Xie,
+L., Huang, D. (Eds.), Advanced Engineering, Technology: Proceedings of the 2014 Annual Congress on
+Advanced Engineering and Technology (CAET 2014), Hong Kong, April 19–20, 2014. CRC Press, London.
+Lino, C.M., Silva, L.J.G., Pena, A.S., 2004. Fumonisinas: presença em alimentos, implicações na saúde e aspectos
+legislativos. Revista Portuguesa de Ciências Veterinárias 99 (552), 181–192.
+Lisanti, M., Piombino, P., Gambuti, A., Genovese, A., Ludmilla, S., Moio, L., 2008. Analytical evaluation of
+remedial treatments for red and white wines contaminated by volatile phenols. Bull. de l´OIV 81 (923–925),
+45–55.
+Liu, S., 2002. A review: malolactic fermentation in wine: beyond deacidification. J. Appl. Microbiol 92, 589–601.
+Liu, J., Xu, W., Zhao, Q., Qiao, M., Zhang, H., Chen, G., 2007. Bacterial retention in lipopolysaccharide-coated
+silica sand. Sep. Sci. Technol. 42, 1031–1047.
+Llaudy, M.D., Canals, R., Gonzalez-Manzano, S., Canals, J.M., Santos-Buelga, C., Zamora, F., 2006. Influence of
+MO treatment before oak aging on phenolic compounds composition, astringency, and color of red wine. J.
+Agr. Food. Chem. 54, 4246–4252.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+309
+
+Lonvaud-Funel, A., 1999. Lactic acid bacteria in the quality improvement and depreciation of wine. Antonie Van
+Leeuwenhoek 76, 317–331.
+Lonvaud-Funel, A., 2001. Biogenic amines in wines: role of lactic acid bacteria. FEMS Microbiol. Lett. 199, 9–13.
+Lonvaud-Funel, A., Renouf, V., 2005. Incidence microbiologicque de l’usage de barriques neuves et/ou de barrique
+usagées. Rev. Fran. d’Oenol 211, 10–14.
+Loureiro, V., Malfeito-Ferreira, M., 2003. Spoilage yeast in the wine industry. Int. J. Food Microbiol. 86 (1–2), 23–50.
+Lustrato, G., Alfano, G., Belli, C., Grazia, L., Iorizzo, M., Maiuro, L., Massarella, F., Zanardini, E., 2003.
+Controlling grape must fermentation in early wine-making phases: the role of electrochemical treatment. J.
+Appl. Microbiol. 95, 1087–1095.
+Lustrato, G., Alfano, G., Belli, C., Grazia, L., Iorizzo, M., Ranalli, G., 2006. Scaling-up in industrial winemaking
+using low electric current as an alternative to sulphur dioxide addition. J. Appl. Microbiol. 101, 682–690.
+Lustrato, G., Vigentini, I., De Leonardis, A., Alfano, G., Tirelli, A., 2010. Inactivation of wine spoilage yeasts
+Dekkera bruxellensis using low electric current treatment. J. Appl. Microbiol. 109, 594–604.
+Maicas, S., 2001. The use of alternative technologies to develop malolactic fermentation in wine. Appl. Microbiol.
+Biol. 56, 35–39.
+Manca de Nadra, M., Arena, M., Saguir, F., 2003. Nutritional requirements and amino acids utilization by lactic
+acid bacteria from wine: a short review. J. Food Agric. Environ. 1, 76–79.
+Mannino, M., Vassanelli, G., Triulzi, G., 2006. Trattamenti al vino per ridurre il contenuto inammine biogene e
+loro quantificazione. Vigne Vini 1-2, 72–75.
+Marchal, R., Jeandet, P., 2009. Use of enological additives for colloid and tartrate salt stabilization in white wine
+and for improvement of sparkling wine foaming properties. In: Moreno-Arribas, M.V., Polo, C. (Eds.), Wine
+Chemistry and Biochemistry. Springer-Verlag, New York, USA, Chapter 5.
+Marcobal, A., de las Rivas, B., Moreno-Arribas, M.V., Muñoz, R., 2006a. Evidence for horizontal gene transfer as
+origin of putrescine production in Oenococcus oeni RM83. Appl. Environ. Microbiol. 72, 7954–7958.
+Marcobal, A., Martin-Alvarez, P., Polo, M., Munoz, R., MorenoArribas, M., 2006b. Formation of biogenic amines
+throughout the industrial manufacture of red wine. J. Food Prot. 69, 397–404.
+Marican, A., Carrasco-Sánchez, V., John, A., Laurie, V.F., Santos, L.S., 2014. The binding of 4-ethylguaiacol with
+polyaniline-based materials in wines. Food Chem. 159, 486–492.
+Marselles-Fontanet, A.R., Puig, A., Olmos, P., Minguez-Sanz, S., Martin-Belloso, O., 2009. Optimizing the
+inactivation of grape juice spoilage organisms by pulse electric fields. Int. J. Food Microbiol. 130, 159–165.
+Martín-Álvarez, P., Marcobal, A., Polo, C., Moreno-Arribas, M.V., 2006. Influence of technological practices on
+biogenic amine contents in red wines. Eur. Food Res. Technol. 222, 420–424.
+Martín-Belloso, O., Sobrino-López, A., 2011. Combination of pulsed electric fields with other preservation
+techniques. Food Bioproc. Technol. l 4, 954–968.
+Martineau, B., Henick-Kling, T., 1995. Performance and diacetyl production of commercial strains of malolactic
+bacteria in wine. J. Appl. Bacteriol. 78, 526–536.
+Martínez-Moreno, R., Morales, P., Gonzalez, R., Mas, A., Beltran, G., 2012. Biomass production and alcoholic
+fermentation performance of Saccharomyces cerevisiae as a function of nitrogen source. FEMS Yeast Res. 12,
+477–485.
+Massot, A., Mietton-Peuchotm, M., Peuchotm, C., Milisic, V., 2008. Nanofiltration and reverse osmosis in
+winemaking. Desalination 231, 283–289.
+McCord, J., 2003. Application of toasted oak and micro-oxygenation to ageing of cabernet sauvignon wines.
+Austral. NZ Grapegrower Winemaker 474, 43–53.
+Meaden, P.G., Taylor, N.R., 1991. Cloning of a yeast gene which causes phenolic off-flavors in beer. J. Inst. Brew.
+97, 353–357.
+Milheiro, J.N., Filipe-Ribeiro, L., Cosme, F., Nunes, F.M., 2016. A simple, cheap and reliable method for control
+of 4-ethylphenol and 4-ethylguaiacol in red wines: screening of fining agents for reducing volatile phenols
+levels in red wines. J. Chromatogr. 1041–1042, 183–190.
+Mills, D.A., Phister, T., Neeley, E., Johannsen, E., 2008. Wine fermentation. In: Cocolin, L., Ercolini, D. (Eds.),
+Molecular Techniques in the Microbial Ecology of Fermented Foods. Springer, New York, pp. 162–192
+(Chapter 6).
+
+310
+
+Chapter 9
+
+Mira de Orduna, R., Patchett, M., Liu, S., Pilone, G., 2001. Growth and arginine metabolism of the wine lactic
+acid bacteria Lactobacillus buchneri and Oenococcus oeni at different pH values and arginine concentrations.
+Appl. Environ. Microbiol. 67, 1657–1662.
+Morata, A., Gómez-Cordovés, M.C., Calderón, F., Suárez, J.A., 2006. Effects of pH, temperature, and SO2 on the
+formation of pyranoanthocyanins during red wine fermentation with two species of Saccharomyces. Int. J.
+Food Microbiol. 106, 123–129.
+Morata, A., Vejarano, R., Ridolfi, G., Benito, S., Palomero, F., Uthurry, C., Tesfaye, W., González, C., SuárezLepe, J.A., 2013. Reduction of 4-ethylphenol production in red wines using HCDC+ yeasts and cinnamyl
+esterases. Enz. Microbial Technol. 52, 99–104.
+Moreno-Arribas, M., Polo, M., Jorganes, F., Munoz, R., 2003. Screening of biogenic amine production by lactic
+acid bacteria isolated from grape must and wine. Int. J. Food Microbiol. 84, 117–123.
+Nakanishi, K., Tokuda, H., Soga, T., Yoshinaga, T., Takeda, M., 1997. Effect of electric current on growth and
+alcohol production by yeast cells. J. Ferment. Bioeng. 85, 250–253.
+Nehmé, B., Ganga, M., Lonvaud-Funel, A., 2006. The arginine deiminase locus of Oenococcus oeni includes a
+putative arginyl-tRNA synthetase ArgS2 at its 3’-end. Appl. Microbiol. Biotechnol. 70, 590–597.
+Nieto-Rojo, R., Ancín-Azpilicueta, C., Garrifo, J.J., 2014. Sorption of 4-ethylguaicol and 4-ethylphenol on yeast
+cell walls, using a synthetic wine. Food Chem. 152, 399–406.
+Office International de la Vigne et du Vin, 2009,. International code of oenological practices. OIV, Paris, p. 259.
+Office International de la Vigne et du Vin, 2010,. International code of oenological practices. OIV, Paris, p. 274.
+Office International de la Vigne et du Vin, 2011. Compendium of International Methods for the Analysis of
+Wines and Musts. Available from: http://news.reseau-concept.net/pls/news/p_entree?i_sid=&i_type_edition_
+id=20508&i_section_id=20510&I _lang= 33.
+Ough, C.S., 1975. Dimethyldicarbonate as a wine sterilant. Am. J. Enol. Viticult. 26, 130–133.
+Ough, C.S., Ingraham, J.L., 1961. The diethylester of pyrocarbonic acid as a bottled-wine sterilizing agent. Am. J.
+Enol. Viticult. 12, 149–151.
+Ough, C.S., Crowell, E.A., Gutlove, B.R., 1988a. Carbamyl compound reactions with ethanol. Am. J. Enol.
+Viticult. 39, 239–242.
+Ough, C.S., Crowell, E.A., Mooney, L.A., 1988b. Formation of ethyl carbamate precursors during grape juice
+(chardonnay) fermentation. I. addition of amino acids, urea, and ammonia: effects of fortification on
+intracellular and extracellular precursors. Am. J. Enol. Viticult. 39, 243–249.
+Paiva, S., Devaux, F., Barbosa, S., Jacq, C., Casal, M., 2004. Ady2p is essential for the acetate permease activity in
+the yeast Saccharomyces cerevisiae. Yeast 21, 201–210.
+Palaniappan, S., Sastry, S.K., Richter, E.R., 1992. Effects of electroconductive heat treatment and electrical
+pretreatment on thermal death kinetics of selected microorganisms. Biotechnol. Bioeng. 39, 225–232.
+Paul, R., 2002. MO: where now? In: Allen, M., Bell, S., Rowe, N., Wall, G. (Eds.), Use of Gases in Winemaking.
+Proceedings of Seminar held in Adelaide, October 10, 2002. Australian Society of Viticulture and Oenology,
+Adelaide, Australia, pp. 18–22.
+Pizarro, F., Vargas, F.A., Agosin, E., 2007. A systems biology perspective of wine fermentations. Yeast 24 (11),
+977–991.
+Plata, C., Millán, C., Mauricio, J.C., Ortega, J.M., 2003. Formation of ethyl acetate and isoamyl acetate by various
+species of wine yeasts. Food Microbiol. 20 (2), 217–224.
+Pollnitz, A.P., Pardon, K.H., Sefton, M.A., 2000. Quantitative analysis of 4-ethylphenol and 4 ethylguaiacol in red
+wine. J. Chromatogr. 874, 101–109.
+Portugal, C., Sáenz, Y., Rojo-Bezares, B., Zaragoza, M., Torres, C., Cacho, J., Ruiz-Larrea, F., 2014.
+Brettanomyces susceptibility to antimicrobial agents used in winemaking: in vitro and practical approaches.
+Eur. Food Technol. 238, 641–652.
+Pozo-Bayón, M.A., G-Alegría, E., Polo, M.C., Tenorio, C., Martín-Alvarez, P.J., Calvo de la Banda, M.T., Ruiz-Larrea,
+F., Moreno-Arribas, M.V., 2005. Wine volatile and amino acid composition after malolactic fermentation: effect
+of Oenococcus oeni and Lactobacillus plantarum starter cultures. J. Agric. Food Chem. 53, 8729–8735.
+Pradelles, R., Alexandre, H., Ortiz-Julien, A., Chassagne, D., 2008. Effects of yeast cell wall characteristics on
+4-ethylphenol sorption capacity in model wine. J. Agric. Food Chem. 56 (24), 11854–11861.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+311
+
+Pramateftaki, P., Metafa, M., Kallithraka, S., Lanaridis, P., 2006. Evolution of malolactic bacteria and biogenic
+amines during spontaneous malolactic fermentations in a Greek winery. Lett. Appl. Microbiol. 43, 155–160.
+Pretorius, I.S., 2000. Tailoring wine yeast for the new millennium: novel approaches to the ancient art of
+winemaking. Yeast 16 (8), 675–729.
+Puértolas, E., Lopez, N., Condon, S., Raso, J., Alvarez, I., 2009a. Pulsed electric fields inactivation of wine
+spoilage yeast and bacteria. Int. J. Food Microbiol. 130, 49–55.
+Puértolas, E., Lopez, N., Condon, S., Alvarez, I., Raso, J., 2010. Potential applications of PEF to improve red wine
+quality. Trends Food Sci. Technol. 21, 247–255.
+Puértolas, E., López, N., Saldaña, G., Álvarez, I., Raso, J., 2009b. Evaluation of phenolic extraction during
+fermentation of red grapes treated by a continuous pulsed electric fields process at pilot-plant scale. J. Food
+Eng. 98, 120–125.
+Puértolas, E., Luengo, E., Alvarez, I., Raso, J., 2012. Improving mass transfer to soften tissues by pulsed electric
+fields: fundamentals and applications. Ann. Rev. Food Sci. Techol. 3, 263–282.
+Quintela, S., Villaran, M.C., López De Armentia, I., Elejalde, E., 2012a. Ochratoxin A removal from red wine by
+several oenological fining agents: bentonite, egg albumin, allergen-free adsorbents, chitin and chitosan. Food
+Addit. Contam. 29, 1168–1174.
+Quintela, S., Villarán, M.C., López de Armentia, I., Elejalde, E., 2012b. Ochratoxin A in Spanish exportation wine
+market. Food Control 25, 501–504.
+Rajnicek, A.M., McCaig, C.D., Gow, N.A.R., 1994. Electric fields induce curved growth of Ent. cloacae, E. coli, and
+B. subtilis cells: implications for mechanisms of galvanotropism and bacterial growth. J. Bacteriol. 176, 702–713.
+Ranalli, G., Iorizzo, M., Lustrato, G., Grazia, L., 2002. Effects of low electric treatment on yeast microflora. J.
+Appl. Microbiol. 93, 877–883.
+Remize, F., Andrieu, E., Dequin, S., 2000. Engineering of the pyruvate dehydrogenase bypass in Saccharomyces
+cerevisiae: Role of the cytosolic Mg2+ and mitochondrial K+ acetaldehyde dehydrogenases Ald6p and Ald4p
+in acetate formation during alcoholic fermentation. Appl. Environ. Microbiol. 66, 3151–3159.
+Renouf, V., Strehaiano, P., Lanvoud-Funel, A., 2008. Effectiveness of dimethlydicarbonate to prevent
+Brettanomyces bruxellensis growth in wine. Food Control 19, 208–2016.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., Lonvaud, A., 2000a. Biochemistry of alcoholic fermentation
+and metabolic pathways of wine yeasts. In: John Wiley, Sons, Ltd (Eds.), The Microbiology of Wine and
+Vinifications, Handbook of Enology, Vol. 1. first ed. Chichester, England, pp. 51–74.
+Ribéreau-Gayon, P., Glories, Y., Maujean, A., Dubourdieu, D., 2006a. Alcohols and other volatile compounds,
+second ed. Handbook of Enology, vol. 2: The Chemistry of Wine Stabilization and Treatments. John Wiley &
+Sons, Chichester, UK, pp. 51–64.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., Lonvaud, A., 2006b. The microbiology of wine and
+vinifications. Handbook of Enology, vol. 1, John Wiley & Sons, Chichester, UK.
+Richter, H., Vlad, D., Unden, G., 2001. Significance of pantothenate for glucose fermentation by Oenococcus oeni
+and for suppression of the erythritol and acetate production. Arch. Microbiol. 75, 26–31.
+Riley, M.R., Muzziom, F.J., Reyes, S.C., 1990. Experimental and modeling studies of diffusion in immobilized
+cell systems. Appl. Bioch. Biotechnol. 80, 151–188.
+Rodrigues, F., 1998. Estudos sobre a regulação do metabolismo intracelular de ácido acético na levedura
+Zygosaccharomyces bailli ISA 1307. Tese de Mestrado, Universidade do Minho, Braga.
+Romano, P., Suzzi, G., Comi, G., Zironi, R., 1992. Higher alcohol and acetic acid production by apiculate wine
+yeasts. J. Appl. Bacteriol. 73, 126–130.
+Romano, P., Marchese, R., Laurita, C., Salzano, G., Turbanti, L., 1999. Biotechnological suitability of
+Saccharomycodes ludwigii for fermented beverages. World J. Microbiol. Biotechnol. 15, 451–545.
+Rooney-Latham, S., Janousek, C.N., Eskalen, A., Gubler, W.D., 2008. First report of Aspergillus carbonarius
+causing sour rot of table grapes (Vitis vinifera) in California. Plant Dis. 92 (4), 651.
+Rosazza, J.P.N., Huang, Z., Dostal, L., Volm, T., Rousseau, B., 1995. Review: biocatalytic transformations of
+ferulic acid: an abundant aromatic natural product. J. Ind. Microbiol. 15, 457–471.
+Roullier-Gall, C., Boutegrabet, L., Gougeon, R.D., Schmitt-Kopplin, P., 2014. A grape and wine chemodiversity
+comparison of different appellations in burgundy: vintage vs. terroir effects. Food Chem. 152, 100–107.
+
+312
+
+Chapter 9
+
+Russo, P., Capozzi, V., Spano, G., Corbo, M.R., Sinigaglia, M., Bevilacqua, A., 2016. Metabolites of microbial
+origin with an impact on health: ochratoxin A and biogenic amines. Front. Microbiol. 8, 482.
+Salminen, S., Nybom, S., Meriluoto, J., Collado, M.C., Vesterlund, S., El-Nezami, H., 2010. Interaction of
+probiotics and pathogens: benefits to human health? Curr. Opin. Biotechnol. 21, 157–167.
+Santos, M.C., Nunes, C., Saraiva, J.A., Coimbra, M.A., 2012. Chemical and physical methodologies for the
+replacement/reduction of sulfur dioxide use during winemaking: review of their potentialities and limitations.
+Eur. Food Res. Technol. 234, 1–12.
+Schlatter, J., Lutz, W.K., 1990. The carcinogenesis potential of ethyl carbamate: risk assessment at human dietary
+exposure levels. Food Chem. Toxicol. 28, 205–221.
+Schuller, D., 2010. Better yeast for better wine: genetic improvement of Saccharomyces cerevisiae winemaking
+strains. In: Rai, M., Kövics, G. (Eds.), Progress in Mycology. Scientific Publishers, Jodhpur, India, pp 1–51.
+Schüller, H.J., 2003. Transcriptional control of nonfermentative metabolism in the yeast Saccharomyces
+cerevisiae. Curr. Genet. 43 (3), 139–160.
+Schuller, D., Côrte-Real, M., Leão, C., 2000. A differential medium for the enumeration of the spoilage yeast
+Zygosaccharomyces bailii in wine. J. Food Prot. 63 (11), 1570–1575.
+Sekiguchi, Y., Makita, H., Yamamura, A., Matsumoto, K., 2004. A thermostable histamine oxidase from
+Arthrobacter crystallopoietes KAIT-B-007. J. Biosci. Bioeng. 97, 104–110.
+Shi, W., Lentz, M.J., Adler, J., 1993. Behavioral responses of E. coli to changes in temperature caused by electric
+shock. J. Bacteriol. 175, 5785–5790.
+Silva, I., Campos, F., Hogg, T., Couto, J.A., 2011a. Factors influencing the production of volatile phenols by wine
+lactic acid bacteria. Int. J. Food Microbiol. 145, 471–475.
+Silva, I., Campos, F., Hogg, T., Couto, J.A., 2011b. Wine phenolic compounds influence the production of volatile
+phenols by wine-related lactic acid bacteria. J. Appl. Microbiol. 111, 360–370.
+Singh, M., Sharma, R., Banerjee, U.C., 2002. Biotechnological applications of cyclodextrins. Biotechnol. Adv. 20
+(5-6), 341–359.
+Soares, E.V., 2011. Flocculation in Saccharomyces cerevisiae: a review. J. Appl. Microbiol. 110, 1–18.
+Somma, S., Perrone, G., Logrieco, A.F., 2012. Diversity of black Aspergilli and mycotoxin risks in grape, wine
+and dried vine fruits: review. Phytopathol. Mediterr. 51 (1), 131–147.
+Sousa, J.M., Rofrigues, F., Côrte-Real, M., Leão, C., 1998. Mechanisms underlying the transport and intracellular
+metabolism of acetic acid in the presence of glucose in the yeast Zygosaccharomyces bailii. Microbiology
+144 (3), 665–670.
+Spano, G., Beneduce, L., de Palma, M.A., Vernile, A., Massa, S., 2006. Characterization of wine Lactobacillus
+plantarum by PCR-DGGE and RAPD-PCR analysis and identification of Lactobacillus plantarum strains
+able to degrade arginine. World J. Microbiol. Biotechnol. 22, 769–773.
+Sponholz, W.R., 1993. Wine spoilage by microorganisms. In: Fleet, G.H. (Ed.), Wine Microbiology and
+Biotechnology. Harwood Academic Publishers, Chur, Switerzland, pp. 395–420.
+Suárez-Lepe, J.A., Morata, A., 2012. New trends in yeast selection for winemaking. Trends Food Sci. Technol. 23,
+39–50.
+Sumby, K.M., Grbin, P.R., Jiranek, V., 2014. Implications of new research and technologies for malolactic
+fermentation in wine. Appl. Microbiol. Biotechnol. 98, 8111–8132.
+Tao, J., Stuart, I.D., Kilmartin, P.A., 2007. Effect of SO2 concentration on polyphenol development during red
+wine MO. J. Agric. Food Chem. 55, 6104–6109.
+Tegmo-Larsson, I.-M., Spittler, T.D., 1990. Temperature and light effects on ethyl carbamate formation in wine
+during storage. J. Food Sci. 55, 6104–6109.
+Terrade, N., Mira de Orduna, R., 2006. Impact of winemaking practices on arginine and citrulline metabolism
+during and after malolactic fermentation. J. Appl. Microbiol 101, 406–411.
+Terrel, F.R., Morris, J.R., Jonhson, M.G., Gbur, E.E., Makus, D.J., 1993. Yeast inhibition in grape juice containing
+sulfur dioxide, sorbic acid and dimethyldicarbonate. J. Food Sci. 58, 1132–1134.
+Tonon, T., Lonvaud-Funel, A., 2000. Metabolism of arginine and its positive effect on growth and revival of
+Oenococcus oeni. J. Appl. Microbiol. 89, 526–531.
+
+Wine Microbial Spoilage: Advances in Defects Remediation
+
+313
+
+Torrea-Goni, D., Ancín-Azpilicueta, C., 2001. Influence of yeast strain on biogenic amine contents in wines:
+relationship with the utilization of amino acids during fermentation. Am. J. Enol. Viticult. 52, 185–190.
+Torrens, J., Urpi, P., Riu-Aumatell, M., Vichi, S., Lopez-Tamames, E., Buxaderas, S., 2008. Different commercial
+yeast strains affecting the volatile and sensory profile of cava base wine. Int. J. Food Microbiol. 124, 48–57.
+Vaqueres Vaquero, I., Marcobal, A., Munoz, R., 2004. Tannase activity by lactic acid bacteria isolated from grape
+must and wine. Int. J. Food Microbiol. 96, 199–204.
+Vilanova, M., Ugliano, M., Varela, C., Siebert, T., Pretorius, I.S., Henschke, P.A., 2007. Assimilable nitrogen
+utilisation and production of volatile and nonvolatile compounds in chemically defined medium by
+Saccharomyces cerevisiae wine yeasts. Appl. Microbiol. Biotechnol. 77, 145–157.
+Vilela, A., Amaral, C., Shuller, D., Mendes-Faia, A., Corte-Real, M., 2015. Combined use of Wallerstein and
+Zygosaccharomyces bailii modified differential media to isolate yeasts for the controlled reduction of volatile
+acidity of grape musts and wines. J. Biotech Res. 6, 43–53.
+Vilela-Moura, A., 2010. Isolation and characterization of yeasts: application in controlled processes of volatile
+acidity bio-reduction in wines. PhD Thesis, UTAD, Vila Real, 160 p.
+Vilela, A., Schuller, D., Mendes-Faia, A., Côrte-Real, M., 2013. Reduction of volatile acidity of acidic wines by
+immobilized Saccharomyces cerevisiae cells. Appl. Microbiol. Biotechnol. 97, 4991–5000.
+Vilela-Moura, A., Schuller, D., Falco, V., Mendes-Faia, A., Côrte-Real, M., 2010a. Effect of refermentation
+conditions and micro-oxygenation on the reduction of volatile acidity by commercial S. cerevisiae strains and
+their impact on the aromatic profile of wines. Int. J. Food Microbiol. 141 (3), 165–172.
+Vilela-Moura, A., Shuller, D., Mendes-Faia, A., Côrte-Real, M., 2008. Reduction of volatile acidity of wines by
+selected yeast strains. Appl. Microbiol. Biotechnol. 80 (5), 881–890.
+Vilela-Moura, A., Schuller, D., Mendes-Faia, A., Côrte-Real, M., 2010b. Effects of acetic acid, ethanol and SO2 on
+the removal of volatile acidity from acidic wines by two Saccharomyces cerevisiae commercial strains. Appl.
+Microbiol. Biotechnol. 87 (4), 1317–1326.
+Vilela-Moura, A., Schuller, D., Mendes-Faia, A., Silva, R.F., Chaves, S.R., Sousa, M.J., Côrte-Real, M., 2011.
+The impact of acetate metabolism on yeast fermentative performance and wine quality: reduction of volatile
+acidity of grape-musts and wines: minireview. Appl. Microbiol. Biotechnol. 89, 271–280.
+Vincenzini, M., Guerrini, S., Mangani, S., Granchi, L., 2009. Amino acid metabolisms and production of
+biogenic amines and ethyl carbamate. In: Helmut König, H., Unden, G., Fröhlich, J. (Eds.), Biology of
+Microorganisms on Grapes, in Must and in Wine. Springer-Verlag Berlin Heidelberg, pp. 167–180.
+Walling, E., Gindreau, E., Lonvaud-Funel, A., 2001. La biosynthèse d’exopolysaccharide par des souches de
+Pediococcusdamnosus isolées du vin: mise au point d’outils moléculaires de detection. Lait 81, 289–300.
+Warth, A.D., 1988. Effect of benzoic acid on growth yield of yeasts differing in their resistance to
+preservatives. Appl. Environ. Microbiol. 54 (8), 2091–2095.
+Weaver, J.C., Chizmadzhev, Y.A., 1996. Theory of electroporation: a review. Bioelectrochem. Bioenerg. 41,
+135–160.
+Yamada, T., Fatigati, M.A., Zhang, M., 2002. Performance of immobilized Zymomonas mobilis 31821 (pZB5) on
+actual hydrolysates produced by arkenol technology. Appl. Bioch. Biotechnol. 98, 899–907.
+Yslas, E.I., Ibarra, L.E., Peralta, D.O., Barbero, C.A., Rivarola, V.A., Bertuzzi, M.L., 2012. Polyanilinenanofibers:
+acute toxicity and teratogenic effect on Rhinellaarenarum embryos. Chemosphere 87, 1374–1380.
+Zain, M.E., 2011. Impact of mycotoxins on humans and animals. J. Saudi. Chem. Soc. 15, 129–144.
+Zimmerman, U., 1986. Electric breakdown, electropermeabilization and electrofision. Rev. Physiol. Biochem.
+Pharmacol. 105, 196–256.
+Zoecklein, B.W., Fugelsang, K.C., Gump, B.H., Nury, F.S., 1995. Wine Analysis and Production, first ed.
+Chapmann & Hall, New York.
+Zuehlke, J.M., Petrova, B., Edwards, C.G., 2013. Advances in the control of wine spoilage by Zygosaccharomyces
+and Dekkera/Brettanomyces. Annu. Rev. Food Sci. Technol. 4, 57–78.
+Zuniga, M., Miralles Md, M.C., Perez-Martinez, G., 2002. The product of arcR, the sixth gene of the arc operon of
+Lactobacillus sakei, is essential for expression of the arginine deiminase pathway. Appl. Environ. Microbiol.
+68, 6051–6058.
+
+314
+
+Chapter 9
+
+Further Reading
+Casal, M., Leão, C., 1995. Utilization of short-chain monocarboxylic acids by the yeast Torulaspora delbrueckii:
+specificity of the transport systems and their regulation. Biochim. Biophys. Acta 1267, 122–130.
+Commission Regulation (EC) No 53/2011, 2011. Amending Regulation (EC) No. 606/2009 laying down certain
+detailed rules for implementing Council Regulation (EC) No. 479/2008 as regards the categories of grapevine
+products, oenological practices and the applicable restrictions.
+Martin, M., Fernandez, M., Linares, D., Alvarez, M., 2005. Sequencing, characterization and transcriptional
+analysis of the histidine decarboxylase operon of Lactobacillus buchneri. Microbiol. 151, 1219–1228.
+O’Donnell, K., 1993. Fusarium and its near relatives. In: Reynolds, D.R., Taylor, J.W. (Eds.), The fungal
+holomorph: mitotic, meiotic and pleomorphic speciation in fungal systematics. CABI, Wallingford, pp
+225–233.
+Ough, C.S., Langbehn, L.L., 1976. Measurement of methylcarbamate by the addition of dimethyl dicarbonate to
+model solution and wines. J. Agric. Food Chem. 24, 428–430.
+Perez, L., Valcarcel, M.J., Gonzalez, P., Domecq, B., 1991. Influence of Botrytis infection of the grapes on the
+biological aging process of fino sherry. Am. J. Enol. Viticult. 42, 58–62.
+Peterson, T., Ough, C.S., 1979. Dimethyldicarbonate reaction with high alcohols. Am. J. Enol. Viticult. 30, 119.
+Ribéreau-Gayon, P., Glories, Y., Maujean, A., Dubourdieu, D., 2000b. Chemical nature, origins and consequences
+of the main organoleptic defects. The chemistry of Wine Stabilization and Treatments, Handbook of Enology,
+vol. 2, first ed. John Wiley, Sons, Ltd, Chichester, England, pp. 209–253.
+Zaman, M.Z., Abu Bakar, F., Selamat, J., Bakar, J., 2010. Occurrence of biogenic amines and amines degrading
+bacteria in fish sauce. Czech J. Food Sci. 28, 440–449.
+
+

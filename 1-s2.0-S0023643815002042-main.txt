@@ -1,0 +1,835 @@
+LWT - Food Science and Technology 63 (2015) 221e227
+
+Contents lists available at ScienceDirect
+
+LWT - Food Science and Technology
+journal homepage: www.elsevier.com/locate/lwt
+
+Dynamic behavior of Saccharomyces cerevisiae, Pichia kluyveri and
+Hanseniaspora uvarum during spontaneous and inoculated cocoa
+fermentations and their effect on sensory characteristics of chocolate
+Nadia Nara Batista b, Cíntia Lacerda Ramos a, Disney Dias Ribeiro b,
+Ana Carla Marques Pinheiro b, Rosane Freitas Schwan a, *
+a
+b
+
+Department of Biology, Federal University of Lavras, 37.200-000, Lavras, MG, Brazil
+Department of Food Science, Federal University of Lavras, 37.200-000, Lavras, MG, Brazil
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 November 2014
+Received in revised form
+30 January 2015
+Accepted 13 March 2015
+Available online 20 March 2015
+
+The dynamic of Saccharomyces cerevisiae, Pichia kluyveri and Hanseniaspora uvarum during spontaneous
+and inoculated cocoa fermentations and their effect on sensory characteristics of chocolate were
+investigated. Yeast populations were assessed by qPCR. S. cerevisiae was predominant during spontaneous (average 5.4 log cell/g) and inoculated (average 7.2 log cell/g) fermentations. The H. uvarum
+seemed to be suppressed by the other two yeasts, as it showed similar population (approximately
+4.0 log cell/g) even in the inoculated assay. Carbohydrates were consumed quickly at inoculated
+fermentation (68% and 42% were consumed in the inoculated and control assays respectively, at 24 h).
+Ethanol content was higher in the inoculated (8.3 g/kg at 48 h) than in the control (4.6 g/kg at 96 h)
+fermentation. Consumers did not report a signiﬁcant preference for either chocolate (p < 0.5). However,
+differences in the ﬂavor attributes were noted, as consumers reported stronger coffee and sour attributes
+in the inoculated assay. This is the ﬁrst time qPCR has been used to assess the dynamic of yeasts during
+the complex fermentation of cocoa beans. The inoculation accelerated the process. S. cerevisiae and
+P. kluyveri likely contributed coffee, sour and bitter ﬂavors to the inoculated chocolate.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Cocoa fermentation
+Starter culture
+Chocolate
+qPCR
+Sensory analysis
+
+1. Introduction
+Cocoa beans (Theobroma cacao L.) are the principal raw material
+of chocolate manufacture. Fermentation of the beans is essential for
+removing the pulp that envelops the beans and developing precursors of chocolate ﬂavor (Fowler, 2009). The cocoa fermentation
+consists of well-deﬁned microbial succession that is initially
+dominated by yeasts and subsequently surpassed by lactic acid
+bacteria (LAB), acetic acid bacteria (AAB) and then aerobic spore
+forming bacilli (Ardhana & Fleet, 2003; Garcia-Armisen et al., 2010;
+Lima, Almeida, Nout, & Zwietering, 2011; Schwan & Wheals, 2004).
+According to Ho, Zhao, and Fleet (2014), the yeast growth and activity are essential for cocoa bean fermentation and the development of chocolate characteristics. The yeast metabolism results in
+ethanol production, which will be converted to acetic acid by AAB,
+
+* Corresponding author. Federal University of Lavras , Department of Biology,
+rio, 3037, 37.200-000, Lavras, MG, Brazil. Tel.: þ55 38291614.
+Campus Universita
+E-mail address: rschwan@dbi.uﬂa.br (R.F. Schwan).
+http://dx.doi.org/10.1016/j.lwt.2015.03.051
+0023-6438/© 2015 Elsevier Ltd. All rights reserved.
+
+causing an increase in temperature during the fermentation, and a
+very strong vinegar-like aroma (Schwan & Wheals, 2004). Saccharomyces, Hanseniaspora (anamorph Kloeckera) and Pichia have been
+reported as the predominant genera found during cocoa fermentations (Jespersen, Nielsen, Hønholt, & Jakobsen, 2005; Moreira,
+Miguel, Duarte, Dias, & Schwan, 2013; Nielsen, Hønholt, TanoDebrah, & Jespersen, 2005; Nielsen et al., 2007). The use of
+starter culture for better control of the fermentation process in
+order to improve the quality of the fermented cocoa have been
+proposed by some researchers (Crafack et al., 2013; Leal Jr. et al.,
+2008; Lefeber, Papalexandratou, Gobert, Camu, & De Vuyst, 2012;
+Schwan, 1998). In order to observe the dynamic of starter culture
+during fermentations, plating or denaturing gradient gel electrophoresis (DGGE) techniques have been used for evaluation of
+starter culture species (Crafack et al., 2013; Lefeber et al., 2012;
+Schwan, 1998). However, these methods may present some limitations. The plating method requires different types of media and
+different culture protocols that inﬂuence which species are recovered. The metabolic status of the cells also results in the presence of
+
+222
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+
+2. Material and methods
+
+accordance with the manufacturer's instructions for DNA puriﬁcation from tissues. The DNA was stored at 20  C for further use.
+Speciﬁc primers for the S. cerevisiae, P. kluyveri and H. uvarum
+yeast species used in this study were previously described by Díaz,
+Molina, N€
+ahring, and Fischer (2013) and are shown in Table 1. The
+speciﬁcity of each primer pair was conﬁrmed by searching in
+GenBank using BLAST (http://www.ncbi.nlm.nih.gov/BLAST/).
+Real-time PCR was carried out using the Rotor-Gene Q System
+(Quiagen, Hombrechtikon, ZH, Switzerland). Each reaction
+comprised 12.5 mL 2 Rotor-Gene SYBR Green PCR Master Mix
+(Qiagen, Stockach, Konstanz, Germany), 0.8 mM of each primer
+(Invitrogen, S~
+ao Paulo, SP, Brazil) and 1 mL template DNA extracted
+from cocoa pulp for a total volume of 25 mL. The mixture was
+heated to 95  C for 10 min, followed by 40 cycles of denaturation
+at 95  C for 10 s, and annealing/extension at 60  C for 15 s. The
+cycling temperature was then increased by 1  C every 5 s from
+50  C to 99  C to obtain the melting curve. All analyses were
+performed in triplicate. The DNA concentration in the samples was
+limited to 50 ng per analysis, except for standard curves prepared
+from samples containing a known number of yeast cells. For
+standard curves, all yeast species were cultivated in YPD agar at
+30  C for 24 h. The cells were counted using a Neubauer chamber.
+DNA was extracted using the QIAamp DNA Mini Kit (Qiagen, Hilden, Germany) and serially diluted (1:10) from 108e107 down to
+10 cell/mL. Each point on the calibration curve was measured in
+triplicate.
+
+2.1. Fermentation and sampling
+
+2.3. Carbohydrates, alcohols and organic acids analysis
+
+The fermentation experiments were conducted at the Vale do
+Juliana cocoa farm in Igrapiúna, Bahia, Brazil. The ripe cocoa pods
+from PS1319 hybrid (Porto Seguro, Uruçuca, BA, Brazil) were harvested in November 2013. The cocoa pods were manually opened
+with a machete and the beans were immediately transferred to the
+fermentation house. The fermentation started approximately 4 h
+after the breaking of the pods and was performed in 0.06 m3
+wooden boxes. Each fermentation used 100 kg of cocoa beans.
+Fermentations were performed both with and without inoculation
+(control) of a mixed yeast starter culture containing S. cerevisiae
+UFLA CA11 (LNF- CA11, LNF Latino America, Bento Gonçalves, Rio
+Grande do Sul, Brazil), Pichia kluyveri UFLA YCH194 and Hanseniaspora uvarum UFLA YCH203 at the beginning of the process. The
+P. kluyveri and H. uvarum species were separately grown in YPD
+broth [10 g/L Yeast extract (Merck); 20 g/L Peptone (Himedia); 20 g/
+L dextrose (Merck)] at 30  C and 150 rpm, and replicated every 24 h.
+The cells were recovered by centrifugation (7000 rpm, 10 min) and
+re-suspended in 1 L of sterile peptone water [1 g/L Peptone
+(Himedia)]. This solution was spread over the cocoa beans, reaching
+a concentration of approximately 105 cells/g of cocoa. The
+S. cerevisiae UFLA CA11 yeast, which is lyophilized by LNF, was
+weighed (as recommended by the manufacturer's instructions) and
+mixed in the solution with other yeasts to reach a population of
+approximately 107 cells/g of cocoa. All fermentations were evaluated over a period of 168 h, and samples of approximately 100 g
+each were withdrawn at 0, 24, 48, 72, 96, 120, 144 and 168 h of the
+process. The samples were taken approximately 40 cm from the
+surface of the center of the fermenting cocoa mass, placed in sterile
+plastic pots and transferred to the laboratory. The samples for
+chemical and culture-independent analyses were stored at 20  C.
+All fermentations were performed in triplicate.
+
+The carbohydrates (glucose and fructose), organic acid (acetic,
+lactic, and citric acids) and alcohol (ethanol) from cocoa pulp and
+beans were extracted and analyzed using a liquid chromatography
+system (Shimadzu, model LC-10Ai, Shimadzu Corp., Japan)
+equipped with a dual detection system consisting of a UVeVis
+detector (SPD 10Ai) and a refractive index detector (RID-10Ai). A
+Shimadzu ion exclusion column (Shim-pack SCR-101H,
+7.9 mm  30 cm) was operated at 30  C for carbohydrates and
+alcohols, and 50  C for acids. Perchloric acid (100 mM) was used as
+the eluent at a ﬂow rate of 0.6 mL/min. The acids were detected
+via UV absorbance (210 nm), while the alcohols and carbohydrates
+were detected via RID. All samples were analyzed in triplicate, and
+individual compounds were identiﬁed based on the retention time
+of standards injected using the same conditions. The sample
+concentrations were determined using an external calibration
+method. Calibration curves were constructed by injecting different
+concentrations of the standards under the same conditions of the
+samples analyses and the areas obtained were plotted a linear
+curve whose equation was used to estimate the concentration of
+the compounds in the sample (Ramos, Dias, Miguel, & Schwan,
+2014).
+
+viable but non-culturable (VBNC) microbes, whose inﬂuence on
+fermentation can be underestimated because the population dynamics cannot be evaluated accurately (Cocolin & Ercolini, 2008).
+The DGGE serve as a fast source of information about the global
+population structure and may even detect the presence of the VBNC
+species (Giraffa & Neviani, 2001). However, it is not possible to
+quantify the population by using this technique. Quantitative realtime PCR (qPCR) is a faster and more reliable alternative to identify
+and quantify yeasts during fermentation (Hierro, Esteve-Zarzoso,
+ n, 2006) and is particularly advantaGonz
+alez, Mas, & Guillamo
+geous for VBNC yeasts because of its sensitivity (Zott et al., 2010).
+Although the technique cannot distinguish living cells from intact
+dead cells, it remains the most widely used method for the evaluation of yeast dynamics during fermentation because VBNC cells
+may continue to inﬂuence the ﬁnal product's characteristics
+regardless of their actual status (Cocolin & Ercolini, 2008). To our
+knowledge, qPCR has not been used to evaluate the yeast dynamic
+during the complex fermentation of cocoa. This work aimed to
+inoculate three yeast species (Saccharomyces cerevisiae, Hanseniaspora uvarum and Pichia kluyveri) during cocoa fermentations
+via qPCR and evaluate their dynamic behavior. Further, the effect of
+these inoculations on the sensory qualities of chocolate was evaluated. The chemical parameters (carbohydrates, ethanol and
+organic acids) during fermentations were also studied.
+
+2.2. DNA extraction and qPCR reaction
+The total DNA from the cocoa pulp was extracted from samples
+with a QIAamp DNA Mini Kit (Qiagen, Hilden, Germany) in
+
+2.4. Sensory analysis of chocolate
+After fermentation, the beans were sun dried in drying greenhouses. Thereafter, the dried beans from the two different
+fermentation processes (control and inoculated) were sent for
+~o
+chocolate production at Sartori and Pedroso Alimentos Ltda. (Sa
+Roque, SP, Brazil). The chocolate contained 70% cocoa.
+The sensory analyses of the two kinds of chocolates (from
+control and inoculated fermentations) were performed using a
+consumer acceptance test followed by a check-all-that-apply
+(CATA) question. The tests were conducted on 51 adults over 18
+years of age. Participants were 19.3% male and 80.7% female and
+were consumers of dark chocolate. For the acceptance test, the
+consumers evaluated how much they liked each sample using a 9-
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+
+223
+
+Table 1
+Speciﬁc primers used for qPCR analysis and qPCR parameters of standard curves obtained from 10-fold dilution of yeast strains DNA by qPCR.
+Species
+
+Primers
+Name
+
+S. cerervisiae
+P. kluyveri
+H. uvarum
+
+SC-5fw
+SC-3bw
+PK-5fw
+PK-3bw
+HU-5fw
+HU-3bw
+
+qPCR parameters
+Sequence
+0
+
+5 -AGGAGTGCGGTTCTTTGTAAAG-3
+50 -TGAAATGCGAGATTCCCCT-30
+50 -AGTCTCGGGTTAGACGT-30
+50 -GCTTTTCATCTTTCCTTCACA-30
+50 -GGCGAGGATACCTTTTCTCTG-30
+50 -GAGGCGAGTGCATGCAA-30
+
+0
+
+Product size
+
+R2
+
+Slope
+
+Efﬁciency (%)
+
+215 bp
+
+0.999
+
+3.420
+
+96
+
+169 bp
+
+0.998
+
+3.634
+
+88
+
+172 bp
+
+0.998
+
+3.515
+
+93
+
+Primers were described by Díaz et al. (2013).
+
+point hedonic scale (1 ¼ dislike extremely; 2 ¼ dislike very much;
+3 ¼ dislike moderately; 4 ¼ dislike slightly; 5 ¼ neither like nor
+dislike; 6 ¼ like slightly; 7 ¼ like moderately; 8 ¼ like very much;
+9 ¼ like extremely) (Stone & Sidel, 1993). For the CATA question, the
+consumers were asked to evaluate seven sensory attributes and
+select those they considered appropriate to describe the chocolate.
+The attributes were sour, fruity, bitter, astringent, coffee, nutty and
+sweet.
+The tests were performed in closed cabins with white illumination at the Sensory Analysis Laboratory, Food Science Department, Federal University of Lavras (Lavras, MG). The samples were
+labeled with three random digits on a white surface. These samples
+had a monadic form and followed a balanced order of presentation
+(Walkeling & Macﬁe, 1995). The chocolate was presented in 50 mL
+plastic cups containing approximately 2.5 g each. The subjects
+rinsed their mouths with water between tastings. The sensory
+analysis was performed with the approval of the local ethics
+committee (Federal Lavras University, Brazil).
+
+3.2. Carbohydrates, ethanol and organic acids during cocoa
+fermentation
+Carbohydrates, ethanol and organic acids were measured from
+the pulp and beans during the cocoa fermentations (Figs. 2 and 3).
+Their concentrations at 0 and 168 h are shown in Table 2. For the
+pulp, the initial concentrations of glucose, fructose and citric acid
+were approximately 25, 30 and 90 g/kg, respectively. The consumption of these compounds was observed at the initial time of
+fermentation (until around 70 h) and carbohydrates were
+consumed faster in the inoculated fermentation than in the control
+(Fig. 2). At 24 h of fermentation, glucose decreased to values of
+13.8 g/kg (control) and 5.4 g/kg (inoculated), and fructose showed
+
+3. Results
+3.1. qPCR analysis
+Spontaneous and inoculated fermentations of cocoa in a farm
+scale were performed in this study. For inoculations, the starter
+culture containing S. cerevisiae, P. kluyveri and H. uvarum yeast
+species was used. The dynamic behavior of the population of the
+starter culture species during cocoa fermentations in the two assays (control and inoculated) was monitored by qPCR. The sequences and product sizes of the primers are summarized in
+Table 1, as well as the qPCR parameters obtained for standard
+curves. Standard curves were established for each primers set. The
+reaction efﬁciencies ranged between 88% (P. kluyveri) and 96%
+(S. cerevisiae) with high reproducibility. The lowest detection limit
+was 102 cells mL1. The melt curve analysis for each PCR showed a
+single peak (data not shown).
+The yeasts S. cerevisiae, P. kluyveri and H. uvarum were detected
+and quantiﬁed during control and inoculated fermentations by
+qPCR (Fig. 1). S. cerevisiae was predominant in both fermentations;
+however, in the control the population was lower (ranging from 4.4
+to 5.9 log cell/g) than in the inoculated fermentation (ranging from
+6.7 to 7.9 log cell/g). In the control, the population of H. uvarum and
+P. kluyveri ranged from 3.4 to 4.5 log cell/g and 2.8 to 3.7 log cell/g,
+respectively. Whereas in the inoculated assay, P. kluyveri showed
+higher population than in the control (3.6e5.0 log cell/g) and
+H. uvarum showed similar population (3.6e4.5 log cell/g). It was
+expected that higher populations of these species would be found
+in the inoculated fermentation than in the control; however this
+was not the case for H. uvarum. It seems that the other yeasts,
+mainly S. cerevisiae, detected in highest numbers may inhibit the
+H. uvarum growth.
+
+Fig. 1. Dynamic behavior of S. cerevisiae (C), P. kluyveri (-), and H. uvarum (:) yeasts
+populations during the spontaneous (a) and inoculated (b) fermentations of cocoa,
+measured by qPCR. Standard deviation of mean ranged from 0.003 to 0.1 log cell g1.
+
+224
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+
+Fig. 2. Carbohydrates, organic acids and ethanol detected in the pulp during (a)
+spontaneous and (b) inoculated fermentations of cocoa. : ¼ glucose; - ¼ fructose;
+C ¼ ethanol; A ¼ acetic acid; , ¼ lactic acid; ✳ ¼ citric acid.
+
+concentrations of 17.4 g/kg (control) and 12.8 g/kg (inoculated).
+From 72 h, the concentration of carbohydrates was lower than 3 g/
+kg for both assays. Sucrose was not detected at the beginning of the
+fermentation, likely because it was hydrolyzed into glucose and
+fructose given that the fruit harvest was performed three days
+before fermentation. This procedure is common on Brazilian cocoa
+farms because the producers have observed that it accelerates the
+fermentation process. Citric acid present in the pulp was also
+consumed; however, in the inoculated assay this acid showed
+concentrations lower than 1 g/kg only at 72 h, while for the control
+this concentration was reached at 48 h. As observed in Fig. 2, from
+96 h for control and 144 h for inoculated fermentation, citric acid
+showed an increase, likely related to microbial metabolism. At the
+end of fermentation (168 h) the concentrations of citric acid
+detected were 14.0 and 12.1 g/kg for control and inoculated assays
+respectively.
+As expected, the ethanol concentration in the pulp was higher in
+the fermentation inoculated with yeasts, reaching the peak of
+ethanol production (around 8 g/kg) from 48 to 72 h, compared to
+the control, which showed maximum concentration of 4.6 g/kg at
+96 h. This fact may be due mainly to the S. cerevisiae inoculation,
+which was the predominant yeast detected by qPCR. For the acetic
+acid, the maximum concentrations were similar between the
+control and inoculated fermentations: 2.5 and 2.9 g/kg respectively,
+detected at 144 h. As ethanol was metabolized into acetic acid by
+acetic acid bacteria, it might have been expected that the highest
+concentrations of this acid would be in the inoculated assay;
+however, the concentrations of both fermentations were similar.
+This may be due to the high temperature of the fermentations'
+mass, around 45e50  C (data not shown), which favors ethanol
+
+Fig. 3. Carbohydrates, organic acids and ethanol detected in the beans during (a)
+spontaneous and (b) inoculated fermentations of cocoa. : ¼ glucose; - ¼ fructose;
+C ¼ ethanol; A ¼ acetic acid; , ¼ lactic acid; ✳ ¼ citric acid.
+
+evaporation and did not affect in the acetic acid concentration at
+the end of the process. Lactic acid was produced in the middle of
+the fermentation process (between 48 and 72 h), showing
+maximum concentrations of 1.2 g/kg (control) and 0.8 g/kg (inoculated) at 48 h.
+Fig. 3 shows the concentration of carbohydrates, ethanol and
+organic acids in the beans. The concentration of carbohydrates
+(lower than 2.7 g/kg) and lactic acid (lower than 0.2 g/kg) are
+similar in both experiments. Regarding ethanol, two peaks were
+observed in both assays. The ﬁrst peak occurred at 48 h with concentrations of 7.6 and 6.9 g/kg for control and inoculated fermentations, respectively. The second peak for the control assay occurred
+at 120 h (4.3 g/kg) and for the inoculated assay at 96 h (12.6 g/kg).
+Acetic acid was detected in the beans primarily toward the end of
+fermentation. The highest concentration of this acid was observed
+at 144 h with values of 3.1 and 4.9 g/kg for control and inoculated
+assays respectively. These data show that the production of ethanol
+(between 48 and 72 h) as well as acetic acid (between 120 and
+144 h), by microbial activities in the pulp caused penetration into
+the cotyledon and in combination with high temperature contributed to the death of the beans.
+
+3.3. Sensory analysis
+Sensory analyses were performed for both the chocolate produced from spontaneous fermentation and that produced by
+inoculated fermentation. The acceptance test and CATA question
+were given to untrained dark chocolate consumers. There were no
+signiﬁcant differences (p < 0.5) in acceptance between the two
+samples of chocolate. The result showed an average acceptance of
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+
+225
+
+Table 2
+Chemical compounds detected at 0 and 168 h in the control and inoculated fermentations.
+Compounds
+
+Pulp
+
+Beans
+
+0h
+Glucose
+Fructose
+Citric acid
+Lactic acid
+Acetic acid
+Ethanol
+
+24.26
+31.20
+90.66
+0.03
+0.41
+0.71
+
+Control (168 h)
+±
+±
+±
+±
+±
+±
+
+b
+
+2.02
+2.71b
+3.65a
+0.00c
+0.00c
+0.04c
+
+0.60
+1.63
+13.97
+0.21
+1.00
+1.22
+
+±
+±
+±
+±
+±
+±
+
+c
+
+0.01
+0.10b
+1.32a
+0.21c
+0.00b
+0.00b
+
+Inoculated (168 h)
+0.55
+1.28
+12.15
+0.05
+2.23
+2.38
+
+±
+±
+±
+±
+±
+±
+
+c
+
+0.04
+0.09b
+0.84a
+0.05c
+0.10b
+0.10b
+
+0h
+
+Control (168 h)
+b
+
+0.58 ± 0.02
+1.02 ± 0.09a
+e
+ND
+0.48 ± 0.01b
+ND
+
+0.71
+1.89
+e
+0.20
+1.96
+1.07
+
+b
+
+± 0.00
+± 0.09a
+
+± 0.00b
+± 0.02a
+± 0.00a
+
+Inoculated (168 h)
+1.08
+0.25
+e
+0.06
+3.98
+2.35
+
+± 0.09b
+± 0.00b
+± 0.00c
+± 0.36a
+± 0.74a
+
+Mean values ± standard deviation within the same column followed by different superscript letters differ signiﬁcantly (p < 0.05) by ScotteKnott test. Citric acid were not
+detected in the beans.
+
+6.5 and 6.4 for chocolates produced by control and inoculated assays respectively. This means that the consumers graded each of
+the chocolates “like slightly”. Answers to the CATA question show
+that the consumers found each of the chocolates to be mainly bitter
+(Fig. 4). However, a few differences were noted between the two
+chocolate samples. The chocolates produced by spontaneous
+fermentation were more related to sweetness than the chocolates
+produced by inoculated assay, while the chocolates produced by
+inoculated assay were more related to coffee and sour attributes
+than those from the control (Fig. 4).
+4. Discussion
+The dynamics of three yeasts (S. cerevisiae, H. uvarum and Pichia
+kluyeri) and their inﬂuence on sensory characteristics of chocolate
+were investigated in this work. Isolates of these yeasts were used as
+starter culture in order to observe their inﬂuence during the
+fermentation of cocoa beans and on the chocolate produced by
+these fermented beans. S. cerevisiae UFLA CA11 was previously used
+as starter culture in fermentations of different cocoa hybrids,
+including PS1319 (Ramos et al., 2014). According to Ramos et al., the
+inoculation of this strain accelerated the fermentation process.
+H. uvarum UFLA YCH203 and P. kluyveri YCH194 were isolated from
+cocoa fermentation (Moreira et al., 2013) and selected based on
+
+Fig. 4. Flavor proﬁles of the chocolates produced from cocoa beans spontaneously
+fermented (continuous line) and cocoa beans fermented with inoculations of yeasts
+starter culture (dotted line). The center of the diagram corresponds to the lowest ﬂavor
+intensity and the perimeter to the highest ﬂavor intensity.
+
+their stress tolerance and fermentation performance in lab assays
+(data not shown). H. uvarum has been described as an important
+yeast species associated with S. cerevisiae detected during Brazilian
+cocoa fermentations (Moreira et al., 2013; Ramos et al., 2014).
+Regarding P. kluyveri, this species has never been reported as being
+the dominant yeast species, however it has previously been
+described in fermentations in Ghana and Brazil (Jespersen et al.,
+2005; Moreira et al., 2013; Nielsen et al., 2005, 2007). Crafack
+et al. (2013) studied the inﬂuence of P. kluyveri on cocoa ﬂavor
+and observed that starter culture containing this yeast seemed to
+have a positive inﬂuence on the ﬂavor proﬁle of chocolate.
+In this study, a culture-independent method (qPCR) was used to
+detect S. cerevisiae, H. uvarum and P. kluyveri, the starter culture
+species used for cocoa fermentation. The qPCR is a faster and more
+reliable alternative to identify and quantify yeasts during fermentation (Hierro et al., 2006) than the methods based on the culture.
+Further, VBNC yeasts may be detected (Zott et al., 2010). The qPCR
+has been employed to detect, identify and quantify either pathogens or beneﬁcial populations such as fermenting microbes or
+probiotics in food products (Malorny, Lofstrom, Wagner, Kramer, &
+Hoorfar, 2008; Zott et al., 2010). However, studies using qPCR for
+microbial identiﬁcation from complex environmental samples such
+as cocoa fermentation are still scarce.
+The qPCR revealed that S. cerevisiae and H. uvarum populations
+showed similar values in the beginning of spontaneous (control)
+fermentation. However, after 24 h S. cerevisiae was predominant
+(average 5.4 log cell/g) among the three species. The stressor conditions during cocoa fermentation, including ethanol concentration
+and high temperature, inﬂuence the prevalence of adapted yeast,
+such as S. cerevisiae, that have been said to dominate fermentation
+, Berradre, Mas, Esteve-Zarzoso, & Guillamo
+n, 2012; Ard(Andorra
+hana & Fleet, 2003; Jespersen et al., 2005; Moreira et al., 2013;
+Ramos et al., 2014). The S. cerevisiae was followed by the H. uvarum
+population (average 4.0 log cell/g). Hanseniaspora genus and
+S. cerevisiae have been described as predominant yeasts during
+different laboratory and pilot-scale cocoa bean fermentations
+~es,
+(Moreira et al., 2013; Nielsen et al., 2007; Pereira, Magalha
+Almeida, Coelho, & Schwan, 2013; Pereira, Miguel, Ramos, &
+Schwan, 2012; Ramos et al., 2014). The species H. uvarum was
+previously described as an important yeast during different Brazilian cocoa hybrid fermentations (Moreira et al., 2013; Ramos et al.,
+2014). As expected, the P. kluyveri yeast was detected in low
+numbers (average 3.1 log cell/g) during spontaneous fermentation.
+When the yeast starter culture was employed, the yeast microbial proﬁle showed modiﬁcations. As observed in the results, the
+S. cerevisiae was still predominant (average 7.2 log cell/g) among
+the three species, as it was inoculated in higher concentrations than
+the others. P. kluyveri showed its highest (average 4.2 log cell/g)
+population in the inoculated assay, however H. uvarum showed
+similar numbers between the assays (average 3.9 log cell/g). The
+
+226
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+
+highest populations of S. cerevisiae and P. kluyveri likely suppressed
+the H. uvarum growth in the inoculated fermentation. Although the
+inoculated yeasts were previously tested for some stressful conditions (data not shown), in a complex system containing different
+microorganisms a competition is an important issue that should be
+considerate. The increase in the Saccharomyces population matched
+a large decrease in the Hanseniaspora population, as has been
+n, 2007;
+widely reported (Hierro, Esteve-Zarzoso, Mas, & Guillamo
+Nissen & Arneborg, 2003; Nissen, Nielsen, & Arneborg, 2003;
+rez-Nevado, Albergaria, Hogg, & Girio, 2006). The ability of
+Pe
+S. cerevisiae to displace other microbial species during fermentations has always been attributed to its higher fermentative power
+and capacity to withstand the increasingly adverse conditions
+established in the medium as the fermentation progresses. These
+conditions include high levels of ethanol and organic acids, low pH
+values, scarce oxygen availability, high temperature and depletion
+of certain nutrients (Goddard, 2008; Hansen, Nissen, Sommer,
+Nielsen, & Arneborg, 2001). Further, species belonging to Pichia
+genera, including P. kluyveri as well as S. cerevisiae, have been reported as killer toxin-producing yeast (Branco et al., 2014; Santos,
+Marquina, Leal, & Peinado, 2000). These species produce toxins
+against other yeast genera including killer-sensitive strains of
+H. uvarum (Santos et al., 2000). All of these attributes probably
+favored the S. cerevisiae and P. kluyveri growth relative to H. uvarum
+during inoculated cocoa fermentation. Consequently, some characteristics observed during fermentation, including high ethanol
+concentration (Figs. 2b and 3b) and the sour, bitter and coffee ﬂavors detected in the chocolate (Fig. 4), may be mainly related to the
+metabolism of these two yeasts' isolates.
+According to the chemical results, carbohydrates were
+consumed faster (Fig. 2) in the inoculated assay. This is likely due to
+the higher population of S. cerevisiae in the inoculated assay than in
+the control. Further, higher ethanol concentrations (almost two
+times the concentration detected in the control) were observed in
+this assay. However, this was not the case for acetic acid. Similar
+results were found by Ramos et al. (2014) using S. cerevisiae UFLA
+CA11 as a single inoculant in cocoa fermentation. These authors
+suggested that ethanol was likely partially eliminated by evaporation and it did not affect in the acetic acid concentration at the end
+of the process, concluding that the yeast S. cerevisiae UFLA CA11
+accelerated the fermentation, preventing undesirable microorganisms growth.
+In order to investigate the inﬂuence of starter culture on the
+ﬁnal product, two chocolates were produced and their sensory
+characteristics were evaluated. The consumers graded both chocolate samples “like slightly”. Although there were no signiﬁcant
+differences (p < 0.5) in acceptance for chocolates produced by
+spontaneous and inoculated fermentations, other differences were
+observed. Bitter, sour and coffee ﬂavor attributes were more
+strongly detected in the inoculated sample. It is known that the
+quantity, nature and distribution of the microorganisms present in
+the cocoa pulp will determine the speed and intensity of the
+fermentation as well as the quality of the fermented beans and the
+chocolate made from them (Camu et al., 2008). The inoculated
+yeasts S. cerevisiae UFLA CA11 and P. kluyveri UFLA YCH194, which
+showed higher populations in the inoculated assay, may contribute
+to the sensory characteristics observed in that assay. Further, the
+fermentation process seemed to be accelerated in this assay.
+5. Conclusions
+This study is the ﬁrst to use the qPCR technique to assess the
+dynamic behavior of yeast during the complex fermentation of
+cocoa beans. A predominance of S. cerevisiae was observed during
+spontaneous fermentation of cocoa hybrid PS1319 compared to
+
+H. uvarum and P. kluyveri. During inoculated fermentation, the
+population of H. uvarum seemed to be suppressed by the high
+populations of the other two inoculated yeasts, mainly S. cerevisiae,
+which was also predominant in the inoculated assay. Starter culture
+accelerated the consumption of carbohydrates, and thus the highest ethanol concentrations were observed. Further, the detection of
+highest and early ethanol and acetic acid into the cotyledon in the
+inoculated assay, may contribute to acceleration in the death of the
+beans and consequently the fermentation process. The acceptance
+of chocolate samples produced by the two different assays did not
+differ signiﬁcantly; however, a few differences in the attributes
+related to chocolate ﬂavor could be observed. The inoculation
+produced chocolate with stronger coffee and sour notes than the
+chocolate produced by spontaneous fermentations. However,
+studies regarding volatile compounds produced by fermentation
+and microbial diversity are important in order to better understand
+the role of these yeasts during cocoa fermentation and in the
+chocolate made from the fermented beans.
+Acknowledgments
+The authors thank the Brazilian agencies Conselho Nacional de
+gico do Brasil (CNPq),
+Desenvolvimento Cientíﬁco e Tecnolo
+Fundaç~
+ao de Amparo 
+a Pesquisa do Estado de Minas Gerais
+~o de Aperfeiçoamento de Pessoal de
+(FAPEMIG), and Coordenaça
+Nível Superior (CAPES) for ﬁnancial support. The authors gratefully
+acknowledge the anonymous referees for their comments and
+constructive suggestions for improving the quality of this
+manuscript.
+References
+, I., Berradre, M., Mas, A., Esteve-Zarzoso, B., & Guillamo
+n, J. M. (2012). Effect
+Andorra
+of mixed culture fermentations on yeast populations and aroma proﬁle. LWT e
+Food Science and Technology, 49, 8e13.
+Ardhana, M., & Fleet, G. (2003). The microbial ecology of cocoa bean fermentations
+in Indonesia. International Journal of Food Microbiology, 86, 87e99.
+braud, M., Arneborg, N., Almeida, M. G.,
+Branco, P., Francisco, D., Chambon, C., He
+et al. (2014). Identiﬁcation of novel GAPDH-derived antimicrobial peptides
+secreted by Saccharomyces cerevisiae and involved in wine microbial interactions. Applied Microbiology and Biotechnology, 98, 843e853.
+Camu, N., De Winter, T., Addo, S. K., Takrama, J. S., Bernaert, H., & De Vuyst, L. (2008).
+Fermentation of cocoa beans: inﬂuence of microbial activities and polyphenol
+concentrations on the ﬂavor of chocolate. Journal of the Science of Food and
+Agriculture, 88, 2288e2297.
+Cocolin, L., & Ercolini, D. (2008). Molecular techniques in the microbial ecology of
+fermented foods. Naples: Springer.
+Crafack, M., Mikkelsen, M. B., Saerens, S., Knudsen, M., Blennow, A., Lowor, S., et al.
+(2013). Inﬂuencing cocoa ﬂavor using Pichia kluyveri and Kluyveromyces marxianus in a deﬁned mixed starter culture for cocoa fermentation. International
+Journal of Food Microbiology, 167, 103e116.
+Díaz, C., Molina, A. M., N€
+ahring, J., & Fischer, R. (2013). Characterization and dynamic behavior of wild yeast during spontaneous wine fermentation in steel
+tanks and amphorae. Biomed Research International, 1e13, 540465.
+Fowler, M. S. (2009). Cocoa beans: from the tree to factory. In S. T. Beckett (Ed.),
+Industrial chocolate manufacture and use (pp. 10e47). Chichester: Blackwell
+Publishing Ltd.
+Garcia-Armisen, T., Papalexandratou, Z., Hendryckx, H., Camu, N., Vrancken, G., De
+Vuyst, L., et al. (2010). Diversity of the total bacterial community associated
+with Ghanaian and Brazilian cocoa bean fermentation samples as revealed by a
+16 S rRNA gene clone library. Applied Microbiology and Biotechnology, 87,
+2281e2292.
+Giraffa, G., & Neviani, E. (2001). DNA-based, culture-independent strategies for
+evaluating microbial communities in food-associated ecosystems. International
+Journal of Food Microbiology, 67, 19e34.
+Goddard, M. R. (2008). Quantifying the complexities of Saccharomyces cerevisiae's
+ecosystem engineering via fermentation. Ecology, 89, 2077e2082.
+Hansen, E. H., Nissen, P., Sommer, P., Nielsen, J. C., & Arneborg, N. (2001). The effect
+of oxygen on the survival of non-Saccharomyces yeasts during mixed culture
+fermentations of grape juice with Saccharomyces cerevisiae. Journal of Applied
+Microbiology, 91, 541e547.
+n, J. M. (2006). RealHierro, N., Esteve-Zarzoso, B., Gonz
+alez, A., Mas, A., & Guillamo
+time quantitative PCR (QPCR) and reverse transcription-QPCR for detection and
+enumeration of total yeasts in wine. Applied and Environmental Microbiology, 72,
+7148e7155.
+
+N.N. Batista et al. / LWT - Food Science and Technology 63 (2015) 221e227
+n, J. M. (2007). Monitoring of
+Hierro, N., Esteve-Zarzoso, B., Mas, A., & Guillamo
+Saccharomyces and Hanseniaspora populations during alcoholic fermentation by
+real-time quantitative PCR. FEMS Yeast Research, 7, 1340e1349.
+Ho, V. T. T., Zhao, J., & Fleet, G. (2014). Yeasts are essential for cocoa bean fermentation. International Journal of Food Microbiology, 174, 72e87.
+Jespersen, L., Nielsen, D. S., Hønholt, S., & Jakobsen, M. (2005). Occurrence and
+diversity of yeasts involved in fermentation of West African cocoa beans. FEMS
+Yeast Research, 5, 441e453.
+Leal, G. A., Jr., Gomes, L. H., Efraim, P., de Almeida, F. C., & Figueira, A. (2008).
+Fermentation of cacao (Theobroma cacao L.) seeds with a hybrid Kluyveromyces
+marxianus strain improved product quality atributes. FEMS Yeast Research, 8,
+788e798.
+Lefeber, T., Papalexandratou, Z., Gobert, W., Camu, N., & De Vuyst, L. (2012). On-farm
+implementation of a starter culture for improved cocoa bean fermentation and
+its inﬂuence on the ﬂavour of chocolates produced thereof. Food Microbiology,
+30, 379e392.
+Lima, L. J. R., Almeida, M. H., Nout, M. J. R., & Zwietering, M. H. (2011). Theobroma
+cacao L., “the food of the gods”: quality determinants of commercial cocoa
+beans, with particular reference to the impact of fermentation. Critical Reviews
+in Food Science and Nutrition, 51, 731e761.
+Malorny, B., Lofstrom, C., Wagner, M., Kramer, N., & Hoorfar, J. (2008). Enumeration
+of salmonella bacteria in food and feed samples by real-time PCR for quantitative microbial risk assessment. Applied and Environmental Microbiology, 74,
+1299e1304.
+Moreira, I. M. V., Miguel, M. G. C. P., Duarte, W. F., Dias, D. R., & Schwan, R. F. (2013).
+Microbial succession and the dynamics of metabolites and sugars during the
+fermentation of three different cocoa (Theobroma cacao L.) hybrids. Food
+Research International, 54, 9e17.
+Nielsen, D. S., Hønholt, S., Tano-Debrah, K., & Jespersen, L. (2005). Yeast populations
+associated with Ghanaian cocoa fermentations analysed using denaturing
+gradient gel electrophoresis (DGGE). Yeast, 22, 271e284.
+Nielsen, D. S., Teniola, O. D., Ban-Kofﬁ, L., Owusu, M., Andersson, T., &
+Holzapfel, W. H. (2007). The microbiology of Ghanaian cocoa fermentations
+analysed using culture dependent and culture independent methods. International Journal of Food Microbiology, 114, 168e186.
+Nissen, P., & Arneborg, N. (2003). Characterization of early deaths of non-Saccharomyces yeasts in mixed cultures with Saccharomyces cerevisiae. Archives of
+Microbiology, 180, 257e263.
+
+227
+
+Nissen, P., Nielsen, D., & Arneborg, N. (2003). Viable Saccharomyces cerevisiae cells at
+high concentrations cause early growth arrest of non-Saccharomyces yeasts in
+mixed cultures by a cell-cell contact-mediated mechanism. Yeast, 20, 331e341.
+~es, K. T., Almeida, E. G., Coelho, I. S., & Schwan, R. F. (2013).
+Pereira, G. V. M., Magalha
+Spontaneous cocoa bean fermentation carried out in a novel-design stainless
+steel tank: Inﬂuence on the dynamics of microbial populations and physicalechemical properties. International Journal of Food Microbiology, 161,
+121e133.
+Pereira, G. V. M., Miguel, M. G. C. P., Ramos, C. L., & Schwan, R. F. (2012). Microbiological and physicochemical characterization of small-scale cocoa fermentations and screening of yeast and bacteria strains to develop a deﬁned starter
+culture. Applied and Environmental Microbiology, 78, 5395e5405.
+rez-Nevado, F., Albergaria, H., Hogg, T., & Girio, F. (2006). Cellular death of two
+Pe
+non-Saccharomyces wine-related yeasts during mixed fermentations with
+Saccharomyces cerevisiae. International Journal of Food Microbiology, 108,
+336e345.
+Ramos, C. L., Dias, D. R., Miguel, M. G. C. P., & Schwan, R. F. (2014). Impact of different
+cocoa hybrids (Theobroma cacao L.) and S. cerevisiae UFLA CA11 inoculation on
+microbial communities and volatile compounds of cocoa fermentation. Food
+Research International, 64, 908e918.
+Santos, A., Marquina, D., Leal, J. A., & Peinado, J. M. (2000). (1/6)-b-DGlucan as cell
+wall receptor for Pichia membranifaciens killer toxin. Applied and Environmental
+Microbiology, 66, 1809e1813.
+Schwan, R. F. (1998). Cocoa fermentations conducted with a deﬁned microbial
+cocktail inoculum. Applied and Environmental Microbiology, 64, 1477e1483.
+Schwan, R. F., & Wheals, A. E. (2004). The microbiology of cocoa fermentation and
+its role in chocolate quality. Critical Reviews in Food Science and Nutrition, 44,
+205e221.
+Stone, H. S., & Sidel, J. L. (1993). Sensory evaluation practices. California: Academic
+Press.
+Walkeling, I. N., & Macﬁe, J. H. (1995). Designing consumer trials balanced for ﬁrst
+and higher orders of carry-over effect when only a subset of k samples from t
+may be tested. Food Quality and Preference, 6, 299e308.
+Zott, K., Claisse, O., Lucas, P., Coulon, J., Lonvaud-Funel, A., & Masneuf-Pomarede, I.
+(2010). Characterization of the yeast ecosystem in grape must and wine using
+real-time PCR. Food Microbiology, 27, 559e567.
+
+

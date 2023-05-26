@@ -1,0 +1,992 @@
+Crop Protection 125 (2019) 104902
+
+Contents lists available at ScienceDirect
+
+Crop Protection
+journal homepage: www.elsevier.com/locate/cropro
+
+Improved insecticidal control of spotted wing drosophila (Drosophila
+suzukii) using yeast and fermented strawberry juice baits
+Ralph Noble a, *, Andreja Dobrovin-Pennington a, Amy Phillips b, Madeleine F.L. Cannon c,
+Bethan Shaw c, Michelle T. Fountain c
+a
+b
+c
+
+Microbiotech Ltd, Pershore Centre, Warwickshire College, Pershore, Worcestershire, UK
+Warwickshire College Group, Pershore College, Pershore, Worcestershire, UK
+NIAB EMR, East Malling, Kent, UK
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Hanseniaspora uvarum
+Summer
+Winter
+Morph
+Phagostimulant
+
+The phagostimulant effect of baits on the Drosophila suzukii control efficacy of different insecticides applied at
+sub-lethal concentrations was tested in bioassays. The baits were fermented strawberry juice (FSJ), a suspension
+of the yeast Hanseniaspora uvarum, a combination of the two and Combi-protec, a proprietary mixture of plant
+extract, proteins and sugars. Without insecticides, the baits did not affect D. suzukii mortality. With spinosad,
+cyantraniliprole or lambda-cyhalothrin, the baits caused higher mortality of D. suzukii summer morphs, under
+summer conditions, compared with using the insecticides in water. The mortality and reduced reproduction
+efficacy of insecticides was greater with H. uvarum, FSJ þ H. uvarum or Combi-protec treatments compared with
+FSJ only bait. H. uvarum and FSJ baits also increased the mortality of D. suzukii winter morphs, held under winter
+conditions, when used with spinosad or cyantraniliprole but not with lambda-cyhalothrin. Cyantraniliprole þ
+H. uvarum also reduced oviposition in winter morphs that were transferred to summer conditions after three days
+of exposure to treatments under winter conditions. Leaf type did not have an impact on combined bait and
+insecticide treatments; all were effective when applied to blackberry, blueberry, cherry, raspberry or strawberry
+leaves. Phagostimulant baits improved the insecticidal control of D. suzukii summer and winter morphs by
+increasing mortality and reducing oviposition and the lethal dose of insecticides. The relative phagostimulant
+effect of the baits did not fully correspond with their olfactory attraction to D. suzukii.
+
+1. Introduction
+Spotted wing drosophila (Drosophila suzukii Matsumura) is a major
+invasive pest of soft fruit in North and South America and Europe
+(Asplen et al., 2015; Schlesener et al., 2017; Cai et al., 2018). Although
+repeated sprays with insecticides have provided control of D. suzukii,
+some effective active ingredients such as malathion have been or are
+being withdrawn from use in EU countries (Smirle et al., 2017; Schles­
+ener et al., 2017; Lainsbury, 2018). Spinosad has also provided effective
+control (Bruck et al., 2011; Rosensteel and Sial, 2017) but recently re­
+ported resistance of D. suzukii to spinosad in North America (Gress and
+Zalom, 2018) has increased the urgency for improving the control effi­
+cacy of alternative insecticides.
+
+Baits such as sucrose have been used to improve efficacy of in­
+secticides such as spinosad and acetamiprid in the field (Cowles et al.,
+2015). Corn steep liquor or corn syrup did not improve the D. suzukii
+control efficacy of spinosad or cyantraniliprole in field cherries (Prunus
+avium L.) or raspberries (Rubus idaeus L.) (Knight et al., 2016; Fanning
+et al., 2018). Certain fermentation and refining products, such as vine­
+gar, wine, molasses, yeasts and proteins are known to be attractive to
+D. suzukii (Rouzes et al., 2011; Landolt et al., 2012; Cai et al., 2018) and
+have therefore been used as baits and/or in monitoring traps for this
+pest. A mixture of sugar and bakers’ or brewers’ yeast (Saccharomyces
+cerevisiae Meyen ex E.C. Hansen) improved the control of D. suzukii with
+spinosad in the field, although in laboratory tests, the addition of
+S. cerevisiae to sugar did not significantly reduce egg densities in fruit
+
+Abbreviations: FSJ, Fermented strawberry juice; SJ, Strawberry juice.
+* Corresponding author.
+E-mail addresses: RNOBLE@warwickshire.ac.uk (R. Noble), ADOBROVINPENNINGTON@warwickshire.ac.uk (A. Dobrovin-Pennington), phi15446776@student.
+warwickshire.ac.uk (A. Phillips), Madeleine.Cannon@nyetimber.com (M.F.L. Cannon), bethan.shaw@emr.ac.uk (B. Shaw), michelle.fountain@emr.ac.uk
+(M.T. Fountain).
+https://doi.org/10.1016/j.cropro.2019.104902
+Received 10 June 2019; Received in revised form 19 July 2019; Accepted 24 July 2019
+Available online 26 July 2019
+0261-2194/© 2019 Elsevier Ltd. All rights reserved.
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+compared with sugar alone (Knight et al., 2016). Roubos et al. (2019)
+did not find an improvement in D. suzukii control using spinosad in
+blueberries (Vaccinium corymbosum F.) from using sugar and S. cerevisiae
+as phagostimulant baits. D. suzukii is more attracted to the yeast Han­
+seniaspora uvarum (Niehaus), commonly found in its digestive tract and
+on infested fruit, than to S. cerevisiae (Hamby et al., 2012; Scheidler
+et al., 2015). In laboratory tests, application of both H. uvarum and
+spinosad to leaves increased mortality and reduced oviposition of
+D. suzukii compared with using only spinosad (Mori et al., 2017). A
+proprietary feeding attractant composed of organic acids and peptides
+(Suzukii Trap, Bioiberica, Barcelona, Spain), improved the insecticidal
+activity of dimethoate, lambda-cyhalothrin and spinosad applied to
+fruits in laboratory assays (Andreazza et al., 2017) and 50% Suzukii
+Trap improved D. suzukii control with spinosad in the field (van Steen­
+wyk et al., 2016). A mixture of 40% corn steep liquor, 30% apple cider
+vinegar and 30% wine also reduced D. suzukii infestation but the acidic
+vinegar caused foliage damage (van Steenwyk et al., 2016).
+Combi-protec (Dedetec, Freiburg, Germany), a proprietary mixture of
+plant extract, proteins and sugars, improved D. suzukii control with
+spinosad and acetamiprid (Dederichs, 2015). The attractiveness of a
+protein bait made from brewery yeast waste to D. suzukii declined when
+the pyrethroids cypermethrin and cyhalothrin, but not spinosad, were
+incorporated at 0.05 %v/v (Cai et al., 2018). A proprietary attractant
+bait combined with spinosad (HOOK SWD, ISCA Technologies Inc.,
+Tiverside, CA) reduced raspberry and blueberry crop fruit infestations
+with D. suzukii by 2–8 times fewer compared with untreated or
+conventionally insecticide sprayed plots (Klick et al., 2019).
+D. suzukii undergoes reproductive diapause in response to moder­
+ately cool temperatures of 10–15 � C during larval development. The
+resulting winter forms of the adults or ‘morphs’ are larger and darker,
+and more resistant to cold and starvation than summer morphs (Wall­
+ingford and Loeb, 2016). The efficacy of insecticides on D. suzukii
+mortality, such as that referred to above, has primarily been tested on
+summer morphs which are found throughout the cropping season in the
+warmer months. The efficacy of insecticides, and the influence of baits to
+control winter morphs has not been previously investigated although
+Wong et al. (2018) did not find a clear difference in attraction to
+fermentation odours between summer and winter morphs. While winter
+morph D. suzukii are not a direct threat to commercial fruit, the lack of
+feeding resource during the colder months provides an opportunity to
+reduce over-wintering populations by the use of phagostimulants with
+insecticides. The fewer flies that survive the winter, the fewer there are
+to invade commercial crops and result in higher populations building up
+during the cropping season (Wiman et al., 2014; Rossi-Stacconi et al.,
+2016).
+The above work indicates that the most promising phagostimulant
+baits for insecticidal control of D. suzukii summer morphs are those
+based on yeasts (particularly H. uvarum), fermentation products, plant
+extracts and sugars. The aims of this work were to (1) compare the ol­
+factory attractiveness of baits and their phagostimulant effect when
+combined with insecticides at sub-lethal concentrations in a laboratory
+bioassay on D. suzukii summer and winter morph adult flies and (2) to
+assess whether the baits and/or insecticides changed in efficacy when
+applied to different fruit plant leaves. Insecticides commonly used to
+target D. suzukii were used with and without Combi-protec and a sus­
+pension of H. uvarum. Fermented strawberry (Fragaria vesca L.) juice
+(FSJ) was also evaluated as a new bait. Strawberry production results in
+around five tonnes of waste fruit per hectare which is often disposed of
+in sealed bins to prevent spread of D. suzukii from infested fruit. The
+resulting fermented liquor contains natural yeasts and is attractive to
+D. suzukii (Noble et al., 2017), potentially providing a free phag­
+ostimulant bait for growers to use in conjunction with insecticides.
+
+2. Materials and methods
+2.1. Flies
+Summer morph D. suzukii were reared in Drosophila Quick Mix
+Medium (Blades Biological Ltd, Edenbridge, Kent, UK) in mesh Bug­
+Dorm cages (475 � 475 � 475 mm, Watkins & Doncaster, Leominster,
+UK) in a room at 21 � 1 � C with a photoperiod of 16:8 (L:D) h to simulate
+summer conditions; this was done for all experiments except where
+stated. Winter morph D. suzukii were produced by transferring 10-day
+old larvae reared under summer conditions, as above, to 13 � C with a
+photoperiod of 8:16 (L:D) h to simulate winter conditions (Wiman et al.,
+2014; Shearer et al., 2016). For both morphs, the dishes of food
+(Drosophila Quick Mix Medium) were removed from cages 12 h before
+the start of the tests which were conducted with 3–10 day-old D. suzukii
+adults.
+2.2. Baits
+Baits were prepared with tap water. Yeast cell populations in
+S. cerevisiae, H. uvarum and/or FSJ treatments were determined by
+counting cell numbers in serial dilutions at � 40 magnification with a
+haemocytometer (type MNK-400-H, Weber Scientific International Ltd,
+Teddington, Greater London). Active dry bakers’ yeast (S. cerevisiae)
+(Easy Bake Yeast, Allinson Flour, Peterborough, UK) was added at
+3.6 g l 1 to a solution of sucrose sugar (16 g l 1) to produce a suspension
+containing 1.4 (SD � 0.2) cells � 109 ml 1. A suspension of H. uvarum
+(strain 11-382 from the Phaff Yeast Culture Collection, Food Science, UC
+Davis, CA) was prepared by washing each of ten 90 mm Petri dishes of
+H. uvarum cultures grown on potato dextrose agar (Oxoid Ltd, Basing­
+stoke, Hants., UK) with 7 ml of a sugar solution (16 g l 1). The volume of
+the retrieved suspension was approximately 60 ml and it contained 1.2
+(SD � 0.5) cells � 109 ml 1. Strawberry juice (SJ) was prepared by
+crushing fresh, ripe, strawberries with a mortar and pestle followed by
+filtering through a 1 mm mesh screen. FSJ was prepared by placing
+crushed strawberries in sealed 2 L containers for 10 days at 20 � C (Noble
+et al., 2017). The resulting liquid fraction was then separated from the
+surface solid material and filtered with a 1 mm mesh screen. A combined
+H. uvarum suspension þ FSJ bait was prepared by washing the above
+H. uvarum culture plates with FSJ instead of water. Sugar (16 g l 1) was
+added to the resulting FSJ and FSJ þ H. uvarum suspensions, which
+contained 1.0 (SD � 0.8) � 109 and 1.1 (SD � 0.9) � 109 yeast cells
+ml 1. Gasser liquid attractant (Riga AG, Ellikon a.d. Thur, Switzerland),
+a proprietary vinegar-wine-based attractant, was used at 100%.
+Combi-protec bait was prepared as a 5% v/v solution (Dederichs, 2015).
+Molasses and sucrose sugar were prepared as 50 and 160 g l 1 solutions
+respectively. Baits were prepared on the day of setting up experiments.
+To test for D. suzukii phagostimulant effect and lack of toxicity of the
+above baits, red food colouring containing anthocyanins (Sainsbury’s
+Supermarkets Ltd, London) was added at 5.5 μl ml 1 to samples of the
+prepared H. uvarum, Combi-protec and FSJ baits and pipetted as two
+10 μl droplets on two blackberry leaves. The leaves were placed in clear
+plastic containers (n ¼ 4) with 10 male and 10 female D. suzukii, and
+maintained in summer conditions. After 24 h, �90% of males and fe­
+males in all containers were alive and with red colouring in the digestive
+tract.
+2.3. Olfactory attraction
+The relative olfactory attraction of baits to D. suzukii was monitored
+with a 32 channel Locomotor Activity Monitoring rig (type LAM25H,
+TriKinetics Inc., Waltham, MA), the same as in the photograph in Anon.
+(2018). The rig consisted of an 8 � 4 matrix of horizontal plastic tubes
+(65 mm length � 25 mm internal diameter), centres spaced 38 mm
+apart. The tubes were open at one end so that D. suzukii could fly in and
+out. Each tube had a planar array of nine infra-red beams at its
+2
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+mid-point; when a fly crossed and interrupted the beams, by entering or
+re-entering a tube, this was registered as a count. The counts were
+uploaded to a host computer to determine the activity in each tube over
+a three-day period. A 0.2 ml droplet of the following baits was placed in
+the closed ends of the tubes: (a) S. cerevisiae suspension (b) H. uvarum
+suspension (c) SJ (d) FSJ (e) Gasser (f) Combi-protec (g) molasses (h)
+sugar. The rig was placed inside a BugDorm cage (475 � 475 � 475 mm)
+into which 160 (�12) adult summer morph D. suzukii, with males and
+females in approximately equal proportions, were released. The base of
+the cage was lined with moist tissue paper that was periodically
+rewetted to maintain a humid environment. The tests were conducted in
+a laboratory between 15 March and 7 July 2017 in natural, shaded
+daylight at 20 � C.
+
+latter medium allowed for easier counting of eggs, and was more uni­
+form with less risk of pesticide residues. D. suzukii adults were cold
+sedated by transferring them into sealed plastic tubes (93 � 23 mm)
+which were placed in a freezer compartment at 17 � C for 45 s. Seven
+mated females and five males of cold sedated D. suzukii adults were
+placed in each jar with the filter paper rewetted with 1 ml water after
+one day, to maintain a relative humidity of 97.3 � 1.7%. Jars were
+positioned in the summer or winter environmental conditions depend­
+ing on the experiment. Mortality and the number of eggs in the grape
+juice agar were assessed after 3 days, and again after a further 11 days in
+jar bioassay Experiment 3. In all the experiments, treatments were
+replicated in time, with replicate sets of jars set up on separate days
+using different cohorts of flies. This set up was used in the following jar
+bioassay experiments.
+
+2.4. Insecticide bioassays set up
+
+2.4.1. Jar bioassay experiment 1: comparison of baits and insecticides
+The bait treatments, applied as droplets to leaves, were: (i) H. uvarum
+suspension (ii) FSJ (iii) FSJ þ H. uvarum suspension (iv) Combi-protec or
+(v) water control. These baits were applied with or without the following
+insecticides (concentrations in Table 1): (i) spinosad (ii) cyantraniliprole
+(iii) thiacloprid (iv) acetamiprid (v) lambda-cyhalothrin (vi) pyrethrum
+or (vii) water control. The experiment comprised of 5 baits � 7 in­
+secticides � 4 replicates, hence 140 bioassay jars.
+
+A jar bioassay similar to that described in Mori et al. (2017) was
+modified to test the effect of baits and different insecticides at sub-lethal
+concentrations on D. suzukii mortality and oviposition. Concentrations
+within this assay (Table 1) were determined from preliminary tests in
+which range finding assays were performed, similar to those described
+below (results not shown). The 750 ml clear plastic jars (103 mm
+diameter, 95 mm height) (Involvement Packaging Ltd, Banbury, Oxon.,
+UK) had a 10 mm diameter ventilation hole covered with fine mesh in
+the opaque screw-on lid and were lined with moist filter paper in the
+base. The jars contained three unsprayed wild blackberry (Rubus fruti­
+cosus L. agg.) leaves (about 25 � 20 mm), or other leaf types of similar
+size where stated. Insecticide and/or bait were pipetted as six 10 μl
+droplets on two of the leaves and six 10 μl droplets of sugar solution
+(160 g l 1) on the third leaf. Insecticides and bait combinations varied
+between experiments (see 2.4.1 to 2.4.3 for combinations). The droplets
+were allowed to dry for 1 h.
+An open 30 mm Petri dish with grape juice agar was placed as an
+oviposition medium in the base of the jars. Grape juice agar was pre­
+pared from agar (34.7 g, Agar No. 3, Oxoid Ltd), red grape juice (333 ml,
+Sainsbury’s Supermarkets Ltd), dextrose (33.3 g, Oxoid Ltd) and Nipagin
+(2.0 g, Sigma-Aldrich, Gillingham, Dorset, UK) per litre distilled water.
+Preliminary tests with seven mated females and five males of 3–10 day
+old D. suzukii adults and two fruits in the jars showed no significant
+difference in mean D. suzukii oviposition after three days compared with
+using the grape juice agar dishes (cherries 19 (SD � 7) eggs; loganberries
+18 (SD � 5) eggs; grape juice agar 15 (SD � 6) eggs; n ¼ 4). However, the
+
+2.4.2. Jar bioassay experiment 2: use of different fruit plant leaves
+Leaves were picked by the stalk, which was subsequently trimmed to
+5 mm length, and used unwashed within 4 h. The unsprayed leaf types
+used were: (i) wild blackberry and cultivated (ii) blueberry (iii) cherry
+(iv) raspberry or (v) strawberry. The bait treatments, used with in­
+secticides or water, were: (i) H. uvarum suspension (ii) FSJ or (iii) water
+control. The insecticides used were: (i) spinosad (ii) cyantraniliprole or
+(iii) water control (see Table 1 for concentrations). The experiment
+comprised of 5 leaf types � 3 baits � 3 insecticides � 4 replicates, hence
+180 jars.
+2.4.3. Jar bioassay experiment 3: comparison of summer and winter morph
+D. suzukii control
+The bait treatments used with insecticides or water were: (i)
+H. uvarum suspension (ii) FSJ or (iii) water control. The insecticides and
+concentrations (Table 1) used were: (i) spinosad (ii) cyantraniliprole (iii)
+thiacloprid (iv) lambda-cyhalothrin or (v) water control.
+Summer morph D. suzukii adults were prepared as previously
+
+Table 1
+Concentrations of active ingredients in the insecticide products, UK maximum permitted field doses for cherries and protected strawberries and six 10 μl droplets per
+leaf in jar bioassays.
+Active ingredient
+
+Insecticide product and manufacturer
+
+Concentration of active ingredient in:
+1
+
+product (g l )
+
+permitted field doseb (mg l
+
+1
+
+strawberries
+
+cherries
+
+)
+
+jar bioassays (mg l
+
+spinosad
+
+Tracer, Dow AgroSciences, Zionsville, IA, USA
+
+480
+
+72
+
+120
+
+2.4e or 3.6f
+
+cyantraniliprole
+
+Exirel, DuPont, Wilmington, DE, USA
+
+100
+
+75c
+
+90
+
+18.9f or 37.5e
+
+thiacloprid
+
+Calypso, Bayer Crop Science, Monheim, Germany
+
+480
+
+120
+
+150
+
+60.0
+
+acetamiprid
+
+Gazelle, Certis, Cambridge, UK
+
+200a
+
+-d
+
+75
+
+37.5
+
+lambda-cyhalothrin
+
+Hallmark Zeon, Syngenta, Basel, Switzerland
+
+100
+
+7.5
+
+9.0
+
+3.8
+
+pyrethrum
+
+Pyrethrum 5 EC, Agropharm Ltd. High Wycombe, UK
+
+50
+
+120
+
+120
+
+60.0
+
+a
+b
+c
+d
+e
+f
+
+1
+
+g kg
+If applied in 1000 L water ha 1
+Strawberries dose for cyantraniliprole is for the product Benevia, DuPont; in the UK.
+At the time of writing, acetamiprid is not permitted for use on strawberries.
+Experiment 1.
+Experiments 2 and 3.
+3
+
+1
+
+)
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+described and exposed to the treatments for three days under summer
+conditions. Mortality and oviposition were then recorded. For winter
+morph flies, jars were placed in winter conditions for the three days of
+exposure to the bait and/or insecticide combinations, after which mor­
+tality was recorded. The treated leaves were then removed and
+substituted with two leaves with sugar solution droplets; a Petri dish
+with grape juice agar was also inserted in each jar. The jars were then
+transferred to summer conditions for a further 11 days. After this point,
+mortality and oviposition were recorded. The experiment comprised of 2
+D. suzukii morphs � 3 baits � 5 insecticides � 4 replicates, hence 120
+jars.
+
+3.2. Jar bioassay experiment 1: comparison of baits and insecticides
+There were significant effects of bait (F4,102 ¼ 45.36; p < 0.001) and
+insecticide (F6,102 ¼ 19.28; p < 0.001) treatments (including water con­
+trols), and interacting effects of bait � insecticide (F24,102 ¼ 4.11;
+p < 0.001) treatments on D. suzukii mortality. There were significant
+effects of bait (F4,102 ¼ 4.43; p ¼ 0.002) and insecticide (F6,102 ¼ 5.99;
+p < 0.001) treatments, and interacting effects of bait � insecticide
+treatments (F24,102 ¼ 1.76; p ¼ 0.027) on oviposition.
+Without insecticides, none of the baits had a significant effect on
+D. suzukii mortality compared with the water control (Fig. 2a). Without
+insecticide, FSJ þ H. uvarum increased oviposition compared with the
+water control (t102 ¼ 5.38; p < 0.001) (Fig. 2b). Without baits, none of
+the diluted doses of insecticides affected oviposition compared with the
+water control (Table 1, Fig. 2b) although mortality was increased by the
+diluted doses of cyantraniliprole, acetamiprid, pyrethrum (t102 � 3.37;
+p � 0.001) and thiacloprid (t102 ¼ 2.12; p ¼ 0.036) but not significantly
+by spinosad or lambda-cyhalothrin (Fig. 2a). For spinosad, cyan­
+traniliprole and lambda-cyhalothrin, the baits resulted in higher mor­
+tality compared with the insecticides in water alone (t102 > 2.91;
+p < 0.005). However, the baits did not improve the efficacy of acet­
+amiprid, thiacloprid or pyrethrum. Averaged across the six insecticides,
+the H. uvarum, FSJ þ H. uvarum and Combi-protec treatments resulted in
+significantly higher mortality than FSJ (average results not shown;
+t102 ¼ 4.25; p < 0.001). However, mortality was also higher when in­
+secticides were combined with FSJ than using insecticides in water
+(t102 ¼ 4.92; p < 0.001). Averaged across the six insecticides, oviposition
+was lower with the H. uvarum and Combi-protec baits than with FSJ and
+FSJ þ H. uvarum baits (average results not shown; t102 ¼ 2.39;
+p ¼ 0.019). However, the difference in oviposition between bait and
+water treatments within individual insecticides was only significantly
+lower for H. uvarum and lambda-cyhalothrin (t102 ¼ 2.53; p ¼ 0.013)
+(Fig. 2b).
+
+2.5. Statistical design and analysis
+Olfactory attractiveness tests were conducted with a sample of each
+bait treatment randomly positioned in each of four horizontal rows of
+eight tubes. Four replicate runs of the experiment were conducted, with
+the positioning of the baits in the tubes re-randomised between replicate
+runs. Jar bioassay experiments were designed as randomised blocks with
+the four replicates of each factorial set of morph, bait, insecticide and/or
+leaf type treatments set up consecutively. Experiment 3 had a split-plot
+design, with four paired replicates, each of 15 jars of summer and winter
+morphs in main plots. The orders in which paired summer or winter
+morphs were used, treatments applied to leaves and flies introduced in
+jars, and the positioning of jars, were randomised between each repli­
+cate run of the experiments. A square root transformation was used to
+homogenise the variances in the treatment means in the oviposition
+data. In each experiment, an ANOVA was conducted to determine if
+there were significant main effects or interacting effects of the treat­
+ments (insecticides, baits, leaves and/or morphs) on mortality or
+oviposition. The statistical significance of the difference between treat­
+ments was determined by conducting Tukey’s HSD test on means ob­
+tained from the ANOVAs. Results were analysed by GenStat Version 13.1
+Throughout, p � 0.05 was used to determine statistical significance.
+3. Results
+
+3.3. Jar bioassay experiment 2: use of different fruit plant leaves
+
+3.1. Olfactory attractiveness
+
+There were significant effects of bait (F2,135 ¼ 19.20; p < 0.001),
+insecticide (F2,135 ¼ 87.44; p < 0.001) and leaf type (F4,135 ¼ 3.23;
+p ¼ 0.014) treatments, and interacting effects of bait � insecticide
+(F4,135 ¼ 2.76; p ¼ 0.008) treatments on D. suzukii mortality. There were
+no significant interacting effects of leaf type with bait or insecticide
+treatments on mortality. There were significant effects of bait
+(F2,135 ¼ 3.22; p ¼ 0.043) and insecticide (F4,135 ¼ 10.96; p < 0.001)
+treatments, and interacting effects of bait � insecticide treatments
+(F4,135 ¼ 2.55; p ¼ 0.042) but no significant effects of leaf type on
+oviposition.
+
+More D. suzukii counts in tubes containing SJ or H. uvarum were
+recorded than in tubes containing S. cerevisiae, FSJ, Gasser, Combiprotec, molasses or sugar (t21 > 2.22; p < 0.019) (Fig. 1). There were
+no significant differences in the numbers of D. suzukii counts between
+tubes containing SJ or H. uvarum, nor between tubes containing any of
+the latter baits.
+
+Fig. 1. Numbers of D. suzukii counts over three days in tubes with different baits (undiluted Gasser liquid, SJ strawberry juice, FSJ fermented strawberry juice,
+aqueous solutions and suspensions of Saccharomyces cerevisiae and Hanseniaspora uvarum). Values are means of four replicate tests and eight tubes per test. Bars with
+the same letter are not significantly different (p ¼ 0.05).
+4
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+Fig. 2. Effect of bait treatments (Hanseniaspora uvarum and/or FSJ fermented strawberry juice, Combi-protec) and insecticides on (a) mortality and (b) oviposition of
+Drosophila suzukii; mean values, n ¼ 4. Bars with the same letter are not significantly different (p ¼ 0.05).
+
+Irrespective of the presence of insecticide or bait treatments, leaf
+type significantly affected D. suzukii mortality (F4,132 ¼ 3.23; p ¼ 0.014)
+but not oviposition. Averaged across all insecticide and bait treatments,
+including water controls, D. suzukii mortality was lower using raspberry
+leaves than using blueberry or strawberry leaves (average results not
+shown; t132 > 2.49; p < 0.014). However, the effect of leaf type on
+mortality was small (means for different leaves 46.8–60.2%) when
+compared with the effect of bait � insecticide treatments (7.1–96.7%).
+Results averaged across all five leaf types are therefore presented in
+Fig. 3. When used in water, without baits, cyantraniliprole at
+18.9 mg l 1 resulted in greater D. suzukii mortality than spinosad at
+3.6 mg l 1 (t132 ¼ 4.63; p < 0.001); both insecticides applied at these
+diluted doses resulted in greater mortality than the water control
+(t132 ¼ 7.98 or 3.37; p < 0.001) but did not significantly affect oviposi­
+tion. Baits in water, without insecticide, did not significantly affect
+mortality or oviposition compared with the water control. Averaged
+across both insecticides and all leaf types, H. uvarum increased mortality
+(95.6%) compared with FSJ (86.7%) (t132 ¼ 2.43; p ¼ 0.016). This effect
+was significant for all five individual leaf types (data not shown;
+t132 > 2.14; p < 0.034). Mortality was higher following the use of in­
+secticides with FSJ than in water (44.2%) (t132 ¼ 11.52; p < 0.001)
+
+(Fig. 3a). This effect was significant for all five individual leaf types
+(data not shown; t132 > 3.75; p < 0.001) except for cyantraniliprole with
+FSJ on blueberry or strawberry leaves. Averaged across all leaf types and
+both insecticides, both FSJ and H. uvarum resulted in similar reductions
+in oviposition compared with using insecticides in water (t132 � 5.82;
+p < 0.001) (Fig. 3b). However, this negative oviposition impact on
+D. suzukii was only significant for some combinations of leaf type, bait
+and insecticide treatments: FSJ with spinosad on blueberry, strawberry,
+cherry and raspberry leaves, and with cyantraniliprole on cherry leaves
+(t132 > 2.29; p < 0.024), H. uvarum with spinosad on raspberry leaves
+and with cyantraniliprole on blueberry and raspberry leaves
+(t132 > 2.31; p < 0.023)(data not shown).
+3.4. Jar bioassay experiment 3: comparison of summer and winter morph
+D. suzukii control
+There were significant effects of morph (F1,3 ¼ 81.93; p ¼ 0.003),
+bait (F3,84 ¼ 15.05; p < 0.001) and insecticide (F4,84 ¼ 22.45; p < 0.001)
+treatments, and interacting effects of bait � insecticide (F8,84 ¼ 2.76;
+p ¼ 0.008) and morph � insecticide treatments (F4,84 ¼ 3.89; p ¼ 0.006)
+on D. suzukii mortality. There were significant effects of morph
+5
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+Fig. 3. Effect of bait treatments (Hanseniaspora uvarum or FSJ fermented
+strawberry juice) and insecticides on (a) mortality and (b) oviposition of
+Drosophila suzukii; mean values of five leaf types, n ¼ 4. Bars with the same
+letter are not significantly different (p ¼ 0.05).
+
+(F1,3 ¼ 11.91; p ¼ 0.041), bait (F3,84 ¼ 9.43; p < 0.001) and insecticide
+(F4,84 ¼ 9.05; p < 0.001) treatments, and interacting effects of
+bait � insecticide treatments (F8,84 ¼ 2.76; p ¼ 0.009) on oviposition.
+After three days, average mortality across all insecticide and bait
+treatments, including water controls, for winter morph D. suzukii
+(35.1%) was lower than for summer morphs (68.1%) (t84 ¼ 9.05;
+p < 0.001) (Figs. 4a and b and 5a and b). After transfer of the three-day
+treated winter morphs to 11 days of summer conditions without insec­
+ticide and/or bait droplet leaves in the jars, the final mortality was not
+significantly different to that of the summer morphs after three days
+(Fig. 4a and c) although oviposition was lower (t84 ¼ 3.42; p < 0.001)
+(Fig. 5a and b). Without insecticides, H. uvarum and FSJ had no signif­
+icant effect on summer or winter morph D. suzukii mortality or ovipo­
+sition compared with the water control (Figs. 4b and c and 5b and c).
+
+Fig. 4. Effect of bait treatments (Hanseniaspora uvarum or FSJ fermented
+strawberry juice) and insecticides on Drosophila suzukii mortality of (a) summer
+and (b) winter morphs after 3 days and (c) winter morphs after 3 days followed
+by 11 days of summer conditions; mean values, n ¼ 4.
+Within the same graphs, bars with the same letter are not significantly
+different (p ¼ 0.05).
+
+cyhalothrin (t84 ¼ 2.21 or 2.41; p ¼ 0.030 or 0.018), compared with
+using the insecticides in water.
+3.4.2. Winter morphs
+Without baits, mortality after three days was increased by diluted
+doses of cyantraniliprole and lambda-cyhalothrin (t84 ¼ 2.54 or 2.20;
+p ¼ 0.013 or 0.031) but not by spinosad or thiacloprid, when applied at
+the diluted doses (Table 1). Averaged across bait treatments, the mor­
+tality of winter morphs increased during the 11 days of summer condi­
+tions in the water controls (t84 ¼ 2.84; p ¼ 0.006) and in the spinosad,
+cyantraniliprole and lambda-cyhalothrin treatments (t84 > 3.44;
+p < 0.001) but not thiacloprid (average results not shown). Averaged
+across insecticide treatments there was no significant difference be­
+tween baits in mortality or oviposition of winter morphs, either 3 days
+after exposure or after a further 11 days without the treated leaves
+present (Fig. 4b and c). Both baits increased winter morph mortality
+(t84 > 2.24; p < 0.029) when used with spinosad or cyantraniliprole, but
+not with thiacloprid or lambda-cyhalothrin (Figs. 4b and c and 5b).
+
+3.4.1. Summer morphs
+In water without baits, diluted doses of cyantraniliprole and thia­
+cloprid increased mortality (t84 ¼ 3.62 or 2.58; p < 0.001 or p ¼ 0.012).
+Averaged across all four insecticides, H. uvarum resulted in greater
+mortality than FSJ (average results not shown; t84 ¼ 2.67; p ¼ 0.009)
+and there was no significant difference in oviposition between baits.
+Mortality was higher and oviposition lower following the use of in­
+secticides with FSJ than in water (t84 ¼ 5.08 and 2.71; p < 0.001 or
+p ¼ 0.008) (Figs. 4a and 5a). H. uvarum increased D. suzukii mortality
+with all four insecticides (t84 > 2.93; p < 0.005) and reduced oviposition
+(t84 > 2.12; p < 0.037) with all except thiacloprid (Figs. 4a and 5a),
+compared with using the insecticides in water. FSJ increased mortality
+with spinosad and cyantraniliprole (t84 ¼ 4.82 or 2.93; p < 0.00 or
+p ¼ 0.004) and reduced oviposition with cyantraniliprole and lambda6
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+compares with 63–97%, 94–98%, 57–74% and 76–90% mortality ob­
+tained with dilute doses of the same insecticides with H. uvarum bait in
+Experiments 1 to 3. Spinosad and cyantraniliprole were therefore less
+effective, whereas thiacloprid and lambda-cyhalothrin were at least as
+effective when used in dilute doses with baits than at their full permitted
+field dose without baits. D. suzukii insecticidal mortality increased with
+H. uvarum and Combi-protec compared with FSJ. However, the relative
+efficacy of these phagostimulant baits did not fully correspond with their
+olfactory attraction to baits. In these tests, H. uvarum was significantly
+more attractive than Combi-protec and FSJ which recorded similar
+numbers of fly activity counts to and from bait samples. None of the
+diluted doses of insecticides in water significantly affected oviposition,
+although some of the combined bait and insecticide treatments reduced
+oviposition compared with water. However, the results for oviposition
+were more variable than for mortality due to the large oviposition po­
+tential for small numbers of surviving female D. suzukii (Asplen et al.,
+2015).
+The increased mortality and reduced oviposition resulting from
+dilute doses of spinosad by incorporation of H. uvarum as a phag­
+ostimulant bait agrees with the results Mori et al. (2017). Roubos et al.
+(2019) found no benefit of adding S. cerevisiae to spinosad for control of
+D. suzukii in the field and although we confirmed Scheidler et al. (2015)
+results that D. suzukii was more attracted to H. uvarum than to
+S. cerevisiae, this may not correspond with their phagostimulant effects.
+Also, the relative attraction of these yeasts to Drosophila melanogaster
+(Meigen) has been shown to be isolate dependent (Palanca et al., 2013).
+The greater efficacy in the jar bioassay of the combined use of
+Combi-protec and diluted doses of spinosad or cyantraniliprole,
+compared with using these insecticides and doses in water, confirms
+improved D. suzukii control recorded in the field (Dederichs, 2015;
+Helsen and van der Sluis, 2018). When applied on to leaves with in­
+secticides as six 10 μl droplets, H. uvarum and Combi-protec were more
+effective in D. suzukii control than FSJ. The combined use of H. uvarum
+þ FSJ did not increase insecticidal mortality greater than when these
+baits were used individually with insecticides. Baits enable the effective
+rate of insecticides, including spinosad, to be reduced, leading to fewer
+non-target effects and lower fruit residues (Mangan et al., 2006; Havi­
+land and Beers, 2012) although the effectiveness of H. uvarum,
+Combi-protec, and other manufactured baits may be limited by their
+economically viable application rate in the field. For example, the field
+application rates of a yeast-based bait (Fruition Natlav, Agnova Tech­
+nologies Pty Ltd, Victoria, Australia), Combi-protec, Suzukii-Trap, and
+apple cider vinegar and wine were 18.7–46.8 L ha 1 and 3.7–16.1 L ha 1
+for HOOK SWD (Dederichs, 2015; Klick et al., 2019; van Steenwyk et al.,
+2016) whereas the availability of FSJ, an abundant on-farm by-product
+(Noble et al., 2017), means that it could be applied at 1000 L ha 1,
+thereby increasing crop coverage and/or insecticide rate. Although a
+significant loss in attractiveness to D. suzukii from SJ to FSJ was recorded
+in the olfactory attraction tests, the phagostimulant effect of SJ was not
+tested, and it would be difficult to store large quantities of by-product
+juice without subsequent fermentation occurring.
+The relative toxicity of insecticides to D. suzukii adults found here
+confirms the decreasing laboratory LC50 and LC95 values in order of
+pyrethrin > lambda-cyhalothrin > cyantraniliprole > spinosad (Smirle
+et al., 2017), and the greater toxicity of spinosad over acetamiprid
+(Bruck et al., 2011). Spinosad was more effective in controlling
+D. suzukii than acetamiprid in semi-field trials on blueberries, while
+pyrethrum was ineffective (van Timmeren and Isaacs, 2013). The
+increased D. suzukii control efficacy of lambda-cyhalothrin by adding
+H. uvarum, FSJ and Combi-protec baits confirms the statement of Beers
+et al. (2011) that the use of adjuvant baits enhances less effective in­
+secticides for D. suzukii control. However, lack of consistent improve­
+ment in the D. suzukii control efficacy of thiacloprid and pyrethrum
+using baits may be due to a phagorepellent effect of these insecticides at
+low concentrations on D. suzukii (Cai et al., 2018).
+In terms of increased insecticidal mortality, H. uvarum and FSJ baits
+
+Fig. 5. Effect of bait treatments (Hanseniaspora uvarum or FSJ fermented
+strawberry juice) and insecticides on Drosophila suzukii oviposition of (a)
+summer morphs after 3 days and (b) winter morphs after 3 days followed by 11
+days of summer conditions; mean values, n ¼ 4.
+Within the same graphs, bars with the same letter are not significantly
+different (p ¼ 0.05).
+
+H. uvarum only reduced winter morph oviposition when used with
+cyantraniliprole (t84 ¼ 2.19; p < 0.032), unlike for summer morphs
+where oviposition was also reduced when H. uvarum was used with
+spinosad and lambda-cyhalothrin. FSJ did not significantly affect sub­
+sequent oviposition of winter morphs, unlike for summer morphs where
+FSJ reduced oviposition with cyantraniliprole and lambda-cyhalothrin,
+compared with using the insecticides in water (see 3.4.1).
+4. Discussion and conclusions
+These tests demonstrate that combining a D. suzukii phagostimulant,
+non-toxic bait (H. uvarum, Combi-protec or FSJ) with a dilute dose of
+insecticide increases D. suzukii mortality compared with the same
+insecticide dose applied in water. Together with using red colouring in
+the baits (see 2.2), this indicates that D. suzukii is feeding on droplets
+with baits and potentially increasing exposure and hence dose and insect
+toxicity levels of insecticide. Jar bioassays using insecticides, as 10 μl
+droplets of leaves, at their full permitted field dose (Table 1) without
+baits resulted in the following average percentages of mortality of
+summer morph D. suzukii after three days: spinosad or cyantraniliprole
+100%, thiacloprid 54% and lambda-cyhalothrin 38% (n ¼ 4). This
+7
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+
+had a phagostimulant effect on both summer- and winter-morph
+D. suzukii. Baits and traps prepared from whole wheat bread dough
+with an apple cider vinegar (Wallingford and Loeb, 2016) or apple cider
+vinegar, wine and sugar (Rossi-Staconni et al., 2016) were attractive to
+both summer- and winter-morph D. suzukii. The prevalence of Hanse­
+niaspora yeasts in the digestive tracts of winter morph D. suzukii in­
+dicates that they may be using these and other products of
+decomposition when fruit and other summer food sources are scarce
+(Fountain et al., 2018). After three days, the mortality of winter morphs
+at 13 � C was less than of summer morphs at 21 � C, using the same pro­
+portions of males and females. This confirms the results of Shearer et al.
+(2016) who showed that the time needed to reach 50% mortality
+decreased with temperature and was shorter in summer morph males
+than in winter morph males, although the difference in longevity of
+winter- and summer-morph females kept at the same temperature was
+not significant. Our results show that the effect of the same insecticide
+application (with or without baits) on D. suzukii mortality was lower for
+winter morphs than for summer morphs. It was not established whether
+this was due to differences in insecticide uptake or fly toxicity or activity
+between summer- and winter-morphs. There were also differences in the
+relative efficacies of baits between summer and winter morphs. For
+summer morphs, H. uvarum resulted in greater mortality and with more
+insecticides than FSJ, whereas for winter morphs, H. uvarum was only
+effective with two insecticides and not significantly different to FSJ. This
+may be due to mated females of summer morphs being particularly
+attracted to yeasts as a protein source for oviposition (Hamby et al.,
+2012; Mori et al., 2017). However, the effective bait and insecticide
+treatments against winter morphs found here could be tested in crops in
+late winter and early spring to reduce fruit damage and delay the
+development of summer morph populations. Overwintering females are
+considered to be the main source of D. suzukii infestations in early fruit
+crops, which are less susceptible to D. suzukii infestations than later
+crops (Wallingford and Loeb, 2016; Panel et al., 2018). For winter ap­
+plications, H. uvarum is more practical due to the requirement for fruit
+waste for FSJ, although the latter could be frozen or cold stored before
+use.
+From our winter morph assays there were no eggs in the oviposition
+medium if flies remained in winter conditions for up to four weeks.
+Oviposition commenced five to seven days after winter morph D. suzukii
+were transferred into summer conditions and then continued to increase
+after a further three days, which was also reported by Toxopeus et al.
+(2016). Our work has shown that the effect of bait and insecticide
+treatments, present for three days of winter conditions, on winter morph
+mortality and oviposition persisted in a subsequent 11 days of summer
+conditions. However, further work is needed to determine whether the
+efficacy of bait and insecticide treatments received during winter con­
+ditions persists beyond 11 days of subsequent summer conditions, and
+with a more gradual and realistic transition from winter to summer
+conditions.
+The attractiveness of phagostimulant baits, and resulting improved
+insecticidal control, is specific to different groups of dipterans. The
+product GF-120 Naturalyte (Dow) based on sugars and plant proteins
+and extracts and containing spinosad was effective in reducing in­
+festations of certain Tephritid fruit fly pests (Yee and Chapman, 2005;
+Vayssieres et al., 2009) but results with D. suzukii control were variable
+(Walsh et al., 2011). However, Combi-protec has been used successfully
+to reduce infestation of a Tephritid pest, the walnut husk fly (Rhagoletis
+completa Cresson)(Dederichs, 2013). The impact of phagostimulant baits
+on non-target dipterans such as syrphids, non-dipteran natural enemies
+and pollinators in fruit crops requires further investigation (Cowles
+et al., 2015). Spraying GF-120 on to coffee crops increased the mortality
+of the Tephritid fruit fly parasitoid Fopius arisanus (Sonan)(Wang et al.,
+2005). Sprays of sugar solutions have not affected the incidence of fruit
+rots (Cowles et al., 2015; Knight et al., 2016) and fermented liquids or
+compost teas are capable of plant disease suppression (St Martin, 2014)
+which may provide an additional benefit of spraying FSJ on to fruit
+
+crops.
+In D. suzukii laboratory bioassays, insecticide treatments were
+applied on to glass and acrylic surfaces (Smirle et al., 2017; Andreazza
+et al., 2017), blueberry, cherry and strawberry leaves and/or fruits
+(Beers et al., 2011; Wiman et al., 2014; Mori et al., 2017). We found that
+combined bait and insecticide treatments increased D. suzukii mortality
+on a range of fruit plant leaf types, although mortality was slightly lower
+using raspberry leaves than blueberry or strawberry leaves. The deep
+ridges in raspberry leaves may have reduced access of flies to treatment
+droplets, and/or provided a more suitable micro-environment (e.g. hu­
+midity) for fly survival in the jars. Blackberry leaves are preferable for
+the jar bioassay since they are small and abundant in the wild,
+year-round without pesticide applications. However, the potential
+impact of leaf morphology on fly survival should be considered in
+conducting field tests with bait and insecticide treatments. In field tests,
+as part of these studies, no phytotoxicity was observed after H. uvarum,
+FSJ or Combi-protec baits were sprayed on to blackberry, blueberry,
+cherry, raspberry or strawberry leaves (data not shown).
+In conclusion, these studies support the use of adjuvant phag­
+ostimulant baits in mixtures with sub-lethal concentrations of in­
+secticides to control winter and summer morph D. suzukii in fruit crops.
+The results concur with previous studies showing that the most prom­
+ising phagostimulant baits for insecticidal control of summer morph
+D. suzukii are those based on yeasts (particularly H. uvarum), plant ex­
+tracts, fermentation products and sugars (Combi-protec and FSJ). The
+ability to apply insecticides at lower doses without compromising effi­
+cacy minimises environmental impact by reducing the overall amount of
+active ingredient applied, and the ability to apply the baits not directly
+on to fruits, could reduce residues in fresh produce. Application of low
+doses of insecticides normally increases the risk of pesticide resistance,
+but in combination with baits, the ingested dose of insecticide may be
+increased. Future work should focus on how to use these baits in
+different fruit crops and the optimum application and timing of appli­
+cation for control of summer and winter morph D. suzukii.
+Declarations of interest
+None.
+Acknowledgement
+This work was funded by AHDB Horticulture as part of project
+SF145.
+References
+Andreazza, F., Bernardi, D., Baronio, C.A., Pasinato, J., Nava, D.E., Botton, M., 2017.
+Toxicities and effects of insecticidal toxic baits to control Drosophila suzukii and
+Zaprionus indianus (Diptera: drosophilidae). Pest Manag. Sci. 73, 146–152.
+Anonymous, 2018. LAM 10/16/25 Locomotor Activity Monitor. TriKinetics Inc.,
+Waltham, MA, USA. https://www.trikinetics.com/Downloads/LAM25%20Data%20
+Sheet.pdf. (Accessed 27 May 2019).
+Asplen, M.K., Anfora, G., Biondi, A., Choi, D.S., Chu, D., Daane, K.M., Gibert, P.,
+Gutierrez, A.P., Hoelmer, K.A., Hutchinson, W.D., Isaacs, R., Jiang, Z.-L., K�
+arp�
+ati, Z.,
+Kimura, M.T., Pascual, M., Philips, C.R., Plantamp, C., Ponti, L., V�etek, G., Vogt, H.,
+Walton, V.M., Yu, Y., Zappal�
+a, L., Desneux, N., 2015. Invasion biology of spotted
+wing drosophila (Drosophila suzukii): a global perspective and future priorities.
+J. Pest. Sci. 88, 469–494.
+Beers, E.H., van Steenwyk, R.A., Shearer, P.W., Coates, W.W., Grant, J.A., 2011.
+Developing Drosophila suzukii management programs for sweet cherry in the western
+United States. Pest Manag. Sci. 67, 1386–1395.
+Bruck, D.J., Bolda, M., Tanigoshi, L., Klick, J., Kleiber, J., DeFrancesco, J.,
+Gerdemanc, B., Spitlerc, H., 2011. Laboratory and field comparisons of insecticides
+to reduce infestation of Drosophila suzukii in berry crops. Pest Manag. Sci. 67,
+1375–1385.
+Cai, P., Yi, C., Zhang, Q., Zhang, H., Lin, J., Song, X., Yang, J., Wang, B., Ji, Q., Chen, J.,
+2018. Evaluation of protein bait manufactured from brewery yeast waste for
+controlling Drosophila suzukii (Diptera: drosophilidae). J. Econ. Entomol. https://doi
+:10.1093/jee/toy304.
+Cowles, R.S., Rodriguez-Saona, C., Holdcraft, R., Loeb, G.M., Elsensohn, J.E., Hesler, S.P.,
+2015. Sucrose improves insecticide activity against Drosophila suzukii (Diptera:
+Drosophilidae). J. Econ. Entomol. 108, 640–653.
+
+8
+
+R. Noble et al.
+
+Crop Protection 125 (2019) 104902
+diapause in the invasive pest Drosophila suzukii: useful clues for control strategies.
+J. Pest. Sci. https://doi:10.1007/s10340-016-0753-8.
+Roubos, C.R., Gautam, B.K., Fanning, P.D., van Timmeren, S., Spies, J., Liburd, O.E.,
+Isaacs, R., Curry, S., Little, B.A., Sia, A.A., 2019. Impact of phagostimulants on
+effectiveness of OMRI-listed insecticides used for control of spotted-wing drosophila
+(Drosophila suzukii Matsumura). J. Appl. Entomol. https://doi:10.1111/jen.12620.
+Rouzes, R., Delpac, L., Ravidat, M., Thiery, D., 2011. First occurrence of Drosophila
+suzukii in the Sauternes vineyards. J. Int. Sci. Vigne Vin 46, 145–147.
+Scheidler, M.H., Cheng, L.L., Hamby, K.A., Zalom, F.G., Syde, Z., 2015. Volatile codes:
+correlation of olfactory signals and reception in Drosophila yeast chemical
+communication. Sci. Rep. 5, 14059.
+Schlesener, D.C.H., Wollmann, J., de Bastos, J., Grützmacher, A.D., Garcia, F.R.M., 2017.
+Effects of insecticides on adults and eggs of Drosophila suzukii (Diptera,
+Drosophilidae). Rev. Colomb. Entomol. 43, 208–214.
+Shearer, P.W., West, J.D., Walton, V.M., Brown, P.H., Svetec, N., Chiu, J.C., 2016.
+Seasonal cues induce phenotypic plasticity of Drosophila suzukii to enhance winter
+survival. BMC Ecol. 16, 2–18.
+Smirle, M.J., Zurowski, C.L., Ayyanath, M., Scott, I.M., MacKenzie, K.E., 2017.
+Laboratory studies of insecticide efficacy and resistance in Drosophila suzukii
+(Matsumura) (Diptera: drosophilidae) populations from British Columbia, Canada.
+Pest Manag. Sci. 73, 130–137.
+St Martin, C.C.G., 2014. Potential for compost tea for suppressing plant diseases. CAB
+Rev. 9 (032). https://www.cabi.org/bni/review/20153038604. (Accessed 13
+February 2019).
+Toxopeus, J., Jakobs, R., Ferguson, L.V., Gariepy, T.D., Sinclair, B.J., 2016. Reproductive
+arrest and stress resistance in winter-acclimated Drosophila suzukii. J. Insect Physiol.
+89, 37–51.
+van Steenwyk, R.A., Wise, C.R., Caprile, J.L., 2016. Control of spotted wing drosophila,
+Drosophila suzukii, in cherry using a new low volume, reduced-risk technique.
+Integrated Protection of Fruit Crops Subgroups “Pome fruit arthropods” and “Stone
+fruits”. IOBC-WPRS Bull. 112, 15–20.
+van Timmeren, S., Isaacs, R., 2013. Control of spotted wing drosophila (Drosophila
+suzukii), by specific insecticides and by conventional and organic crop protection
+programs. Crop Protect. 54, 126–133.
+Vayssieres, J.F., Sinzogan, A., Korie, S., Ouagoussounon, I., Thomas-Odjo, A., 2009.
+Effectiveness of spinosad bait sprays (GF-120) in controlling mango-infesting fruit
+flies (Diptera: tephritidae) in Benin. J. Econ. Entomol. 102, 515–521.
+Wallingford, A., Loeb, G., 2016. Spotted wing drosophila winter biology. N. Y. Fruit Q.
+24 (3), 11–13.
+Walsh, D.B., Bolda, M.P., Goodhue, R.E., Dreves, A.J., Lee, J., Bruck, D.J., Walton, V.M.,
+O’Neal, S.D., Zalom, F.G., 2011. Drosophila suzukii (Diptera: drosophilidae): invasive
+pest of ripening soft fruit expanding its geographic range and damage potential.
+J. Integr. Pest Manag. 2, 1–7.
+Wang, X., Jarjees, E.A., McGraw, B.K., Bokonon-Ganta, A.H., 2005. Effects of spinosadbased fruit fly bait GF-120 on tephritid fruit fly and aphid parasitoids. Biol. Control
+35, 155–162.
+Wiman, N.G., Walton, V.M., Dalton, D.T., Anfora, G., Burrack, H.J., Chiu, J.C., et al.,
+2014. Integrating temperature-dependent life table data into a matrix projection
+model for Drosophila suzukii population estimation. PLoS ONE 9, e106909. https://
+doi.org/10.1371/journal.pone.0106909.
+Wong, J.S., Wallingford, A.K., Loeb, G.M., Lee, J.C., 2018. Physiological status of
+Drosophila suzukii (Diptera: drosophilidae) affects their response to attractive odours.
+J. Appl. Entomol. 142, 473–482.
+Yee, W.L., Chapman, P.S., 2005. Effects of GF-120 fruit fly bait concentrations on
+attraction, feeding, mortality, and control of Rhagoletis indifferens (Diptera:
+tephritidae). J. Econ. Entomol. 98, 1654–1663.
+
+Dederichs, U., 2013. Starke Fruchtsch€
+aden und Totalausfall, Walnussanbau 2012. Obst
+Garten 2, 4–6.
+Dederichs, U., 2015. Using the bait spray method to control the spotted-wing drosophila.
+Eur. Fruit Mag. 2015–04, 6–9.
+Fanning, P.D., Grieshop, M.J., Isaacs, R., 2018. Efficacy of biopesticides on spotted wing
+drosophila, Drosophila suzukii Matsumura in fall red raspberries. J. Appl. Entomol.
+142, 26–32.
+Fountain, M.T., Bennett, J., Cobo-Medina, M., Conde Ruiz, R., Deakin, G., Delgado, A.,
+Harrison, R., Harrison, N., 2018. Alimentary microbes of winter-form Drosophila
+suzukii. Insect Mol. Biol. https://doi:10.1111/imb.12377.
+Gress, B.E., Zalom, F.G., 2018. Identification and risk assessment of spinosad resistance
+in a California population of Drosophila suzukii. Pest Manag. Sci. https://doi:10.100
+2/ps.5240.
+Hamby, K.A., Hern�
+andez, A., Boundy-Mills, K., Zaloma, F.G., 2012. Associations of yeasts
+with spotted-wing drosophila (Drosophila suzukii; Diptera: drosophilidae) in cherries
+and raspberries. Appl. Environ. Microbiol. 78, 4869–4873.
+Haviland, D.R., Beers, E.H., 2012. Chemical control programs for Drosophila suzukii that
+comply with international limitations on pesticide residues for exported sweet
+cherries. J. Integr. Pest Manag. 3, 1–6.
+Helsen, H., van der Sluis, B., 2018. Use of Toxic Baits for the Control of Drosophila
+Suzukii. http://dropsaproject.eu/downloadDocument.cfm?id¼323. (Accessed 8
+March 2019).
+Klick, J., Rodriguez-Saona, C.R., Hern�
+andez Cumplido, J., Holdcraft, R.J., Urrutia, W.H.,
+da Silva, R.O., Borges, R., Mafra-Neto, A., Seagraves, M.P., 2019. Testing a novel
+attract-and-kill strategy for Drosophila suzukii (Diptera: drosophilidae) management.
+J. Insect Sci. 19, 1–6.
+Knight, A.L., Basoalto, E., Yee, W., Hilton, R., Kurtzman, C.P., 2016. Adding yeasts with
+sugar to increase the number of effective insecticide classes to manage Drosophila
+suzukii (Matsumura) (Diptera: drosophilidae) in cherry. Pest Manag. Sci. 72,
+1482–1490.
+Lainsbury, M.A., 2018. The UK Pesticide Guide 2018. CABI, Wallingford, Oxon., UK.
+Landolt, P.J., Adams, T., Rogg, H., 2012. Trapping spotted wing drosophila, Drosophila
+suzukii (Matsumura) (Diptera: drosophilidae), with combinations of vinegar and
+wine, and acetic acid and ethanol. J. Appl. Entomol. 136, 148–154.
+Mangan, R.L., Moreno, D.S., Thompson, G.D., 2006. Bait dilution, spinosad
+concentration, and efficacy of GF-120 based fruit fly sprays. Crop Protect. 25,
+125–133.
+Mori, B.A., Whitener, A.B., Leinweber, Y., Revadi, S., Beers, E.H., Witzgall, P., Becher, P.
+G., 2017. Enhanced yeast feeding following mating facilitates control of the invasive
+fruit pest Drosophila suzukii. J. Appl. Ecol. 54, 170–177.
+Noble, R., Dobrovin-Pennington, A., Shaw, B., Buss, D.S., Cross, J.V., Fountain, M.T.,
+2017. Fermentation for disinfesting fruit waste from Drosophila species (Diptera:
+drosophilidae). Environ. Entomol. 46, 939–945.
+Palanca, L., Gaskett, A.C., Günther, C.S., Newcomb, R.D., Goddard, M.R., 2013.
+Quantifying variation in the ability of yeasts to attract Drosophila melanogaster. PLoS
+One 8, e75332.
+Panel, A.D.C., Zeeman, L., van der Sluis, B.J., van Elk, P., Pannebakker, B.A.,
+Wertheim, B., Helsen, H.H.M., 2018. Overwintered Drosophila suzukii are the main
+source for infestations of the first fruit crops of the season. Insects 9, 145. https
+://doi:10.3390/insects9040145.
+Rosensteel, D.O., Sial, A.A., 2017. Efficacy of insecticides against Drosophila Suzukii in
+rabbiteye blueberry, 2015, 2017 Arthropod Manag. Tests 1–2. https://doi:10.1093/a
+mt/tsx115.
+Rossi-Stacconi, M.V., Kaur, R., Mazzoni, V., Ometto, L., Grassi, A., Gottardello, A., RotaStabelli, O., Anfora, G., 2016. Multiple lines of evidence for reproductive winter
+
+9
+
+

@@ -1,0 +1,593 @@
+International Journal of Food Microbiology 106 (2006) 229 – 234
+www.elsevier.com/locate/ijfoodmicro
+
+Short Communication
+
+The effects of yeasts involved in the fermentation of Coffea arabica in
+East Africa on growth and ochratoxin A (OTA) production by
+Aspergillus ochraceus
+Wafa Masoud *, Christa Høj Kaltoft
+Department of Food Science, Food Microbiology, The Royal Veterinary and Agricultural University, Rolighedsvej 30, DK-1958 Frederiksberg C, Denmark
+Received 22 January 2005; received in revised form 16 April 2005; accepted 30 June 2005
+
+Abstract
+The effects of Pichia anomala, Pichia kluyveri and Hanseniaspora uvarum predominant during coffee processing on growth of Aspergillus
+ochraceus and production of ochratoxin A (OTA) on malt extract agar (MEA) and on coffee agar (CA) were studied. The three yeasts were able to
+inhibit growth of A. ochraceus when co-cultured in MEA and CA. Growth inhibition was significantly higher on MEA than on CA. Furthermore,
+P. anomala and P. kluyveri were found to have a stronger effect on growth of A. ochraceus than H. uvarum. The three yeasts were able to prevent
+spore germination of A. ochraceus in yeast glucose peptone (MYGP) broth. In yeast-free supernatant of MYGP broth after an incubation period of
+72 h, spores of A. ochraceus were able to germinate with very short germ tubes, but further development of the germ tubes was inhibited. The
+three yeasts decreased the pH of MYGP broth from 5.6 to a range of 4.4 – 4.7, which was found to have no effect on spore germination of A.
+ochraceus.
+P. anomala, P. kluyveri and H. uvarum were able to prevent production of OTA by A. ochraceus when co-cultured on MEA. On CA medium,
+P. anomala and P. kluyveri prevented A. ochraceus from producing OTA. H. uvarum did not affect production of OTA by A. ochraceus on CA
+medium.
+D 2005 Elsevier B.V. All rights reserved.
+Keywords: Coffee; Pichia anomala; Pichia kluyveri; Hanseniaspora uvarum; Aspergillus ochraceus; OTA
+
+1. Introduction
+Wet processing of coffee is mainly used for arabica coffee,
+where the ripe coffee cherries are pulped followed by
+fermentation and drying (Fowler et al., 1998). The main goal
+of fermentation is to degrade the slimy mucilage adhering
+firmly to coffee beans by pectolytic enzymes produced by
+natural occurring microbiota (Illy and Viani, 1995). At all steps
+of coffee processing, Gram-negative and Gram-positive bacteria, yeasts and filamentous fungi are present at high levels
+(Silva et al., 2000). In a previous study (Masoud et al., 2004)
+on the yeasts community of arabica coffee in East Africa, we
+found that the total yeasts counts were in a range of 4.0  104 to
+5  107 cfu/g with an increase during fermentation. Pichia
+anomala, Pichia kluyveri and Hanseniaspora uvarum were the
+
+* Corresponding author. Tel.: +45 35 28 32 87; fax: +45 35 28 32 14.
+E-mail address: wm@kvl.dk (W. Masoud).
+0168-1605/$ - see front matter D 2005 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2005.06.015
+
+three predominant yeasts during the different stages of
+processing (Masoud et al., 2004).
+Ochratoxin A (OTA) is a secondary metabolite of toxigenic
+species of Aspergillus and Penicillium, which has been
+detected in foods such as cereal products, wine, beer, coffee,
+spices and grape juice (European Commission [EC] No. 472 of
+12/03/2002). In a literature survey, Varga et al. (2001) reported
+that in temperate regions, OTA is mainly produced by
+Penicillium species, whereas in tropical and subtropical areas,
+OTA is produced by Aspergillus species. Several studies have
+reported the occurrence of both OTA-producing fungi and OTA
+in green coffee beans (Levi et al., 1974; Levi, 1980; Mislivic et
+al., 1983; Micco et al., 1989; Studer-Rohr et al., 1995;
+Nakajima et al., 1997; Romani et al., 2000; Ottender and
+Majerus, 2001; Pittet and Royer, 2002). Taniwaki et al. (2003)
+isolated Aspergillus ochraceus, Aspergillus carbonarius and
+Aspergillus niger from Brazilian coffee cherries and beans and
+found that 3%, 75% and 77% of A. niger, A. ochraceus and A.
+carbonarius isolates produced OTA, respectively. A survey on
+
+230
+
+W. Masoud, C.H. Kaltoft / International Journal of Food Microbiology 106 (2006) 229 – 234
+
+stored green coffee beans from various origins has shown that
+coffee samples from African origin have significantly higher
+levels of OTA than those from America and Asia (Pardo et al.,
+2004). Little is known about the origin of OTA in coffee and
+when exactly it is produced along the coffee processing chain.
+Growth of yeasts and moulds together on same substrate can
+lead to positive or negative interaction. During ripening of the
+blue mould cheese Danablu, growth of Penicillium roqueforti
+has been found to be stimulated by Debaryomyces hansenii;
+while Candidum geotricum and Yarrowia lipolytica were found
+to inhibit growth of P. roqueforti under same conditions (Van
+den Tempel and Nielsen, 2000; Van den Tempel and Jakobsen,
+2000). Furthermore, D. hansenii, Candida sake and P. anomala
+were reported to control growth of some plant pathogenic fungi
+(Droby et al., 1989; Viñas et al., 1998; Walker et al., 1995;
+Masih et al., 2000). Biological control of OTA-producing fungi
+during the different stages of coffee processing might help to
+reduce the accumulation of OTA in green coffee beans.
+Petersson et al. (1998) found that P. anomala significantly
+reduced growth and production of OTA by Penicillium
+verrucosum in malt extract agar as well as in wheat.
+The aim of the present study was to investigate the effects of
+P. anomala, P. kluyveri and H. uvarum predominant during
+coffee processing on growth and OTA production by A.
+ochraceus in laboratory substrates including coffee-based agar
+medium.
+2. Materials and methods
+
+to pH 5.6 by the addition of 1 M HCl and 1 M NaOH. Coffee
+agar (CA) was prepared by adding 20 g of grounded green
+coffee beans (Levi Farm, Arusha, Tanzania) and 20 g of agar
+(Difco) to 1 l distilled water.
+2.3. Effect of yeasts predominant in coffee on growth of A.
+ochraceus
+Strains of P. anomala, P. kluyveri and H. uvarum were
+propagated in 25 ml of MYGP broth at 25 -C for 48 h. After
+propagation, cells were harvested by centrifugation at 3000g
+for 10 min and resuspended in SPO. Cell concentrations were
+estimated by microscopy using a counting chamber (Neubauer)
+and the suspensions were diluted to final concentrations of 104
+and 106 cells/ml. Suspensions of yeasts were mixed with 20 ml
+of melted MEA and poured in Petri dishes, which were left for
+2 h to solidify. Spores of A. ochraceus were harvested from
+MEA plates and suspended in SPO. Spore concentration was
+estimated by microscopy as described above and the suspension was diluted in SPO to 106 spores/ml. After solidification
+of the MEA plates inoculated with yeasts, spots of 10 Al of A.
+ochraceus spore suspension (106 spore/ml) were placed on
+three sites of each plate. Spots of A. ochraceus spore
+suspension were also placed on three sites of yeast-free MEA
+plate, which was used as a control. The plates were incubated
+at 30 -C for 7 days where after, growth of fungi was
+determined by measuring the fungal colony diameter. The
+experiment was done in triplicates. The same experiment was
+done on CA medium.
+
+2.1. Cultures
+Yeasts used in this study were obtained from coffee samples
+collected from Arusha region, Tanzania (Masoud et al., 2004).
+They included six strains of P. anomala (S12, S13, S14, S15,
+S16, S17), four strains of P. kluyveri (S4Y3, S7Y1, S8Y4,
+S13Y4) and two strains of H. uvarum (S3Y8, S15Y2). In
+addition, two strains of A. ochraceus (B677, B722) with the
+potential to produce OTA were studied. They were also isolated
+from coffee samples collected from Arusha region, Tanzania
+(Institute of Hygiene and Toxicology, Federal Research Centre
+for Nutrition and Food, Karlsruhe, Germany).
+2.2. Culture media
+Malt yeast glucose peptone medium (MYGP) was prepared
+by dissolving 3 g malt extract (Difco, Detroit, MI, USA), 3 g
+yeast extract (Difco), 5 g bactopeptone (Difco) and 10 g d(+)glucose monohydrate (Merck, Darmstadt, Germany) in 1
+l distilled water and the medium was adjusted to pH 5.6 by 1
+M NaOH (Merck) . For malt extract agar (MEA), 20 g of malt
+extract (Difco), 10 g d(+)-glucose monohydrate (Merck), 5 g
+bactopeptone (Difco) and 20 g of agar (Difco) were dissolved
+in 1 l distilled water and the medium was adjusted to pH 5.6 by
+1 M NaOH (Merck). Diluent saline peptone (SPO) was
+prepared by dissolving 8.5 g NaCl (Merck), 0.3 g disodium
+hydrogen phosphate (Na2HPO4I12H2O) (Merck) and 1 g
+bactopeptone (Difco) in 1 l distilled water. SPO was adjusted
+
+2.4. Effects of yeasts cells and yeast-free supernatant on
+germination of A. ochraceus spores
+In this assay, the effects of the six strains of P. anomala, the
+four strains of P. kluyveri and the two strains of H. uvarum on
+spore germination of A. ochraceus B722 were investigated.
+Spores of A. ochraceus B722 (106 spores/ml) were inoculated
+together with 106 cells/ml of each yeast in 10 ml MYGP broth
+(pH 5.6) and incubated at 30 -C. Spores of A. ochraceus were
+also inoculated in yeast cell-free supernatant, which was
+obtained by propagation of each yeast in 25 ml of MYGP
+broth at 25 -C for 24 h. Whereafter, yeasts cultures were
+centrifuged at 3000g for 10 min and the supernatant was
+filtered through a 0.22-Am nitro-cellulose filter (Osmonics,
+Minnetonka, MN, USA). The pH of supernatant was determined. Spores of A. ochraceus inoculated in MYGP broth (pH
+5.6) was used as a control. Furthermore, spores of A. ochraceus
+were inoculated in MYGP broth adjusted to pH 4.4, 4.5, 4.6 and
+4.7. After 24, 48 and 72 h of incubation at 30 -C, germination of
+the fungal spores was inspected by microscopy where five
+regions of each sample with about 10– 20 spores in each region
+were inspected. The experiment was carried out in triplicates.
+2.5. Effects of yeasts on production of OTA by A. ochraceus
+The ability of the two strains of A. ochraceus B722 and
+B677 to produce OTA when co-cultured with the six strains of
+
+W. Masoud, C.H. Kaltoft / International Journal of Food Microbiology 106 (2006) 229 – 234
+
+P. anomala, the four strains of P. kluyveri and the two strains of
+H. uvarum on MEA and CA plates was investigated. Yeasts
+were co-cultured with A. ochraceus on MEA and CA plates as
+described above. A. ochraceus was also inoculated in yeastfree MEA and CA plates, which were used as controls. After an
+incubation period of 7 days at 30 -C, production of OTA was
+estimated by thin-layer chromatography (TLC) (Samson et al.,
+2002). Agar plugs were aseptically removed from mould
+colonies on MEA and CA plates and one drop of chloroform/
+methanol mixture (1:2) was added to each plug. The plug was
+placed onto a TLC plate silica gel 60 (Merck Art 5721) with
+mycelium side towards the gel. OTA of 10 Ag/l in toluene/
+acetic acid (99:1) was used as a standard. Then the TLC plates
+were developed in toluene/acetone/methanol (5:3:2) and left to
+dry in a fume hood for 10 min. The TLC plates were examined
+visually under UV light at 366 nm wave length.
+3. Results and discussion
+3.1. Effect of yeasts predominant in coffee on growth of A.
+ochraceus
+The effect of six strains of P. anomala, four strains of P.
+kluyveri and two strains of H. uvarum at 104 cells/ml on
+growth of A. ochraceus B722 on MEA and CA media is shown
+in Fig. 1. The three yeasts were found to inhibit growth of A.
+ochraceus when grown together. On both MEA and CA media,
+strains of P. anomala and P. kluyveri were found to have
+stronger effect on growth of A. ochraceus compared to H.
+uvarum. On CA medium, the levels of growth inhibition of A.
+ochraceus by the two strains of H. uvarum were extremely
+low. The two strains of P. anomala S12 and S17 were found to
+have the highest percentages of inhibition against A. ochraceus. The percentage of fungal growth inhibition caused by P.
+kluyveri S13Y4 was lower than those caused by P. anomala
+MEA medium
+
+% inhibition of fungal growth
+
+100
+
+CA medium
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+
+3
+S1
+Pa 4
+S1
+Pa 5
+S1
+Pa 6
+S
+Pk 17
+S4
+Pk Y3
+S
+Pk 7Y1
+S8
+Pk Y4
+S1
+H 3Y4
+u
+S
+H 3Y
+u
+S1 8
+5Y
+2
+Pa
+
+S1
+
+Pa
+
+Pa
+
+S1
+
+2
+
+0
+
+Yeast species
+Fig. 1. Growth inhibition of A. ochraceus B722 on MEA and CA plates
+inoculated with six strains of P. anomala (S12, S13, S14, S15, S16, S17), four
+strains of P. kluyveri (S4Y3, S7Y1, S8Y4, S13Y4) and two strains of H.
+uvarum (S3Y8, S15Y2). Inhibition is expressed as the percentage of reduction
+of the fungal colony diameter compared to the control (fugal colony diameter
+on free yeast plates). Bars represent standard deviations.
+
+231
+
+and the other three strains of P. kluyveri. Small differences in
+the degree of inhibition among the remaining strains of P.
+anomala and P. kluyveri were observed. Increasing concentration of yeasts to 106 cells/ml increased growth inhibition of A.
+ochraceus (results not shown). The same findings on the
+effects of yeasts on growth of A. ochraceus B677 were
+obtained (results not shown).
+P. anomala was reported to inhibit a number of fungi like
+Botrytis cinerea (Masih et al., 2000), P. roqueforti, Aspergillus candidus (Petersson and Schnürer, 1995) and P. verrucosum (Petersson et al., 1998). P. kluyveri and H. uvarum were
+found to produce killer toxins against other yeasts (Zorg et
+al., 1988; Abranches et al., 1997). However, the antagonist
+activities of those two yeasts against filamentous fungi have
+not been investigated. A good understanding of the mode of
+action of the antagonist activity will help to clarify the
+mechanism behind it. In the present study, the degree of
+inhibition was found to be dependent on the yeast species and
+the substrate used. On both MEA and CA media, strains of P.
+anomala and P. kluyveri were found to have stronger effect
+on growth of A. ochraceus compared to H. uvarum. On CA
+medium, the levels of growth inhibition of A. ochraceus by
+the two strains of H. uvarum was significantly lower. For all
+yeasts, inhibition of fungal growth was significantly higher on
+MEA compared to that on CA medium. The three yeasts
+showed less growth on CA compared to MEA medium
+(results not shown), which might explain the lower inhibition
+of fungal growth by the three yeasts on CA. The CA medium
+may contain less specific nutrients essential for growth of
+yeasts. On the other hand, A. ochraceus showed very good
+and equal growth in both yeasts free plates of CA and MEA
+(results not shown).
+3.2. Effects of yeasts cells and yeast-free supernatant on
+germination of A. ochraceus spores
+Germination of A. ochraceus B722 spores when co-cultured
+with P. anomala S12 in MYGP broth and when inoculated in
+the cell-free supernatant of P. anomala S12 is shown in Fig. 2.
+Co-culture of P. anomala S12 with A. ochraceus B722 totally
+inhibited fungal spore germination after 24, 48 and 72 h of
+incubation (Fig. 2D – F). Similar results were obtained for the
+effect of the other strains of P. anomala, P. kluyveri and H.
+uvarum on spore germination of A. ochraceus B722 (results
+not shown). In yeast-free supernatant, spores of A. ochraceus
+did not germinate after 24 h (Fig. 2G). Spores of A. ochraceus
+started to swell after 48 h, but germ tubes were not observed
+(Fig. 2H). After 72 h, some spores germinated with very short
+germ tubes (Fig. 2I) compared to the control (Fig. 2A – C). The
+same observations were obtained for the other five strains of P.
+anomala, the four strains of P. kluyveri and the two strains of
+H. uvarum (results not shown). The pH of the yeast-free
+supernatant was determined; it was found that the pH decreased
+from 5.6 to a range of 4.4 – 4.7 by the three yeasts species.
+Germination of A. ochraceus spores in MYGP broth at pH
+values 4.4 –4.7 was not affected (results not shown). It seems
+that inhibition of spore germination in yeast-free supernatant
+
+232
+
+W. Masoud, C.H. Kaltoft / International Journal of Food Microbiology 106 (2006) 229 – 234
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+Fig. 2. Germination of A. ochraceus B722 spores incubated at 30 -C when inoculated in MYGP broth without yeast after 24 h (A), 48 h (B) and 72 h (C);
+when co-cultured with cells of P. anomala S12 in MYGP broth after 24 h (D), 48 h (E) and 72 h (F); when inoculated in MYGP yeast-free supernatant after
+24 h (G), 48 h (H), 48 h (I) and 72 h (J).
+
+was not due to changes in the pH of medium caused by the
+yeasts.
+Depletion of the amounts of glucose in MYGP broth by
+the investigated yeasts might result in reduction of spore
+germination of A. ochraceus. The three yeasts might also
+produce extra-cellular metabolites toxic to A. ochraceus
+which caused the reduction of spore germination in yeastfree supernatant. Spadaro and Gullino (2004) reported that the
+mechanisms behind the antagonist activity of yeasts against
+fungi responsible for fruit diseases can be a competition for
+nutrients and space, adhesion of the antagonist cells to the
+mycelium of the fungi or by inducing resistance in the host
+tissue. Droby et al. (1989) suggested that the mechanism of
+the antagonist activity of D. hansenii against Penicillium
+digitatum in grapefruit might be due to the competition for
+nutrients because the antagonist activity was overcome by the
+addition of exogenous nutrients to grapefruit. The yeast
+Metschnikowia pulcherrima was found to inhibit growth of
+postharvest pathogenic fungi of apple fruit; it was suggested
+that the antagonist activity seems to be due to a combination
+of competition for nutrients and production of toxic metabolites in vitro (Spadaro et al., 2002). Strains of P. anomala, P.
+kluyveri and H. uvarum used in this study have been found to
+be strong producers of some volatile compounds, mainly
+ethyl acetate, acetate, 2-phenlethyl acetate, ethyl propionate
+
+and isoamyl alcohol (unpublished results). The effect of ethyl
+acetate on growth of P. roqueforti was studied by Fredlund et
+al. (2004), who found that only high concentrations of ethyl
+acetate reduced fungal growth. It has been reported that
+growth of a number of plant pathogenic fungi can be
+inhibited by volatile compounds produced by the endophytic
+fungi Muscodor albus (Strobel et al., 2001; Mercier and
+Jiménez, 2004) and by the Gliocladium spp. (Stinson et al.,
+2003). Other non-volatile metabolites toxic to A. ochraceus
+might also be produced by the three investigated yeasts.
+3.3. Effects of yeasts on production of OTA by A. ochraceus
+The most important aspect during coffee processing is the
+prevention of the production of OTA. A. ochraceus B722 was
+found to produce OTA when grown on yeast-free MEA and CA
+plates (Figs. 3 and 4). When the six strains of P. anomala were
+co-cultured with A. ochraceus B722, OTA was not detected on
+both MEA and CA plates (Fig. 3). P. kluyveri also prevented
+OTA production by A. ochraceus on both MEA and CA media
+(Fig. 4). However, the two strains of H. uvarum did not prevent
+OTA production on CA medium; it was only prevented on
+MEA (Fig. 4). The same observations were made for A.
+ochraceus B677 (results not shown). Although the yeasts did
+not inhibit growth of A. ochraceus completely (Fig. 1), they
+
+W. Masoud, C.H. Kaltoft / International Journal of Food Microbiology 106 (2006) 229 – 234
+
+OTA
+
+233
+
+OTA
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12 13
+
+14 15 16 17
+
+Fig. 3. Production of OTA by A. ochraceus B722 co-cultured with strains of P. anomala. Lane numbers from 3 to 8 refer to A. ochraceus co-cultured on CA with
+lane 3, P. anomala S12; lane 4, P. anomala S13; lane 5, P. anomala S14; lane 6, P. anomala S15; lane 7, P. anomala S16; lane 8, P. anomala S17. Lane numbers
+from 10 to 15 refer to A. ochraceus co-cultured on MEA with lane 10, P. anomala S12; lane 11, P. anomala S13; lane 12, P. anomala S14; lane 13, P. anomala S15;
+lane 14, P. anomala S16; lane 15, P. anomala S17. A. ochraceus grown on CA without yeasts (lanes 1, 2) and on MEA (lanes 16, 17) were used as controls. OTA
+standard 10 Ag/l (lane 9).
+
+were able to prevent production of OTA. It has been found that
+P. anomala reduced both growth of A. verrucosum and OTA
+production when co-cultured together on MEA or on wheat
+(Petersson et al., 1998). Reduction of OTA might be as a result
+of its degradation or adsorption by yeasts. It has been reported
+that Saccharomyces cerevisiae and Saccharomyces bayanus
+adsorbed about 45% of OTA present in synthetic grape juice
+medium (Bejaoui et al., 2004). Production of extra-cellular
+compounds by the three yeasts might also inhibit the
+production of OTA by A. ochraceus. Streptococcus lactis
+was reported to produce a heat-stable low molecular weight
+compound that inhibits production of aflatoxin by Aspergillus
+flavus in vitro (Coallier-Ascah and Idziak, 1985). Mellon and
+Moreau (2004) found that a class of polyamine conjugates
+inhibited aflatoxin B1 biosynthesis in A. flavus but they did not
+reduce growth of that fungus.
+
+In the present study, the two strains of A. ochraceus showed
+very good growth and production of OTA in both MEA and
+CA media. P. anomala, P. kluyveri and H. uvarum were found
+to reduce growth of A. ochraceus and prevent biosynthesis of
+OTA on MEA medium. On CA medium, P. anomala and P.
+kluyeri were able to reduce growth of A. ochraceus and prevent
+production of OTA. For the purpose of preventing production
+of OTA in coffee, the present work indicated the possibility of
+using P. anomala and P. kluyveri in biological control of OTAproducing fungi during coffee fermentation. Further studies on
+the effects of P. anomala and P. kluyveri on other OTAproducing fungi present in coffee are needed. The mechanisms
+behind the antagonist activity of those yeasts need to be
+clarified. In addition, studies of interactions between those two
+yeasts and OTA-producing fungi in vivo, i.e., during coffee
+processing, have to be conducted.
+
+Fig. 4. Production of OTA by A. ochraceus B722 co-cultured with strains of P. kluyveri and H. uvarum. Lane numbers from 3 to 8 refer to A. ochraceus co-cultured
+on CA with lane 3, H. uvarum S3Y8; lane 4, H. uvarum S15Y2; lane 5, P. kluyveri S4Y3; lane 6, P. kluyveri S7Y1; lane 7, P. kluyveri S8Y4; lane 8, P. kluyveri
+S13Y4. Lane numbers from 10 to 15 refer to A. ochraceus co-cultured on MEA with lane 10, H. uvarum S3Y8; lane 11, H. uvarum S15Y2; lane 12, P. kluyveri S4Y;
+lane 13, P. kluyveri S7Y1; lane 14, P. kluyveri S8Y4; lane 15, P. kluyveri S13Y4. A. ochraceus grown on CA without yeasts (lanes 1, 2) and on MEA (lanes 16, 17)
+were used as controls. OTA standard 10 Ag/l, (lane 9).
+
+234
+
+W. Masoud, C.H. Kaltoft / International Journal of Food Microbiology 106 (2006) 229 – 234
+
+Acknowledgement
+We thank Prof. Wilhelm Holzapfel and Dr. Paul Färber
+(Institute of Hygiene and Toxicology, Federal Research Centre
+for Nutrition and Food, Karlsruhe, Germany) for providing
+cultures of A. ochraceus. The authors are grateful to Dr. Ulf
+Thrane (Mycology Group, BioCentrum-DTU, Technical University of Denmark, Lyngby, Denmark) for assistance in OTA
+analysis. This work was financially supported by the European
+Union: INCO-DEV-ICA4-CT-2001-10060-INCO-COFFEE.
+References
+Abranches, J., Morais, P.B., Rosa, C.A., Mendonca_Hagler, L.C., Hagler, A.N.,
+1997. The incidence of killer activity and extracellular proteases in tropical
+yeast communities. Can. J. Microbiol. 43, 328 – 336.
+Bejaoui, H., Mathiue, F., Taillandier, P., Lebrihi, A., 2004. Ochratoxin A
+removal in synthetic and natural grape juices by selected oenological
+Saccharomyces strains. J. Appl. Microbiol. 97, 1038 – 1044.
+Coallier-Ascah, J., Idziak, E.S., 1985. Interaction between Streptococcus lactis
+and Aspergillus flavus on production of aflatoxin. Appl. Environ. Microbiol. 49, 163 – 167.
+Droby, S., Chalutz, E., Wilson, C.L., Wisnieswski, M.E., 1989. Characterization of the biocontrol activity of Debaryomyces hansenii in the control of
+Penicillium digitatum on grapefruit. Can. J. Microbiol. 35, 308 – 313.
+European Commission, EC No 472 of 12/03/2002 setting maximum levels for
+certain contaminants in foodstuffs.
+Fowler, M.S., Leheup, P., Cordier, J.-L., 1998. In: Wood, B.J.B. (Ed.), Cocoa,
+coffee and tea, (2nd edR). Microbiology of Fermented Foods, vol. 1. Blackie
+Academic and Professional, London, pp. 128 – 146.
+Fredlund, E., Druvefors, U.Ä., Olstorpe, M.N., Passoth, V., Schnürer, J., 2004.
+Influence of ethyl acetate production and ploidy on the anti-mould activity
+of Pichia anomala. FEMS Microbiol. Lett. 238, 133 – 137.
+Illy, A., Viani, R., 1995. Espresso Coffee: The Chemistry of Quality. Academic
+Press Limited, UK.
+Levi, C., 1980. Mycotoxins in coffee. J. Assoc. Offic. Analy. Chem. 63,
+1282 – 1285.
+Levi, C.P., Trenk, H.L., Mohr, H.K., 1974. Study of the occurrence of
+Ochratoxin A in green coffee beans. J. Assoc. Offic. Analy. Chem. 57,
+866 – 870.
+Masih, E.I., Alie, E., Paul, B., 2000. Can grey mould disease of the grape-vine
+be controlled by yeast. FEMS Microbiol. 189, 233 – 237.
+Masoud, W., Cesar, L.B., Jespersen, L., Jakobsen, M., 2004. Yeast involved in
+fermentation of Coffea arabica in East Africa determined by genotyping
+and by direct denaturating gradient gel electrophoresis. Yeast 21, 549 – 556.
+Mellon, J.E., Moreau, R.A., 2004. Inhibition of aflatoxin biosynthesis in
+Aspergillus flavus by diferuloylputrescine and p-coumaroylferuloylputrescine. J. Agric. Chem. 52, 6660 – 6663.
+Mercier, J., Jiménez, J.I., 2004. Control of fungal decay of apples and peaches
+by the biofumigant fungus Muscodor albus. Postharvest Biol. Technol. 31,
+1 – 8.
+Micco, C., Grossi, M., Miraglia, M., Brera, C., 1989. A study of the
+contamination by ochratoxin A of the green and roasted coffee beans.
+Food Addit. Contam. 6, 333 – 339.
+Mislivic, P.B., Bruce, V.R., Gibson, R., 1983. Incidence of toxigenic and other
+molds in green coffee beans. J. Food Prot. 46, 969 – 973.
+Nakajima, M., Tsubouchi, H., Miyabe, M., Ueno, Y., 1997. Survey of aflatoxin
+B1 and ochratoxin A in commercial green coffee beans by highperformance liquid chromatography linked with immunoaffinity chromatography. Food Agric. Immunol. 9, 77 – 83.
+
+Ottender, H., Majerus, P., 2001. Ochratoxin A (OTA) in coffee: nation-wide
+evaluation of data collected by German Food Control 1995 – 1999. Food
+Addit. Contam. 18, 431 – 435.
+Pardo, E., Marı́n, S., Ramos, A.J., Sanchis, V., 2004. Occurence of
+ochratoxigenic fungi and ochratoxin A in green coffee from different
+origins. Food Sci. Technol. Int. 10, 45 – 49.
+Petersson, S., Schnürer, J., 1995. Biocontrol of mold growth in high-moisture
+wheat stored under airtight conditions by Pichia anomala, Pichia
+guilliermondii and Saccharomyces cerevisiae. Appl. Environ. Microbiol.
+61, 1027 – 1032.
+Petersson, S., Hansen, M.W., Axberg, K., Hult, K., Schnürer, J., 1998.
+Ochratoxin A accumulation in cultures of Penicillium verrucosum with
+the antagonist yeast Pichia anomala an Saccharomyces cerevisiae. Mycol.
+Res. 102, 1003 – 1008.
+Pittet, A., Royer, D., 2002. Rapid, low cost thin-layer chromatographic
+screening method for the detection of ochratoxin A in green coffee at a
+control level of 10 Ag/kg. J. Agric. Food Chem. 20, 243 – 247.
+Romani, S., Sacchetti, G., López, C.C., Pinnavaia, G.G., Rosa, M.D., 2000.
+Screening on the occurrence of ochratoxin A in green coffee beans of
+different origins and types. J. Agric. Food Chem. 48, 3616 – 3619.
+Samson, R.A., Hoekstra, E.S., Lund, F., Filtenborg, O., Frisvad, J.C., 2002.
+Methods for the detection, isolation and characterisation of food-borne
+fungi. In: Samson, A.R., Hoekstra, E.S. (Eds.), Introduction to Food- and
+Airborne Fungi, 6th edR Centraalbureau voor Schimmelcultures, Utrecht,
+pp. 283 – 297.
+Silva, C.F., Schwan, R.F., Ëustáquio, S.D., Wheals, A.E., 2000. Microbial
+diversity during maturation and natural processing of coffee cherries of
+Coffea arabica in Brazil. Int. J. Food Microbiol. 60, 251 – 260.
+Spadaro, D., Gullino, M.L., 2004. State of the art and future prospects of the
+biological control of postharvest fruit diseases. Int. J. Food Microbiol. 91,
+185 – 194.
+Spadaro, D., Vola, R., Piano, S., Gullino, M.L., 2002. Mechanisms of action
+and efficacy of four isolates of the yeast Metschnikowia pulcherrima active
+against postharvest pathogens on apples. Postharvest Biol. Technol. 24,
+123 – 134.
+Stinson, M., Ezra, D., Hess, W.M., Sears, J., Strobel, G., 2003. An endophytic
+Gliocladium sp. of Eucryphia cordifolia producing selective volatile
+antimicrobial compounds. Plant Sci. 165, 913 – 922.
+Strobel, G.A., Dirkse, E., Sears, J., Markworth, C., 2001. Volatile antimicrobials from Muscodor albus a novel endophytic fungus. Microbiology 147,
+2943 – 2950.
+Studer-Rohr, I., Dietrich, D.R., Schlatter, J., Schlatter, C., 1995. The occurrence
+of ochratoxin A in coffee. Food Chem. Tech. 33, 341 – 355.
+Taniwaki, M.H., Pitt, J.I., Teixeira, A.A., Iamanaka, B.T., 2003. The source of
+ochratoxin A in Brazilian coffee and its formation in relation to processing
+methods. Int. J. Food Microbiol. 82, 173 – 179.
+Van den Tempel, T., Jakobsen, M., 2000. The technological characteristics of
+Debaryomyces hansenii and Yarrowia lipolytica and their potential as
+starter cultures for production of blue cheeses. Int. Dairy J. 10, 263 – 270.
+Van den Tempel, T., Nielsen, M.S., 2000. Effects of atmospheric conditions,
+NaCl and pH on growth and interactions between moulds and yeasts related
+to blue cheese production. Int. J. Food Microbiol. 57, 193 – 199.
+Varga, J., Rigo, K., Téren, J., Mesterhazy, A., 2001. Recent advances in
+ochratoxin research I. Production, detection and occurrence of ochratoxin.
+Cereal Res. Commun. 29, 85 – 92.
+Viñas, I., Usall, J., Teixidó, N., Sanchais, V., 1998. Biological control of major
+postharvest pathogens on apple with Candida sake. Int. J. Food Microbiol.
+40, 9 – 16.
+Walker, G.M., McLeod, A.H., Hodgson, V.J., 1995. Interactions between killer
+yeasts and pathogenic fungi. FEMS Microbiol. 127, 213 – 222.
+Zorg, J., Kilian, S., Radler, F., 1988. Killer toxin producing strains of the
+yeasts Hanseniaspora uvarum and Pichia kluyveri. Arch. Microbiol. 149,
+261 – 267.
+
+

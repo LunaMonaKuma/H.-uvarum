@@ -1,0 +1,1157 @@
+Journal of Applied Bacteriology 1995, 79, 79-86
+
+Purification and properties of an alcohol dehydrogenase
+(HUADHII) from Hanseniaspora uvarum K,
+C. Venturin, J. Zulaika, H. Boze, G. Moulin and P. Galzy
+Chaire de Microbiologie lndustrielle et de Genetique des Micro-organismes, ENSA 4NRA ,
+Montpellier, France
+5127/11/94: received 22 November 1994, revised 25 January 1995 and accepted 1 February 1995
+
+c . VENTURIN, J. zULAIKA. H. B O Z E , G . M O U L I N AND P. GALZY. 1995. An alcohol dehydrogenase
+HUADHII was purified 43-2-fold from Hanseniaspora uvarum K, . T h e enzyme was trimeric
+with subunits of mol. wt 42 kDa. T h e N-terminal amino acid sequence of HUADHII has
+between 45 and 75% identity with part of the sequence of isoenzymes related to group I from
+Saccharomyces cerevisiae and Kluyveromyces lactts. C2-C4 alcohols and aldehydes were the
+preferred substrates. T h e presence of an ‘a’ double bond increased the enzyme activity both
+for alcohols and aldehydes. I t was significantly inhibited by metal-binding agents and thiol
+reagents. Kinetic studies suggested that HUADHII catalyses the oxidation of ethanol by a
+random sequential mechanism. I t appears that HUADHII, a cytoplasmic fermentative
+enzyme, is structurally and functionally similar to members of the group I alcohol
+deh ydrogenases.
+
+INTRODUCTION
+
+It has been widely reported that the early stages of wine
+fermentation are characterized by the growth of nonSaccharomyces species, which consist mostly of apiculate
+yeasts of the genera Kloeckera and Hanseniaspora (Heard
+and Fleet 1988; Martini and Martini 1990). These yeasts
+can ferment the grape must up to a maximum ethanol
+content of 5 4 % v/v (Mateo et al. 1991; Zironi et al. 1993),
+lower than the maximum value obtained for Saccharomyces
+cerevisiae ( 1 5% v/v) (Lafon-Lafourcade 1983; Mauricio and
+Ortega 1993). Alcohol dehydrogenases are responsible for
+the final step of the pathway: they catalyse the reversible
+oxidation of ethanol to acetaldehyde with reduction of a
+pyridine nucleotide.
+NAD(P)-dependent alcohol dehydrogenases of three different protein types have been characterized in detail. The
+first type, exemplified by horse-liver ADH, contained zincdependent long chain ADHs of subunit mol. wt around 40
+kDa; the second type, exemplified by Drosophila ADH,
+contained short chain zinc-independent ADHs of subunit
+mol. wt around 28 kDa; the third type, exemplified by
+Zymomonas mobifis ADHII, contained ‘iron-activated’
+
+ADHs of subunit mol. wt around 40 kDa (Reid and
+Fewson 1994).
+ADHs of S. cerevisiae received most attention and four
+isoenzymes have, so far, been found. Three isoenzymes are
+very homologous and related to the first group: SADHI,
+the major fermentative isoenzyme; SADHII, which is
+glucose repressed; and SADHIII, which is localized in
+mitochondria (Ciriacy 1975). The fourth isoenzyme,
+SADHIV, is a cytoplasmic form encoded by a normally
+cryptic gene, ADH4, and related to the group I11 (Drewke
+and Ciriacy 1988). Nevertheless, alcohol dehydrogenases of
+apiculate yeasts, like Hanseniaspora uvarum or Kloeckera
+apiculata, have been studied.
+In previous works, this group have shown that the strain
+Hanseniaspora uvarum K, produced ethanol only in some
+conditions (Venturin et al. 1994, 1995). The present paper
+describes the purification and characterization of an alcohol
+dehydrogenase (HUADHII) from this strain.
+
+MATERIALS AND METHODS
+Micro-organism, medium and culture conditlons
+
+Correspondence t o : Dr G . Moubn, Charre de Microbmlogie Indurtrielle et de
+Ginitiqut des Mirro-organismer, Place Pierre Viala, E N S A - I N R A , 35060
+Montpellier Cedex I , France.
+
+0 1995 The Society for
+
+Applied Bacteriology
+
+The strain H . uvarum K, was obtained from the INRA
+Guadeloupe research station. It was listed as 1-845 in the
+
+80 C . V E N T U R I N E T A L .
+
+National Micro-organisms Collection at Institut Pasteur
+(France). The culture medium consisted of yeast extract
+(Difco) 5 g 1-', peptone (Difco) 2 g I-' to which was
+added glucose 10 g I-' (Prolabo, France) in distilled water.
+Cultures were performed in Erlenmeyer flasks filled to onefifth of their capacity and incubated at 28°C with reciprocal
+shaking (80 oscillations per min, amplitude 7 cm).
+
+Step 3. T h e phenyl-Sepharose concentrated pool was
+
+applied at 30 ml h - ' to a 5'AMP-Sepharose (Pharmacia)
+column (1.6 cm x 18 cm). T h e column was washed with 60
+ml of buffer B. The enzyme was eluted with 75 ml of 10
+mmol I - ' NAD' in buffer B. Fractions of 3 ml were collected.
+Step 4. The concentrated S'AMP-Sepharose was applied
+
+Preparatlon of cell extracts
+
+Cells were collected by centrifugation (5 rnin at 4000 g) at
+the end of the exponential phase, washed twice, and
+resuspended in sodium (Na2HP04 . 12 H,O)/potassium
+(KH,P04) phosphate buffer 20 mmol I - ' , pH 7.50,
+containing 1 mmol I - ' MgCI,, 5 mmol I - ' dithiothreitol
+(Boehringer, France) and 10% v/v glycerol (buffer A)
+in such a way as to obtain 100-200 g 1-' of dry cell
+material. Cell extract was obtained from crushed cells.
+Twelve ml of a cell suspension containing 1 g dry weight
+were homogenized in the presence of 8 g glass beads (diam.
+0.45 mm) in a Braun MSK cell homogenizer for 2 min at
+speed two. The crushed material was separated to remove
+the glass beads and centrifuged for 10 min a t 10000 g.
+Protamine sulphate was added to the supernatant fluid
+(2.25 pg ml-' of supernatant) to precipitate nucleic acids.
+After centrifugation for 90 min at 145000 g, the supernatant fluid, containing ADH activity, was stored at
+- 20°C.
+Enzyme purification
+
+A11 steps were carried out at 4"C, with the exception of the
+hydrophobic column chromatography, which was at 25°C.
+Step 7. Cell extract (approx. 30 ml) was applied at 200 ml
+
+h - ' to a Q-Sepharose Fast Flow (Pharmacia) column (2.6
+cm x 50 cm) pre-equilibrated with buffer A. Once loaded,
+the column was washed with 400 ml of the same buffer,
+followed by a linear gradient of 1200 ml of buffer to give
+finally, 0.3 rnol 1-' NaCl. Buffer A, containing 0.5 rnol 1-'
+NaCI, was used to desorb strongly adsorbed proteins. Fractions of 10 ml were collected. Active fractions, containing
+only HUADHII, were grouped, washed and concentrated
+by ultrafiltration (PM 10000, Amicon, France) and
+resuspended in a 20 mmol I-' pH 7.00 sodium-potassium
+phosphate buffer containing 1 mmol 1- MgCI, , 5 mmol
+I - ' dithiothreitol and 10% v/v glycerol (buffer B).
+
+'
+
+Step 2. The concentrate Q-Sepharose pool was applied at
+
+60 ml h - ' to a Phenyl-Sepharose CL-4B (Pharmacia)
+column (1.6 cm x 18 cm). The column was washed with
+100 ml of buffer B. The enzyme was eluted with 20% v/v
+glycerol in buffer B. Fractions of 3 ml were collected.
+
+at 30 ml h - ' to a Sephacryl S200-HR (Pharmacia) column
+(1.6 cm x 1 m) and then the enzyme was eluted with
+buffer B. Fractions of 2 ml were collected.
+
+Analytical methods
+Protein determination. The protein in the enzymatic
+
+extract and during purification was measured according to
+the method of Bradford (1976) after calibration with bovine
+serum albumin.
+Enzyme assays. Activities were measured by monitoring
+
+the appearance of NADH.H+ at 340 nm using a Beckman
+DU7 spectrophotometer according to the method of Bergmeyer et al. (1965). Ethanol oxidation activity was measured in the presence of 100 mmol l - ' ethanol and 3 mmol
+I - ' NAD' (Boehringer) in a medium buffered to pH 8.70
+(sodium pyrophosphate buffer, 50 mmol I-') at 25°C.
+Acetaldehyde reduction activity was measured in the presence of 2 mmol I - ' acetaldehyde (Fluka, France) and 0.1
+mmol 1- NADH.H+ (Boehringer) at pH 6.00 (sodium
+phosphate buffer, 50 mmol 1- ') a t 20°C. Acetaldehyde was
+distilled before use. One enzymatic unit (U) was defined as
+the amount of enzyme converting 1 pmol of NADH.H+
+per min. Specific activity ( U mg-') was the enzymatic
+activity related to the amount of proteins. Enzyme assays
+are means of, at least, triplicate determinations.
+The following buffers were used to observe the influence
+of the pH on activity: citric acid-dibasic sodium phosphate
+buffer, 50 mmol I - ' , pH 4.00-6.00; sodium phosphate
+buffer, 50 mmol I - ' , pH 6.00-8.00; sodium pyrophosphate
+buffer, 50 mmol 1- p H 8.00-10.00.
+
+',
+
+Measurement of molecular weight
+Gel exclusion-diffusion chromatography. T h e molecular weight of the native enzyme was determined by gel
+exclusion-diffusion on a Sephacryl S200-HR column
+during the last step of purification. T h e column was calibrated with molecular weight markers (Sigma) by the
+method of Andrews (1964): cytochrome c (mol. wt 12400),
+carbonic anhydrase (mol. wt 29 000), bovine serum albumin
+(mol. wt 66 000), alcohol dehydrogenase (mol. wt 150 000),
+
+t->1995 The Society for Applied Bacteriology, Journal of Applied Bacteriology 79, 79-86
+
+ALCOHOL DEHYDROGENASE OF H . U V A R U M K,
+
+81
+
+/%amylase (mol. wt 200000) and blue dextran (mol. wt
+2 000 000).
+SDS-PAGE electrophoresis. T h e molecular weight of
+HUADHII subunits was determined using SDS-PAGE
+denaturing conditions (12% in acrylamide) according to the
+method of Laemmli (1970).Low molecular weight standard
+proteins (BioRad, France) were used for calibration :
+lysozyme (rnol. wt 14400), soybean trypsin inhibitor (mol.
+wt 21 SOO), carbonic anhydrase (mol. wt 31 000), ovalbumin
+(mol.
+Wt
+45 000), bovine serum albumin (mol. wt 66 200) and phosphorylase b (mol. wt 97400). Proteins were stained by the
+silver method (BioRad) for quantities of proteins ranging
+from 0.1 to 10 pg.
+Protein sequencing
+
+The N-terminus of alcohol dehydrogenase of H. uvarum
+K, was sequenced by J.C. Huet at INRA (Versailles) (93%
+sequence repetition). Sample preparation was carried out
+on the pure HUADHII extract by adsorption under PVDF
+membrane by centrifugation (PROSPIN Applied Biosystems, France) according to Sheer (1990). T h e sequence
+data presented in this paper have been submitted to
+GenBank and assigned accession number 94102.
+
+Fractions
+Fig. 1 Elution profile of Hunseniaspora uvarum K, in ion
+exchange chromatography on Q-Sepharose (column size, 2.6
+cm x 50 cm; flow rate: 200 ml h- '). 0 ,Activity alcohol
+dehydrogenase (U ml-I); . . . , proteins (mg m1-I); -, NaCl
+
+HUADHII are summarized in Table 1. After gel
+exclusion-diffusion, the alcohol dehydrogenase HUADHIJ
+was pure. T h e enzyme was purified 43.2-fold with a final
+specific activity of 186 U mg-'.
+Molecular weight
+
+RESULTS
+Purification of HUADHii
+
+During the first step of Q-Sepharose chromatography, two
+alcohol dehydrogenase activity peaks, non-separated, were
+eluted at 0.12 mol I - ' NaCl in buffer A (Fig. 1). The first
+peak contained two ADH bands (HUADHI and
+HUADHII) on gel electrophoresis under non-denaturing
+conditions, but a part of the second peak contained only
+one band (HUADHII) (data not shown). This last part was
+grouped, concentrated by ultrafiltration to be subjected to
+other chromatographies. The purification results of
+
+Table 1 Purification of Hunseniaspora
+uvarum K , HUADHII
+
+The result of Sephacryl S200 H R gel exclusion-diffusion
+indicated a mol. wt value of about 120 _+ 3 kDa for
+HUADHII. Maximum activity was a single sharp symmetrical peak. SDS-PAGE polyacrylamide gel electrophoresis showed a single band corresponding to a mol. wt
+value of 42 f 5 kDa when compared with standard proteins
+(Fig. 2). The equivalence of the molecular weight found
+using two methods showed that the enzyme was trimeric.
+N-terminal amino acid sequence
+
+The sequence of the first 20 amino acids of the alcohol
+dehydrogenase from ff. uvarum K, was determined and
+
+Protein
+Purification step
+
+mg
+
+Crude extract
+Q-Sepharose
+(HUADHII)
+Phenyl Sepharose
+5'AMP Sepharose
+Sephacryl S2OO-HR
+
+840
+86
+
+11.3
+4.05
+1.64
+
+PF, Purification factor.
+
+0 1995 The Society for Applied Bacteriology, Journal of Applied Bacteriology 79. 79-86
+
+Activity
+O/O
+
+100
+
+10.2
+1.35
+0.48
+0.20
+
+U
+
+%
+
+3584
+1320
+
+100
+36.8
+
+1220
+664
+305
+
+34
+18.5
+8.5
+
+Specific
+activity
+(U mg-')
+
+4.3
+15.3
+108
+164
+186
+
+PF
+1
+
+3.6
+25.1
+38.2
+43.2
+
+82
+
+c.
+
+VENTURIN E r A L .
+
+at p H values between 6.50 and 10.00, with an apparent
+optimum value at 8.00.
+Effects of temperature (between 10" and 85°C) on the
+enzyme activity were examined in 50 mmol I - ' sodium
+pyrophosphate buffer (pH 8.00), under the standard assay
+conditions, with ethanol as substrate. Variation of activity
+in relation to temperature displayed an apparent optimum
+value at 55°C. The Arrhenius plot made it possible to calculate the apparent activation energy value for the reaction,
+E = 25.6 kJ mol-'.
+Thermic denaturation of the enzyme was studied at
+various temperatures (between 25 and 60°C) for several
+times (0-50 min). T h e residual activity was determined
+under the standard assay conditions with ethanol as substrate at 25°C. A decrease of 50% in activity was observed
+after 5 min of treatment at 45°C. T h e apparent activation
+energy value of denaturation ( E = 139 kJ mol- ') was estimated using the Arrhenius plot.
+
+Fig. 2 Molecular weight measurement of HUADHII subunit by
+
+SDS-PAGE electrophoresis. Silver staining: a, standard proteins
+(BioRad); b, purified enzyme
+
+then compared with other protein sequences. The other
+alcohol dehydrogenases to which any significant homology
+was observed, were those of yeasts related to group I
+(Table 2). HUADHII has between 45 and 75% homology
+with isoenzymes of S. cerevisiae, between 65 and 70% with
+isoenzymes of K. lactis and 25% with ADH of Schizos.
+pornbe.
+
+Effects of pH and temperature on enzyme activities
+
+HUADHII was active in acetaldehyde reduction at pH
+values between 4.50 and 10.00, with an apparent optimum
+value at 6.50. In ethanol oxidation, the enzyme was active
+
+Action of inhibitors
+Several metal ions and other substances (0.05-10 mmol
+1-') were examined for their effects on HUADHII activity
+(Table 3) which was strongly inhibited by C u 2 + and Z n 2 + ,
+but not by Co2', Mn2', Ca", Na' and K'. Mg2' (10
+mmol 1- ') reduced the initial reaction rate to 56%. Bromosuccinimide and pyrazole inhibited HUADHII. Metalbinding agents such as o-phenanthroline, potassium
+ferricyanide and EDTA and thiol reagents such as pCMB
+inhibited HUADHII activity. Inhibition by pCMB can be
+eliminated by addition of cysteine. DTT and cysteine,
+reducing agents for disulphide bonds, did not activate the
+enzyme at a concentration of 5 mmol 1-'. These studies as
+a whole showed that it was a thiol metallo-enzyme.
+Substrate speclficity
+
+The highest activities were obtained with ethanol and
+acetaldehyde (100Y0). When primary alcohols or aldehydes
+
+Table 2 Comparison of the N-terminal amino acid sequence of the NAD-dependent alcohol dehydrogenase (HUADHII) from
+Hunseniusporu uvurum K, with those of yeast alcohol dehydrogenases group I (Reid and Fewson 1994)
+
+HUADHII
+SADHI
+SADHII
+SADHIII
+KADHI
+KADHII
+KADHIII
+KADHIV
+SPADH
+
+. .
+. .
+. .
+Q S
+. M
+
+. .
+
+. L
+N S
+. .
+
+.
+.
+.
+T
+A
+.
+A
+S
+.
+
+20
+
+10
+
+.
+M
+M
+A
+A
+M
+T
+F
+M
+
+A
+S
+S
+A
+S
+S
+S
+A
+T
+
+V
+I
+I
+I
+I
+I
+V
+I
+I
+
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+K
+E
+E
+K
+E
+E
+E
+E
+D
+
+T
+T
+T
+T
+T
+T
+T
+T
+K
+
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+
+K
+K
+K
+K
+K
+K
+K
+K
+L
+
+G
+G
+A
+G
+G
+G
+G
+G
+A
+
+V
+V
+I
+V
+V
+V
+V
+V
+A
+
+T F Y
+I F Y
+I F Y
+I F Y
+I F Y
+I F Y
+I F Y
+I F Y
+V F H
+
+E
+E
+E
+E
+E
+E
+E
+E
+T
+
+N
+S
+S
+N
+N
+N
+N
+N
+H
+
+N
+H
+H
+K
+G
+G
+G
+G
+G
+
+G
+G
+G
+G
+G
+G
+G
+G
+G
+
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+P E
+
+Q
+K
+K
+K
+E
+E
+K
+K
+N
+
+L
+L
+L
+L
+L
+L
+L
+L
+V
+
+K
+E
+E
+E
+E
+Q
+E
+E
+K
+
+Y
+H
+Y
+Y
+Y
+Y
+Y
+Y
+F
+
+SADHI, S . cerevisiae ADHI; SADHII, S . cerevisiue ADHII; SADHIII, S . cerevisiue ADHIII; KADHI, K. luctis ADHI; KADHII. K .
+luctis ADHII; KADHIII, K . lactic ADHIII; KADHIV, K. luctis ADHIV; SPADH, Schizos. pombe ADH.
+
+0 1995 The Society for Applied
+
+Bacteriology. Journal ofApplied Bacteriology 79, 7-6
+
+ALCOHOL DEHYDROGENASE OF H . U V A R U M K,
+
+83
+
+Table 3 Influence of inhibitors on activity of HUADHII
+
+Inhibitors
+None
+Metal ion
+CUCI,
+ZnCI,
+
+Other agents
+p-CMB
+p-CMB + cysteine
+2.5 mmol I - '
+EDTA
+Potassium ferricyanide
+o-phenanthroline
+DTT
+Cysteine
+Bromosuccinimide
+Pyrazole
+
+Concentration
+(mmoI I - ')
+
+Relative
+activity (%)
+
+-
+
+100
+
+0.10
+1.oo
+0.10
+1 .00
+1 .00
+10.00
+
+70
+28
+90
+44
+
+0.05
+0.05
+
+0
+83
+
+5.00
+1.oo
+5.00
+5.00
+5.00
+
+73
+0
+8
+100
+80
+0
+4
+
+0.10
+5.00
+
+83
+10
+
+0,075
+
+F
+
+c
+
+3
+
+2
+0.025
+
+0.0
+0.1
+0.2
+I/Ethanol (mmol-' I)
+
+-0.1
+
+Enzyme assay was performed at 25°C in the presence of 500 mmol
+I - ' ethanol, 3 mmol I - ' NAD' and 50 mmol I - ' sodium pyrophosphate buffer (pH 8.00).
+
+-4
+
+-2
+0
+2
+4
+VNAD (mmol-' I)
+
+c
+fn
+
+3
+2
+al
+
+c
+C
+
+were used as substrates, HUADHII activity decreased as
+the carbon chain of the alkyl group was elongated (Table
+4). T h e enzyme showed low activities with secondary alcohols, sugar alcohols, cyclic alcohols or aldehydes. T h e
+enzyme was inactive on NADP' or on methanol, but it
+displayed slight activity on N A D P H and formaldehyde. Its
+activity increased with substrates having an 'a' double bond
+(ally1 alcohol and aldehyde, cinnamyl alcohol and
+aldehyde).
+
+Kinetic studies
+T h e kinetic analysis of HUADHII is summarized in Table
+5. T h e kinetic constants ( V , , K,,, (Michaelis constant) and
+Ki (inhibition or dissociation constant)) were calculated
+graphically from primary plots of the reciprocal of initial
+rates of reaction against the reciprocals of cofactor concentration for various substrates at constant concentrations,
+followed by secondary plots of their slopes and intercepts in
+the primary plots as a function of the reciprocals of the
+substrate concentrations. H U A D H I I operated by a sequential mechanism according to Cleland's Classification
+(Cleland 1963a, b).
+T h e type of sequential mechanism was specified by
+study of inhibition by the products of the reaction (Cleland
+1963~).T h e ethanol oxidation reaction was studied using
+acetaldehyde and N A D H . H + as inhibitors (Fig. 3). Inhi-
+
+-04 -0.2
+
+0.0
+
+0.2
+
+0-4
+
+Acetaldehyde (mmol I-')
+
+-0.02
+0.00
+-0.02
+NADH (mmol rl)
+
+Fig. 3 Product inhibition patterns of ethanol oxidation of
+HUADHII from Hunseniusporu uvurum K, . (a) Primary plot:
+inhibition by acetaldehyde with ethanol as variable substrate at
+constant NAD concentration (3 mmol I - I ) . Acetaldehyde
+concentrations (mmol I-') were: 0 (O),0.05 (O), 0.1 (V),0.2
+(a).(b) Secondary plot: replots of slopes (V) and intercepts (0)
+from (a) against the acetaldehyde concentration. (c) Primary plot:
+inhibition by NADH.H+ with NAD' as variable substrate at
+constant ethanol concentration (500 mmol I-'). NADH.H+
+concentrations (mmol 1- ') were: 0 ( O ) ,0.0025 (O),0.005 (V),
+0.007 (a).(d) Secondary plot: replots of slopes (0)and
+from (c) against the NADH.H+ concentration.
+intercepts (0)
+Standard errors ranged from 20 to 40%
+
+bition by acetaldehyde was non-competitive in relation to
+ethanol (acetaldehyde inhibition constants Kii = 0.49 mmol
+I-'
+and Ki, = 0.071 mmol I-').
+Inhibition by
+NADH.H
+was non-competitive in comparison with
+N A D + (inhibition constants of N A D H . H + , Kii = 0.030
+mmol 1-', Ki, = 0.022 mrnol I-'). These results are only
+compatible with a random sequential mechanism.
++
+
+((7 1995 The Society for Applied Bacteriology. Journal of Applied Bacteriology 79, 79-86
+
+84
+
+c.
+
+VENTURIN E r A L .
+
+Substrate
+
+Relati ve
+activity (YO)
+
+Relative
+activity (YO)
+
+Substrate
+
+100
+0
+40
+23
+9
+3
+7
+
+Aldehyde reduction (b)
+Acetaldehyde (2)
+Formaldehyde (7)
+Propanol (3)
+Butanal (1.5)
+Pentanal (0.7)
+Hexanal (0.1)
+Octanal (0.1)
+
+100
+12
+96
+80
+10.6
+16
+10
+
+1
+
+-
+
+-
+
+1
+2
+
+-
+
+-
+
+-
+
+-
+
+Table 4 Substrate specificity of
+HUADHII
+
+~
+
+Alcohol oxidation ( a )
+Ethanol (500)
+Methanol (100)
+n-Propanol (250)
+n-Butanol (33)
+n-Pentanol (16)
+n-Hexanol (6)
+n-Octanol (0.6)
+n-Dodecanol (1.2)
+2-Propanol (1 2)
+2-Butanol (50)
+-
+
+-
+
+Isopentanol (0.8)
+Benzyl alcohol (0.1)
+Furfuryl alcohol (82)
+Ally1 alcohol (250)
+Cinnamyl alcohol (3.3)
+Glycerol (160)
+Sorbitol (30)
+Galactitol (1)
+NAD' (3)
+NADP+ (0.2)
+
+2
+3
+0
+82
+73
+2
+1
+2
+100
+0
+
+Isobutanal (0.2)
+Isopentanal (0.2)
+Benzaldehyde (1.5)
+Furfuraldehyde (5)
+Acrolein (5)
+Cinnamaldehyde (0.2)
+Glyceraldehyde (1.5)
+
+11
+1
+0
+8
+69
+28
+2
+
+-
+
+-
+
+-
+
+-
+
+NADH.H' (0.1)
+NADPH.H' (0.15)
+
+100
+1
+
+Percent activity was measured on 500 mmol I-' ethanol and 3 mmol I - ' NAD' (a) and on
+2 mmol I - ' acetaldehyde and 0.1 mmol I - ' NADH.H' (b).
+For alcohol oxidation (a), activities were measured at 25°C in 50 mmol I - ' sodium pyrophosphate buffer (pH 8.00). NAD' concentration was fixed at 3 mmol I-'. The alcohol
+concentrations used for this enzyme, expressed in mmol I - were indicated in brackets.
+For aldehyde reduction (b), activities were measured at 20°C in 50 mmol I - ' sodium
+phosphate buffer (pH 6.50). NADH.H' concentration was fixed at 0.1 mmol I - ' . T h e
+aldehyde concentrations used for this enzyme, expressed in mmol I-', were indicated in
+brackets.
+
+',
+
+DISCUSSION
+
+Table 5 Kinetic constants of HUADHII
+
+Kinetic constants
+vmax
+
+(u m g - ' )
+
+K , substrate (mmol I - ' )
+K, cofactor (mmol I - ' )
+Ki substrate (mmol I - ')
+Kicofactor (mmol I - ')
+
+Ethanol
+oxidation (1)
+
+Acetaldehyde
+reduction (2)
+
+126.7
+1.10
+0.25
+23.9
+0.94
+
+817
+0.3 1
+0.19
+0.020
+0.0059
+
+For ethanol oxidation (l), the activities were determined at 25°C
+in 50 mmol I - ' sodium pyrophosphate buffer (pH 8.00) as a
+function of different concentrations of NAD' (0.12, 0.25, 0.50,
+1.00 and 2.00 mmol I-') with different concentrations of ethanol
+(5, 10, 50, 100, 200 and 500 mmol I - ') and reciprocally.
+For aldehyde reduction (2), the activities were determined at 20°C
+in 50 mmol I - ' sodium phosphate buffer (pH 6.50) as a function
+of different concentrations of NADH.H' (0.01, 0.25, 0.05, 0.10
+and 0.25 mmol I - ') with different concentrations of acetaldehyde
+(0.05,0.10, 0.20,0.50, 1.00 and 2.00 mmol I - ') and reciprocally.
+Cofactors were NAD' for ethanol oxidation and NADH for
+acetaldehyde reduction. Standard errors ranged from 8 to 37%.
+
+This work was aimed at characterizing an NAD-dependent
+alcohol dehydrogenase of H. uvarum K,, and the authors
+found apparent similar homology with yeast ADHs related
+to group I.
+Comparisons of the N-terminal amino acid sequence
+obtained for the enzyme from H. uvarum K 5 with those of
+the other alcohol dehydrogenases described in the literature, revealed significant sequence identities with ADHs
+of group I. This enzyme showed very high homologies with
+yeast ADHs (KADHs and SADHs), up to 75% identical to
+the isoenzyme SADHIII of S. cerevzsiae. In contrast,
+HUADHII share only 5520% identity with the N-terminal
+amino acid sequence of bacterial enzyme, like other group I
+yeast ADHs (Reid and Fewson 1994). Many sequences
+have been aligned to that of horse liver (HLADH) isoenzyme (group I archetype). HLADH has little identity
+with HUADHII (10%). The most highly conserved part of
+the N-terminal sequence from group I yeast ADHs is the
+strech TQKGV.
+
+Q 1995 The Society for Applied Bacteriology, Journal of Applied Bacteriology 79, 79-86
+
+ALCOHOL D EH YD R OGEN A SE OF H . U V A R U M K,
+
+T h e subunit mol. wt value of H. uvarum K, enzyme
+(mol. wt 42 kDa) were consistent with enzymes belonging to
+either group I or group I11 NAD(P)-dependent alcohol
+dehydrogenases. However, the apparent trimeric structure
+of the enzyme was unusual among alcohol dehydrogenases,
+most being monomers like ADHc of Schwanniomyces castellii (Mouillet-Loevenbruck et al. 1989), dimers like horse
+liver ADH, human ADHs (Sun and Plapp 1992) and
+ADH2 of Candida guillermondii (Indrati and Ohta 1993) or
+tetramers like isoenzymes of S . cerevisiae or K . lactis (Reid
+and Fewson 1994) and A D H l of Candida guillermondii
+(Indrati and Ohta 1992). T h e only trimeric ADH reported
+of mol. wt 49 kDa has been isolated from Amycolutopsis
+methunolica and related to the group I alcohol dehydrogenases (Reid and Fewson 1994).
+HUADHII has a narrow substrate specificity, like group
+I yeast ADHs, as compared to animal A D H s (Tsai et al.
+1987). HUADHII appeared to prefer C2-C4 alcohols as
+substrates. T h e enzyme H U A D H I I showed very similar
+substrate specificities to S A D H I , the cytoplasmic fermentative enzyme, of S . cerevisiae (Lustorf and Megnet 1968);
+similar substrate specificities to K A D H I and K A D H I I ,
+cytoplasmic fermentative enzymes, of K . luctzs (Shain et al.
+1992).
+There was more evidence for the existence of a metal ion
+and thiol groups in this enzyme as judged by its high inhibition respectively by metal-binding agents and oxidants of
+SH terminals (pCMB). I n the group I ADHs, a zinc atom
+and thiol group have been described as playing catalytic
+roles (Branden et al. 1975 ;Reid and Fewson 1994).
+Studies of reactional mechanism catalysed by H U A D H I I
+lead to the conclusion that the enzyme acts essentially
+according to a random sequential mechanism. Dickinson
+and Monger (1973) described mechanisms which have some
+characteristics of the random order type for yeast alcohol
+dehydrogenases. But, generally, the catalytic mechanism
+found most in the literature is ordered with the NAD'
+binding first: like S A D H I of S. cereviszae (Wratten and
+Cleland 1963; Ganzhorn et al. 1987), ADHc of Schw. castellai (Mouillet-Loevenbruck 1989) and A D H l of C. guillermondii (Indrati and Ohta 1993).
+Overall, there are enough structural and functional similarities between the alcohol dehydrogenases H U A D H I I of
+H. uvarum K , and S A D H I of S . cerevisiae to suggest that
+the enzymes may be homologous and that they may have
+the same physiological role. H U A D H I I was proposed to be
+related to group I ADHs.
+
+REFERENCES
+Andrews, P. (1964) Estimation of the molecular weights of proteins by Sephadex gel filtration. Biochemical Journal 91, 222223.
+63
+
+85
+
+Bergmeyer, H.U., Gawehn, K. and Grassil, M. (1965) Enzyme as
+biochemical reagent : alcohol dehydrogenase. In Methods of
+Enzymatic Analysis ed. Bergmeyer, H.U. Vol 1, pp. 42W29.
+New York : Academic Press.
+Bradford, M.M. (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of proteins utilizing the
+principle of protein-dye binding. Analytical Biochemistry 72,
+248-254.
+Branden, C.I., Jomvall, H., Eklund, H. and Furugren, B. (1975)
+Alcohol dehydrogenases. In The Enzymes ed. Boyer, P.D. 3rd
+edn, Vol. XI, pp. 104-190. New York: Academic Press.
+Ciriacy, M. (1975) Genetics of alcohol dehydrogenase in Saccharomyces cerevisiae. 11. Two loci controlling synthesis of
+glucose repressible ADH TI. Molecular and General Genetics
+138, 157-164.
+Cleland, W.W. (1963a) The kinetics of enzymexatalysed reactions
+with two or more substrates or products. I. Nomenclature and
+rate equations. Biochimica et Biophysica Acta 67, 104-137.
+Cleland, W.W. (1963b) The kinetics of enzyme-catalysed reactions with two or more substrates or products. 11. Inhibition:
+nomenclature and theory. Biochimica et Biophysica Acta 67,
+173-1 87.
+Cleland, W.W. (1963~)The kinetics of enzyme-catalysed reactions
+with two or more substrates or products. 111. Prediction of
+initial velocity and inhibition patterns by inspection. Biochimica
+et Biophysica Acta 67, 188-196.
+Dickinson, F.M. and Monger, G.P. (1973) A study of the kinetics
+and mechanism of yeast alcohol dehydrogenase with a variety of
+substrates. Biochemical Journal 131, 261-270.
+Drewke, C. and Ciriacy, M. (1988) Overexpression, purification
+and properties of alcohol dehydrogenase IV from Saccharomyces
+cerevisiae. Biochimica et Biophysica Acta 950, 54-60,
+Ganzhorn, A.J., Green, D.W., Hershey, A.D., Gould, R.M. and
+Plapp, B.V. (1987) Kinetic characterization of yeast alcohol
+dehydrogenase. Amino acid residue 290 and substrate specificity. Journal of Biological Chemistry 262, 3754-3761.
+Heard, G.M. and Fleet, G.H. (1988) The effects of temperature
+and pH on the growth of yeast species during the fermentation
+of grape juice. Journal of Applied Bacteriology 65, 23-28.
+Indrati, R. and Ohta, Y. (1992) Purification and properties of
+alcohol dehydrogenase from a mutant strain of Candida guillermondii deficient in one form of the enzyme. Canadian Journal
+of Microbiology 38,953-957.
+Indrati, R. and Ohta, Y. (1993) Alcohol dehydrogenase (ADH2)
+from a mutant strain of Candida guillermondii A8O-03: purification and characterization. FEMS Microbiology Letters 110,
+179- 184.
+Laemmli, U.K. (1970) Cleavage of structural proteins during the
+assembly of the head of bacteriophage T4. Nature 227, 68&
+685.
+Lafon-Lafourcade, S. (1983) Wine and brandy. In The Biotechnoiogy, Food and Feed Production mith Micro-organisms ed.
+Rehm, H.J. and Reed, G. Vol. 5, pp. 81-163. Weinheim:
+Verlag Chemie.
+Lustorf, U. and Megnet, R. (1968) Multiple forms of alcohol
+dehydrogenase in Saccharomyces cerevisiae. I. Physiological
+control of ADH-2 and properties of ADH-2 and ADH-4.
+Archives of Biochemistry and Biophysics 126, 933-944.
+
+1995 The Society for Applied Bacteriology, Journal of Applied Bacteriology 7% 79-86
+
+86 C . VENTURIN ET A L .
+
+Martini, A. and Martini, A.V. (1990) Grape must fermentation:
+Past and present. In Yeast Technology ed. Spencer, J.F.T. and
+Spencer D.M. pp. 105-123. Berlin: Springer.
+Mateo, J.J., Jimenes, M., Huerta, T . and Pastor, A. (1991) Contribution of different yeasts isolated from musts of monastrell
+grapes to the aroma of wine. International Journal of Food
+Microbiology 14, 153-160.
+Mauricio, J.C. and Ortega, J.M. (1993) Influence of fermentation
+conditions on specific activity of the enzymes alcohol and aldehyde dehydrogenase from yeasts. Microbios 75, 95-106.
+Mouillet-Loevenbruck, D., Nicolas, M., Moulin, G. and Galzy,
+P. (1989) Purification and properties of an alcohol dehydrogenase (ADHc) of a mutant strain of Schwanniomyces castellii:
+SC-ADH-5P. Journal of Fermentation and Bioengineering 68,
+4O'HlO.
+Reid, M.F. and Fewson, C.A. (1994) Molecular characterization
+of microbial alcohol dehydrogenases. Critical Reviews in Microbiology 20, 13-56.
+Shain, D.H., Salvadore, C. and Denis, C.L. (1992) Evolution of
+the alcohol dehydrogenase (ADH) genes in yeast : characterization of a fourth ADH in Kluyveromyces lactis. Molecular and
+General Genetics 232,47%488.
+Sheer, D. (1990) Sample centrifugation onto membranes for
+sequencing. Analytical Biochemistry 187, 7 6 8 3 .
+
+Sun, H.W. and Plapp, B.V. (1992) Progressive sequence alignment and molecular evolution of the Zn-containing alcohol
+dehydrogenase family. Journal of Molecular Evolution 34, 522535.
+Tsai, C.S., Al-Kassim, L.S., Mitton, K.P., Thompson, L.E.,
+Vanes, C. and White, J.H. (1987) Purification and comparative
+studies of alcohol dehydrogenases. Comparative Biochemistry
+and Physiology 87, 7 W 5 .
+Venturin, C., Boze, H., Fahrasmane, L., Moulin, G. and Galzy,
+P. (1994) Influence de la concentration en glucose et en
+oxygene sur la capacite fermentaire de la souche Hanseniaspora
+uvarum K, (Niehaus). Sciences des Aliments 14, 321-333.
+Venturin, C., Boze, H., Moulin, G. and Galzy, P. (1995) Glucose
+metabolism, enzymic analysis and product formation in chemostat culture of Hanseniaspora uvarum. Yeast 11, 327-336.
+Wratten, C.C. and Cleland, W.W. (1963) Product inhibition
+studies on yeast and liver alcohol dehydrogenase. Biochemistry
+2,935-951.
+Zironi, R., Romano, P., Suzzi, G., Battistutta, F. and Comi, G.
+(1993) Volatile metabolites produced in wine by mixed and
+sequential cultures of Hanseniaspora guilliermondii or Kloeckera
+apiculata and Saccharomyces cerevisiae. Biotechnology Letters 15,
+235-238.
+
+0 1995 The Society for Applied Bacteriology, Journal of Applied
+
+Bacteriology 79, 79-86
+
+

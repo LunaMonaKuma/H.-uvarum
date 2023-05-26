@@ -1,0 +1,806 @@
+FEMS Yeast Research 3 (2003) 3^9
+
+www.fems-microbiology.org
+
+Identi¢cation of yeast species from orange fruit and juice
+by RFLP and sequence analysis of the 5.8S rRNA gene and
+the two internal transcribed spacers
+Francisco Javier Las Heras-Vazquez, Lydia Mingorance-Cazorla,
+Josefa Mar|¤a Clemente-Jimenez, Felipe Rodriguez-Vico 
+Departamento de Qu|¤mica-F|¤sica, Bioqu|¤mica y Qu|¤mica Inorga¤nica, Edi¢cio C.I.T.E. I, Universidad de Almer|¤a, La Can‹ada de San Urbano E-04120, Spain
+Received 17 January 2002; accepted 7 May 2002
+First published online 25 July 2002
+
+Abstract
+Yeast isolates from orange fruit and juice in a spontaneous fermentation were identified and classified by two molecular techniques. The
+first was analysis of the restriction pattern generated from the polymerase chain reaction (PCR)-amplified 5.8S rRNA gene and the two
+internal transcribed spacers (ITS) using specific primers. The second technique was sequence analysis of the ITS regions using the same
+two primers. Nine different restriction profiles were obtained from the size of the PCR products and the restriction analyses with three
+endonucleases (CfoI, HaeIII and HinfI). These groups were identified as Candida tropicalis, Clavispora lusitaniae, Hanseniaspora uvarum,
+Pichia anomala, Pichia fermentans, Rhodotorula mucilaginosa, Saccharomyces cerevisiae, Saccharomyces unisporus, and Trichosporon asahii.
+Checking against identification according to morphological, physiological and biochemical traits corroborated this molecular
+identification. A total concordance was found in the identification with PCR-restriction fragment length polymorphism of the ITS
+region after analysing certified yeast strains from two different culture collections. Consequently, a rapid and reliable identification of the
+yeast populations was achieved by using molecular techniques.
+8 2002 Federation of European Microbiological Societies. Published by Elsevier Science B.V. All rights reserved.
+Keywords : Yeast identi¢cation; Restriction fragment length polymorphism-polymerase chain reaction analysis ; Sequence analysis ;
+5.8S internal transcribed spacer region
+
+1. Introduction
+Traditionally, yeasts have been identi¢ed and classi¢ed
+by morphological and physiological traits [1,2]. These
+methods are laborious and time-consuming. Moreover,
+these characteristics are in£uenced by culture conditions
+and can provide uncertain results [3]. Simpli¢ed biochemical methods have also been developed, based on fermentation and assimilation characteristics [4]. In addition,
+
+* Corresponding author. Tel. : +34 (950) 015055;
+Fax : +34 (950) 015008.
+E-mail address : fvico@ual.es (F. Rodriguez-Vico).
+Abbreviations : ITS, internal transcribed spacer ; PCR, polymerase
+chain reaction ; RFLP, restriction fragment length polymorphism
+
+many methods based on molecular biology have been applied to the identi¢cation of yeasts. DNA-based methods
+have the advantage of being independent of gene expression [5]. These methods include DNA^DNA hybridisation
+[6], electrophoresis of whole-cell protein [7], electrophoretic karyotyping [8], restriction fragment length polymorphism (RFLP) [9], (mtDNA) restriction analysis [10] and
+DNA ¢ngerprinting [11]. A disadvantage of these techniques is that they are rather time-consuming. In this direction, methods based on the polymerase chain reaction
+(PCR) have been shown to be the most appropriate tools
+for rapid yeast identi¢cation. Ampli¢ed fragments £anked
+by repeated sequences [12] and PCR ¢ngerprinting [13]
+have been demonstrated to discriminate between di¡erent
+yeast species, but only a few species have been investigated. Since 1990, random ampli¢ed polymorphic DNA
+has been used to identify and classify yeast species [14].
+Another technique derived from PCR is the study of the
+nucleotide divergence in the 5P-end of the large subunit
+
+1567-1356 / 02 / $22.00 8 2002 Federation of European Microbiological Societies. Published by Elsevier Science B.V. All rights reserved.
+PII : S 1 5 6 7 - 1 3 5 6 ( 0 2 ) 0 0 1 3 4 - 4
+
+FEMSYR 1503 13-2-03
+
+4
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+(26S) ribosomal DNA gene (rDNA region D1/D2) [15].
+This rDNA region is su⁄ciently variable to allow reliable
+identi¢cation of yeast species [16]. More recently, the differences in the rRNA internal transcribed spacer (ITS)
+have been used to identify yeast species [17^19]. The ITS
+region, including the 5.8S rRNA gene (coding and conserved) and two £anking variable and non-coding regions
+ITS1 and ITS2, show low intraspeci¢c variability, and
+high interspeci¢c polymorphism. From the conserved sequences of 18S and 28S rRNA genes at ends of the ITS
+region two universal primers can be obtained [20]. The
+subsequent restriction analysis of the amplicons allows
+the identi¢cation of yeasts even though several species
+may be present simultaneously [21].
+The aim of this study was to identify yeast strains
+present in a spontaneous fermentation of orange juice using molecular methods. The two techniques used, restriction and sequence analysis of the PCR-ampli¢ed region
+between 18S and 28S rRNA genes, were tested for the
+rapid identi¢cation of yeast populations present in the
+juice.
+
+2. Materials and methods
+2.1. Yeast strains
+Isolation of the yeasts from spontaneously fermenting
+oranges and orange juice at three di¡erent harvest times
+produced a total of 100 di¡erent isolates. Samples for the
+isolation and enumeration of yeasts were taken every 24 h
+during fermentation. Aliquots of 25 Wl, 50 Wl and 100 Wl of
+juice (before 48 h) and of two dilutions (1035 and 1036 )
+were spread onto plates of YPD agar (yeast extract 1%,
+peptone 2%, glucose 2%, agar 2%, pH 6.5; Difco Laboratories, Detroit, MI, USA) supplemented with ampicillin
+(100 ng Wl31 ) to avoid bacterial growth. Plates were incubated at 27‡C. The colonies selected by colony di¡erentiation were isolated on new plates to be analysed by PCRRFLP of the ITS region.
+2.2. Identi¢cation of yeasts
+Conventional yeast identi¢cation was carried out following the criteria described by Barnett et al. [2] based
+on their morphological and physiological characteristics.
+The physiological tests were: ability to ferment glucose,
+lactose, sucrose, galactose, melibiose, maltose, melezitose,
+starch, cellobiose, K-D-methyl-glucoside and ra⁄nose;
+ability to use as sole source of carbon for aerobic growth
+glucose, galactose, L-arabinose, L-rhamnose, sucrose, melibiose, lactose, ra⁄nose, melezitose, starch, erythritol,
+mannitol, K-D-methyl-glucoside, trehalose, maltose, cellobiose, D-arabinose, D-ribose, D-xylose, mio-inositol, 50%
+and 60% glucose; ability to use nitrogen compounds;
+urea hydrolysis test.
+
+2.3. Microbial type cultures
+Certi¢ed yeast strains of various species for controls
+were obtained from the Spanish Type Culture Collection
+(CECT) and German Collection of Microorganisms and
+Cell Cultures (DSMZ). Strains studied were: Candida tropicalis (CECT 1440); Clavispora lusitaniae (DSMZ 70102);
+Hanseniaspora uvarum (CECT 10885); Pichia anomala
+(CECT 1114); Pichia fermentans (CECT 11773); Rhodotorula mucilaginosa (CECT 11010); Saccharomyces cerevisiae (CECT 1971) Saccharomyces unisporus (CECT 10682);
+Trichosporon asahii (CECT 11852).
+2.4. DNA isolation
+Pure cultures of each isolate were grown in 10 ml of
+YPD at 27‡C for 12 h at 250 rpm on an orbital shaker.
+The cells were then collected by centrifugation at 1500Ug
+for 10 min at room temperature. The cells were resuspended in 10 ml of distilled water and centrifuged as described above. Collected cells were resuspended in 1 ml of
+extraction bu¡er (2% Triton X-100, 1% sodium dodecyl
+sulfate, 100 mM NaCl, 10 mM Tris^HCl, pH 8, 10 mM
+EDTA) and transferred to a microcentrifuge tube. After
+centrifuging at 1500Ug for 10 min the pellet was crushed
+with a disposable pestle (a conical grinder, exactly ¢tting
+the tube). After removing the pestle, 0.2 ml of extraction
+bu¡er, 0.2 ml of equilibrated phenol, pH 6, and a pinch
+of sterile sea sand were added. The conical grinder was
+rotated by hand until total homogeneity was achieved.
+Then 0.2 ml of chloroform:isoamyl alcohol (24:1) was
+added, and centrifuged at 1500Ug for 10 min after mixing
+by vigorous inversion. NaCl in a ¢nal concentration of
+0.2 M and 2 volumes of absolute EtOH were added to
+the supernatant. After leaving the mixture for 1 h at
+320‡C, it was centrifuged at 12 000Ug for 10 min at
+4‡C. The pellet was then washed with EtOH 70%, and
+left for the EtOH to evaporate. Finally the dry precipitate
+was resuspended in 20 Wl of TE (10 mM Tris^HCl, 1 mM
+EDTA) or double-distilled water. To verify the quality
+of DNA extraction, electrophoresis in 0.7% (w/v) agarose
+mini-gel using TBE (Tris-borate 0.045 M, EDTA 0.001 M,
+pH 8) bu¡er was performed. The amount of DNA obtained in this way was approximately 300 ng Wl31 . The
+genomic DNA for PCR was diluted to 5^25 ng Wl31 .
+2.5. PCR ampli¢cation
+The ampli¢cation reactions of the 5.8S-ITS region were
+carried out under the following conditions : each 50 Wl
+reaction mixture contained 5^25 ng template DNA;
+10 mM Tris^HCl, pH 9.0, 50 mM KCl, 1.5 mM MgCl2 ;
+0.2 mM each of dATP, dCTP, dGTP and dTTP; 0.5 WM
+of each primer; and 1 U Taq DNA polymerase (Amersham Pharmacia Biotech, Sweden). The primers ITS1
+(5P-TCCGTAGGTGAACCTGCGG-3P) and ITS4 (5P-TC-
+
+FEMSYR 1503 13-2-03
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+5
+
+CTCCGCTTATTGATATGC-3P) described by [22] were
+used to amplify this region. Ampli¢cation was performed
+in a Perkin Elmer Thermocycler 2400 programmed as follows: initial denaturation at 94‡C for 5 min; 30 s 94‡C for
+denaturing, 30 s at 57‡C for annealing, 1 min at 72‡C for
+synthesis, repeated for 35 cycles ; and a ¢nal extension step
+of 5 min at 72‡C. Ampli¢ed samples were kept at 320‡C
+until further use. Aliquots of 10 Wl of ampli¢ed product
+were separated electrophoretically in 1.4% (w/v) agarose
+gels in TBE bu¡er at 100 V constant voltage for 1 h,
+stained with ethidium bromide and photographed under
+transilluminated UV light (Fotodyne).
+
+assembled using the CLUSTALW program [23]. The assembled sequences were aligned and compared with all
+available sequence databases of DNA through Internet
+using Basic Local Alignment Search Tool (BLAST) [24].
+Manual comparisons of the sequences were realised with
+CLUSTALW [23]. The percentage similarity among the
+fragments was calculated with BLAST and SEAVIEW
+[25]. The restriction analysis of the sequences was made
+with the program pDRAW32 (Ljeld Olsen/AcaClone Software, a freeware program available in the webpage http://
+www.crosswinds.net/~acaclone).
+
+2.6. Restriction analysis
+
+3. Results and discussion
+
+Aliquots (10 Wl) of PCR products were digested without
+further puri¢cation with 1 U of restriction enzyme in 20 Wl
+reaction volume, using the manufacturer’s instructions and
+conditions. The restriction enzymes used were CfoI,
+HaeIII and HinfI. RFLP products were analysed by horizontal electrophoresis in 3% (w/v) agarose gels. DNA
+molecular mass marker (1-kb+ DNA ladder ; Life Technologies, Barcelona, Spain) was used as standard. All electrophoreses were carried out with 15U7-cm gels on a
+Wide Mini-Sub Cell GT unit (15U7-cm tray with 20
+wells ; Bio-Rad Laboratories, Madrid, Spain) at 70 V for
+1 h. After electrophoresis, the gels were stained with ethidium bromide and photographed under transilluminated
+UV light.
+
+One hundred yeast isolates from the initial stages of
+spontaneous orange juice fermentation were identi¢ed according to ITS polymorphisms. The ITS1 and ITS4 primers ampli¢ed the region between 18S rRNA and 28S
+rRNA. The isolates showed di¡erent PCR product sizes,
+ranging from 370 bp to 880 bp (Table 1). The PCR products digested with CfoI, HaeIII and HinfI enzymes were
+analysed for all the isolated strains, whereby nine di¡erent
+pro¢les were obtained. A roman numeral designates each
+group (Table 1). All restriction fragments were di¡erent
+for each enzyme in each of the strains studied. For comparison, PCR-RFLP of the ITS region was simultaneously
+applied to certi¢ed strains from the CECT and the DSMZ.
+Additionally, the nine groups were identi¢ed using morphological, physiological and biochemical characteristics
+based on the Barnett keys [2].
+Four of the nine groups were identi¢ed after comparing
+the molecular masses of the restriction products with those
+obtained by the CECT [18]. These four groups were Saccharomyces cerevisiae (I), Candida tropicalis (II), Rhodotorula mucilaginosa (VII) and Pichia fermentans (IX). Group
+VIII showed the same pattern as Hanseniaspora uvarum
+and Hanseniaspora guilliermondii of the CECT database
+after using the three enzymes. However, after a new restriction analysis with DdeI endonuclease, group VIII was
+identi¢ed as Hanseniaspora uvarum. Group III showed the
+
+2.7. Automated DNA sequencing and data analysis
+Both strands of the ITS1 and ITS2 regions were sequenced after PCR ampli¢cation using the ITS1 and
+ITS4 primers, and each sequence was repeated at least in
+duplicate. PCR products were puri¢ed using a microcolumn (MicroSpin S-400 HR columns, Amersham Pharmacia Biotech, Spain). Sequencing was carried out using the
+dye dideoxy nucleotide sequencing method in an ABI 377
+DNA Sequencer (Applied Biosystems).
+The sequences were edited with Microsoft Word 97 and
+
+Table 1
+Number of isolates per group, and identi¢cation of the nine groups according to the lengths (in bp) of the 5.8S-ITS region ampli¢ed by PCR and of
+the fragments obtained after digestion with three restriction endonucleases
+Group
+
+Number of isolates
+
+Species
+
+Ampli¢ed product
+
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+
+35
+17
+12
+10
+2
+1
+1
+17
+5
+
+Saccharomyces cerevisiae
+Candida tropicalis
+Clavispora lusitaniae
+Trichosporon asahii
+Saccharomyces unisporus
+Pichia anomala
+Rhodotorula mucilaginosa
+Hanseniaspora uvarum
+Pichia fermentans
+
+880
+510
+370
+530
+750
+650
+600
+750
+450
+
+Restriction fragments
+CfoI
+
+HaeIII
+
+HinfI
+
+385+365
+270+240
+210+180
+270+270
+340+320+80
+630
+310+230+80
+320+310+105
+170+100+100+80
+
+320+230+180+130
+430+80
+370
+500
+550+120
+630
+390+210
+750
+340+90
+
+360+350+180
+270+270
+180+160
+240+220+50
+400+350
+320+270
+220+220+70+50
+350+200+180
+250+200
+
+FEMSYR 1503 13-2-03
+
+6
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+same number and size of fragments as Yarrowia lipolytica
+of the CECT database after digestion with CfoI and
+HaeIII, but two bands instead of one appeared when
+HinfI was used. The remaining groups (IV, V and VI)
+were not found to correspond with yeasts in the ITS database.
+In order to check the identity of the ¢ve groups identi¢ed by restriction analysis of the ITS region, and identify
+the other four groups isolated in this study, the PCR
+products from the nine groups were sequenced. The sequences were compared with available DNA sequence databases using BLAST and CLUSTALW programs. Nine
+species-speci¢c ITS region DNA sequences have been submitted to GenBank (Table 2). For comparative analysis,
+the nine sequences were analysed for their predicted restriction patterns with the pDRAW32 program.
+The ¢ve groups identi¢ed by RFLP analysis of the
+5.8S rRNA and ITS1 and ITS2 (I, II, VII, VIII and IX)
+were again identi¢ed as S. cerevisiae (I), C. tropicalis (II),
+R. mucilaginosa (VII), H. uvarum (VIII) and P. fermentans
+
+(IX) after comparing their sequences to the GenBank database (Table 2). The 781-nucleotide sequence corresponding to group I showed a similarity of about 98% with the
+S. cerevisiae 5.8S and ITS DNA sequences found in the
+GenBank database. However, the discrepancy in group I
+with the enzyme CfoI, between restriction analysis with
+only two bands and sequence analysis with four fragments
+(data not shown), revealed di¡erences between these two
+techniques. The same sequence analysis with CfoI was
+carried out for the S. cerevisiae 5.8S rRNA gene region
+from the GenBank database (Table 2). One of the sequences (Z95943) presented four bands with molecular masses
+similar to ours. The remaining sequences showed only two
+fragments by ITS sequence analysis. Due to these di¡erences in the sequence it was thought that these isolates
+could be di¡erent strains of the same species. These results
+are in accordance with those obtained by Esteve-Zarzoso
+et al. [18], where the S. cerevisiae strain CECT 1971 included in the yeast database showed two bands of 385 and
+365 bp [18]. However, a recent study with S. cerevisiae
+
+Table 2
+Length of region 5.8S-ITS sequence of nine groups and homology with GenBank sequences
+Group
+
+Species
+
+Sequenced fragment (nt)
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+II
+II
+II
+III
+III
+III
+III
+IV
+IV
+IV
+IV
+V
+V
+V
+VI
+VI
+VI
+VII
+VII
+VII
+VII
+VII
+VIII
+VIII
+IX
+IX
+IX
+
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Saccharomyces cerevisiae
+Candida tropicalis
+Candida tropicalis
+Candida tropicalis
+Clavispora lusitaniae
+Clavispora lusitaniae
+Clavispora lusitaniae
+Clavispora lusitaniae
+Trichosporon asahii
+Trichosporon asahii
+Trichosporon asahii
+Trichosporon asahii
+Saccharomyces unisporus
+Saccharomyces unisporus
+Saccharomyces unisporus
+Pichia anomala
+Pichia anomala
+Pichia anomala
+Rhodotorula mucilaginosa
+Rhodotorula mucilaginosa
+Rhodotorula mucilaginosa
+Rhodotorula mucilaginosa
+Rhodotorula mucilaginosa
+Hanseniaspora uvarum
+Hanseniaspora uvarum
+Pichia fermentans
+Pichia fermentans
+Pichia fermentans
+
+781
+756
+777
+773
+780
+780
+773
+753
+759
+523
+529
+524
+364
+323
+383
+255
+537
+358
+454
+454
+680
+729
+643
+605
+560
+375
+611
+702
+702
+702
+702
+680
+710
+444
+307
+307
+
+Homology (%)
+99
+99
+99
+98
+98
+99
+98
+98
+98
+97
+99
+97
+98
+100
+99
+99
+99
+99
+97
+96
+98
+98
+98
+98
+100
+80
+79
+
+FEMSYR 1503 13-2-03
+
+GenBank accession number
+AF321540 (this study)
+Z95943
+Z95935
+Z95942
+Z95938
+Z95940
+Z95939
+U09327
+Z95929
+AF321539 (this study)
+AF268095
+L47112
+AF321541 (this study)
+AF172262
+AF009215
+AF218970
+AF322110 (this study)
+AF245218
+AB018014
+AB018013
+AF321542 (this study)
+D89896
+AJ229065
+AF321543 (this study)
+AF270936
+AF218991
+AF321544 (this study)
+AB026012
+AB025998
+AB025988
+AB025979
+AY027507 (this study)
+AJ271031
+AY027508 (this study)
+AF218969
+AF218998
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+strain CECT 1485 presented three bands of 375, 325 and
+150 bp [26]. Both these studies were made with the CfoI
+enzyme. This phenomenon was encountered again when
+the group of Granchi obtained two bands after restriction
+analysis with CfoI and calculated four restriction fragments from the available GenBank ITS region sequence
+[21].
+Groups II (C. tropicalis) and VII (R. mucilaginosa) presented more repetitive and constant patterns than group I.
+The homology in the results between our study, the yeast
+database and the sequencing was very high for the three
+enzymes. The entire sequence of the group II ITS region
+(523 nt) was aligned with fragments corresponding to the
+same region in C. tropicalis with a similarity of 97%. The
+di¡erences between R. mucilaginosa and Rhodotorula glutinis obtained from the yeast database are very small, the
+fragments produced with HaeIII were 425+215 nt and
+430+210, respectively [18]. However, the group VII sequence (611 nt) had 98% similarity with that of R. mucilaginosa. In this case, with RFLP-PCR of the ITS region it
+was very di⁄cult to identify the isolated strain. The sequencing permitted correct assignation of the species name
+of the isolate, because it aligned our sequence with that of
+R. mucilaginosa in the GenBank database for 98%, and no
+signi¢cant similarity with the sequence of R. glutinis was
+found (data not shown).
+Group VIII (H. uvarum) was identi¢ed by both restriction and sequencing techniques. The DdeI enzyme was
+necessary for a total identi¢cation of the ITS region by
+RFLP-PCR, because after cutting with the ¢rst three enzymes the pattern was the same for H. uvarum and
+H. guilliermondii. After using the fourth enzyme the pro¢le
+of the isolate of group VIII corresponded to that of
+H. uvarum. Moreover, a total similarity (100%) was found
+between the complete sequence of 5.8S ITS DNA obtained
+in this work and that of the GenBank database. The same
+comparison was made between the sequence of this study
+and the sequence of H. guilliermondii from the GenBank
+database, where 97% similarity was found.
+The entire sequence of group IX (P. fermentans) with
+444 nt showed 77% similarity with that of Pichia membranaefaciens, and 80% similarity with that of P. fermentans.
+The restriction fragments of P. fermentans and P. membranaefaciens are also very similar for the three enzymes
+used [18]. It is only possible to distinguish between them
+after comparing the molecular masses of their PCR products (450 and 500 bp, respectively). In this case, although
+the sequencing did identify the species, it was veri¢ed by
+the RFLP-PCR technique.
+Group III was identi¢ed as C. lusitaniae instead of
+Y. lipolytica after comparing the PCR sequence of 364
+nt in the GenBank database. The sequence similarity between the fragment of group III and the C. lusitaniae
+strains present in GenBank was over 97%. The restriction
+analyses of a strain of C. lusitaniae are presented here for
+the ¢rst time. As a result, it is only possible to compare
+
+7
+
+our restriction analysis with the sequence study of this
+isolate and with those presented in the GenBank (Table
+2). In this comparative study the homology in size and
+number by both techniques was very close. However, the
+restriction products with CfoI were di¡erent. The three
+5.8S-ITS region DNA sequences present in GenBank provided non-coincident fragments. The main di¡erence was
+in the size of the sequences (383, 255 and 323 nt). The
+sequence with accession number AF009215 [27] showed
+the same two fragments as our isolate. This sequence
+was the most similar in length to our sequence, while the
+other two sequences were shorter. The number of bands
+present in the two shorter products with CfoI was three
+rather than two. These slight di¡erences in the sequences
+indicate the intraspeci¢c variability in this species. This
+phenomenon has also been found in several strains belonging to the species C. lipolytica [16].
+Groups IV, V and VI, whose pro¢les after restriction
+analysis of the ITS region were not found in the yeast ITS
+database presented by [18], showed very high similarity in
+their sequences with T. asahii, S. unisporus and P. anomala, respectively (Table 2). The group IV (537 nt) sequence aligned with that of T. asahii with 99% similarity.
+The Trichosporon genus has recently been reclassi¢ed according to the polymorphisms in the ITS region sequence
+of its species [28], and a large number of these sequences
+are included in the GenBank database. Of the total of
+19 species included in this genus [29], the sequence presented in our study had over 98% homology with six other
+species of this genus apart of T. asahii (data not shown).
+These sequences have been reported in two di¡erent works
+[27,30]. Recent studies based on sequencing of the D1/D2
+region of the large subunit of rDNA have again shown the
+great homology among these seven species belonging to
+the genus Trichosporon [31]. For this reason, the strain
+isolated in this work was identi¢ed based on morphological and physiological traits, and was found to be T. asahii. Additionally, the restriction pro¢le of the isolate after
+digestion with the three enzymes was corroborated by
+comparison with the certi¢ed strain T. asahii CECT
+11852. This is the ¢rst time that the ITS region sequence
+of a yeast isolated from natural juice and corresponding to
+this genus is presented.
+The P. anomala group (VI) exhibited great similarities
+between the restriction analysis products and in the sequence analysis. The sequence fragment was longer (605
+nt) than that previously presented [32] (560 nt; accession
+number AF270936), although the same two primers were
+used. A di¡erent restriction pattern was shown for the
+three enzymes when our results were compared with those
+obtained elsewhere [18]. The isolate was, therefore, not
+identi¢ed as P. anomala. However, the band patterns of
+the isolate were totally coincident with those of the
+P. anomala strain obtained by others [21] using the same
+three enzymes. This variability in the results shows the
+intraspeci¢c heterogeneity in P. anomala, and may prove
+
+FEMSYR 1503 13-2-03
+
+8
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+to be a problem in the construction of the yeast database.
+The S. unisporus (V) restriction pro¢le was totally coincident with both techniques used, and with the two
+S. unisporus ITS sequences presented in GenBank. Size
+and number of the fragments were the same as those obtained in a recent work, where the ITS region of the genus
+Saccharomyces, including S. unisporus, was studied [26].
+Moreover, analysis with two more restriction enzymes realised in the aforementioned study yielded pro¢les identical with ours (data not shown).
+The composition and evolution of yeast populations
+during the early fermentation phases of natural juices
+have been examined before, grape juice being the most
+widely studied. In wine fermentations several common
+strains have been found, such as S. cerevisiae, Candida
+stellata, H. uvarum (or Kloeckera apiculata), Rhodotorula
+sp., P. anomala and C. tropicalis [17,21,33]. In orange juice
+fermentation similar yeast species have been presented,
+such as S. cerevisiae, H. uvarum, C. tropicalis, R. mucilaginosa, P. anomala and P. fermentans. In the present work,
+however, C. lusitaniae, S. unisporus and T. asahii were
+isolated from the fermentation of a natural juice for the
+¢rst time. The presence of these three strains had been
+reported before in clinical samples; besides, orange peel
+had been indicated as a source of Trichosporon sp., and
+citrus fruit as source of C. lusitaniae [2].
+The combined use of these two molecular tools, restriction and sequence analysis of the ampli¢ed ITS region of
+the rRNA genes, as a means of yeast identi¢cation was
+demonstrated. Positive results using these techniques separately had already been demonstrated [18,21,26,27], but
+they were always preceded or accompanied by classical
+identi¢cation. In this study, it was possible to identify all
+the yeast isolates from spontaneous fermentation by molecular analysis only. It would be interesting to extend the
+initial yeast database [18] by including the restriction analysis of the ITS region, under the same experimental conditions, as it is a fast, reproducible and cheap technique.
+In this study we include two new restriction patterns for
+T. asahii and C. lusitaniae. For the present, as an alternative to conventional methodology and until the yeast
+database by restriction analysis is completed, we would
+recommend either the exclusive use of sequence analysis
+of the ITS region, or this technique in combination with
+restriction analysis, as the best means of reliably identifying new yeast strains.
+
+Acknowledgements
+This work was supported by the projects SAF-2001
+2067 from DGICYT and FIT-010000-2001-177 from Programa Nacional de Biotecnolog|¤a, Ministerio de Educacio¤n y Cultura, Spain. The authors wish to thank Andy
+Taylor for the critical discussion of the manuscript.
+
+References
+[1] Kreger-van Rij, N.J.W. (Ed.) (1984) The Yeasts: A Taxomomic
+Study, 3rd edn. Elsevier Science, Amsterdam.
+[2] Barnett, J.A., Payne, R.W. and Yarrow, D. (1990) Yeasts: Characteristics and Identi¢cation, 2nd edn. Cambridge University Press,
+Cambridge.
+[3] Yamamoto, N., Amemeiya, H., Yokomori, Y., Shimizu, K. and Totsuka, A. (1991) Electrophoretic karyotypes of wine yeast. Am. J.
+Enol. Vitic. 42, 358^363.
+[4] Rohm, M. and Lechner, F. (1990) Evaluation and reliability of simpli¢ed method for identi¢cation of food-borne yeasts. Appl. Environ.
+Microbiol. 56, 1900^1925.
+[5] Ness, F., Lavallee, F., Dubourdieu, D., Aigle, M. and Dulau, L.
+(1993) Identi¢cation of yeast strains using the polymerase chain reaction. J. Sci. Food Agric. 62, 89^94.
+[6] Martini, A. and Kurtzman, C.P. (1985) Deoxyribonucleic acid relatedness among species of the genus Saccharomyces sensu stricto. Int.
+J. Syst. Bacteriol. 35, 508^511.
+[7] Vancanneyt, B.P., Hennebert, G. and Kersters, K. (1991) Di¡erentiation of yeast species based on electrophoretic whole-cell protein
+patterns. Syst. Appl. Microbiol. 14, 23^32.
+[8] Johnston, J.R. and Mortiner, R.K. (1986) Electrophoretic kariotyping of laboratory and commercial strains of Saccharomyces and other
+yeasts. Int. J. Syst. Bacteriol. 36, 569^572.
+[9] Penderson, M.B. (1986) DNA sequence polymorphism in the genus
+Saccharomyces III. Restriction endonuclease fragment patterns of
+chromosomal regions in brewing and other yeast strains. Carlsberg
+Res. Commun. 51, 163^183.
+[10] Guillamo¤n, J.M., Barrio, E., Huerta, T. and Querol, A. (1994) Rapid
+characterization of four species of the Saccharomyces sensu stricto
+complex according to mitochondrial DNA patterns. Int. J. Syst. Bacteriol. 44, 708^714.
+[11] Walmsley, M., Barrie, M.W. and Kong, T.H. (1989) Genetic ¢nger
+printing for yeast. Biotechniques 7, 1168^1170.
+[12] Skolnick, M.H. and Wallace, R.B. (1988) Simultaneous analysis of
+multiple polymorphic loci using ampli¢ed sequence polymorphisms
+(ASPs). Genomics 2, 273^279.
+[13] Lieckfeldt, E., Meyer, W. and Borner, T. (1993) Rapid identi¢cation
+and di¡erentiation of yeasts by DNA and PCR ¢ngerprinting. J. Basic
+Microbiol. 33, 413^426.
+[14] Couto, M.M.B., Van der Wessen, J.M.B.M., Hofstra, H. and Huis
+in ’t Veld, J.H.J. (1994) RAPD analysis : a rapid technique for
+di¡erentiation of spoilage yeasts. Int. J. Food Microbiol. 24, 249^
+260.
+[15] Peterson, S.W. and Kurtzman, C.P. (1991) Ribosomal RNA sequence
+divergence among sibling species of yeasts. Syst. Appl. Microbiol. 14,
+124^129.
+[16] Kurtzman, C.P. and Robnett, C.J. (1997) Identi¢cation of clinically
+important ascomycetous yeasts based on nucleotide divergence in the
+5P-end of the large-subunit (26S) ribosomal DNA gene. J. Clin. Microbiol. 35, 1216^1223.
+[17] Guillamo¤n, J.M., Sabate, J. and Barrio, E. (1998) Rapid identi¢cation of wine yeast species based on RFLP analysis of the ribosomal
+internal transcribed spacer (ITS) region. Arch. Microbiol. 169, 387^
+392.
+[18] Esteve-Zarzoso, B., Belloch, C., Uruburu, F. and Querol, A. (1999)
+Identi¢cation of yeasts by RFLP analysis of the 5.8S rRNA gene and
+the two ribosomal internal transcribed spacers. Int. J. Syst. Bacteriol.
+49, 329^337.
+[19] Dlauchy, D., Tornai-Lehoczki, J. and Pe¤ter, G. (1999) Restriction
+enzyme analysis of PCR ampli¢ed rDNA as a taxonomic tool in
+yeast identi¢cation. Syst. Appl. Microbiol. 22, 445^453.
+[20] Bruns, T.D., White, T.J. and Taylor, J.W. (1991) Fungal molecular
+systematics. Annu. Rev. Ecol. Syst. 22, 525^564.
+[21] Granchi, L., Bosco, M. and Vicenzini, M. (1999) Rapid detection and
+quanti¢cation of yeast species during spontaneous wine fermentation
+
+FEMSYR 1503 13-2-03
+
+F.J. Las Heras-Vazquez et al. / FEMS Yeast Research 3 (2003) 3^9
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+by PCR-RFLP analysis of the rDNA ITS region. J. Appl. Microbiol.
+87, 949^956.
+White, T.J., Bruns, T., Lee, S. and Taylor, J. (1990) Ampli¢cation
+and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: PCR Protocols. A Guide to Methods and Applications
+(Innis, M.A., Gelfand, D.H., Sninsky, J.J. and White, T.T., Eds.),
+pp. 315^322. Academic Press, San Diego, CA.
+Jeanmougin, F., Thompson, J.D., Gouy, M., Higgins, D.G. and Gibson, T.J. (1998) Multiple sequence alignment with Clustal X. Trends
+Biochem. Sci. 23, 403^405.
+Altschul, S.F., Gish, W., Miller, W., Myers, E.W. and Lipman,
+D.J. (1990) Basic local alignment search tool. J. Mol. Biol. 5, 403^
+410.
+Galtier, N., Gouy, M. and Gautier, C. (1996) Seaview and PHYLO_
+WIN: two graphics tools for sequence alignment and molecular phylogeny. Comput. Appl. Biosci. 12, 543^548.
+Fernandez-Espinar, M.T., Esteve-Zarzoso, B., Querol, A. and Barrio,
+E. (2000) RFLP analysis of the ribosomal internal transcribed spacers
+and 5.8 S rRNA gene region of the genus Saccharomyces : A fast
+method for species identi¢cation and the di¡erentiation of £or yeasts.
+Antonie van Leeuwenhoek 78, 87^97.
+Chen, Y.C., Eisner, J.D., Kattar, M., Rassoulian-Barrett, L., Lafe,
+K., Yar¢tz, S.L., Limaye, A.P. and Cookson, B.T. (2000) Identi¢cation of medically important yeasts using PCR-based detection of
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+9
+
+DNA sequenced polymorphisms in the internal transcribed spacer 2
+region of the rRNA genes. J. Clin. Microbiol. 38, 2302^2310.
+Sugita, T. and Nakase, T. (1998) Molecular phylogenetic study of the
+basidiomycetous anamorphic yeast genus Trichosporon and related
+taxa based on small subunit ribosomal DNA sequences. Mycoscience
+39, 7^13.
+Gue¤ho, E., Smith, M.Th. and de Hoog, G.S. (1998) Trichosporon
+Behrend. In: The Yeasts : A Taxonomic Study, 4th edn. (Kurtzman,
+C.L. and Fell, J.W., Eds.), pp 854^872. Elsevier, Amsterdam.
+Sugita, T., Nishikawa, A., Ikeda, R. and Shinoda, T. (1999) Identi¢cation of medically relevant Trichosporon species based on sequences of internal transcribed spacer regions and construction of a database for Trichosporon identi¢cation. J. Clin. Microbiol. 37, 1985^
+1993.
+Middelhoven, W.J., Scorzetti, G. and Fell, J.W. (2000) Trichosporon
+veenhuisii sp. nov., an alkane-assimilating anamorphic basidiomycetous yeast. Int. J. Syst. Evol. Microbiol. 50, 381^387.
+Masih, E.I., Alie, I. and Paul, B. (2000) Can the grey mould disease
+of the grape-vine be controlled by yeast? FEMS Microbiol. Lett. 189,
+233^237.
+Fernandez, M.T., Ubeda, J.F. and Brines, A.I. (1999) Comparative
+study of non-Saccharomyces micro£ora of musts in fermentation, by
+physiological and molecular methods. FEMS Microbiol. Lett. 173,
+223^229.
+
+FEMSYR 1503 13-2-03
+
+

@@ -1,0 +1,497 @@
+Can. [nSf. Sci. Technol. J. Vol. 23, No. 4/5, pp. 212-216, 1990
+
+RESEARCH
+
+The Yeasts in a Riesling Must From the Niagara
+Grape-Growing Region of Ontario
+P. Holloway and R.E. Subden
+Department of Microbiology, University of Guelph
+Guelph, Ontario, NIG 2WI
+and
+
+M-A. Lachance
+Department of Plant Sciences
+University of Western Ontario
+London, Ontario N6A 5B7
+
+Abstract
+The yeasts in the must from grapes grown in the Niagara
+Peninsula have been identified and enumerated. The persistence
+of these indigenous or wild yeasts throughout the fermentation
+was examined. The number and diversity of yeast species are
+similar to those reported in other wine districts of the world. The
+most numerous indigenous species in fresh must were an unknown
+species of Candida, Hanseniaspora uvarum, Candida diversa and
+Aureobasidium pullulans.
+Saccharomyces cerevisiae was not found in the initial 5,000
+colony forming units analysed. The first S. cerevisiae was isolated
+when the alcohol concentration reached IOg/L. S. cerevisiae then
+increased in numbers throughout the fermentation. At the end of
+the fermentation only S. cerevisiae was isolated.
+
+Resume
+Les levures du moiit de raisins dans la Peninsule du Niagara
+ont ete identifiees et enumeree. La persistance de ces levures
+indigenes ou sauvages fut etudiee au cours de la fermentation. Le
+nombre et la diversite des especes de levures furent semblables a
+celles rapportees dans d'autres regions vinicoles du monde. Les
+especes indigenes les plus nombreuses dans Ie moiit frais furent
+une espece inconnue de Candida, Hanseniaspore uvarum, Candida
+diversa et Aureobasidium' pullalans. Sacchariomyces cerevisiae ne
+fut pas trouve dans les premieres 5,000 unites de colonies analysees.
+Le premier S. cerevisiae fut isole lorsque la concentration
+alcoolique atteignit IOg/L. S. cerevisiae augmenta ensuite en
+nombre tout au cours de la fermentation, S. cerevisiae fut Ie seul
+a etre isole.
+
+Introduction
+The "wild yeasts" of the grape bloom are reported
+to contribute variously to "off flavors" and
+complexity of a wine (Schulle, 1953; Sapis-Domercq,
+1969; Benda, 1970; Sponholz and Dittrich, 1974). In
+an effort to understand and control the influence of
+the wild yeasts, most wine districts of the world have
+undertaken some taxonomic surveys cataloging the
+
+indigenous microfungi of grapes, musts and wines
+(Mrak and McClung, 1940; Peynaud and Domercq,
+1953; Yokotsuka, 1954; Castelli, 1955; Castelli and
+DelGuidice, 1955; Domercq, 1957; Inigo Leal et al.,
+1963; Benda, 1964; Minarik, 1964; Sapis-Domercq
+and Guittard, 1976; Fleet et. al., 1984). No such
+studies have been performed in the Ontario wine
+districts.
+The present work is a report of a taxonomic survey
+of the yeasts and yeast-like molds from the Niagara
+Peninsula. The report also describes the relative
+persistence of these yeasts throughout the fermentation.
+
+Materials and Methods
+Riesling grapes used in the study were grown in
+the vineyards of a commercial winery in the Niagara
+grape growing region. Random samples of grapes
+were pooled at harvest on September 27, 1988. The
+juice was taken directly from the press with no
+addition of S02' The juice measured 17.90 Brix with
+a pH of 3.1. To examine the succession of yeast
+populations during a natural fermentation, juice was
+put into sterile 4-L glass carboys fitted with
+fermentation locks. A small sample, taken in a sterile
+250 mL plastic bottle, was kept on ice until plating
+(within 4 h) to examine the initial microbial
+population. Fermentation was carried out at room
+temperature for six days. Samples were taken for
+plate counts, residual sugar and ethanol determinations. Microbiological examination was done using
+Malt Extract Agar (MEA), (Difco Laboratories,
+Detroit, MI) and Lysine Agar (LA). LA supports the
+growth of most yeast species with the notable
+
+Copyright © 1990 Canadian Institute of Food Science and Technology
+
+212
+
+exception of Saccharomyces species (Taylor and
+Marsh, 1984; Heard and Fleet, 1986). LA is Yeast
+Carbon Base and 15 giL Noble Agar (Difco)
+supplemented with 0.9 giL L-Iysine (Fisher Scientific,
+Ottawa, ON). Both media were adjusted to pH 3.6.
+The initial sample was plated out onto 100 MEA
+plates. Samples taken during the fermentation were
+diluted serially and plated onto 10 plates of both LA
+and MEA. Plates were incubated at room temperature for five days before the optimal dilution (100 to
+200 cfu/plate) was identified for counting.
+Isolates were grouped according to colony and
+cellular morphology for enumeration. Representatives of each type were then pure cultured on
+Yeast Extract-Peptone Dextrose Agar (YEPD, components from Difco). Cultures were stored on YEPD
+slants at 4°C. Identification was done at the
+University of Western Ontario, Department of Plant
+Sciences, by the tests and classification schemes
+described by van der Walt and Yarrow (1984).
+Ethanol was measured by HPLC using a Waters
+system equipped with an R401 optical refractometer
+(Waters Associates, Mississauga, ON) and a BioRad
+HPX-87H column (RioRad Laboratories, Mississauga, ON). Reducing sugar was determined according to Amerine and Ough (1980).
+
+Results
+Notwithstanding the unique climate of the Niagara
+Peninsula, the total number and the species diversity
+of the indigenous yeasts in this must and wine does
+not differ greatly from reports from wine districts in
+other parts of the world (Benda, 1964; Minarik, 1964;
+Davenport, 1974; Rosini et al., 1982; Fleet et al.,
+1984). With the possible exception of the Candida
+species, the must and fermentation population was
+similar to those found elsewhere.
+
+The concentration of the total initial microbial
+population in the juice from Riesling grapes harvested from the Niagara Peninsula was log 6.9
+cfu/mL. Yeast accounted for 89010 of the 5017 cfu's
+identified. Thirteen species of yeast were identified
+(see Table 1). Identification of yeast species using
+morphological (Figure 1), and physiological tests was
+straightforward with the exception of the most
+numerous yeast, an unknown species of Candida
+which assimilated only glucose, 2-keto-gluconate,
+and tannin among the carbon sources tested and
+lysine (slowly) and cadaverine among the nitrogen
+sources tested. The unknown yeast fermented glucose
+vigorously and had a unique profile in the test battery
+(van der Walt and Yarrow. 1984). Although it bears
+some resemblance to Candida stellata, the unknown
+fails to assimilate sucrose or raffinose. Unlike the
+unknown, Candida stellata isolates tend to grow
+poorly on amino acid free media (Lachance,
+unpublished). Work is presently in progress to
+determine whether the unknown Candida sp is a
+novel species. Consistent with reports from other
+parts of the world, (van Zyl and du Plessis, 1961;
+Relanand Vyas, 1971; Rosinietal., 1982; Parish and
+Carroll, 1985), the apiculate yeast Hanseniaspora
+uvarum (Figure la), was a dominant yeast species in
+the initial microbial population. H. uvarum and the
+multilateral budding yeast Candida sp (Figure 1b)
+accounted for more than 60% of the total yeast
+population. About 13.3% ofthe cfu's were large pale
+pink colonies that turned green then black when
+mature. They were identified as the mold-like yeast
+Aureobasidium pullulans (Figure lc). Other species
+included Candida diversa, Cryptococcus laurentii,
+Cryptococcus albidus, Pichia kluyveri, Issatchenkia
+terricola, Metschnikowia pulcherrima, Saccharomycopsiscrataegensis, and a single isolate of Candida
+steatolytica.
+
+Table I. Identity and numbers of yeast found in the initial must sample.
+Species
+Yeasts
+Candida sp
+Hanseniaspora uvarum
+Aureobasidium pullulans
+Candida diversa
+Pichia kluyveri
+Rhodotorula glutinis
+Cryptococcus laurentii
+Cryptococcus albidus
+Issatchenkia terricola
+Metschnikowia pulcherrima
+Saccharomycopsis crataegensis
+Sporobolomyces roseus
+Candida steatolytica
+Bacteria
+all species
+Total cfu's identified
+Ins = not statistically significant
+2 ni = Bacteria not included in % calculations
+Can. lnst. Food Sci. Technol. J. Vol. 23. No. 4/5, 1990
+
+Total
+Counts
+
+Frequency
+log cfu/mL
+
+cfu as
+% of total
+
+1420
+1336
+589
+432
+296
+204
+
+5.38
+5.34
+4.99
+4.85
+4.69
+4.53
+4.23
+3.51
+3.43
+3.17
+ns l
+ns
+ns
+
+32.1
+30.2
+13.3
+9.8
+6.7
+4.6
+2.3
+0.5
+0.4
+0.2
+ns
+ns
+
+4.99
+
+ni 2
+
+102
+20
+16
+9
+
+2
+I
+I
+
+590
+5017
+
+ns
+
+Holloway et 01. / 213
+
+Figure l. Yeasts Found in a Must From the Niagara Peninsula.
+a) Aureobasidium pullulans b) Hanseniaspora uvarum, c) Candida sp, d) Rhodotorula glutinis
+
+Pink- or orange-pigmented yeasts varied greatly
+according to the site of collection (data not
+presented). The most frequent was Rhodotorula
+glutinis (Figure Id) with only a single colony of
+Sporobolomyces roseus.
+Studies on grape and must microflora (Rosini et
+al., 1982) have shown maximum diversity of yeast
+species occurs on the mature grape and during must
+preparation. As the fermentation proceeded, the total
+number of yeast cells increased to log 7.82 cfu/mL
+(Figure 2) and the number of yeast species present
+decreased (Figure 3). No isolates of the moderately
+fermentative (Pichia and Metschnikowia) yeasts were
+found after 28 h fermentation and the population of
+Aureobasidium, Rhodotorula and Cryptococcus had
+declined markedly (Figure 2). After 47 h, only the
+fermentative yeasts were isolated. After 71 h the
+population of Hanseniaspora uvarum had increased
+to a maximum of log 6.84 cfu/mL and the ethanol
+concentration reached 24 giL. From this point the
+population of H. uvarum declined until it was
+undetectable (less than log 2 cfu/mL) by the end of
+the fermentation.
+214 / Halloway et aJ.
+
+The Candida sp population showed an initial
+increase to log 5.84 cfu/mL then declined slowly to
+less than log 2 cfu/mL by 130 h. Under
+microaerophilic conditions other Candida species (C.
+krusei, C. vini, C. fermentans) can tolerate more than
+10070 (v/v) levels of ethanol (Gao and Fleet, 1988).
+Although Candida has been reported in most studies,
+its persistence as shown in Figure 3 is unusual. The
+proportion of Candida sp varied from 10 to 32% of
+the initial must population depending on the
+geographic location of the sample (data not shown).
+The population dynamics of Candida sp paralleled
+that of S. cerevisiae until the end of the fermentation
+when Candida sp could no longer be detected. In
+addition to 80 giL ethanol, a pure culture of the
+Candida sp isolated in this study (isolation no. R-7),
+produced more than 240 mg/L 2-methyl-l-propanol
+which is well above the taste threshold (Rankine,
+1967; Holloway and Subden, 1990). If not controlled,
+indigenous C. stellata can negatively affect the
+quality of wine (Sponholz and Dittrich, 1974;
+Minarik and Hanicova, 1982).
+S. cerevisiae was not detected in the must until
+J. Inst. Can. Sci. Technol. Aliment. Vol. 23, No. 4/5. 1990
+
+_ _ _ _ _ro
+
+!
+4
+
+Malt Exlrac:t Plait Coonts
+
+r
+
+.
+
+~ro
+
+Au,.'...,,,""',,......
+
+t-16
+
+14
+
+12
+
+\
+
+10
+
+8
+
+'BRIX
+
+16
+
+14
+
+12
+
+10
+o
+
+BRIX
+
+Fig. 2. Population Changes of Selected Species.
+
+Fig. 3. Yeast Population Succession During Fermentation.
+The total numbers of yeast colony forming units are shown on
+the malt extract plate counts. The lysine plate counts
+represent the non-Saccharomyces species.
+
+47 h of fermentation. At this time the total yeast
+population was log 6.9 cfu/mL and it was the
+numerically dominant species present. The S. cerevisiae population rose to log 7.77 cfu/mL by 71 h
+and remained constant until the end of fermentation.
+After 130 h the fermentation ceased (74 giL ethanol,
+0.1010 reducing sugar) and S. cerevisiae (including
+S. cerevisiae var bayanus) was the only yeast that
+could be isolated. Whether this was a wild type S.
+cerevisiae or a commercial wine yeast present as a
+minor contaminant introduced into the juice during
+its passage through the press or other winery
+equipment is not known.
+In all studies the apiculate yeasts dominate the
+initial microbial populations in grape musts. There
+are however, differences in the ratio of perfect
+(mostly Hanseniaspora) to imperfect (mostly Kloeckera) isolates. In Niagara, Northern Italy (Rosini et
+al., 1982) and Arkansas (Moore et al., 1988), the
+perfect form predominates in contrast to the
+predominating imperfect forms in Bordeaux
+(Domercq, 1957), Majorca (Mora et al., 1988), and
+Southern Italy (Castelli, 1954). The contribution of
+only a few of the "wild" yeasts to wine composition
+is described elsewhere (Soles et al., 1982).
+
+With the exception of Candida sp, the species
+succession in the fermenting must was similar to those
+in other parts of the winemaking world. Candida sp
+persisted in the fermenting must until the ethanol
+reached 74g/L. In wine fermentations the Candida
+sp bears some resemblance both morphologically and
+metabolically to Candida stellata which is ethanol
+and SO tolerant (Sponholz and Dittrich, 1974) and
+is of some concern as it has been reported to produce
+2-methyl-l-propanol at concentrations above the
+sensory threshold in wines.
+
+Conclusions
+The thirteen species of yeast found in the musts of
+the Niagara Peninsula were similar to the yeast
+microflora found in most of the wine regions of the
+world. Saccharomyces cerevisiae was not detectable
+in the initial must sample but appeared in samples
+after the fermentation had produced lOg/L ethanol.
+Presumably, Saccharomyces cerevisiae (and other
+species), were present in the initial must but at
+frequencies less than 1/5000 yeast colony forming
+units.
+Can. Insl. Food Sci. Technol. J. Vol. 23, No. 4/5. 1990
+
+References
+Amerine, M.A., and Ough, C.S. 1980. Methods for Analysis of
+Musts and Wines. 3rd ed. John Wiley Publishing Co.
+New York.
+Benda, I. 1964. The yeast flora of the district of Franconia.
+Weinberg Kel1er 11:67.
+Benda, I. 1970. Natural and controlled microbial processes in grape
+must and in young wine. Bayer. Landwirtsch. Jahrb.
+47:19.
+Castelli, T. 1954. Fermentazione e rifermentazione nei paesi caldi.
+X th Congress Inter. Ind. Agr. 2:1891.
+Castelli, T. 1955. Yeasts of wine fermentations from various
+regions in Italy. Am. J. Enol. Vitic. 6:18.
+Castelli, T., and DelGuidice, E. 1955. The agents of wine
+fermentation in the region of Etna. Riv. Vitic. Enol.
+Conegliano 8:127.
+Davenport, R.R. 1974. Microecology of yeasts and yeast-like
+organisms associated with an English vineyard. Vitis
+13:123.
+Domercq, S. 1957. Etude et classification des levures de vin de la
+Gironde. Ann. Technol. Agr. 6:5.
+Fleet, G.H, Lafon-Laforcade, S. and Ribereau-Gayon P. 1984.
+Evolution of yeasts and lactic acid bacteria during
+fermentation and storage of Bordeaux wines. Appl.
+Environ. Microbiol. 48:1034.
+Gao, C. and Fleet, G.H. 1988. The effects of temperature and
+pH on ethanol tolerance of the wine yeasts, Saccharomyces cerevisiae, Candida stellata and Kloeckera
+apiculata J. Appl. Bacteriol. 65: 405.
+
+Holloway et 01. / 215
+
+Heard, G.M. and Fleet, G.H., 1986. Evaluation of selective media
+for enumeration of yeast during wine fermentation. J.
+Appl. Bacteriol. 60:477.
+Holloway, P. and Subden, R.E., 1990. Volatile metabolites of
+wild yeasts. Can. Inst. Food Sci. Technol. J. Accepted
+for Publication.
+Inigo Leal, B., Vazques Martinez, D. and Arroyo Varela, V. 1963.
+The agents of wine fermentation in the Jereth district.
+Cienc. Agric. 17:296.
+Minarik E. 1964. Die Hefeflora von Jungweinen in der Tschechoslowakei Mit. Rebe u Wein, Serie A (Klosterneuberg)
+14:306.
+Minarik, E. and Hanicova, A. 1982. Die Hefeflora konzentrierter
+Traubenmoste und deren Einfluss auf die Stabilitat der
+Weine. Wein. Wissen. 3:187.
+Moore, K.J., Johnson, M.G. and Morris, J.R. 1988. Indigenous
+yeast microflora on Arkansas White Riesling (Vitis
+vinifera) grapes and in model must systems J. Food Sci.
+53:1725.
+Mora, J., Barbas, J .1., Ramis, B. and Mulet, A. 1988. Yeast
+microflora associated with some Majorcan musts and
+wines. Am. J. Enol. Vitic. 39:344.
+Mrak, E.M. and McClung, L.S. 1940. Yeasts occurring on grapes
+and in grape products in California. J. Bacteriol. 40:395.
+Parish, M.E. and Carroll, D.E. 1985. Fermentation characteristics
+of Saccharomyces cerevisiae isolates from Vitis rotundifolia grapes and musts. Am. J. Enol. Vitic. 36:165.
+Peynaud, E., and Domercq, S. 1953. Etude des levures de la
+Gironde. Ann. Technol. Agric. 4:265.
+Rankine, B.C. 1967. Formation of higher alcohols by wine yeasts
+and relationship to taste thresholds. J. Agric. Food
+Chern. 21:50.
+Relan, S. and Vyas, S.R. 1971. Nature and occurrence of yeast
+in the Harayana grapes and wines. Vitis 10:131.
+Rosini, G., Federici, F. and Martini, A. 1982. Yeast flora of grape
+
+216 / Holloway et of.
+
+berries during ripening. Microb. Ecol. 8:83.
+Sapis-Domercq, S. 1969. Reactions of the apiculated yeasts during
+vinification. Connaiss. Vigne Yin. 4:379.
+Sapis-Domercq, S. and Guittard, A. 1976. Study of the yeast
+microflora of Roussillon. Connaiss. Vigne Yin 10: I.
+Schulle, H. 1953. The significance of the apiculate yeasts for the
+fermenting activity of the true wine yeasts in higher
+sugar musts. Arch. Microbiol. 18:342.
+Soles, R.M., Ough, C.S. and Kunkee, R.E. 1982. Ester concentration differences in wine fermented by various species
+and strains of yeasts. Am. J. Enol. Vitic. 33:94.
+Sponholz, W.R. and Dittrich, H.H. 1974. The formation of
+fermentation by-products which bind S02 of higher
+alcohols and esters by several pure cultured yeasts and
+by enologicially important "wild" yeasts. Wein. Wissen.
+29:301.
+Taylor, G.T. and Marsh, S.A. 1984. MYGP + Copper, A medium
+that detects both Saccharomyces and non - Saccharomyces wild yeast in the presence of culture yeast.
+J. Inst. Brew. 90:134.
+van der Walt, J.P. and Yarrow, D., 1984. Methods for the
+isolation, maintenance, classification and identification
+of yeasts. In: The Yeasts; A Taxonomic Study. pp45104, Kreger van Rij N.J.W. (Ed). Elsevier/North Hoiland Publishing Co., Amsterdam
+van Zyl, J.A. and du Plessis, L. 1961. The microbiology of South
+African winemaking. Part I. S.Afr. J. Agric. Sci. 4:393.
+Yokotsuka, I. 1954. Studies on the Japanese wine yeasts. Bull.
+Res. Inst. Ferment. Yamanishi Univ. Korfu:l.
+
+Submitted February 2, 1990
+Revised July 3, 1990
+Accepted July 4, 1990
+
+J. Inst. Can. &i. Technol. Aliment. Vol. 23, No. 4/5. 1990
+
+

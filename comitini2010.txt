@@ -1,0 +1,802 @@
+Letters in Applied Microbiology ISSN 0266-8254
+
+ORIGINAL ARTICLE
+
+The zymocidial activity of Tetrapisispora phaffii in the
+control of Hanseniaspora uvarum during the early stages
+of winemaking
+F. Comitini and M. Ciani
+Dipartimento SAIFET, Sez. Microbiologia Alimentare, Industriale e Ambientale, Università Politecnica delle Marche, Via Brecce Bianche, Ancona,
+Italy
+
+Keywords
+Hanseniaspora uvarum, immobilization, killer
+toxin, Tetrapisispora phaffii, winemaking.
+Correspondence
+Maurizio Ciani, Dipartimento SAIFET sez.
+Microbiologia alimentare, industriale e
+ambientale, Università Politecnica delle
+Marche, Via Brecce Bianche, 60131 Ancona,
+Italy. E-mail: m.ciani@univpm.it
+
+2009 ⁄ 1333: received 27 July 2009, revised
+and accepted 25 September 2009
+doi:10.1111/j.1472-765X.2009.02754.x
+
+Abstract
+Aims: The yeast strain Tetrapisispora phaffii DBVPG 6706 (formerly Kluyveromyces phaffii) secretes a killer toxin (Kpkt) that has antimicrobial activity
+against apiculate yeasts. The aim of this study was to evaluate the killer activity
+of Kpkt towards Hanseniaspora uvarum under winemaking conditions.
+Methods and Results: The zymocidial activity of Kpkt on H. uvarum was
+assayed in microfermentation trials inoculated with free and immobilized
+T. phaffii cells. The microbial evolution and fermentation profiles of the wines
+were evaluated to determine the effects of Kpkt on apiculate yeasts, in comparison with SO2. The results indicate that the fungicidal activity of Kpkt against
+H. uvarum is stable for at least 14 days in wine, and the zymocin can control
+the proliferation of apiculate yeasts. The analytical composition of wines with
+the inoculum of T. phaffii immobilized cells did not differ from the wines with
+SO2. In contrast to wines without this control of apiculate yeasts, an increase
+in ethyl acetate was seen.
+Conclusions: Tetrapisispora phaffii is an excellent candidate for the biological
+control of undesired proliferation of apiculate yeasts during the first steps of
+fermentation.
+Significance and Impact of the Study: Tetrapisispora phaffii cells in an immobilized form can be used as a biocontrol agent to reduce the need for SO2
+addition.
+
+Introduction
+The killer character of yeast was originally discovered in
+some strains of Saccharomyces cerevisiae, and it is associated
+with the secretion of proteins known as killer toxins that
+can kill sensitive target cells in a receptor-mediated process,
+without direct cell-to-cell contact (Bevan and Makower
+1963; Bevan et al. 1973). The uniqueness of this phenomenon is related not only to the immunity of the killer yeasts
+to their own killer toxin but also to their susceptibility to
+the toxins that are secreted by other killer strains.
+At present, killer yeasts have many potential applications in the biotechnology field, and the use of killer toxins offers a considerable advantage for these yeast strains
+under competitive conditions, against other sensitive
+50
+
+microbial cells in their ecological environment (Philliskirk
+and Young 1975; Fleet 2003). This advantage has a scientific and commercial significance, because killer yeasts
+and their toxins have several applications in the industrial, agricultural and medicinal fields (Kitamoto et al.
+1993; Cailliez et al. 1994; Walker et al. 1995; Lowes et al.
+2000; Marquina et al. 2002; Schmitt and Breinig 2002). In
+food industry, killer yeasts and their toxins have many
+potential applications and have been proposed to combat
+contamination by wild yeasts (Palpacelli et al. 1991;
+Goretti et al. 2009; Liu and Tsao 2009).
+An interesting application of this zymocidial activity in
+winemaking is seen in the killer yeasts that are used to
+control the proliferation of spoilage yeasts during the
+prefermentation phase. Wine fermentation is carried out
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+F. Comitini and M. Ciani
+
+using nonsterile must in which there are generally wild
+yeasts that can affect the process, causing negative modifications to the final aroma of the wine (Lowes et al. 2000;
+Yap et al. 2000). Killer yeasts belonging to S. cerevisiae
+are currently used to initiate wine fermentation in winemaking and to improve the fermentation process and the
+quality of the final wine (van Vuuren and Jacobs 1992).
+However, the main limitations in the use of S. cerevisiae
+killer strains as selected starter strains is their narrow
+antiyeast spectrum: as it is restricted to sensitive Saccharomyces strains, it does not affect wild yeasts, such as those
+belonging to the genera Hanseniaspora ⁄ Kloeckera, Pichia,
+Brettanomyces, Zygosaccharomyces and Saccharomycodes,
+which represent the main targets of antimicrobial agent
+used in winemaking (van Vuuren and Jacobs 1992; Shimizu 1993). On the other hand, the total suppression of
+indigenous non-Saccharomyces species can reduce the
+aroma complexity of the final wines. However, natural
+multistarter cultures remain an uncontrolled process that
+can positively or negatively affect the final product.
+The wild microflora is controlled using sulfur dioxide
+(SO2), a chemical antimicrobial agent that is largely used
+in the food industries and that has selective antiseptic
+activities (Constantı̀ et al. 1998). The addition of this
+antiseptic agent produces several risks; for instance,
+adverse effects on the respiratory system of humans
+and animals and damage to vegetation. For these reasons,
+the World Health Organization and the European
+Economic Community have highlighted the need to
+reduce the use of SO2 as an antimicrobial agent in food
+products.
+Following these indications and with the support of
+new winemaking technologies, during the last decades,
+winemakers significantly reduced the amounts of SO2
+added during the various stages of winemaking. On the
+other hand, some environmental and technological factors
+such as climatic condition, fungicide treatments, the
+degree of maturation of grapes, time of maceration or
+clarification of must led the presence and the development of wild yeast population particularly apiculate yeasts
+(Longo et al. 1991; Fleet et al. 2002). In this context, the
+use of a killer toxin to control the proliferation of apiculate yeasts at a prefermentative stage could further reduce
+the need for the use of chemical antiseptic agents.
+Previous studies have shown that the yeast Tetrapisispora phaffii produces a killer toxin (i.e. KpKt) that is
+active on Hansenispora ⁄ Kloeckera wine yeasts under winemaking conditions, yeasts that are largely present at the
+prefermentative stages (Ciani and Fatichenti 2001; Comitini et al. 2004).
+In view of the possible use of T. phaffii in the wine and
+beverage industries, the present study evaluates the zymocidial activity of T. phaffii under winemaking conditions.
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+Materials and methods
+Micro-organisms and media
+The following strains were used, which belong to the
+Industrial Yeast Collection of the University of Perugia
+(DBVPG): DBVPG 6076, the T. phaffii killer strain and
+DBVPG 3037, a Kpkt-sensitive strain of Hanseniaspora
+uvarum. The S. cerevisiae commercial strain called Uvaferm BC (Lallemand Inc., France) was used as a yeast
+that is not sensitive to Kpkt.
+The yeast strains were subcultured on malt agar at
+6-month intervals and maintained at 6C. The media
+used were malt agar (Difco), YPD (1% Bacto yeast
+extract, 1% Bacto peptone, 2% glucose), and WL Nutrient Agar (Oxoid, Hampshire, UK) for differentiation of
+wild yeasts from must samples (Pallmann et al. 2001).
+Microfermentation trials were carried out using Trebbiano toscano grape must (pH 3Æ3; 168 g l)1 sugar; total
+acidity 7Æ3 g l)1; 40Æ3 mg l)1 ammonia; 222Æ7 mg l)1 primary amino acids and SO2 free). The must was pasteurized at 75C for 15 min, before use.
+Cell immobilization
+Tetrapisispora phaffii cells for immobilization were grown
+in YPD at 25C in a rotary shaker (150 rev min)1, for
+72 h). They were then harvested by centrifugation,
+washed three times in sterile distilled water and added to
+100 ml of 2Æ5% sodium alginate (Carlo Erba, Milan,
+Italy). To induce gel formation, this solution was added
+dropwise to an aqueous 0Æ1 mol l)1 calcium chloride
+solution, using a peristaltic pump and maintaining the
+cell suspension under constant agitation at 25C. After
+1 h, the beads that were formed were washed several
+times with sterile distilled water and then used
+immediately.
+The concentration of the immobilized cells was measured by melting 1 g of beads in 99 ml of 1% sodium citrate (w ⁄ v); then serial dilutions were made, and viable
+cell counts were carried out.
+For the trials, 50 g of these spherical beads were inoculated into 250 ml sterile grape juice, to a final concentration of 20% beads for each condition (4 · 108
+cells ml)1).
+Microfermentation trials
+Five trials were prepared using the following modalities
+for the control of the proliferation of the apiculate yeasts:
+i positive control: without T. phaffii cell inoculum and
+without SO2 addition;
+ii negative control: addition of 60 mg l)1 SO2;
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+51
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+iii inoculum of T. phaffi as 106 free cells ml)1;
+iv inoculum of T. phaffii as 107 free cells ml)1;
+v inoculum of T. phaffii as 4 · 108 immobilized
+cells ml)1.
+In each trial, a suspension of H. uvarum DBVPG 3037
+cells from an 18-h preculture was inoculated into 250 ml
+sterile grape juice, to achieve a final concentration of
+105 cells ml)1. After two days, an inoculum of the S. cerevisiae starter strain in the active dry yeast form was carried
+out, to obtain an initial concentration of 106 cells ml)1. In
+the trial with the immobilized killer strain, the beads were
+added at a percentage ratio of 20% (w ⁄ v), with a final concentration of 4 · 108 cells ml)1; and these were put into a
+bottle with a holed septum and submerged in the must.
+The effect on H. uvarum DBVPG 3037 of the zymocidial
+activity of Kpkt from the free and immobilized T. phaffii
+cells was monitored by viable plate counting on WL nutrient
+agar. The toxin stability during the alcoholic fermentation
+was evaluated by means of a well-test assay following the
+indications of Ciani and Fatichenti (2001). To better estimate the Kpkt activity, the samples from each of the trials
+were concentrated before the well-test assay. For this, 10-ml
+samples were harvested, centrifuged and microfiltered
+(0Æ45 lm pore-size), and then they were concentrated
+10-fold by means of an ultrafiltration step using 15-ml ultracentrifuge filter devices with a cut-off of 10 kDa (Comitini
+et al. 2004). The trials were carried out in duplicate.
+Analytical determinations
+Ethanol and volatile acidity (quantified by steam distillation) were measured following the Official EU Methods
+(Anonymous EC 2000). Acetaldehyde, ethyl acetate, acetoin and the higher alcohols were determined by GLC,
+using the procedure described by (Ciani et al. 2006).
+Ammonia was assayed by diagnostic kits (no. 171-UV,
+Sigma Aldrich, St Louis, MI, USA), while primary amino
+acids (assimilable nitrogen) were evaluated following the
+procedures described by Dukes and Butzke (1998).
+Statistical analysis
+An analysis of variance (anova) was applied to the experimental data. The values of means were analysed using
+the software Super anova ver. 1.1 for Mac OS 9.1. The
+significant differences were determined by Duncan tests,
+and the results were considered significant if the associated P-value was below 0Æ01.
+Results
+The evolution of the viable cells in the microfermentations is shown in Fig. 1. Without any controlling agents,
+52
+
+F. Comitini and M. Ciani
+
+the apiculate strain, H. uvarum, increased by three logarithmic orders, from 105 to 108 CFU ml)1, showing the
+maximum cell counts on the third day (Fig. 1a). After
+inoculation of the S. cerevisiae starter strain (day 2), the
+H. uvarum cell concentration decreased until these cells
+disappeared after day 10 (Fig. 1a). As expected, in the
+presence of sulfur dioxide from day 0, there was a more
+rapid death of the H. uvarum apiculate strain (disappeared after day 3) (Fig. 1b).
+The biomass evolution of H. uvarum in the presence
+of the T. phaffii free killer cells from day 0 is shown in
+Fig. 1c,d. Here, H. uvarum did not reach the cell concentration of the positive control (108 CFU ml)1),
+achieving cell counts after 3 days of c. 107 CFU ml)1
+with both T. phaffii additions. Under these conditions,
+T. phaffii showed only partial control of the proliferation of the H. uvarum apiculate yeast population.
+Indeed, here H. uvarum persisted during the fermentation until day 10, as for the positive control (Fig. 1a).
+The biomass evolution of H. uvarum together with the
+immobilized T. phaffii cells (Fig. 1e) showed similar
+behaviour to the trial carried out with SO2 (Fig. 1b): in
+the presence of these beads of T. phaffi, the numbers
+of the H. uvarum strain gradually decreased, with
+103 CFU ml)1 after three days (days 3 ⁄ 4), and then disappeared completely after day 8. The biomass evolution
+of S. cerevisiae was very similar across all of these trials
+(Fig. 1), indicating that there was no significant effect
+of the inoculation of T. phaffii on the inoculated S. cerevisiae starter strain.
+The results of the well-test assay indicate that both free
+and immobilized T. phaffii cells showed zymocidial activity during all of the fermentation process, persisting in
+the must-wine for the full 14-day sampling time
+(Table 1). The presence and the level of zymocidial activity appears not to be related to the killer strain inoculation level (not significantly different for the addition of
+106 or 107 free cells ml)1). On the other hand, the
+immobilization procedure (with 4 · 108 immobilized
+cells ml)1) appeared to significantly increase the amounts
+of zymocin released, because a linear relationship was
+seen between the logarithm of killer toxin concentration
+and the diameter of inhibition halo (Ciani and Fatichenti
+2001).
+The main enological fermentation parameters analysed showed some differences across these different trials
+at the end fermentation (at 14 day) (Table 2). In particular, as expected, the ethanol formed was slightly
+reduced in the presence of the non-Saccharomyces species. The volatile acidity was significantly higher only in
+the positive control trial, where there were high levels
+of the H. uvarum apiculate yeasts, which persisted for a
+long time.
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+F. Comitini and M. Ciani
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+(a)
+
+LOG CFU ml–1
+
+LOG CFU ml–1
+
+8
+
+6
+4
+2
+0
+0
+
+4
+
+0
+
+LOG CFU ml–1
+
+LOG CFU ml–1
+
+4
+2
+2
+
+4
+
+6 8 10 12 14
+Time (day)
+
+4
+
+6 8 10 12 14
+Time (day)
+
+6
+4
+2
+0
+0
+
+2
+
+4
+
+6 8 10 12 14
+Time (day)
+
+(e) +T. phaffii 4 × 108 immobilized cells ml–1
+
+LOG CFU ml–1
+
+8
+6
+4
+2
+0
+
+Diameter of inhibition halos (mm)
+
+Sampling
+time (d)
+
+Free Tetrapisispora
+phaffii
+(106 cells ml)1)
+
+Free T. phaffii
+(107 cells ml)1)
+
+Immobilized
+T. phaffii cells
+(4 · 108 cells ml)1)
+
+1Æ0
+1Æ5
+2Æ0
+2Æ5
+3Æ0
+7Æ0
+10
+14
+
+9Æ2
+11Æ0
+9Æ6
+10Æ1
+10Æ0
+10Æ2
+10Æ4
+9Æ5
+
+9Æ1
+11Æ0
+10Æ1
+10Æ3
+10Æ2
+10Æ5
+10Æ8
+10Æ3
+
+12Æ2
+13Æ1
+15Æ3
+15Æ0
+15Æ5
+15Æ1
+15Æ3
+14Æ1
+
+0Æ2
+0Æ2
+0Æ5
+0Æ9
+0Æ5
+0Æ4
+0Æ1
+0Æ2
+
+2
+
+(d) +T. phaffii 1 × 107 free cells ml–1
+
+6
+
+Table 1 Inhibition halos from samples collected during the fermentation trials inoculated as indicated. The zymocin was tested against the
+Hanseniaspora uvarum DBVPG 3037 sensitive strain in a well-test
+assay
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+2
+
+8
+
+Figure 1 Evolution of yeast inoculated
+populations during microfermentations. As
+indicated: (a) positive control, without Tetrapisispora phaffii cells and without SO2 addition;
+(b) negative control, with the addition of 60
+mg l)1 of SO2; (c) inoculum of T. phaffii at
+106 free cells ml)1; (d) inoculum of T. phaffii
+at 107 free cells ml)1; (e) inoculum of immobilized T. phaffii at 4 · 108 cells ml)1. Yeast
+populations: , pure Saccharomyces cerevisiae; h, Hanseniaspora uvarum sensitive strain;
+), free T. phaffii cells. The data are means of
+two independent experiments.
+
+0Æ5
+0Æ7
+0Æ3
+0Æ1
+0Æ1
+0Æ5
+0Æ7
+0Æ7
+
+4
+
+6
+8 10 12 14
+Time (day)
+
+8
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+6
+
+0
+2
+
+(c) +T. phaffii 1 × 106 free cells ml–1
+
+0
+0
+
++SO2 : 60 mg l–1
+
+(b)
+
+Control
+8
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0Æ8
+0Æ5
+0Æ6
+0Æ5
+0Æ7
+0Æ7
+0Æ2
+0Æ1
+
+The data are means ± SD.
+
+The results of the analysis of the main fermentation
+by-products at the end of the trials also show differences across these trials (Fig. 2). The positive control
+
+0
+
+2
+
+4
+
+6 8 10 12 14
+Time (day)
+
+trial was characterized by a low concentrations of acetaldehyde and high concentrations of ethyl acetate production, which will have been caused by the
+uncontrolled growth of H. uvarum. As would be
+expected, the SO2 addition reduced the ethyl acetate
+production and slightly increased the concentration of
+acetaldehyde (not significantly different). With the
+addition of the free T. phaffii cells, this confirmed the
+results of the H. uvarum biomass evolution where
+limited control of H. uvarum proliferation was seen,
+with a consistently high production of ethyl acetate, a
+trend that was comparable with that shown by the
+positive control. In these free T. phaffii cell addition
+trials, an increase in acetaldehyde production was also
+seen. The use of immobilized T. phaffii cells
+significantly reduced the ethyl acetate production (in
+comparison with the positive control) to a concentration similar to that with SO2 addition, while the concentration of acetaldehyde increased. For the higher
+alcohols, there were no significant differences across the
+trials.
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+53
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+F. Comitini and M. Ciani
+
+Table 2 Main enological characters evaluated at the end of the microfermentations (day 14)
+Fermentation conditions
+
+pH
+
+Total acidity (g l)1)
+
+Volatile acidity (g l)1)
+
+Ethanol (% vol.)
+
+Positive control: without Tetrapisispora phaffii cell
+inoculum and without SO2 addition
+Negative control: addition of 60 mg l)1 SO2
+Free T. phaffii cells (106 cells ml)1)
+Free T. phaffi cells (107 cells ml)1)
+Immobilized T. phaffii beads (4 · 108 cells ml)1)
+
+3Æ25
+
+7Æ95 ± 1Æ06
+
+0Æ88 ± 0Æ13
+
+8Æ6 ± 0Æ1
+
+3Æ18
+3Æ24
+3Æ24
+3Æ27
+
+5Æ65
+6Æ75
+6Æ40
+5Æ80
+
+0Æ38
+0Æ42
+0Æ34
+0Æ32
+
+9Æ2
+8Æ2
+8Æ3
+8Æ4
+
+±
+±
+±
+±
+
+0Æ21
+0Æ07
+0Æ14
+0Æ84
+
+±
+±
+±
+±
+
+0Æ01
+0Æ02
+0Æ00
+0Æ03
+
+±
+±
+±
+±
+
+0Æ1
+0Æ2
+0Æ2
+0Æ1
+
+The data are means ± SD.
+
+250
+c
+200
+d
+
+mg l–1
+
+a
+150
+
+b
+
+d
+
+100
+50
+
+c
+
+a
+a
+
+b
+
+b
+
+aaaaa
+
+aaaaa
+
+n-Propanol
+
+Butanol
+
+aa a aa
+
+aaa aa
+
+0
+Acetaldehyde Ethyl acetate
+
+Amyl alcohol Isoamyl alcohol
+
+By-products
+Figure 2 Fermentation by-products evaluated at the end of the trials. ( ) positive control, without Tetrapisispora phaffii cells and without SO2
+addition; ( ) negative control, with addition of 60 mg l)1 SO2; ( ) inoculum of T. phaffii at 106 free cells ml)1; ( ) inoculum of T. phaffii at 107
+free cells ml)1; (h) inoculum of immobilized T. phaffii at 4 · 108 cells ml)1. The data are means ± SD. Values displaying different letters within
+each column are different according to the Duncan test (0Æ01%).
+
+Discussion
+In the present study, we proposed the use of a killer yeast,
+T. phaffii, that is characterized by a wide spectrum of
+zymocidial activity, to control wild yeast belonging to the
+H. uvarum-sensitive yeasts. The occurrence of the killer
+strains has also been examined in other substrates, with
+high sugar contents, such as sugarcane (Morais et al.
+1997; Soares and Sato 1999) and during fermentative processes carried out in nonsterile media, like grape must.
+In winemaking, the widespread occurrence of killer
+wine yeasts has been demonstrated in S. cerevisiae strains
+isolated from wineries in different regions of the world
+(Shimizu 1993). This extensive incidence has encouraged
+interest in the enological significance of killer wine yeasts.
+However, the main limitations in the use of S. cerevisiae
+killer strains as selected starters is in their narrow antiyeast spectrum: as it is restricted to sensitive Saccharomyces strains, it does not affect the wild yeast flora that
+represent the main targets of antimicrobial agents in
+winemaking.
+Indeed, during fermentation, these wild micro-organisms could produce a wide variety of antagonistic primary
+and secondary metabolites including ethanol, weak
+54
+
+organic acids, middle-chain fatty acids, acetaldehyde,
+diacetyl, CO2 and even antimicrobial compounds, such as
+killer toxins and bacteriocins. In the control of the proliferation of undesired wild yeasts, the use of killer yeasts
+could be an alternative to chemical antiseptic agents, such
+as SO2.
+Our results show that the inoculation of T. phaffii
+into natural grape juice during microvinifications can
+indeed act on the H. uvarum strain. The results of welltest assay, the H. uvarum biomass evolution, and the
+analytical compositions of the final wines together indicate a reduction in the presence and limitation of the
+metabolic activity of this H. uvarum apiculate strain.
+However, using free cells of T. phaffii, there was no significant control of H. uvarum apiculate yeasts, which
+was accompanied by the slight increase in the concentrations of ethyl acetate (only in 106 free cells ml)1 trial)
+and acetaldehyde. In contrast, with the immobilized
+T. phaffii cells, H. uvarum showed a weak development,
+which also maintained a low concentration of ethyl acetate. The better control of sensitive yeast by immobilized
+T. phaffii cells was probably because of the higher cell
+concentration in the beads (in resting cells condition) in
+comparison with that of free cells trials. The control of
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+F. Comitini and M. Ciani
+
+ethyl acetate is of particular interest, as its levels in wine
+mainly depend on the contributions from such apiculate
+yeasts (Ciani et al. 2006). At low concentrations, ethyl
+acetate can contribute to the fruity notes of a wine and
+add to the general complexity (Gil et al. 1996); however,
+when a threshold taste level (of 150 mg l)1; Jackson
+1994) is surpassed, the ethyl acetate causes a sour-vinegar off odour. In this context, modulated use of immobilized T. phaffii cells should be useful to obtain the
+desired levels of ethyl acetate production and also for
+the production of the other esters.
+Acknowledgement
+This work was partially financially supported by Lallemand Inc. Succursale Italiana, Verona Italy.
+References
+Anonymous EC (2000) Official Journal of the European Community. Community reference methods for the analysis of
+spirit drinks. Reg. EC no. 2870 ⁄ 00. 19 December 2000.
+Brussels.
+Bevan, E.A. and Makower, M. (1963) The physiological basis
+of the killer character in yeast. Proc XIth Int Congr Genet
+1, 202–203.
+Bevan, E.A., Herring, A.J. and Mitchell, D.J. (1973) Preliminary characterization of two species of dsRNA in yeast and
+their relationship to the ‘‘killer’’ character. Nature 245,
+81–86.
+Cailliez, J.C., Seguy, N., Aliouat, E.M., Polonelli, L., Camus, D.
+and Dei-Cas, E. (1994) The yeast killer phenomenon: a
+hypothetical way to control Pneumocystis carinii pneumonia. Med Hypo 43, 167–171.
+Ciani, M. and Fatichenti, F. (2001) Killer toxin of Kluyveromyces phaffii DBVPG 6076 as a biopreservative agent to control apiculate wine yeasts. Appl Environ Microbiol 67,
+3058–3063.
+Ciani, M., Beco, L. and Comitini, F. (2006) Fermentation
+behavior and metabolic interactions of multistarter wine
+yeast fermentations. Int J Food Microbiol 108, 239–245.
+Comitini, F., Di Pietro, N., Zacchi, L., Mannazzu, I. and Ciani,
+M. (2004) Kluyveromyces phaffii killer toxin active against
+wine spoilage yeasts: purification and characterization.
+Microbiology 150, 2535–2541.
+Constantı̀, M., Reguant, C., Poblet, M., Zamora, F., Mas, A.
+and Guillamon, J.M. (1998) Molecular analysis of yeast
+population dynamics: Effect of sulphur dioxide and inoculum on must fermentation. Int J Food Microbiol 41,
+169–175.
+Dukes, B.C. and Butzke, C.E. (1998) Rapid determination of
+primary amino acids in grape juice using an o-Phthaldialdehyde ⁄ N-Acetyl-l-Cysteine Spectrophotometric Assay. Am
+J Enol Vitic 49, 125–134.
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+Fleet, G.H. (2003) Yeast interactions and wine flavour. Int J
+Food Microbiol 86, 11–22.
+Fleet, G.H., Prakitchaiwattana, C., Beh, A.L. and Heard, G.
+(2002) The yeast ecology of wine grapes. In Biodiversity
+and biotechnology of wine yeast ed. Ciani, M. pp. 1–17 Kerala, India: Research Signpost.
+Gil, J.V., Mateo, J.J., Jiménez, M., Pastor, A. and Huerta, T.
+(1996) Aroma compounds in wine influenced by apiculate
+yeasts. J Food Sci 61, 1247–1266.
+Goretti, M., Turchetti, B., Buratta, M., Branda, E., Corazzi, L.,
+Vaughan-Martini, A. and Buzzini, P. (2009) In vitro antimycotic activity of a Williopsis saturnus killer protein against
+food spoilage yeasts. Int J Food Microbiol 131, 178–182.
+Jackson, R. (1994) Wine Science. Principles and Applications.
+San Diego, USA: Academic Press, pp. 178–219.
+Kitamoto, H.K., Ohmomo, S. and Nakahara, T. (1993) Selection of killer yeasts (Kluyveromyces lactis) to prevent aerobic deterioration in silage making. J Dairy Sci 76, 803–811.
+Liu, S.Q. and Tsao, M. (2009) Inhibition of spoilage yeasts in
+cheese by killer yeast Williopsis saturnus var. saturnus. Int J
+Food Microbiol 131, 280–282.
+Longo, E., Cansado, J., Agrelo, D. and Villa, T. (1991) Effect
+of climatic conditions on yeast diversity in grape must
+from North-west Spain. Am J Enol Vitic 42, 141–144.
+Lowes, K.F., Shearman, C.A., Payne, J., MacKenzie, D., Archer,
+D.B., Merry, R.J. and Gasson, M.J. (2000) Prevention of
+yeast spoilage in feed and food by the yeast mycocine
+HMK. Appl Environ Microbiol 66, 1066–1076.
+Marquina, D., Santos, A. and Peinado, J.M. (2002) Biology of
+killer yeasts. Int Microbiol 5, 65–71.
+Morais, P.B., Rosa, C.A., Linardi, V.R., Pataro, C. and Maia,
+A.B.R.A. (1997) Characterization and succession of yeast
+populations associated with spontaneous fermentations
+during the production of Brazilian sugarcane aguardente.
+World J Microbiol Biotechnol 13, 241–243.
+Pallmann, C.L., Brown, J., Olineka, T.L., Cocolin, L., Mills,
+D.A. and Bisson, L.F. (2001) Use of WL medium to profile
+native flora fermentations. Am J Enol Vitic 52, 198–203.
+Palpacelli, V., Ciani, M. and Rosini, G. (1991) Activity of a
+different ‘killer’ yeast on strains of yeast species undesirable in the food industry. FEMS Microbiol Lett 84, 75–78.
+Philliskirk, G. and Young, T.W. (1975) The occurrence of
+killer character in yeasts of various genera. Antonie Van
+Leeuwenhoek 41, 147–151.
+Schmitt, M.J. and Breinig, F. (2002) The viral killer system in
+yeast: from molecular biology to application. FEMS Microbiol Rev 26, 257–276.
+Shimizu, K. (1993) Killer Yeasts. In Wine Microbiology
+and Biotechnology ed. Fleet, G.H. pp. 243–264 Chur,
+Switzerland: Harwood Academic.
+Soares, G.A.M. and Sato, H.H. (1999) Killer toxin of Saccharomyces cerevisiae Y500-4L active against Fleischmann and
+Itaiquara commercial brands of yeast. Rev Microbiol 30,
+253–257.
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+55
+
+Tetrapisispora phaffii killer toxin in winemaking
+
+van Vuuren, H.J.J. and Jacobs, C.J. (1992) Killer yeasts in the
+wine industry: a review. Am J Enol Vitic 43, 119–128.
+Walker, G.M., McLeod, A.H. and Hodgson, V.J. (1995) Interactions between killer yeasts and pathogenic fungi. FEMS
+Microbiol Lett 127, 213–222.
+
+56
+
+F. Comitini and M. Ciani
+
+Yap, N.A., de Barros Lopes, M., Langridge, P. and Henschke,
+P.A. (2000) The incidence of killer activity of non-Saccharomyces yeasts towards indigenous yeast species of grape
+must: potential application in wine fermentation. J Appl
+Microbiol 89, 381–389.
+
+ª 2009 The Authors
+Journal compilation ª 2009 The Society for Applied Microbiology, Letters in Applied Microbiology 50 (2010) 50–56
+
+

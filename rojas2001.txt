@@ -1,0 +1,763 @@
+International Journal of Food Microbiology 70 Ž2001. 283–289
+www.elsevier.comrlocaterijfoodmicro
+
+Studies on acetate ester production by non-Saccharomyces
+wine yeasts
+Virginia Rojas, Jose´ V. Gil, Francisco Pinaga,
+Paloma Manzanares )
+˜
+Departamento de Biotecnologıa
+y Tecnologıa
+´ de Alimentos, Instituto de Agroquımica
+´
+´ de Alimentos, Consejo Superior de InÕestigaciones
+(CSIC), P.O. Box 73, 46100 Burjassot, Valencia, Spain
+Cientıficas
+´
+Received 26 December 2000; received in revised form 19 February 2001; accepted 21 May 2001
+
+Abstract
+A double coupling bioreactor system was used to fast screen yeast strains for the production of acetate esters. Eleven
+yeast strains were used belonging to the genera Candida, Hanseniaspora, Metschnikowia, Pichia, Schizosaccharomyces
+and Zygosacharomyces, mainly isolated from grapes and wine, and two wine Saccharomyces cereÕisiae strains. The acetate
+ester forming activities of yeast strains belonging to the genera Hanseniaspora Ž Hanseniaspora guilliermondii and H.
+uÕarum. and Pichia Ž Pichia anomala. showed different substrate specificities and were able to produce ethyl acetate,
+geranyl acetate, isoamyl acetate and 2-phenylethyl acetate. The influence of aeration culture conditions on the formation of
+acetate esters by non-Saccharomyces wine yeast and S. cereÕisiae was examined by growing the yeasts on synthetic
+microbiological medium. S. cereÕisiae produced low levels of acetate esters when the cells were cultured under highly
+aeration conditions, while, under the same conditions, H. guilliermondii 11104 and P. anomala 10590 were found to be
+strong producers of 2-phenylethyl acetate and isoamyl acetate, respectively. q 2001 Elsevier Science B.V. All rights
+reserved.
+Keywords: Non-Saccharomyces wine yeasts; Acetate ester formation; Wine aroma
+
+1. Introduction
+An important part of wine aroma arises during the
+alcoholic fermentation of grape sugars by the wine
+yeast Saccharomyces cereÕisiae, which produces
+ethanol, carbon dioxide, and a number of by-products including higher alcohols and esters ŽRapp and
+Mandery, 1986., whose formation is closely related
+to the particular yeast species involved ŽRankine,
+
+)
+Corresponding author. Tel.: q34-96-3900022; fax: q34-963636301.
+E-mail address: pmanz@iata.csic.es ŽP. Manzanares..
+
+1967; Suomalainen, 1971; Soufleros and Bertrand,
+1979.. Although numerous studies underline the influence that S. cereÕisiae has on the amount of
+fermentation products ŽRibereau-Gayon,
+1971., in
+´
+recent years the so-called non-Saccharomyces wine
+yeasts Žincluding genera such as Candida, Debaryomyces, Hanseniaspora, Hansenula, Kloeckera,
+Metschnikowia, Pichia, Schizosaccharomyces, Torulaspora and Zygosaccharomyces. have been described as producers of high concentrations of some
+fermentation compounds, such as acetic acid, glycerol, esters and acetoin ŽRomano et al., 1993a,b,
+1997., whose influence on the sensory quality of
+wine has also been discussed ŽFleet et al., 1984;
+
+0168-1605r01r$ - see front matter q 2001 Elsevier Science B.V. All rights reserved.
+PII: S 0 1 6 8 - 1 6 0 5 Ž 0 1 . 0 0 5 5 2 - 9
+
+284
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+Heard and Fleet, 1986; Mateo et al., 1991; Gil et al.,
+1996..
+Acetate esters, such as ethyl acetate, hexyl acetate, isoamyl acetate and 2-phenylethyl acetate are
+recognised as important flavour compounds in wine
+and other grape-derived alcoholic beverages. It has
+been suggested that in S. cereÕisiae, alcohol acetyltransferase ŽAATase. encoded by the ATF1 gene is
+one of the most important enzymes for acetate ester
+formation ŽFujii et al., 1994.. AATase reacts with
+acetyl coenzyme A Žacetyl-CoA. and, depending on
+the degree of affinity, with a variety of alcohols
+ŽYoshioka and Hashimoto, 1981.. It has also been
+shown that S. cereÕisiae AATase is strongly repressed under highly aerobic conditions and by the
+addition of unsaturated fatty acids to the culture
+media ŽMalcorps et al., 1991; Fujii et al., 1997..
+Recently, it has been reported that the overexpression of the ATF1 gene in wine yeasts significantly
+increases the concentration of ethyl acetate, ethyl
+caproate, hexyl acetate, isoamyl acetate and 2-phenylethyl acetate in the wine produced by these transgenic microorganisms ŽLilly et al., 2000.. With respect to non-Saccharomyces yeasts, a similar role of
+AATase in the production of isoamyl acetate in sake
+brewing has been described in Hansenula mrakii
+ŽInoue et al., 1994, 1997..
+Oda et al. Ž1996. developed a system based on the
+double coupling of glucose metabolism for the production of acetyl-CoA and microbial esterification of
+alcohol by using a nutrient agar plate as hydrophilic
+carrier and decane as a hydrophobic organic solvent.
+This system can be used to produce acetate esters of
+alcohols without adding any acetyl donors, and has
+been applied in the production of citronellyl acetate
+with AATase in Han. saturnus, Pichia heedii and
+P. quercuum ŽOda and Ohta, 1997..
+We have previously studied the potential of nonSaccharomyces wine yeasts to produce the glycosidases involved in the flavour releasing processes
+which are of interest in winemaking ŽManzanares et
+al., 1999, 2000.. In the present study, we report the
+screening of acetate ester synthesis by non-Saccharomyces wine yeasts using the double coupling
+system and the production of esters in liquid microbiological medium when the yeasts were cultured
+under highly aerobic or minimally aerobic conditions.
+
+2. Materials and methods
+2.1. Yeast strains
+Candida dattila 10387, Hanseniaspora guilliermondii 11104, H. osmophila 11206, H. uÕarum
+1444, 11105 and 11106, Metschnikowia pulcherrima
+10546, P. anomala 10590, P. heedii 11452, P.
+membranaefaciens 10113, Schizosaccharomyces
+pombe 1377 and Zygosaccharomyces bailii 11042
+were obtained from the Spanish Type Culture Collection ŽCECT, Burjassot, Spain. and were mainly
+isolated from grapes and wines. Two widely used
+commercial wine yeast strains, S. cereÕisiae T73
+ŽCECT 1894. and Fermol Primeurs ŽPascal Biotech,
+Paris, France., were also included in the present
+study.
+2.2. Screening of yeasts by the double coupling
+system
+The synthesis of the acetate esters, ethyl acetate,
+geranyl acetate isoamyl acetate, linalyl acetate and
+2-phenylethyl acetate, was screened basically following the protocol described by Oda et al. Ž1996. using
+the double coupling system in glass petri dishes
+Ždiameter, 90 mm. containing GPYM medium w40 g
+glucose ŽPanreac, Barcelona, Spain., 5 g peptone
+ŽOxoid, Basingstoke, UK., 3 g yeast extract ŽPronadisa, Madrid, Spain., 3 g malt extract ŽPronadisa.,
+1 g MgSO4 P 7H 2 O ŽPanreac., 1000 ml distilled water, pH 6 solidified by adding 15 grl of agar ŽPronadisa.x. Two hundred microliters from 24 h cultures
+on GPYM medium were spread onto the agar surface
+and the plates incubated at 30 8C for 24 h. After
+incubation, 8 ml of a 1% Žvrv. isoamyl alcohol
+ŽSigma-Aldrich, Steincheim, Germany. or 0.5%
+Žvrv. ethanol absolute ŽMerck, Darmstadt, Germany., geraniol ŽFluka, Buchs, Switzerland. linalool
+ŽFluka. or 2-phenylethanol ŽFluka. solution in decane ŽSigma-Aldrich. was placed onto the agar plate,
+and incubated at 30 8C for 24 h with mild shaking.
+Aliquots of 1 ml of the decane solution were taken
+after 2, 4, 6, 8 and 24 h of incubation for analysis of
+the products by gas chromatography ŽGC.. b-ionona
+ŽFluka. was added as internal standard to the alcohol
+decane solution at a concentration of 1% Žvrv..
+Analyses were carried out on an HP5890 series II
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+gas chromatograph ŽHewlett-Packard, Waldbronn,
+Germany. using an MXT-1 capillary column ŽRestek, Bellafonte, PA, USA. Žlength, 30 m; inside
+diameter, 0.28 mm; film thickness, 0.10 mm.. The
+injection block and detector temperatures were kept
+constant at 200 8C for the analysis of geranyl acetate,
+isoamyl acetate, linalyl acetate and 2-phenylethyl
+acetate, and at 200 and 250 8C, respectively, for the
+analysis of ethyl acetate. The oven temperature was
+programmed as follows: 80 Ž6 min. to 250 8C at 20
+8Crmin for the analysis of geranyl acetate, isoamyl
+acetate, linalyl acetate and 2-phenylethyl acetate, and
+60 Ž3 min. to 250 8C at 20 8Crmin and then kept 2
+min at 250 8C for the analysis of ethyl acetate. Ester
+concentrations were calculated using standard solutions and are the average of three independent plate
+cultures.
+2.3. Liquid culture conditions for acetate ester formation
+To measure ester formation by yeast strains, liquid cultures were grown in 200 ml of GPYM medium
+ŽpH 6, 30 8C. in 500-ml flasks. To study the effect of
+aeration conditions the cultures were grown either
+with shaking at 120 rpm Žhighly aerobic. or under
+static Žminimally aerobic. conditions ŽFujii et al.,
+1997.. Aliquots of the cultures were taken at 8, 24
+and 48 h of growing and analysed by headspace
+solid-phase-microextraction sampling ŽSPME. using
+polyŽdimethylsiloxane. ŽPDMS. fibers ŽSupelco,
+Sigma-Aldrich, Barcelona, Spain. and GC. Aliquots
+of 1.5 ml of the samples were placed in 15-ml vials
+and 0.3 g of NaCl and 81 ml of 0.1% Žvrv. 2-octanol ŽFluka. as internal standard were added. The
+vials were closed with screwed caps and 3-mm thick
+teflon septa. Solutions were stirred for 2 h at 25 8C
+to get the required headspace–liquid equilibrium.
+PDMS fibers were injected through the vial septum
+and exposed to the headspace for 7 min and then
+desorbed during 4 min in an HP 5890 series II gas
+chromatograph equipped with a HP Innowax column
+ŽHewlett-Packard. Žlength, 15 m; inside diameter
+0.25 mm; film thickness, 0.25 mm.. The injection
+block and detector temperatures were kept constant
+at 220 and 280 8C, respectively. The oven temperature was programmed as follows: 35 Ž5 min. to 150
+8C at 5 8Crmin and to 250 8C at 20 8Crmin and
+
+285
+
+then kept at 250 8C for 2 min. Ester concentrations
+were calculated using standard solutions ŽFluka. and
+are given as the average of three independent cultures.
+
+3. Results
+3.1. Production of acetate esters by using the double
+coupling system
+The 11 non-Saccharomyces wine yeast strains
+and two wine S. cereÕisiae strains described in
+Section 2 were screened for the production of ethyl
+acetate, geranyl acetate, isoamyl acetate, linalyl acetate and 2-phenylethyl acetate by adding the alcohol
+to be esterified in a decane solution onto a glucose
+agar plate grown for 24 h. P. heedii ŽCECT 11452.
+described by Oda and Ohta Ž1997. as having a strong
+double coupling activity was included as a positive
+control. In a first screening, ester formation was
+determined after 24 h of incubation with the alcohol
+decane solution. Six of the tested strains were able to
+esterify at least one of the alcohols studied although
+none of them were able to produce linalyl acetate. P.
+anomala 10590 and P. heedii 11452 were able to
+esterify ethanol, geraniol isoamyl alcohol and 2phenylethanol. H. guilliermondii 11104 produced
+ethyl acetate, geranyl acetate and isoamyl acetate
+whereas H. uÕarum 1444 was able to produce ethyl
+acetate and isoamyl acetate. H. uÕarum 11105 only
+yielded ethyl acetate whereas P. membranaefaciens
+10113 only produced isoamyl acetate. C. dattila
+10387, H. osmophila 11206, H. uÕarum 11106, Sch.
+pombe 1377, Z. bailii 11042 and both wine strains
+of S. cereÕisiae were not able to produce any of the
+esters studied under these experimental conditions.
+The three tested strains producing more than one
+acetate ester were selected to study ester formation
+during an incubation period with the alcohol decane
+solution, sampling at 2, 4, 6, 8 and 24 h. Fig. 1
+shows that the three yeast strains accumulated ethyl
+acetate in large amounts. H. guilliermondii 11104
+and H. uÕarum 1444 reached a maximum in the
+production of ethyl acetate at 2 h of incubation
+Ž5.51 " 0.09 and 8.09 " 0.15 mgrml, respectively.,
+whereas P. anomala 10590 produced the greatest
+quantity Ž13.61 " 0.12 mgrml. after 24 h of incuba-
+
+286
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+was the best isoamyl acetate producer, yielding 2.11
+" 0.12 mgrml of ester after 24 h of incubation,
+whereas the two species belonging to the genera
+Hanseniaspora produced less than 0.5 mgrml of
+isoamyl acetate at the same time point. Low levels of
+2-phenylethyl acetate Ž0.15 " 0.04 mgrml. could be
+detected in the case of P. anomala 10590 only after
+24 h of incubation.
+3.2. Influence of aeration conditions on the formation of acetate esters
+
+Fig. 1. Production of ethyl acetate, geranyl acetate, isoamyl
+acetate and 2-phenylethyl acetate via the double coupling system
+by H. guilliermondii 11104 Žv ., H. uÕarum 1444 ŽB. and P.
+anomala 10590 Ž'.. Mean values and standard errors for three
+replicas. See Section 2 for more details.
+
+tion. Geranyl acetate was accumulated at a low
+reaction rate by P. anomala 10590 and H. guilliermondii 11104, both producing less than 0.2 mgrml
+of ester after 24 h of incubation. P. anomala 10590
+
+The effect of aeration conditions in ester production by H. guilliermondii 11104, H. uÕarum 1444 P.
+anomala 10590 and S. cereÕisiae T73 was studied by
+growing the yeast under agitation Žhighly aerobic. or
+no agitation Žminimally aerobic. of cultures. As Table
+1 shows, highly aerobic conditions encourage notably the production of esters by non-Saccharomyces
+yeast, whereas, on the contrary, this stimulation effect on the ester production by S. cereÕisiae T73 was
+observed for the defined minimally aerobic conditions.
+H. uÕarum and S. cereÕisiae T73 produced low
+levels of ethyl acetate Žranging from 20 to 30 mgrl.
+in comparison with those yielded by H. guilliermondii Ž250 mgrl. or P. anomala Žmore than 4000
+mgrl. in highly aerobic culture conditions. The
+highest isoamyl acetate concentration was found in
+P. anomala 48-h cultures grown in highly aerobic
+conditions, being approximately 7- and 19-fold
+greater than that produced by S. cereÕisiae T73 cultures in minimally and highly aerobic conditions,
+respectively. With respect to 2-phenylethyl acetate,
+H. guilliermondii yielded much higher concentrations than the other yeast strains, particularly under
+highly aerobic culture conditions. H. guilliermondii
+and S. cereÕisiae T73 produced similar levels of
+isobutyl acetate, whereas at 48 h P. anomala yielded
+a 15-fold greater quantity of this ester. With respect
+to non-acetate esters, P. anomala yielded higher
+concentration of diethyl succinate than the other
+strains either in highly or minimally aerobic conditions. In S. cereÕisiae T73 strain cultures this ester
+was only detected under minimally aerobic growing
+conditions. However, the S. cereÕisiae strains were
+the greatest producer of both ethyl caproate and ethyl
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+287
+
+Table 1
+Production of esters by H. guilliermondii 11104, H. uÕarum 1444, P. anomala 10590 and S. cereÕisiae T73 when grown under highly
+aerobic or minimally aerobic culture conditions
+Component Žmgrl. a
+
+Isoamyl acetate
+2-Phenylethyl
+acetate
+Ethyl acetate
+Ethyl caproate
+Ethyl caprylate
+Diethyl succinate
+Isobutyl acetate
+
+Yeast strains
+
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+A
+B
+
+H. guilliermondii 11104
+
+H. uÕarum 1444
+
+8h
+
+24 h
+
+48 h
+
+8h
+
+24 h
+
+48 h
+
+8h
+
+P. anomala 10590
+24 h
+
+48 h
+
+8h
+
+S. cereÕisiae T73
+24 h
+
+48 h
+
+3.06
+0.01
+33.83
+3.55
+408.70
+2.99
+n.d.
+n.d.
+0.01
+0.01
+n.d.
+n.d.
+0.18
+n.d.
+
+3.37
+0.23
+163.80
+21.92
+204.90
+14.67
+0.01
+0.01
+0.02
+0.01
+n.d.
+n.d.
+0.26
+n.d.
+
+0.80
+0.48
+109.60
+28.88
+250.50
+46.12
+0.01
+0.01
+0.01
+0.01
+n.d.
+n.d.
+0.16
+n.d.
+
+0.15
+n.d.
+0.11
+0.03
+10.61
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+
+0.06
+0.01
+0.19
+0.04
+28.84
+8.38
+n.d.
+n.d.
+n.d.
+0.01
+n.d.
+0.20
+n.d.
+n.d.
+
+n.d.
+n.d.
+0.12
+0.22
+18.14
+33.56
+n.d.
+n.d.
+n.d.
+n.d.
+0.35
+n.d.
+0.08
+0.05
+
+0.44
+0.05
+0.36
+0.04
+257.10
+36.91
+n.d.
+n.d.
+0.01
+0.01
+0.43
+0.64
+n.d.
+n.d.
+
+3.76
+0.21
+1.18
+0.12
+1502.00
+145.10
+0.03
+0.01
+0.01
+0.06
+2.71
+1.11
+0.32
+n.d.
+
+10.21
+0.48
+0.12
+0.27
+4143.00
+668.60
+0.04
+0.03
+0.02
+0.05
+2.62
+1.17
+1.93
+n.d.
+
+0.02
+0.07
+0.08
+0.04
+n.d.
+0.16
+0.01
+0.01
+0.05
+0.04
+n.d.
+0.14
+n.d.
+0.02
+
+0.75
+1.31
+0.13
+0.17
+5.67
+6.20
+0.10
+0.22
+0.16
+0.72
+n.d.
+0.37
+n.d.
+0.14
+
+0.55
+1.53
+0.10
+0.25
+21.93
+12.48
+n.d.
+0.15
+0.01
+1.03
+n.d.
+0.47
+n.d.
+0.12
+
+n.d.: not detected.
+A: highly aerobic conditions; B: minimally aerobic conditions.
+a
+Mean values for three replicas. Standard errors were always lower than 20% of mean values.
+
+caprylate in cultures grown under minimally aerobic
+conditions.
+
+4. Discussion
+It is generally believed that esters produced during wine fermentation contribute significantly to the
+desirable aspects of the fermentation bouquet of
+wine ŽRapp and Mandery, 1986.. The characteristic
+fruity flavours of wine and other grape-derived alcoholic beverages are primarily due to a mixture of
+hexyl acetate, ethyl caproate and ethyl caprylate
+Žapple-like aroma., isoamyl acetate Žbanana-like
+aroma., and 2-phenylethyl acetate Žfruity and flowery flavor.. In yeast strains, AATase is the key
+enzyme for the production of acetate esters during
+fermentation ŽFujii et al., 1994., and the ATF1-encoded AATase from S. cereÕisiae is the best-studied
+acetyl-transferase activity ŽYoshioka and Hashimoto,
+1981; Malcorps et al., 1991; Fujii et al., 1994, 1997..
+Although it is well known that non-Saccharomyces
+wine yeasts are good producers of esters and despite
+the fact that several authors have suggested their use
+as mixed starters together with S. cereÕisiae to
+
+improve the sensory properties of wine ŽMateo et al.,
+1991; Moreno et al., 1991; Zironi et al., 1993; Gil et
+al., 1996; Romano et al., 1997., there is a lack of
+information about acetate ester-forming activity in
+yeasts of oenological origin. In our work, two approaches have been followed to study the production
+of acetate esters by non-Saccharomyces wine yeasts.
+The first approach, based on the double coupling
+system activity ŽOda et al., 1996., allowed us to
+screen for the presence of acetate ester forming
+activities with different substrate specificities by
+adding the alcohol to be esterified to a decane solution that acts as an extractive system for the esters
+formed. In a second approach to obtain information
+about the production of esters in physiological growth
+conditions, yeasts were grown in liquid medium
+under highly aerobic or minimally aerobic conditions
+without adding the alcohol to be esterified, in order
+to determine the profile of esters formed.
+Using the double coupling system, we have selected yeast strains belonging to the genera Hanseniaspora and Pichia that are able to promote the
+esterification of various alcohols such as ethanol,
+geraniol, isoamyl alcohol and 2-phenyl ethanol. Neither of the yeast strains esterified linalool, maybe
+
+288
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+because it is a tertiary alcohol. P. anomala 10590
+showed a wide range of substrate specificity, being
+able to esterify four of the five alcohols tested.
+Within the genus Hanseniaspora, three of the five
+species tested showed the double coupling system
+activity, although with different substrate specificity.
+The H. guilliermondii 11104 strain esterified ethanol,
+geraniol and isoamyl alcohol, whereas two H.
+uÕarum strains were able to produce ethyl acetate
+and isoamyl acetate Ž H. uÕarum 1444. or only ethyl
+acetate Ž H. uÕarum 11105.. Species belonging to the
+genus Pichia such as P. kluyÕeri, P. quercuum and
+P. heedii, have been described previously as having
+a strong double coupling activity of acetyl-CoA formation and alcohol esterification might be due to
+AATase activity ŽOda et al., 1996, 1999; Oda and
+Ohta, 1997., but there are no data concerning the
+genus Hanseniaspora. The two wine S. cereÕisiae
+species did not produce any of the esters tested, in
+agreement with the results obtained by Oda and Ohta
+Ž1997.. The highly aerobic conditions in the plate
+assays could explain the lack of acetate ester forming
+activity in S. cereÕisiae strains ŽFujii et al., 1997..
+Non-Saccharomyces wine yeasts that can grow
+during the early stages of wine fermentation when
+respiration may be important, are capable of anaerobic as well as aerobic growth. However, there is
+hardly any data about the effect of aeration culture
+conditions on ester synthesis by non-Saccharomyces
+wine yeast. Inoue et al. Ž1997. reported that Han.
+mrakii could produce a large amount of isoamyl
+acetate when the cells were cultured under aerobic
+conditions in contrast with S. cereÕisiae, which could
+not produce the ester. We have studied the effect of
+aeration conditions on the formation of acetate esters
+by the yeast strains selected from the plate assay and
+by S. cereÕisiae T73 , a widely used commercial wine
+yeast strain. Low levels of acetate esters were found
+when non-Saccharomyces yeast strains were grown
+under minimally aerobic conditions or when S. cereÕisiae T73 was grown under highly aerobic conditions. Our results on liquid media indicate that when
+grown under highly aerobic conditions, H. guilliermondii 11104 and P. anomala 10590 produce greater
+concentrations of acetate esters than S. cereÕisiae
+T73 growing under the same aeration conditions or
+even under minimally aerobic conditions. On the
+contrary, S. cereÕisiae T73 strain was the best pro-
+
+ducer of those non-acetate esters, such as ethyl
+caproate and ethyl caprylate, which play an important role on wine aroma. This suggests that both
+kinds of esters could become from different metabolic
+pathways involving different enzymatic activities.
+Ethyl acetate was the major component produced by
+non-Saccharomyces wine yeasts. Similar results were
+described for the overexpression of ATF1 in wine
+and brewing yeast strains ŽLee et al., 1995; Lilly et
+al., 2000.. Excessively high concentrations of ethyl
+acetate do not improve the aroma of young wines,
+but it has been reported that the negative effects of
+high levels of ethyl acetate might be reduced during
+bottle aging ŽLilly et al., 2000.. Also non-Saccharomyces wine yeasts produced increased concentrations of esters with a fruity aroma. H. guilliermondii 11104, in particular, was found to be a potent
+2-phenylethyl acetate producer and P. anomala
+10590 produced significant amounts of isoamyl acetate. Although H. uÕarum has traditionally been
+described as a good ester producer ŽMateo et al.,
+1991; Sponholz, 1993; Romano et al., 1997., the
+strains that we have tested were not outstanding with
+respect to the synthesis of any of the esters studied.
+This study has revealed the potential of non-Saccharomyces wine yeasts to produce acetate ester
+forming activities with different substrate specificities, which could be employed to improve the sensory properties of wine. H. guilliermondii 11104 and
+P. anomala 10590 produce significant amounts of
+2-phenylethyl acetate and isoamyl acetate, respectively, suggesting their possible use in mixed starters
+for wine production although further detailed studies
+are required in this respect. Our research is now
+focused on the purification of the H. guilliermondii
+11104 and P. anomala 10590 acetate ester forming
+enzymes.
+
+Acknowledgements
+This work was supported by project ALI99-1224CO2 from the Comision
+´ Interministerial de Ciencia y
+Tecnologıa
+´ ŽCICYT. of the Spanish Government and
+by the Fundacion
+´ Ramon
+´ Areces. Thanks are due to
+A. Flors and D. Ramon
+´ for their suggestions. V.
+Rojas is the recipient of a fellowship of Postgrado en
+el Extranjero from CONACYT ŽMexico
+´ ..
+
+V. Rojas et al.r International Journal of Food Microbiology 70 (2001) 283–289
+
+References
+Fleet, G.H., Lafon-Lafourcade, S., Ribereau-Gayon,
+P., 1984.
+´
+Evolution of yeasts and lactic acid bacteria during fermentation and storage of Bordeux wines. Appl. Environ. Microbiol.
+48, 1034–1038.
+Fujii, T., Nagasawa, N., Iwamatsu, A., Bogaki, T., Tamai, Y.,
+Hamachi, M., 1994. Molecular cloning, sequence analysis, and
+expression of the yeast alcohol acetyltransferase gene. Appl.
+Environ. Microbiol. 60, 2786–2792.
+Fujii, T., Kobayashi, O., Yoshomoto, H., Furukawa, S., Tamai,
+Y., 1997. Effect of aeration and unsaturated fatty acids on
+expression of the Saccharomyces cereÕisiae alcohol acetyltransferase gene. Appl. Environ. Microbiol. 63, 910–915.
+Gil, J.V., Mateo, J.J., Jimenez,
+M., Pastor, A., Huerta, T. 1996.
+´
+Aroma compounds in wine as influenced by apiculate yeasts.
+J. Food Sci. 61, 1247–1249, 1266.
+Heard, G.M., Fleet, G.H., 1986. Occurrence and growth of yeasts
+species during the fermentation of some Australian wines.
+Food Technol. Aust. 38, 22–25.
+Inoue, Y., Fukuda, K., Wakai, Y., Sudsai, T., Kimura, A., 1994.
+Ester formation by a yeast Hansenula mrakii IFO 0895:
+contribution of esterase for iso-amyl acetate production in
+sake brewing. Lebensm.-Wiss. Technol. 27, 189–193.
+Inoue, Y., Trevanichi, S., Fukuda, K., Izawa, S., Wakai, Y.,
+Kimura, A., 1997. Roles of esterase and alcohol acetyltransferase on production of isoamyl acetate in Hansenula mrakii.
+J. Agric. Food Chem. 45, 644–649.
+Lee, S., Villa, K., Patino, H., 1995. Yeast strain development for
+enhanced production of desirable alcoholsresters in beer. J.
+Am. Soc. Brew. Chem. 53, 153–156.
+Lilly, M., Lambrechts, M.G., Pretorius, I.S., 2000. Effect of
+increased yeast alcohol acetyl transferase activity on flavor
+profiles of wine and distillates. Appl. Environ. Microbiol. 66,
+744–753.
+Malcorps, P., Cheval, J.M., Jamil, S., Dufour, J.P., 1991. A new
+model for the regulation of ester synthesis by alcohol acetyltransferase in Saccharomyces cereÕisiae during fermentation.
+J. Am. Soc. Brew. Chem. 49, 47–53.
+Manzanares, P., Ramon,
+´ D., Querol, A., 1999. Screening of
+non-Saccharomyces wine yeasts for the production of b-Dxylosidase activity. Int. J. Food Microbiol. 46, 105–112.
+Manzanares, P., Rojas, V., Genoves,
+´ S., Valles,
+´ S., 2000. A
+preliminary search for anthocyanin-b-D-glucosidase activity in
+non-Saccharomyces wine yeasts. Int. J. Food Sci. Technol. 35,
+95–103.
+Mateo, J.J., Jimenez, M., Huerta, T., Pastor, A., 1991. Contribution of different yeasts isolated from musts of monastrell
+grapes to the aroma of wine. Int. J. Food Microbiol. 14,
+153–160.
+
+289
+
+Moreno, J.J., Millan,
+´ C., Ortega, J.M., Medina, M., 1991. Analytical differentiation of wine fermentations using pure and mixed
+yeasts cultures. J. Ind. Microbiol. 7, 181–190.
+Oda, S., Ohta, H., 1997. Double coupling of acetyl coenzyme A
+production and microbial esterification with alcohol acetyltransferase in an interface bioreactor. J. Ferment. Bioeng. 83,
+423–428.
+Oda, S., Inada, Y., Kobayashi, A., Kato, A., Matsudomi, N., Ohta,
+H., 1996. Coupling of metabolism and bioconversion: microbial esterification of citronellol with acetyl coenzyme A produced via metabolism of glucose in an interface bioreactor.
+Appl. Environ. Microbiol. 62, 2216–2220.
+Oda, S., Sugai, T., Ohta, H., 1999. Optical resolution of racemic
+citronellol via a double coupling system in an interface bioreactor. J. Biosci. Bioeng. 87, 473–480.
+Rankine, B.C., 1967. Formation of higher alcohols by wine yeast
+and relationships to taste thresholds. J. Sci. Food Agric. 18,
+583–589.
+Rapp, A., Mandery, H., 1986. Wine aroma. Experentia 42, 873–
+884.
+Ribereau-Gayon,
+P., 1971. Les aromes des vins et des eaux-devie.
+´
+Leur formation et leur evolution.
+Bull. OIV 44, 428–466.
+´
+Romano, P., Suzzi, G., Comi, G., Zironi, R., 1993a. Higher
+alcohol and acetic acid production by apiculate wine yeasts. J.
+Appl. Bacteriol. 73, 126–130.
+Romano, P., Suzzi, G., Zironi, R., Comi, G., 1993b. Biometric
+study of acetoin production in Hanseniaspora guilliermondii
+and Kloeckera apiculata. Appl. Environ. Microbiol. 59,
+1838–1841.
+Romano, P., Suzzi, G., Comi, G., Zironi, R., Maifreni, M., 1997.
+Glycerol and other fermentation products of apiculate wine
+yeasts. J. Appl. Microbiol. 82, 615–618.
+Soufleros, E., Bertrand, A., 1979. Role de la souche de levure
+dans la production des substances volatiles en cours de la
+fermentation du jus de raisin. Conn. Vignevini 13, 181–198.
+Sponholz, W.-R., 1993. Wine spoilage by microorganisms. In:
+Fleet, G.H. ŽEd.., Wine Microbiology and Biotechnology.
+Harwood Academic Publishers, Chur, Switzerland, pp. 395–
+420.
+Suomalainen, H., 1971. Yeast and its effect on the flavor of
+alcoholic beverages. J. Inst. Brew. 77, 164–177.
+Yoshioka, K., Hashimoto, N., 1981. Ester formation by alcohol
+acetyltransferase from brewer’s yeast. Agric. Biol. Chem. 45,
+2183–2190.
+Zironi, R., Romano, P., Suzzi, G., Battistutta, F., Comi, G., 1993.
+Volatile metabolites produced in wine by mixed and sequential cultures of Hanseniaspora guilliermondii or Kloeckera
+apiculata and Saccharomyces cereÕisiae. Biotechnol. Lett. 15,
+235–238.
+
+

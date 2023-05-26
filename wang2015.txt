@@ -1,0 +1,1628 @@
+   
+Viable and culturable populations of Saccharomyces cerevisiae, Hanseniaspora uvarum and Starmerella bacillaris (synonym Candida zemplinina)
+during barbera must fermentation
+Chunxiao Wang, Braulio Esteve-Zarzoso, Luca Cocolin, Albert Mas,
+Kalliopi Rantsiou
+PII:
+DOI:
+Reference:
+
+S0963-9969(15)30225-8
+doi: 10.1016/j.foodres.2015.10.014
+FRIN 6053
+
+To appear in:
+
+Food Research International
+
+Received date:
+Revised date:
+Accepted date:
+
+9 July 2015
+8 October 2015
+10 October 2015
+
+Please cite this article as: Wang, C., Esteve-Zarzoso, B., Cocolin, L., Mas, A. & Rantsiou,
+K., Viable and culturable populations of Saccharomyces cerevisiae, Hanseniaspora uvarum
+and Starmerella bacillaris (synonym Candida zemplinina) during barbera must fermentation, Food Research International (2015), doi: 10.1016/j.foodres.2015.10.014
+
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could aﬀect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+ACCEPTED MANUSCRIPT
+1
+
+Viable and culturable populations of Saccharomyces cerevisiae, Hanseniaspora uvarum and
+
+T
+
+Starmerella bacillaris (synonym Candida zemplinina) during Barbera must fermentation
+
+a
+
+SC
+R
+
+IP
+
+Chunxiao Wanga, Braulio Esteve-Zarzosoa, Luca Cocolinb, Albert Masa, Kalliopi Rantsioub,*
+
+Departament de Bioquímica i Biotecnologia, Facultat d’ Enologia, Universitat Rovira i
+
+Virgili, Marcel·lí Domingo 1, Tarragona 43007, Spain.
+
+Dipartimento di Scienze Agrarie, Forestali e Alimentari, Università degli studi di Torino,
+
+NU
+
+b
+
+*
+
+MA
+
+Largo Paolo Braccini 2, Grugliasco 10095, Italy.
+Corresponding author:
+
+D
+
+Kalliopi Rantsiou
+
+TE
+
+Dipartimento di Scienze Agrarie, Forestali e Alimentari, Università degli studi di Torino, Largo
+Paolo Braccini 2, Grugliasco 10095, Italy.
+
+AC
+
+CE
+P
+
+Tel 39 011 670 8870, Fax 39 011 670 8549, E-mail: kalliopi.rantsiou@unito.it.
+
+ACCEPTED MANUSCRIPT
+2
+
+ABSTRACT
+The present study analyzed the viable and/or culturable populations of Saccharomyces
+
+T
+
+cerevisiae, Hanseniaspora uvarum and Starmerella bacillaris (synonym Candida zemplinina)
+
+IP
+
+during laboratory grape must fermentation, in order to investigate the interaction between the
+
+SC
+R
+
+three species considered. Firstly, population dynamics during wine fermentation were
+followed by culture-dependent techniques, and non-Saccharomyces
+
+yeast became
+
+non-culturable at late stages of fermentation when S. cerevisiae dominated. Four different
+
+NU
+
+culture-independent techniques were further applied to detect viable yeast cells at the late
+
+MA
+
+stage of fermentation. Both quantitative PCR techniques applied, namely ethidium monoazide
+bromide (EMA)-qPCR and Reverse Transcription (RT)-qPCR, detected H. uvarum and Starm.
+bacillaris at a concentration of 105 to 106 cells/mL. These non-culturable cells had
+
+TE
+
+D
+
+membranes impermeable to EMA and stable rRNA. The background signals from dead cells
+did not interfere with the quantification of viable cells in wine samples by EMA-qPCR
+
+CE
+P
+
+technique. As a qualitative culture-independent technique, DGGE technique was coupled with
+EMA treatment (EMA-PCR-DGGE) or with RT (RT-PCR-DGGE). With EMA-PCR-DGGE
+
+AC
+
+non-Saccharomyces species during fermentation were detected although it was limited by the
+predominance of S. cerevisiae.
+Keywords: culture-independent technique, DGGE, ethidium monoazide bromide (EMA),
+quantitative PCR (qPCR), wine, non-Saccharomyces.
+
+ACCEPTED MANUSCRIPT
+3
+
+1 Introduction
+Wine fermentations are complex ecological processes with a succession of variable yeast
+
+T
+
+species that could provide different characteristics to the fermentation and final wine (Fleet,
+
+IP
+
+2003). Considerable efforts have been devoted to investigate and monitor population
+
+SC
+R
+
+dynamics during mixed fermentations with Saccharomyces and non-Saccharomyces species.
+According to culture-dependent analysis, the non-Saccharomyces species are only isolated
+from early stages and the fermentations are dominated by Saccharomyces at late stages (Fleet,
+
+NU
+
+2008). Recently, using culture-independent techniques, it was highlighted that viable
+
+MA
+
+non-Saccharomcyes populations could be quantified at late stages of fermentation (Andorrà et
+al., 2008; Wang et al., 2014) supporting their possible role also at the end of the
+transformation process. For these reasons, a thorough study is required to understand the
+
+TE
+
+D
+
+states (culturable, live, injured or dead) of non-Saccharomyces during fermentation.
+The application of culture-independent techniques in wine ecology studies is considered
+
+CE
+P
+
+a valid approach to investigate the presence of viable but non-culturable (VBNC) cells
+(Cocolin et al., 2013). For the quantitative techniques, qPCR was firstly used to directly
+
+AC
+
+quantify yeast DNA from wine samples (Hierro et al., 2007; Tofalo et al., 2012), but because
+of the stability of DNA, dead cells were also quantified resulting in an overestimation of yeast
+populations. To solve this problem, RT-qPCR, fluorescence in situ hybridization (FISH) and
+qPCR using ethidium monoazide bromide treatment or propidium monoazide bromide
+(EMA-qPCR or PMA-qPCR) were explored (Hierro et al., 2006; Rawsthorne and Phister,
+2009; Andorrà et al., 2010a; Shi et al., 2012; Wang et al., 2014; Vendrame et al., 2014). In
+RT-qPCR and FISH the cells with rRNA are considered viable, because the rRNA is less
+stable than DNA and, thus, is not quantified in dead cells (Hierro et al., 2006, Andorrà et al.,
+2011, Wang et al., 2014). EMA-qPCR excludes cells with compromised membranes; EMA
+enters these cells and covalently combines with DNA which is not amplified by subsequent
+
+ACCEPTED MANUSCRIPT
+4
+
+PCR reactions (Rudi et al., 2005). All of these quantitative techniques require specific primers,
+which increase the sensitivity for detection, avoiding the detection of non-targeted yeast
+
+T
+
+species. As qualitative techniques, PCR-DGGE and RT-PCR-DGGE have been developed
+
+IP
+
+with universal primers to detect all probable yeast species without the need to know their
+
+SC
+R
+
+sequences (Cocolin et al., 2000; Mills et al., 2002). However, detection sensitivity of DGGE
+depended on the disparity of orders of magnitude among different populations (Mills et al.,
+2002; Andorrà et al., 2008; Cocolin et al., 2011). Therefore, to analyze the yeast species in
+
+NU
+
+complicated must samples during fermentations, it is better to use both qualitative and
+
+MA
+
+quantitative techniques.
+
+This study focused on three main species in must fermentations: Saccharomyces
+cerevisiae, Hanseniaspora uvarum and Starmerella bacillaris (synonym Candida zemplinina),
+
+TE
+
+D
+
+with the aim to analyse the vitality state of the cells during fermentation, especially at late
+stages. These two non-Saccharomyces species were studied here because of their common
+
+CE
+P
+
+appearance on Barbera grape in Piedmont region of Italy (Alessandria et al., 2015). The
+population dynamics during the whole fermentation was monitored by culture-dependent
+
+AC
+
+techniques. When the cell culturability was lost for the non-Saccharomyces species,
+EMA-qPCR and EMA-PCR-DGGE, as well as RT-qPCR and RT-PCR-DGGE were used to
+determine the cells’ status in wine samples. Dead cells, after 75% ethanol treatment, and
+culturable cells were used as negative and positive controls, respectively, to raise the standard
+curves for qPCR techniques and markers for DGGE.
+
+2 Material and methods
+2.1 Yeast strains
+H. uvarum Y1 (Mills et al., 2002) and Starm. bacillaris CBE4 (Englezos et al., 2015)
+were obtained from yeast culture collection of the DISAFA (Dipartimento di Scienze Agrarie,
+
+ACCEPTED MANUSCRIPT
+5
+
+Forestali e Alimentari, University of Torino, Italy). Uvaferm BC (S. cerevisiae) was obtained
+from Lallemand (Montreal, Canada). The yeast cultures from DISAFA were grown on YPD
+
+T
+
+agar (1% yeast extract, 2% peptone, 2% dextrose, all from Biogenetics, Italy), and then were
+
+IP
+
+inoculated into 10 mL of sterile Barbera must for a preadaptation. The Uvaferm BC was
+
+SC
+R
+
+activated following the suppliers’ instructions and subsequently preadapted in the same must.
+2.2 Wine fermentation and sampling
+
+Red Barbera grape berries were harvested in 2013 and after crushing grape must was
+
+NU
+
+stored at -20 °C. Before use, the grape must was defrosted at 4 °C, and then pasteurized at
+
+MA
+
+65 °C for 1 h. Flasks of 250 ml containing 100 mL of Barbera must (Glucose+Fructose
+234.00 g/L, malic acid 3.8 g/L, citric acid 0.3 g/L, tartaric acid 5.8 g/L, pH 2.95, and YAN
+179.60 mg N/L) were inoculated with 1 x 105 cells/mL of preadapted Uvaferm BC, Starm.
+
+TE
+
+D
+
+bacillaris CBE4 and H. uvarum Y1. Fermentations were performed in duplicate at 25 °C,
+statically in presence of air (with screw cap not totally tight), and the whole process was
+
+CE
+P
+
+monitored by weight every 24 h until no further weight loss. Samples (3 mL) were taken at
+day 0, 1, 4, 6, 8, 11 and 14. One mL sample was used for microbiological analysis and another
+
+AC
+
+two tubes with 1 mL sample were centrifuged at 14,000 rpm for 10 min. The supernatants
+were collected for analysis of main parameters using an HPLC (Agilent Technologies 1260
+Infinity, USA) according to Giordano et al. (2009), and the content of YAN was measured by
+L-arginine / urea / ammonia assay kit (Megazyme, Ireland) and primary amino nitrogen assay
+kit (Megazyme, Ireland). The pellet in one tube was passed to EMA treatment and further
+DNA extraction, and the pellet in the other tube was suspended in 100 μL of RNAlater®
+solution (Ambion, USA), and then kept at -20 °C for further RNA extraction.
+2.3 Microbiological analysis
+Appropriate dilutions in ten-fold series by Ringers solution (Oxoid, Italy) from 1 mL of
+must were spread onto WL nutrient agar (Biogenetics) and Lysine medium (Oxoid). Counting
+
+ACCEPTED MANUSCRIPT
+6
+
+was done after five days’ growth at 28°C. Colonies of the three yeast strains were
+discriminated by different morphologies and colors on WL nutrient agar (Cavazza et al.,
+
+T
+
+1992). Lysine medium was used for quantification of non-Saccharomyces population when S.
+
+IP
+
+cerevisiae dominated the fermentation.
+
+SC
+R
+
+2.4 EMA treatment and DNA extraction
+
+The cells’ pellet from 1 mL of sample was resuspended in 1 mL of YPD broth and kept
+at 13 °C for 2 h to recover cells’ membrane from the ethanol interference (Andorrà et al.,
+
+NU
+
+2010a). Then cells were collected, suspended in 1 mL of sterile water and treated with EMA
+
+MA
+
+(Sigma-Aldrich, Italy) solution (5 g/L) using the same device and procedure as described by
+Andorrà et al. (2010a). Briefly, EMA was dissolved in sterile Milli-Q water to prepare the
+solution of 5 g/L. The box with a 650-W halogen lamp was constructed, and the distance
+
+TE
+
+D
+
+between the lamp and the tube was approx. 20 cm. Two microliters of EMA solution were
+added to the cell suspension (final concentration of EMA was 24 μM), and incubated in dark
+
+CE
+P
+
+for 10 min. The samples were exposed to light for 30 s, kept on ice for 1 min with light off,
+and exposed again to light for 30 s. Cells were collected by centrifugation and washed with 1
+
+AC
+
+mL of sterile water to remove the unstained EMA. MasterpureTM Complete DNA & RNA
+Purification kit (Epicentre, USA) was used to extract DNA according to the manufacturer’s
+instruction. The DNA extracted was conserved at -20 ºC and used for both EMA-qPCR and
+EMA-PCR-DGGE analysis.
+2.5 RNA extraction and reverse transcription
+The cell suspension preserved in RNAlater® solution was centrifuged, and RNA from
+cell pellet was extracted by MasterpureTM Complete DNA & RNA Purification kit (Epicentre,
+USA) following manufacturer’s instructions. RNA was treated with TURBOTM DNase
+(Ambion, USA) at 37 °C for 3 h or overnight (if needed) to completely remove DNA.
+Complete DNA removal was confirmed by qPCR. Reverse transcription of the extracted RNA
+
+ACCEPTED MANUSCRIPT
+7
+
+was performed with the following procedure: 0.5 μL of RNA was mixed in 4.5 μL of DNase
+and RNase-free water containing 0.5 μL of Random Primers (500 μg/mL, Promega, Italy),
+
+T
+
+and incubated at 72 °C for 5 min. The reaction sample was kept on ice for 5 min, and then
+
+IP
+
+added with 7.5 μL of mixture containing 2.5 μL of M-MLV RT 5× Buffer, 2.5 μL of 10mM
+
+SC
+R
+
+dNTPs, 20 U of RNase inhibitor (all from Promega, Italy), 100 U of M-MLV Reverse
+transcriptase (Promega), and 1.5 μL of DNase and RNase-free water. The reaction continued
+with incubation at 42 °C for 1 h and stopped with a step of 72 °C for 10 min. The cDNA
+
+NU
+
+synthesized was conserved at -20 ºC and used for further RT-qPCR and RT-PCR-DGGE
+
+MA
+
+analysis.
+2.6 Standard curves and qPCR analysis
+
+The qPCR was performed with the primers (all from Sigma-Aldrich, Italy)
+
+TE
+
+D
+
+YEASTF/YEASTR for total yeast (Hierro et al. 2006), CESPF/SCERR for S. cerevisiae
+(Hierro et al. 2007), CESPF/HUVR for H. uvarum (Hierro et al. 2007), and AF/200R for
+
+CE
+P
+
+Starm. bacillaris (Andorrà et al. 2010b). Each reaction was carried out by the MiniOpticonTM
+Real-Time PCR System (Bio-Rad, Italy) in a total volume of 13 μL of reaction mixture,
+
+AC
+
+which contained 6 μL of SsoAdvanced Universal SYBR Green Supermix (Bio-Rad), 0.4 μM
+of the primers, and 1 μL of DNA or cDNA template. PCR conditions were as in Andorrà et al.
+(2010b). Standard curves of EMA-qPCR and RT-qPCR were constructed for each yeast
+species in triplicate using 10-fold serial dilutions of preadapted cells. These cells were
+obtained from one day’s yeast cultures in 10 mL of sterile Barbera juice as mentioned in 2.1.
+The serial dilutions were performed using 9 mL of sterile must to which 1 mL of cell
+suspension was added. The final cell suspensions were counted by hemocytometer under
+microscope to determine the real concentrations of serial cell dilutions.
+
+ACCEPTED MANUSCRIPT
+8
+
+Dead cells were prepared from the same cultures, and then treated with 75% ethanol for
+24 h. The lysis process of cells was confirmed by absence of growth in YPD broth after 24 h
+
+T
+
+and on WL nutrient agar after 5 days.
+
+IP
+
+2.7 PCR and DGGE analysis
+
+SC
+R
+
+Primers NL1GC and LS2 were used to amplify the ribosomal region of extracted DNA or
+synthesized cDNA for further DGGE analysis (Mills et al., 2002). Five μL of the PCR
+products were firstly checked for the sizes by agarose gel electrophoresis, then, the same
+
+NU
+
+volume was further separated by DGGE gel electrophoresis in a DCode universal mutation
+
+MA
+
+detection system (Bio-Rad). Both kinds of electrophoresis were operated and the gels were
+stained and photographed according to the descriptions of Mills et al. (2002) with minor
+modifications: DGGE gel used a denaturing gradient from 30% to 60% of urea and
+
+TE
+
+D
+
+formamide, and was run at 120 V for 4 h. PCR products from DNA or cDNA of pure yeast
+cultures were used as markers in DGGE gel. Different cell mixtures were prepared from pure
+
+CE
+P
+
+yeast cultures, and subjected to EMA-PCR-DGGE analysis to determine the detection limits
+of the three species.
+
+AC
+
+2.8 Data analysis
+
+Statistical analyses of variations were performed by One-Way ANOVA to calculate the
+value of F and significance, with post-hoc Tukey test when needed, using IBM SPSS
+Statistics 23. The Ct values from live and dead cells were used directly for variation analysis,
+and the yeast population numbers analyzed by different techniques were converted to
+logarithm value for further variation analysis.
+
+3 Results
+3.1 Culturable yeast populations during must fermentation
+
+ACCEPTED MANUSCRIPT
+9
+
+The fermentations terminated after eleven days, although culturability analysis was
+extended up to 14 days. During the whole fermentation process, culturable populations of the
+
+T
+
+three species showed different trends, especially at late stages of fermentations (Fig. 1). The
+
+IP
+
+three species grew to population of 107 colony forming units (cfu)/mL during the first days of
+
+SC
+R
+
+fermentation. S. cerevisiae (Uvaferm BC) maintained the maximum population level during
+fourteen days. Starm. bacillaris CBE4 kept similar population level as S. cerevisiae during
+eight days, decreasing sharply to undetectable levels by plating on day 11. The other
+
+NU
+
+non-Saccharomyces species, H. uvarum Y1, grew faster to reach a population of 107 cfu/mL,
+
+3.2 qPCR analysis of wine samples
+
+MA
+
+but decreased to undetectable level earlier (day 6) than the Starm. bacillaris CBE4 strain.
+
+First, standard curves for each species and both techniques (EMA and RT- qPCR) were
+
+TE
+
+D
+
+separately constructed. Background signal from dead cells at different concentrations were
+also quantified. Finally, the populations of each species in the selected samples were
+
+CE
+P
+
+quantified and compared among the two culture-independent techniques and the
+culture-dependent techniques.
+
+AC
+
+3.2.1 Standard curves for EMA-qPCR
+Cells adapted in sterile Barbera must were serially diluted in the same must and
+quantified by microscope to associate the logarithm values of cells’ concentration and Ct
+values. Good correlations were obtained for populations between 103 and 107 cells/mL by
+EMA-qPCR analysis (Tab. 1).
+The preadapted cells were also used to prepare dead cells, and the dead cells of three
+species were analyzed by EMA-qPCR technique to quantify the background. The Ct values
+from dead cells were much higher when compared to those generated by live cells at the same
+cell concentration (Tab. 2). The ANOVA analysis demonstrated the significant difference of
+Ct values between live and dead cells due to the lower significance value than 0.05, despite
+
+ACCEPTED MANUSCRIPT
+10
+
+that no difference was observed for Starm. bacillaris at the concentration of 103 cells/mL (the
+significance value > 0.05), most likely due to the high difference of Ct values within live and
+
+T
+
+dead cells. Interference from background signal appeared only in presence of large
+
+IP
+
+populations of dead cells (107 cells/mL), which were detected by the method as approx. 104
+
+SC
+R
+
+live cells/mL according to the standard curves.
+3.2.2 Standard curves of RT-qPCR
+
+Good correlations were also obtained for culturable populations between 102 and 107
+
+NU
+
+cells/mL by RT-qPCR analysis (Tab. 1). Ct values of S. cerevisiae, H. uvarum, and Starm.
+bacillaris were also checked before and after the killing treatment (75% ethanol for 24h) and
+
+MA
+
+approx. 104 to 105 cells/mL background was produced from 106 to 107 dead cells/mL of each
+species according to the standard curve in Table 1 (data not shown).
+
+TE
+
+D
+
+3.2.3 Analysis of fermentation samples
+
+The DNA and cDNA extracted from fermentation samples were subjected to
+
+CE
+P
+
+amplification and specific yeast populations were quantified using the previously generated
+standard curves. More specifically, samples at day 6 and 11, in which the H. uvarum and
+
+AC
+
+Starm. bacillaris respectively became non-culturable, were analyzed. The chemical
+composition of the fermented must samples is shown in Table 3.
+The EMA-qPCR and RT-qPCR quantification results were compared to those obtained
+by culture-dependent techniques (Tab. 4). The ANOVA analysis did not differentiate among
+three techniques for the total yeast and S. cerevisiae quantification on day 6, but some
+differences existed for the other samples. The post-hoc Tukey test was further performed to
+find out the culture-independent technique, by which the quantification result was
+significantly different from the result by culture-dependent techniques, as shown in Table 4.
+Therefore, three main conclusions could be obtained. First of all, the total yeast populations
+from all samples were kept at similar level (107 cells/mL) by culture-dependent and
+
+ACCEPTED MANUSCRIPT
+11
+
+culture-independent techniques because of the existence of large culturable S. cerevisiae
+population. Secondly, when the culturable species were quantified on plates, the population
+
+T
+
+size was similar to the one detected by EMA-qPCR, both for S. cerevisiae and Starm.
+
+IP
+
+bacillaris. However, quantification by RT-qPCR yielded counts that were one log unit lower
+
+SC
+R
+
+for S. cerevisiae and even two log units lower for Starm. bacillaris comparing to
+culture-dependent methods. Then, when no colonies of non-Saccharomyces were recovered
+on plates, still populations of about 105 cells/mL (H. uvarum) or 106 cells/mL (Starm.
+were
+
+quantified
+
+by
+
+EMA-qPCR.
+
+The
+
+NU
+
+bacillaris)
+
+counts
+
+of
+
+the
+
+non-culturable
+
+MA
+
+non-Saccharomyces by RT-qPCR were similar to those obtained by EMA-qPCR.
+3.3 DGGE electrophoretic profiles of wine samples
+In order to study the effect of the EMA treatment on the detection of the three species by
+
+TE
+
+D
+
+DGGE, eight different cell mixtures were prepared from pure yeast cultures in sterile Barbera
+juice (Fig. 2). The differences in population sizes affected the detection and when S.
+
+CE
+P
+
+cerevisiae was predominant in the mixture with 107 cells/mL, Starm. bacillaris could be
+detected at 105 cells/mL but not at 103 cells/mL, whereas H. uvarum was not detected in any
+
+AC
+
+of those tested concentrations. When low populations of S. cerevisiae were present in the
+mixture (103 cells/mL), Starm. bacillaris at 105 and 107 cells/mL could be detected, while H.
+uvarum could only be seen at concentrations of 107cells/mL or when Starm. bacillaris was at
+the same concentration (105 cells/mL).
+The fermentation samples (day 6 and 11) were also analyzed by the EMA-PCR-DGGE
+and RT-PCR-DGGE techniques. The results are shown in Fig. 3. With EMA-PCR-DGGE, S.
+cerevisiae was detected in both tested days (6 and 11), Starm. bacillaris was only found on
+day 6 while H. uvarum was not detected. Although these results were similar to plating, the
+differences in population sizes between all the species affected clearly the detection of the
+minority species (H. uvarum and Starm. bacillaris).
+
+ACCEPTED MANUSCRIPT
+12
+
+Analysis by RT-PCR-DGGE yielded very different results. S. cerevisiae, H. uvarum and
+Starm. bacillaris could be detected in all samples although H. uvarum presented very strong
+
+IP
+
+T
+
+bands.
+
+SC
+R
+
+4 Discussion
+
+The definition of live cells in wine ecology has changed with the development of
+detection techniques. Starting from traditional methods (i.e. use of culture media), analysis
+
+NU
+
+has moved to the application of culture-independent molecular techniques represented by the
+
+MA
+
+use of DNA (qPCR or PCR-DGGE), determination of cell membrane integrity (EMA-qPCR
+or PMA-qPCR) or use of RNA (RT-qPCR, RT-PCR-DGGE and FISH) (Cocolin and Mills,
+2003; Hierro et al., 2006; Andorrà et al., 2008; Andorrà et al., 2010a; Andorrà et al., 2010b;
+
+TE
+
+D
+
+Shi et al., 2012; Wang et al., 2014; Vendrame et al., 2014). The combined use of
+culture-dependent and culture-independent techniques was considered in this paper, and the
+
+CE
+P
+
+aim was to study how the interactions between S. cerevisiae, H. uvarum and Starm. bacillaris
+during alcoholic fermentation of a natural must could be reflected at population level. A need
+
+AC
+
+for truly dead cells was necessary for comparison and background estimation. Heat shock
+(65ºC) and ethanol toxicity (75%) were tested by reactivation in both rich medium (YPD
+broth) and differential media (WL nutrient agar). Heat shock and ethanol toxicity yielded the
+same results (data not shown). Ethanol toxicity was chosen for the similarity to the increased
+concentrations of ethanol during alcoholic fermentations, which could finally produce cell
+death.
+The agreement between culture-dependent techniques and EMA-qPCR for culturable S.
+cerevisiae and Starm. bacillaris cells was considered as a proof that culturable cells had fully
+functional cell membrane and EMA-qPCR could quantify them accurately, as previously
+described by Andorrà et al (2010a). EMA-qPCR presented good linearity with culturable
+
+ACCEPTED MANUSCRIPT
+13
+
+populations between 103 to 107 cells/mL, but a low background signal was produced from the
+dead cells at high concentrations. This background signal was also observed by Andorrà et al.
+
+T
+
+(2010a) and Nkuipou-Kenfack et al. (2013), and it could not be removed by regulation of
+
+IP
+
+EMA treatment conditions (Nkuipou-Kenfack et al., 2013). Nevertheless, from the view of
+
+SC
+R
+
+application, this background signal did not actually interfere with the quantification of live
+cells from wine fermentations, because the signal (105 to 106 cells/mL) was always higher
+than background signals (104 cells/mL). This point was also verified by Andorrà et al. (2010a),
+
+NU
+
+by addition of a constant population of dead cells to serial dilutions of viable cells obtaining a
+
+MA
+
+standard curve that was not influenced by the dead cells.
+
+The analysis of rRNA integrity through the RT-qPCR analysis resulted in an
+underestimation of the culturable population by one or two log units. Considering the good
+
+TE
+
+D
+
+linearity of the standard curves, this result is probably related with a decreased ribosome level
+inside the culturable cells facing environmental stress (ethanol production, nutrient depletion)
+
+CE
+P
+
+and initiating survival strategies. Although there is no evidence in the present work, other
+studies based on FISH (Andorrà et al., 2011; Wang et al., 2014) also observed the variation in
+
+AC
+
+the fluorescence intensity of the stained S. cerevisiae cells during fermentation. The variation
+of rRNA concentration to some extent questioned the quantification accuracy of RT-qPCR,
+especially as reference for live cells. Furthermore, the rRNA of dead cells might be degraded
+at different rates depending on the lytic process. By ethanol treatment (75% ethanol for 24h),
+the reduction of rRNA was obvious, although some stable rRNA still existed after 48h (data
+not shown) and probably interfered with the quantification of live cells. Previous data from
+dead cells originated by heat shock (60 °C 20 min, Hierro et al., 2006) also showed the
+relative stability of rRNA, which takes at least 24h for significant degradation in S. cerevisiae
+cells. The death of non-Saccharomyces species during wine fermentation is probably
+dependent on a variety of factors (Wang et al., 2015) and their effect on the relative stability
+
+ACCEPTED MANUSCRIPT
+14
+
+of rRNA in these dying cells is still far from being understood. More information is needed to
+understand the process, and the use of rRNA-dependent techniques to evaluate it.
+
+T
+
+Previous studies based on culture-independent techniques have reported the existence of
+
+IP
+
+non-Saccharomyces populations during late stages of fermentation, when Saccharomyces
+
+SC
+R
+
+dominated the process (Andorrà et al., 2010a; Wang et al., 2014). Our results were consistent
+with these reports because of the detection of 105 to 106 cell/mL of H. uvarum and Starm.
+bacillaris after no culturable cells were obtained from these species. Based on these results,
+
+NU
+
+we can conclude that a subpopulation of non-culturable cells had an injured membrane
+
+MA
+
+(therefore were not detected by EMA-qPCR) and are considered dead while a quantifiable
+number of non-culturable cells were still alive with functional membranes (detected by
+EMA-qPCR) and non-degraded RNA (detected by RT-qPCR).
+
+TE
+
+D
+
+DGGE was firstly used in this study with combination of EMA treatment, and the
+approximate detection limits for Starm. bacillaris and H. uvarum were also tested. It could be
+
+CE
+P
+
+used as a basic qualitative culture-independent technique for monitoring wine fermentation.
+The limitation of EMA-PCR-DGGE was the uncertain detection of minor populations when
+
+AC
+
+some predominant populations existed at one or two log units higher concentrations. RT-PCRDGGE in this study detected all of the three species at late stages of fermentation, especially
+from H. uvarum, which was the species undetected on plates. The high intensity of rRNA
+signal from H. uvarum could be interpreted as a high concentration of rRNA, as seen before
+(Andorrà et al., 2011) on a strain of Hanseniaspora guilliermondii. However, the application
+of this technique to follow live cells during wine fermentation needs the support of further
+data due to the unclear rRNA relative stability in dead cells which is also probably
+species-dependent.
+In conclusion, the present work detected viable but non-culturable H. uvarum and Starm.
+bacillaris cells by culture-independent techniques. These cells presented functional
+
+ACCEPTED MANUSCRIPT
+15
+
+membranes and non degraded rRNA. Also both S. cerevisiae and Starm. bacillaris
+
+presented
+
+cell membrane integrity, relatively stable rRNA and culturability during late stages of grape
+
+T
+
+must fermentation. The comparative analysis among different techniques demonstrated the
+
+IP
+
+potential of EMA-qPCR and EMA-PCR-DGGE for wine ecological studies. This work also
+
+SC
+R
+
+indicates some underlying obstacles for the application of RT-qPCR and RT-PCR-DGGE on
+the estimation of viable populations of different species during alcoholic fermentation. The
+relative stability of rRNA during the process of cell lysis needs to be determined with
+
+NU
+
+precision before being applied systematically for routine analysis of viable populations in
+
+MA
+
+alcoholic fermentations.
+
+Acknowlegements
+
+TE
+
+D
+
+We acknowledge Francesco Cravero for HPLC analysis, and thank Fabio Marengo and
+Vasileios Englezos for the assistance on wine fermentation. The present work was supported
+
+CE
+P
+
+by the Wildwine EU Project (grant agreement 315065). Chunxiao Wang is the recipient of a
+
+AC
+
+grant from China Scholarship Council (State Scholarship Fund No. 201206300028).
+
+References
+
+Alessandria, V., Marengo, F., Englezos, V., Gerbi, V., Rantsiou, K., Cocolin, L. Mycobiota of
+Barbera grapes from the piedmont region from a single vintage year. American Journal of
+Enology and Viticulture, in press, doi: 10.5344/ajev.2014.14071.
+Andorrà, I., Landi, S., Mas, A., Guillamón, J. M., & Esteve-Zarzoso, B. (2008). Effect of
+oenological practices on microbial populations using cultura-independent techniques.
+Food Microbiology, 25, 849-856.
+
+ACCEPTED MANUSCRIPT
+16
+
+Andorrà, I., Esteve-Zarzoso, B., Guillamón, J. M., & Mas, A. (2010a). Determination of
+viable wine yeast using DNA binding dyes and quantitative PCR. International Journal
+
+T
+
+of Food Microbiology, 144, 257-262.
+
+IP
+
+Andorrà, I., Landi, S., Mas, A., Esteve-Zarzoso, B., & Guillamón, J. M. (2010b). Effect of
+
+SC
+R
+
+fermentation temperature on microbial population evolution using culture-independent
+and dependent techniques. Food Research International, 43, 773-779.
+Andorrà, I., Monteiro, M., Esteve-Zarzoso, B., Albergaria, H., & Mas, A. (2011). Analysis
+
+NU
+
+and direct quantification of Saccharomyces cerevisiae and Hanseniaspora guilliermondii
+
+MA
+
+populations during alcoholic fermentation by fluorescence in situ hybridization, flow
+cytometry and quantitative PCR. Food Microbiology, 28, 1483-1491.
+
+TE
+
+vini. Vignevini, 9, 17-20.
+
+D
+
+Cavazza, A., Grando, M. S., & Zini, C. (1992). Rilevazione della flora microbica dimostie
+
+Cocolin, L., Bisson, L. F., & Mills, D. A. (2000). Direct profiling of the yeast dynamics in
+
+CE
+P
+
+wine fermentations. FEMS Microbiology Letters, 189, 81-87.
+Cocolin, L., Campolongo, S., Alessandria, V., Dolci, P., & Rantsiou, K. (2011). Culture
+
+AC
+
+independent analysis and wine fermentation: an overview of achievements 10 years after
+first application. Annals of Microbiology, 61, 17-23.
+Cocolin, L., & Mills, D. A. (2003). Wine yeast inhibition by sulfur dioxide: a comparison of
+culture-dependent and independent methods. American Journal of Enology and
+Viticulture, 54 (2), 125-130.
+Cocolin, L., Alessandria, V., Dolci, P., Gorra, R., & Rantsiou, K. (2013) Culture independent
+methods to assess the diversity and dynamics of microbiota during food fermentation.
+International Journal of Food Microbiology, 167, 29-43.
+Englezos, V., Rantsiou, K., Torchio, F., Rolle, L., Gerbi, V., & Cocolin, L. (2015)
+Exploitation of the non-Saccharomyces yeast Starmerella bacillaris (synonym Candida
+
+ACCEPTED MANUSCRIPT
+17
+
+zemplinina) in wine fermentation: Physiological and molecular characterizations.
+International Journal of Food Microbiology, 199, 33-40.
+
+T
+
+Fleet, G. H. (2003). Yeast interactions and wine flavour. International Journal of Food
+
+IP
+
+Microbiology, 86, 11-22.
+
+SC
+R
+
+Fleet, G. H. (2008). Wine yeast for the future. FEMS Yeast Research, 8, 979-995.
+Giordano, M., Rolle, L., Zeppa, G., & Gerbi, V. (2009). Chemical and volatile composition of
+three Italian sweet white passito wines. Journal International des Sciences de la Vigne et
+
+NU
+
+du Vin, 43, 159–170.
+
+MA
+
+Hierro, N., Esteve-Zarzoso, B., González, Á., Mas, A., & Guillamón, J. M. (2006). Real-time
+quantitative PCR (QPCR) and resverse transcription-QPCR for detection and
+enumeration of total yeasts in wine. Applied and Environmental Microbiology, 72 (11),
+
+TE
+
+D
+
+7148-7155.
+
+Hierro, N., Esteve-Zarzoso, B., Mas, A., & Guillamón, J. M. (2007). Monitoring of
+
+CE
+P
+
+Saccharomcyes and Hanseniaspora populations during alcoholic fermentation by
+real-time quantitative PCR. FEMS Yeast Research, 7, 1340-1349.
+
+AC
+
+Mills, D. A., Johannsen, E. A., & Cocolin, L. (2002). Yeast diversity and persistence in
+botrytis-affected wine fermentations. Applied and Environmental Microbiology, 68(10),
+4884-4893.
+
+Nkuipou-Kenfack, E., Engel, H., Fakih, S., & Nocker, A. (2013). Improving efficiency of
+viability-PCR for selective detection of live cells. Journal of Microbiological Methods,
+93, 20-24.
+Rawsthorne, H., & Phister, T. G. (2009). The presence of Saccharomyces cerevisiae DNA in
+various media used to propagate yeasts and its removal by ethidium monoazide. Letters
+in Applied Microbiology, 49, 652-654.
+
+ACCEPTED MANUSCRIPT
+18
+
+Rudi, K., Moen, B., Drømtorp, S. M., & Holk, A. L. (2005). Use of ethidium monoazide and
+PCR in combination for quantification of viable and dead cells in complex samples.
+
+T
+
+Applied and Environmental Microbiology, 71 (2), 1018-1024.
+
+IP
+
+Shi, H., Xu, W., Trinh, Q., Luo, Y., Liang, Z., Li, Y., & Huang, K. (2012). Establishment of a
+
+SC
+R
+
+viable cell detection system for microorganisms in wine based on ethidium monoazide
+and quantitative PCR. Food Control, 27, 81-86.
+
+Tofalo, R., Schirone, M., Corsetti, A., & Suzzi, G. (2012). Detection of Brettanomyces spp. in
+
+NU
+
+red wines using real-time PCR. Journal of Food Science, 77, 545-549.
+
+MA
+
+Vendrame, M., Manzano, M., Comi, G., Bertrand, J., & Iacumin, L. (2014). Use of propidium
+monoazide for the enumeration of viable Brettanomyces bruxellensis in wine and beer by
+quantitative PCR. Food Microbiology, 42, 196-204.
+
+TE
+
+D
+
+Wang, C., Esteve-Zarzoso, B., & Mas, A. (2014). Monitoring of Saccharomyces cerevisiae,
+Hanseniaspora uvarum, and Starmerella bacillaris (synonym Candida zemplinina)
+
+CE
+P
+
+populations during alcoholic fermentation by fluorescence in situ hybridization.
+International Journal of Food Microbiology, 191, 1-9.
+
+AC
+
+Wang, C., Mas, A., & Esteve-Zarzoso, B. (2015). Interaction between Hanseniaspora uvarum
+and Saccharomyces cerevisiae during alcoholic fermentation. International Journal of
+Food Microbiology, 206, 67-74.
+
+ACCEPTED MANUSCRIPT
+19
+
+Table 1. The slope, intersection, correlation coefficient (R2) and efficiency of standard curves
+of total yeast, S. cerevisiae, H. uvarum, and Starm. bacillaris by EMA-qPCR analysis and
+
+T
+
+RT-qPCR analysis. The efficiency was calculated by the formula 10-1/slope -1. Mean and
+
+NU
+
+TE
+CE
+P
+AC
+
+R2
+0.9943±0.0061
+0.9909±0.0005
+0.9976±0.0037
+0.9912±0.0152
+0.9796±0.0021
+0.9870±0.0009
+0.9964±0.0030
+0.9923±0.0006
+
+SC
+R
+
+Slope
+Intersection
+-2.8250±0.2490 36.924±0.813
+-3.4097±0.0807 42.319±0.484
+-3.2230±0.0198 38.599±0.103
+-3.8530±0.3224 47.819±2.024
+-2.4045±0.0770 30.095±0.3734
+-2.9293±0.0741 40.454±0.479
+-3.1147±0.1020 41.340±0.4815
+-3.3408±0.0364 37.036±0.3539
+
+MA
+
+Yeast
+Total yeast
+S. cerevisiae
+EMA-qPCR
+H. uvarum
+Starm. bacillaris
+Total yeast
+S. cerevisiae
+RT-qPCR
+H. uvarum
+Starm. bacillaris
+
+D
+
+Technique
+
+IP
+
+standard deviation of triplicate qPCR amplifications are shown.
+
+Efficiency (%)
+125.93±23.17
+96.46±3.21
+104.30±0.89
+81.78±9.06
+160.55±8.00
+119.47±4.39
+109.44±5.21
+99.22±1.48
+
+ACCEPTED MANUSCRIPT
+20
+
+Table 2. Ct values for a dilution series of live or dead cells by EMA-QPCR. Cell
+concentration is expressed as log units, and Ct values were shown as mean ± standard
+
+T
+
+deviation of triplicate qPCR amplifications. The significance level for One-Way ANOVA
+
+17.89±0.04
+22.70±0.00
+25.12±0.16
+28.70±0.17
+31.94±0.35
+16.25±0.10
+18.98±0.08
+22.33±0.16
+26.01±0.34
+28.85±0.21
+20.83±0.09
+24.14±0.01
+29.15±0.25
+32.97±0.01
+35.68±0.71
+
+28.76±0.38
+29.23±0.21
+31.65±0.04
+31.81±0.01
+34.19±0.01
+24.39±0.09
+30.87±0.19
+31.53±0.59
+32.98±0.18
+32.95±0.82
+30.63±0.16
+33.95±0.74
+35.21±0.46
+37.49±0.50
+38.00±0.01
+
+CE
+P
+
+Variation between Variation within
+live & dead cells live & dead cells
+117.61
+0.07
+42.60
+0.02
+44.09
+0.01
+14.87
+0.01
+4.00
+0.06
+66.34
+0.01
+141.25
+0.02
+84.82
+0.19
+48.58
+0.07
+16.77
+0.36
+97.42
+0.02
+96.33
+0.27
+31.08
+0.14
+20.43
+0.13
+5.41
+1.46
+
+SC
+R
+
+Dead
+
+D
+
+MA
+
+NU
+
+Live
+
+AC
+
+Cell
+concentration
+S. cerevisiae
+7
+6
+5
+4
+3
+H. uvarum
+7
+6
+5
+4
+3
+Starm. bacillaris
+7
+6
+5
+4
+3
+
+TE
+
+Species
+
+IP
+
+calculation was 0.05.
+
+F
+
+Significance
+
+1599.65
+1893.26
+3391.51
+1020.81
+63.92
+7270.25
+6472.08
+457.40
+652.09
+45.98
+5582.63
+356.23
+225.18
+162.08
+3.69
+
+0.001
+0.001
+<0.001
+0.001
+0.015
+<0.001
+<0.001
+0.002
+0.002
+0.021
+<0.001
+0.003
+0.004
+0.006
+0.195
+
+ACCEPTED MANUSCRIPT
+21
+
+Table 3. Chemical composition of grape must main components at different fermentation
+stages. The values are means of duplicate analysis.
+
+0.00
+10.00
+13.99
+
+0.10
+6.94
+8.07
+
+NU
+MA
+D
+TE
+CE
+P
+
+Acetic acid g/L
+
+T
+
+117.40
+34.22
+1.09
+
+Glycerol g/L
+
+SC
+R
+
+116.60
+24.44
+0.27
+
+AC
+
+0
+6
+11
+
+Fructose g/L Ethanol % vol
+
+IP
+
+Day Glucose g/L
+
+0.00
+0.12
+0.26
+
+ACCEPTED MANUSCRIPT
+22
+
+Table 4. Yeast quantification on day 6 and 11 by culture-dependent (microbiological analysis)
+and culture-independent techniques (EMA-qPCR and RT-qPCR). The values of populations in
+
+T
+
+the table are the average from duplicate fermentation and expressed as cfu/mL (plate counting)
+
+IP
+
+or cells/mL (qPCR methods), nd means not detectable. The significance level for One-Way
+
+technique by post-hoc Tukey test.
+
+SC
+R
+
+ANOVA calculation was 0.05. * The mean difference was significant from culture-dependent
+
+Yeast
+
+WL and
+LM plates
+
+EMA-qPCR
+
+RT-qPCR
+
+6
+
+Total yeast
+S. cerevisiae
+H. uvarum
+Starm.bacillaris
+Total yeast
+S. cerevisiae
+H. uvarum
+Starm.bacillaris
+
+5.71×107
+3.03×107
+nd
+2.68×107
+3.50×107
+3.50×107
+nd
+nd
+
+2.08×107
+2.79×107
+3.16×105 *
+1.52×107
+1.41×107
+2.60×107
+6.50×105 *
+1.88×106 *
+
+1.08×108
+6.03×106
+9.10×105 *
+5.40×105 *
+1.08×108
+4.33×106 *
+4.28×105 *
+4.42×105 *
+
+MA
+
+D
+
+TE
+
+CE
+P
+AC
+
+11
+
+Variation
+between
+techniques
+0.28
+0.30
+21.67
+1.72
+0.40
+0.48
+21.84
+23.39
+
+NU
+
+Day
+
+Variation
+within
+techniques
+0.04
+0.03
+0.06
+0.03
+0.01
+0.02
+<0.01
+0.07
+
+F
+
+Significance
+
+6.45
+9.20
+392.29
+60.81
+66.69
+36.61
+28285.08
+338.84
+
+0.082
+0.053
+<0.001
+0.004
+0.004
+0.008
+<0.001
+<0.001
+
+ACCEPTED MANUSCRIPT
+
+MA
+
+NU
+
+SC
+R
+
+IP
+
+T
+
+23
+
+Figure 1. Culturable S. cerevisiae (Uvaferm BC), H. uvarum, and Starm. bacillaris
+
+D
+
+populations during grape must fermentation as determined by plating on WL nutrient agar and
+
+AC
+
+CE
+P
+
+TE
+
+Lysine medium. The values are the mean of duplicates.
+
+ACCEPTED MANUSCRIPT
+
+SC
+R
+
+IP
+
+T
+
+24
+
+NU
+
+Figure 2. Detection of viable cells from eight different mixtures of S. cerevisiae (sacc), H.
+uvarum (huv) and Starm. bacillaris (star) by EMA-PCR-DGGE. M, DNA marker made with
+
+MA
+
+the three pure species; Lanes 1-11 represent samples of different cell and population mixtures:
+1, 107sacc+103huv+105star; 2, 107sacc+105huv+105star; 3, 107sacc+103huv+103star; 4,
+5,
+
+103sacc+107huv+107star;
+
+D
+
+107sacc+105huv+103star;
+
+6,
+
+103sacc+107huv+105star;
+
+AC
+
+CE
+P
+
+TE
+
+103sacc+105huv+107star; 8, 103sacc+105huv+105 star; 9, 107sacc; 10, 107huv; 11, 107star.
+
+7,
+
+ACCEPTED MANUSCRIPT
+
+SC
+R
+
+IP
+
+T
+
+25
+
+NU
+
+Figure 3. Detection of viable cells of samples from grape must fermentation by
+EMA-PCR-DGGE and RT-PCR-DGGE analysis. Ma, marker containing mixed DNA of three
+
+MA
+
+pure species; Mb, marker containing mixed cDNA of three pure species; Lanes 1-14 were
+obtained with DNA (1-7) or cDNA (8-14) templates from different samples: 1 and 14, 107 S.
+
+D
+
+cerevisiae; 2 and 13, 107 H. uvarum; 3 and 12, 107 Starm. bacillaris; 4, 5, 8 and 9, samples of
+
+TE
+
+day 6 from duplicate fermentations; 6, 7, 10 and 11, samples of day 11 from duplicate
+
+AC
+
+CE
+P
+
+fermentations.
+
+ACCEPTED MANUSCRIPT
+26
+
+AC
+
+CE
+P
+
+TE
+
+D
+
+MA
+
+NU
+
+SC
+R
+
+IP
+
+T
+
+Highlights
+Wine yeast has been analysed by culture dependent and independent methods.
+Non-Saccharomyces species can be detected after lack of culturability.
+Use of rRNA or membrane integrity yield very different results.
+rRNA degradation is probably different in the three species tested.
+
+

@@ -1,0 +1,651 @@
+Letters in Applied Microbiology ISSN 0266-8254
+
+ORIGINAL ARTICLE
+
+Inhibitory activity of tea polyphenol and Hanseniaspora
+uvarum against Botrytis cinerea infections
+H.M. Liu, J.H. Guo, Y.J. Cheng, P. Liu, C.A. Long and B.X. Deng
+National Centre of Citrus Breeding, Key Laboratory of Horticultural Plant Biology of Ministry of Education, Huazhong Agriculture University,
+Wuhan, Hubei, China
+
+Keywords
+antagonistic yeast, biological control, grape,
+Hanseniaspora uvarum, tea polyphenol.
+Correspondence
+Chao’an Long, National Centre of Citrus
+Breeding, Key Laboratory of Horticultural
+Plant Biology of Ministry of Education,
+Huazhong Agriculture University, Wuhan,
+Hubei 430070, China. E-mail:
+postharvest@mail.hzau.edu.cn
+
+2010 ⁄ 0086: received 18 January 2010,
+revised 2 June 2010 and accepted 10 June
+2010
+doi:10.1111/j.1472-765X.2010.02888.x
+
+Abstract
+Aims: To investigate the effect of tea polyphenol (TP) and Hanseniaspora
+uvarum alone or in combination against Botrytis cinerea in grapes and to evaluate the possible mechanisms involved.
+Methods and Results: TP alone was effective in controlling grey mould in
+grape at all concentrations. TP at 0Æ5 and 1Æ0% in combination with H. uvarum
+(1 · 106 CFU ml)1) showed a lower infection rate of grey mould. TP at 0Æ01%
+or above significantly inhibited the spore germination of B. cinerea. TP at 0Æ1%
+showed inhibition ability on mycelium growth of B. cinerea. The addition of
+TP did not affect the growth of H. uvarum in vitro and significantly increased
+the population of H. uvarum in vivo.
+Conclusions: TP exhibited an inhibitory effect against B. cinerea and improved
+the biocontrol efficacy of H. uvarum. The inhibitory effects of spore germination and mycelial growth of B. cinerea and the increased populations of
+H. uvarum in vivo may be some of the important mechanisms of TP.
+Significance and Impact of the Study: The results suggested that TP alone or
+in combination with biocontrol agents has great potential in the commercial
+management of postharvest diseases of fruits.
+
+Introduction
+Grey mould caused by Botrytis cinerea is one of the most
+destructive postharvest diseases of grapes (Cappellini et al.
+1986; La Guerche et al. 2007; Latorre 2007). Antagonist
+yeast has shown potential as an alternative measure to
+synthetic fungicides for disease control (Ippolito et al.
+2000; Smilanick 2004). However, their biocontrol efficacy
+under semi-commercial conditions is often lower than
+synthetic fungicides (Droby et al. 1998; Spadaro and Gullino 2004). To substitute synthetic fungicides, more environment-friendly compounds should be developed as
+alternative control methods for postharvest diseases.
+Tea polyphenol (TP), a safe natural product, has been
+shown to have antimicrobial activity against human and
+animal disease-related bacteria, food-borne bacteria
+(Diker et al. 1991; Linke and LeGeros 2003; Bandyopadhyay et al. 2005; Si et al. 2006), pathogenic viruses
+(Cheng et al. 2002; Liu et al. 2005; Xu et al. 2008), phytopathogenic bacteria (Fukai et al. 1991) and pathogenic
+258
+
+fungi (Toyoshima et al. 1993; Hirasawa and Takada 2004;
+Liu et al. 2010b). However, little information is available
+regarding effect of TP on grey mould of grape and
+improvement of the biocontrol effect of antagonist
+Hanseniaspora uvarum. We found that H. uvarum was an
+effective antagonist against grey mould of grape (Liu et al.
+2010a,c). The objectives of the present work were as follows: (i) to assess the potential of TP to enhance the
+efficacy of H. uvarum against grey mould in vivo; (ii) to
+determine the effect of TP on the spore germination and
+mycelial growth of B. cinerea; (iii) to evaluate the effect
+of TP on the growth of H. uvarum in vitro and in vivo.
+Materials and methods
+Plant material
+Grape berries (Vitis vinifera L. Kyoho) were harvested
+from the vineyard in Huazhong Agricultural University
+and selected on size and the absence of physical injuries
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+H.M. Liu et al.
+
+or infections. Prior to use, the fruit was surface disinfected with 2% (v ⁄ v) sodium hypochlorite for 5 min, rinsed
+with tap water and dried in air.
+Yeast antagonist and pathogen
+H. uvarum was isolated from the surface of grape with the
+method of Wilson and Chalutz (1989) and identified by
+morphological, physiological experiments and ITS analysis
+(GQ480362). The yeast was cultured in yeast peptone
+dextrose (YPD) for 48 h at 25C. Then the cells were
+collected by centrifugation at 6000 g for 10 min. The cell
+suspensions were adjusted to concentrations of 1 · 106 or
+1 · 108 CFU ml)1, respectively, with sterile distilled water.
+B. cinerea was purchased from the China Center for
+Type Culture Collection (CCTCC) in Wuhan University
+and maintained on potato dextrose agar (PDA) at 25C.
+Spore suspensions were prepared by flooding 7-day-old
+PDA cultures with sterile distilled water. Spore concentrations were determined with a haemocytometer and
+adjusted to the required concentrations.
+Chemicals product
+The green TP, with a total TP content of more than
+99Æ3% (analysed by HPLC), was purchased from Nanjing
+Qingze Medical Technological Development Co. Ltd
+(China). It was supplied as a fine powder (through 80
+mesh) and prepared 1 week before we bought it.
+Effect of TP and H. uvarum on controlling grey mould
+in grapes
+Grapes were wounded (about 3 mm deep · 3 mm diameter) on the equator by sterile dissecting needles (3 mm).
+Each wound was added with 20 ll of the treatment suspensions as follows: TP (0Æ01, 0Æ05, 0Æ1, 0Æ5 and 1Æ0%,
+respectively), TP (0Æ01, 0Æ05, 0Æ1, 0Æ5 and 1Æ0%) in combination with H. uvarum (1 · 106 CFU ml)1), H. uvarum
+(1 · 106 CFU ml)1) and H. uvarum (1 · 108 CFU ml)1).
+Fruit treated with sterile distilled water acted as controls.
+After 2 h, 20 ll of B. cinerea at 1 · 106 conidia ml)1 was
+inoculated into each wound. Treated fruits were put in
+an incubator at 28C and 90 ± 5% relative humidity
+(r.h.). Disease incidence was determined by counting the
+number of infected wounds after 4 days. There were 100
+berries in each replication and three replicates in each
+treatment. The experiment was repeated twice.
+
+Tea polyphenol inhibited Botrytis cinerea infections
+
+microlitres of pathogen suspensions (1 · 106 conidia ml)1) was transferred to 50 ml of PDB, which contained different concentrations of TP (0, 0Æ01, 0Æ05, 0Æ1,
+0Æ5 and 1Æ0%). All flasks were put on a rotary shaker at
+200 rev min)1 at 28C and incubated for 12 h. Conidia
+germination rates were determined microscopically.
+Approximately 100 conidia per replicate were measured
+for germination, and at least five microscope fields were
+observed. Conidia were considered germinated when germ
+tubes exceeded the conidium diameter. Each treatment
+was replicated three times, and the experiment was
+repeated twice.
+Effect of TP on mycelium growth of B. cinerea in vitro
+To assess the effect of TP on mycelium growth of B. cinerea, PDA containing different concentrations of TP (0,
+0Æ01, 0Æ05, 0Æ1, 0Æ5 and 1Æ0%) was divided equally (20 ml)
+into each Petri dish (90 mm in diameter). A Petri dish was
+inoculated in the centre with a single 5-mm-diameter agar
+disc from the margin of a 7-day-old colony of B. cinerea.
+The plates were incubated at 28C, and colony diameter
+was determined after 4 days. Each treatment was replicated
+three times, and the experiment was repeated twice.
+Effect of TP on growth of H. uvarum in vitro and
+in vivo
+YPD were autoclaved (120C, 15 min) prior to adding 0,
+0Æ01, 0Æ05, 0Æ1, 0Æ5 and 1Æ0% TP and cell suspensions of
+H. uvarum (1 ml) to reach an initial concentration of
+1 · 106 CFU ml)1, and then incubated at 28C for 48 h.
+The number of CFU of the yeast was determined by dilution plating 48 h after incubation at 28C and expressed
+as Log10 CFU ml)1. There were three replicates per treatment, and the experiment was conducted twice.
+For the in vivo population dynamics study, the fruit
+were wounded as described earlier. Twenty microlitres of
+H. uvarum (1 · 106 CFU ml)1) alone or in combination
+with TP (0, 0Æ01, 0Æ05, 0Æ1, 0Æ5 and 1Æ0%) was pipetted on
+to the wounds. Treated fruits were incubated at 28C
+and 90 ± 5% RH. Tissue samples were removed from five
+single fruit with a sterile cork borer (approximately 5 mm
+deep · 5 mm diameter) at 48 h and homogenized in 5 ml
+of sterile distilled water, and then plated 100 ll of a 10-fold
+dilution on YPD. Colonies were counted after incubation
+at 28C as described earlier. There were three replicates per
+treatment, and the experiment was conducted twice.
+
+Effect of TP on conidia germination of B. cinerea in
+vitro
+
+Statistical analysis
+
+The inhibition of conidia germination of B. cinerea by TP
+was assayed in potato dextrose broth (PDB). Hundred
+
+The data were analysed by analysis of the variance (anova). Mean separations were performed using Duncan’s
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+259
+
+Tea polyphenol inhibited Botrytis cinerea infections
+
+H.M. Liu et al.
+
+multiple range test. Differences at P £ 0Æ05 were considered as significant.
+
+The spore germination rate of B. cinerea was significantly
+lower in the TP-treated (all concentrations) samples than
+the control. The highest inhibitory rate on spore germination was recorded at 1Æ0% TP (P < 0Æ05).
+
+Results
+
+Effect of TP on mycelial growth of B. cinerea in vitro
+
+Effect of TP and H. uvarum on controlling grey mould
+in grape
+
+The effect of TP on mycelial growth of B. cinerea in vitro
+is shown in Fig. 3. Mycelium growth was significantly
+inhibited by TP at 0Æ1, 0Æ5 and 1%, but not by TP at 0Æ01
+and 0Æ05%. The highest inhibitory rate on mycelium
+growth was recorded at 1Æ0% TP (P < 0Æ05).
+
+As shown in Fig. 1, treatment with TP alone resulted in
+significantly lower disease incidence of grey mould on
+grape compared with the controls. The addition of TP to
+H. uvarum markedly enhanced the biocontrol efficacy
+against grey mould. The combined treatment of H. uvarum (1 · 106 CFU ml)1) with TP (0Æ5 and 1Æ0%) was
+effective as 1 · 108 CFU ml)1 H. uvarum alone, and
+better than H. uvarum (1 · 106 CFU ml)1) alone.
+
+Effect of TP on population dynamics of H. uvarum
+in vitro and in vivo
+There was different effect on the growth of H. uvarum
+between in YPD medium and wounds of grapes
+(Table 1). Adding TP did not significantly influence the
+growth of H. uvarum in YPD medium. While in the presence of TP at 0Æ5% or above, the populations of H. uvarum increased in wounds.
+
+Inhibitory effect of TP on spore germination of B. cinerea in vitro
+As shown in Fig. 2, treatment with TP showed inhibitory
+effects on the spore germination of B. cinerea in vitro.
+
+g
+
+Disease incidence (%)
+
+100
+80
+f
+
+60
+
+20
+
+e
+
+d
+
+40
+
+f
+
+f
+
+cd
+
+cd
+
+c
+
+b
+
+a
+
+a
+
+a
+
+0
+C
+
+B
+
+A
+
+D
+
+E
+
+F
+
+G
+
+H
+
+Treatments
+Figure 1 Disease incidence of gray mold in grape fruits at 28C for 4 d as affected by various treatments: (a–e) Tea polyphenol (0Æ01, 0Æ05, 0Æ1,
+0Æ5 and 1Æ0%) alone (h); or combined with Hanseniaspora uvarum (1 · 106 CFU ml)1) ( ); (f) H. uvarum (1 · 106 CFU ml)1); (g) H. uvarum
+(1 · 108 CFU ml)1); (h) control (distilled water).Vertical bars represent standard deviations of the means. Data in columns with different letters are
+significantly different according to Duncan’s multiple range test at P £ 0Æ05.
+
+Conidia germination (%)
+
+100·00
+
+a
+
+80·00
+
+b
+
+b
+
+60·00
+c
+
+40·00
+
+d
+
+20·00
+0·00
+
+e
+0
+
+0·01
+
+0·05
+
+0·1
+
+Tea polyphenol concentrations (%)
+
+260
+
+0·5
+
+1·0
+
+Figure 2 Effect of tea polyphenol at various
+concentrations on spore germination of Botrytis
+cinerea in vitro at 28C. Bar represent standard
+deviations of the means. Data in columns with
+different letters are significantly different according to Duncan’s multiple range test at P £ 0Æ05.
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+H.M. Liu et al.
+
+Tea polyphenol inhibited Botrytis cinerea infections
+
+Figure 3 Effect of tea polyphenol at various
+concentrations on mycelium growth of
+Botrytis cinerea in vitro at 28C. Bar represent
+standard deviations of the means. Data in
+columns with different letters are significantly
+different according to Duncan’s multiple
+range test at P £ 0Æ05.
+
+Colony diameters (mm)
+
+70·00
+
+a
+
+c
+
+d
+
+20·00
+10·00
+0·00
+0
+
+0·01
+
+0·05
+
+0·1
+
+0·5
+
+1·0
+
+Tea polyphenol concentration (%)
+
+Tea polyphenol
+concentration (%)
+
+In vitro
+(Log 10 CFU ml)1)
+
+In vivo
+(Log 10 CFU ml)1)
+
+0
+0Æ01
+0Æ05
+0Æ1
+0Æ5
+1
+
+7Æ65
+7Æ61
+7Æ60
+7Æ47
+7Æ41
+7Æ22
+
+6Æ51
+6Æ62
+6Æ93
+7Æ25
+8Æ19
+8Æ82
+
+a
+a
+a
+a
+a
+a
+
+b
+
+40·00
+30·00
+
+Population growth
+
+0Æ19
+0Æ12
+0Æ14
+0Æ16
+0Æ22
+0Æ17
+
+ab
+
+50·00
+
+Table 1 Effect of tea polyphenol at various concentrations on growth
+of Hanseniaspora uvarum in vitro and in vivo
+
+±
+±
+±
+±
+±
+±
+
+a
+
+60·00
+
+±
+±
+±
+±
+±
+±
+
+0Æ15
+0Æ13
+0Æ17
+0Æ21
+0Æ09
+0Æ11
+
+a
+a
+a
+a
+b
+c
+
+Data are treatment means of pooled data ± standard errors.
+Values of each column followed by different letters are significantly
+different at P £ 0Æ05 according to Duncan’s multiple range tests.
+
+Discussion
+Results from our experiments showed that the significant
+control effects against grey mould were achieved with TP
+(Fig. 1). Similar inhibitory effects were reported on
+several human and animal disease-related bacteria, phytopathogenic bacteria and pathogenic fungal. Friedman
+(2007) reported that TP exhibited inhibitory effects
+against Bacillus cereus. Jeong et al. (2009) showed that
+catechol significantly inhibited the growth of Clostridium
+perfringens, Clostridium difficile and Escherichia coli. Liu
+et al. (2010b) observed that TP had an obvious inhibitory
+effect against stem-end rot caused by D. natalensis. Moreover, we found that the combined treatment of H. uvarum (1 · 106 CFU ml)1) with TP (0Æ5 and 1Æ0%) could
+significantly reduce grey mould on grape in comparison
+with application of H. uvarum (1 · 106 CFU ml)1) or TP
+alone. This result suggests that TP enhanced the biocontrol activity of H. uvarum against grey mould caused by
+B. cinerea. This result was in accordance with previous
+reports of Liu et al. (2010b), who found that the addition
+of TP greatly enhanced the biocontrol efficacy of C. ernobii against stem-end rot of citrus.
+In our experiment, the spore germination of B. cinerea
+was significantly inhibited by TP at all concentrations
+
+(Fig. 2). Furthermore, mycelium growth was significantly
+inhibited by TP at 0Æ1% and above (Fig. 3). The beneficial
+effect of TP on inhibiting spore germination and mycelium growth was also observed by Park et al. (2006) and
+Wang et al. (2008), who reported that the spore germination and mycelium growth of Bipolaris maydis, Colletotrichum musae, Fusarium oxysporum f.sp. and C. albicans
+were significantly inhibited by TP, and by Hara-Kudo
+et al. (2005), who reported that green tea catechins (the
+major compound of green TP) showed antibacterial
+action on pathogenic bacteria spore, such as Clostridium
+botulinum and Clostridium butyricum. Moreover, we
+observed that TP significantly inhibited the spore germination and mycelium growth of D. natalensis in the previous study. These results suggest that the inhibitory effect
+on spore germination and mycelium growth may be one
+of the major mechanisms of TP inhibiting postharvest
+fungal disease. However, the precise interaction between
+TP and the spore or hypha of postharvest fungal pathogens is still unknown and needs to be further studied.
+In this study, the addition of TP did not affect the
+growth of H. uvarum in vitro and significantly increased
+the population of H. uvarum in vivo (Table. 1). Our
+results showed that the increased population of H. uvarum may be related to the enhanced biocontrol efficacy of
+H. uvarum. Moreover, the environment of the wounds
+was more complex than that of YPD. The differences in
+vitro and in vivo showed that specific salt–host tissue
+interactions may involve biochemical reactions. It was
+reported that TP promoted the scavenging of ROS and
+exhibited the antioxygenic property (Friedman 2007). The
+differences could be correlated with the mechanisms of
+TP (Liu et al. 2010b).
+Our results indicated that TP significantly inhibited the
+infection of postharvest pathogen and greatly enhanced
+the growth of antagonist. The results were similar to
+those of Ishihara et al. (2001), who observed that green
+TP decreased the population of harmful bacteria such as
+Fusobacterium and increased the growth of beneficial
+bacteria such as Lactobacillus and Bifidobacteria. Ahn et al.
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+261
+
+Tea polyphenol inhibited Botrytis cinerea infections
+
+(2005) reported that TP not only helped to kill the intestinal pathogens but also promoted the growth of beneficial flora in the intestine such as Bifidobacteria. Moreover,
+we observed that TP had an obvious inhibitory effect
+against stem-end rot and enhanced the growth of C. ernobii in the previous study. It is therefore inferred that the
+antimicrobial activity of TP has selectivity, which could
+inhibit the growth of pathogens and keep a balance of
+beneficial flora.
+TP is a natural extract of tea and an environmentally
+safe and inexpensive reagent. The present work showed
+that TP exhibited inhibitory effect against postharvest
+fungal disease. Therefore, TP could be used to improve
+the efficacy of H. uvarum. TP has great potential in commercial development. The inhibitory effects of TP on
+spore germination and mycelial growth of B. cinerea and
+the increased populations of H. uvarum in vivo may be
+some of the important mechanisms of TP. Further
+research will focus on the mechanisms of TP against
+fungal pathogens at the molecular level.
+Acknowledgements
+Our research was supported by Innovative Research Team
+of National Natural Science Foundation of China (no.
+30921002).
+References
+Ahn, Y.J., Kawamura, T., Kim, M., Yamamoto, T. and
+Mistuoka, T. (2005) Tea polyphenols: selective growth
+inhibitors of Clostridium sp. Agr Biol Chem Tokyo 55,
+1425–1426.
+Bandyopadhyay, D., Chatterjee, T.K., Dasgupta, A., Lourduraja, J. and Dastidar, S.G. (2005) In vitro and in vivo antimicrobial action of tea: the commonest beverage of Asia. Biol
+Pharm Bull 28, 2125–2127.
+Cappellini, R.A., Ceponis, M.J. and Lightner, G.W. (1986) Disorders in table grape shipments to the New York market
+1972-1984. Plant Dis 70, 1075–1079.
+Cheng, H.Y., Lin, C.C. and Lin, T.C. (2002) Antiviral properties of prodelphinidin B-2, 3¢-O-gallate from green tea leaf.
+Antivir Chem Chemother 13, 223–229.
+Diker, K.S., Akan, M., Hascelik, G. and Yurdakok, M.
+(1991) The bactericidal activity of tea against Compylobacter jejuni and Campylobacter coli. Lett Appl Microbiol
+12, 34–35.
+Droby, S., Cohen, L., Daus, A. and Weiss, B. (1998) Commercial testing of Aspire: a yeast preparation for the biological
+control of postharvest decay of citrus. Biol Control 12,
+97–101.
+Friedman, M. (2007) Overview of antibacterial, antitoxin,
+antiviral, and antifungal activities of tea flavonoids and
+teas. Mol Nutr Food Res 51, 116–134.
+
+262
+
+H.M. Liu et al.
+
+Fukai, K., Ishigami, T. and Hara, Y. (1991) Antibacterial activity of tea polyphenol against phytopathogenic bacteria. Agr
+Biol Chem Tokyo 44, 1895–1897.
+Hara-Kudo, Y., Yamasaki, A., Susaki, M., Okubo, T., Minai, Y.,
+Haga, M., Kondo, K. and Sugita-Konishi, Y. (2005) Antibacterial action on pathogenic bacterial spore by green tea
+catechins. J Sci Food Agr 85, 2354–2361.
+Hirasawa, M. and Takada, K. (2004) Multiple effects of green
+tea catechin on the antifungal activity of antimycotics
+against Candida albicans. J Antimicrob Chemother 53, 225–
+229.
+Ippolito, A., El-Ghaouth, A. and Wilson, C.L. (2000) Control
+of postharvest decay of apple fruit by Aureobasidium pullulans and induction of defense responses. Postharvest Biol
+Technol 19, 265–272.
+Ishihara, N., Chu, D.C., Akachi, S. and Juneja, L.R. (2001)
+Improvement of intestinal balance and prevention of
+digestive and respiratory organ diseases in calves by green
+tea extracts. Livest Prod Sci 68, 217–229.
+Jeong, E.Y., Jeon, J.H., Lee, C.H. and Lee, H.S. (2009) Antimicrobial activity of catechol isolated from Diospyros kaki
+Thunb. Roots and its derivatives toward intestinal bacteria.
+Food Chem 115, 1006–1010.
+La Guerche, S., De Senneville, L., Blancard, D. and Darriet, P.
+(2007) Impact of the Botrytis cinerea strain and metabolism on (-)-geosmin production by Penicillium expansum
+in grape juice. Antonie Van Leeuwenhoek 92, 331–341.
+Latorre, B.A. (2007) Grey mould (Botrytis cinerea), a limiting
+factor for table grape production in Chile. Fitopatologia 42,
+9–20.
+Linke, H.A. and LeGeros, R.Z. (2003) Black tea extract and
+dental caries formation in hamsters. Int J Food Sci Nutr
+54, 89–95.
+Liu, S., Lu, H., Zhao, Q. and He, Y. (2005) Theaflavin derivatives in black tea and catechin derivatives in green tea
+inhibit HIV-1 entry by targeting gp41. Biochim Biophys
+Acta 1723, 270–281.
+Liu, H.M., Guo, J.H., Cheng, Y.J., Luo, L., Liu, P., Wang,
+B.Q., Deng, B.X. and Long, C.A. (2010a) Control of grey
+mould of grape by Hanseniaspora uvarum and its effects
+on postharvest quality parameters. Ann Microbiol 60, 31–
+35.
+Liu, H.M., Guo, J.H., Liu, P., Cheng, Y.J., Wang, B.Q., Long,
+C.A. and Deng, B.X. (2010b) Inhibitory activity of tea
+polyphenol and Candida ernobii against Diplodia natalensis
+infections. J Appl Microbiol 108, 1066–1072.
+Liu, H.M., Guo, J.H., Luo, L., Liu, P., Wang, B.Q., Cheng,
+Y.J., Long, C.A. and Deng, B.X. (2010c) Improvement of
+Hanseniaspora uvarum biocontrol activity against grey
+mould by the addition of ammonium molybdate and the
+possible mechanisms involved. Crop Prot 29, 277–282.
+Park, B.J., Park, J.C., Taguchi, H., Fukushima, K., Hyon, S.H.
+and Takatori, K. (2006) Antifungal susceptibility of epigallocatechin 3-O-gallate (EGCg) on clinical isolates of pathogenic yeasts. Biochem Biophys Res Commun 347, 401–405.
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+H.M. Liu et al.
+
+Si, W., Gong, J., Tsao, R., Kalab, M., Yang, R. and Yin, Y.L.
+(2006) Bioassay-guided purification and identification of
+antimicrobial components in Chinese green tea extract. J
+Chromatogr 1125, 204–210.
+Smilanick, J.L. (2004) Postharvest diseases of fruits and vegetables: development and control. Postharvest Biol Technol 31,
+213–214.
+Spadaro, D. and Gullino, M.L. (2004) State of the art and
+future prospects of the biological control of postharvest
+fruit diseases. Int J Food Microbiol 91, 185–194.
+Toyoshima, Y., Okubo, S., Toda, M., Hara, Y. and Shimamura,
+T. (1993) Effect of catechin on the ultrastructure of Trich-
+
+Tea polyphenol inhibited Botrytis cinerea infections
+
+ophyton mentagrophytes. Kansenshogaku Zasshi 68, 295–
+303.
+Wang, J.L., Qu, Y.X., Chen, H.W., Lu, H., Lin, X.H. and Ma,
+L.R. (2008) Inhibitive action of tea polyphenol on some
+plant pathogenic fungi. Nat Prod Res Dev 20, 690–694.
+Wilson, C.L. and Chalutz, E. (1989) Postharvest biological
+control of Penicillium rots of citrus with antagonistic yeasts
+and bacteria. Sci Hortic 40, 105–112.
+Xu, J., Wang, J., Deng, F., Hu, Z.H. and Wang, H.L. (2008)
+Green tea extract ant its major component epigallocatechin
+gallate inhibits hepatitis B virus in vitro. Antiviral Res 78,
+242–249.
+
+ª 2010 The Authors
+Journal compilation ª 2010 The Society for Applied Microbiology, Letters in Applied Microbiology 51 (2010) 258–263
+
+263
+
+

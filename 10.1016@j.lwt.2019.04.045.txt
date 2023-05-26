@@ -1,0 +1,1955 @@
+LWT - Food Science and Technology 109 (2019) 241–249
+
+Contents lists available at ScienceDirect
+
+LWT - Food Science and Technology
+journal homepage: www.elsevier.com/locate/lwt
+
+Impact of co-inoculation of Saccharomyces cerevisiae, Hanseniaspora uvarum
+and Oenococcus oeni autochthonous strains in controlled multi starter grape
+must fermentations
+
+T
+
+Vittorio Capozzia,1, Carmen Berbegala,1, Maria Tufariellob, Francesco Griecoc, Giuseppe Spanob,
+Francesco Griecob,∗
+a
+b
+c
+
+Department of the Sciences of Agriculture, Food and Environment, University of Foggia, Foggia, Italy
+CNR – Institute of Sciences of Food Production (ISPA), via Prov.le, Lecce-Monteroni, 73100, Lecce, Italy
+CNR - Istituto di Scienze delle Produzioni Alimentari (ISPA), via G. Amendola, 122/O, 70126, Bari, Italy
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Wine
+Mixed-starter
+Hanseniaspora uvarum
+Oenococcus oeni
+Autochthonous yeast
+
+The use of multi-species starter cultures is an approach of increasing signiﬁcance for winemakers in order to
+improve the general quality and safety of the ﬁnal product. As ﬁrst step of the present study, we isolated and
+characterize two Saccharomyces cerevisiae yeast starter strains, denoted as ITEM 167292 and ITEM 17293, from
+natural must fermentations of “Negroamaro” grapes. As second step, we studied the interactions during grape
+must fermentation between these two strains, the Hanseniaspora uvarum strain ITEM 8785 and ﬁve autochthonous Oenococcus oeni strains, by microbial counts and by quantifying L-malic acid and ethanol concentrations. The best performing O. oeni strain, namely OT4, was used to create, with the H. uvarum strain ITEM
+8785, two mixed starter formulations with the strains ITEM 167292 and ITEM 17293. The three microbial
+species showed to be compatible and to complete the fermentative processes producing wines denoted by reduced acetic acid concentrations. The performance of the mixed starter formulations were then validated by
+carrying pilot-scale viniﬁcations. At the best of our knowledge, this report is the ﬁrst study regarding the utilization of selected H. uvarum/S. cerevisiae/O. oeni autochthonous strains in a simultaneous multi-starter inoculation for the industrial production of regional typical wines.
+
+1. Introduction
+Traditionally, the viniﬁcation process of red wines includes two
+essential stages, i.e. the alcoholic fermentation (AF) and the malolactic
+fermentation (MLF). During the AF, the sugars of the must are transformed into ethanol and this process is carried out by the yeasts,
+principally by Saccharomyces cerevisiae (Garofalo, Tristezza, Grieco,
+Spano, & Capozzi, 2016). However, non-Saccharomyces species have a
+role in the AF and they contribute to enhance the organoleptic properties of wine (Liu, Lu, Duan &Yan, 2016; Petruzzi et al., 2017). Several
+non-Saccharomyces species have been studied in mixed fermentations
+with the scope of adding peculiar features to the wine (Ciani, Beco, &
+Comitini, 2006; Ciani, Comitini, Mannazzu, & Domizio, 2009; Comitini
+et al., 2011; Suzzi et al., 2012; Tristezza et al., 2016b). These mixed
+cultures have an additional interest when they are formed by autochthonous selected yeasts, since they are adapted to the conditions of a
+
+speciﬁc wine-production area (Capozzi, Garofalo, Chiriatti, Grieco, &
+Spano, 2015; Lopes, Rodriguez, Sangorrin, Querol, & Caballero, 2007;
+Tofalo et al., 2016) and may ensure the maintenance of the typical
+oenological and sensory characteristics of wine (Rodríguez et al., 2010).
+The development of eﬃcient malolactic starter cultures is crucial for
+the oenological industry (Berbegal et al., 2016, Brizuela et al., 2018).
+Several are the strain-speciﬁc features requested for a malolactic starter
+culture, such as the capacity to stand low pH, high ethanol and SO2
+concentrations, the absence of biogenic amines production, the compatibility with yeast selected strains (Berbegal et al., 2016; Capozzi
+et al., 2010). Besides, a critical step in the employment of MLF starters
+is the time of inoculation. Lactic acid bacteria (LAB) starters can be coinoculated with yeast at the beginning of AF, or sequentially inoculated
+after the AF (Bartowsky, Costello, & Chambers, 2015). Several recent
+investigations have indicated that when bacteria are directly inoculated
+into the must they performed better than they when added after the end
+
+∗
+
+Corresponding author. National Research Council - Institute of Sciences of Food Production (ISPA), via Prov.le Lecce-Monteroni, 165 - 73100 Lecce, Italy.
+E-mail address: francesco.grieco@ispa.cnr.it (F. Grieco).
+1
+Both authors equally contributed to this work.
+https://doi.org/10.1016/j.lwt.2019.04.045
+Received 1 March 2019; Received in revised form 11 April 2019; Accepted 12 April 2019
+Available online 15 April 2019
+0023-6438/ © 2019 Elsevier Ltd. All rights reserved.
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+to the AF (Abrahamse & Bartowsky, 2011; Trani, Verrastro, Punzi,
+Faccia, & Gambacorta, 2016; Tristezza et al., 2016a). The H. uvarum
+ITEM 8795 was selected because of its contribution in increasing the
+wine organoleptic quality and reducing the volatile acidity (De
+Benedictis, Bleve, Grieco, Tristezza, & Tufariello, 2011). The oenological potential of this strain in co-inoculation and in a sequential inoculation with S. cerevisiae was also assessed by industrial wine production (Tristezza et al., 2016b).
+In the present investigation, we report the selection of Apulian autochthonous S. cerevisiae and O. oeni strains to design of a mixed starter
+culture with H. uvarum ITEM 8795 to simultaneously perform the AF
+and MLF. Furthermore, we evaluated the compatibility between the
+diﬀerent microorganisms employed in the autochthonous mixed starter
+culture and the best inoculation time of O. oeni strains. At the best of
+our knowledge, this study described, for the ﬁrst time the fermentative
+performance of a non-Saccharomyces/Saccharomyces/O. oeni mixed
+starter formulation.
+
+Table 1
+Main oenological and technological properties determined in 15 autochthonous
+S. cerevisiae strains.
+Isolate
+
+FP
+
+AYC
+
+AC
+
+H2S
+
+Foam
+
+P1
+P2
+P5
+P6
+P9
+P13
+P14
+P20
+P25
+P26
+P28
+P32
+P33
+P34
+P35
+Control
+
+0.04
+0.03
+0.03
+0.03
+0.04
+0.03
+0.03
+0.03
+0.04
+0.03
+0.03
+0.05
+0.03
+0.03
+0.03
+0.04
+
+0.62
+0.64
+0.64
+0.63
+0.59
+0.63
+0.63
+0.64
+0.64
+0.65
+0.65
+0.64
+0.65
+0.64
+0.65
+0.63
+
+12.6
+13.7
+14.0
+13.6
+12.5
+13.6
+13.6
+13.9
+13.8
+14.1
+14.1
+14.0
+14.0
+13.8
+14.1
+13.3
+
+++
++
++
++
+-
+
+++
++
+-
+
+2. Material and methods
+Data, measured at the end of fermentation, represent the average of three replicates. FP fermentation purity [volatile acidity (g/L)/ethanol (% v/v)], AYC
+alcohol yield coeﬁcient [alcohol (% v/v/initial sugars (%) -Final sugars (%)],
+AC alcohol content (% v/v). H2S and foam production: absent (-); low (+), high
+(++), very high (+++).
+
+2.1. Microorganisms
+Yeast strains used in the present study are deposited in Agro- Food
+Microbial Culture Collection of ISPA (http://www.ispacnr.it/collezionimicrobiche/). All yeast strains were cultured in YPD (Sigma-Aldrich,
+USA) and incubated at 28 °C 24–48 h. O. oeni strains were previously
+isolated from Nero di Troia wine (Capozzi et al., 2014) and they are
+deposited in the collection of the Industrial Microbiology Laboratory
+(University of Foggia). LAB strains were cultured in MRS broth (SigmaAldrich, USA) and incubated at 28 °C for 4–7 days.
+
+(respectively 104 CFU/mL and 106 CFU/mL). O. oeni strains were coinoculated (ethanol content 0%) or sequentially inoculated during AF,
+when ethanol content was 2%, 4%, 6%, 8%, 10% or 12% (v/v) with a
+ﬁnal concentration of 1 × 106 CFU/mL. The kinetics of the fermentations was monitored for 7 days. After AF, L-malic acid was determined
+by enzymatic kits (Biogamma, Italy).
+
+2.2. Yeast isolation and S. cerevisiae strains identiﬁcation
+
+2.5. Pilot-scale viniﬁcation
+
+The enological selection was carried out according to Tufariello
+et al. (2019) from spontaneous fermentations of Negroamaro grapes
+collected in the “Brindisi” PDO/DOC area. Brieﬂy, yeast isolates were
+ﬁrstly screened for their ability to produce hydrogen sulphide on Biggy
+agar (Sigma, USA). H2S-low producer isolates (i.e. white or light brown
+colonies) were selected for genetic characterization. The isolates were
+identiﬁed at species-level by PCR analysis or the ribosomal RNA region
+(Tufariello et al., 2019) and at strain-level by interdelta typing
+(Tristezza, Gerardi, Logrieco, & Grieco, 2009). The ampliﬁed DNA
+products were visualized and analyzed by agarose gel electrophoresis
+(Hay et al., 1994).
+
+The viniﬁcation was carried out in an experimental cellar using
+sterile stainless steel 100-L vessels by inoculating 90 L of Negroamaro
+must (18.9° Babo; pH 3.22; nitrogen 176.4 g/L), as single or mixed
+inoculum with 106 CFU/mL of H. uvarum ITEM 8795, 104 CFU/mL of S.
+cerevisiae ITEM 17292 or ITEM 17293 and 106 CFU/mL of O. oeni OT4.
+The dynamics of the alcoholic fermentation process was daily monitored and samples of wines were stored at −20 °C for further analyses.
+2.6. Analytical determinations
+The main product components (ethanol, residual sugars, pH, glucose, fructose, malic acid, lactic acid, tartaric acid, citric acid, volatile
+acidity, total acidity, glycerol brix, density, SO2, total polyphenols,
+antocyans, CO2, absorbance at 420, 520 and 620 nm) of wine and must
+under fermentation were evaluated by Fourier Transform Infrared
+Spectroscopy the (FTIR) by employing the WineScan Flex (FOSS
+Analytical, DK). Samples were centrifuged at 8000 rpm for 10 min and
+then analyzed following the supplier's instructions. The major volatile
+constituents [acetaldehyde, ethyl acetate, 2-methyl-1-propanol, 1-propanol, higher alcohols, acetoin] were determined by gas-chromatography according to Di Toro et al. (2015). The internal standard solution used was 4-methyl-2-pentanol. Identiﬁcation and quantiﬁcation of
+the volatile compounds by GC–MS were carried out using an internal
+standard as already described (Tufariello et al., 2014). Volatile compounds were extracted in triplicate by solid phase extraction (SPE)
+technique (Garofalo et al., 2018). The samples were injected into a DBWAX capillary column (60 m × 0.25 mm I.D., 0.25 μm ﬁlm thickness;
+Agilent, USA) and then analyzed with a 6890N series gas chromatograph (Agilent, USA) equipped with an Agilent 5973 mass spectrometer
+selective detector (MSD). The analysis was performed as previously
+reported (Tufariello et al., 2014). Technological parameters were obtained as previously described (Tufariello et al., 2019).
+
+2.3. Lab-scale viniﬁcation
+The identiﬁed S. cerevisiae strains were tested by micro-fermentation
+assays conducted in Negroamaro grape must (21.5° Babo; 7.2 g/L total
+acidity; pH 3.4) added with 100 mg/L potassium metabisulﬁte. One
+liter of treated must was inoculated with 106 CFU/mL of yeast culture.
+The viniﬁcations were carried out in triplicate at 25 °C and daily
+monitored by measuring the reducing sugars concentration. Wines were
+then ﬁltered, separately bottled and stored at 18 °C for the sensorial
+analysis (Tufariello et al., 2019).
+2.4. Co-inoculation tests
+For the co-inoculation trials, yeast and bacteria starter cultures were
+prepared by growing strains in YPD or MRS medium as described above
+and then inoculating in triplicate the strains into 200 mL of Negroamaro
+grape must from (21° Babo; 7.2 g/L total acidity; 2.57 g/L malic acid;
+pH 3.78). Using the 2 selected S. cerevisiae, 1 H. uvarum and 5 O. oeni
+strains, a total of 10 diﬀerent starter culture combinations were carried
+out. In the mixed starter cultures, the H. uvarum strain was simultaneously inoculated with S. cerevisiae in a 1:100 inoculum ratio
+242
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Table 2
+Concentration of major chemical compounds in wines obtained with 15 autochthonous strain of S. cerevisiae.
+Strain
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+
+1
+2
+5
+6
+9
+13
+14
+20
+25
+26
+28
+32
+33
+34
+35
+
+Ethanol
+
+Sugars
+
+13.2 ± 0.15
+13.68 ± 0.45
+14.05 ± 0.87
+13.74 ± 0.55
+13.07 ± 0.92
+13.70 ± 0.40
+13.60 ± 1.05
+13.92 ± 0.88
+14.08 ± 0.27
+14.12 ± 0.84
+14.31 ± 0.11
+14.01 ± 0.41
+14.02 ± 0.60
+13.87 ± 0.76
+14.26 ± 0.36
+
+4.94
+3.40
+1.92
+3.11
+7.26
+1.87
+2.05
+2.15
+2.11
+2.24
+1.76
+1.49
+2.69
+2.36
+3.17
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+TA
+b
+
+0.95
+0.66a
+0.24a
+0.43a
+2.35b
+0.34a
+0.07a
+0.12a
+0.44a
+0.23a
+0.28a
+0.33a
+0.76a
+0.27a
+0.94a
+
+6.26
+5.78
+5.99
+6.19
+6.21
+6.57
+6.51
+5.81
+6.35
+6.84
+6.98
+7.50
+5.99
+6.06
+6.33
+
+VA
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.05
+0.31
+0.65
+0.16
+0.35
+0.95
+0.44
+0.27
+0.65
+0.38
+0.48
+0.38
+0.95
+0.55
+0.95
+
+0.41
+0.44
+0.44
+0.42
+0.58
+0.41
+0.42
+0.45
+0.33
+0.47
+0.32
+0.66
+0.48
+0.47
+0.44
+
+pH
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.11
+0.16
+0.07
+0.16
+0.21
+0.15
+0.11
+0.22
+0.08
+0.23
+0.08
+0.12
+0.07
+0.08
+0.11
+
+3.39
+3.39
+3.41
+3.37
+3.37
+3.39
+3.39
+3.39
+3.45
+3.38
+3.39
+3.38
+3.39
+3.42
+3.41
+
+Malic
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.55
+0.47
+0.38
+0.31
+0.37
+0.62
+0.38
+0.17
+0.73
+0.37
+0.51
+0.93
+0.45
+0.61
+0.75
+
+1.41
+1.26
+1.41
+1.49
+1.45
+1.59
+1.58
+1.29
+1.36
+1.70
+1.72
+1.94
+1.40
+1.25
+1.41
+
+Lactic
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.16
+0.13
+0.24
+0.33
+0.27
+0.34
+0.37
+0.28
+0.54
+0.17
+0.52
+0.17
+0.66
+0.27
+0.52
+
+0.25
+0.14
+0.07
+0.12
+0.05
+0.12
+0.14
+0.08
+0.31
+0.23
+0.26
+0.25
+0.09
+0.13
+0.09
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+Tartaric
+0.05
+0.07
+0.03
+0.04
+0.02
+0.04
+0.03
+0.03
+0.07
+0.11
+0.08
+0.11
+0.03
+0.04
+0.03
+
+2.04
+1.89
+1.99
+1.88
+1.68
+2.01
+1.98
+1.50
+1.52
+1.47
+2.04
+1.34
+1.91
+2.24
+2.27
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+Citric
+0.44
+0.28
+0.65
+0.48
+0.33
+0.07
+0.27
+0.37
+0.27
+0.65
+0.12
+0.26
+0.54
+0.38
+0.25
+
+0.47
+0.47
+0.47
+0.48
+0.43
+0.48
+0.51
+0.45
+0.47
+0.50
+0.51
+0.44
+0.47
+0.43
+0.46
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+Glycerol
+0.11
+0.13
+0.07
+0.14
+0.19
+0.15
+0.08
+0.15
+0.12
+0.20
+0.14
+0.18
+0.15
+0.12
+0.25
+
+8.21 ± 0.67
+7.99 ± 1.11
+8.66 ± 0.94
+7.55 ± 0.55
+7.67 ± 0.07
+8.64 ± 0.27
+8.16 ± 0.18
+8.78 ± 0.05
+10.27 ± 0.77
+8.76 ± 0.93
+9.20 ± 3.10
+8.18 ± 0.66
+8.48 ± 0.10
+8.37 ± 0.65
+8.36 ± 0.05
+
+TA, total acidity. VA, volatile acidity. Values are expressed in g/L. The ethanol concentration is expressed in g/100 mL. Results are the mean of three injections of
+each replicate (n = 9); the standard deviation values ( ± ) are indicated. Diﬀerent letters in the column denote signiﬁcant diﬀerences between yeast strains, at
+p < 0.05.
+Table 3
+Concentration of selected volatile compounds determined by GC in wines obtained with the 15 autochthonous strain of S. cerevisiae.
+Strain
+
+acetaldehyde
+
+P2
+P5
+P13
+P20
+P25
+P26
+P28
+P33
+P34
+P35
+
+17.58
+14.91
+16.25
+16.89
+21.89
+15.72
+22.79
+15.09
+21.49
+24.97
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.55a
+0.61a
+1.50a
+0.12a
+1.02b
+0.53a
+0.30b
+0.83a
+1.13b
+0.53c
+
+ethyl acetate
+
+1-propanol
+
+2-metil-1-propanol
+
+15.27 ± .057b
+21.33 ± 0.69d
+12.54 ± 0.45b
+22.79 ± 0.25d
+16.49 ± 0.08b
+22.03 ± 0.91d
+18.30 ± 0.35c
+3.28 ± 0.67a
+17.43 ± 0.83c
+19.49 ± 0.64c
+
+10.33 ± 0.79d
+12.54 ± 0.53e
+5.91 ± 0.15b
+12.91 ± 0.25e
+8.86 ± 0.10c
+11.21 ± 0.33d
+7.97 ± 0.52c
+5.36 ± 0.41b
+8.52 ± 0.11c
+3.55 ± 0.06a
+
+4.38
+4.19
+4.52
+3.70
+9.25
+3.91
+3.02
+4.61
+4.55
+2.44
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.37a
+0.62a
+0.41a
+0.24a
+0.19b
+0.25a
+0.48a
+0.32a
+0.10a
+0.29a
+
+higher alcohols
+58.11
+55.80
+56.09
+61.20
+56.19
+59.66
+58.15
+55.83
+51.79
+58.56
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.48b
+1.41a
+0.75a
+1.07b
+0.43a
+0.12b
+1.66a
+0.54a
+1.47a
+0.44b
+
+acetoin
+2.59
+2.10
+3.60
+1.92
+1.88
+1.62
+2.74
+4.17
+4.96
+2.39
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.09a
+0.17a
+0.50b
+0.16a
+0.12a
+0.15a
+0.19a
+0.12b
+0.17b
+0.24a
+
+Compound concentration (mg/L). Values are the mean of three injections of each replicate (n = 9); the standard deviation values ( ± ) are indicated. Diﬀerent letters
+in the row denote signiﬁcant diﬀerences between yeast strains, at p < 0.05.
+
+were carried out using the STATISTICA7.0 software (StatSoft software
+package, USA).
+
+2.7. Determination of microbial population
+The enumeration of viable yeast cells during the fermentations was
+carried out on WL agar medium (Sigma-Aldrich, USA), that allowed to
+discriminate S. cerevisiae (large white colonies) and H. uvarum (green
+colonies) after 48 h incubation at 28 °C for. The counting of LAB viable
+cells was made in MRS supplemented with 10 mg/L cycloheximide
+(Sigma-Aldrich, USA) to avoid yeast growth, after 7 days incubation at
+28 °C.
+
+3. Results
+3.1. Yeast isolation and identiﬁcation
+The oenological selection of autochthonous yeasts associated with
+natural fermentations of Negroamaro grapes, collected in the “Brindisi”
+PDO/DOC area, started with the isolation of 1200 yeast isolates. To this
+scope, serial dilutions of must and lees collected at the end of spontaneous fermentation were spread after on BIGGY agar. This selective
+medium allowed the isolation of 145 yeast colonies no or low H2S
+producers. The above 145 isolates were identiﬁed by molecular analysis
+of yeast rDNA, and they conﬁrmed to belong to the species
+Saccharomyces cerevisiae. Then, 36 isolates randomly selected were
+characterized at strain level using a PCR-based assay, relying on the
+ampliﬁcation of interdelta regions. The molecular ﬁngerprint allowed
+the identiﬁcation of 15 diﬀerent S. cerevisiae strains (not shown). One
+representative biotype for each strain/proﬁle has been selected. For
+these strains (P1, P2, P5, P6, P9, P13, P14, P20, P25, P28, P26, P33,
+P34, P35 and P32) the fermentative performances in wine were further
+studied.
+
+2.8. Sensory analysis
+The sensory analysis was performed by a panel composed of 5
+professional experts, chosen among oenologists and producers involved
+in Negroamaro wine production. The judges were asked to assign a
+score for diﬀerent parameters of the wines, such as gustatory-intensity,
+balance, acidity, body and gustatory-persistence, using a sensory analysis-tasting sheet with a scale ranging from 0 (absence of perception)
+to 3 (maximum perception). The mean scores of attributes were submitted to Quantitative Descriptive Analysis (QDA) according to Trani,
+Verrastro, Punzi, Faccia, and Gambacorta (2016).
+2.9. Statistical analysis
+Chemical data were subjected to One-Way factor analysis of variance (ANOVA). Signiﬁcant diﬀerences were separated using the
+Duncan test. The level of signiﬁcance was set at P < 0.05. The comparison of volatile classes of compounds during fermentation was
+achieved by principal component analysis (PCA). All statistical analyses
+
+3.2. Lab-scale viniﬁcations
+These technological and oenological parameters were mainly considered for the selection of autochthonous yeast strains: (i) acetic
+acid < 0 .6 g/L, (ii) residual sugars < 2 g/L and (iii) absence of H2S
+243
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Fig. 1. L-malic acid consumption (g/L) by O. oeni strains (OT3, OT4, OT5, OT25, OM22) after AF, when were co-inoculated ( ) or sequentially inoculated during AF,
+when ethanol content was 2% ( ), 4% ( ), 6% ( ), 8% ( ), 10% ( ) or 12% ( ) (v/v).
+
+3.3. Malolactic activity of O. oeni strains in the mixture culture
+
+production. The primary screening indicated that, among the 15 selected diﬀerent biotypes, the P2, P5, P13, P20, P25, P26, P28, P33, P34
+and P35 complied to the above criterions and they were further characterized. Table 1 and Table 2 describe their principal technological
+and chemical features of the obtained wines. The presence of higher
+alcohols produced by fermentation in must was evaluated (Table 3).
+The latter ranged from 51.79 mg/L (strain P34) to 59.66 mg/L (strain
+P26), indicating that all strains could positively contribute to the aromatic complexity of wine. The ethyl acetate values ranged between
+12.54 mg/L for P13 and 22.79 mg/L for P20 (Table 3). Acetaldehyde
+concentrations ranged from 14.91 mg/L (strain P5) to 22.79 mg/L
+(strain P28). The amount of acetoin, produced by the tested strains,
+ranged from 1.62 mg/L for P26 to 4.96 mg/L for P34 (Table 3).
+The fermented musts were also subjected to sensory analysis and the
+strains P25 and P28 obtained the maximum score with 12 and 13 points
+out of 15. The global evaluation of obtained data indicated that the P25
+(ITEM 17292) and P28 (ITEM 17293) strains were those denoted by the
+best fermentative properties and they were chosen for the co-inoculation trials.
+
+The selected S. cerevisiae ITEM 17292 and ITEM 17293 strains were
+co-inoculated with H. uvarum ITEM 8795 in Negroamaro grape must
+and the ﬁve selected autochthonous O. oeni strains were further investigated for their ability to consume L-malic acid by co-inoculating
+(0%) or sequentially inoculating them during AF, when ethanol content
+was 2%, 4%, 6%, 8%, 10% or 12% (v/v) (Fig. 1). Results showed that
+ethanol level at the moment of bacterial inoculation was crucial for
+developing MLF. The strategy of co-inoculation with S. cerevisiae and H.
+uvarum was the best strategy for maintaining highest O. oeni populations and therefore for carrying out MLF in red must. Only OT3 O. oeni
+strain co-inoculated with H. uvarum ITEM 8795 and S. cerevisiae ITEM
+17292 (Fig. 1A) and OT25 O. oeni strain co-inoculated with H. uvarum
+ITEM 8795 and S. cerevisiae ITEM 17292 (Fig. 1G) or ITEM 17293
+(Fig. 1H) were not consuming all L-malic acid present in the red must
+after 21 days of the end of the AF. All strains of O. oeni exhibited
+malolactic activity when they were inoculate in an ethanol concentration up to 4%. We observed that O. oeni strains have more diﬃculties to
+initiate MLF with 6–12% of ethanol. Among the O. oeni strains, OT4
+presented the highest malolactic activity, consuming completely the L244
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Fig. 2. Ethanol content (%, v/v) formation during the must fermentations carried out by the co-inoculation of H. uvarum ITEM 8795, S. cerevisiae ITEM 17292 ( ) or
+S. cerevisiae ITEM 17293 ( ), and A; O. oeni OT3, B; O. oeni OT4, C; O. oeni OT5, D; O. oeni OT25 and E; O. oeni OM22.
+Fig. 3. Ethanol content produced during the must fermentations carried out by: A; S. cerevisiae ITEM 17292, H. uvarum
+ITEM 8795 and O. oeni OT4 co-inoculated ( ) and sequentially inoculated when ethanol content was 12% (v:v) ( ),
+and B; S. cerevisiae ITEM 17293, H. uvarum ITEM 8795 and O.
+oeni OT4 co-inoculated ( ) and sequentially inoculated when
+ethanol content was 12% (v:v) ( ).
+
+OT4 strain was the best-performing and it was chosen for the further coinoculation assays.
+
+malic acid in all the ethanol concentrations studied (Fig. 1C and D).
+When inoculated at ethanol concentrations up to 6% (v/v), O. oeni OT4
+completed the MLF in less than 7 (Fig. 1C) or in 21 days (Fig. 1D), when
+the S. cerevisiae strains ITEM 17292 and ITEM 17293 were respectively
+used in the mixed starter formulation.
+
+3.5. Dynamics of yeast and bacterial population
+After 24 h of fermentation, H. uvarum underwent a slight yeast
+concentration decrease and then increased fast (Fig. 4). S. cerevisiae
+ITEM 17292 reached the maximum yeast population after 24 h of the
+inoculation, increasing from 1.00 × 106 CFU/mL to 5.55 × 107 CFU/
+mL. In this case H. uvarum ITEM 8795 presented a maximum concentration of 1.00 × 107 CFU/mL after 60 h of the inoculation, however
+after 72 h of incubation, the population of this yeast descended drastically (Fig. 4A). When the H. uvarum strain was co-inoculated with S.
+cerevisiae ITEM 17293, it reached its maximum concentration after 48 h
+with a population of 3.30 × 107 CFU/mL. The strain of O. oeni OT4
+showed a similar trend in both trials: reached a population higher than
+1.00 × 107 CFU/mL after 168 h of the inoculation (Fig. 4C and D) and
+kept constant until the end of the fermentation. Moreover, after 168 h
+of incubation O. oeni OT4 inoculated with 6% (v/v) of ethanol showed a
+cell viability of 2.40 × 107 CFU/mL in combination with S. cerevisiae
+ITEM 17292 while with S. cerevisiae ITEM 17293 was 7.50 × 105 CFU/
+
+3.4. Kinetics of alcoholic fermentation in the multi-strain fermentations
+In order to evaluate the eﬀect of the inoculated microorganisms on
+the AF, the formation of ethanol was followed for 4 days. Signiﬁcant
+diﬀerences (P = 0.0020) were found in ethanol formation depending
+on the S. cerevisiae stain used (Fig. 2). The ethanol concentration was
+12.86% (v/v) and 12.12% (v/v), respectively when ITEM 17292 and
+ITEM 17293 were used in the co-inoculation tests. There were not
+signiﬁcant no diﬀerences on the ﬁnal ethanol concentration depending
+on the time of inoculation of the O. oeni strain. The concentration of
+ethanol in the produced wines was not inﬂuenced by the procedure
+adopted for the O. oeni OT4 strain inoculation, i.e. co-inoculation with
+H. uvarum and S. cerevisiae or inoculation at the end of the AF (Fig. 3).
+These ﬁndings were observed with all O. oeni strains used in the study
+(data not shown). Taken together, the above results indicated that the
+245
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Fig. 4. Viable cell count (CFU/mL) of: A; S. cerevisiae ITEM
+17292 ( ) and H. uvarum ITEM 8795 ( ), and B; S. cerevisiae
+ITEM 17293 ( ) and H. uvarum ITEM 8795 ( ) co-inoculated
+with O. oeni OT4 in red must. C; O. oeni OT4 ( ) co-inoculated with S. cerevisiae ITEM 17292 and H. uvarum ITEM
+8795 and, D; O. oeni OT4 ( ) co-inoculated with S. cerevisiae
+ITEM 17293 and H. uvarum ITEM 8795. (For interpretation
+of the references to colour in this ﬁgure legend, the reader is
+referred to the Web version of this article.)
+
+Table 4
+Concentration of major chemical compounds in wines obtained by the pilot-scale viniﬁcations.
+Trial
+
+Alcohol
+
+A
+B
+C
+D
+E
+F
+G
+H
+
+11.89
+11.80
+11.97
+12.26
+11.70
+11.85
+11.99
+12.56
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+Sugars
+0.56
+0.10
+022
+0.84
+0.17
+0.54
+0.11
+0.10
+
+1.25
+1.24
+1.23
+1.29
+1.19
+1.19
+1.22
+1.29
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+TA
+0.12
+0.07
+0.16
+0.23
+0.17
+0.07
+0.34
+0.41
+
+7.56
+7.17
+7.41
+7.02
+7.82
+7.52
+7.35
+7.62
+
+VA
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.56
+0.10
+0.76
+0.48
+0.86
+0.66
+0.10
+0.77
+
+0.36
+0.35
+0.35
+0.27
+0.33
+0.41
+0.41
+0.29
+
+pH
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.07
+0.05
+0.10
+0.08
+0.08
+0.06
+0.12
+0.07
+
+3.19
+3.24
+3.19
+3.27
+3.20
+3.31
+3.27
+3.21
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.36
+0.26
+0.24
+0.26
+0.28
+0.15
+0.18
+0.16
+
+Malic acid
+
+Lactic acid
+
+Tartaric acid
+
+Glycerol
+
+2.75 ± 0.56
+0.16 ± 0.05
+2.7 ± 0.76
+0.19 ± 0.04
+2.78 ± 0.55
+0.13 ± 0.04
+2.76 ± 0.85
+0.18 ± 0.04
+
+0.26
+1.83
+0.19
+1.97
+0.26
+1.99
+0.04
+1.89
+
+4.19 ± 0.10
+4.19 ± 0.25
+4.2 ± 0.14
+4.14 ± 0.15
+4.12 ± 0.26
+3.93 ± 0.24
+4.14 ± 0.20
+4.11 ± 0.33
+
+9.50
+9.05
+9.61
+9.12
+9.31
+9.25
+9.42
+9.03
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.06
+0.14
+0.05
+0.16
+0.05
+0.07
+0.02
+0.15
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.60
+0.87
+0.87
+0.56
+0.67
+0,38
+0.33
+0.94
+
+TA; total acidity. VA; volatile acidity. Values are expressed in g/L. The ethanol concentration is expressed in g/100 mL. Results are the mean of three injections of
+each replicate (n = 9); the standard deviation values ( ± ) are indicated. No signiﬁcant diﬀerences were detected at p < 0.05.
+
+total acidity, tartaric acid and glycerol did not diﬀer in the eight fermentations, indicating that the technique of co-inoculation does not
+adversely aﬀect the chemistry of the wine compared to the classical
+inoculation procedures (Table 1).
+The GC-MS assay allowed the identiﬁcation and quantiﬁcation of 22
+diﬀerent volatile compounds (Table 5). The higher concentrations of
+alcohols were detected in trial D (59.04 mg/L), trial B (46.59 mg/L),
+trial C (39.07 mg/L) and trial H (32.56 mg/L). The esters were detected
+in higher concentrations in the same samples (A-B-C-H), while the acids
+content ranged from 1.0 mg/L (trial G) to 2.72 mg/L (trial H). Among
+esters, isoamyl acetate, ethyl lactate, ethyl octanoate, ethyl decanoate,
+diethyl succinate and mono ethyl succinate showed signiﬁcant diﬀerences among the wines analyzed. When compared with the other obtained wines, the concentrations of these molecules was higher in the
+samples B, C and H. Moreover, the wine samples B, D, and H showed
+the higher amounts of hexanoic (ranging from 0.35 to 0.40 mg/L), octanoic (ranging from 0.54 to 0.60 mg/L) and decanoic (ranging from
+0.27 to 0.36 mg/L), acids.
+The Principal Component Analysis (PCA) was performed on the
+concentrations of molecules detected by GC-MS in the produced wines
+(Fig. 5). Indeed, the wines from the trials D and H, both obtained by
+employing the Saccharomyces/non- Saccharomyces/O. oeni mixed
+starter, were located in the third and in the fourth quadrant, both areas
+characterized by high concentrations of volatiles respect to the others
+trials (E-F-G) located in the ﬁrst quadrant. The wine from trial D
+
+mL, indicating the connection of the cell viability with the malolactic
+activity. O. oeni OT3, OT5, OT25 and OM22 after 168 h of inoculation
+only presented populations above 1 × 106 CFU/mL when were inoculated simultaneously to S. cerevisiae and H. uvarum (data not
+shown), explaining the reduced malolactic activity of these strains
+when were inoculated from 2% (v/v) of ethanol up to 12% (v/v).
+3.6. Pilot-scale viniﬁcations
+In order to evaluate the fermentation performance and interactions
+of mixed cultures at winery-scale, selected yeast strains of S. cerevisiae
+ITEM 17292 and ITEM 17293, H. uvarum (ITEM 8795) and the selected
+bacteria O. oeni (OT4), the following pilot-scale viniﬁcations were
+carried out: Trial A: ITEM 17292; Trial B: ITEM 17292 + OT4; Trial C:
+ITEM 17292 + ITEM 8795; Trial D: ITEM 17292 + ITEM 8795 + OT4;
+Trial E: ITEM 17293; Trial F: S. cerevisiae ITEM 17293 + OT4; Trial G:
+ITEM 17293 + ITEM 8795; Trial H: ITEM 17293 + ITEM 8795 + OT4.
+The principal chemical parameters were analyzed by FT-IR
+(Table 4). In all the obtained fermented musts, volatile acidity, expressed as acetic acid, was quite low ranging from 0.27 g/L (trial D) to
+0.41 g/L (trial H). The lower values of VA were detected in trial D
+(ITEM 17292 + H. uvarum + O. oeni) and trial H (ITEM 17293 + H.
+uvarum + O. oeni). A decrease in malic acid concentration coupled to
+increase of lactic acid content was achieved, 0.16 g/L in trial B 0.19 g/L
+in trial D, 0.13 g/L in trial F and ﬁnally 0.18 g/L in trial H. The values of
+246
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Table 5
+Concentration of selected volatile compounds determined by GC-MS in wine obtained by the pilot-scale viniﬁcations.
+Trial A
+
+Trial B
+
+Trial C
+
+Trial D
+
+Trial E
+
+0.49 ± 0.11b
+13.88 ± 3.67a
+0.29 ± 0.07a
+0.54 ± 0.11
+0.011 ± 0.06
+nd
+0.03 ± 0.01a
+14.91 ± 4.52b
+30.15
+
+0.99 ± 0.23b
+24.95 ± 5.62b
+0.64 ± 0.12b
+0.67 ± 0.22
+0.03 ± 0.01
+nd
+nd
+19.31 ± 4.94b
+46.59
+
+0.56 ± 0.18b
+19.21 ± 5.55b
+0.27 ± 0.12a
+0.74 ± 0.21
+0.014 ± 0.04
+0.28 ± 0.10
+0.033 ± 0.011a
+17.96 ± 5.38b
+39.07
+
+0.87 ± 0.24b
+26.40 ± 5.18b
+0.44 ± 0.13b
+0.81 ± 0.25
+0.02 ± 0.01
+0.56 ± 0.17
+0.76 ± 0.23a
+29.17 ± 4.56c
+59.04
+
+0.04 ±
+7.20 ±
+0.02 ±
+0.46 ±
+nd
+nd
+nd
+8.04 ±
+15.77
+
+0.01a
+2.11a
+0.01a
+0.18
+
+3.77 ± 0.95a
+0.028 ± 0.011
+0.14 ± 0.05
+0.07 ± 0.02
+nd
+0.94 ± 0.34a
+0.45 ± 0.12a
+0.18 ± 0.06
+2.37 ± 0.94b
+7.94
+
+2.85 ±
+0.05 ±
+1.38 ±
+0.11 ±
+0.04 ±
+0.83 ±
+0.07 ±
+0.24 ±
+3.84 ±
+9.41
+
+0.74a
+0.02
+0.17
+0.04
+0.02
+0.14a
+0.02a
+0.10
+0.84b
+
+4.11 ± 0.65a
+0.02 ± 0.01
+0.11 ± 0.03
+0.05 ± 0.02
+0.012 ± 0.04
+0.77 ± 0.26a
+0.40 ± 0.17a
+0.21 ± 0.06
+4.42 ± 1.45b
+10.12
+
+5.28 ± 1.56b
+0.08 ± 0.02
+1.18 ± 0.44
+0.072 ± 0.013
+0.025 ± 0.010
+2.67 ± 0.34c
+0.67 ± 0.28b
+0.22 ± 0.06
+6.04 ± 2.67c
+16.24
+
+2.11 ±
+nd
+0.22 ±
+nd
+nd
+0.95 ±
+0.22 ±
+nd
+1.09 ±
+4.60
+
+0.54a
+
+0.45 ±
+0.40 ±
+0.60 ±
+0.36 ±
+1.89
+
+0.17a
+0.16b
+0.23
+0.14
+
+0.77 ±
+0.29 ±
+0.46 ±
+0.18 ±
+1.70
+
+0.77 ±
+0.01 ±
+0.41 ±
+0.13 ±
+1.31
+
+0.15a
+0.01a
+0.07
+0.04
+
+Trial F
+
+Trial G
+
+Trial H
+
+0.020 ± 0.01a
+9.20 ± 2.55a
+0.020 ± 0.011a
+0.94 ± 0.26
+nd
+nd
+nd
+9.06 ± 2.10a
+19.24
+
+0.019 ± 0.04a
+7.40 ± 1.87a
+0.019 ± 0.04a
+0.22 ± 0.08
+nd
+nd
+nd
+8.70 ± 2.56a
+16.34
+
+1.33 ± 0.22a
+15.95 ± 4.16b
+0.63 ± 0.22b
+0.67 ± 0.21
+0.024 ± 0.09
+0.74 ± 0.21
+1.65 ± 0.37b
+11.56 ± 4.38a
+32.56
+
+mg/L ± sd
+ALCOHOLS
+2-Methyl-1-propanol
+Isoamylalcohols
+1-Hexanol
+3-Hexen-1-ol (E)
+3-Hexen-1-ol (Z)
+1-heptanol
+Methyonol
+Phenylethanol
+TOTAL
+ESTERS
+Isoamyl-acetate
+Ethyl-hexanoate
+Ethyl-lactate
+Ethyl-octanoate
+3-Hydroxy-ethylbutanoate
+Ethyl-decanoate
+Diethyl-succinate
+Phenyl-acetate
+Monoethyl-succinate
+TOTAL
+ACIDS
+2-Methyl propanoic acid
+Hexanoic acid
+Octanoic acid
+Decanoic acid
+TOTAL
+TERPENS
+Citronellol
+
+0.52 ±
+0.30 ±
+0.49 ±
+0.18 ±
+1.49
+
+0.18a
+0.08b
+0.16
+0.05
+
+0.76 ± 0.17
+
+n.d.
+
+0.23a
+0.11a
+0.13
+0.04
+
+n.d.
+
+0.95 ±
+0.36 ±
+0.56 ±
+0.27 ±
+2.14
+
+0.34a
+0.12a
+0.25
+0.08
+
+1.56 ± 0.34
+
+n.d.
+
+2.77a
+
+0.08
+
+0.26a
+0.07a
+0.27a
+
+2.96 ±
+nd
+2.76 ±
+nd
+nd
+1.76 ±
+0.32 ±
+0.01 ±
+1.13 ±
+8.94
+
+0.16a
+
+0.65 ±
+0.02 ±
+0.53 ±
+0.21 ±
+1.41
+
+0.18a
+0.05a
+0.17
+0.06
+
+n.d.
+
+0.94
+
+0.38b
+0.08a
+0.01
+0.16a
+
+3.11 ±
+nd
+0.01 ±
+nd
+nd
+1.88 ±
+0.21 ±
+0.01 ±
+1.07 ±
+6.28
+
+0.25a
+
+0.47 ±
+0.01 ±
+0.41 ±
+0.10 ±
+1.00
+
+0.12a
+0.01a
+0.16
+0.03
+
+n.d.
+
+0.01
+
+0.25b
+0.06a
+0.01
+0.16a
+
+3.85 ±
+0.09 ±
+2.13 ±
+0.13 ±
+nd
+2.46 ±
+0.69 ±
+0.19 ±
+3.11 ±
+12.66
+
+0.94a
+0.03
+0.76
+0.03
+
+1.56 ±
+0.35 ±
+0.54 ±
+0.27 ±
+2.72
+
+0.27b
+0.08a
+0.12
+0.08
+
+0.84c
+0.19b
+0.05
+0.83b
+
+0.73 ± 0.21
+
+Each value is expressed in mg/L. Results are the mean of three injections of each replicate (n = 9); the standard deviation values ( ± ) are indicated. Diﬀerent upper
+letters in row means signiﬁcant diﬀerences at P < 0.05.
+
+Fig. 5. Principal Component Analysis (PCA) performed employing the data obtained by the GC-MS analysis of the wines obtained by the pilot-scale viniﬁcations.
+
+17293) were selected using the procedure described by Tufariello et al.
+(2019). The two selected S. cerevisiae strains were always able to
+dominate the fermentation process and to obtain a ﬁnal product with an
+adequate chemical composition. These strains were used for the co-inoculation trials to develop a mixed starter culture with non-Saccharomyces yeasts and LAB.
+The addition of non-Saccharomyces yeast species as part of mixed
+starter formulations, has been indicated as a way to simulate the
+spontaneous fermentations (Petruzzi et al., 2017; Suzzi et al., 2012;
+Tristezza et al., 2016b), thus conferring particular organoleptic characteristics to wines without increasing the risks for wine quality and
+
+showed in particular high values of isoamylalcohols, phenylethanol and
+ethyl lactate, while wines from the viniﬁcation H showed high values of
+isoamylacetate, ethyl hexanoate, 2-methylpropanol and 1-hexanol.
+Taken together, the obtained outcome indicated that the
+Saccharomyces/non-Saccharomyces/O. oeni mixed starter formulations,
+detained the technological and enological features required for their
+possible use as industrial starter.
+4. Discussion
+Two autochthonous S. cerevisiae strains (ITEM 17292 and ITEM
+247
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+Saccharomyces/O. oeni co-inoculation, these compounds being responsible for fruity, sweet, winery and acid sensory notes in wine.
+In conclusion, the proposed approach can be very eﬀective for the
+preparation of mixed starter culture formed by Saccharomyces, nonSaccharomyces yeasts and LAB. These mixed starter cultures represent a
+value solution to improve the speciﬁc attributes of typical regional
+wines. At the best of our knowledge, this investigation ﬁrstly illustrates
+the preparation and validation of a non-Saccharomyces/Saccharomyces/
+O. oeni mixed starter formulation that could be successfully adopted for
+the industrial production of typical Apulian red wines.
+
+safety often associated with uncontrolled viniﬁcations (Berbegal,
+Spano, Tristezza, Grieco, & Capozzi, 2017; Capozzi et al., 2015). The
+performance of MLF by LAB is highly aﬀected by the physicochemical
+intrinsic properties of wine, such as pH, ethanol, SO2 and by yeast
+metabolism (Petruzzi et al., 2017). Alcoholic fermentation in wine
+undergoes deep chemical changes enhanced by ethanol concentrations
+over 4% (v/v) and can inhibit the growth of most LAB (Balmaseda,
+Bordons, Reguant, & Bautista-Gallego, 2018). In our study, all strains
+showed better malolactic activity when O. oeni were co-inoculated (0%
+ethanol v/v) with the selected yeasts or inoculated up to 4% of ethanol.
+Indeed, only O. oeni OT4 consumed all L-malic acid when inoculated
+with an ethanol concentration above 4% v/v. Moreover, the obtained
+evidences indicated that the duration of MLF was reduced by the coinoculation of yeasts and all the O. oeni strains investigated. Interaction
+with yeasts can be from inhibitory, to neutral of stimulatory depending
+on the release of nutrients by yeasts, and on the ability of yeasts to
+produce metabolites that can aﬀect LAB (Alexandre, Costello, Remize,
+Guzzo, & Guilloux-Benatier, 2004). One of the main strategies to mitigate the possible inhibitory interactions that have been proposed is
+the co-inoculation of yeast and O. oeni (Izquierdo-Cañas, Pérez-Martín,
+Romero, Prieto, & Herreros, 2012).
+Our ﬁndings conﬁrmed data of previous studies (Ciani et al., 2016;
+Maturano et al., 2018; Tristezza et al., 2016b), by showing that grape
+musts co-inoculated with the mixed starter cultures presented less
+ethanol content that when single cultures of S. cerevisiae were employed. Besides, H. uvarum ITEM 8795 grew better in combination with
+S. cerevisiae ITEM 17293 than with S. cerevisiae ITEM 17292. Contrariwise, the O. oeni OT4, with best malolactic activity in grape must,
+presented a higher L-malic consumption rate and cell viability when S.
+cerevisiae ITEM 17292 was used. Lactic acid bacteria have complex
+nutrient requirements and so, their development depends on the nutrients consumption by the yeasts during the AF (Ivey, Massel, &
+Phister, 2013). In accordance with the results of Curiel, Morales,
+Gonzalez, and Tronchoni (2017), O. oeni OT4 showed lower malolactic
+activity and growth in fermentation trials where H. uvarum ITEM 8795
+showed higher population. The outcome achieved by the lab-scale tests
+were validated by carrying out pilot-scale viniﬁcation trials. It is interesting to highlight that the presence of fermentable sugars did not
+aﬀect the values of the volatile acidity, as reported in previous studies
+(Liu, Lu, Duan, & Yan, 2016; Trani et al., 2016 the use of yeast/bacteria
+mixed inoculums for the management of the MLF, not aﬀected by the
+addition of the non-Saccharomyces starter strain and it had a positive
+inﬂuence on fermentation lenght and on aroma composition of wine
+(Muñoz, Beccaria, & Abreo, 2014). In fact, highly considerable was the
+eﬀect of the mixed starter formulation on the aroma pattern of produced wines, compared to those obtained by inoculation of the S. cerevisiae starter alone. Recent investigations have highlighted the variation of the biochemical proﬁle of wine produced by diﬀerent LAB
+inoculation procedures (Abrahamse & Bartowsky, 2011; IzquierdoCañas et al., 2012). Our data suggested, in accordance to literature
+(Antalick, Perello, & de Revel, 2013), that yeast/LAB co-inoculation
+could enhance the fruity aroma, thereby increasing the level of esters.
+Among alcohols identiﬁed, other higher alcohols shows higher values standing out 2-isoamyl alcohols and 2-phenyletanol. The higher
+alcohols increase were signiﬁcantly higher when the fermentation was
+carried out by mix composed by Saccharomyces/non-Saccharomyces/O.
+oeni strains and they were signiﬁcant diﬀerent when one of the two S.
+cerevisiae strains (ITEM 17292 or ITEM 17293) were used.
+The combination of the three diﬀerent microbial starters was responsible for the high esters production, contributing to improve wine
+ﬂavor with fruity notes. In fact, the wines obtained by the pilot-scale
+trials D and H showed a higher concentration of hexanoic-octanoic and
+decanoic acids, which during the storage or aging could undergo to the
+esteriﬁcation with the higher alcohols, thus increasing the fruity aroma
+(Francis & Newton, 2005). Total alcohol and acid concentrations were
+found to be higher in wines produced by Saccharomyces/non-
+
+Acknowledgements
+This research was partially supported by the Apulia Region in the
+framework of the Project DOMINA APULIAE (POR Puglia FESR – FSE
+2014-2020-Azione 1.6. –InnoNetwork; Project code AGBGUK2). The
+authors thank Mr. Giovanni Colella for technical assistance and Prof. H.
+Smith for text proofreading.
+References
+Abrahamse, C. E., & Bartowsky, E. J. (2011). Timing of malolactic fermentation inoculation in shiraz grape must and wine: Inﬂuence on chemical composition. World
+Journal of Microbiology and Biotechnology, 28, 255–265.
+Alexandre, H., Costello, P. J., Remize, F., Guzzo, J., & Guilloux-Benatier, M. (2004).
+Saccharomyces cerevisiae-Oenococcus oeni interactions in wine: Current knowledge and
+perspectives. International Journal of Food Microbiology, 93, 141–154.
+Antalick, G., Perello, M. C., & de Revel, G. (2013). Co-inoculation with yeast and LAB
+under winery conditions: Modiﬁcation of the aromatic proﬁle of merlot wines. South
+African Journal for Enology and Viticulture, 34, 223–232.
+Balmaseda, A., Bordons, A., Reguant, C., & Bautista-Gallego, J. (2018). NonSaccharomyces in wine: Eﬀect upon Oenococcus oeni and malolactic fermentation.
+Frontiers in Microbiology, 9, 534.
+Bartowsky, E. J., Costello, P. J., & Chambers, P. J. (2015). Emerging trends in the application of malolactic fermentation. Australian Journal of Grape and Wine Research,
+21, 663–669.
+Berbegal, C., Peña, N., Russo, P., Grieco, F., Pardo, I., Ferrer, S., et al. (2016).
+Technological properties of Lactobacillus plantarum strains isolated from grape must
+fermentation. Food Microbiology, 57, 187–194.
+Berbegal, C., Spano, G., Tristezza, M., Grieco, F., & Capozzi, V. (2017). Microbial resources and innovation in the wine production sector. South African Journal for
+Enology and Viticulture, 38, 156–166.
+Brizuela, N. S., Bravo-Ferrada, B. M., Curilen, Y., Delfederico, L., Caballero, A., Semorile,
+L., et al. (2018). Advantages of using blend cultures of native L. plantarum and O. oeni
+strains to induce malolactic fermentation of Patagonian Malbec wine. Frontiers in
+Microbiology, 9, 2109.
+Capozzi, V., Garofalo, C., Chiriatti, M. A., Grieco, F., & Spano, G. (2015). Microbial terroir
+and food innovation: The case of yeast biodiversity in wine. Microbiological Research,
+181, 75–83.
+Capozzi, V., Russo, P., Beneduce, L., Weidmann, S., Grieco, F., Guzzo, J., et al. (2010).
+Technological properties of Oenococcus oeni strains isolated from typical southern
+Italian wines. Letters in Applied Microbiology, 50, 327–334.
+Capozzi, V., Russo, P., Lamontanara, A., Orrù, L., Cattivelli, L., & Spano, G. (2014).
+Genome sequences of ﬁve Oenococcus oeni strains isolated from Nero di Troia wine
+from the same terroir in Apulia, Southern Italy. Genome Announcements, 2 e01077-14.
+Ciani, M., Beco, L., & Comitini, F. (2006). Fermentation behaviour and metabolic interactions of multistarter wine yeast fermentations. International Journal of Food
+Microbiology, 108(9), 239–245.
+Ciani, M., Comitini, F., Mannazzu, I., & Domizio, P. (2009). Controlled mixed culture
+fermentation: A new perspective on the use of non Saccharomyces yeasts in winemaking. FEMS Yeast Research, 10, 123–133.
+Ciani, M., Morales, P., Comitini, F., Tronchoni, J., Canonico, L., Curiel, J. A., et al. (2016).
+Non-conventional yeast species for lowering ethanol content of wines. Frontiers in
+Microbiology, 7, 642.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L., Mannazzu, I., et al. (2011).
+Selected non-Saccharomyces wine yeasts in controlled multistarter fermentations with
+Saccharomyces cerevisiae. Food Microbiology, 28, 873–882.
+Curiel, J. A., Morales, P., Gonzalez, R., & Tronchoni, J. (2017). Diﬀerent nonSaccharomyces yeast species stimulate nutrient consumption in S. cerevisiae mixed
+cultures. Frontiers in Microbiology, 8, 2121.
+De Benedictis, M., Bleve, G., Grieco, F., Tristezza, M., & Tufariello, M. (2011). An optimized procedure for the enological selection of non-Saccharomyces starter cultures.
+Antonie van Leeuwenhoek, 99, 189–200.
+Di Toro, M. R., Capozzi, V., Beneduce, L., Alexandre, H., Tristezza, M., Durante, M., et al.
+(2015). Intraspeciﬁc biodiversity and ‘spoilage potential’of Brettanomyces bruxellensis in Apulian wines. LWT-Food Science and Technology, 60, 102–108.
+Francis, I. L., & Newton, J. L. (2005). Determining wine aroma from compositional data.
+Australian Journal of Grape and Wine Research, 11, 114–126.
+Garofalo, C., Berbegal, C., Grieco, F., Tufariello, M., Spano, G., & Capozzi, V. (2018).
+
+248
+
+LWT - Food Science and Technology 109 (2019) 241–249
+
+V. Capozzi, et al.
+
+industrial fermentations of a white wine produced in a SW Spain winery. Journal of
+Applied Microbiology, 108, 1292–1302.
+Suzzi, G., Arfelli, G., Schirone, M., Corsetti, A., Perpetuini, G., & Tofalo, R. (2012). Eﬀect
+of grape indigenous Saccharomyces cerevisiae strains on Montepulciano d'Abruzzo red
+wine quality. Food Research International, 46, 22–29.
+Tofalo, R., Patrignani, F., Lanciotti, R., Perpetuini, G., Schirone, M., Di Gianvito, P., et al.
+(2016). Aroma proﬁle of Montepulciano d'Abruzzo wine fermented by single and coculture starters of autochthonous Saccharomyces and non-Saccharomyces yeasts.
+Frontiers in Microbiology, 7, 610.
+Trani, A., Verrastro, V., Punzi, R., Faccia, M., & Gambacorta, G. (2016). Phenols, volatiles
+and sensory properties of Primitivo wines from the “gioia del colle” PDO area. South
+African Journal for Enology and Viticulture, 37, 139–148.
+Tristezza, M., di Feo, L., Tufariello, M., Grieco, F., Capozzi, V., Spano, G., et al. (2016a).
+Simultaneous inoculation of yeasts and lactic acid bacteria: Eﬀects on fermentation
+dynamics and chemical composition of Negroamaro wine. LWT- Food Science and
+Technology, 66, 406–412.
+Tristezza, M., Gerardi, C., Logrieco, A., & Grieco, F. (2009). An optimized protocol for the
+production of interdelta markers in Saccharomyces cerevisiae by using capillary electrophoresis. Journal of Microbiological Methods, 78, 286–291.
+Tristezza, M., Tufariello, M., Capozzi, V., Spano, G., Mita, G., & Grieco, F. (2016b). The
+oenological potential of Hanseniaspora uvarum in simultaneous and sequential cofermentation with Saccharomyces cerevisiae for industrial wine production. Frontiers in
+Microbiology, 7, 670.
+Tufariello, M., Chiriatti, M. A., Grieco, F., Perrotta, C., Capone, S., Rampino, P., et al.
+(2014). Inﬂuence of autochthonous Saccharomyces cerevisiae strains on volatile proﬁle
+of Negroamaro wines. LWT- Food Science and Technology, 58, 35–48.
+Tufariello, M., Maiorano, G., Rampino, P., Spano, G., Grieco, F., Perrotta, C., et al. (2019).
+Selection of an autochthonous yeast starter culture for industrial production of
+Primitivo “Gioia del Colle” PDO/DOC in Apulia (Southern Italy). LWT- Food Science
+and Technology, 99, 188–196.
+
+Selection of indigenous yeast strains for the production of sparkling wines from native Apulian grape varieties. International Journal of Food Microbiology, 285, 7–17.
+Garofalo, C., Tristezza, M., Grieco, F., Spano, G., & Capozzi, V. (2016). From grape berries
+to wine: Population dynamics of cultivable yeasts associated to “Nero di Troia” autochthonous grape cultivar. World Journal of Microbiology andBiotechnology, 32, 59.
+Hay, J., Grieco, F., Druka, A., Pinner, M., Lee, S. C., & Hull, R. (1994). Detection of rice
+tungro bacilliform virus gene products in vivo. Virology, 205, 430–437.
+Ivey, M., Massel, M., & Phister, T. G. (2013). Microbial interactions in food fermentations.
+Annual Review of Food Science and Technology, 4, 141–162.
+Izquierdo-Cañas, P. M., Pérez-Martín, F., Romero, E. G., Prieto, S. S., & Herreros, M.d.l. L.
+P. (2012). Inﬂuence of inoculation time of an autochthonous selected malolactic
+bacterium on volatile and sensory proﬁle of Tempranillo and Merlot wines.
+International Journal of Food Microbiology, 156, 245–254.
+Liu, P.-T., Lu, L., Duan, C.-Q., & Yan, G.-L. (2016). The contribution of indigenous nonSaccharomyces wine yeast to improved aromatic quality of Cabernet Sauvignon wines
+by spontaneous fermentation. LWT- Food Science and Technology, 71, 356–363.
+Lopes, C. A., Rodriguez, M. E., Sangorrin, M., Querol, A., & Caballero, A. C. (2007).
+Patagonian wines: The selection of an indigenous yeast starter. Journal of Industrial
+Microbiology & Biotechnology, 34, 539–546.
+Maturano, Y. P., Mestre, M. V., Kuchen, B., Toro, M. E., Mercado, L. A., Vazquez, F., et al.
+(2018). Optimization of fermentation-relevant factors: A strategy to reduce ethanol in
+red wine by sequential culture of native yeasts. International Journal of Food
+Microbiology, 289, 40–48.
+Muñoz, V., Beccaria, B., & Abreo, E. (2014). Simultaneous and successive inoculations of
+yeasts and lactic acid bacteria on the fermentation of an unsulﬁted Tannat grape
+must. Brazilian Journal of Microbiology, 45, 59–66.
+Petruzzi, L., Capozzi, V., Berbegal, C., Corbo, M. R., Bevilacqua, A., Spano, G., et al.
+(2017). Microbial resources and enological signiﬁcance: Opportunities and beneﬁts.
+Frontiers in Microbiology, 8, 995.
+Rodríguez, M. E., Infante, J. J., Molina, M., Domínguez, M., Rebordinos, L., & Cantoral, J.
+M. (2010). Genomic characterization and selection of wine yeast to conduct
+
+249
+
+

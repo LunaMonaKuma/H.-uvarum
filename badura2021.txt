@@ -1,0 +1,2163 @@
+International Journal of
+
+Molecular Sciences
+Article
+
+Development of Genetic Modification Tools for
+Hanseniaspora uvarum
+Jennifer Badura 1 , Niël van Wyk 1,2 , Silvia Brezina 1 , Isak S. Pretorius 2 , Doris Rauhut 1 , Jürgen Wendland 1
+and Christian von Wallbrunn 1, *
+1
+
+2
+
+*
+
+
+
+Citation: Badura, J.; van Wyk, N.;
+Brezina, S.; Pretorius, I.S.; Rauhut, D.;
+Wendland, J.; von Wallbrunn, C.
+Development of Genetic Modification
+Tools for Hanseniaspora uvarum. Int. J.
+
+Department of Microbiology and Biochemistry, Hochschule Geisenheim University, Von-Lade-Strasse 1,
+65366 Geisenheim, Germany; jennifer.badura@hs-gm.de (J.B.); niel.wyk@hs-gm.de (N.v.W.);
+silvia.brezina@hs-gm.de (S.B.); doris.rauhut@hs-gm.de (D.R.); juergen.wendland@hs-gm.de (J.W.)
+ARC Centre of Excellence in Synthetic Biology, Department of Molecular Sciences, Macquarie University,
+Sydney, NSW 2113, Australia; sakkie.pretorius@mq.edu.au
+Correspondence: christian.wallbrunn@hs-gm.de
+
+Abstract: Apiculate yeasts belonging to the genus Hanseniaspora are commonly isolated from viticultural settings and often dominate the initial stages of grape must fermentations. Although
+considered spoilage yeasts, they are now increasingly becoming the focus of research, with several
+whole-genome sequencing studies published in recent years. However, tools for their molecular
+genetic manipulation are still lacking. Here, we report the development of a tool for the genetic
+modification of Hanseniaspora uvarum. This was employed for the disruption of the HuATF1 gene,
+which encodes a putative alcohol acetyltransferase involved in acetate ester formation. We generated
+a synthetic marker gene consisting of the HuTEF1 promoter controlling a hygromycin resistance
+open reading frame (ORF). This new marker gene was used in disruption cassettes containing longflanking (1000 bp) homology regions to the target locus. By increasing the antibiotic concentration,
+transformants were obtained in which both alleles of the putative HuATF1 gene were deleted in a
+diploid H. uvarum strain. Phenotypic characterisation including fermentation in Müller-Thurgau
+must showed that the null mutant produced significantly less acetate ester, particularly ethyl acetate.
+This study marks the first steps in the development of gene modification tools and paves the road for
+functional gene analyses of this yeast.
+
+Mol. Sci. 2021, 22, 1943. https://doi.
+org/10.3390/ijms22041943
+
+Keywords: Hanseniaspora uvarum; transformation; genetic modification; ATF1; ethyl acetate; fermentation
+
+Academic Editor: Maurizio Ciani
+Received: 20 January 2021
+Accepted: 11 February 2021
+Published: 16 February 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+1. Introduction
+The term apiculate yeast signifies a distinctive lemon-shaped cell structure of yeast
+species belonging to the genus of Hanseniaspora and closely-related genera, such as Saccharomycodes and Nadsonia [1]. The genus Hanseniaspora has a cosmopolitan distribution
+and has often been reported to be the most abundant genus on mature and intact grape
+berries, and thus contributes the largest yeast population to the initial stages of a grape
+must fermentation [2,3]. Since Hanseniaspora is prevalent on grapes in almost all vineyards
+worldwide [4–8], it plays a crucial role in affecting the sensory profile of wine, especially
+regarding the complexity of wine [9–11]. In general, Hanseniaspora populations decrease
+significantly during wine fermentation as these yeasts are usually outcompeted by the
+main wine yeast, Saccharomyces cerevisiae. It was initially thought that the gradual increase
+in ethanol concentration was primarily responsible for the decline in the Hanseniaspora
+population, but there is growing scientific evidence suggesting that a variety of metabolites
+secreted by S. cerevisiae significantly impacts the viability of Hanseniaspora within a grape
+must fermentation [12]. Moreover, Hanseniaspora strains have been shown to withstand
+ethanol concentrations of more than 10% and are able to produce a considerable amount of
+ethanol themselves [12–14]. In the past, Hanseniaspora populations have been regarded to
+be spoilage yeasts when a significant proportion of these apiculate yeasts persists within a
+
+Int. J. Mol. Sci. 2021, 22, 1943. https://doi.org/10.3390/ijms22041943
+
+https://www.mdpi.com/journal/ijms
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+2 of 16
+
+fermentation, as some strains are capable of producing significant amounts of acetaldehyde,
+acetic acid, and ethyl acetate. Winemaking practices, such as the addition of SO2 or even
+the utilisation of yeasts, which produce killer toxins that have antimicrobial activity against
+apiculate yeasts [15], are used to limit the proliferation of Hanseniaspora yeasts. This hypothesis of Hanseniaspora as purely a spoilage yeast has been challenged and re-evaluated
+in recent years as wine researchers are reporting many beneficial oenological contributions
+that Hanseniaspora strains can provide when co-cultured with S. cerevisiae in a mixed-culture
+type of must fermentation. The oenological benefits of Hanseniaspora wine strains include
+lower final ethanol levels as well as increased acetate and ethyl ester concentrations [16–18].
+Although selected Hanseniaspora strains have been used in mixed starter cultures with
+S. cerevisiae in wine fermentations, no Hanseniaspora strain is commercially available yet
+for use as an oenological starter culture [19]. Moreover, its ester production capability is
+particularly striking.
+By sheer numbers found in fermentations, one of the most prolific species is that of
+Hanseniaspora uvarum, which, in the earlier literature, was also referred to as Kloeckera apiculata.
+Apart from its predominance and importance in winemaking, H. uvarum strains have also
+been isolated from many other fermented beverages, such as cider [20] or tequila [21],
+as well as from various food-related niches such as the processing of coffee beans [22]
+and cocoa fermentations [23] and from fresh-squeezed orange juice [24]. In addition to its
+presence in foods and beverages, H. uvarum has also been isolated from soil [25], plants [26],
+insects [27], birds [28], molluscs [29], shrimps [30] and snails [14]. Due to its antagonistic
+properties against mould development, H. uvarum’s potential as a biocontrol agent has also
+been investigated [31–33].
+In spite of the increasing importance of Hanseniaspora in wine fermentations, only
+in the past couple of years, has large-scale genome sequencing provided information on
+Hanseniaspora species [34–37]; this wealth of information provides a basic framework for
+analysing the biology of Hanseniaspora. Recent research has shown that the low specific
+activity of pyruvate kinase, catalysing one of the rate limiting steps in the glycolytic pathway, could explain the reduced capacity of Hanseniaspora to form ethanol [38]. Analyses
+of different Hanseniaspora genomes have provided insight into an extensive loss of genes
+involved in cell cycle regulation and the maintenance of genome integrity [39]. Comparisons among different species and strains have revealed that Hanseniaspora isolates possess
+particular dynamic genome structures with various variations in ploidy [40].
+A central element of gene-function analyses is the ability to generate deletion strains.
+However, there is still a lack of protocols for targeted gene deletions in H. uvarum based on
+DNA-mediated transformation to achieve homologous gene replacements with disruption
+cassettes. In this study, we developed a basic tool for the initiation of molecular characterisation of H. uvarum genes. To this end, we targeted the H. uvarum ATF1 homolog encoding
+an alcohol acetyltransferase, successfully deleted both alleles in this diploid yeast, and
+compared the fermentation performance and flavour production of the mutant with the
+wild type.
+2. Results
+2.1. Plasmid Design and Construction
+2.1.1. Design and Testing of Promoters
+We originally attempted to transform Hanseniaspora using geneticin (kanMX) and hygromycin (hygMX) resistance cassettes already tailored for S. cerevisiae genetic modification.
+These cassettes are under the transcriptional control of the TEF1 promoter of Ashbya gossypii.
+Despite numerous attempts to optimise transformation procedures, we were unable to
+obtain transformants and opted to clone promoters of H. uvarum to drive the expression of
+the respective antibiotic markers. To this end, we PCR-amplified three regions upstream of
+the open reading frames (ORFs) of H. uvarum genes whose S. cerevisiae homologs are known
+to be strongly expressed. These genes encode translation elongation factor EF-1α (TEF1),
+3-phosphoglycerate kinase 1 (PGK1) and fructose-1,6-bisphosphate aldolase 1 (FBA1). We
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+3 of 17
+
+upstream of the open reading frames (ORFs) of H. uvarum genes whose S. cerevisiae hom3 of 16
+ologs are known to be strongly expressed. These genes encode translation elongation factor EF-1α (TEF1), 3-phosphoglycerate kinase 1 (PGK1) and fructose-1,6-bisphosphate aldolase
+(FBA1).
+WeH.
+cloned
+these
+three H. uvarum
+promoters
+upstream
+of the
+LacZ
+reporter
+cloned1these
+three
+uvarum
+promoters
+upstream
+of the LacZ
+reporter
+gene
+to test
+their
+gene
+to
+test
+their
+heterologous
+function
+in
+S.
+cerevisiae.
+By
+transforming
+S.
+cerevisiae
+with
+heterologous function in S. cerevisiae. By transforming S. cerevisiae with these synthetic conthese
+synthetic
+constructs,
+expression ofcan
+beta-galactosidase
+be monitored
+by itsinto
+con-a
+structs,
+expression
+of beta-galactosidase
+be monitored bycan
+its conversion
+of X-Gal
+blue strain.
+S. cerevisiae
+transformed
+HuFBA1
+and HuPGK1
+did not
+result
+version
+of X-Gal
+into a blue
+strain. S.with
+cerevisiae
+transformed
+withconstructs
+HuFBA1 and
+HuPGK1
+in blue-stained
+S. cerevisiae
+suggesting
+that these
+promoters
+are non-functional
+in
+constructs
+did not
+result incolonies,
+blue-stained
+S. cerevisiae
+colonies,
+suggesting
+that these proS. cerevisiae.
+However, usein
+ofS.
+the
+HuTEF1However,
+promoter use
+yielded
+beta-galactosidase
+activity
+in
+moters
+are non-functional
+cerevisiae.
+of the
+HuTEF1 promoter
+yielded
+S. cerevisiae (Figureactivity
+1). Next,
+fused the(Figure
+HuTEF11).
+promoter
+ORFsthe
+of antibiotic
+resistance
+beta-galactosidase
+inwe
+S. cerevisiae
+Next, wetofused
+HuTEF1 promoter
+genes
+to
+generate
+new
+marker
+genes
+for
+Hanseniaspora
+and
+to
+drive
+transcription
+of these
+to ORFs of antibiotic resistance genes to generate new marker genes for Hanseniaspora
+and
+resistance
+markers in of
+Hanseniaspora
+transformants.
+to
+drive transcription
+these resistance
+markers in Hanseniaspora transformants.
+
+Figure 1.
+1. P
+Plasmid
+constructs and
+and testing
+testing of
+of the
+the functionality
+functionality of
+of three
+three putative
+putative Hanseniaspora
+Hanseniaspora uvarum
+uvarum promoters,
+promoters,HuTEF1,
+HuTEF1,
+Figure
+lasmid constructs
+HuFBA1, and
+and HuPGK1,
+HuPGK1, in
+inSaccharomyces
+Saccharomycescerevisiae
+cerevisiaeusing
+usingStreptococcus
+Streptococcusthermophilus
+thermophilusLacZ
+LacZas
+asreporter
+reportergene
+gene(picture
+(pictureon
+onthe
+theright,
+right,
+HuFBA1,
+bluecolonies
+coloniesindicate
+indicatethe
+theconversion
+conversionofofX-gal
+X-gal
+beta-galactosidase).
+pRS417-SsMET25-LacZ
+(negative
+control);
+blue
+byby
+beta-galactosidase).
+(a) (a)
+pRS417-SsMET25-LacZ
+[41][41]
+(negative
+control);
+(b)
+pRS417-SsTEF1-LacZ
+[41] (positive
+control);
+(c) pRS417-HuTEF1-LacZ
+construct,
+generated
+as described
+in 4.2. using
+primer
+(b) pRS417-SsTEF1-LacZ
+[41] (positive
+control);
+(c) pRS417-HuTEF1-LacZ
+construct,
+generated
+as described
+in Section
+4.2
+set
+7/8
+(for
+primers
+see
+description
+in
+4.2.;
+(d)
+pRS417-HuFBA1-LacZ,
+built
+using
+primer
+set
+9/10;
+(e)
+pRS417-HuPGK1-LacZ
+using primer set 7/8 (for primers see description in Section 4.2; (d) pRS417-HuFBA1-LacZ, built using primer set 9/10;
+built
+using primer set 11/12.built
+SsMET25
+SsTEF1
+are promoter
+sequences
+from
+schoenii
+[41].
+(e) pRS417-HuPGK1-LacZ
+using and
+primer
+set 11/12.
+SsMET25
+and SsTEF1
+areSaccharomycopsis
+promoter sequences
+from
+Saccharomycopsis
+schoenii [41].
+
+2.1.2. Choice of Candidate Gene and Design of the Knock-Out Cassette
+2.1.2.We
+Choice
+of Candidate
+Gene and
+Design of the Knock-Out
+Cassette
+selected
+the ATF1 alcohol
+acetyltransferase
+I gene from
+H. uvarum as the candiWe selected
+theout,
+ATF1
+acetyltransferase
+I gene are
+fromknown
+H. uvarum
+themain
+candidate
+date gene
+to knock
+as alcohol
+ATF1 and
+ATF2 in S. cerevisiae
+to beasthe
+catagenefor
+to knock
+out, asproduction
+ATF1 and ATF2
+in S.The
+cerevisiae
+are known
+to be thedisruption
+main catalysts
+lysts
+ethyl acetate
+in wine.
+generation
+of an HuATF1
+casfor
+ethyl
+acetate
+production
+in
+wine.
+The
+generation
+of
+an
+HuATF1
+disruption
+cassette
+sette is described in the Material and Methods. The HuAtf1 protein shows only 22% ho-is
+described
+the Material
+andScAtf2,
+Methods.
+The HuAtf1
+proteincontains
+shows only
+22%
+to
+mology
+to in
+ScAtf1
+and 25%
+respectively.
+HuAtf1
+both
+thehomology
+active site
+ScAtf1
+and
+25%
+ScAtf2,
+respectively.
+HuAtf1
+contains
+both
+the
+active
+site
+HXXXDG
+[42]
+HXXXDG [42] and the conserved WRLICLP motif of acetyltransferases (Figure 2a). The
+and the conserved
+WRLICLP
+ofalignment
+acetyltransferases
+(Figure
+2a). The complete
+HuAtf1,
+complete
+HuAtf1, ScAtf2,
+andmotif
+ScAtf1
+can be seen
+in supplementary
+(Figure
+S1).
+ScAtf2, and ScAtf1 alignment can be seen in supplementary (Figure S1).
+
+Int. J. Mol. Sci. 2021, 22, 1943
+Int. J. Mol. Sci. 2021, 22, 1943
+
+4 of 17
+4 of 16
+
+Figure
+Figure 2. (a)
+(a) Alignment
+Alignment of
+of the
+the amino
+amino acid
+acid sequence
+sequence of
+of the
+the Hanseniaspora
+Hanseniaspora uvarum
+uvarum HuAtf1
+HuAtf1 with
+with the
+the two
+two S.
+S. cerevisiae
+cerevisiae Atf
+Atf
+proteins.
+The
+conserved
+WRLICLP
+motif
+as
+well
+as
+the
+HXXXDG
+active
+site
+[42]
+are
+shown
+in
+boxes;
+(b)
+Replacement
+proteins. The conserved WRLICLP motif as well as the HXXXDG active site [42] are shown in boxes; (b) Replacement of
+of
+the
+the HuATF1
+HuATF1 ORF
+ORF by
+by HuTEF1_hph.
+HuTEF1_hph. HuATF1
+HuATF1 was
+was replaced
+replaced by
+by the
+the HuTEF1
+HuTEF1 promoter
+promoter in
+in front
+front of
+of the
+the selection
+selection marker
+marker hph
+hph
+with
+regions that
+that are
+are upstream
+upstream and
+anddownstream
+downstreamof
+ofthe
+theHuATF1
+HuATF1ORF.
+ORF.The
+TheG1/G2,
+G1/G2,G3/G4,
+G3/G4, and
+and G5/G6
+G5/G6
+with 1000
+1000 bp
+bp of
+of flanking
+flanking regions
+diagnostic primer sets were used to verify correct integration of the marker cassette and deletion of HuATF1. The G5/G6
+diagnostic primer sets were used to verify correct integration of the marker cassette and deletion of HuATF1. The G5/G6
+primer set was used to determine the absence of HuATF1, and thus a double knock-out due to the different nucleotide size
+primer set was used to determine the absence of HuATF1, and thus a double knock-out due to the different nucleotide size
+of HuATF1 and HuTEF1-hph; (c) GelRed stained agarose gel showing PCR amplification of HuATF1 using primer set 39/40.
+of HuATF1
+and
+HuTEF1-hph;
+(c) GelRed
+stained
+gel #40
+showing
+HuATF1
+using primer
+39/40.
+(1)
+DSM2768
+Ctrl,
+(2) DSM2768
+#34 (WT/Δ),
+(3)agarose
+DSM2768
+(Δ/Δ),PCR
+(4) amplification
+DSM2768 #46of(Δ/Δ),
+(5) DSM2768
+#97set
+(WT/Δ).
+(1) DSM2768
+Ctrl,
+(2) DSM2768
+(3) DSM2768
+#40 (∆/∆),
+(4) DSM2768
+#46 (∆/∆), (5)of
+DSM2768
+#97single,
+(WT/∆).
+Resulting
+bands
+with
+size of ~1.4#34
+kb;(WT/∆),
+(d) GelRed
+stained agarose
+gel showing
+PCR amplification
+wild type,
+or
+Resulting
+bands with
+size of ~1.4
+(d) GelRed
+stained
+agarose
+gel showing
+amplification
+of wild
+single,#34
+or
+double
+knock-out
+of HuATF1
+usingkb;
+primer
+set 41/42
+(G5/G6).
+(1) DSM2768
+Ctrl,PCR
+(2) DSM2768
+#40 (Δ/Δ),
+(3)type,
+DSM2768
+(WT/Δ).
+Resulting of
+bands
+withusing
+size of
+2 kb and
+2.5 kb.(G5/G6). (1) DSM2768 Ctrl, (2) DSM2768 #40 (∆/∆), (3) DSM2768 #34
+double knock-out
+HuATF1
+primer
+set 41/42
+(WT/∆). Resulting bands with size of 2 kb and 2.5 kb.
+
+2.2. Generation of Strains and Verification of Transformants
+2.2. Generation
+Strains
+Verification
+of Transformants
+We appliedofthe
+two and
+main
+Saccharomyces
+transformation procedures based on chemical orWe
+electro
+competence
+in
+order
+to
+transform
+H. uvarum.
+Although
+both
+applied the two main Saccharomyces transformation
+procedures
+based
+on methods
+chemical
+yielded
+transformants,
+electroporation
+yielded
+transformants.
+Themethods
+specific electroor electro
+competence in
+order to transform
+H. more
+uvarum.
+Although both
+yielded
+poration
+protocol
+used, involved
+a sensitising
+step with lithium
+acetateelectroporation
+[43]. We contransformants,
+electroporation
+yielded
+more transformants.
+The specific
+structed
+cassettes
+containingstep
+thewith
+resistance
+(hph),selecgeprotocol selection
+used, involved
+a sensitising
+lithiummarkers
+acetate for
+[43].hygromycin
+We constructed
+neticin
+(neoR),
+nourseothricin
+(clonNAT,
+natI),
+and
+zeocin
+(Sh
+Ble),
+commonly
+used
+for
+tion cassettes containing the resistance markers for hygromycin (hph), geneticin (neoR),
+yeasts.
+The transformation
+of H. and
+uvarum
+with(Sh
+theBle),
+hygromycin-resistance
+cassette
+nourseothricin
+(clonNAT, natI),
+zeocin
+commonly used for selection
+yeasts. The
+transin
+the formof
+ofH.
+a linearised
+plasmid,
+containing HuTEF1 and
+hph, each
+flanked
+byform
+1000of
+bpa
+formation
+uvarum with
+the hygromycin-resistance
+selection
+cassette
+in the
+upstream
+downstream
+homology
+regions
+of the
+ORF
+of HuATF1,
+yielded
+many translinearisedand
+plasmid,
+containing
+HuTEF1
+and hph,
+each
+flanked
+by 1000
+bp upstream
+and
+downstream
+homology
+regionscolonies.
+of the ORF
+of HuATF1,
+yielded
+transformants,
+withformants,
+without
+background
+In total,
+more than
+100 many
+colonies
+were re-streaked
+outselection
+background
+colonies.
+In total,
+more and
+thangenomic
+100 colonies
+on selection
+on
+plates,
+incubated
+overnight,
+DNAwere
+wasre-streaked
+isolated. Subsequently,
+plates,
+incubated
+overnight,
+and genomic
+DNAFigure
+was isolated.
+Subsequently,
+PCR
+with
+PCR
+with
+diagnostic
+primers (G1/G2
+and G3/G4,
+2b) was used
+to verify the
+correct
+diagnostic
+primers
+(G1/G2
+and
+G3/G4,
+Figure
+2b)
+was
+used
+to
+verify
+the
+correct
+intended
+intended integration of the selection cassette. In 99% of the colonies, the targeted insertion
+integration
+of the
+selection
+cassette.
+In 99%via
+of PCR.
+the colonies,
+the targeted
+insertion
+the
+of
+the selection
+cassette
+could
+be detected
+Integration
+of the cassette
+wasofalso
+selection cassette
+could be detected
+via G1-G2
+PCR. Integration
+of the
+cassette
+also
+confirmed
+confirmed
+by sequencing
+of both the
+PCR product
+and
+G3-G4was
+PCR
+product.
+In
+by sequencing
+of both
+the G1-G2
+PCRamplified
+product and
+G3-G4
+PCR product.
+In addition,
+addition,
+a second
+HuATF1
+allele was
+by PCR
+suggesting
+a diploid
+state of H.a
+second HuATF1 allele was amplified by PCR suggesting a diploid state of H. uvarum.
+uvarum.
+Unfortunately, we
+we were
+were unable
+unable to
+to obtain
+obtain H.
+H. uvarum
+uvarum transformants
+transformants using
+using geneticin,
+geneticin,
+Unfortunately,
+nourseothricin,
+or
+zeocin
+in
+selection
+media.
+We
+found
+H.
+uvarum
+to
+be
+extremely
+resistant
+nourseothricin, or zeocin in selection media. We found H. uvarum to be extremely resistant
+to
+these
+antibiotics
+even
+when
+we
+increased
+the
+concentration
+to
+two
+to
+three
+times
+more
+to these antibiotics even when we increased the concentration to two to three times more
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+5 of 16
+
+than what is recommended for the selection of S. cerevisiae transformants. This left us
+without a second dominant selection marker.
+Since hygromycin proved to be the only antibiotic with which we were able to obtain
+H. uvarum transformants, we decided to transform it and plate the cells out on selective
+agar plates containing a three-fold higher concentration of hygromycin. From two out
+of 100 transformants that we obtained, we could not amplify an internal HuATF1 band
+even after several PCR attempts, which suggested that both alleles of ATF1 had been
+removed (Figure 2c). Primers were designed that bind outside the selection marker to the
+genomic DNA upstream and downstream of HuATF1 (G5/G6, Figure 2b) and were used
+to amplify this sequence via PCR. GelRed stained agarose gel can be found in Figure 2d.
+While Samples 1 (DSM2768 Ctrl) and 2 (DSM2768 #40) show only one band each, with
+sizes of 2 kb (Sample 1) and 2.5 kb (Sample 2), two bands of both sizes are visible in Sample
+3 (DSM2768 #34). In H. uvarum DSM2768, only the HuATF1 band is visible. DSM2768 #34
+showed two bands (HuATF1 and the selection cassette) indicative of a heterozygous state
+(single knock-out).
+The transformant DSM2768 #40 (Sample 2) showed only one band corresponding to
+the size of the selection cassette, indicating an integration via homologous recombination.
+Sanger sequencing using primers G5 and G6 confirmed that only the HuTEF1-hph marker
+could be amplified from transformant DSM2768 #40. Accordingly, this is indicative of a
+homozygous deletion (double knock-out). Two independent homozygous deletion mutants
+were obtained (DSM2768 #40 and DSM2768 #46). The transformation efficiency of receiving
+double knock-out transformants obtained using the higher concentration of antibiotic
+was 2%.
+2.3. Fermentations and Phenotypical Characterisation
+In order to determine the phenotype of the transformants, fermentations with MüllerThurgau must were performed. The phenotypical characterisation is shown in Figure 3.
+The most noteworthy difference between the double knock-out transformants (DSM2768
+#40 and DSM2768 #46) and the control was the acetate ester content (Figure 3a). The most
+abundant acetate ester, ethyl acetate, had a concentration of 600–800 mg/L less in the
+∆/∆ strains than the control (Supplementary Figure S2a). The four other acetate esters
+measured isoamyl acetate, 2-methylbutyl acetate, hexyl acetate, and 2-phenylethyl acetate
+also had significantly reduced amounts. In general, the alcohols of the respective esters
+showed an increase in the ∆/∆ strains, which also includes ethanol (Figures 3c and 4b and
+Supplementary Figure S3). The ∆/∆ strains had an ~10% increase in ethanol. Interestingly,
+the ∆/∆ strain produced no detectable acetic acid and slightly increased levels of certain
+ethyl esters (ethyl propionate and ethyl butyrate) were found (Supplementary Figure S2f–h).
+The sugar consumption of all the strains was comparable over the period of three days
+(Figure 4a). The strain in which only one allele of HuATF1 was removed performed similarly to the control strain apart from isoamyl acetate, 2-methylbutyl acetate, isobutanol,
+and 2-phenyl ethanol, which increased slightly in production as compared with the control
+(Supplementary Figures S2 and S3). On the basis of the observation that the putative
+double knock-out yeast strains metabolised the same amounts of sugars as the control
+strain, it was concluded that the transformants were a physiological fit.
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+6 of 17
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+6 of 16
+
+Figure 3.
+3.Acetate
+Acetateester
+esterproduction
+productionand
+andformation
+formationof
+ofhigher
+higheralcohols
+alcoholsduring
+duringfermentation.
+fermentation.(a)
+(a)Total
+Totalacetate
+acetateester
+esterproduction
+production
+Figure
+(mg/L)
+(mg/L)including
+includingethyl
+ethylacetate,
+acetate,isoamyl
+isoamylacetate,
+acetate,2-methylbutyl
+2-methylbutylacetate,
+acetate,hexyl
+hexylacetate,
+acetate,and
+and2-phenylethyl
+2-phenylethyl acetate;
+acetate; (b)
+(b) Acetate
+Acetate
+ester
+(mg/L) including
+ester production
+production (mg/L)
+(mg/L)excluding
+excludingethyl
+ethylacetate;
+acetate; (c)
+(c) The
+The formation
+formation of
+of respective
+respective higher alcohols (mg/L)
+including isoamyl
+isoamyl
+alcohol,
+hexanol, and
+and2-phenyl
+2-phenylethanol
+ethanolafter
+afterthree
+threedays
+daysofoffermentation
+fermentationofofMüller-Thurgau
+Müller-Thurgau
+must
+with
+alcohol, 2-methyl-1-butanol,
+2-methyl-1-butanol, hexanol,
+must
+with
+H.
+H.
+uvarum
+DSM2768
+for
+comparison
+(DSM2768
+Ctrl),
+DSM2768
+#34
+(WT/Δ),
+DSM2768
+#40
+(Δ/Δ),
+and
+DSM2768
+#46
+(Δ/Δ).
+uvarum DSM2768 for comparison (DSM2768 Ctrl), DSM2768 #34 (WT/∆), DSM2768 #40 (∆/∆), and DSM2768 #46 (∆/∆).
+Pure must without the addition of yeasts served as a negative control (Must Ctrl). Total ester production was measured
+Pure must without the addition of yeasts served as a negative control (Must Ctrl). Total ester production was measured
+via HS-SPME-GC-MS analysis while acetic acid production was measured via high performance liquid chromatography
+via HS-SPME-GC-MS analysis while acetic acid production was measured via high performance liquid chromatography
+(HPLC) analysis. Data are the mean of three independent experiments ± SEM, 1-way ANOVA, Bonferroni´s multiple com(HPLC)test,
+analysis.
+Data
+are****
+thep mean
+of three
+SEM, 1-way ANOVA, Bonferroni’s multiple
+parison
+* p < 0.05
+and
+< 0.0001.
+Error independent
+bars indicate experiments
+the standard ±
+deviation.
+comparison test, * p < 0.05 and **** p < 0.0001. Error bars indicate the standard deviation.
+
+Figure 4. (a) Total sugar consumption (g/L); (b) Ethanol production (%) after three days of fermentation of Müller-Thurgau
+Figure 4. (a) Total sugar consumption (g/L); (b) Ethanol production (%) after three days of fermentation of Müller-Thurgau
+must with
+with H.
+H. uvarum
+uvarum DSM2768
+DSM2768 for
+DSM2768 #40
+andDSM2768
+DSM2768
+must
+for comparison
+comparison (DSM2768
+(DSM2768 Ctrl),
+Ctrl), DSM2768
+DSM2768#34
+#34(WT/∆),
+(WT/Δ), DSM2768
+#40 (∆/∆),
+(Δ/Δ), and
+#46
+(∆/∆).
+Pure
+must
+without
+the
+addition
+of
+yeasts
+served
+as
+a
+negative
+control
+(Must
+Ctrl).
+The
+amount
+of
+total
+sugar
+and
+#46 (Δ/Δ). Pure must without the addition of yeasts served as a negative control (Must Ctrl). The amount of total sugar
+and
+ethanol
+produced
+was measured
+via performance
+high performance
+chromatography
+analysis.
+Data
+are theofmean
+ethanol
+produced
+was measured
+via high
+liquid liquid
+chromatography
+(HPLC)(HPLC)
+analysis.
+Data are
+the mean
+three
+of
+three independent
+experiments
+SEM,ANOVA,
+1-way ANOVA,
+Bonferroni´s
+comparison
+*** p Error
+< 0.001.
+Error
+bars
+independent
+experiments
+± SEM, ±1-way
+Bonferroni’s
+multiplemultiple
+comparison
+test, *** ptest,
+< 0.001.
+bars
+indicate
+indicate
+the standard
+deviation.
+the standard
+deviation.
+
+3.
+3.Discussion
+Discussion
+Hanseniaspora
+Hanseniaspora uvarum
+uvarum is
+isan
+animportant
+important yeast
+yeastin
+inthe
+thebeverage
+beverageindustry,
+industry, in
+in particular
+particular for
+for
+wine. In
+Inrecent
+recentyears,
+years,researchers
+researchers have
+have shown
+shown particular
+particular interest
+interest in
+in this
+this yeast,
+yeast, and
+and reports
+reports
+wine.
+on its
+its beneficial
+beneficial impact
+impact on
+on winemaking
+winemaking as
+as well
+well as
+as several
+several genome
+genome sequences
+sequences have
+have been
+been
+on
+published [34–37].
+[34–37]. Despite
+Despitethe
+thegrowing
+growinginterest,
+interest, to
+to date,
+date, there
+there are
+are no
+no genetic
+genetic modification
+modification
+published
+tools available
+available for
+for H.
+H. uvarum.
+uvarum.
+tools
+Our study attempts to fill this gap and describes a successful genetic modification
+experiment in H. uvarum. A common antibiotic used in eukaryotic transformations, hy-
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+7 of 16
+
+gromycin, proved to be effective for selection purposes. Furthermore, H. uvarum was
+found not to be sensitive against other standard antibiotics which complicated our attempts to generate a double knock-out of the HuATF1 gene. However, by increasing the
+hygromycin concentration, we were able to obtain colonies in which both alleles of HuATF1
+were successfully deleted. The transformation of H. uvarum DSM2768 with the linearised
+DNA containing the hygromycin selection cassette resulted in a highly efficient deletion
+of HuATF1. Previous reports have suggested that the phenotype of antibiotic resistance is
+dose dependent and that transformation efficiency correlates with the copy number in the
+yeast cell [44–46]. Hashida-Okado et al. [47] succeeded in generating a null mutant of a
+diploid S. cerevisiae strain by transforming with only one selection marker. These authors
+have shown that it is possible to disrupt both gene copies of homologous chromosomes of
+diploid cells in only one transformation step using one selection marker. After increasing
+the concentration of the antibiotic in the selective agar medium, transformants (such as
+DSM2768 #40) lacking HuATF1 were obtained, and integration of the selection cassette
+could be verified. On the basis of these results, it was concluded that DSM2768 #40 (as well
+as DSM2768 #46) is a null mutant.
+We showed that it was also possible to generate a double knock-out of ATF1 in H.
+uvarum in such a fashion using only one selection cassette. This was done by tripling the
+antibiotic concentration in the selective plates. Here, the transformation efficiency of a
+single knock-out was 98% and that of a double knock-out was 2%.
+The double knock-out stains showed a dramatic reduction in ethyl acetate production
+(~40%). HuATF1 deletion did not completely abolish ethyl acetate production, suggesting
+other transferase enzymes to be involved in its production besides HuATF1. This is similar
+to S. cerevisiae, as up to half of the ethyl acetate is still present when the major ATF genes
+(ATF1 and ATF2) are deleted, which are also known to be associated with ethyl acetate
+production [48,49].
+The reduction in ethyl acetate was accompanied by an increase in the formation of
+ethanol. This can be explained by the function of ATF1 to esterify ethanol to ethyl acetate. In
+the case of a deletion of HuATF1, this esterification of ethanol to ethyl acetate is restricted,
+resulting in an accumulation of ethanol during fermentation. The same applies to the
+other acetate esters and their respective alcohols. In addition to ethyl acetate, other acetate
+esters were also produced in smaller quantities by the null mutant strain. In contrast, the
+production of the corresponding alcohols increased significantly. Contrary to what we
+expected, significantly lower levels of acetic acid were produced by the double knockout strains. This is in contrast to a previous study in S. cerevisiae, where no significant
+differences in acetic acid levels were detected in an ATF1 knock-out strain as compared
+with the wild type [50]. Overexpression of ATF1 in S. cerevisiae led to a decrease in acetic
+acid production [48,51], presumably as more of the available pool of acetyl coenzyme A
+(acetyl-CoA) is needed for the acetate ester synthesis. As a major catalyst for acetate ester
+production was removed in H. uvarum, we were not expecting a dramatic drop in acetic
+acid levels. This astonishing finding warrants further investigation.
+The knock-out of HuATF1 did not lead to any apparent reduction in the vitality of
+H. uvarum. The null mutant strain metabolised the same amounts of total sugars as the
+control strain.
+The development of suitable transformation tools for the widespread wine yeast H.
+uvarum enables more detailed investigations of the individual metabolic pathways for the
+formation of aroma compounds and the genes involved. In S. cerevisiae, these methods
+are common practice, and thus the individual gene functions and metabolic pathways are
+well characterised. Up to now, a detailed investigation of H. uvarum has not been possible.
+The next steps are the development of additional selection markers and the knock out or
+overexpression of other genes involved in the metabolism of the aroma compounds in
+H. uvarum.
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+8 of 16
+
+4. Materials and Methods
+4.1. Strains and Culture Conditions
+The yeast strains used and generated in this study (see Table 1) were routinely cultivated in YPD (1% yeast extract, 2% glucose, and 2% peptone) at either 25 ◦ C (H. uvarum)
+or 30 ◦ C (S. cerevisiae). Solid YPD plates were prepared by adding 2% agar and for transformation, two different concentrations of hygromycin b (200 and 600 µg/mL) were used.
+Plasmids were propagated in Escherichia coli DH5alpha in 2xYT (1.6% tryptone, 1% yeast
+extract, and 0.5% NaCl) supplemented with 100 µg/mL ampicillin.
+Table 1. Strains used and generated in this study.
+Strain
+BY4741
+DSM2768
+DSM2768 (WT/∆)
+DSM2768 (∆/∆)
+
+Feature/Genotype
+
+Source
+
+Saccharomyces cerevisiae MATa his3∆1,
+leu2∆0, met15∆0, ura3∆0
+Hanseniaspora uvarum ATF1/ATF1
+Hanseniaspora uvarum
+ATF1/atf1:HuTEF1-hph
+Hanseniaspora uvarum
+atf1:HuTEF1-hph/atf1:HuTEF1-hph
+
+Euroscarf, Oberursel,
+Germany
+[38]
+This study
+This study
+
+4.2. Plasmid Design and Construction
+Plasmids used in this study are listed in Table 2. Primers required for plasmid constructions are listed in Table 3. Plasmid constructions were assembled in S. cerevisiae BY4741 by
+yeast assembly. Plasmid DNAs were amplified in E. coli and prepared using a Plasmid Midi
+Purification Kit (Genaxxon, Ulm, Germany). For sequencing verification, PCR fragments
+were cloned either into pJET (Thermo Fisher Scientific, Waltham, MA, USA) or pGEM
+(Promega, Madison, WI, USA). DNA sequences of H. uvarum were obtained from the
+publicly available genomes of both DSM2768 (Accession: SAMN01885404) and AWRI3580
+(Accession: SAMN04331434). By using corresponding S. cerevisiae homologs as queries,
+putative regions of interest, including the ATF1 locus (HuATF1) and the promoter regions
+of TEF1, FBA1, and PGK1 were identified using the BLAST function on NCBI. The TEF1,
+FBA1, and PGK1 promoter were amplified from H. uvarum DSM2768 genomic DNA using
+primers 1/2 (TEF1), 3/4 (FBA1), and 5/6 (PGK1). To test for promoter activity, the LacZ
+ORF was placed under the control of H. uvarum promoters using primers 7/8 (HuTEF1promoter), 9/10 (HuFBA1-promoter), and 11/12 (HuPGK1-promoter), which added 40 bp
+of flanking homology region to pLacZ (Figure 1). The upstream region of the LacZ ORF [41]
+was removed by restriction digestion of pLacZ with KpnI and XhoI. The linearised vector
+and H. uvarum promoters (HuTEF1, HuFBA1, and HuPGK1) were transformed into yeast
+and fused to LacZ by in vivo recombination. Transformed cells were plated out on YPD
+plates +200 µg/mL geneticin. After two days of incubation, X-Gal was pipetted onto plates,
+and then plates were incubated to visualise beta-glucosidase activity. All restriction enzymes were purchased from Thermo Fisher Scientific (Waltham, MA, USA) and all primers
+were purchased from Sigma-Aldrich (Steinheim, Germany). The analyses of all PCR and
+restriction digestion products were performed by gel electrophoresis separation on 1%
+agarose gels, stained with GelRed (Genaxxon Bioscience, Ulm, Germany). Sequencing was
+conducted by Starseq, Mainz, Germany.
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+9 of 16
+
+Table 2. Plasmids used and generated in this study.
+Strain
+
+Feature/Genotype
+
+Source
+
+pRS415
+pGEM
+
+bla, LEU2
+bla
+
+pJET
+
+bla
+
+[52]
+Promega, Madison, WI, USA
+Thermo Fisher Scientific,
+Waltham, MA, USA
+
+pRS417-SsTEF-lacZ
+pRS417-SsMET25-lacZ
+pRS417-HuTEF-lacZ
+pRS417-HuFBA-lacZ
+pRS417-HuPGK-lacZ
+pRS40H
+pTEF
+pJB1-HuTEF-hph
+pJB2-HuTEF-hphATF1up/down
+pFA-KanMX6
+pJB3-HuTEF-neoR
+pFA-NatMX3
+pJB4-HuTEF-natI
+pZeoR
+pJB5-HuTEF-Sh Ble
+pJB6-HuTEF-Sh
+Ble-ATF1up/down
+
+bla, GEN3, lacZ driven by
+S. schoenii TEF1 promoter
+bla, GEN3, lacZ driven by
+S. schoenii MET25 promoter
+bla, GEN3, lacZ driven by
+H. uvarum TEF1 promoter
+bla, GEN3, lacZ driven by
+H. uvarum FBA1 promoter
+bla, GEN3, lacZ driven by
+H. uvarum PGK1 promoter
+HygMX
+pJET-HuTEF1
+pRS415-HuTEF1-hph
+pRS415-HuTEF1-hph-1000 bp
+HuATF1 upstream/downstream
+KanMX6
+pRS415-HuTEF1-neoR
+NatMX3
+pRS415-HuTEF1-natI
+BleMX6
+pRS415-HuTEF1-Sh Ble
+pRS415-HuTEF1-Sh Ble-1000 bp
+HuATF1 upstream/downstream
+
+[41]
+[41]
+This study
+This study
+This study
+[53]
+This study
+This study
+This study
+[54]
+This study
+[55]
+This study
+[56]
+This study
+This study
+
+Table 3. Primers used in this study.
+Primer Number
+
+Sequence 50 → 30
+
+Primer Name
+Hu-Promoter Test
+
+1
+2
+3
+4
+5
+6
+
+TEF_L
+TEF_R
+FBA_L
+FBA_R
+PGK_L
+PGK_R
+
+7
+
+TEF forw. LacZ
+
+8
+
+TEF rev. LacZ
+
+9
+
+FBA forw. LacZ
+
+10
+
+FBA rev. LacZ
+
+11
+
+PGK forw. LacZ
+
+12
+
+PGK rev. LacZ
+
+TTGATGGATAACTTGAAGGC
+TCTATATACTGTATACCTTAG
+GAAGATATACTAAATTTGTCCC
+AATGTATGTATTTGTATAATTGATATTATTATGG
+TGATTATGACTCTGATAGCAAC
+TTTTAAGATTTGTAGTAATTTAATTGTTTATATG
+CGCCAGGGTTTTCCCAGTCACGACGTTGTAAAACG
+ACGGCCAGTGTTGATGGATAACTTGAAGGC
+CAATCTTTGGATCGTTTAAATAAGTTTGAATTTTT
+TCAGTCATGTTTCTATATACTGTATACCTTAG
+CGCCAGGGTTTTCCCAGTCACGACGTTGTAAAACG
+ACGGCCAGTGGAAGATATACTAAATTTGTCCC
+CAATCTTTGGATCGTTTAAATAAGTTTGAATTTTTTCAGTCA
+TGTTAATGTATGTATTTGTATAATTGATAT TATTATGG
+CGCCAGGGTTTTCCCAGTCACGACGTTGTAAAAC
+GACGGCCAGTGTGATTATGACTCTGATAGCAAC
+CAATCTTTGGATCGTTTAAATAAGTTTGAATTTTTTCAGTC
+ATGTTTTTTAAGATTTGTAGTAATTTAATTGTTTATATG
+
+Construction Knock-Out Cassette hph
+13
+
+pRS415 (ov) + TEF_L
+
+14
+
+TEF_R+hyg (ov)
+
+15
+
+TEF (ov) + hyg_L
+
+ATTGGGTACCGGGCCCCCCCTCGAGGTCGACGGTA
+TCGATTTGATGGATAACTTGAAGGC
+TTTTTCAACAGAAGTAGCAGTCAATTCTGGTTTTT
+TCATTCTATATACTGTATACCTTAG
+AGCGGTATAACCATAGAAACTAAGGTATACAGTAT
+ATAGAATGAAAAAACCAGAATTGAC
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+10 of 16
+
+Table 3. Cont.
+Primer Number
+
+Sequence 50 → 30
+
+Primer Name
+Construction Knock-Out Cassette hph
+
+16
+
+hyg_R + pRS415 (ov)
+
+17
+
+pRS415 (ov) + ATFup_L
+
+18
+
+ATFup_R + TEF (ov)
+
+19
+
+Hyg (ov) + ATFdown_L NEW
+
+20
+
+ATFdown_R + pRS415 (ov) NEW
+
+21
+
+ATFup (ov) + TEF_L
+
+22
+
+Hyg_R + ATFdown (ov) NEW
+
+GCTGGAGCTCCACCGCGGTGGCGGCCGCTCTAGAA
+CTAGTAGGACCACCTTTGATTGTAA
+ATTGGGTACCGGGCCCCCCCTCGAGGTCGACGGTA
+TCGATGTACATCTGTTTTTAATGCT
+AGTATGGCCATTGTTATGATGCCTTCAAGTTATCC
+ATCAACTCCGAGGTAATGTTTTTGA
+AGGGTGGTAATTATTACTATTTACAATCAAAGGTG
+GTCCTTCAAAATATTGTATTTTCTT
+CTGGAGCTCCACCGCGGTGGCGGCCGCTCTAGAAC
+TAGTGTATCCCAACAAAAGATAGAA
+TTAACCCCAGCAGGAATACATCAAAAACATTACCT
+CGGAGTTGATGGATAACTTGAAGGC
+TAAAAAGAATAAAACTTTGAAAGAAAATACAATAT
+TTTGAAGGACCACCTTTGATTGTAA
+
+Construction Knock-Out Cassette neoR, natI, Sh Ble
+23
+
+TEF_R + kanMX (ov)
+
+24
+
+TEF (ov) + kanMX_L
+
+25
+
+kanMX_R + pRS415 (ov)
+
+26
+
+kanMX_R + ATFdown (ov)
+
+27
+
+kanMX (ov) + ATFdown_L
+
+28
+
+TEF_R + clo (ov)
+
+29
+
+clo_L + TEF (ov)
+
+30
+
+TEF_R + Zeo (ov)
+
+31
+
+Zeo_L + TEF (ov)
+
+32
+
+ATFdown_L + Zeo (ov)
+
+33
+
+Zeo_R + ATFdown (ov)
+
+34
+
+Zeo_R + pRS415 (ov)
+
+CGTATAAATCAGCATCCATTCTATATACTGTATACC
+TTAGTTTCTATGGTTATACCGCTA
+AGCGGTATAACCATAGAAACTAAGGTATACAGTAT
+ATAGAATGGATGCTGATTTATACGG
+GCTGGAGCTCCACCGCGGTGGCGGCCGCTCTAGAA
+CTAGTTAATAAATTATTTTTATTGT
+GGATCGTAAAGTCTATTAAAACTTTTAAAGTAATT
+GAACTTAATAAATTATTTTTATTGT
+TTCTTGCTTTATAAATAACAACAATAAAAATAATTT
+ATTAAGTTCAATTACTTTAAAAGT
+CCAATGTTTCAGCAACTTGTTCAGGAATAACAGAAA
+TTTTTCTATATACTGTATACCTTA
+AGCGGTATAACCATAGAAACTAAGGTATACAGTAT
+ATAGAAAAATTTCTGTTATTCCTGA
+GAGCAGTCAGGACTGGAACAGCAGAGGTGAGTTTA
+GCCATTCTATATACTGTATACCTTA
+AGCGGTATAACCATAGAAACTAAGGTATACAGTAT
+ATAGAATGGCTAAACTCACCTCTGC
+GTTTTATTATCTATTTATGCCCTTATATTCTGTAACTA
+TCTCAAAATATTGTATTTTCTT
+TAAAAAGAATAAAACTTTGAAAGAAAATACAATAT
+TTTGAGATAGTTACAGAATATAAGG
+CTGGAGCTCCACCGCGGTGGCGGCCGCTCTAGAACT
+AGTGGATAGTTACAGAATATAAGG
+
+Verification of Gene Deletion in H. uvarum (see Figure 2)
+35
+36
+37
+38
+39
+40
+41
+42
+
+G1 ATF1 F
+G2 R
+G3 F
+G4 ATF1 R NEW
+ATF1_L
+HuATF1 R
+G5 ATFup-TEF_L
+G6 ATFdown-Hyg_R
+
+ATTCCTGCGCAGTCTTAAGCTT
+CAAATCGCTGAAATGGGTGCT
+CAGGTGCTGGTACTGTTGGT
+AGAATCTTTTGACCGAGCATGA
+TTAATTAAATGCTTACGCTTTCGGATGTTC
+AAAGGCGCGCCTACAATATTTTGACTAAATGTTAT
+CAAAAGGCAACCATTCCCCC
+CTGCCATGGCCAATATTCCA
+
+The transformation cassette for creating a null mutant of the ATF1 gene within the
+genome of H. uvarum is shown in Figure 2b. For selection of transformants, the hygromycinresistance gene ORF was placed under control of HuTEF1 promoter. The pRS415 vector
+was linearised using BamHI and HindIII. Flanking adaptor regions to control in vivo recombination were added to HuTEF1 and hph marker fragments using the primer set 13/14 and
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+11 of 16
+
+15/16. Next, BY4741 was transformed with the two PCR products and the cut vector. In addition, 1000 bp homology region upstream and downstream of HuATF1 gene was amplified
+from H. uvarum DSM2768 genomic DNA using primers 17/18 and 19/20, containing 40 bp
+flanking homology region to pRS415 and either HuTEF1 or hph. Flanking homology regions
+to guide in vivo recombination were added to pJB1-HuTEF-hph using primers 21/22. Then,
+BY4741 was transformed with the three PCR products and the linearised vector. Further
+knock-out cassettes with resistance genes against geneticin (neoR), nourseothricin (natI),
+and zeocin (Sh Ble) under the control of the HuTEF1 promoter were designed similar to the
+hygromycin knock-out cassette. Primers 23–34 are additional primers that were specifically
+used to assemble the knock-out cassettes with these three antibiotic resistances.
+To transform H. uvarum DSM2768, the constructed plasmid (pJB2-HuTEF-hphATF1up/down) was linearised using XhoI and XbaI. The cut plasmid was purified using
+GeneJET Gel Extraction Kit (Thermo Fisher Scientific, Waltham, MA, USA).
+4.3. Yeast Transformation
+The transformation of S. cerevisiae was done according to the lithium acetate/single
+strand DNA/polyethylene glycol 4000 protocol described by Gietz and Schiestl [57].
+For transformation of H. uvarum DSM2768, an adaption of the protocols described by
+Thompson et al. [58] and Bernardi et al. [43] was used. H. uvarum DSM2768 was grown
+overnight in 5 mL YPD at 30 ◦ C. Then, the culture was transferred into 50 mL YPD and
+incubated at 25 ◦ C for 5 h. After centrifuging and washing with sterile double-distilled
+water, the culture was resuspended in 25 mL ice-cold 0.1 M lithium acetate/10 mM dithiothreitol/10 mM TE solution and incubated at room temperature for 1 h. The pellet was
+washed in 25 mL ice-cold sterile double-distilled water first, and then washed with 10 mL
+of ice-cold 1 M sorbitol. After centrifugation at 4 ◦ C, the cells were resuspended in 100 µL of
+ice-cold 1 M sorbitol. For transformation, 100 µL of cell suspension were used per sample.
+An aliquot of 15 µL of transforming DNA or sterile distilled water as negative control,
+respectively, was mixed with the cell suspension and incubated on ice for 5 min before
+electroporation with 1.8 kV in 0.2 cm cuvettes. Cells were resuspended in 1 mL of ice-cold
+1 M sorbitol and 300 µL YPD and transferred into a 1.5 mL reaction tube for a 3 h incubation
+at 30 ◦ C. Shortly before the cells were plated out on selective plates (concentration of antibiotics: hygromycin 200–600 µg/mL, geneticin 200 µg/mL, nourseothricin 100–200 µg/mL,
+andzeocin 50–700 µg/mL) which did not contain sorbitol, they were centrifuged, and the
+cell pellet resuspended in 1 mL of YPD.
+4.4. Verification of Yeast Transformants
+Yeast transformants were picked, re-streaked on selection plates, and inoculated in
+5 mL YPD including 200 µg/mL hygromycin. Genomic DNA was isolated from these cells
+by suspending a colony in a 100 µL solution of 200 mM lithium acetate and 1% sodium
+dodecyl sulphate and incubating in a 70 ◦ C heat block, for three minutes. Thereafter,
+300 µL of cooled 100% ethanol was added and centrifuged for 3 min at 13.000 min−1 . The
+supernatant was discarded, then, 400 µL of cooled 70% ethanol was added and centrifuged
+again with the same settings. The supernatant was discarded, and the pellet was left to
+dry. Afterwards, the pellet was resuspended in 50 µL of TE buffer. For verification of
+transformation, G-primers were constructed (Figure 2b), targeting ~20 bp located within
+the transformation cassette (primers 36/37) and ~20 bp located within the genome of
+H. uvarum DSM2768 (primers 35/38). The resulting PCR product included either the
+1000 bp HuATF1 upstream or downstream region, respectively (primer sets used, 35/36
+and 37/38).
+4.5. Fermentations
+In this study, pasteurised Müller-Thurgau grape must, harvested in 2019 from a vineyard of the Hochschule Geisenheim University in the Rheingau wine region of Germany,
+was used. The total sugar content was 180.9 g/L, of which 87.0 g/L was glucose and
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+12 of 16
+
+93.3 g/L was fructose. The primary amino acid content of the must was analysed using
+the NOPA (nitrogen by o-phthaldialdehyde) assay and it amounted to 19.73 mg/L. The
+free ammonium level was 8.17 mg/L, as determined using a Rapid Ammonium kit from
+Megazyme (Bray, Ireland).
+Fermentations with pasteurised Müller-Thurgau grape must using H. uvarum DSM2768,
+as well as the transformants H. uvarum DSM2768 (WT/∆)/(∆/∆) generated within this
+study, were performed. Precultures of all yeast strains were prepared in shake flasks with
+YPD and incubated overnight at 30 ◦ C. The next day, the must was inoculated with approximately 1 × 106 cells/mL (as determined via hemocytometer). Fermentations were
+carried out in triplicate, utilising 250 mL fermentation flasks closed with aluminium foil.
+The fermentation temperature was 17 ◦ C and flasks were shaken at 120 min−1 and fermentation was stopped after 3 days. Samples for high performance liquid chromatography
+(HPLC) analysis and volatile compound analysis (VCA) were taken and directly measured
+analytically. In addition, the bio-dry mass was determined.
+4.6. High Performance Liquid Chromatography (HPLC) Analysis
+The final concentrations of the major organic acids, sugars, and ethanol were determined by HPLC, using a method according to Schneider et al. [59] and modified as
+described in [60]. An HPLC Agilent Technologies Series 1100, equipped with a binary
+pump, an autosampler, a multi-wavelength detector (MWD), and a refractive index detector (RID, Agilent Technologies, Steinheim, Germany) was employed. A column with
+a length of 250 mm, an inside diameter of 4.6 mm, and a particle size of 5 µm was used
+for the measurements (Allure Organic Acids Column, Restek, Bad Homburg v. d. Höhe,
+Germany). The MWD was set at a wavelength of 210 nm for the detection of organic
+acids and the RID was used for the detection of carbohydrates, organic acids, and ethanol.
+The eluent used was double distilled water with 0.5% ethanol and 0.0139% concentrated
+sulfuric acid. The flow rate was 0.6 mL/min at a temperature of 46 ◦ C.
+4.7. Volatile Compound Analysis
+To analyse volatile compounds, headspace-solid phase microextraction gas chromatography mass spectrometry (HS-SPME-GC-MS) analysis was applied according to
+Câmara et al. [61]. An amount of 5 mL of each sample was needed to measure the quantity
+of different aroma compounds. A GC 7890 A, equipped with a MS 5975 B (both Agilent,
+Santa Clara, CA, USA), and MPS robotic autosampler and CIS 4 (both Gerstel, Mülheim
+an der Ruhr, Germany), was used. Before the addition of 5 mL of wine sample and 10 µL
+of internal standard each (concentration of stock solution standards, 600 mg/L 1-octanol
+and 52 mg/L cumene), 1.7 g NaCl were weighed into a 20 mL headspace vial. Solid phase
+microextraction was carried out using a 65 µm polydimethylsiloxane and divinylbenzol
+fiber (Supelco, Merck, Darmstadt, Germany). Aroma compound separation was performed
+with a 60 m × 0.25 mm × 1 µm gas chromatography column (Rxi® -5Si1 MS w/5m Integraguard, Restek, Bad Homburg v. d. Höhe, Germany) with helium as carrier gas. The sample
+was injected in split mode (1:10, initial temperature 30 ◦ C, rate 12 ◦ C/s to 240 ◦ C, hold for
+4 min). The gas chromatography (GC) run started with an initial temperature of 40 ◦ C for
+4 min, raised to 210 ◦ C (5 ◦ C/min), and then raised to 240 ◦ C (20 ◦ C/min) and held for
+10.5 min. Mass spectral data were acquired in a range of mass to charge ratio (m/z) of 35
+to 250 and used to derive concentration values. A 5-point calibration curve was used for
+each volatile compound within a wine model solution of 10% ethanol with 3% tartaric acid
+pH 3, as described previously [62].
+4.8. Data Analysis
+The HPLC data were analysed using the software ChemStation for LC systems from
+Agilent (Agilent, Santa Clara, CA, USA). The HS-SPME-GC-MS data analyses were carried
+out using Agilent’s MassHunter software (Agilent, Santa Clara, CA, USA).
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+13 of 16
+
+The graphics were created with GraphPad Prism 5 (Graph Pad Software, La Jolla, CA,
+USA) and statistical analyses were employed in the form of a one-way analysis of variance
+(ANOVA) in combination with Bonferroni’s multiple comparison test. For statistical
+analysis, all fermentations were done in triplicate and the values for the metabolites are the
+means of these triplicates.
+Supplementary Materials: The following are available online at https://www.mdpi.com/1422-0
+067/22/4/1943/s1, Figure S1: Alignment of the amino acid sequence HuAtf1 with the two Atfs of
+Saccharomyces cerevisiae. The conserved WRLICLP motif as well as the HXXXDG active site are
+shown in boxes, Figure S2: Acetate esters, ethyl esters, and acetic acid produced after three days
+of fermentation of Müller-Thurgau must with Hanseniaspora uvarum DSM2768 for comparison
+(DSM2768 Ctrl), DSM2768 #34 (WT/∆), DSM2768 #40 (∆/∆), and DSM2768 #46 (∆/∆). Pure must
+without the addition of yeasts served as a negative control (Must Ctrl). The measured acetate esters
+are: (a) ethyl acetate [mg/L]; (b) isoamyl acetate [µg/L]; (c) 2-methylbutyl acetate [µg/L]; (d) hexyl
+acetate [µg/L]; (e) 2-phenylethyl acetate [µg/L]; (f) ethyl propionate [µg/L], (g) ethyl butyrate [µg/L]
+and (h) acetic acid [g/L]. Acetate ester production was measured via HS-SPME-GC-MS analysis.
+Data are the mean of three independent experiments ± SEM, 1-way ANOVA, Bonferroni’s multiple
+comparison test, * p < 0.05, ** p < 0.01, *** p < 0.001, **** p < 0.0001. Error bars indicate the standard
+deviation, Figure S3: Amounts of fatty acid and alcohols detected after three days of fermentation
+of Müller-Thurgau must with Hanseniaspora uvarum, DSM2768 for comparison (DSM2768 Ctrl),
+DSM2768 #34 (WT/∆), DSM2768 #40 (∆/∆), and DSM2768 #46 (∆/∆). Pure must without the
+addition of yeasts served as a negative control (Must Ctrl). The measured fatty acid and alcohols are:
+(a) hexanoic acid [mg/L]; (b) isobutanol [mg/L]; (c) isoamyl alcohol [mg/L]; (d) 2-methyl-1-butanol
+[mg/L]; (e) hexanol [µg/L] and (f) 2-phenyl ethanol [mg/L]. The amounts of fatty acid and alcohols
+were measured via HS-SPME-GC-MS analysis. Data are the mean of three independent experiments
+± SEM, 1-way ANOVA, Bonferroni’s multiple comparison test, * p < 0.05, ** p < 0.01, **** p < 0.0001.
+Error bars indicate the standard deviation.
+Author Contributions: Conceptualisation, C.v.W., J.W., N.v.W. and J.B.; methodology, J.B., N.v.W.
+and J.W.; strain generation, J.B.; fermentations, J.B. and N.v.W.; analyses, S.B., validation, J.B. and
+N.v.W.; investigation, J.B. and N.v.W., data curation, J.B. and N.v.W.; visualisation, J.B.; writing—
+original draft preparation, J.B. and N.v.W.; writing—review and editing, J.B., N.v.W., I.S.P., D.R., J.W.
+and C.v.W. All authors have read and agreed to the published version of the manuscript.
+Funding: The authors would like to thank the Hessen State Ministry of Higher Education, Research
+and the Arts for the financial support within the Hessen initiative for scientific and economic excellence (LOEWE) in the framework of AROMAplus (https://www.hs-geisenheim.de/aromaplus/,
+(accessed on 20 January 2021)). The authors thank Geisenheim University and Macquarie University for co-funding of this project and the research fellowship of N.V.W., I.S.P. is a team member
+of the Macquarie-led national Centre of Excellence in Synthetic Biology funded by the Australian
+Government thorough its agency, the Australian Research Council. J.W. is supported by the European Union Marie Skłodowska-Curie Actions Innovative Training Network Aromagenesis (764364)
+(https://www.aromagenesis.eu/, (accessed on 20 January 2021)).
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: I.S.P. is a team member of the Macquarie-led national Centre of Excellence in
+Synthetic Biology funded by the Australian Government thorough its agency, the Australian Research
+Council. The authors would like to thank the Hessen State Ministry of Higher Education, Research
+and the Arts for the financial support within the Hessen initiative for scientific and economic excellence (LOEWE) in the framework of AROMAplus (https://www.hs-geisenheim.de/aromaplus/,
+(accessed on 20 January 2021)). J.W. is supported by the European Union Marie Skłodowska-Curie
+Actions Innovative Training Network Aromagenesis (764364) (https://www.aromagenesis.eu/,
+(accessed on 20 January 2021)). Heike Semmler and Beatrice Bernardi are thanked for their technical
+assistance. Christine Schlering is thanked for providing the Müller-Thurgau must. Jürgen Heinisch is
+thanked for providing the yeast strain DSM2768.
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+14 of 16
+
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Abbreviations
+MDPI
+ATF1
+TEF1
+bp
+DNA
+SO2
+kanMX
+hygMX
+ORF
+PCR
+PGK1
+FBA1
+ATF2
+Hph
+neoR
+natI
+Sh Ble
+acetyl-CoA
+YPD
+ANOVA
+TE
+HCl
+EDTA
+HPLC
+VCA
+MWD
+RID
+HS-SPME-GC-MS
+GC
+MS
+MPS
+CIS
+NaCl
+
+Multidisciplinary Digital Publishing Institute
+Alcohol acetyltransferase I
+Translational elongation factor EF-1α
+Base pair
+Deoxyribonucleic acid
+Sulphur dioxide
+Geneticin resistance marker
+Hygromycin resistance marker
+Open reading frame
+Polymerase chain reaction
+3-Phosphoglycerate kinase 1
+Fructose-1,6-bisphosphate aldolase 1
+Alcohol acetyltransferase II
+Hygromycin b phosphotransferase
+Neomycin-geneticin resistance gene
+Nourseothricin N-acetyltransferase
+Bleomycin resistance protein
+Acetyl coenzyme A
+Yeast extract peptone dextrose media
+Analysis of variance
+Tris-ethylenediaminetetraacetic acid
+Hydrogen chloride
+Ethylenediaminetetraacetic acid
+High performance liquid chromatography
+Volatile compound analysis
+Multi-wavelength detector
+Refractive index detector
+Headspace-solid phase microextraction gas
+chromatography mass Spectrometry
+Gas chromatography
+Mass spectrometry
+Multipurpose sampler
+Cooled injection system
+Sodium chloride
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Martin, V.; Valera, M.; Medina, K.; Boido, E.; Carrau, F. Oenological impact of the Hanseniaspora/Kloeckera yeast genus on
+wines—A review. Fermentation 2018, 4, 76. [CrossRef]
+Heard, G.M.; Fleet, G.H. Evaluation of selective media for enumeration of yeasts during wine fermentation. J. Appl. Bacteriol.
+1986, 60, 477–481. [CrossRef]
+Fleet, G. Yeast interactions and wine flavour. Int. J. Food Microbiol. 2003, 86, 11–22. [CrossRef]
+Heard, G.M.; Fleet, G.H. Growth of natural yeast flora during the fermentation of inoculated wines. Appl. Environ. Microbiol.
+1985, 50, 727–728. [CrossRef] [PubMed]
+Holloway, P.; Subden, R.E.; Lachance, M.-A. The yeasts in a Riesling must from the Niagara grape-growing region of Ontario.
+Can. Inst. Food Sci. Technol. J. 1990, 23, 212–216. [CrossRef]
+Comi, G.; Romano, P.; Cocolin, L.; Fiore, C. Characterization of Kloeckera apiculata strains from the Friuli region in Northern Italy.
+World J. Microbiol. Biotechnol. 2001, 17, 391–394. [CrossRef]
+Jolly, N.P.; Augustyn, O.; Pretorius, I.S. The occurrence of non-Saccharomyces cerevisiae yeast species over three vintages in four
+vineyards and grape musts from four production regions of the Western Cape, South Africa. S. Afr. J. Enol. Vitic. 2003, 24. [CrossRef]
+Li, S.-S.; Cheng, C.; Li, Z.; Chen, J.-Y.; Yan, B.; Han, B.-Z.; Reeves, M. Yeast species associated with wine grapes in China. Int. J.
+Food Microbiol. 2010, 138, 85–90. [CrossRef]
+Belda, I.; Ruiz, J.; Alastruey-Izquierdo, A.; Navascués, E.; Marquina, D.; Santos, A. Unraveling the enzymatic basis of wine
+“flavorome”: A phylo-functional study of wine related yeast species. Front. Microbiol. 2016, 7, 12. [CrossRef]
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+10.
+
+11.
+12.
+13.
+14.
+15.
+16.
+
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+
+36.
+
+37.
+
+15 of 16
+
+Tofalo, R.; Patrignani, F.; Lanciotti, R.; Perpetuini, G.; Schirone, M.; Di Gianvito, P.; Pizzoni, D.; Arfelli, G.; Suzzi, G. Aroma
+profile of Montepulciano d’Abruzzo wine fermented by single and co-culture starters of autochthonous Saccharomyces and
+non-Saccharomyces yeasts. Front. Microbiol. 2016, 7, 610. [CrossRef]
+Jolly, N.P.; Varela, C.; Pretorius, I.S. Not your ordinary yeast: Non-Saccharomyces yeasts in wine production uncovered. FEMS
+Yeast Res. 2014, 14, 215–237. [CrossRef] [PubMed]
+Wang, C.; Mas, A.; Esteve-Zarzoso, B. Interaction between Hanseniaspora uvarum and Saccharomyces cerevisiae during alcoholic
+fermentation. Int. J. Food Microbiol. 2015, 206, 67–74. [CrossRef] [PubMed]
+Pina, C.; Santos, C.; Couto, J.A.; Hogg, T. Ethanol tolerance of five non-Saccharomyces wine yeasts in comparison with a strain of
+Saccharomyces cerevisiae—Influence of different culture conditions. Food Microbiol. 2004, 21, 439–447. [CrossRef]
+Akan, M.; Michling, F.; Matti, K.; Krause, S.; Muno-Bender, J.; Wendland, J. Snails as taxis for a large yeast biodiversity.
+Fermentation 2020, 6, 90. [CrossRef]
+Comitini, F.; Ciani, M. The zymocidial activity of Tetrapisispora phaffii in the control of Hanseniaspora uvarum during the early
+stages of winemaking. Lett. Appl. Microbiol. 2010, 50, 50–56. [CrossRef]
+Tristezza, M.; Tufariello, M.; Capozzi, V.; Spano, G.; Mita, G.; Grieco, F. The oenological potential of Hanseniaspora uvarum in
+simultaneous and sequential co-fermentation with Saccharomyces cerevisiae for industrial wine production. Front. Microbiol. 2016,
+7, 670. [CrossRef]
+Petruzzi, L.; Capozzi, V.; Berbegal, C.; Corbo, M.R.; Bevilacqua, A.; Spano, G.; Sinigaglia, M. Microbial resources and enological
+significance: Opportunities and benefits. Front. Microbiol. 2017, 8, 995. [CrossRef] [PubMed]
+Roudil, L.; Russo, P.; Berbegal, C.; Albertin, W.; Spano, G.; Capozzi, V. Non-Saccharomyces commercial starter cultures: Scientific
+trends, recent patents and innovation in the wine sector. Recent Pat. Food Nutr. Agric. 2020, 11, 27–39. [CrossRef]
+Van Wyk, N.; von Wallbrunn, C.; Swiegers, J.H.; Pretorius, I.S. Biotechnology of wine yeasts. In Encyclopedia of Mycology; Elsevier:
+Amsterdam, The Netherlands, 2020; ISBN 9780128096338.
+Valles, B.S.; Bedriñana, R.P.; Tascón, N.F.; Simón, A.Q.; Madrera, R.R. Yeast species associated with the spontaneous fermentation
+of cider. Food Microbiol. 2007, 24, 25–31. [CrossRef]
+Lachance, M.A. Yeast communities in a natural tequila fermentation. Antonie van Leeuwenhoek 1995, 68, 151–160. [CrossRef] [PubMed]
+Masoud, W.; Cesar, L.B.; Jespersen, L.; Jakobsen, M. Yeast involved in fermentation of Coffea arabica in East Africa determined by
+genotyping and by direct denaturating gradient gel electrophoresis. Yeast 2004, 21, 549–556. [CrossRef]
+Batista, N.N.; Ramos, C.L.; Ribeiro, D.D.; Pinheiro, A.C.M.; Schwan, R.F. Dynamic behavior of Saccharomyces cerevisiae, Pichia
+kluyveri and Hanseniaspora uvarum during spontaneous and inoculated cocoa fermentations and their effect on sensory characteristics of chocolate. LWT—Food Sci. Technol. 2015, 63, 221–227. [CrossRef]
+Arias, C.R.; Burns, J.K.; Friedrich, L.M.; Goodrich, R.M.; Parish, M.E. Yeast species associated with orange juice: Evaluation of
+different identification methods. Appl. Environ. Microbiol. 2002, 68, 1955–1961. [CrossRef]
+Vadkertiová, R.; Dudášová, H.; Stratilová, E.; Balaščáková, M. Diversity of yeasts in the soil adjacent to fruit trees of the Rosaceae
+family. Yeast 2019, 36, 617–631. [CrossRef] [PubMed]
+Sláviková, E.; Vadkertiová, R.; Vránová, D. Yeasts colonizing the leaves of fruit trees. Ann. Microbiol. 2009, 59, 419–424. [CrossRef]
+Nguyen, N.H.; Suh, S.-O.; Blackwell, M. Five novel Candida species in insect-associated yeast clades isolated from Neuroptera and
+other insects. Mycologia 2007, 99, 842–858. [CrossRef] [PubMed]
+Kocan, R.M.; Hasenclever, H.F. Normal yeast flora of the upper digestive tract of some wild columbids. J. Wildl. Dis. 1972,
+8, 365–368. [CrossRef] [PubMed]
+De Araujo, F.V.; Soares, C.A.; Hagler, A.N.; Mendonça-Hagler, L.C. Ascomycetous yeast communities of marine invertebrates in a
+southeast Brazilian mangrove ecosystem. Antonie van Leeuwenhoek 1995, 68, 91–99. [CrossRef] [PubMed]
+Pagnocca, F.G.; Mendonca-Hagler, L.C.; Hagler, A.N. Yeasts associated with the white shrimp Penaeus schmitti, sediment, and
+water of Sepetiba Bay, Rio de Janeiro, Brasil. Yeast 1989, 5, 479–483.
+Long, C.; Wu, Z.; Deng, B.-X. Biological control of Penicillium italicum of citrus and Botrytis cinerea of grape by strain 34–9 of
+Kloeckera apiculata. Eur. Food Res. Technol. 2005, 221, 197–201. [CrossRef]
+Basha, H.; Ramanujam, B. Growth promotion effect of Pichia guilliermondii in chilli and biocontrol potential of Hanseniaspora
+uvarum against Colletotrichum capsici causing fruit rot. Biocontrol Sci. Technol. 2015, 25, 185–206. [CrossRef]
+Liu, H.M.; Guo, J.H.; Cheng, Y.J.; Luo, L.; Liu, P.; Wang, B.Q.; Deng, B.X.; Long, C.A. Control of gray mold of grape by
+Hanseniaspora uvarum and its effects on postharvest quality parameters. Ann. Microbiol. 2010, 60, 31–35. [CrossRef]
+Sternes, P.R.; Lee, D.; Kutyna, D.R.; Borneman, A.R. Genome sequences of three species of Hanseniaspora isolated from spontaneous
+wine fermentations. Genome Announc. 2016, 4. [CrossRef]
+Seixas, I.; Barbosa, C.; Mendes-Faia, A.; Güldener, U.; Tenreiro, R.; Mendes-Ferreira, A.; Mira, N.P. Genome sequence of the
+non-conventional wine yeast Hanseniaspora guilliermondii UTAD222 unveils relevant traits of this species and of the Hanseniaspora
+genus in the context of wine fermentation. DNA Res. 2019, 26, 67–83. [CrossRef] [PubMed]
+Guaragnella, N.; Chiara, M.; Capece, A.; Romano, P.; Pietrafesa, R.; Siesto, G.; Manzari, C.; Pesole, G. Genome sequencing and
+comparative analysis of three Hanseniaspora uvarum indigenous wine strains reveal remarkable biotechnological potential. Front.
+Microbiol. 2019, 10, 3133. [CrossRef] [PubMed]
+Chen, K.; Yang, X.; Zheng, F.; Long, C. Genome sequencing and analysis of Kloeckera apiculata strain 34-9, a biocontrol agent
+against postharvest pathogens in citrus. Genes Genom. 2017, 39, 87–99. [CrossRef]
+
+Int. J. Mol. Sci. 2021, 22, 1943
+
+38.
+
+39.
+
+40.
+
+41.
+42.
+43.
+44.
+45.
+46.
+
+47.
+48.
+49.
+
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+
+16 of 16
+
+Langenberg, A.-K.; Bink, F.J.; Wolff, L.; Walter, S.; von Wallbrunn, C.; Grossmann, M.; Heinisch, J.J.; Schmitz, H.-P. Glycolytic
+functions are conserved in the genome of the wine yeast Hanseniaspora uvarum, and pyruvate kinase limits its capacity for
+alcoholic fermentation. Appl. Environ. Microbiol. 2017, 83. [CrossRef] [PubMed]
+Steenwyk, J.L.; Opulente, D.A.; Kominek, J.; Shen, X.-X.; Zhou, X.; Labella, A.L.; Bradley, N.P.; Eichman, B.F.; Čadež, N.;
+Libkind, D.; et al. Extensive loss of cell-cycle and DNA repair genes in an ancient lineage of bipolar budding yeasts. PLoS Biol.
+2019, 17, e3000255. [CrossRef] [PubMed]
+Saubin, M.; Devillers, H.; Proust, L.; Brier, C.; Grondin, C.; Pradal, M.; Legras, J.-L.; Neuvéglise, C. Investigation of genetic
+relationships between Hanseniaspora species found in grape musts revealed interspecific hybrids with dynamic genome structures.
+Front. Microbiol. 2019, 10, 2960. [CrossRef] [PubMed]
+Kayacan, Y.; Griffiths, A.; Wendland, J. A script for initiating molecular biology studies with non-conventional yeasts based on
+Saccharomycopsis schoenii. Microbiol. Res. 2019, 229, 126342. [CrossRef] [PubMed]
+Nancolas, B.; Bull, I.D.; Stenner, R.; Dufour, V.; Curnow, P. Saccharomyces cerevisiae Atf1p is an alcohol acetyltransferase and a
+thioesterase in vitro. Yeast 2017, 34, 239–251. [CrossRef] [PubMed]
+Bernardi, B.; Kayacan, Y.; Akan, M.; Wendland, J. Overexpression of RAD51 enables PCR-based gene targeting in lager yeast.
+Microorganisms 2019, 7, 192. [CrossRef] [PubMed]
+Sakai, K.; Yamamoto, M. Transformation of the yeast, Saccharomyces carlsbergensis, using an antibiotic resistance marker. Agric.
+Biol. Chem. 1986, 50, 1177–1182. [CrossRef]
+Nakazawa, N.; Hashimoto, H.; Harashima, S.; Oshima, Y. Use of the PDR4 gene as a dominant selective marker in combination
+with cerulenin for prototrophic strains in Saccharomyces cerevisiae. J. Ferment. Bioeng. 1993, 76, 60–63. [CrossRef]
+Kondo, K.; Saito, T.; Kajiwara, S.; Takagi, M.; Misawa, N. A transformation system for the yeast Candida utilis: Use of a modified
+endogenous ribosomal protein gene as a drug-resistant marker and ribosomal DNA as an integration target for vector DNA. J.
+Bacteriol. 1995, 177, 7171–7177. [CrossRef]
+Hashida-Okado, T.; Ogawa, A.; Kato, I.; Takesako, K. Transformation system for prototrophic industrial yeasts using the AUR1
+gene as a dominant selection marker. FEBS Lett. 1998, 425, 117–122. [CrossRef]
+Lilly, M.; Bauer, F.F.; Lambrechts, M.G.; Swiegers, J.H.; Cozzolino, D.; Pretorius, I.S. The effect of increased yeast alcohol
+acetyltransferase and esterase activity on the flavour profiles of wine and distillates. Yeast 2006, 23, 641–659. [CrossRef] [PubMed]
+Verstrepen, K.J.; van Laere, S.D.M.; Vanderhaegen, B.M.P.; Derdelinckx, G.; Dufour, J.-P.; Pretorius, I.S.; Winderickx, J.; Thevelein,
+J.M.; Delvaux, F.R. Expression levels of the yeast alcohol acetyltransferase genes ATF1, Lg-ATF1, and ATF2 control the formation
+of a broad range of volatile esters. Appl. Environ. Microbiol. 2003, 69, 5228–5237. [CrossRef] [PubMed]
+Christiaens, J.F.; Franco, L.M.; Cools, T.L.; de Meester, L.; Michiels, J.; Wenseleers, T.; Hassan, B.A.; Yaksi, E.; Verstrepen, K.J. The
+fungal aroma gene ATF1 promotes dispersal of yeast cells through insect vectors. Cell Rep. 2014, 9, 425–432. [CrossRef] [PubMed]
+Van Wyk, N.; Kroukamp, H.; Espinosa, M.I.; von Wallbrunn, C.; Wendland, J.; Pretorius, I.S. Blending wine yeast phenotypes
+with the aid of CRISPR DNA editing technologies. Int. J. Food Microbiol. 2020, 324, 108615. [CrossRef] [PubMed]
+Sikorski, R.S.; Hieter, P. A System of shuttle vectors and yeast host strains designed for efficient manipulation of DNA in
+Saccharomyces cerevisiae. Genetics 1989, 122, 19–27. [CrossRef]
+Chee, M.K.; Haase, S.B. New and redesigned pRS plasmid shuttle vectors for genetic manipulation of Saccharomyces cerevisiae. G3
+Genes|Genomes|Genetics 2012, 2, 515–526. [CrossRef] [PubMed]
+Wach, A.; Brachat, A.; Pöhlmann, R.; Philippsen, P. New heterologous modules for classical or PCR-based gene disruptions in
+Saccharomyces cerevisiae. Yeast 1994, 10, 1793–1808. [CrossRef] [PubMed]
+Schaub, Y.; Dünkler, A.; Walther, A.; Wendland, J. New pFA-cassettes for PCR-based gene manipulation in Candida albicans. J.
+Basic Microbiol. 2006, 46, 416–429. [CrossRef] [PubMed]
+Gatignol, A.; Dassain, M.; Tiraby, G. Cloning of Saccharomyces cerevisiae promoters using a probe vector based on phleomycin
+resistance. Gene 1990, 91, 35–41. [CrossRef]
+Gietz, R.D.; Schiestl, R.H. High-efficiency yeast transformation using the LiAc/SS carrier DNA/PEG method. Nat. Protoc. 2007,
+2, 31–34. [CrossRef]
+Thompson, J.R.; Register, E.; Curotto, J.; Kurtz, M.; Kelly, R. An improved protocol for the preparation of yeast cells for
+transformation by electroporation. Yeast 1998, 14, 565–571. [CrossRef]
+Schneider, A.; Gerbi, V.; Redoglia, M. A rapid HPLC method for separation and determination of major organic acids in grape
+musts and wines. Am. J. Enol. Vitic. 1987, 38, 151.
+Mecca, D.; Benito, S.; Beisert, B.; Brezina, S.; Fritsch, S.; Semmler, H.; Rauhut, D. Influence of nutrient supplementation on
+Torulaspora Delbrueckii wine fermentation aroma. Fermentation 2020, 6, 35. [CrossRef]
+Câmara, J.S.; Alves, M.A.; Marques, J.C. Development of headspace solid-phase microextraction-gas chromatography–mass
+spectrometry methodology for analysis of terpenoids in Madeira wines. Anal. Chim. Acta 2006, 555, 191–200. [CrossRef]
+Dutraive, O.; Benito, S.; Fritsch, S.; Beisert, B.; Patz, C.-D.; Rauhut, D. Effect of sequential inoculation with non-Saccharomyces and
+Saccharomyces yeasts on Riesling wine chemical composition. Fermentation 2019, 5, 79. [CrossRef]
+
+

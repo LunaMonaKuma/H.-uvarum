@@ -1,0 +1,837 @@
+Cider (Cyder; Hard Cider)
+B Jarvis, Daubies Farm, Upton Bishop, Ross-on-Wye, UK
+Ó 2014 Elsevier Ltd. All rights reserved.
+
+Introduction
+Cider (cyder, United States: hard cider) is an alcoholic beverage
+produced by the fermentation of apple juice; a related product,
+perry (also known as pear cider) is produced by the fermentation of pear juice. Cider and perry have been produced for
+more than 2000 years in temperate areas of the world. Traditional cidermaking in England, France (Normandy and Brittany), northern Spain, Ireland, and Germany is based largely on
+farmhouse production; in the eighteenth and nineteenth
+centuries, farm laborers in England received up to 2 l cider
+day1 as part of their wages.
+In England, commercial cidermaking started during the late
+nineteenth century, although some farmhouse cider had been
+sold commercially since the eighteenth century. Total cider
+production in England in 1900 was estimated at 0.25  106 hl,
+of which about 0.025  106 hl was produced commercially. In
+2010, total European production of cider and perry was
+14.3  106 hl, of which the United Kingdom produced about
+9  106 hl, mostly as commercial products. Commercial ciders
+are now produced also in Argentina, Austria, Australia,
+Belgium, Canada, China, Finland, New Zealand, South Africa,
+Sweden, Switzerland, and the United States.
+
+Cider Production
+Ciders are made by fermenting the juice of apples, often with
+some added pear juice. The juice may be either fresh or
+reconstituted from concentrate. In England, France, and Spain,
+most cider is produced from the juice of special cultivars of
+cider apples, referred to as bittersweet, bitter-sharp, sweet, or
+sharp, depending on the relative levels of tannins and acids.
+Such ciders have a higher degree of astringency than those
+made from the juice of culinary or dessert apples. The alcohol
+content of cider made only from juice ranges up to about 6.5%
+alcohol by volume (abv), depending on the sugar content of
+the apple juice. In many countries, chaptalization (i.e., the
+addition of fermentation sugars) is practiced widely, especially
+in years when juice sugars are low. In some cases, the total
+fermentable sugar may be increased so that the fermented
+product contains up to 12% abv. Such strong ciders are blended
+and/or diluted to produce commercial ciders within the range
+1.2–8.5% abv. Products with a higher alcohol content are
+generally sold as apple wine.
+
+Preparation of Cider Juice
+The fruit is transported from the orchards to the cider mill,
+where it is washed and milled using equipment such as a knife
+mill. The milled fruit is pressed using either batch or continuous presses, and the solid residue (pomace) from the ﬁrst
+pressing may be extracted with water to maximize the yield of
+sugar and tannins. In some processes, the milled fruit may be
+
+Encyclopedia of Food Microbiology, Volume 1
+
+liqueﬁed by treatment with pectolytic and amylolytic enzymes,
+before centrifugation to separate the juice from residual solids.
+The spent apple pomace is used for the extraction of pectin (if
+enzyme treatment has not been used), as cattle feed or as a soil
+conditioner.
+The juice is normally treated with SO2 gas or sodium metabisulﬁte to a level of 100–200 mg l1 and is allowed to stand
+for 24 h before use. If a clear juice is required, the cloudy
+pressed juice may be treated with pectinases and amylases;
+enzyme treatment is normal if the juice is to be concentrated for
+storage purposes.
+Concentrated juices are generally prepared in a multistage
+evaporator and may have volatile aromas added back. The
+concentrate, at about 72 Bx, can be stored for 2 or 3 years at
+refrigeration temperatures without serious loss of quality. The
+concentrate is diluted with an appropriate volume of water to
+reconstitute it for fermentation.
+
+Cider Fermentation
+The juice is transferred to fermentation vats, where yeast
+nutrients such as ammonium phosphate, ammonium
+carbonate, and pantothenic acid are added, together with any
+chaptalizing sugars and an appropriate yeast culture. Fermentation is allowed to proceed at 15–25  C until all the
+fermentable sugars have been used, which usually takes about
+3–8 weeks, depending on the temperature. The raw cider is
+sometimes chilled, to facilitate ﬂocculation of the yeast, before
+being racked off from the lees and transferred to other vats for
+maturation. The maturation process can take up to 2 months,
+but the cider is often matured for more than a year before
+further processing.
+
+Final Preparation
+The strong cider base (up to 12% abv) is centrifuged and/or
+ﬁned to remove solids; increasingly, microﬁltration processes
+are being used commercially to produce a bright cider that is
+blended with apple juice or water to give an appropriate level of
+alcohol (usually 3.5–8.5% abv). At this stage, sweetener and
+other ingredients may be added to adjust the acid–sweetness
+balance, according to the organoleptic style of cider required.
+Increasingly, ﬂavoring with fruit juices such as cranberry or
+raspberry also gains popularity. The blended cider may be
+carbonated and packaged into bottles, cans, kegs, or barrels for
+distribution and sale, or it may be packaged as a still product
+without carbonization. Processes involved in the preparation
+of certain special ciders are discussed later in this chapter.
+
+The Microbiology of Apple Juice and Cider
+The fermentation of apple juice to cider occurs naturally
+through the metabolic activity of the yeasts and bacteria present
+
+http://dx.doi.org/10.1016/B978-0-12-384730-0.00066-5
+
+437
+
+438
+
+Table 1
+
+Cider (Cyder; Hard Cider)
+
+Typical microbial contaminants of freshly pressed apple juice
+
+Typical species
+Yeasts
+Saccharomyces cerevisiae
+var. cerevisiae
+Saccharomyces cerevisiae
+var. uvarum
+Saccharomyces cerevisiae
+var. carlsbergensis
+Saccharomycodes ludwigii
+Kloeckera apiculata
+Candida pulcherrima
+Pichia spp.
+Torulopsis famata
+Rhodotorula spp.
+Filamentous fungi
+Penicillium spp.
+Aspergillus spp.
+Paecilomyces varioti
+Byssochlamys fulva
+Cladosporium spp.
+Botrytis spp.
+Bacteria
+Acetobacter xylinum
+Pseudomonas spp.
+Escherichia coli
+Salmonella spp.
+Micrococcus spp.
+Bacillus spp.
+Clostridium spp.
+
+SO2 sensitivity
+
+Growth in juice
+
+ or a
+
+þþþþb
+
+ or 
+
+þþþþ
+
+ or 
+
+þþþþ
+
+
+þþþ
+þþþþ
+þþþþ
+þþ
+þþþþ
+
+þþþþ
+þþþþ
+þþþþ
+þþþþ
+þþþþ
+þþþþ
+
+þþ
+þþþþ
+þ
+
+þþþþ
+þ
+
+þþþþ
+þþþþ
+þþþþ
+þþþþ
+þþ
+þþþþ
+
+þþ
+þþþþ
+þþþþ
+þþþþ
+þþþþ
+ (spores)
+ (spores)
+
+þþþþ
+
+ (some strains )
+
+
+
+
+
+the ﬁnal product in Europe is 200 mg l1 but different limits
+may apply elsewhere. The addition of SO2 to apple juice results
+in the formation of so-called sulﬁte addition compounds,
+through binding to carbonyls. When dissolved in water, SO2 or
+its salts produce a mixture of molecular SO2, bisulﬁte, and
+sulﬁte ions, the equilibrium of which is pH dependent
+(Figure 1). The antimicrobial activity of SO2 is due to the
+molecular SO2 that remains unbound (the so-called free SO2).
+Less SO2 is needed in juices of high acidity: for instance,
+15 mg l1 of free SO2 at pH 3 has the same antimicrobial effect
+as 150 mg l1 at pH 4.
+The binding of SO2 is dependent on the nature of the
+carbonyl compounds present in the juice. Naturally occurring
+compounds that bind SO2 include glucose, xylose, and xylosone. If the fruit has undergone any degree of rotting, other
+binding compounds are formed, including 2,5-dioxogluconic
+acid and 5-oxofructose (2,5-D-threo-hexodiulose). Such juices
+require increased additions of SO2 if wild yeasts and other
+microorganisms are to be controlled effectively. The addition of
+SO2 to fermenting juice results in rapid combination with
+acetaldehyde, pyruvate, and a-oxoglutarate produced by the
+fermenting yeasts. Consequently, all additions of SO2 must be
+completed immediately after pressing the juice although,
+provided initial fermentation is inhibited, further additions to
+give the desired level of free SO2 can be made during the
+following 24 h. Studies have shown that the presence of sulﬁtebinding compounds in fermented cider depends on the quality
+of the original fruit, the type of apple juice (i.e., cider, dessert,
+
+ (resistant), , þ, þþ, þþþ, þþþþ (increasing sensitivity).
+ (unable to grow), , þ, þþ, þþþ, þþþþ (increasing ability to grow).
+
+a
+
+100
+
+b
+
+The Role of SO2 in Apple Juice and Cider
+The use of SO2 as a preservative in cidermaking is controlled by
+legislation in most countries. The maximum level permitted in
+
+SO2
+
+% of total SO2
+
+on the fruit at harvest, which are transferred into the apple juice
+on pressing. Other microorganisms, from the milling and
+pressing equipment and the general environment, can also
+contaminate the juice at this stage. Examples of typical juiceassociated organisms are shown in Table 1, together with an
+indication of their susceptibility to SO2 and their ability to
+grow in apple juice. Unless such organisms are inhibited, for
+example, by the use of SO2, a mixed fermentation occurs. This
+causes signiﬁcant variations in organoleptic characteristics
+between batches, even if the composition of the apple juice
+remains constant.
+The preferred approach for the production of commercial
+cider is by inoculation with a selected strain of a Saccharomyces
+spp., following control of the indigenous and adventitious
+microorganisms using sulﬁte and/or pasteurization. However,
+the transfer of fermented juice into different maturation and
+storage vessels may result in a secondary fermentation by
+microorganisms that occur naturally in the traditional oak vats
+which are frequently used. These organisms may produce
+beneﬁcial or detrimental changes in the chemical and organoleptic properties of the ﬁnal cider.
+
+SO3
+
+HSO3
+
+50
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+pH value
+Molecular
+SO2
+
+bisulfite
+–
+HSO3
+
+sulfite
+–
+SO3
+
+Figure 1 Distribution of sulﬁte, bisulﬁte, and molecular SO2 as a function of pH in aqueous solution. Reproduced with permission from
+Hammond, S.M., Carr, J.G., 1976. The antimicrobial activity of SO2 – with
+particular reference to fermented and non-fermented fruit juices. In:
+Skinner, F.A., Hugo, W.B. (Eds.), Inhibition and Inactivation of Vegetative
+Microbes. Academic Press, London. pp. 89–110 (S.A.B. Symposium
+Series No. 5).
+
+Cider (Cyder; Hard Cider)
+
+or culinary juice) and whether pectinases were used for clariﬁcation, the strain of yeast and its ability to produce sulﬁte
+compounds, the fermentation conditions, and the extent to
+which yeast nutrients have been added.
+
+Fermentation Yeasts
+In traditional farmhouse cidermaking, especially when the
+juice is not sulﬁte treated, the indigenous yeasts that are
+important in fermentation include Candida spp., Kloeckera
+apiculata, and Saccharomyces spp. Generally, the Candida and
+Kloeckera die out within the ﬁrst few days, but they may be
+important in the initial fermentation. When the juice has been
+treated with sulﬁte, the fermentation process is carried out
+primarily by strains of Saccharomyces spp., especially S. cerevisiae
+vars. cerevisiae, bayanus, capensis, carlsbergensis, and uvarum.
+In commercial practice, speciﬁc strains are added to the
+sulﬁte-treated juice as a pure culture. The starter culture is
+prepared in the laboratory from freeze-dried or liquid-nitrogenfrozen cultures, which are resuscitated and then cultivated by
+increasing volumes of a suitable culture medium, to give an
+inoculum for use in a starter propagation plant. The nature of
+the cultivation medium varies, but it is often based on sterile
+apple juice supplemented with appropriate nitrogenous
+substrates and vitamins, such as pantothenate and thiamin.
+Increasingly, commercially produced dried or frozen yeast cell
+preparations are used, either for direct vat inoculation or as
+inocula for the yeast propagation plant. The condition of the
+yeast at pitching is critically important – the culture must have
+both high viability and high vitality if cider fermentation at
+high original gravity is to be effective. The ideal attributes of
+a cider fermentation yeast are summarized in Table 2.
+
+Table 2
+
+Desirable characteristics of yeasts for cidermaking
+
+Attribute
+
+Objective
+
+Produces polygalacturonase
+High vitality and viability,
+producing consistently high
+fermentation rate
+Resistant to SO2 and low pH
+Resistant to high original
+gravity and ethanol
+Ferments to dryness
+Does not produce excessive
+foam
+Strongly ﬂocculant
+Minimal production of SO2
+Minimal production of SO2
+binding compounds
+Nonproducer of H2S and acetic
+acid
+Compatible with malolactic
+bacteria
+Good production of aroma
+compounds, organic acids,
+and glycerol
+
+Hydrolyzes soluble pectin
+Strong fermentation
+characteristics
+Competes well with wild yeasts
+Good commercial
+characteristics
+Efﬁcient utilization of sugars
+Avoids product loss from
+frothing
+Ensures good racking off
+Avoids excessive levels of SO2
+Minimizes binding of SO2
+Avoids undesirable
+metabolites
+Important for malolactic
+fermentation
+Important for ﬂavor production
+
+Modiﬁed from Jarvis, B., Forster, M.J., Kinsella, W.P., 1995. Factors affecting the
+development of cider ﬂavour. In: Board, R.G., Jones, D., Jarvis, B. (Eds.), Microbial
+Fermentations: Beverages, Foods and Feeds. J. Appl. Bacteriol. Symp. Suppl., 79,
+pp. 5s–18s (S.A.B. Symposium Series No. 24).
+
+439
+
+After inoculation, the starter yeasts, together with SO2
+resistant wild yeasts selected from the juice, increase in number
+from an initial level of about 105 cfu ml1 to 5  106 –
+5  107 cfu ml1. Following an initial aerobic growth phase,
+the resulting O2 limitation and high carbohydrate levels in the
+media trigger the onset of the anaerobic fermentation process.
+Fermentation typically takes some 3–8 weeks to proceed to
+dryness (S.G. 0.990–1.000) at which time all fermentable
+sugars have been converted to alcohol, CO2, and other
+metabolites.
+In controlled fermentations, a maximum temperature of
+25  C will generally be permitted, although slow fermentation
+at or below 16  C is common in some countries, especially in
+France. Because of the exothermic nature of the fermentation
+process, temperatures of 30  C or above can be attained during
+periods of high ambient temperature. In Australia, it is not
+uncommon for temperatures as high as 35–40  C to occur in
+the vat, in the absence of a cooling facility. Generally,
+temperatures >25  C are considered undesirable, because
+during rapid fermentation many desirable ﬂavor compounds
+are not produced, some undesirable ﬂavors are produced, and
+alcohols and other metabolites may be lost by evaporation. In
+addition, the activity of the desirable yeast strain may be
+inhibited, leading to stuck fermentations and the growth of
+undesirable thermoduric yeasts and spoilage bacteria. Stuck
+fermentations can sometimes be restarted by the addition
+of nitrogen (10–50 mg l1), usually as ammonium sulfate or
+di-ammonium phosphate, together with thiamine (0.1–
+0.2 mg l1) and/or a yeast cell wall (ghost cell) preparation.
+At the end of fermentation, the yeast cells ﬂocculate and
+settle to the bottom of the vat – this process may be aided by
+chilling the cider in the vat. A certain amount of cell autolysis
+occurs, liberating cell constituents into the cider. The raw cider
+is racked off the lees (i.e., the settled yeast cells) as a cloudy
+product and is transferred to storage vats for maturation. In
+some plants, the cider may be centrifuged or rough-ﬁltered at
+this time. If the cider is left too long on the lees, autolysis may
+become excessive, leading to an increase in nitrogenous materials, which act as substrates for subsequent undesirable
+microbial growth and the development of off ﬂavors in the
+product.
+
+Maturation and Secondary Fermentation
+Traditionally, cider vats are made of wood (usually oak). The
+wood acts as a reservoir of microorganisms, such as yeasts and
+lactic acid bacteria which are important in the secondary
+fermentation of cider (Figure 2); undesirable organisms, such
+as acetic acid bacteria, may also occur. Modern processes using
+sterilizable stainless steel vats for fermentation and maturation
+lack the native microﬂora. If secondary fermentation is
+required, it is necessary either to inoculate the vats with
+a culture of malolactic organisms suitable for cider (N.B.
+malolactic cultures sold for wine are generally unsuitable for
+cider making) or to use a process of backslopping, in which
+part of an earlier batch of matured cider is used as an inoculum
+(with all the inherent risks of such action). The maturation vats
+are ﬁlled with racked-off cider and provided with an overblanket of CO2 or otherwise sealed to prevent the ingress of air,
+which would stimulate the growth of undesirable ﬁlm-forming
+
+440
+
+Cider (Cyder; Hard Cider)
+
+Figure 2 Electron micrograph of a section 1.2 cm below the surface of
+an oak wood block suspended in fermented cider for 10 weeks, showing
+individual yeast and bacterial cells within the structure of the wood.
+Reproduced with permission from Swafﬁeld, C.H., Scott, J.A., Jarvis, B.,
+1997. Observations on the microbial ecology of traditional alcoholic cider
+storage vats. Food Microbiol. 14, 353–361.
+
+yeasts (e.g., Brettanomyces spp., Pichia membranaefaciens,
+Candida mycoderma) and aerobic bacteria (e.g., Acetobacter
+xylinum).
+During the maturation process, the growth of malolactic
+acid bacteria (e.g., Lactobacillus pastorianus var. quinicus, L. mali,
+L. plantarum, Leuconostoc mesenteroides and other species, and
+Pediococcus spp.) can occur extensively, especially if wooden
+vats are used. The malolactic fermentation (MLF) results in the
+conversion of malic acid to lactic acid and also produces
+secondary metabolites. The MLF reduces the acidity of the cider
+and imparts subtle changes that improve the ﬂavor of the
+product. However, in certain circumstances, metabolites of
+the lactic acid bacteria may damage the ﬂavor and result in
+spoilage – for instance, excessive production of diacetyl (and its
+vicinal-diketone precursors), the butterscotch-like taste of
+which can be detected in cider at a threshold level of about
+0.6 mg l1.
+In ciders made without SO2, such as the farmhouse ciders of
+the Basque region of Spain, it is common for the MLF to occur
+concurrently with the yeast fermentation. This leads to complex
+ﬂavor development and, because the lactic acid bacteria also
+metabolize some of the sugar, to reduced alcohol levels.
+
+Pathogenic and Spoilage Microorganisms in Cider
+Bacterial pathogens such as Salmonella spp., Escherichia coli, and
+Staphylococcus aureus may occasionally occur in apple juice,
+being derived from the orchard soil, farm and processing
+equipment, or human sources. Outbreaks of food poisoning
+have occurred because of E. coli O157: H7 strains in freshly
+pressed nonpasteurized apple juice (usually known in the
+United States simply as cider). Normally, the acidity of both
+apple juice and fermented cider prevents the growth of pathogens, which survive for only a few hours. However, the speciﬁc
+strains of E. coli involved in food poisoning have a greater
+tolerance to acid and can survive for up to 30 days at 20  C in
+
+apple juice. These strains are destroyed by normal pasteurization conditions and do not survive in fermenting cider for more
+than 2–3 days because of the interaction of alcohol and acidity.
+The presence of bacterial endospores from species of Bacillus
+and Clostridium may be indicative of poor plant hygiene. They
+can survive for long periods and are frequently found in cider;
+however, because of its low pH value, they do not create
+a spoilage or health threat.
+The juice from unsound fruits and juice contaminated
+within the pressing plant may show extensive contamination
+by microfungi, such as Penicillium expansum, P. crustosum,
+Aspergillus niger, A. nidulans, A. fumigatus, Paecilomyces varioti,
+Byssochlamys fulva, Monascus ruber, Phialophora mustea, and
+species of Alternaria, Cladosporium, Botrytis, Oosporidium, and
+Fusarium. None of these are of particular concern in cidermaking, except that spores of heat-resistant species, such as
+Byssochlamys spp., can survive pasteurization and grow in cider
+if it is not adequately carbonated.
+The growth of P. expansum on apples leads to the occurrence
+of the mycotoxin patulin in the apple juice. Most countries
+have imposed a guideline limit of 50 mg l1 for patulin. At high
+levels, patulin inhibits the yeasts used as starter cultures, but
+they metabolize the patulin under anaerobic fermentation
+conditions within a few days, to form a number of compounds,
+including ascladiol. Patulin, therefore, would not be expected
+to occur in cider unless patulin-contaminated juice were added
+to sweeten the fermented cider.
+The role of organisms, such as Brettanomyces spp. and Acetobacter xylinum, in the spoilage of ciders during the latter stages
+of fermentation and maturation was mentioned previously. Of
+equal concern is the yeast Saccharomycodes ludwigii, which is
+often resistant to SO2 levels as high as 1000–1500 mg l1.
+S. ludwigii is an indigenous contaminant of cidermaking facilities and can grow slowly during all the stages of fermentation
+and maturation. Its presence in bulk stocks of cider does not
+cause an overt problem. However, if it is able to contaminate
+‘bright’ cider at bottling, its growth will result in a butyric ﬂavor
+and the presence of ﬂaky particles that spoil the appearance of
+the product. Although the organism is sensitive to pasteurization, it is not unknown for it to contaminate products at the
+packaging stage, either as a low-level contaminant of clean but
+nonsterile containers or directly from the packaging plant and
+its environment. Clumps of the organisms may also survive if it
+is present in unﬁltered cider at the time of pasteurization.
+Environmental contamination of ﬁnal products with yeasts,
+such as Saccharomyces cerevisiae vars. cerevisiae, bailii, and uvarum
+can also occur. These will metabolize residual or added sugar to
+generate further alcohol and, more importantly, to increase the
+concentration of CO2. Strains of these organisms are frequently
+resistant to SO2. In bottles of bright cider inoculated with such
+fermentative organisms, carbonation pressures up to 900 kPa
+have been recorded. To avoid any risk of burst bottles, it is
+essential to maintain an adequate level of free SO2 in the ﬁnal
+product, particularly in multiserve containers that may be
+opened and then stored with a reduced volume of cider.
+Alternatively, a second preservative such as benzoic or sorbic
+acid can be used, where permitted by legislation. This precaution is not necessary for products packaged in single-serve cans
+and bottles, which receive a terminal pasteurization process
+after ﬁlling.
+
+Cider (Cyder; Hard Cider)
+
+Some Special Fermentation and Other Processes
+Keeving and Cidre Bouché
+In France and parts of southwest England, the process of
+keeving is used to prepare traditional cider. Apple pulp is
+packed into barrels immediately after milling and held for 24 h
+at 5  C; the thick juice is run into sulﬁte-treated barrels where
+pectin esterases produce pectic acid. This reacts with calcium to
+form an insoluble complex that rises slowly to the surface as the
+wild-yeast fermentation proceeds, to produce a thick brown
+cap. Pectin reacts also with tannins and proteins to form
+a sediment and, at the end of the fermentation, a clear liquor is
+drawn off between the brown cap and the sediment. The
+product is a naturally sweet, relatively low-alcohol cider (ca.
+4% abv) that is matured in bottles closed with wired mushroom stoppers. A typical French product of this process is cidre
+bouché.
+
+Traditional Conditioned Draught Cider
+This product receives a secondary fermentation process. After
+ﬁlling barrels with a bright cider, a small quantity of fermentable carbohydrate is added, followed by an inoculum of active
+alcohol-resistant yeasts. The subsequent growth is accompanied by a low-level fermentation that generates sufﬁcient CO2
+to produce a pétillant cider, together with a haze of yeast cells.
+Such products have a shelf life in the barrel of about 4–6 weeks.
+
+Double Fermented Cider
+Double fermented products are initially fermented to an
+alcohol content of about 5% abv and then chilled to stop the
+fermentation process. The liquor is racked off immediately and
+is either sterile-ﬁltered or pasteurized before transfer to
+a second fermentation vat. Additional sugar and/or apple juice
+is added and a secondary fermentation is induced following
+inoculation with a selected alcohol-tolerant strain of Saccharomyces spp. Such a process permits the development of
+complex ﬂavors in the cider.
+
+Frankfürter Apfelwein mit Speierling
+In Germany, most cider (apfelwein) production occurs in the
+area around Frankfurt. One local specialty uses berries from the
+Speierling tree (Sorbus domestica) to add astringency to the cider
+that is made from culinary apples. The speierling berries are
+placed into a muslin bag that is suspended in the fermenting
+apple juice to permit extraction of the bitter ﬂavor constituents.
+The product is extremely astringent.
+
+Sparkling Ciders
+Traditionally, sparkling ciders were prepared according to
+the Méthode Champenoise. After bright ﬁltration, the fully
+fermented dry cider is ﬁlled into bottles containing a small
+amount of sugar and an appropriate Champagne yeast
+culture. The bottles are corked, wired, and laid on their sides
+for the secondary fermentation process, which will take 1–2
+months at 5–18  C. Following this stage, the bottles are
+placed in special racks with the neck in a downward
+
+441
+
+position. The bottles are gently shaken each day to move the
+deposit down onto the cork, a process that can take up to 2
+months. The disgorging process involves careful removal of
+the cork and yeast ﬂoc without loss of any liquid; sometimes
+the neck of the bottle is frozen to aid this process. The
+disgorged product is then topped up using a syrup of
+alcohol, cider, and sugar before ﬁnal corking, wiring, and
+labeling. It is not difﬁcult to understand why this process is
+rarely used nowadays. Most commercial sparkling ciders are
+normally prepared by artiﬁcial carbonation to a level of 3.5–
+4 vol. CO2.
+
+Cider Vinegar
+Fermented cider is refermented under aerobic conditions at
+15–25  C using selected strains of Acetobacter spp. to produce
+cider vinegar. The product typically contains up to 5% acetic
+acid and is used for culinary purposes and for its reputed health
+properties.
+
+Further Processes
+Fermented cider and perry may be distilled to produce spirit
+liquors such as Eau-de-vie-de-cidre, cider brandy, and calvados.
+Blends of cider and distilled cider liquor may be sold as
+intermediate products: for instance, Cider Royale is a blend of
+cider and cider brandy containing about 15–20% abv. Note
+that the addition of distilled liquor to a cider is permitted only
+if excise duty is levied as a spirit drink.
+
+Biochemical Changes during Cidermaking
+The chemical composition of cider is dependent on the
+composition of the apple juice, the nature of the fermentation
+yeasts, microbial contaminants and their metabolites, and any
+additives used in the ﬁnal product.
+
+Composition of Cider Apple Juice
+Apple juice is a mixture of sugars (primarily fructose, glucose,
+and sucrose), oligosaccharides, and polysaccharides (e.g.,
+starch), together with malic, quinic, and citromalic acids;
+tannins (i.e., polyphenols), amides, and other nitrogenous
+compounds; soluble pectin; vitamin C; minerals; and a diverse
+range of esters, in particular ethyl- and methyl-iso-valerate,
+which give the typical apple-like aroma. The relative proportions are dependent on the variety of apple; the environmental
+and cultural conditions under which it was grown; the state of
+maturity of the fruit at the time of pressing; the extent of
+physical and biological damage (e.g., rotting because of mold);
+and, to a lesser extent, the efﬁciency with which the juice was
+pressed from the fruit.
+The treatment of fresh juice with SO2 is important in the
+prevention of enzymic and nonenzymic browning reactions of
+the polyphenols; SO2 also complexes carbonyl compounds to
+form stable hydroxysulfonic acids. If the apples contain a high
+proportion of mold rots, appreciable amounts of carbonyls
+such as 2,5-dioxogluconic acid and 2,5-D-threo-hexodiulose
+will occur.
+
+442
+
+Cider (Cyder; Hard Cider)
+Some key ﬂavor compounds in cider
+
+Products of the Fermentation Process
+
+Table 3
+
+The primary objective of fermentation is the production of
+ethyl alcohol, and the biochemical pathways that govern this
+process are well recognized. Various intermediate metabolites can be converted to form a diverse range of other end
+products, including glycerol (up to 0.5%). Diacetyl and
+acetaldehyde may also occur, particularly if the process is
+inhibited by excess sulﬁte and/or uncontrolled lactic
+fermentation occurs. Other metabolic pathways will operate
+simultaneously, with the formation of long- and short-chain
+fatty acids, esters, lactones, and so on. Methanol is produced
+in small quantities (10–100 mg l1) as a result of demethylation of pectin in the juice.
+The tannins in cider change signiﬁcantly during fermentation; for instance, chlorogenic, caffeic, and p-coumaryl
+quinic acids are reduced with the formation of dihydroshikimic acid and ethyl catechol. The most important
+nitrogenous compounds in apple juice are the amino acids
+asparagine, aspartic acid, glutamine, and glutamic acid;
+smaller amounts of proline and 4-hydroxymethylproline
+also occur. Aromatic amino acids are virtually absent from
+apple juice. With the exception of proline and 4-hydroxymethylproline, the amino acids are largely assimilated by
+the yeasts during fermentation. However, leaving the cider
+on the lees signiﬁcantly increases the amino nitrogen content
+as a consequence of the release of cell constituents during
+yeast autolysis.
+Inorganic compounds in cider are mostly derived from the
+fruit and depend on the conditions prevailing in the orchard.
+Their levels do not change signiﬁcantly during fermentation.
+Trace quantities of iron and copper occur naturally, but the
+presence of larger quantities derived from process equipment,
+results in signiﬁcant black or green discoloration because of
+the formation of iron and copper tannates, with ﬂavor
+deterioration.
+
+Group of compounds
+
+Examples of important flavor metabolites a
+
+Alcohols
+
+Ethanol; propan-1-ol; butanol-1-ol; isopentan-1-ol; heptan-1-ol; hexan-1-ol; 2and 3-methylbutan-1-ol; 2-phenylethanol
+Malic; lactic; butyric; acetic; hexanoic;
+nonanoic; octanoic; succinic
+Acetaldehyde; benzaldehyde; butylaldehyde;
+hexanal; nonanal
+Pyruvate; decalactone; decan-2-one
+Amyl, butyl, and ethyl acetates; ethyl and butyl
+lactate; diethyl succinate; ethyl benzoate;
+ethyl hexanoate; ethyl guiacol; ethyl-2- and
+ethyl-3-methylbutyrate; ethyl octanoate;
+ethyl octenoate; ethyl decanoate; ethyl
+dodecanoate
+Methanediol; ethanthiol; methyl thioacetate;
+dimethyl-disulfide; ethyl-methyl-disulfide;
+diethyl-disulfide
+Diacetyl; 1,4,5,6-tetrahydro-2-acetopyridine
+
+Changes during Cider Maturation
+Maturation results in further changes in the composition of the
+cider, but these changes are not fully understood. The primary
+effect of the MLF is the conversion of malic acid into lactic acid,
+which, being a weak acid, results in a reduction in the apparent
+acidity. Much of the lactic acid is esteriﬁed, with the formation
+of ethyl, butyl, and propyl lactates. This removes harshness and
+gives a more balanced, smoother ﬂavor. Other desirable ﬂavor
+changes arising from the MLF include production of small
+quantities of diacetyl, which gives a butterscotch ﬂavor to the
+cider, although as noted, excessive levels of diacetyl are
+undesirable.
+Some strains of lactic acid bacteria also produce excessive
+quantities of acetic acid if residual sugar is present in the
+maturing cider. Sulfur aromas and ﬂavors resulting from yeast
+autolysis are generally lost during maturation, although
+unpleasant sulfur compounds, such as mercaptans, may be
+produced if the cider is infected by ﬁlm yeasts. Acetic acid may
+be formed either from the uncontrolled growth of heterofermentative lactic acid bacteria or, more commonly, from
+the growth of strains of Acetobacter spp. Butyric ﬂavors are
+generally caused by the growth of S. ludwigii and mousy ﬂavors
+
+Organic acids
+Aldehydes
+Carbonyls
+Esters
+
+Sulfur compounds
+
+Others
+a
+
+Compounds in italics are generally considered undesirable when more than traces
+are present; compounds in bold are essential ﬂavor constituents.
+Modiﬁed from Jarvis, B., Forster, M.J., Kinsella, W.P., 1995. Factors affecting the
+development of cider ﬂavour. In: Board, R.G., Jones, D., Jarvis, B. (Eds.), Microbial
+Fermentations: Beverages, Foods and Feeds. J. Appl. Bacteriol. Symp. Supplement.,
+79, pp. 5s–18s (S.A.B. Symposium Series No. 24).
+
+(believed to be the result of 1,4,5,6-tetrahydro-2-acetopyridine
+and related compounds) are generally ascribed to the growth of
+ﬁlm yeasts, such as Brettanomyces spp. Table 3 illustrates some
+of the key ﬂavor compounds found in cider.
+
+See also: Acetobacter ; Candida; Ecology of Bacteria and Fungi
+in Foods: Inﬂuence of Redox Potential; Escherichia coli O157:
+E. coli O157:H7; Fermentation (Industrial): Basic
+Considerations; Fermentation (Industrial): Control of
+Fermentation Conditions; Fermented Foods: Origins and
+Applications; Natural Occurrence of Mycotoxins in Food;
+Preservatives: Classiﬁcation and Properties; Preservatives:
+Traditional Preservatives – Organic Acids; Permitted
+Preservatives: Sulfur Dioxide; Saccharomyces: Saccharomyces
+cerevisiae; Starter Cultures: Importance of Selected Genera;
+Starter Cultures Employed in Cheesemaking; Wines:
+Microbiology of Winemaking; Wines: Malolactic Fermentation;
+Yeasts: Production and Commercial Uses.
+
+Further Reading
+Beech, F.W., 1972. English cider making: technology, microbiology and biochemistry.
+In: Hockenhull, D.J.D. (Ed.), Progress in Industrial Microbiology, vol. 11. Churchill
+Livingstone, Edinburgh, pp. 133–213.
+Beech, F.W., Davenport, R.R., 1983. New prospects and problems in the beverage
+industry. In: Roberts, T.A., Skinner, F.A. (Eds.), Food Microbiology: Advances and
+Prospects. Academic Press, London, pp. 241–256 (S.A.B. Symposium Series No. 11).
+Charley, V.L.S., 1949. The Principles and Practice of Cider-Making. Leonard Hill Ltd,
+London.
+Dinsdale, M.W., Lloyd, D., Jarvis, B., 1995. Yeast vitality during cider fermentation:
+two approaches to the measurement of membrane potential. J Inst. Brew. 101,
+453–458.
+
+Cider (Cyder; Hard Cider)
+Hammond, S.M., Carr, J.G., 1976. The antimicrobial activity of SO2 – with particular
+reference to fermented and non-fermented fruit juices. In: Skinner, F.A.,
+Hugo, W.B. (Eds.), Inhibition and Inactivation of Vegetative Microbes. Academic
+Press, London, pp. 89–110 (S.A.B. Symposium Series No. 5).
+Jarvis, B., 2001. Cider, perry, fruit wines and other alcoholic fruit beverages. In:
+Arthey, D., Ashurst, P.R. (Eds.), Fruit Processing, second ed. Blackie Academic and
+Professional, London, pp. 111–114.
+Jarvis, B., Lea, A.G.H., 2000. Sulphite binding in ciders. Int. J. Food Sci. Technol. 35,
+113–127.
+Jarvis, B., Forster, M.J., Kinsella, W.P., 1995. Factors affecting the development of
+cider ﬂavour. In: Board, R.G., Jones, D., Jarvis, B. (Eds.), Microbial Fermentations:
+Beverages, Foods and Feeds. J. Appl. Bacteriol. Symp. Suppl., 79, pp. 5s–18s
+(S.A.B. Symposium Series No. 24).
+
+443
+
+Lea, A.G.H., 2003. Cidermaking. In: Lea, A.G.H., Piggott, J.R. (Eds.), Fermented Beverage
+Production, second ed. Blackie Academic and Professional, London, pp. 59–88.
+Lea, A.G.H., 2009. Keeving. www.cider.org.uk/keeving.html last visited on 17 August
+2011.
+Lea, A.G.H., 2011. Small-Scale Cidermaking. www.cider.org.uk last visited on 17
+August 2011.
+Moss, M.O., Long, M.T., 2002. The fate of patulin in the presence of the yeast
+Saccharomyces cerevisiae. Food Addit. Contam. 19, 387–399.
+Swafﬁeld, C.H., Scott, J.A., Jarvis, B., 1997. Observations on the microbial ecology of
+traditional alcoholic cider storage vats. Food Microbiol. 14, 353–361.
+Williams, R.R. (Ed.), 1991. Cider and Juice Apples: Growing and Processing. University
+of Bristol, Bristol.
+
+

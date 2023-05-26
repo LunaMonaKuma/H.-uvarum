@@ -1,0 +1,427 @@
+Biochemistry and Molecular Biology Education 29 (2001) 245–249
+
+Laboratory exercise
+
+The pentose phosphate pathway in the yeasts Saccharomyces
+cerevisiae and Kloeckera apiculata, an exercise in comparative
+metabolism for food and wine science students
+Christopher C. Steel*, Paul R. Grbin1, Alan W. Nichol
+National Wine and Grape Industry Centre, School of Wine and Food Sciences, Charles Sturt University, PO Box 588, Wagga Wagga,
+New South Wales 2678, Australia
+
+Abstract
+Comparative cellular metabolism can be a diﬃcult area of biochemistry to teach in the undergraduate laboratory class. Student
+practicals involving animal tissues generally require approval from animal ethic committees, and the relevance for students whose
+primary interest in biochemistry is in the area of food and wine sciences, is often questioned. In this report, we present an
+undergraduate practical exercise in which glucose catabolism via the pentose phosphate pathway is compared in two types of yeast
+with direct relevance to the wine and food industries, Saccharomyces cerevisiae and Kloeckera apiculata. The exercise is carried out
+as a demonstration to second year undergraduate students, studying metabolic biochemistry. It is of some value in that it illustrates
+comparative cellular metabolism in wine yeasts and introduces the students to the safe use of radioisotopes. r 2001 IUBMB.
+Published by Elsevier Science Ltd. All rights reserved.
+Keywords: Pentose phosphate pathway; Wine yeasts; Saccharomyces cerevisiae; Kloeckera apiculata; Hanseniaspora uvarum; [1-14C]-glucose;
+Carbohydrate metabolism
+
+1. Introduction
+The pentose phosphate pathway, also called the
+hexose monophosphate and the phosphogluconate
+pathway serves two functions in the cell. It provides
+reducing equivalents in the form of NADPH for lipid
+and other biosynthetic purposes, and it provides
+pentoses for the synthesis of nucleic acids, glycoproteins
+and other substances [1]. Unlike glycolysis which
+proceeds by formation of fructose-1, 6-bisphosphate,
+glucose-6-phosphate is not further phosphorylated.
+After conversion to phosphogluconate, carbon 1 of
+glucose is lost in an oxidative decarboxylation reaction
+to produce ribulose-5-phosphate which in turn produces
+ribose-5-phosphate for nucleic acid synthesis (Fig. 1).
+The loss of carbon dioxide from carbon 1 of glucose
+may be taken as an approximate measure of the amount
+of glucose metabolised via the pentose phosphate
+pathway. Carbon dioxide arising from alcoholic fer*Corresponding author.
+E-mail address: csteel@csu.edu.au (C.C. Steel).
+1
+Current address: Department of Horticulture, Viticulture and
+Oenology, The University of Adelaide, Private Mail Bag 1, Glen
+Osmond, SA 5064, Australia.
+
+mentation of glucose originates from carbons 3 and 4.
+Carbon dioxide produced as a result of respiration can
+arise from all of the carbon atoms of the glucose,
+including carbon 1, but can be inhibited by potassium
+cyanide.
+Using [1-14C]-glucose, the amount of glucose catabolised via the pentose phosphate pathway can be
+estimated from the amount of [14C]-carbon dioxide
+released. Given that the stoichiometry of the equation
+for the oxidative portion of the pentose phosphate
+pathway is such that one molecule of CO2 is produced
+per molecule of glucose catabolised, (1), then the speciﬁc
+activity of the released CO2 will be the same as that of
+glucose.
+Glucose þ 2NADPþ -CO2 þ2NADP þ Hþ þ Ribose:
+ð1Þ
+Eq. (1), also shows that the speciﬁc activity of the CO2
+released is the ratio of mCi of released CO2 to mmol of
+glucose consumed via the pentose phosphate pathway.
+The latter can now be calculated from the known
+speciﬁc activity of the added glucose.
+We have developed an undergraduate practical
+exercise, conducted as a demonstration to illustrate the
+pentose phosphate pathway in two yeasts, Saccharo-
+
+1470-8175/01/$20.00 r 2001 IUBMB. Published by Elsevier Science Ltd. All rights reserved.
+PII: S 1 4 7 0 - 8 1 7 5 ( 0 1 ) 0 0 0 9 7 - 2
+
+246
+
+C.C. Steel et al. / Biochemistry and Molecular Biology Education 29 (2001) 245–249
+
+Fig. 1. The oxidative portion of the pentose phosphate pathway showing the origin of released carbon dioxide.
+
+myces cerevisiae, normally used in brewing and baking,
+and Kloeckera apiculata (anamorph Hanseniaspora
+uvarum) a wild yeast commonly associated with the
+normal microﬂora of mature grapevine berries [2]. As
+the two yeasts diﬀer considerably in ribonucleic acid
+content [3], they exhibit major diﬀerences for ribose
+synthesis and consequently show diﬀerent requirements
+for glucose catabolism via the pentose phosphate
+pathway.
+
+2. Materials and methods
+Cultures of S. cerevisiae and K. apiculata may be
+obtained from various yeast culture collections around
+the world. Both organisms can also be readily isolated
+
+from either grape berries or wine making equipment [2].
+We maintained the yeast culture on agar slopes of Malt
+Yeast Extract Agar (Difco, Australia), and when
+required sub-cultured the yeast into ﬂasks of malt yeast
+extract broth (Difco, Australia) 12–18 h prior to the
+commencement of the exercise.
+Broth cultures in the logarithmic phase of growth
+(determined by optical density estimations), are harvested using centrifugation (3000g, 20 min), and the wet
+weight recorded. The cells are resuspended in potassium
+phosphate buﬀer (10 mM, pH 6.3), to give a ﬁnal yeast
+suspension of 5% (w/v).
+[1-14C]-Glucose was obtained from Amersham, Australia and the scintillation counting ﬂuid used was
+Ultima-Gold (Canberra-Packard, Australia). Hyamine
+was also obtained from Canberra-Packard, Australia
+
+C.C. Steel et al. / Biochemistry and Molecular Biology Education 29 (2001) 245–249
+
+while all other reagents were obtained from Sigma
+Aldrich Pty Ltd (Castle Hill, Australia). Tables 1 and 2
+list equipment, consumable items and preparation of
+reagents required to conduct the exercise.
+2.1. Experimental procedure
+The reaction is carried out in a 10 cm headspace vial
+with a crimp seal and teﬂon linear (Alltech, Baulkham
+Hills, Australia). All manipulations of the radioactive
+material are done in a fume cupboard. The incubation
+mixture consists of 0.1 ml of the appropriate yeast
+culture and 10 ml of KCN (0.1 M) to inhibit respiration.
+The reaction vessel contains three glass beads to support
+a Durham tube containing the hyamine solution (0.1 ml,
+1.0 M in methanol). [1-14C]-Glucose (2.5 mCi/ml, 0.1 ml,
+
+Table 1
+Equipment and Consumable items required to set-up a demonstration
+to illustrate the pentose phosphate pathway in yeasts
+Equipment
+10 cm headspace vials (Alltech Part number 6655) with crimp seals
+(Alltech Part number 95756), containing three glass beads plus a
+Durham tube (one tube per incubation)
+Shaking water bath set at 301C (for incubations containing
+unlabelled glucose)
+Shaking water bath set at 301C in fume hood (for tubes containing
+radio labelled glucose)
+Spectrophotometer set to 510 nm
+Automatic pipettes
+High speed centrifuge
+Consumables
+Glucose oxidase reagent (prepared according to manufacturers
+instructions)
+Scintillation vials and lids
+Centrifuge tubes
+Pasteur pipettes and bulbs
+Macrocuvettes (4.5 ml volume)
+Contamination container for radioactive waste
+Beaker containing disinfectant for disposal of waste yeast culture
+1 ml syringes plus 23G needles
+Disposable pipette tips (200 and 1000 ml)
+Latex disposable gloves
+
+Table 2
+Details of reagents required to set-up a demonstration to illustrate the
+pentose phosphate pathway in yeasts
+Yeast suspensions. Grow yeast for 12–18 h at 301C in Malt broth with
+shaking until the OD600 nm is approximately 0.2
+Glucose (2.5 mM) (0.45 g glucose/1 l water)
+Glucose (2.5 mM) containing 2.5 mCi of glucose-1-C14/ml
+Hyamine solution, 1 M in methanol
+Perchloric acid (0.4 M) (23.6 ml Perchloric acid in 1 l water)
+Potassium cyanide (0.1 M) (0.75 g KCN/100 ml water)
+Scintillant, Packard Ultima Gold, in dispenser set at 5 ml
+Sodium carbonate (0.1 M) (1.06 g Na2CO3/100 ml water)
+Hydrochloric acid (5 M)
+Disodium hydrogen phosphate (0.4 M) (28.34 g Na2HPO4/500 ml water)
+
+247
+
+2.5 mM) is introduced into the incubation mixture via a
+syringe and the vial sealed to start the experiment. A
+second set of vials containing unlabelled glucose is also
+prepared at the same time. Both control and radiolabelled tubes are incubated for 30 min with gentle
+agitation at 301C in a water bath.
+The tubes containing the unlabelled glucose are used
+for the estimation of glucose catabolised using a
+commercially available glucose oxidase assay kit, prepared according to the manufacturers directions (Boehringer-Mannheim, Australia). An aliquot (0.1 ml) of the
+incubation mixture is removed to a centrifuge tube
+containing perchloric acid (0.4 M, 1.0 ml) and the
+contents mixed. The material is centrifuged (3000g,
+5 min) and 0.2 ml of the supernatant removed. The acidtreated supernatant is then neutralised with disodium
+hydrogen phosphate (0.4 M, 0.2 ml), mixed, and then
+2.5 ml of the glucose oxidase reagent added. The
+absorbance at 510 nm is read after 30 min and the
+glucose concentration determined with reference to a
+standard curve. The amount of glucose catabolised is
+assayed by measuring glucose at both the end and the
+start of the incubation period, using duplicate tubes
+containing unlabelled glucose. Additionally, samples of
+the yeast suspensions are assayed at the start of the
+incubation period to conﬁrm that the amount of glucose
+present in the washed culture is negligible prior to the
+addition of the glucose. Any glucose detected is taken
+into account in the ﬁnal calculation.
+At the end of the incubation period, the carbon
+dioxide in tubes containing the [1-14C]-glucose is drivenout of the incubation mixture by addition of sodium
+carbonate (0.1 M, 0.05 ml). This is then acidiﬁed with a
+volume of HCl (5 M, 0.05 ml) and the mixture incubated
+for a further 45 min at 301C. The released CO2 is
+absorbed by the strong organic base, hyamine, present
+in the Durham tube. This solution is then transferred to
+5 ml of scintillant and the radioactivity assayed using
+liquid scintillation counting.
+2.2. Calculation of glucose ﬂux through the pentose
+phosphate pathway
+Total glucose present at the start and end of the
+incubation period is calculated with reference to the
+standard curve. The total number of microcuries of
+14
+CO2 released for each sample is calculated using the
+counts per minute recorded and correction made for
+counting eﬃciency using an external standard. The
+students are requested to calculate the speciﬁc activity of
+the 14CO2 released by relating the total microcuries of
+14
+C-glucose added to each sample to total mmol of
+glucose present at the start of incubation. As the speciﬁc
+activity of glucose and carbon dioxide are the same, the
+total mmol of 14CO2 produced for each sample can be
+determined. From this, the percentage of the total
+
+248
+
+C.C. Steel et al. / Biochemistry and Molecular Biology Education 29 (2001) 245–249
+
+glucose catabolised via the pentose phosphate pathway
+can be calculated.
+
+3. Results and discussion
+This exercise has been taught for over three years to
+second year undergraduate students enrolled in degreelevel courses in wine & food sciences. The exercise was
+originally conducted with students working in pairs, but
+we found it more eﬀective to teach the exercise as a
+demonstration. The demonstration commences with a
+pre-practical talk, during which time the use of radioisotopes in metabolic studies and the theory of the
+pentose phosphate pathway is discussed. Some background information on non-Saccharomyces spoilage
+yeasts in wine production is also given. Prior to this
+exercise, students have completed two additional practical exercises on carbohydrate metabolism; the ﬁrst of
+these investigates the suitability of diﬀerent mono- and
+disaccharides for alcoholic fermentation while the
+second deals with the Pasteur eﬀect. In combination
+with the lecture component, the students should therefore understand the function of the pentose phosphate
+pathway in the overall context of carbohydrate metabolism.
+At the conclusion of the demonstration, students are
+provided with the raw data in the form of counts per
+minute of the hyamine solution, disintegrations per
+minute are then calculated with reference to a supplied
+counting eﬃciency curve. A sample calculation table
+that a student might prepare is illustrated in Table 3. In
+order to perform the calculations, students have to
+understand the stoichiometry of the equation for the
+oxidative portion of the pentose phosphate pathway.
+
+They also have to understand the origins of the carbon
+dioxide in the pentose phosphate pathway, respiration
+and alcoholic fermentation in yeast. Predicted results are
+that the culture of K. apiculata will catabolise less
+glucose via the pentose phosphate pathway than the
+culture of S. cerevisiae. In their practical reports,
+students have to comprehend why this is so, i.e.
+diﬀerences in the requirements for ribose synthesis.
+Concepts which the students are expected to grasp at
+the conclusion of the exercise include:
+*
+
+*
+
+*
+
+*
+
+*
+
+Stoichiometry of the oxidative portion of the pentose
+phosphate pathway,
+The pentose phosphate pathway as an alternative
+route to glycolysis for glucose catabolism,
+The two primary functions of the oxidative portion of
+the pentose phosphate pathway, i.e. formation of
+pentose sugars for nucleic acids and NADPH for
+lipid and other biosynthetic pathways,
+That yeast diﬀer in their relative activity of the
+pentose phosphate pathway because of diﬀering
+ribonucleic acid and/or lipid biosynthesis requirements,
+Use of radioisotope techniques in metabolic studies.
+
+Typical study questions that might be used either
+before or after the practical session include the following:
+*
+
+*
+
+*
+
+What function does the pentose phosphate pathway
+have in yeast cells?
+Why are there diﬀerences in activity of the pentose
+phosphate pathway in diﬀerent types of yeast?
+Explain why the speciﬁc activities are the same for
+14
+CO2 and 14C glucose?
+
+Table 3
+Sample calculation of glucose ﬂux through the pentose phosphate pathway. Students are provided with the cpm values for the two cultures, the
+remainder of the table has to be calculated by the students
+Incubation
+
+a
+
+cpm
+Counting eﬃciencyb (%)
+dpmc
+14
+CO2 releasedd (mCi)
+14
+CO2 releasede (mmol)
+Glucose catabolisedf (mmol)
+Glucose catabolised via pentose phosphate pathwayg (%)
+a
+
+S. cerevisiae
+
+K. apiculata
+
+30479
+95
+32083
+0.01445
+0.05781
+0.25
+23%
+
+20731
+95
+21822
+0.00983
+0.03932
+0.25
+16%
+
+Counts per minute as recorded on scintillation counter.
+Percentage counting eﬃciency determined with reference to counting eﬃciency curve.
+c
+Disintegrations per minute.
+d
+Calculated by dividing the dpm value by 2.22  106.
+e
+Calculated by dividing mCi 14CO2 released by the speciﬁc activity, i.e. 0.25.
+f
+The glucose catabolised is calculated by the students with reference to a standard curve that they have prepared.
+g
+The amount of mmoles 14CO2 released is divided by mmol glucose catabolised and multiplied by 100 in order to obtain this percentage.
+b
+
+C.C. Steel et al. / Biochemistry and Molecular Biology Education 29 (2001) 245–249
+*
+
+If 1-14C glucose is catabolised in yeasts and muscle
+cells to ethanol and lactate, respectively, indicate the
+position of the radioactive label in the ﬁnal products.
+
+A source of variation in the results can be the growth
+stage yeast cultures. Both species should be in the
+logarithmic phase of growth, cultures that are in the
+stationary phase, have an overall slow rate of metabolism. If this is the case, little glucose is metabolised in the
+30 min incubation period. However, this problem will
+not arise if the growth of the two cultures is monitored
+prior to the commencement of the demonstration.
+Normally, cultures inoculated with a starter culture
+12–18 h prior to the start of the demonstration will be in
+the logarithmic phase of growth and suitable for the
+exercise.
+As an alternative to using two diﬀerent species of
+yeast, it may be possible to employ mutants that are
+deﬁcient in one more of the enzymes of the pentose
+phosphate pathway, such as glucose-6-phosphate dehydrogenase deﬁcient cells of Saccharomyces cerevisiae [4–
+6]. Alternatively, it could be possible to use mutant
+strains of Escherichia coli, [7]. Such mutant strains could
+of course be used as an adaptation of this exercise if it is
+not possible to obtain cultures of the wine yeasts. This
+however, is something that we have not attempted.
+We have however, performed this experiment using
+human red blood cells which utilise NADPH to
+maintain haemoglobin in the reduced (Fe II) state.
+Errors are magniﬁed with these cells as glucose
+consumption and CO2 release is only 5–10% that of
+yeast under these conditions. Because of this, and also
+because of risk of infection, we do not recommend this
+
+249
+
+procedure to be used with human blood. Furthermore,
+exercises involving animal tissues, generally require
+approval from various animal ethic committees [8], this
+of course is not the case if yeast cultures are used.
+
+References
+[1] T. Wood, The Pentose Phosphate Pathway, Academic Press,
+London, 1985.
+[2] G.H. Fleet, Ch. 1 The microorganisms of winemakingFisolation,
+enumeration and identiﬁcation, in: G.H. Fleet (Ed.), Wine
+Microbiology and Biotechnology, Harwood Academic Publishers,
+Chur, Switzerland, 1993, pp. 1–25.
+[3] B.E.N. Todd, J. Zhao, G.H. Fleet, HPLC measurement of
+guanine for the determination of nucleic acids (RNA) in yeasts, J.
+Microbiol. Methods 22 (1) (1995) 1–10.
+[4] S. Izawa, K. Maeda, T. Miki, J. Mano, Y. Inoue, A. Kimura,
+Importance of glucose-6-phosphate dehydrogenase in the adaptive response to hydrogen peroxide in Saccharomyces cerevisiae,
+Biochem. J. 330 (2) (1998) 811–817.
+[5] H. Juhnke, B. Krems, P. Kotter, K.D. Entian, Mutants that show
+increased sensitivity to hydrogen peroxide reveal an important
+role for the pentose phosphate pathway in protection of yeast
+against oxidative stress, Mol. Gen. Genet. 252 (4) (1996) 456–464.
+[6] I. Schaaﬀgerstenschlager, F.K. Zimmermann, Pentose-phosphate
+pathway in Saccharomyces cerevisiaeFanalysis of deletion
+mutants for transketolase, transaldolase, and glucose 6-phosphate
+dehydrogenase, Curr. Genet. 24 (5) (1993) 373–376.
+[7] R. Johnson, A.I. Krasna, D. Rittenberg, 18O Studies on the
+oxidative and nonoxidative pentose phosphate pathways in wildtype and mutant E. coli cells, Biochemistry 12 (10) (1973) 1969–
+1977.
+[8] NHMRC. Australian code of practice for the care, use of animals
+for scientiﬁc purposes, 6th edition, Australian Government
+Publishing Service, 1997.
+
+

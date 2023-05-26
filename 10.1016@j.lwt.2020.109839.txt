@@ -1,0 +1,1268 @@
+LWT - Food Science and Technology 132 (2020) 109839
+
+Contents lists available at ScienceDirect
+
+LWT
+journal homepage: www.elsevier.com/locate/lwt
+
+Biomass suppression of Hanseniaspora uvarum by killer Saccharomyces
+cerevisiae highly increased fruity esters in mixed culture fermentation
+Yue-Qi Li a, 1, Kai Hu a, 1, Yin-Hu Xu b, Wen-Chao Mei a, Yong-Sheng Tao a, c, *
+a
+
+College of Enology, Northwest A&F University, Yangling, Shaanxi, 712100, China
+Angel Yeast Co., LTD, Yichang, Hubei, 443003, China
+c
+Shaanxi Engineering Research Center for Viti-viniculture, Yangling, Shaanxi, 712100, China
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Wine yeast
+Antagonistic activity
+Winemaking
+Aroma compound
+Fatty acid
+
+Hanseniaspora uvarum strain Yun268 was inoculated with Saccharomyces cerevisiae strains of different antago­
+nistic abilities (RV002 and RV171) to evaluate fruity ester production in mixed fermentation. Co-inoculation (CI)
+and sequential inoculation (SI) of two yeast species were performed in synthetic must and in Granoir wine­
+making. Fermentation kinetics, the formation of yeast biomass and fruity esters were monitored during
+fermentation, and the aroma attributes of the final wines were quantified by trained panelists. Results showed
+that killer S. cerevisiae suppressed biomass of Yun268 more than common S. cerevisiae, especially in CI treatment.
+Higher concentration of medium chain fatty acids was associated with the higher biomass suppression of
+H. uvarum in CI with killer S. cerevisiae, which resulted in the increased formation of fruity esters, but effectively
+restricted the production of ethyl acetate. However, more biomass and longer survival time of H. uvarum in SI
+considerably increased volatile acidity (3-fold higher than that in single fermentation), which delayed the
+reproduction of S. cerevisiae temporarily, and elevated the levels of ethyl acetate. Winemaking confirmed that the
+co-culture of H. uvarum and killer S. cerevisiae highly improved fruity aromas, which was due to the increase in
+ester production, especially medium chain fatty acid ethyl esters.
+
+Chemical compounds studied in this article:
+Ethyl acetate (PubChem CID: 8857)
+Isobutyl acetate (PubChem CID: 8038)
+Isoamyl acetate (PubChem CID: 31276)
+Ethyl butyrate (PubChem CID: 77632)
+Ethyl hexanoate (PubChem CID: 31265)
+Ethyl octanoate (PubChem CID: 7799)
+Ethyl decanoate (PubChem CID: 8048)
+
+1. Introduction
+Mixed fermentation involving non-Saccharomyces (NS) yeast can
+shape the chemical profile of wine aromatic compounds and improve the
+diversity of wine aroma (Johnson, 2013; Padilla, Gil, & Manzanares,
+2016; Wyk, Grossmann, Jürgen, Wallbrunn, & Pretorius, 2019).
+Currently, there is increasing interest toward mixed fermentation with
+different NS yeasts due to their positive effects on enological perfor­
+mance (Ciani & Comitini, 2015). Esters significantly affect the formation
+of desired fruity and floral aromas (Poivet et al., 2018; Saenz-Navajas
+et al., 2016). In particular, acetate esters and fatty acid ethyl esters are
+formed via the reaction of alcohol and corresponding fatty acids during
+fermentation (Ebeler, 2001). Ma, Yan, Wang, Zhang, and Tao (2017)
+observed that the mixed fermentation of selected Pichia fermentans and
+Saccharomyces cerevisiae increased the acetate and ethyl ester content in
+Ecolly dry white wine. In addition, a study on mixed fermentation of
+Torulaspora delbrueckii and S. cerevisiae showed that concentrations of
+isobutyl acetate and isoamyl acetate were systematically increased
+
+(Renault, Coulon, de Revel, Barbe, & Bely, 2015). The different growth
+rates of yeasts affect ester production. Among the studied NS species,
+Hanseniaspora uvarum showed high ability to produce fruity esters in
+mixed fermentation with S. cerevisiae. However, over metabolism of
+H. uvarum may yield more ethyl acetate, resulting in unpleasant
+off-flavor similar to that of nail polish (Hu, Jin, Mei, Li, & Tao, 2018; Hu,
+Jin, Xu, & Tao, 2018). Therefore, it is necessary to regulate the perfor­
+mance of H. uvarum in ester production during mixed fermentation.
+The killer ability of yeasts was first observed in certain strains of
+Saccharomyces and was related to yeast interactions (Marquina, Santos,
+& Peinado, 2002). Certain S. cerevisiae strains may release toxins that
+inhibit or regulate the growth of other yeasts (Orentaite, Poranen,
+Oksanen, Daugelavicius, & Bamford, 2016). Generally, killer
+S. cerevisiae is used to prevent the infection of grape natural yeasts and
+bacteria and effectively guarantee the purity of fermentation. One study
+showed that killer yeast can affect the microbial biomass balance of two
+S. cerevisiae strains during mixed culture (Ramon-Portugal, Delia, Stre­
+haiano, & Riba, 1997). In winemaking, the co-inoculation of S. cerevisiae
+
+* Corresponding author. College of Enology, Northwest A&F University, 22 Xinong Road, Yangling, Shaanxi, 712100, China.
+E-mail address: taoyongsheng@nwsuaf.edu.cn (Y.-S. Tao).
+1
+These authors equally contributed to this work.
+https://doi.org/10.1016/j.lwt.2020.109839
+Received 26 March 2020; Received in revised form 2 July 2020; Accepted 4 July 2020
+Available online 13 July 2020
+0023-6438/© 2020 Elsevier Ltd. All rights reserved.
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+Fig. 1. Fermentation kinetics and enological param­
+eters in SGM fermentations: (A) Identification of yeast
+antagonistic ability, (B) biomass of H. uvarum, (C)
+biomass of S. cerevisiae, (D) sugar consumption of
+fermentation, and (E) production dynamics of volatile
+acid during fermentation. RV171 (black circle),
+RV002 (red circle), CI-RV171 (black triangle), CIRV002 (red triangle), SI-RV171 (black square), and
+CI-RV002 (red square). (For interpretation of the
+references to color in this figure legend, the reader is
+referred to the Web version of this article.)
+
+strains with different antagonistic abilities enhanced the quality of
+sparkling wines (Lombardi, De Leonardis, Lustrato, Testa, & Iorizzo,
+2015). A few studies have investigated the suppressive effect of
+S. cerevisiae strains on the physiological properties of NS yeast during
+fermentation (Branco, Viana, Albergaria, & Arneborg, 2015; Kemsawasd
+et al., 2015). However, very little is known about the suppressive effect
+of S. cerevisiae on the production of wine aroma compounds during
+mixed culture fermentation with NS strains.
+In this study, H. uvarum strain Yun268 was inoculated with
+S. cerevisiae strains RV002 (high antagonistic ability, killer) and RV171
+(low antagonistic ability, non-killer) using different inoculation strate­
+gies for Granoir winemaking. The response of ester production and
+aroma profiles to the suppression of H. uvarum by S. cerevisiae was
+evaluated. The results may provide knowledge regarding the regulation
+of NS yeast, and contribute to the efficient modulation of aroma in wine
+fermentation.
+
+tartaric acid, L-malic acid, methylene blue, NaCl, NaOH, SO2,
+(NH4)2SO4, MgSO4, MnSO4, KCl, Na2HPO4, and KH2PO4 were obtained
+from Aoboxing Bio-Tech Co. Ltd (Beijing, China). p-Nitrophenyl acetate
+(C2, 99%), p-nitrophenyl butyrate (C4, 99%), p-nitrophenyl hexanoate
+(C6, 98%), p-nitrophenyl octanoate (C8, 97%) (J&K, Beijing, China),
+and p-nitrophenyl decanoate (C10, 98%) were purchased from SigmaAldrich, Shanghai, China. Chemical standards used for identification
+and quantification of volatiles were at least 97% pure (Sigma-Aldrich,
+Shanghai, China). Water was purified using a Milli-Q system (Millipore,
+Bedford, USA).
+2.2. Strains and media
+S. cerevisiae strains RV002 (high antagonistic ability) and RV171
+(low antagonistic ability) were supplied by Angel Yeast Co., Ltd.
+(Yichang, China). These two strains were chosen to create different
+suppression levels for NS yeast during mixed fermentation. H. uvarum
+Yun268 was selected from the Yun-Nan Hong vineyard (Yunnan Prov­
+ince, China), and preserved in China Center for Type Culture Collection
+(CCTCC M2013658).
+The killer activity of S. cerevisiae against H. uvarum (Yun268) was
+tested using YEPD-MB agar (YEPD containing 0.03 g/L methylene blue
+
+2. Materials and methods
+2.1. Chemicals and reagents
+Glucose, fructose, peptone, yeast extract powder, agar, citric acid, L2
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+Table 1
+Characteristics of yeast growth in single and mixed culture fermentations.
+Characteristics
+Lag (d)
+S. cerevisiae
+μmax (1/h)
+S. cerevisiae
+Bmax (Log CFU/mL)
+S. cerevisiae
+H. uvarum
+
+RV171
+
+RV002
+
+CI-RV171
+
+CI-RV002
+
+SI-RV171
+
+SI-RV002
+
+1.20 � 0.06a
+
+0.42 � 0.60bc
+
+1.49 � 0.04a
+
+0.23 � 0.32c
+
+1.35 � 0.06a
+
+1.11 � 0.07 ab
+
+0.75 � 0.01b
+
+0.54 � 0.10cd
+
+0.90 � 0.01a
+
+0.47 � 0.01d
+
+0.60 � 0.01c
+
+0.58 � 0.01c
+
+7.63 � 0.05a
+–
+
+7.64 � 0.05a
+–
+
+7.62 � 0.06a
+6.54 � 0.04b
+
+7.64 � 0.04a
+6.58 � 0.04b
+
+7.64 � 0.05a
+7.33 � 0.03a
+
+7.67 � 0.05a
+7.36 � 0.04a
+
+Values followed by different letters in a row indicate significant differences (P < 0.05) by Duncan test.
+
+and 20 g/L agar) according to the procedure reported by Santo, Galego,
+Goncalves, and Quintas (2012). Approximately 105 cells/mL of
+H. uvarum (48 h old) were plated as a lawn onto YEPD-MB agar. After 2
+h, 108 cells/mL of RV002 and RV171 (48 h old) were inoculated in a
+concentrated area (1 cm diameter) and cultivated at 28 � C for 2 d.
+S. cerevisiae was classified as a killer isolate when it inhibited H. uvarum
+growth on the agar surfaces and the inhibition zone was surrounded by a
+dark blue boundary.
+
+agar medium and volatile acidity of must (expressed as acetic acid
+content) was determined using distillation/titration method every 24 h
+(GB/T 15038-2006, 2006). The dynamic changes in fruity ester pro­
+duction and esterase activity were also determined every 24 h.
+Granoir grapes (V. vinifera L.), introduced from Switzerland, were
+harvested manually from a vineyard in Heyang (Shaanxi Province,
+China). The contents of sugar and acid (expressed as tartaric acid) were
+178 g/L and 7.96 g/L, respectively. Sugar and acid contents were
+determined using Fehling and NaOH titration methods, respectively
+(GB/T 15038-2006, 2006). Grapes were destemmed, crushed, treated
+with 60 mg/L SO2, and divided into 10-L glass jars. After that, each must
+was treated with 20 mg/L pectinase (Optizym®, Laffort Co. Bordeaux,
+France) at room temperature, followed by maceration with skins at 4 � C
+for 24 h. Before yeast inoculation, 22 g/L sucrose was added into the
+must to achieve the same level of final ethanol content as SGM.
+Fermentation was performed at 22 � C. After fermentation, the wine
+samples were treated with 60 mg/L SO2 and stored at 4 � C for further
+analysis.
+
+2.3. Fermentation experiments
+Mixed culture fermentation included two modalities: co-inoculation
+(CI) in which H. uvarum Yun268 and S. cerevisiae (either RV171 or
+RV002) were co-inoculated, and sequential inoculation (SI) where
+H. uvarum Yun268 was inoculated 24 h prior to S. cerevisiae. The initial
+concentration of each yeast strain was 1 � 106 cells/mL. Single
+fermentation with RV002 or RV171 served as the control. Alcohol
+fermentation was considered completed when the residual sugar content
+dropped below 2 g/L according to Fehling titration method (GB/T
+15038-2006, 2006). Wine samples were stored at 4 � C for further
+analysis.
+A synthetic grape must (SGM) (pH 3.2) was used to simulate wine
+fermentation. The SGM contained 100 g/L glucose, 100 g/L fructose, 1
+g/L yeast extract (Aoboxing, Beijing, China), 0.3 g/L citric acid, 5 g/L Ltartaric acid, 5 g/L L-malic acid, 2 g/L (NH4)2SO4, 5 g/L KH2PO4, 0.4 g/L
+MgSO4, 0.2 g/L NaCl, and 0.05 g/L MnSO4 (Rossouw, Du Toit, & Bauer,
+2012). Fermentation was performed in 1-L Erlenmeyer flask at 22 � C.
+Fermentation kinetics was monitored via sugar consumption every 24 h.
+Biomasses of the strains were counted using Wallerstein (WL) nutrient
+
+2.4. Esterase activity assay
+Esterase activity of fermentation yeasts was assayed using the p-NP
+method according to Hu, Jin, Mei, et al. (2018). Substrate specificity of
+the esterase was determined for the following five p–nitro-phenyl (p–NP)
+esters with different chain lengths: C2 (p–NP acetate), C4 (p–NP buty­
+rate), C6 (p–NP hexanoate), C8 (p–NP octanoate), and C10 (p–NP dec­
+anoate). The absorbance of the released p–NP was determined at 400 nm
+using an ultraviolet–visible spectrophotometer (UV1780, Shimadzu,
+Shanghai, China) against a blank solution with the inactivated enzyme.
+
+Fig. 2. The levels of fruity esters in SGM fermentations: (A) Ethyl acetate, (B) isobutyl acetate (C) isoamyl acetate, (D) 2-phenylethyl acetate, (E) ethyl butyrate, (F)
+ethyl hexanoate, (G) ethyl octanoate, and (H) ethyl decanoate. Values with different letters indicate significant differences among all the treatments (P < 0.05) by
+Duncan test. RV171 (black bar), and RV002 (red bar). (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of
+this article.)
+3
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+maximum intensity.
+
+Table 2
+Two-way ANOVA regarding the effects of S. cerevisiae type, inoculation modal­
+ity, and their interaction on the production of fruity esters.
+Compounds
+Ethyl acetate
+Isobutyl acetate
+Isoamyl acetate
+2-Phenethyl acetate
+Ethyl butyrate
+Ethyl hexanoate
+Ethyl octanoate
+Ethyl decanoate
+
+2.7. Statistical analysis
+
+Factors
+S. cerevisiae type
+
+Inoculation modality
+
+Interaction
+
+ns
+***
+**
+***
+*
+***
+***
+***
+
+***
+***
+***
+***
+***
+***
+***
+***
+
+ns
+**
+*
+*
+**
+***
+***
+***
+
+All the experiments were conducted in triplicate. One-way analysis
+of variance (ANOVA) with Duncan test (α ¼ 0.05) was applied to
+compare the data and two-way ANOVA test was conducted to assess the
+effects of the two tested factors (S. cerevisiae type and inoculation mo­
+dality) and their interaction on ester production. Pearson correlation
+analysis was used to establish the correlation between esters and three
+factors (higher alcohols, fatty acids, and esterase activities). Principal
+component analysis (PCA) was used to measure the variance among
+fermentation modalities (data were normalized by Z-score) using SPSS
+statistical package version 20.0 (SPSS Inc. Chicago, IL, USA). ComBase
+(https://www.combase.cc/index.php/en) was used to calculate yeast
+growth parameters, including maximum growth rate (μmax, 1/h), lag
+phase (Lag, d), and maximum biomass (Bmax, Log CFU/mL).
+
+*, **, *** Indicate significant differences at P < 0.05, P < 0.01, P < 0.001; ns
+indicates not significant. S. cerevisiae type: RV002 and RV171. Inoculation mo­
+dality: Sc, CI, and SI. Interaction: interaction effect between S. cerevisiae type and
+inoculation modality.
+
+Unit of esterase activity (U) was expressed as micromoles of p–NP
+released per minute per gram of dry cells at 40 � C.
+
+3. Results and discussion
+3.1. Biomass suppression of H. uvarum during mixed fermentation with
+S. cerevisiae
+
+2.5. Gas chromatography-mass spectrometry (GC-MS) analysis
+
+It is well-established that, during the co-inoculation, NS yeasts
+generally exist only in the early stage of fermentation while S. cerevisiae
+continues to survive till completion of alcohol fermentation (Domizio
+et al., 2011). Based on the color of the colony boundary (Fig. 1A), the
+killer S. cerevisiae RV002 showed higher antagonistic ability against
+H. uvarum. Results showed that the biomass suppression of H. uvarum
+had different responses to inoculation strategies (CI and SI) and
+S. cerevisiae types. The killer S. cerevisiae and CI suppressed H. uvarum
+more than others (Fig. 1B and C). Yeasts in mixed fermentation prefer­
+entially use easily assimilable nitrogen sources, expand biomass rapidly,
+and produce toxic substances for competitors. However, S. cerevisiae,
+particularly killer S. cerevisiae, triggers the early death of non-­
+Saccharomyces cells (Albergaria, Francisco, Gori, Arneborg, & Girio,
+2010; Perez-Nevado, Albergaria, Hogg, & Girio, 2006). Ciani and
+Comitini (2015) also proposed that cell-to-cell contact mechanisms and
+the competition for nutrients might be involved in the early death of NS
+yeasts and the dominance of S. cerevisiae. H. uvarum cells in SI-RV002
+reached Bmax on day 2, and then began to die once S. cerevisiae was
+inoculated. Furthermore, Bmax of H. uvarum increased by 12% in SI
+compared to that in CI (Table 1). During SI, the rapid consumption of
+nutrients by H. uvarum temporarily prevented the implantation of
+S. cerevisiae. Hence, the biomass of H. uvarum increased with longer
+survival time. The lowest biomass and shortest survival time of
+H. uvarum in CI-RV002 fermentation can be explained by the stronger
+competitiveness of RV002. For S. cerevisiae in both single and
+co-cultures, the growth of RV002 showed lower values of lag (d) and
+μmax (1/h) than RV171. The Bmax of S. cerevisiae showed no significant
+difference in any treatment. It was obvious that the suppression of
+H. uvarum was improved by CI and the killer activity of S. cerevisiae.
+Although the maximum biomass of S. cerevisiae was delayed for several
+days in mixed fermentation kinetics, the fermentations of SGM were all
+completed successfully (Fig. 1D).
+
+Volatile compounds were analyzed using headspace solid-phase
+microextraction-gas chromatography/mass spectrometry (HS-SPMEGC/MS) (Hu et al., 2019). Wine sample (8 mL), internal standard (40
+μg/L 2-octanol), and 2 g NaCl were added in a 15-mL headspace bottle
+with stirrer magnets. The mixture was placed in a 40 � C water bath with
+stirring for 15 min at 600 rpm. After that, the volatiles were extracted
+using a DVB/CAR/PDMS fiber (50/30 μm film thickness) for 30 min
+with continuous heating and stirring. Then, the extracted volatiles were
+desorbed in the GC injector at 250 � C for 5 min. Volatile analysis was
+conducted using GC-MS-QP2020 (Shimadzu Corporation, Japan)
+equipped with a DB-WAXETER capillary column (60 m � 0.25 mm �
+0.25 μm, Agilent J & W, USA). The carrier gas was helium (purity �
+99.999%) at 1.5 mL/min. The GC program started at 40 � C, after which
+the temperature was raised to 160 � C at 4 � C/min, then to 220 � C at 7
+�
+C/min, and held at 220 � C for 8 min. MS transfer line and ion source
+temperatures were 220 � C and 200 � C, respectively. Ion-electron impact
+spectra at 70 eV were scanned in the range m/z 35–350 amu with 0.2 s
+interval.
+Volatile compounds were identified by comparing their retention
+time and mass spectra with those of pure standards using the NIST17
+mass spectral library. The identified compounds were quantified by
+interpolating the relative areas versus the area of the internal standard
+(2-octanol) using calibration graphs established for pure standards.
+2.6. Sensory analysis
+Wine sensory analysis was performed according to the method re­
+ported by Kong, Li, Jin, Zhu, and Tao (2019). Panelists (18 females and
+12 males) were trained with a 54-aroma kit (Le Nez du Vin®, France)
+until their identification accuracy for each aroma exceeded 95%. The
+54-aroma kit was divided into several aroma groups, such as flower
+(rose, lily, and violet), sweet fruit (peach and plum), and acid fruit
+(apple and pear). Samples were presented in black wine glasses labeled
+with three-digit codes and were distributed randomly. Each panelist was
+asked to describe aromas using 4–6 terms from the aroma kit and grade
+the intensity using a five-point scale. The modified frequency (MF %) of
+each aroma characteristic was calculated using the formula:
+pffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+MF% ¼ Fð%ÞIð%Þ
+
+3.2. Increase in production of fruity esters in mixed fermentation of
+H. uvarum and S. cerevisiae
+Studies have shown that NS yeasts in mixed fermentation can pro­
+mote the production of esters, which increases the aroma complexity of
+wine (Johnson, 2013; Carrau, Gaggero, & Aguilar, 2015; Padilla et al.,
+2016). In this work, ethyl acetate level did not vary significantly be­
+tween RV002 and RV171 in either single or mixed cultures, but it was
+the highest in sequential cultures (Fig. 2). This result was consistent with
+the growth of H. uvarum (Fig. 1B) and the production of volatile acids
+
+where F% is the average detection frequency of the described referred
+terms in an aroma group by the panel, and I% is the average intensity of
+the described referred terms in the group expressed as the percentage of
+4
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+Table 3
+Concentrations of fermentative compounds quantified using SPME-GC-MS in wine samples (μg/L).
+RTA
+
+Compounds
+
+ThresholdB
+
+OAVD
+
+Odor
+descriptionC
+
+>1
+
+alcohol, nail
+polish
+whisky, nail
+polish
+green
+orange, rose
+mushroom,
+sweet
+orange flowery
+
+RV002
+
+CI-RV002
+
+SI-RV002
+
+RV171
+
+CI-RV171
+
+SI-RV171
+
+388686 �
+30779a
+121644 �
+5991 ab
+267012 �
+24786a
+8�0a
+11�1a
+6�0a
+
+398369 �
+9711a
+130470 �
+7980a
+267876 �
+1730a
+8�0a
+6�0b
+4�0b
+
+384119 �
+15341a
+111733 �
+967bc
+272365 �
+14373a
+6�1b
+5�0b
+5�0 ab
+
+380574 �
+30269a
+103908 �
+4950cd
+276637 �
+25316a
+7�0 ab
+11�1a
+6�1a
+
+364043 �
+31577a
+100983 �
+1313d
+263037 �
+30262a
+7�0 ab
+5�1b
+4�1b
+
+394424 �
+24627a
+122675 �
+7323 ab
+271730 �
+17303a
+7�0 ab
+4�1b
+5�0 ab
+
+5�1b
+70320 �
+3009c
+70320 �
+3009c
+480 � 24b
+
+5�1b
+81203 �
+2901bc
+81203 �
+2901bc
+449 � 29cd
+
+5�0b
+92275 �
+683a
+92275 �
+683a
+491 � 36b
+
+5�1b
+72180 �
+4014c
+72180 �
+4014c
+473 � 41bc
+
+7�0a
+86530 �
+3291b
+86530 �
+3291b
+416 � 16d
+
+3�0c
+95463 �
+704a
+95463 �
+704a
+538 � 29a
+
+<0.1
+
+>1
+
+pineapple,
+fruity
+
+317 � 13 ab
+163 � 11bc
+39241 �
+3318 ab
+35�4b
+
+298 � 20bc
+151�9cd
+41056 �
+2892 ab
+43�2 ab
+
+356 � 26a
+135 � 10d
+49294 �
+4463a
+47�4a
+
+284 � 24c
+189 � 17a
+44978 �
+3697 ab
+40�4 ab
+
+281�7c
+135�9d
+38667 �
+4290b
+44�4 ab
+
+360 � 17a
+178 � 12 ab
+45522 �
+4297 ab
+38�3 ab
+
+0.1–1
+>1
+
+flowery
+banana, fruity
+
+0.1–1
+
+floral
+
+10000
+
+41013 �
+2890 ab
+1134 � 92a
+298 � 22a
+
+49247 �
+4459a
+830 � 73bc
+235 � 14b
+
+44938 �
+3693 ab
+727 � 53c
+254 � 18 ab
+
+38623 �
+4286b
+987 � 158 ab
+296 � 13a
+
+45484 �
+4294 ab
+849 � 78bc
+230 � 22b
+
+>1
+
+rose, pollen
+
+Fatty acids ethyl esters (μg/L)
+Short chain fatty acid ethyl
+esters
+8.20
+Ethyl isobutyrate
+10.49
+Ethyl butyrate
+
+39206 �
+3314 ab
+871 � 49bc
+270 � 26 ab
+
+15[2]
+20[1]
+
+42�2a
+204 � 22 abc
+
+43�1a
+233 � 21a
+
+41�1a
+167 � 11c
+
+40�1a
+189 � 14bc
+
+44�2a
+223 � 11 ab
+
+33�2b
+172 � 19c
+
+>1
+>1
+
+10.82
+
+Ethyl 2methylbutyrate
+Medium chain fatty acid
+ethyl esters
+17.71
+Ethyl hexanoate
+25.34
+Ethyl octanoate
+
+18[1]
+
+24�2bc
+
+22�0c
+
+27�2 ab
+
+25�3 abc
+
+29�0a
+
+25�1 abc
+
+>1
+
+strawberry
+strawberry,
+apple
+sweet fruit
+
+601 � 23bc
+
+836 � 70a
+
+595 � 59bc
+
+473 � 35c
+
+691 � 145 ab
+
+619 � 56bc
+
+5
+5[2]
+
+296 � 17bc
+261�2bc
+
+396 � 39a
+380 � 26a
+
+282 � 28bc
+261 � 28bc
+
+226 � 11c
+215 � 21c
+
+323 � 36b
+274 � 105bc
+
+279 � 23bc
+260 � 26bc
+
+>1
+>1
+
+32.08
+Ethyl decanoate
+Fatty acids (μg/L)
+
+200[1]
+
+60�5a
+5555 � 333a
+2394 � 152a
+
+48�4b
+4696 �
+150bc
+2469 � 88a
+
+1907 � 183b
+
+>1
+
+cheese, rancid
+
+1323 � 126b
+919 � 84b
+204�8bc
+
+1709 � 17a
+1178 � 140a
+274 � 24a
+
+1280 � 141b
+933 � 35b
+230 � 18b
+
+32�3c
+4289 �
+365bc
+2212 � 243
+ab
+1120 � 62b
+778 � 44b
+179 � 16c
+
+0.1–1
+
+2300[3]
+
+52�3 ab
+4793 � 214
+abc
+2350 � 20a
+
+42�5b
+4122 � 378c
+
+29.63
+
+44�4b
+5099 � 457
+ab
+2653 � 239a
+
+floral, fruity
+pineapple,
+floral
+fruity
+
+1259 � 13b
+755 � 37b
+213 � 12bc
+
+1280 � 112b
+804 � 81b
+131�2d
+
+>1
+>1
+0.1–1
+
+0.29 � 0.02c
+
+0.65 � 0.05b
+
+0.90 � 0.10a
+
+0.28 � 0.02c
+
+0.63 � 0.04b
+
+0.88 � 0.09a
+
+cheese, fatty
+rancid, creamy
+fatty,
+unpleasant
+
+Higher alcohols (μg/L)
+[1]
+
+12.80
+
+Isobutyl alcohol
+
+40000
+
+16.77
+
+Isoamyl alcohol
+
+30000[1]
+
+25.72
+29.21
+32.53
+
+1-Heptanol
+1-Octanol
+1-Nonanol
+
+1000[1]
+120[1]
+600[1]
+
+35.52
+1-Decanol
+Acetate esters (μg/L)
+
+400[1]
+
+6.51
+
+7500[1]
+
+Ethyl acetate
+
+Acetates of higher alcohols
+(μg/L)
+9.72
+Isobutyl acetate
+13.42
+Isoamyl acetate
+Phenylethyls (μg/L)
+37.25
+39.42
+
+37.63
+42.08
+46.48
+
+2-Phenylethyl
+acetate
+2-Phenylethanol
+
+Isobutyric acid
+Hexanoic acid
+Octanoic acid
+Decanoic acid
+
+Volatile acidity (g/L)E
+
+1600[1]
+30[1]
+250[2]
+[2]
+
+[1]
+
+[2]
+
+420
+500[1]
+1000[1]
+
+>1
+<0.1
+<0.1
+<0.1
+
+Note: A RT, retention time on a DB-WAX column. B, C NF, Not found. Reference numbers are provided in brackets following the odor thresholds. [1] Peng, Wen, Tao, and
+Lan (2013); [2] Hu, Jin, Xu, and Tao (2018); [3] Mayr et al. (2014). D OAV ¼ concentration/threshold.
+E
+Volatile acid (expressed as acetic acid content) was determined using the steam distillation method. Values followed by different letters in a row indicate significant
+differences (P < 0.05) by Duncan test.
+
+(Fig. 1E). For fruity esters, SI decreased the content of most of the esters,
+while CI improved the production of most esters. Compared to the single
+fermentation, short and medium chain fatty acid ethyl esters (FAEEs) in
+SI were decreased by 43.6% and 44.9%, respectively. However, medium
+chain FAEEs in CI were increased by 49.7%. In contrast, the levels of
+isobutyl acetate, 2-phenylethyl acetate, ethyl butyrate, ethyl hexanoate,
+ethyl octanoate, and ethyl decanoate in CI-RV002 were higher than
+those in CI-RV171 (P < 0.05). It is now known that interaction between
+S. cerevisiae and NS yeasts plays a fundamental role in their growth and
+the formation of flavor substances (Cheraiti, Guezenec, & Salmon, 2005;
+Renault, Albertin, & Bely, 2013; Taillandier, Quoc, Julien-Ortiz, &
+Brandam, 2014). To further investigate the effect of S. cerevisiae type and
+inoculation modality on ester profiles, two-way ANOVA test was applied
+(Table 2). With the exception of ethyl acetate, which only depended on
+inoculation modality, the levels of other esters were affected by both
+factors. CI was the most effective modality to increase the amount of
+fruity esters. The killer S. cerevisiae was more detrimental for H. uvarum,
+
+and the latter only survived for two days in CI. This led to the highest
+levels of fruity esters in CI-RV002, especially medium chain FAEEs.
+However, SI decreased the content of fruity esters, with the exception of
+ethyl acetate. This might be caused by the higher survival time and
+biomass (2 � 107 CFU/ml) of H. uvarum at the early stage of fermen­
+tation in SI, which led to increased consumption of special nutrients and
+limited the production of fruity esters, but considerably improved the
+content of ethyl acetate. In practice, the participation of NS yeasts al­
+ways increases the levels of acetic acids and their esters. The level of
+ethyl acetate was the highest among fruity esters. However, excess ethyl
+acetate (˃ 100 mg/L) is likely to impart off-flavor odor (Hu, Jin, Mei,
+et al., 2018; Sumby, Grbin, & Jiranek, 2010). In this study, the decrease
+in both Bmax and H. uvarum survival time suppressed the formation of
+ethyl acetate in the presence of killer S. cerevisiae (CI).
+Real wine samples were obtained using the above yeast inoculation
+strategies to verify the findings in SGM fermentations. Twenty-one
+fermentative volatiles were quantified in wine samples (Table 3).
+5
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+These fermentative volatiles included ethyl acetate, acetates of higher
+alcohols (AHAs), FAEEs, higher alcohols, fatty acids and phenylethyls.
+The results for production of ethyl acetate and volatile acidity were
+consistent with those obtained using SGM. The average content of AHAs
+and FAEEs in the inoculations with RV002 was higher than that with
+RV171. Five aroma attributes, namely tropical fruity, sweet fruity, acid
+fruity, berry, and floral, were selected to describe the aroma profile of
+wine samples. The modified frequencies (MF %) of the five aroma at­
+tributes in wine samples are shown in Fig. S1. Except for tropical fruity,
+CI-RV002 wine had high MF values of other aroma traits, especially
+sweet fruity (MF ¼ 58%) and floral (MF ¼ 46%) aroma. This enhance­
+ment can be attributed to the increase in ester level in CI-RV002 wine,
+since these esters generally contribute to fruity and floral aromas
+(Dzialo, Park, Steensels, Lievens, & Verstrepen, 2017; Sumby et al.,
+2010). To understand the effect of each treatment on ester and aroma
+attributes, PCA of fruity esters and aroma attributes was performed
+(Fig. 3). Compared with the single fermentation, CI promoted the pro­
+duction of FAEEs while SI increased the levels of AHAs and ethyl acetate.
+CI-RV002 wine had the highest levels of fruity esters (especially medium
+chain FAEEs) with controlled level of ethyl acetate.
+Fig. 3. Principal component analysis (PCA) of fruity esters and aroma attri­
+butes of wine. Data are mean values of the replicate fermentations. Wine
+sample (black/red square), esters (solid diamond), and aroma traits (open
+diamond). (For interpretation of the references to color in this figure legend, the
+reader is referred to the Web version of this article.)
+
+3.3. Factors affecting the formation of fruity esters
+It is believed that both yeasts in mixed fermentation preferentially
+use easily assimilable nitrogen sources, expand biomass rapidly, and
+produce toxic substances for competitors (Perez-Nevado et al., 2006;
+
+Fig. 4. Correlation analysis between fruity esters and three impact factors (higher alcohol, fatty acid and esterase activity) in SGM fermentations. Higher alcohol ¼
+P
+P
+(isobutyl alcohol þ isoamyl alcohol þ 2-phenylethanol). Fatty acid ¼
+(butyric acid þ hexanoic acid þ octanoic acid þ decanoic acid). * Indicates significant
+differences at P < 0.05; ** indicates significant differences at P < 0.01.
+6
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+
+Albergaria et al., 2010). Amino acids in grape juice are the assimilable
+nitrogen sources commonly available for rapid metabolism of yeast.
+Higher alcohols are produced via the Ehrlich pathway, which involves
+the degradation of amino acids (Hazelwood, Daran, van Maris, Pronk, &
+Dickinson, 2008). In this study, the contents of three higher alcohols and
+four fatty acids were compared, as shown in Fig. S2. CI (especially
+CI-RV002) possibly accelerated the rate of amino acid consumption,
+which increased the levels of higher alcohols in SGM fermentations,
+although the acceleration phenomenon of CI in real wine fermentation
+was not significant (Table 3). This may be the reason that real grape
+juice contains assimilable nitrogen sources other than amino acids, such
+as ammonium and short chain peptides (Kevvai, Kütt, Nisamedtinov, &
+Paalme, 2016). Together with ethanol, the production of medium chain
+fatty acids and high amounts of acetic acid can negatively affect the
+growth of a co-fermenting yeast species (Ciani & Comitini, 2015). In this
+work, CI significantly improved the production of fatty acids, while SI
+elevated the levels of acetic acids and ethyl acetate, in both SGM and real
+wine fermentations (Fig. S2, Table 3). The use of H. uvarum in mixed
+fermentation can contribute to the production of medium chain fatty
+acids and corresponding ethyl esters (Hu, Jin, Mei, et al., 2018). This
+study further found that killer rather than non-killer S. cerevisiae was
+capable of inducing the formation of fatty acids and esters when used in
+mixed fermentation with H. uvarum. This finding highlighted the
+remarkable role of killer S. cerevisiae in regulating aroma production
+during mixed fermentation.
+In addition, yeasts form esters via the reaction of alcohol and fatty
+acids during fermentation, which may be affected by esterase that bal­
+ances the synthesis and hydrolysis of esters (Ugliano & Moio, 2005). The
+participation of NS yeasts in mixed fermentation can increase esterase
+activity, which might be the reason for stronger and diversified wine
+aroma (Johnson, 2013; Ma et al., 2017). In this work, the accumulation
+of C2 esterase activities during SI fermentations was higher than that of
+others, especially SI-RV002. While the sum of C2–C10 esterase activities
+in CI was higher than that of other treatments, especially CI-RV002
+(Fig. S3). A correlation analysis of fruity esters between higher alco­
+hols, fatty acids, and esterase activities is shown in Fig. 4. Pearson
+correlation coefficient (r) between ethyl acetate and cumulative C2
+esterase activities was 0.421 (P < 0.05), while r between ethyl acetate
+and volatile acidity was 0.722 (P < 0.01). The r values between AHAs
+and higher alcohols, volatile acidity, and cumulative C2 esterase activ­
+ities were 0.762 (P < 0.01), 0.547 (P < 0.01), and 0.780 (P < 0.01),
+respectively. Furthermore, short and medium chain FAEEs were signif­
+icantly correlated with fatty acids and cumulative esterase activities (P
+< 0.01). In particular, the r between medium chain FAEEs and fatty acid
+was 0.850. As esterase balances the synthesis and hydrolysis of esters, its
+activity mostly depends on the content of the substrates. The phenotypes
+observed in this study indicated that fatty acid was the most critical
+factor in the production of FAEEs (particularly medium chain FAEEs).
+The suppression of H. uvarum biomass by killer S. cerevisiae and inocu­
+lation modality changed the levels of fatty acids, including acetic acid,
+which modified the production of fruity esters in mixed fermentations.
+In particular, CI-RV002 mainly promoted the content of medium chain
+FAEEs, which enhanced the fruity aroma of wine, likely due to the
+positive interaction between the two yeast species.
+
+biomass and longer survival time of H. uvarum in SI considerably
+increased the content of ethyl acetate. These findings indicate that the
+co-inoculation of H. uvarum and killer S. cerevisiae is an effective way to
+improve wine aroma.
+Declaration of competing interest
+The authors declare no competing financial interest.
+CRediT authorship contribution statement
+Yue-Qi Li: Conceptualization, Investigation, Formal analysis,
+Writing - original draft. Kai Hu: Conceptualization, Investigation,
+Formal analysis, Writing - original draft. Yin-Hu Xu: Formal analysis,
+Writing - original draft. Wen-Chao Mei: Investigation, Formal analysis.
+Yong-Sheng Tao: Conceptualization, Funding acquisition, Supervision,
+Writing - review & editing.
+Acknowledgments
+This work was supported by the Shaanxi Science Fund for Distin­
+guished Young Scholars (2020JC-22), the National Natural Science
+Foundation of China (31972199), the Scientific and Technological Key
+Projects of Xinjiang production and Construction Corps (2019AB025)
+and the National Key Research and Development Program of China
+(2019YFD1002504). The authors would like to thank Ai-Hua Li from
+College of Food Science and Engineering, Northwest A&F University for
+the excellent technical assistance of instrumental analysis. We thank the
+tasting panelists for aroma evaluation and the vineyard in Heyang for
+providing grapes.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.lwt.2020.109839.
+References
+Albergaria, H., Francisco, D., Gori, K., Arneborg, N., & Girio, F. (2010). Saccharomyces
+cerevisiae CCMI 885 secretes peptides that inhibit the growth of some nonSaccharomyces wine-related strains. Applied Microbiology and Biotechnology, 86,
+965–972.
+Branco, P., Viana, T., Albergaria, H., & Arneborg, N. (2015). Antimicrobial peptides
+(AMPs) produced by Saccharomyces cerevisiae induce alterations in the intracellular
+pH, membrane permeability and culturability of Hanseniaspora guilliermondii cells.
+International Journal of Food Microbiology, 205, 112–118.
+Carrau, F., Gaggero, C., & Aguilar, P. S. (2015). Yeast diversity and native vigor for flavor
+phenotypes. Trends in Biotechnology, 33, 148–154.
+Cheraiti, N., Guezenec, S., & Salmon, J. M. (2005). Redox interactions between
+Saccharomyces cerevisiae and Saccharomyces uvarum in mixed culture under
+enological conditions. Applied and Environmental Microbiology, 71, 255–260.
+Ciani, M., & Comitini, F. (2015). Yeast interactions in multi-starter wine fermentation.
+Current Opinion in Food Science, 1, 1–6.
+Domizio, P., Romani, C., Comitini, F., Gobbi, M., Lencioni, L., Mannazzu, I., et al. (2011).
+Potential spoilage non-Saccharomyces yeasts in mixed cultures with Saccharomyces
+cerevisiae. Annals of Microbiology, 61, 137–144.
+Dzialo, M. C., Park, R., Steensels, J., Lievens, B., & Verstrepen, K. J. (2017). Physiology,
+ecology and industrial applications of aroma formation in yeast. FEMS Microbiology
+Reviews, 41, S95–S128.
+Ebeler, S. E. (2001). Analytical chemistry: Unlocking the secrets of wine flavor. Food
+Reviews International, 17, 45–64.
+GB/T 15038-2006. (2006). Analytical methods of wine and fruit wine. Beijing: China
+Standard Press.
+Hazelwood, L. A., Daran, J. M., van Maris, A. J. A., Pronk, J. T., & Dickinson, J. R.
+(2008). The Ehrlich pathway for fusel alcohol production: A century of Research on
+Saccharomyces cerevisiae metabolism. Applied and Environmental Microbiology, 74,
+2259–2266.
+Hu, K., Jin, G. J., Mei, W. C., Li, T., & Tao, Y. S. (2018). Increase of medium-chain fatty
+acid ethyl ester content in mixed H. uvarum/S. cerevisiae fermentation leads to wine
+fruity aroma enhancement. Food Chemistry, 239, 495–501.
+Hu, K., Jin, G. J., Xu, Y. H., & Tao, Y. S. (2018). Wine aroma response to different
+participation of selected Hanseniaspora uvarum in mixed fermentation with
+Saccharomyces cerevisiae. Food Research International, 108, 119–127.
+
+4. Conclusions
+In conclusion, this study showed that the growth of co-fermenting
+yeast species depended on the inoculation modality and the antago­
+nistic activity of S. cerevisiae. The biomass and survival time of H. uvarum
+reflected the production levels of fatty acids and acetic acid, which
+influenced the contents of fruity esters and ethyl acetate in mixed fer­
+mentations. The biomass suppression of H. uvarum during coinoculation with the killer S. cerevisiae increased the production of
+fruity esters, with the exception of ethyl acetate, which contributed to
+the enhancement of fruity aroma trait of final wine. However, more
+7
+
+Y.-Q. Li et al.
+
+LWT 132 (2020) 109839
+Perez-Nevado, F., Albergaria, H., Hogg, T., & Girio, F. (2006). Cellular death of two nonSaccharomyces wine-related yeasts during mixed fermentations with Saccharomyces
+cerevisiae. International Journal of Food Microbiology, 108, 336–345.
+Poivet, E., Tahirova, N., Peterlin, Z., Xu, L., Zou, D. J., Acree, T., et al. (2018). Functional
+odor classification through a medicinal chemistry approach. Science Advances, 4,
+Article eaao6086.
+Ramon-Portugal, F., Delia, M. L., Strehaiano, P., & Riba, J. P. (1997). Mixed culture of
+killer and sensitive Saccharomyces cerevisiae strains in batch and continuous
+fermentations. World Journal of Microbiology and Biotechnology, 14(1), 83–87.
+Renault, P. E., Albertin, W., & Bely, M. (2013). An innovative tool reveals interaction
+mechanisms among yeast populations under oenological conditions. Applied
+Microbiology and Biotechnology, 97, 4105–4119.
+Renault, P., Coulon, J., de Revel, G., Barbe, J. C., & Bely, M. (2015). Increase of fruity
+aroma during mixed T. delbrueckii/S. cerevisiae wine fermentation is linked to
+specific esters enhancement. International Journal of Food Microbiology, 207, 40–48.
+Rossouw, D., Du Toit, M., & Bauer, F. F. (2012). The impact of co-inoculation with
+Oenococcus oeni on the trancriptome of Saccharomyces cerevisiae and on the flavouractive metabolite profiles during fermentation in synthetic must. Food Microbiology,
+29, 121–131.
+Saenz-Navajas, M. P., Alegre, Y., de-la-Fuente, A., Ferreira, V., Garcia, D., Eizaguirre, S.,
+et al. (2016). Rapid sensory-directed methodology for the selection of high-quality
+aroma wines. Journal of the Science of Food and Agriculture, 96, 4250–4262.
+Santo, D. E., Galego, L., Gonçalves, T., & Quintas, C. (2012). Yeast diversity in the
+Mediterranean strawberry tree (Arbutus unedo L.) fruits’ fermentations. Food
+Research International, 47, 45–50.
+Sumby, K. M., Grbin, P. R., & Jiranek, V. (2010). Microbial modulation of aromatic esters
+in wine: Current knowledge and future prospects. Food Chemistry, 121, 1–16.
+Taillandier, P., Quoc Phong, L., Julien-Ortiz, A., & Brandam, C. (2014). Interactions
+between Torulaspora delbrueckii and Saccharomyces cerevisiae in wine fermentation:
+Influence of inoculation and nitrogen content. World Journal of Microbiology and
+Biotechnology, 30, 1959–1967.
+Ugliano, M., & Moio, L. (2005). Changes in the concentration of yeast-derived volatile
+compounds of red wine during malolactic fermentation with four commercial starter
+cultures of Oenococcus oeni. Journal of Agricultural and Food Chemistry, 53,
+10134–10139.
+Wyk, N. V., Grossmann, M., Jürgen, W., Wallbrunn, C. V., & Pretorius, I. S. (2019). The
+whiff of wine yeast innovation: Strategies for enhancing aroma production by yeast
+during wine fermentation. Journal of Agricultural and Food Chemistry, 67,
+13496–13505.
+
+Hu, K., Jin, G. J., Xu, Y. H., Xue, S. J., Qiao, S. J., Teng, Y. X., et al. (2019). Enhancing
+wine ester biosynthesis in mixed Hanseniaspora uvarum/Saccharomyces cerevisiae
+fermentation by nitrogen nutrient addition. Food Research International, 123,
+559–566.
+Johnson, E. A. (2013). Biotechnology of non-Saccharomyces yeasts—the ascomycetes.
+Applied Microbiology and Biotechnology, 97, 503–517.
+Kemsawasd, V., Branco, P., Almeida, M. G., Caldeira, J., Albergaria, H., & Arneborg, N.
+(2015). Cell-to-cell contact and antimicrobial peptides play a combined role in the
+death of Lachanchea thermotolerans during mixed-culture alcoholic fermentation with
+Saccharomyces cerevisiae. FEMS Microbiology Letters, 362, fnv103.
+Kevvai, K., Kütt, M. L., Nisamedtinov, I., & Paalme, T. (2016). Simultaneous utilization of
+ammonia, free amino acids and peptides during fermentative growth of
+Saccharomyces cerevisiae: Simultaneous utilization of ammonia, free amino acids and
+peptides. Journal of the Institute of Brewing, 122, 110–115.
+Kong, C. L., Li, A. H., Jin, G. J., Zhu, X. L., & Tao, Y. S. (2019). Evolution of volatile
+compounds treated with selected non-Saccharomyces extracellular extract during
+pinot noir winemaking in monsoon climate. Food Research International, 119,
+177–186.
+Lombardi, S. J., De Leonardis, A., Lustrato, G., Testa, B., & Iorizzo, M. (2015). Yeast
+autolysis in sparkling wine aging: Use of killer and sensitive Saccharomyces cerevisiae
+strains in Co-culture. Recent Patents on Biotechnology, 9, 223–230.
+Marquina, D., Santos, A., & Peinado, J. M. (2002). Biology of killer yeasts. International
+Microbiology the Official Journal of the Spanish Society for Microbiology, 5, 65–71.
+Ma, D. C., Yan, X., Wang, Q. Q., Zhang, Y. N., & Tao, Y. S. (2017). Performance of
+selected P. fermentans and its excellular enzyme in co-inoculation with S. cerevisiae
+for wine aroma enhancement. LWT - Food Science Technology, 86, 361–370.
+Mayr, C. M., Geue, J. P., Holt, H. E., Pearson, W. P., Jeffery, D. W., & Francis, I. L. (2014).
+Characterization of the key aroma compounds in Shiraz wine by quantitation, aroma
+reconstitution, and omission studies. Journal of Agricultural and Food Chemistry, 62,
+4528–4536.
+Orentaite, I., Poranen, M. M., Oksanen, H. M., Daugelavicius, R., & Bamford, D. H.
+(2016). K2 killer toxin-induced physiological changes in the yeast Saccharomyces
+cerevisiae. FEMS Yeast Research, 16, fow003.
+Padilla, B., Gil, J., & Manzanares, P. (2016). Past and future of non-Saccharomyces yeasts:
+From spoilage microorganisms to biotechnological tools for improving wine aroma
+complexity. Frontiers in Microbiology, 7, 411.
+Peng, C. T., Wen, Y., Tao, Y. S., & Lan, Y. Y. (2013). Modulating the formation of Meili
+wine aroma by prefermentative freezing process. Journal of Agricultural and Food
+Chemistry, 61, 1542–1553.
+
+8
+
+

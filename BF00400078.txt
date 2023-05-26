@@ -1,0 +1,1843 @@
+Antonie van Leeuwenhoek 44 (1978) 79-96
+
+79
+
+S y s t e m a t i c s o f Hanseniaspora Z i k e s a n d K l o e c k e r a J a n k e
+SALLY A. MEYER 1'
+
+3
+
+MAUDY TH. SMITH2 AND F. P. SIMIONE, JR.1
+
+1American Type Culture Collection, 12301 Parklawn Drive, Rockville,
+Maryland 20852, U.S.A., and 2 Yeast Division of the Centraalbureau voor
+Schimmelcultures, Laboratory of Microbiology, University of Technology,
+Delft, The Netherlands
+
+MEYER, S. A., SMITH,M. TH. and SIMIONE,F. P., JR. 1978. Systematics of
+Hanseniaspora Zikes and Kloeckera Janke. Antonie van Leeuwenhoek 44:
+79-96.
+The physiological and morphological characteristics of eighty-two strains of
+Hanseniaspora and Kloeckera, representing twenty-nine described species,
+were examined. These results along with DNA base composition and DNA/
+DNA reassociation experiments revealed that the genus Hanseniaspora
+comprises six distinct species, viz. H. valbyensis, H. uvarum, H. guilliermondii,
+H. occidentalis, H. osmophila and H. vineae, with K. japonica, K. apiculata,
+K. apis, K. javanica, K. corticis and K. africana, respectively, as their imperfect
+states.
+
+INTRODUCTION
+The genus Hanseniaspora Zikes and its imperfect counterpart Kloeckera
+Janke were studied extensively by Miller and Phaff (1958). These authors
+recognized three species in the genus Hanseniaspora, viz. H. osmophila (Niehaus)
+Phaff, Miller et Shifrine, H. uvarum (Niehaus) Shehata, Mrak et Phaff and
+H. valbyensis K16cker. The species H. guilliermondii Pijper, H. melligeri Lodder
+and H. apuliensis Castelli were taken as synonyms of H. valbyensis. The species
+H. vineae van der Walt et Tscheuschner was placed in synonymy with H.
+osmophila.
+In the imperfect genus Kloeckera, Miller and Phaff recognized four species,
+viz. K. africana (Kl6cker) Janke, K. apiculata (Reess emend. K16cker) Janke,
+K. corticis (K16cker) Janke and K. javanica (K16cker) Janke. Correlating the
+perfect with the imperfect state, Miller and Phaff suggested H. uvarum and H.
+3Present address: Georgia State University. Department of Biology,Atlanta, Georgia 30303,
+U.S.A.
+
+80
+
+S. A. MEYER,M. TH. SMm-I AND F. P. SIMIONE,JR.
+
+valbyensk as perfect forms ofK. apiculata, and H. osmophila as the perfect stage
+of K. corticis. Two imperfect species, K. africana and K. javanica, could not be
+identified with any perfect apiculate yeast species.
+Nakase and Komagata (1970) in their study on the significance of DNA base
+composition in the classification of the yeast genera Hanseniaspora and
+Kloeckera, recognized four groups. Considering relationships between the
+perfect and imperfect states, they suggested H. guilliermondii and H. uvarum
+as the perfect state of K. apiculata. K.japonica Saito et Ohtani (1931 ), a synonym
+ofK. apiculata (Lodder and Kreger-van Rij, 1952) was provisionally considered
+as the imperfect state of H. valbyens& because not all synonyms of K. apiculata
+as listed by Lodder and Kreger-van Rij (1952) were examined. H. osmophila
+was taken as the perfect state of K. africana. The species K. javanica could not be
+related to a perfect apiculate species. Nakase and Komagata tentatively recognized H. vineae as a synonym of It. osmophila insofar as both species exhibited the same GC content and the same physiological characteristics. However, these authors suggested that a closer study was necessary to evaluate the
+status of H. v&eae, in view of the fact that Novak and Zsolt (1961) considered
+this species a representative of a new genus, Vanderwaltia, based on a difference
+in ascospore morphology. The species K. corticis was placed in synonymy with
+K. africana since Nakase and Komagata considered it unreasonable to separate
+these species on the basis of the assimilation of sucrose as Miller and Phaff did.
+Nakase and Komagata found this characteristic to be variable.
+Smith (1974) described H. occidental& and regarded this species the perfect
+form of K. javanica.
+Using DNA reassociation techniques, Meyer et al. (1977) demonstrated H.
+guilliermondii to be a species separate from H. valbyens&. H. melligeri was
+placed in synonymy with H. guilliermondii; the species H. apuliensis was not
+considered.
+On the basis of DNA reassociation studies, Smith et al. (1977) described K.
+apis as the imperfect form of H. guilliermondii. In this study, K. apiculata was
+considered the imperfect state of H. uvarum, based on physiological characteristics.
+The relationships of Hansen&spora to Kloeckera species as proposed by the
+different authors are presented in Table 1.
+To evaluate the status of the different Hanseniaspora species and to determine
+the correct relationship between them and their Kloeckera states,.the physiological and morphological properties and the DNA relatedness were examined
+in this study.
+
+SYSTEMATICS OF HANSENIASPORA AND KLOECKERA
+
+81
+
+Table 1. Some systems on the relationships of Hanseniaspora to Kloeckera
+Authors
+
+Perfect
+
+Imperfect
+
+H. uvarum
+H. valbyensis
+
+K. apiculata
+
+?
+
+K. africanct
+
+Miller and Phaff (1958)
+H. osmophila
+..................................
+
+K. corticis
+)~:)~);a
+
+.......
+
+H. guilliermondii
+H. uvarum
+
+K. apiculata
+
+H. valbyensis
+
+K. japonica ?
+
+H. osmophila
+H. vineae ?
+
+K. africana
+
+Nakase and Komagata (1970)
+
+...................................
+
+~ija~anT~a
+
+.......
+
+Smith (1974)
+
+H. occidentalis
+
+K. javanica
+
+Smith et al. (1977)
+
+H. guilliermondii
+H. uvarum
+
+K. apis
+K. apiculata
+
+MATERIALS AND METHODS
+Organisms and physiological and morphological characteristics. Eighty-two
+cultures were examined (Table 2). These cultures include the type strains of all
+the Hanseniaspora species and synonyms as listed by Phaff (1970a), the type
+strains of all the Kloeckera species and synonyms as listed by Phaff (1970b),
+except the type strain of K. lindneri, and all species which were not considered
+by Phaff viz. H. occidentalis Smith (1974), K.japonica Saito and Ohtani (1931),
+K. brevis var. rohrbachense Szilvinyi and Kaulich (1948), K. apis Lavie ex
+Smith et al. (1977) and K. corticis var. pulquensis Ulloa and Herrera (1973)
+which was placed in synonymy with K. apiculata by von Arx et al. (1977). The
+physiological properties were investigated according to the methods given in
+"The Yeasts - a taxonomic study" (Lodder, 1970). The cultures used in the
+assimilation tests were incubated on a shaker for 21 days. Ascosporulation was
+induced on 5 ~ malt-extract agar. Ascospores were measured according to the
+method used by Barnett and Buhagiar (1971), i.e. the longest axis and the widest
+part at right angles to it were measured.
+
+82
+
+S. A. MEYER, M. TH. SMITH AND F. P. SIMIONE, JR.
+
+Table 2. List of cultures
+Organisms and
+strain designation
+
+H. guilliermondii
+CBS 465, ATCC 10630
+CBS 95
+CBS 466
+CBS 1972
+CBS 2567
+CBS 2574
+CBS 4378
+CBS 5060
+CBS 6619
+CBS 6707
+H. occidentalis
+CBS 2592, ATCC 32053
+CBS 2569
+CBS 6782
+CBS 6783
+H. osmophila
+CBS 313, ATCC 24231
+H. uvarum
+CBS 314
+CBS 276, ATCC 10634
+CBS 279
+CBS 312
+CBS 2566
+CBS 2570
+CBS 2579
+CBS 2581
+CBS 2582
+CBS 2583
+CBS 2584, ATCC 9774
+CBS 2585
+CBS 2586
+CBS 2587
+CBS 2589
+CBS 5072
+CBS 5073
+CBS 5074
+CBS 5450
+CBS 5914, ATCC 18212
+CBS 5934
+CBS 6617
+ATCC 18859
+ATCC 34535
+ATCC 34536
+ATCC 34537
+ATCC 34538
+
+Source
+
+Diseased nail. Type strain.
+Fermenting tomatoes.
+Dates. Type strain of H. melligeri
+Grape juice. Type strain of H. apuliensis
+Grape must
+Grape juice
+Caecum of baboon
+Culture contaminant
+Received from T. Nakase as AJ 5176
+Received from T. Nakase as AJ 5175
+Soil in France. Type strain
+Drosophila species
+Orange juice
+Orange juice
+Grapes. Type strain
+Grapes. Type strain
+Soil in Denmark
+Type strain of K. brevis
+Fermenting cacao
+Drosophila obscura
+Drosophila species
+Soil in Austria. Type strain of K. austriaca
+Unknown
+Throat
+Fermenting cucumber brine
+P. R. Burkholder 188 (K. brevis)
+Baker's yeast. Type strain of K. lodderi
+Caterpillar
+Fruit must. Type strain of K. brevis var. rohrbachense
+Grape must
+Intertidal bathing area
+Grapes
+Apple must
+Sea water
+NCYC 245 (K. brevis strain B-768)
+Cider
+Received from T. Nakase as AJ 4800
+Lake Champlain, LCA 40
+Lake Champlain, LCA 42
+Lake Champlain, LCA 43
+North Sea, NS 1057
+North Sea, NS 1065
+
+SYSTEMATICS OF HANSENIASPORA AND KLOECKERA
+
+H. valbyensis
+CBS 479, ATCC 10631
+CBS 311
+CBS 480
+CBS 481, ATCC 2108
+CBS 6618
+H. vineae
+CBS 2171
+CBS 2568
+CBS 2827
+CBS 5068
+CBS 6555, ATCC 20109
+ATCC 20131
+ATCC 10632
+K. africana
+CBS 277, ATCC 24232
+CBS 6706
+ATCC 16512
+K. apiculata
+CBS 104
+CBS 286, ATCC 10639
+CBS 287
+CBS 2580
+NCYC 588
+K. apis
+CBS 2591
+K. corticis
+CBS 106, ATCC 10635
+CBS 105, ATCC 10640
+CBS 1999
+CBS 4266
+CBS 6554, ATCC 20111
+CBS 6622
+CBS 6704
+K. japonica
+CBS 281
+CBS 2590
+CBS 6558
+NCYC 468
+NCYC 766
+K. javanica
+CBS 282, ATCC 24234
+CBS 280
+CBS 283, ATCC 10637
+CBS 284, ATCC 24174
+CBS 2335
+CBS 2578
+CBS 6623
+CBS 6624
+ATCC 20110
+
+Soil in Denmark. Type strain
+Beer
+Obtained from O. Winge (Copenhagen)
+Received from the ATCC via W. L. Miller (Canada)
+Tomato. Received from T. Nakase as AJ 4810
+Soil in South Africa. Type strain
+Drosophila persimilis
+Soil in Sardinia
+Obtained from O. Verona
+Takeda Chem. Ind. Ltd
+Sour Calimyrma fig, San Joaquin Valley
+Soil in Algeria. Type strain
+Obtained from T. Nakase as AJ 5174
+Received from Kyowa Ferm. Ind. Co., Ltd.
+Obtained from O. Winge. Type strain
+Soil. Type strain of K. lindneri var. pelliculosa
+Soil. Type strain of K. muelleri
+Soil. Type strain of K. germanica
+Rotting strawberries
+Bee. Type strain
+Bark and moss. Type strain
+Grapes. Type strain of K. magna
+Soil in France, Type strain of K. santacruzensis
+Cider
+Received from Takeda Chem. Ind., Ltd.
+Received from IFO as IFO 0670
+Obtained from T. Nakase as AJ 5172
+Exudate of tree. Type strain
+Draught beer
+Pulque. Type strain of K. corticis vat. pulquensis
+Spoiled beer
+Isolated by R. Davenport
+Soil in Java. Type strain
+Soil in West Indies. Type strain of K. antillarum
+Soil in Java. Type strain of K. jensenii
+Soil in Java. Type strain of K. javanica var. lafarii
+Soil in Himalayas. Type strain of K. indica
+Soil in West Indies. Type strain of K. willi
+Obtained from T. Nakase as AJ 5195
+Obtained from T. Nakase as AJ 5197
+Takeda Chem. Ind., Ltd. (IFO 1095) Production of
+steroids (U.S. Pat. 3,616,225)
+
+83
+
+84
+
+S. A. MEYER,M. TH. SMITH AND F. P. SIMIONE,JR.
+
+DNA base composition and DNA reassociation. Yeasts were grown in a li~tuid
+medium composed of glucose (4 ~o), peptone (0.5 ~), and yeast extract (0.5 ~o)
+for approximately 24 h on a gyrotary shaker at room temperature. Cells were
+harvested by centrifugation and washed twice with saline - EDTA (0.15 M
+sodium chloride and 0.01 M sodium ethylenediamine tetraacetate, pH 8.0).
+DNA was isolated and purified according to the methods previously described
+(Meyer and Phaff, 1969). DNA base composition (expressed as the mean molar
+percent of the guanine and cytosine content, ~ GC) was determined by the
+thermal denaturation method and formula, ~o GC = (Tm - 69.3)/0.41, of
+Marmur and Doty (1962). DNA from the type culture of Candida parapsilosis
+(ATCC 22019) was used as the standard DNA (Tm = 85.9 C). The DNA filter
+reassociation technique (Denhardt, 1966) was employed with modifications:
+DNA was extracted from cultures grown for 17 to 27 h in 5 ~o glucose in Yeast
+Nitrogen Base (Difco) supplemented with 1.2 or 2.0/~Ci/ml of both uracil-6 -3 H
+and adenine-8-3H. DNA was sheared by passing the sample twice through a
+French mini-pressure cell at 20000 psi. Vials containing one 1-cm filter with
+approximately 25/ag of immobilized single-stranded DNA were incubated with
+preincubation medium (PM) at 64 ~z 1 C for 2.5 to 2.75 h. The PM was removed
+and 0.8 to 1.0/~g of fragmented, labeled DNA in 100 pl of 2 • SSC (SSC =
+0.15 M sodium chloride and 0.015 M sodium citrate, pH 7.0 ~z 0.2) was added
+to each vial. Incubation was continued at 64C in a reciprocal water bath at
+ca. 20 strokes per min for 13 to 15 h. The filters were washed in 2 • SSC at 65 C
+and allowed to dry before addition of scintillation fluid (Spectrafluor PPOPOPOP Amersham/Searle; prepared in toluene-Triton X-100 2:1 vol/vol).
+Relatedness was calculated from the following equation: (disintegrations per
+min (dpm) of bound 3H-DNA in the heterologous reaction)/(dpm of bound
+3H-DNA in the homologous reaction) • 100 = percentage of genetic relatedness.
+
+RESULTS
+
+Physiological and morphological characteristics. All Hanseniaspora and
+Kloeckera cultures fermented glucose and assimilated glucose, cellobiose,
+salicin, arbutin and glucono-6-1actone. Salient differences were found in the
+fermentation of sucrose and the assimilation of sucrose, maltose, glycerol and
+2-keto-gluconate and in maximum temperature of growth. The sporogenous
+Hanseniaspora cultures showed differences in number per ascus and shape of
+ascospores produced. These salient physiological and morphological characteristics are presented in Table 3. Based on these characteristics, the Hanseniaspora and Kloeckera strains could be divided into 6 groups.
+The H. valbyensis group represents five sporulating strains (CBS 311, CBS
+480, CBS 481, CBS 6618 and the type strain ofH. valbyensis CBS 479) and five
+
+-
+
+1
+
+-
+
+4
+
+5
+
+~. ~
+
+z
+
+o
+
+~
+
+K. africana
+
+K . corticis
+
+K. javanica
+
+K . apis
+
+K. apiculata
+
+-
+
+-
+
+3
+
+6
+
+-
+
+1
+
+7
+
+§
+
++
+
+4
+
+8
+
+-
+
+-
+
+10
+
+1
+
+-
+
+5
+
+v
+
+v
+
+v
+
+-
+
+4-
+
++
+
+4-
+
+4-
+
++
+
+4-
+
+-
+
+-
+
+~
+
+o
+
+~
+
+-
+
+-
+
+~
+
+Growth
+at
+
+1-4 hat
+
+1-2 hat
+
+No. and form
+of ascospores
+
+0.3
+
+1.6 2 : 0 . 2
+
+2.3 •
+
+1.2 •
+
+1.7 •
+
++
+
++
+
+-
+
+-
+
++
+
++
+
++
+
+§
+
++
+
++
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
+-
+
+1-2 round, warty
+
+1-2 round, warty
+
+1-2 round, smooth
+with equatorial
+ledge
+
+1-4 hat
+
+1 - 2 roun(t, w a r t y "
+and/or smooth,
+with equatorial
+ledge
+
+1.8" •
+
+0.2
+
+nd
+
+nd
+
+nd
+
+1.3 •
+
+nd
+
+0.2
+
+0.2
+
+0.2
+
+Mean + standard deviation
+o f a s c o s p o r e s in # m
+Length
+Breadth
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+~.
+
+Assimilation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+. . . . . . . . . . .-. . . . . . . . . . . . . . . . .
+
+K. japonica
+
+Imperfect
+
+x I n c l u d i n g the t y p e s t r a i n o f t he species; v = v a r i a b l e ; n d = n o t d e t e r m i n e d .
+
+H . vineae
+
+H. osmophila
+
+H. occidentalis
+
+H.guilliermondii
+
+H. uvarum
+
+. . . . . . . . . . . . . . . . . . . .
+
+CBS 311
+
+H. valbyensis
+
+Perfect
+
+T a b l e 3. Salient c h a r a c t e r i s t i c s to s e p a r a t e H a n s e n i a s p o r a a n d K l o e c k e r a species
+
+t~
+
+;~
+
+;~
+
+Z
+Zr~
+~.
+ra~
+
+o~
+
+86
+
+S. A. MEYER, M. TH. SMITH AND F. P. SIMIONE, JR.
+
+non-sporulating strains (CBS 2590, NCYC 468, NCYC 766 and the type strains
+of K. japonica CBS 281 and K. corticis var. pulquensis CBS 6558). These cultures
+failed to assimilate sucrose, maltose, glycerol and 2-keto-gluconate and to grow
+at 37 C. Four sporulating cultures produced 1-2, mostly 2, hat-shaped ascospores per ascus (2.3 ~: 0.3 • 1.7 • 0.2/~m). One strain CBS 311 produced 1-4,
+mostly 4, hat-shaped ascospores per ascus (1.6 • 0.2 • 1.2 • 0.2 #m).
+The H. uvarurn group represents twenty-seven sporogenous strains including
+the type strains of H. uvarum CBS 314, K. austriaca CBS 2579, K. brevis CBS
+279, K. brevis vat. rohrbachense CBS 2587 and K. lodderi CBS 2585 and five nonsporulating cultures (NCYC 588 and the type strains of K. apiculata CBS 104,
+K. lindneri var. pelliculosa CBS 286, K. muelleri CBS 287 and K. germanica
+CBS 2580). These cultures failed to assimilate sucrose, maltose and glycerol
+and to grow at 37 C. They assimilated 2-keto-gluconate. Sporulating cultures
+produced 1-2 round, warty and/or smooth ascospores per ascus with an
+equatorial or subequatorial ledge.
+The H. guilliermondii group represents ten sporulating cultures including the
+type cultures of H. guilliermondii CBS 465, H. melligeri CBS 466 and H.
+apuliensis CBS 1972, and one non-sporulating strain, the type strain of K. apis
+CBS 2591. These cultures failed to assimilate sucrose, maltose and glycerol.
+They assimilated 2-keto-gluconate and grew at 37 C. Sporulating strains produced 1-4, mostly 4, hat-shaped ascospores per ascus (1.8 i 0.2 • 1.3 •
+0.2 #m).
+The H. occidentalis group represents four sporulating cultures (CBS 2569,
+CBS 6782, CBS 6783 and the type strain ofH. occidentalis CBS 2592) and eight
+non-sporulating strains including the type cultures of K. javanica var. javanica
+CBS 282, K. javanica var. lafarii CBS 284, K. antillarum CBS 280, K. jensenii
+CBS 283, K. indica CBS 2335 and K. willi CBS 2578. These cultures fermented
+sucrose and assimilated sucrose and glycerol. They failed to assimilate maltose
+and 2-keto-gluconate. Sporulating strains produced 1-2 ascospores per ascus
+which were smooth and round with an equatorial ledge.
+The H. osmophila group represents one sporulating culture, the type strain of
+H. osmophila CBS 313 and seven non-sporulating strains including the type
+strains of K. corticis CBS 106, K. magna CBS 105 and K. santacruzensis CBS
+1999. These cultures assimilated maltose and failed to assimilate glycerol and
+2-keto-gluconate. Assimilation of sucrose was variable. Growth at 34C was
+negative. The sporulating culture produced 1-2 ascospores per ascus which
+were round and warty.
+The H. vineae group represents six sporulating cultures (CBS 2568, CBS 2827
+CBS 5068, CBS 6555, ATCC 10632 and the type culture ofH. vineae CBS 2171)
+and three non-sporulating cultures (CBS 6706, ATCC 16512 and the type
+strain ofK. africana CBS 277). These cultures were characterized by assimilation
+of maltose and growth at 34C. Assimilation of sucrose was variable and
+assimilation of glycerol and 2-keto-gluconate was negative. The sporulating
+
+SYSTEMATICS OF HANSENIASPORA AND KLOECKERA
+
+87
+
+cultures produced 1-2 round and warty ascospores per ascus.
+DNA base composition. The DNA base composition was determined for 67
+of the Hanseniaspora and Kloeckera strains (Table 4). The GC values spanned
+a range of 28.8 to 40.7 ~ with H. valbyensis group at the lower end and H.
+osmophila and H. vineae group at the upper limits. The average and median GC
+percentages, respectively, of the groups were:
+
+H.
+H.
+H.
+H.
+H.
+H.
+
+valbyensis group
+guilliermondii group
+uvarum group
+occidentalis group
+osmophila group
+vineae group
+
+29.2 Yoo,29.2 ~o
+33.4 ~ , 33.3~
+34.1 ~, 34.4
+35.5 ~, 35.6
+40.3 ~, 40.5
+40.2 ~, 40.5
+
+DNA relatedness within Hanseniaspora and Kloeekera
+A. H. valbyensis, H. uvarum, H. guilliermondii and their imperfect counterparts.
+The results of the DNA reassociation studies on H. valbyensis, H. uvarum,
+H. guilliermondii and their imperfect counterparts are presented in Table 5. A
+high degree of reassociation (81-100~o) was demonstrated between the DNA
+from the type culture of H. valbyensis (ATCC 10631) and the DNA from the
+strains physiologicallyidentical with H. valbyensis and K.japonica. Insignificant
+DNA reassociation was exhibited with strains of the other five groups.
+Because of the unique properties of strain CBS 311, physiologically like H.
+valbyensis and morphologically like H. guilliermondii, additional DNA
+reassociation experiments were performed to verify the relatedness of this strain
+and the strains grouped in H. valbyensis and K. japonica. These results are presented in Table 6. Strain CBS 311 revealed significant DNA reassociation with
+strains of H. valbyensis and K. japonica and little DNA reassociation with H.
+guilliermondii, K. apis, H. uvarum and K. apiculata.
+A high degree of reassociation (82-100~) was demonstrated between the
+DNA from the type culture of H. uvarum (CBS 314) and the DNA of strains
+physiologically identical with H. uvarum and K. apiculata. A low degree of DNA
+reassociation was revealed with strains of the other five groups.
+Reassociation between 91-100 ~ was demonstrated between the DNA from
+the type culture of H. guilliermondii (ATCC 10630) and the DNA of strains
+physiologically identified as H. guilliermondii and K. apis. A low degree of DNA
+reassociation was evident with strains of the other five groups.
+B. H. occidentalis, H. osmophila, H. vineae and their imperfect counterparts.
+The results of the DNA reassociation studies on K. javanica, H. osmophila,
+H. vineae and their counterparts are presented in Table 8. In these experiments
+labeled DNA of K. javanica was used instead of H. occidentalis.
+A high degree of reassociation (75-100~) was demonstrated between the
+
+88
+
+S. A . MEYER, M . TH. SMITH AND F . P. SIMIONE, JR.
+
+Table 4. D N A base composition of selected strains of various Hanseniaspora and Kloeckera
+species
+Perfect
+
+Imperfect
+
+Tm +
+standard deviation a
+
+~ GC
+
+H. valbyensis
+CBS
+CBS
+CBS
+CBS
+CBS
+
+479 b
+311
+480
+481
+6618
+
+81.6
+81.1
+81.4
+81.4
+81.4
+
+•
+•
+•
+•
+•
+
+0.03
+0.13
+0.13
+0.09
+0.12
+
+30.0
+28.8
+29.5
+29.5
+29.5
+
+81.2
+81.1
+81.2
+81.2
+81.3
+
+•
+•
+•
+4•
+
+0.17
+0.12
+0.10
+0.06
+0.21
+
+29.0
+28.8
+29.0
+29.0
+29.3
+
+83.2
+82.8
+83.0
+83.1
+83.1
+83.2
+83.3
+83.3
+83.4
+83.4
+83.4
+83.4
+83.6
+83.6
+83.6
+83.7
+
+•
++
+•
++
+4+
+•
+•
+•
+•
+•
+•
+•
+•
++
+•
+
+0.12
+0.10
+0.10
+0.12
+0.20
+0.07
+0.12
+0.10
+0.15
+0.29
+0.15
+0.10
+0.05
+0.05
+0.10
+0.09
+
+33.9
+32.9
+33.4
+33.7
+33.7
+33.9
+34.1
+34.1
+34.4
+34.4
+34.4
+34.4
+34.9
+34.9
+34.9
+35.1
+
+82.7
+82.9
+83.4
+83.5
+
+•
+•
+•
+•
+
+0.10
+0.10
+0.13
+0.15
+
+32.7
+33.2
+34.4
+34.6
+
+82.9
+82.8
+82.9
+82.9
+82.9
+83.0
+83.0
+83.2
+83.2
+83.3
+
+i 0.16
+i 0.17
+• 0.10
+• 0.10
+4- 0.11
+• 0.19
+-4- 0.14
+i 0.21
+• 0.26
++ 0.10
+
+33.2
+32.9
+33.2
+33.2
+33.2
+33.4
+33.4
+33.9
+33.9
+34.2
+
+83.2 • 0.11
+
+33.9
+
+K. japonica
+CBS 281 b
+N C Y C 766
+CBS 2590
+CBS 6558
+N C Y C 468
+
+H. uvarum
+CBS 314 b
+CBS 2585
+CBS 6617
+CBS 2570
+A T C C 18859
+CBS 5914
+CBS 276
+CBS 2579
+CBS 279
+CBS 2581
+CBS 2584
+A T C C 34536
+A T C C 34535
+A T C C 34537
+A T C C 34538
+CBS 2587
+
+K. apiculata
+CBS
+CBS
+CBS
+CBS
+
+104 b
+286
+2580
+287
+
+H. guilliermondii
+CBS
+CBS
+CBS
+CBS
+CBS
+CBS
+CBS
+CBS
+CBS
+CBS
+
+465 b
+5060
+6619
+2567
+4378
+95
+466
+1972
+6707
+2574
+
+K. apis
+CBS 2591 b
+
+SYSTEMATICS OF HANSENIASPORA AND KLOECKERA
+
+Perfect
+
+Imperfect
+
+Tm +
+standard deviationa
+
+89
+
+~ GC
+
+H. occidentalis
+CBS 2592b
+CBS 6782
+CBS 6783
+
+83.6 • 0.15
+83.9 • 0.07
+84.0 • 0.19
+
+34.9
+35.6
+35.9
+
+83.6
+83.6
+83.7
+83.8
+83.9
+83.9
+83.9
+
+0.16
+0.15
+0.17
+0.15
+0.05
+0.16
+0.12
+
+34.9
+34.9
+35.1
+35.4
+35.6
+35.6
+35.6
+
+85.9 • 0.07
+
+40.5
+
+85.9
+85.6
+85.8
+85.8
+85.9
+85.9
+
+•
+•
+•
+•
+•
+•
+
+0.16
+0.09
+0.23
+0.13
+0.12
+0.05
+
+40.5
+39.8
+40.2
+40.2
+40.5
+40.5
+
+85.8
+85.3
+85.9
+86.0
+86.0
+86.0
+
+•
+•
+s
+•
+•
+•
+
+0.16
+0.09
+0.05
+0.20
+0.07
+0.00
+
+40.2
+39.0
+40.5
+40.7
+40.7
+40.7
+
+85.2 • 0.09
+85.9 2_ 0.09
+85.9 • 0.00
+
+38.8
+40.5
+40.5
+
+K. javanica
+CBS 282 b
+CBS 284
+CBS 2578
+CBS 2335
+CBS 283
+CBS 6623
+CBS 6624
+
+•
+•
+•
+•
+•
+•
+•
+
+H. osmophila
+CBS 313 b
+
+K. corticis
+CBS 106b
+CBS 105
+CBS 4266
+CBS 6704
+CBS 1999
+CBS 6622
+
+H. vineae
+CBS 2171 b
+CBS 2827
+CBS 2568
+CBS 5068
+CBS 6555
+ATCC 10632
+
+K. africana
+CBS 277b
+ATCC 16512
+CBS 6706
+a Average of at least four Tm determinations.
+b Type strain of species.
+
+D N A f r o m the type c u l t u r e o f K. javanica ( A T C C 24234) and the D N A o f the
+strains p h y s i o l o g i c a l l y identical with H. occidentalis and K. javanica. A n
+insignificant D N A r e a s s o c i a t i o n was exhibited with strains p h y s i o l o g i c a l l y
+identified as H. osmophila, K. corticis, H. vineae, K. africana, H. uvarum and
+
+K. apiculata.
+T h e D N A f r o m the type culture o f H. osmophila ( A T C C 24231) reassociated
+to a high degree with the cultures p h y s i o l o g i c a l l y identical with H. osmophila
+
+90
+
+S. A. MEYER, M. TH. SMITH AND F. P. SIMIONE, JR.
+
+Table 5. D N A relatedness o f H . valbyensis (ATCC 10631), H. uvarum (CBS 314) and H. guilliermondii (ATCC 10630) to various strains of Hanseniaspora and Kloeckera
+Source of unlabeled D N A
+
+H. valbyensis
+A T C C 10631
+CBS
+481
+CBS
+311
+CBS
+480
+CBS
+6618
+K. japonica
+CBS
+281
+CBS
+6658
+CBS
+2590
+H. uvarum
+CBS
+314
+CBS
+2570
+CBS
+2581
+CBS
+2585
+CBS
+2587
+ATCC 18859
+A T C C 34535
+A T C C 34537
+CBS
+2579
+CBS
+279
+ATCC 34536
+CBS
+276
+CBS
+6617
+CBS
+5914
+CBS
+2584
+A T C C 34538
+K. apiculata
+CBS
+287
+CBS
+2580
+CBS
+104
+CBS
+286
+H. guitliermondii
+A T C C 10630
+CBS
+95
+CBS
+466
+CBS
+1972
+CBS
+2567
+CBS
+2574
+CBS
+4378
+CBS
+5060
+CBS
+6619
+CBS
+6707
+K. apis
+CBS
+2591
+
+~ relative binding of D N A from
+H. valbyensis
+H. uvarum
+A T C C 10631 a
+CBS 314 a
+100 b
+100
+99
+89
+81
+
+20
+10
+19
+28
+
+H. guilliermondii
+ATCC 10630 a
+13
+16
+10
+13
+16
+
+100
+100
+94
+
+27
+11
+
+10
+7
+11
+
+10
+
+100 b
+100
+100
+100
+100
+100
+100
+96
+93
+92
+91
+90
+88
+87
+86
+82
+
+15
+
+13
+
+15
+
+16
+14
+11
+
+14
+24
+
+t5
+25
+
+12
+
+16
+
+100
+100
+100
+95
+
+16
+29
+11
+19
+
+19
+19
+14
+
+27
+26
+20
+
+100 b
+100
+100
+100
+100
+100
+100
+100
+100
+91
+
+23
+13
+
+18
+21
+22
+
+9
+10
+11
+
+30
+
+100
+
+SYSTEMATICS OF HANSENIASPORAAND KLOECKERA
+Source of unlabeled DNA
+
+~o relative binding of DNA from
+
+H. valbyensis
+ATCC 1063P
+H. occidentalis
+( K. javanica) group
+CBS
+2592
+CBS
+282
+CBS
+6782
+CBS
+6783
+CBS
+283
+CBS
+284
+CBS
+2335
+ATCC 20110
+
+91
+
+H. uvarum
+CBS 314~
+
+11
+
+H. guilliermondii
+ATCC 10630~
+
+7
+14
+7
+16
+
+8
+
+12
+6
+
+H. osmophila
+(K. cortic&) group
+CBS
+106
+CBS
+105
+CBS
+313
+CBS
+6554
+
+12
+
+H. vineae
+( K. africana) group
+CBS
+2171
+CBS
+6555
+CBS
+2827
+ATCC 16512
+
+15
+10
+5
+
+1
+
+7
+13
+
+10
+12
+
+" Source of labeled DNA.
+b Homologous reaction.
+
+and K. corticis. A n insignificant D N A reassociation was exhibited with strains
+physiologically identified as H. occidentalis, K. javanica, H. uvarum and K.
+apiculata, however, D N A rea.ssociations of greater magnitude ( 3 8 4 6 ~o) were
+exhibited with strains physiologically grouped as H. vineae and K. africana. An
+additional D N A reassociation experiment using labeled D N A from the type
+strain of K. cortic& concurred with these findings (Table 7). D N A relatedness
+between 40 and 47 ~ was revealed between this species and three strains of the
+H. vineae (K. africana) group, which included the type strains.
+Reassociation between 93-100 ~ was demonstrated between the D N A from
+the type culture of H. vineae (CBS 2171) and the D N A of strains physiologically
+identical with H. vineae and K. africana. D N A reassociation of 45-60 ~o was
+exhibited with strains physiologically identified as H. osmophila and K. cortic&.
+
+92
+
+S.A.
+
+MEYER, M . TH. SMITH AND F. P. SIMIONE, JR.
+
+Table 6. DNA relatedness between H. valbyensis (CBS 311) and various strains of Hanseniaspora en Kloeckera
+Source of unlabeled DNA
+
+H. valbyensis (K. japonica)
+CBS
+311
+CBS
+480
+CBS
+481
+CBS
+281
+ATCC 10631
+H. uvarum (K. apiculata)
+CBS
+314
+CBS
+276
+CBS
+287
+CBS
+2585
+CBS
+2580
+CBS
+104
+H. guilliermondii ( K. apis )
+ATCC 10630
+CBS
+6617
+CBS
+2591
+CBS
+2574
+CBS
+6619
+
+~ relative binding
+CBS 311 a
+
+100 b
+
+100
+100
+100
+80
+25
+24
+22
+21
+20
+16
+13
+13
+12
+12
+10
+
+Source of labeled DNA.
+b Homologous reaction.
+
+Table 7. DNA relatedness between Kloeckera corticis (ATCC 10635) and selected strains of
+Hanseniaspora and Kloeckera
+Source of unlabeled DNA
+
+K. corticis
+ATCC 10635
+CBS
+1999
+H. osmophila
+ATCC 24231
+H. vineae
+CBS
+2171
+CBS
+2827
+K. africana
+ATCC 24232
+H. uvarum
+ATCC 9774
+a Source of labeled DNA.
+u Homologous reaction.
+
+~ relative binding
+ATCC 10635a
+
+100 b
+
+84
+92
+47
+45
+40
+8
+
+SYSTEMATICS OF HANSENIASPORA AND KLOECKERA
+
+93
+
+Table 8. D N A relatedness of K. javanica (ATCC 24234), H. osmophila (ATCC 24231) and
+H. vinae (CBS 2171) to various strains of Hanseniaspora and Kloeckera
+
+Source of unlabeled D N A
+
+H. occidentalis
+CBS
+2592
+CBS
+6782
+CBS
+6783
+K. javanica
+ATCC 24234
+ATCC 20110
+CBS
+284
+H. osmophilia
+ATCC 24231
+K. corticis
+CBS
+6554
+CBS
+105
+CBS
+106
+CBS
+1999
+CBS
+4266
+CBS
+6622
+CBS
+6704
+H. vineae
+CBS
+2171
+CBS
+6555
+CBS
+2827
+CBS
+2568
+CBS
+5068
+ATCC 10632
+K. africana
+ATCC 24232
+ATCC 16512
+CBS
+6706
+H. uvarum
+( K. apiculata) group
+CBS
+279
+CBS
+5914
+ATCC 34537
+A T C C 34536
+a Source of labeled DNA.
+b Homologous reaction.
+
+% relative binding of D N A from
+K. javanica
+H. osmophila
+A T C C 24234 ~
+ATCC 24231"
+
+75
+82
+87
+100 b
+100
+100
+
+H. vineae
+CBS 217P
+
+17
+15
+19
+25
+
+100 b
+
+17
+13
+15
+
+100
+98
+85
+
+13
+14
+
+38
+
+7
+
+43
+
+8
+11
+
+46
+42
+
+60
+
+53
+56
+55
+46
+45
+56
+
+100 b
+
+15
+10
+10
+
+100
+100
+98
+-98
+95
+93
+100
+96
+
+94
+
+S. A. MEYER, M. TH. SMITH AND F. P. SIMIONE, JR.
+
+DISCUSSION
+The DNA reassociation experiments, supplemented with the physiological
+and morphological data showed clearly that Hanseniaspora and Kloeckera
+comprise six distinct groups. These groups are defined as the following species:
+A. The Genus Hanseniaspora
+1. Hanseniaspora vatbyensis K16cker 1912
+2. Hanseniaspora guilliermondii Pijper 1928
+3. Hanseniaspora osmophila (Niehaus) Phaff, Miller et Shifrine 1932
+4. Hansemaspora uvarum (Niehaus) Shehata, Mrak et Phaff 1932
+5. Hanseniaspora vineae van der Walt et Tscheuschner 1957
+6. Hanseniaspora occidentalis Smith 1974
+The high degree of DNA reassociation with H. guilliermondii warrants the
+placement of the species H. apuliensis and H. melligeri in synonymy with H.
+guilliermondii, which has priority.
+The species, K. austriaca, K. brevis, K. brevis var. rohrbachense and K. lodderi,
+may be considered synonyms of H. uvarum as they all produced ascospores and
+showed a high degree of DNA relatedness with H. uvarum.
+One strain, CBS 311, physiologically like H. valbyensis and morphologically
+like H. guilliermondii, must be identified as H. valbyensis since high degrees of
+DNA reassociation were demonstrated between it and the type culture of H.
+valbyensis, as well as between it and other strains of the H. valbyensis/K.
+japonica group. It is evident that the number and size of ascospores are less
+valuable criteria for differentiating H. valbyensi~ and H. guilliermondii than
+are the assimilation of 2-keto-gluconate and growth at 37 C.
+As noted by Phaff (1970a), the establishment of the genus Vanderwaltia by
+Nov~k and Zsolt (1961) to accommodate H. vineae was unwarranted based on
+the unsuitable criterion of ascospore morphology. We agree with Phaff because
+we observed a variety of spore shapes and ornamentation throughout Hanseniaspora.
+B. The Genus Kloeckera
+1. Kloeckera japonica Saito et Ohtani 1931 is the imperfect state of H.
+valbyensis.
+9K. corticis var.pulquensis may be placed in synonymy with K.japonica.
+2. Kloeckera apis Lavie ex Smith, Simione et Meyer 1977 is the imperfect
+state of H. guilliermondii.
+3. Kloeckera corticis (K16cker) Janke 1912 is the imperfect state of H.
+osmophila.
+K. magna and K. santacruzensis remain as synonyms.
+4. Kloeckera apiculata (Reess emend. K16cker) Janke 1870 is the imperfect
+state of H. uvarum.
+Synonyms include K. lindneri vat. pelliculosa, K. muelleri and K. germanica, as Miller and Phaff (1958) and Phaff (1970b) suggested.
+
+SYSTEMATICS OF HANSENIASPORAAND KLOECKERA
+
+5. Kloeckera africana (K16cker) Janke 1912 is the imperfect state of
+vineae.
+6. Kloeckera javanica (Kl6cker) Janke 1912 is the imperfect state of
+occidentalis.
+Synonyms include K. antillarum, K. jensenii, K. indica, K. willi and
+javanica var. lafarii. The varietal status of K. javanica var. lafarii
+
+95
+H.
+H.
+
+K.
+as
+proposed by Phaff (1970b) is rejected based on the high degree of D N A
+reassociation between this strain and the K. javanica type strain. Also, the
+difference in raffinose utilization between the variety and the species as
+reported by Phaff could not be confirmed in our laboratories.
+Of these six species and their imperfect states, H. osmophila (K. corticis) and
+H. vineae (K. africana) are more related to one another than any of the Hanseniaspora and Kloeckera species are to each other. D N A reassociations of strains of
+H. osmophila and K. corticis with H. vineae and K. africana ranged between
+3 8 - 6 0 ~ with average and median values of 48 ~ and 4 6 ~ respectively. The
+difference in sucrose assimilation is not a useful characteristic for the separation
+of these species as was already mentioned by Nakase and K o m a g a t a (1970).
+A more valuable physiological criterion to differentiate these two species is the
+ability to grow at 34 C.
+Note: Kloeckera lindneri type strain was unavailable during the major part
+of this study and, therefore, will be reported at a later time.
+D N A studies were performed at the American Type Culture Collection and
+supported in part by Public Health Service Grant G M 19240-04 and G M
+19240-05. We thank Mrs Ruth E. Brown for her technical assistance in part of
+this study.
+
+Received 19 September 1977
+
+REFERENCES
+VONARX, J. A., RODRIGUESDE MIRANDA,L., SMITH,M. TH. and YARROW,D. 1977. The
+genera of yeasts and the yeast-like fungi. - - Studies in Mycology No. 14: 1-42. Inst. Royal
+Netherlands Acad. Arts and Sci.
+BARNETT,J. A. and BUHAGIAR,R. W. M. 1971. Torulopsisfragaria species nova, a yeast from
+f r u i t . - J. Gen. Microbiol. 67: 233-238.
+DENHARDT, n. T. 1966. A membrane filter technique for the detection of complementary
+D N A . - Biochem. Biophys. Res. Commun. 23: 641-646.
+LODDER,J., (ed.). 1970. The Yeasts. A taxonomic study. - - North Holland Publishing Company, Amsterdam.
+LODDER,J. and KREGER~VANRLI, N. J. W. 1952. The Yeasts. A taxonomic study. - - North
+Holland Publishing Company, Amsterdam.
+MARMUR, J. and DOTY, P. 1962. Determination of the base composition of deoxyribonucleic
+acid from its thermal denaturation temperature. - - J. Mol. Biol. 5:109-118.
+
+96
+
+S. A . MEYER, M . TH. SMITH AND F. P. SIMIONE, JR.
+
+MEYER,S. A. and PHAFF,H. J. 1969. Deoxyribonucleic acid base composition in yeasts. - J. Bacteriol. 97: 52-56.
+MEYER, S. A., BROWN, R. E. and SMITH, i . TH. 1977. Species status ofHanseniaspora guilliermondii P i j p e r . - Int. J. Syst. Bact. 27: 162-164.
+MILLER, M. W. and PHAFF, H. J. 1958. A comparative study of the apiculate yeasts. - - Mycopathol. Mycol. Appl. 10: 113-141.
+NAKASE,T. and KOMAGATA,K. 1970. Significance of D N A base composition in the classification of yeast genera Hanseniaspora and Kloeckera.- J. Gen. Appl. Microbiol. 16: 241250.
+NOVAK, E. K. and ZSOLT, J. 1961. A new system proposed for yeasts. - - Acta Botan. Acad.
+Sci. Hung. 7: 93-145.
+PahFF, H. J. 1970a. Hanseniaspora Zikes, p. 209-225. In J. Lodder, (ed.), The Yeasts. A
+taxonomic study. - - North Holland Publishing Company, Amsterdam.
+PHAFF, H. J. 1970b. Kloeckera Janke, p. 1146-1160. In J. Lodder, (ed.), The Yeasts. A taxonomic study. - - North Holland Publishing Company, Amsterdam.
+SAITO, K. and OHTANI, Y. 1931. On some fermentative yeasts isolated from sap exuded from
+bark of a tree. - - Jozogaku Zasshi 9 : 6 - 1 1 . (in Japanese).
+SMITH, M. TH. 1974. Hanseniaspora occidentalis sp. nov. - - Antonie van Leeuwenhoek 40:
+441-444.
+SMITH,M. TH., SIMIONE,F. P., JR. and MEYER,S. A. 1977. Kloeckera apis st. nov., the imperfect state of Hanseniaspora guilliermondii Pijper. - - Antonie van Leeuwenhoek 43:
+219-223.
+SZILVINYI,A. und KAULICH,L. 1948. Zur Kenntnis der Mikroflora 6sterreichischer Kernobstmoste. - - Mitteilungen der Versuchsanstalt fiir das G~irungsgewerbe und des Institnts
+for angewandte Mikrobiologie der Hochschule fiir Bodenkultur Nr. 4: 1-3.
+ULLOA,M. y HERRERA,T. 1973. Descripci6n de una variedad nueva de Kloeckera corticis
+aislada del pulque. - - Bol. Soc. Mex. 7: 27-32.
+
+

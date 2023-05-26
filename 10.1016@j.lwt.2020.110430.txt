@@ -1,0 +1,4856 @@
+Journal Pre-proof
+Microbiological and biochemical performances of six yeast species as potential starter
+cultures for wet fermentation of coffee beans
+Hosam Elhalis, Julian Cox, Damian Frank, Jian Zhao
+PII:
+
+S0023-6438(20)31418-3
+
+DOI:
+
+https://doi.org/10.1016/j.lwt.2020.110430
+
+Reference:
+
+YFSTL 110430
+
+To appear in:
+
+LWT - Food Science and Technology
+
+Received Date: 5 August 2020
+Revised Date:
+
+12 October 2020
+
+Accepted Date: 20 October 2020
+
+Please cite this article as: Elhalis, H., Cox, J., Frank, D., Zhao, J., Microbiological and biochemical
+performances of six yeast species as potential starter cultures for wet fermentation of coffee beans, LWT
+- Food Science and Technology, https://doi.org/10.1016/j.lwt.2020.110430.
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition
+of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of
+record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that,
+during the production process, errors may be discovered which could affect the content, and all legal
+disclaimers that apply to the journal pertain.
+© 2020 Published by Elsevier Ltd.
+
+Credit author statement
+HE designed and conducted experiments, performed the data analysis and wrote the
+manuscript. JZ and DF supervised the experiments, interpreted the scientific values of the
+obtained data and edited the manuscript. JC supervised work. All authors read and approved
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+the manuscript.
+
+1
+
+Microbiological and biochemical performances of six yeast species as potential starter
+
+2
+
+cultures for wet fermentation of coffee beans
+
+3
+
+Hosam Elhalis1, Julian Cox1, Damian Frank2, Jian Zhao1,*
+
+4
+
+5
+
+1
+
+Food Science and Technology, School of Chemical Engineering, The University of New South
+Wales, Sydney, NSW 2052, Australia
+
+ro
+
+2
+
+Commonwealth Scientific Industry and Research Organisation (CSIRO), 11 Julius Ave, North
+
+-p
+
+7
+
+of
+
+6
+
+Ryde, NSW 2113, Australia
+
+re
+
+8
+
+lP
+
+9
+
+na
+
+10
+
+*Corresponding author: Jian Zhao
+
+12
+
+Email address: jian.zhao@unsw.edu.au
+
+13
+
+Telephone: +61 2 93854304
+
+Jo
+
+ur
+
+11
+
+1
+
+Abstract
+
+15
+
+This study investigated the microbiological and biochemical characteristics of six endogenous
+
+16
+
+yeast species isolated from spontaneous wet coffee fermentation for their potential as starter
+
+17
+
+cultures. The yeasts were cultured under elevated temperature, osmotic pressure, ethanol and
+
+18
+
+acid concentrations to assess their tolerance to these coffee fermentation-related stress
+
+19
+
+conditions. Their ability to produce hydrolytic enzymes for pectin, protein, cellulose and starch
+
+20
+
+were evaluated using plate assays. Hanseniaspora uvarum and Pichia kudriavzevii were the most
+
+21
+
+stress-tolerant species and also exhibited high pectinase, amylase, cellulase and protease
+
+22
+
+activities
+
+23
+
+Wickerhamomyces anomalus. When the yeasts were inoculated in a synthetic coffee pulp extract
+
+24
+
+medium all the isolates grew and produced several important aromatic compounds, including
+
+25
+
+isoamyl alcohol, 2-phenylethyl alcohol, ethanol, ethyl acetate, acetaldehyde, and 2-propanone.
+
+26
+
+The concentrations of these volatiles produced by the yeast species differed significantly. H.
+
+27
+
+uvarum and P. kudriavzevii produced significantly higher concentration of total alcohols (42.5,
+
+28
+
+57.6 mg/l), esters (31.0, 33.7 mg/l) and aldehydes (0.7, 1.9 mg/l). Overall, H. uvarum and P.
+
+29
+
+kudriavzevii demonstrated the strongest potential as starter cultures for wet coffee fermentation.
+
+with
+
+P.
+
+fermentans,
+
+Candida
+
+railenensis,
+
+C.
+
+xylopsoci
+
+lP
+
+na
+
+ur
+
+Jo
+
+30
+
+31
+
+and
+
+re
+
+compared
+
+-p
+
+ro
+
+of
+
+14
+
+Keywords‫ ׃‬Coffee, Hanseniaspora uvarum, Pichia kudriavzevii, Flavour, Pectinase.
+
+2
+
+1..Introduction
+
+33
+
+Coffee is one of the most popular non-alcoholic beverages consumed worldwide, with an
+
+34
+
+estimated annual consumption of over 148 million cups (International Coffee Organization,
+
+35
+
+2018). The quality of coffee beverages is influenced by both of pre-harvest factors such as
+
+36
+
+genotype, geographic location, climate, and agronomic practices, and post-harvest factors
+
+37
+
+including primary processing, drying, roasting and storage conditions (Pereira et al., 2017b). Wet
+
+38
+
+fermentation of coffee beans is one of the major primary processing methods and, if done
+
+39
+
+properly, can produce coffee of high sensory qualities (Agate & Bhat, 1966; Amorim &
+
+40
+
+Amorim, 1977; Evangelista et al., 2015; Goto & Fukunaga, 1986; Pereira et al., 2015; Pereira et
+
+41
+
+al., 2014; Silva, 2014). Wet coffee fermentation involves submerging de-pulped coffee beans
+
+42
+
+underwater and subjecting them to microbial fermentation for 24-48 h (Cleves, 2009; Gonzalez-
+
+43
+
+Rios et al., 2007; Schwan & Wheals, 2004). Despite the large volume of coffee production, the
+
+44
+
+fermentation is still performed in traditional, uncontrolled processes where indigenous
+
+45
+
+microorganisms originated from the beans, environment and processing equipment perform
+
+46
+
+spontaneous fermentation (Selvamurugan et al., 2010). To transform the fermentation process to
+
+47
+
+a controlled, industrial process, it is crucial to develop microbial starter cultures with appropriate
+
+48
+
+microbial and biochemical properties that can perform the fermentation efficiently and produce
+
+49
+
+coffee with consistent high quality.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+32
+
+50
+51
+
+Wet coffee fermentation involves a complex microbiological ecology that includes yeasts,
+
+52
+
+bacteria and filamentous fungi (Avallone et al., 2001a; Elhalis et al., 2020a; Evangelista et al.,
+
+53
+
+2015; Silva et al., 2008). Microorganisms are believed to perform at least two crucial functions
+
+54
+
+in the fermentation. The first is the breakdown of the mucilage layer of coffee beans as the
+
+55
+
+mucilage components negatively affect coffee quality (Agate & Bhat, 1966; Masoud &
+3
+
+Jespersen, 2006). The mucilage of coffee beans consists mainly of proteins (14.2%), sugars
+
+57
+
+(50%), cellulose (9.1%) and pectic substances (32.2%) (Avallone et al., 2001a). Mucilage
+
+58
+
+degradation during wet fermentation is closely related to the capacity of the microbes to produce
+
+59
+
+extracellular mucilage degrading enzymes such as pectinase, protease and cellulase (Haile &
+
+60
+
+Kang, 2019; Pereira et al., 2014; Silva et al., 2013). The second function is the production of
+
+61
+
+microbial metabolites which can migrate into the interior of the bean and contribute to the taste
+
+62
+
+and aroma characteristics of coffee products. Microbial metabolites such as higher alcohols,
+
+63
+
+esters, aldehydes, ketones and organic acids have been identified in coffee beans and are
+
+64
+
+believed to be important to the sensory quality of coffee beverages (Evangelista et al., 2015;
+
+65
+
+Pereira et al., 2015; Pereira et al., 2014). Yeasts are a major group of microorganisms in the
+
+66
+
+microbial ecology of wet coffee fermentation and are believed to play a critical role in both
+
+67
+
+mucilage degradation and production of desirable metabolites (Evangelista et al., 2014a; Martins
+
+68
+
+et al., 2019; Pereira et al., 2015). The most frequently isolated yeasts during the fermentation
+
+69
+
+were Saccharomyces cervices, Pichia kluyveri, P. anomala, Hanseniaspora uvarum, and
+
+70
+
+Debaryomyces hansenii delbrueckii (Masoud et al., 2004; Silva et al., 2008; Vilela et al., 2010).
+
+71
+
+In previous studies we have investigated the microbial ecology of wet coffee fermentation under
+
+72
+
+Australian conditions and demonstrated the crucial roles of yeasts in the process, including their
+
+73
+
+contributions to coffee taste and aroma (Elhalis et al., 2020a; Elhalis et al., 2020b). These
+
+74
+
+findings confirmed similar conclusions reported for coffee fermentation conducted in other
+
+75
+
+regions of the world (Avallone et al., 2001b; Masoud et al., 2004; Pereira et al., 2014). Several
+
+76
+
+studies have used yeasts isolated from spontaneous fermentations of coffee beans to conduct
+
+77
+
+inoculated fermentations (Evangelista et al., 2014a; Martins et al., 2019; Pereira et al., 2015;
+
+78
+
+Ribeiro et al., 2017). However, there is generally a lack of systematic examination of the
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+56
+
+4
+
+microbiological and biochemical properties of yeasts for their suitability as potential starter
+
+80
+
+cultures for wet coffee fermentation. In this study, we systematically evaluated six yeast species,
+
+81
+
+isolated from natural wet coffee fermentation, for their tolerance to fermentation stresses and
+
+82
+
+capacity to produce mucilage degrading enzymes and desirable non-volatile and volatile
+
+83
+
+metabolites. The objective of the study was to find the yeast species with optimum
+
+84
+
+microbiological and biochemical characteristics that can be developed into starter cultures for
+
+85
+
+wet coffee fermentation.
+
+of
+
+79
+
+ro
+
+86
+
+2. Materials and methods
+
+88
+
+This study was divided into three steps, to evaluate yeasts growth under coffee fermentation
+
+89
+
+related stresses, to conduct basic plate enzyme assays and to identify the metabolite profiles
+
+90
+
+produced during synthetic coffee pulp extract medium fermentations.
+
+91
+
+2.1. Yeast cultivation
+
+92
+
+Yeasts were isolated from the spontaneous wet fermentation of coffee beans by plating the
+
+93
+
+fermenting mass on yeast extract agar (YEA) and identified by genetic sequencing. Details of
+
+94
+
+yeast isolation and identification were described in Elhalis et al. (2020a). Inocula of
+
+95
+
+Hanseniaspora uvarum (accession No. MF574306.1), Pichia kudriavzevii (accession No.
+
+96
+
+CP021092.1), P. fermentans (accession No. KM402059.1), Candida railenensis (accession No.
+
+97
+
+HQ438305.1), C. xylopsoci (accession No. KJ706861.1) and Wickerhamomyces anomalus
+
+98
+
+(accession No. KY587120.1) were prepared individually by selecting one pure colony for each
+
+99
+
+yeast from YEA and transferring it aseptically into 50 ml YE broth, which was incubated at 30
+
+100
+
+°C for 24 h in a shaking water bath. The broth was transferred to 100 ml YE broth and grown for
+
+101
+
+another 24 h under the same incubation conditions. Yeast cells were harvested by centrifugation
+
+102
+
+(10 min at 10, 000 g) and washed twice with sterile physiological saline.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+87
+
+5
+
+2.2. Evaluation of yeasts growth under stress factors
+
+104
+
+Yeasts were evaluated for their capability to grow under individual stress conditions following
+
+105
+
+the method described by Pereira et al. (2014) with some modifications. The harvested yeast cells
+
+106
+
+were re-suspended and diluted in physiological saline to a cell concentration of 104 CFU /ml,
+
+107
+
+determined by using a Neubauer chamber, and confirmed by plate counting on YEA. Aliquots (5
+
+108
+
+µl) of the cell suspensions of each strain was spot inoculated on the surface of the stress test agar
+
+109
+
+plates, and after the required incubation time, the plates were visually checked to see if colonies
+
+110
+
+appeared or not. Appearance of colonies indicated positive growth and if no colonies developed,
+
+111
+
+this was considered as negative growth. All the test plates had a basal medium consisting of 5%
+
+112
+
+glucose, 0.3% peptone, 0.05% beef extract and 2% agar. For the sugar stress plates, the sugar
+
+113
+
+concentration of the medium was adjusted by adding glucose and fructose to the basal medium to
+
+114
+
+15, 30, and 50% (w/w) hexose equivalent. Acid stress was imposed by adjusting the pH of the
+
+115
+
+basal medium to 6.0, 4.0 and 2.0 with 1 M H2SO4. Tolerance to acetic acid was tested by adding
+
+116
+
+acetic acid to the basal medium to a final concentration of 1.0, 2.0, and 3.0%, while ethanol
+
+117
+
+tolerance was performed by adjusting the ethanol concentration of the basal medium to 2.0, 4.0,
+
+118
+
+8.0, and 10.0%. These plates were incubated at 30 °C for 36 h. Thermotolerance test was
+
+119
+
+performed by incubating the inoculated plates of basal medium at 25, 30, 35 and 40 °C for 36 h.
+
+120
+
+Furthermore, yeasts were assessed under combined stresses of temperature, sugar, ethanol, pH
+
+121
+
+and acetic acid. A control was included where the basal medium plates were inoculated with the
+
+122
+
+yeasts and incubated at 30 °C for 36 h. All operations were done aseptically. All tests were
+
+123
+
+conducted in triplicate, and the results were expressed as average with standard deviations of less
+
+124
+
+than 0.05.
+
+125
+
+2.3. Enzymatic assays
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+103
+
+6
+
+The yeast isolates were screened for pectinase, protease, lipase, amylase and cellulase activities
+
+127
+
+using plate assays as follow.
+
+128
+
+2.3.1. Assay of pectinolytic activity
+
+129
+
+Pectinolytic activity of the yeast isolates was assayed according to the method of the
+
+130
+
+Compendium of Methods for Microbiological Examination of Foods (Speck, 1984). Pectin was
+
+131
+
+added to the basal medium (0.5 %, w/v), as described above, and the pH of the medium was
+
+132
+
+adjusted to 5.0. All the plates were surface spotted with 10 µl of 104 CFU/ml of each isolate and
+
+133
+
+incubated at 30 °C for 48 h. After incubation, the plates were flooded with 50 mM potassium
+
+134
+
+iodide-iodine solution and the hydrolysis zone surrounding the colonies, which appeared as a
+
+135
+
+clear halo around the colonies, was measured and used as an indication of the yeast’s pectinase
+
+136
+
+activity.
+
+137
+
+2.3.2. Assay of cellulolytic activity
+
+138
+
+Cellulolytic activities of the yeast isolates were assayed following the method in the
+
+139
+
+Compendium of Methods for Microbiology Examination of Foods (Speck, 1984).
+
+140
+
+Carboxymethylcellulose was added to the basal medium at a concentration of 0.2% and the
+
+141
+
+medium was adjusted to pH 7.0. The plates were surface spot inoculated and incubated as
+
+142
+
+described above. After incubation, the plates were flooded with 7 N hydrochloric acid, and the
+
+143
+
+clear zone surrounding the colonies measured which indicated the yeast’s cellulolytic activity.
+
+144
+
+2.3.3. Proteolytic activity
+
+145
+
+Proteolytic activity of the yeast isolates was determined according to the method described in
+
+146
+
+Harrigan and McCance (2014). Skim milk was added to nutrient agar (1%, pH 5). The plates
+
+147
+
+were surface spot inoculated and incubated as described above, and the enzyme activity was
+
+148
+
+determined by measuring the clear zone around the colonies.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+126
+
+7
+
+2.3.4. Amylase activity
+
+150
+
+Amylolytic activity of the yeast isolates was determined according to the method described in
+
+151
+
+Harrigan and McCance (2014) with some modifications. Starch was added to nutrient agar (1%,
+
+152
+
+pH 5), and the plates were surface inoculated and incubated as described above. Amylase activity
+
+153
+
+was determined by measuring the clear zone surrounding the colonies after flooding with 50 mM
+
+154
+
+potassium iodide-iodine solution.
+
+155
+
+2.4. Assessment of yeast metabolism on artificial coffee pulp medium
+
+156
+
+Yeast isolates were evaluated for their capability to produce non-volatile and volatile metabolites
+
+157
+
+in synthetic coffee pulp extract medium (SCM) following the method of Pereira et al. (2014)
+
+158
+
+with slight modifications. The SCM was made by adding pectin (2 g/l), fructose (10 g/l) and
+
+159
+
+glucose (10 g/l) to coffee cheery pulp extract, pH 4.7. The coffee pulp extract was prepared by
+
+160
+
+boiling 400 g of coffee cherry pulp in 1 L Milli-Q water for 1 h, which was then filtrated through
+
+161
+
+glass wool. The SCM was autoclaved at 121 °C for 15 min, and after cooling to ambient
+
+162
+
+temperature, inoculated with yeast inoculums at 104 cells/ml. The inoculated media were allowed
+
+163
+
+to ferment at 25 °C for 36 h. Samples (20 ml) were taken every 12 h for microbiological and
+
+164
+
+chemical analyses. Yeasts in the fermenting mass were enumerated by spread plating on YEA
+
+165
+
+and the pH of the fermenting mass was measured using a portable pH meter (pH Cube, TPS Pty
+
+166
+
+Ltd, Brisbane, QLD, Australia). The analysis of each sample was performed in triplicate and the
+
+167
+
+results were expressed as an average.
+
+168
+
+2.4.1. Chemical analyses
+
+169
+
+The samples taken during fermentation were centrifuged at 18,920 x g for 15 min at 4 °C using
+
+170
+
+an Avanti J-E Centrifuge (Beckman Coulter, Indianapolis, IN, USA), and the supernatant was
+
+171
+
+retained and stored at -20 °C until analysis. Sugars, glycerol and organic acids were determined
+
+172
+
+by a Shimadzu High-Performance Liquid Chromatography (HPLC) system as described in
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+149
+
+8
+
+Elhalis et al. (2020a). The non-volatile metabolite concentrations were calculated by comparison
+
+174
+
+with standard curves constructed from standard solutions of known concentrations of glucose,
+
+175
+
+sucrose, fructose, mannitol, glycerol, citric, lactic, malic, acetic, quinic and succinic acids
+
+176
+
+Volatiles were analyzed using head space solid phase microextraction gas chromatography mass
+
+177
+
+spectrum (HS-SPME/GCMS) as described in Elhalis et al. (2020b). In brief, 4 ml of the samples
+
+178
+
+with 4-methyl-1-pentanol as an internal standard (IS) was placed in 20 ml gas-tight vials. The
+
+179
+
+headspace was extracted using DVB/Carboxen/PDMS solid-phase microextraction (SPME)
+
+180
+
+fibers (50/30 µm, 23-gauge, 2 cm, Sigma-Aldrich, Castle Hill, Australia) for 40 min at 40 °C.
+
+181
+
+The SPME was performed using an autosampler (Shimadzu AOC-5000, Rydalmere, Australia).
+
+182
+
+The fiber was desorbed into an injector in splitless mode for at 250 °C for 5 min and analysed by
+
+183
+
+a Shimadzu QP-2010-Plus GC-MS system. Samples were separated on a Sol-Gel Wax column
+
+184
+
+(30 m ×0.25 mm id, 0.25 µm film, SGE, Ringwood, Australia). Linear retention indices (LRI)
+
+185
+
+were calculated using a standard alkane mix (C7-C40, Supleco) and volatiles were identified by
+
+186
+
+comparing linear retention indices with published values in the NIST and PubChem websites.
+
+187
+
+Further confirmation was done by matching their electron impact mass spectra with those of
+
+188
+
+reference compounds in the NIST mass spectral library and, in some cases, using pure reference
+
+189
+
+standards. The concentration of the volatiles was determined semi-quantitatively using the
+
+190
+
+Shimadzu proprietary software “LabSolutions” (Version 2.53).The analysis of each sample was
+
+191
+
+performed in triplicate and the results were expressed as an average.
+
+192
+
+2.5. Statistical analysis
+
+193
+
+One-way ANOVA was carried out to compare means between samples and Tukey’s HSD post-
+
+194
+
+hoc test was used to separate means of significant differences. Differences were regarded as
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+173
+
+9
+
+statistically significant at P < 0.05. All statistical analyses were performed with GenStat® (16th
+
+196
+
+Edition, VSN International, Hemel Hempstead, UK),
+
+197
+
+3. Results
+
+198
+
+3.1. Growth of yeasts under different stress conditions
+
+199
+
+The growth and survival of the different yeast species under individual and combined stressors
+
+200
+
+are given in Table 1. As expected, the viability of the yeast species was affected by the degree of
+
+201
+
+the stresses. All the yeasts grew at pH 4 and 6; however, at pH 2, only some of the isolates of
+
+202
+
+Hanseniaspora uvarum, Pichia kudriavzevii and P. fermentans grew while no isolates of
+
+203
+
+Candida or Wickerhamomyces species were able to grow. Similarly, under osmotic pressure
+
+204
+
+induced by high concentrations of glucose and fructose, the growth of C. railenensis, C.
+
+205
+
+xylopsoci and W. anomalus were suppressed, while H. uvarum, P. kudriavzevii and P.
+
+206
+
+fermentans were more resistant. All the isolates, except some of C. xylopsoci and W. anomalus,
+
+207
+
+tolerated high ethanol stresses. Acetic acid at the concentration of 3% strongly inhibited the
+
+208
+
+growth of P. fermentans, C. xylopsoci and W. anomalus, while H. uvarum, P. kudriavzevii and P.
+
+209
+
+fermentans were tolerant. Growth was observed with all the yeasts at the temperature range 25-
+
+210
+
+35 °C but their growth was inhabited at 40 °C, except H. uvarum and P. kudriavzevii which
+
+211
+
+continued to grow at this temperature. Regarding their tolerance to combined stresses, the
+
+212
+
+highest tolerance was observed with H. uvarum and P. kudriavzevii, followed by P. fermentans
+
+213
+
+and C. railenensis, while C. xylopsoci and W. anomalus showed the lowest tolerance as no
+
+214
+
+growth was detected for these two yeasts under the combined stresses.
+
+215
+
+3.2. Enzymatic activities of yeasts for degrading macromolecules
+
+216
+
+The pectinolytic, cellulolytic, proteolytic and amylase activities of the yeast species were
+
+217
+
+investigated using the plating technique and the results are shown in Table 2. The data showed
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+195
+
+10
+
+that H. uvarum and P. kudriavzevii were the species with the highest pectinolytic activities (p <
+
+219
+
+0.05), C. xylopsoci, W. anomalus and C. railenensis showed low pectinase activities, while all P.
+
+220
+
+fermentans isolates had no pectinolytic activities. High levels of protease and cellulase activities
+
+221
+
+were detected with W. anomalus (p < 0.05), followed by H. uvarum and C. xylopsoci, while such
+
+222
+
+activities were absent with P. fermentans and C. railenensis. Amylase activity was also relatively
+
+223
+
+high with W. anomalus, H. uvarum and C. xylopsoci compared to the other yeast species (p <
+
+224
+
+0.05).
+
+225
+
+3.3. Yeast growth and pH changes during SCM fermentation
+
+226
+
+Figure 1 shows the changes in pH values and the growth of yeasts during fermentations with
+
+227
+
+SCM. The initial pH value of the fermenting mass was 5.6 which gradually declined with
+
+228
+
+fermentation to pH 3.8 at the end after 36 h. No significant differences in the final pH values
+
+229
+
+were observed among the fermentations with different yeast species. H. uvarum showed an
+
+230
+
+initial population of 4.7 log CFU/ml which grew to a maximum population of 11.6 log CFU/ml
+
+231
+
+in 36 h. All the remaining yeast species showed similar growth behavior with approximately 1
+
+232
+
+log difference in the population.
+
+233
+
+3.4. Changes in non-volatile metabolites during SCM fermentation
+
+234
+
+As expected, glucose and fructose were the main reducing sugars found in the SCM medium
+
+235
+
+with an initial concentration of 16.9 and 13.4 g/l, respectively (Table 3). During fermentations
+
+236
+
+with P. kudriavzevii and P. fermentans, glucose declined to about 3.0 g/l while it was almost
+
+237
+
+totally consumed with the remaining yeasts (p < 0.05). Fructose concentration also decreased,
+
+238
+
+but with slower rates leaving high levels of fructose residues in the medium with all the yeast
+
+239
+
+species except P. kudriavzevii, in which fructose was totally used up. Glycerol was not detected
+
+240
+
+initially in any of the fermentations, but subsequently identified with a maximum concentration
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+218
+
+11
+
+of about 0.13 g/l without significant differences among the fermentations with different yeasts (p
+
+242
+
+> 0.05). Five main organic acids were identified during the fermentations, namely citric,
+
+243
+
+gluconic, pyruvic, succinic and fumaric acids. Citric acid was the most abundant acid detected
+
+244
+
+with an initial concentration of 4.01 g/l which declined significantly to 0.03-0.06 g/l among
+
+245
+
+fermentations with all the yeasts. Gluconic, pyruvic and fumaric were not identified initially in
+
+246
+
+all fermentations but detected in fermentations with C. railenensis and C. xylopsoci in the
+
+247
+
+concentration range of 0.01- 0.20 g/l at the end. In terms of succinic acid, it was detected at the
+
+248
+
+start of fermentation at 0.06 g/l, which varied after fermentation with different yeasts as its level
+
+249
+
+increased by more than 2-fold with P. kudriavzevii, C. railenensis and C. xylopsoci (p < 0.05),
+
+250
+
+declined with H. uvarum and P. fermentans and was not detected with W. anomalus at the end.
+
+251
+252
+
+3.5. Changes in volatiles during SCM fermentation
+
+253
+
+A total of 27 volatiles were detected using the HS-SPME-GC-MS method during the
+
+254
+
+fermentations. The most significant compounds were shown in Table 4 and 5 where they were
+
+255
+
+grouped according to their chemical class: alcohols, aldehydes, ketones, esters, phenols and
+
+256
+
+organic acids.
+
+257
+
+3.5.1. Alcohols
+
+258
+
+At the start of fermentation, five main alcohols were identified at low concentrations, which were
+
+259
+
+ethanol, isoamyl alcohol, 3-methyl-2-butanol, 1- nonanol and phenylethyl alcohol. After
+
+260
+
+fermentation, a huge increase in the concentration of alcohols, i.e., 700-1200-fold higher than the
+
+261
+
+initial level (p < 0.05), was observed. The highest total amount was found in fermentation with
+
+262
+
+P. fermentans, followed by P. kudriavzevii and H. uvarum. Isoamyl alcohol was the most
+
+263
+
+abundant alcohol in all the fermentations with similar concentrations in P. fermentans, P.
+
+264
+
+kudriavzevii and C. xylopsoci fermentations, which were approximately two-fold higher than in
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+241
+
+12
+
+those of other yeasts (p < 0.05). The highest level of ethanol was detected in P. fermentans and
+
+266
+
+P. kudriavzevii fermentations, followed by C. xylopsoci and H. uvarum fermentations.
+
+267
+
+Furthermore, significant accumulations of 2-phenylethyl alcohol were observed in all the
+
+268
+
+fermentations, where the highest levels were found in fermentations with P. kudriavzevii and P.
+
+269
+
+fermentans, followed by C. xylopsoci, which were about 2-3 times higher than those with the
+
+270
+
+others fermentations (p < 0.05). 1-Nonanol was detected in the fermentations of H. uvarum and
+
+271
+
+W. anomalus with a maximum concentration of 100.4 and 81.4 µg/kg, respectively, while its
+
+272
+
+concentration was low in fermentations with the remaining yeasts (p < 0.05).
+
+273
+
+3.5.2. Aldehydes
+
+274
+
+Prior to fermentation, low concentrations of aldehydes were detected with a maximum
+
+275
+
+concentration of 93.4 µg/kg, which subsequently increased by more than 20-fold after
+
+276
+
+fermentations with P. kudriavzevii and P. fermentans, but smaller increases with the other yeasts.
+
+277
+
+Acetaldehyde was the most abundant aldehyde, with the highest concentration detected in
+
+278
+
+fermentations with P. fermentans and P. kudriavzevii (p < 0.05), followed by Candida species.
+
+279
+
+Low levels of 3-methylbutanal and benzaldehyde were found in the medium before fermentation
+
+280
+
+at 8.9 and 77.3 µg/kg, respectively. After fermentation, the level of 3-methylbutanal remained
+
+281
+
+relatively unchanged, while the concentration of benzaldehyde declined. Furthermore, 2,2-
+
+282
+
+dimethylhexanal was tentatively identified after fermentation with the highest concentration
+
+283
+
+found with H. uvarum (p < 0.05), followed by P. fermentans, P. kudriavzevii and
+
+284
+
+Wickerhanomyces anomalus.
+
+285
+
+3.5.3. Esters
+
+286
+
+Two main ester compounds were detected initially, ethyl acetate and methyl butanoate, with a
+
+287
+
+concentration of 14.5 and 33.7 µg/kg, respectively. A substantial increase in the level of ethyl
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+265
+
+13
+
+acetate was observed after all fermentations, most notably for C. xylopsoci fermentation which
+
+289
+
+produced the highest concentration, ~ 3000-fold higher than the initial amount (p < 0.05). The
+
+290
+
+levels of ethyl acetate detected after fermentation with H. uvarum, P. kudriavzevii, P. fermentans
+
+291
+
+and W. anomalus were similar (p > 0.05), and ~ 2000 times higher than the initial concentration,
+
+292
+
+while a lower concentration was found with C. railenensis fermentation. In contrast, methyl
+
+293
+
+butanoate declined to about half of its initial concentration in all the fermentations (p > 0.05).
+
+294
+
+3.5.4. Acids and phenols
+
+295
+
+The main volatile acid detected initially and after fermentation was acetic acid with an initial
+
+296
+
+concentration of 136.9 µg/kg. After the completion of fermentation, the level of acetic acid
+
+297
+
+increased ~ 7-10 times with higher concentrations in fermentations with C. railenensis, H.
+
+298
+
+uvarum and W. anomalus than the other yeasts (p < 0.05). 2-Methoxy-4-vinylphenol (4-
+
+299
+
+vinylguaiacol) was the main phenolic compound identified with an initial concentration of 3.7
+
+300
+
+µg/kg that increased slightly (p < 0.05) during fermentation without significant differences
+
+301
+
+between the yeasts (p > 0.05).
+
+302
+
+3.5.5. Ketones
+
+303
+
+The main ketone detected at the start of the fermentation was 2-propanone with an average
+
+304
+
+concentration of 7.4 µg/kg. After fermentation, the concentration increased ~ 400 times with P.
+
+305
+
+fermentans, P. kudriavzevii and C. xylopsoci, which were almost 10 times higher than with the
+
+306
+
+remaining yeasts (p < 0.05).
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+288
+
+307
+308
+
+4. Discussion
+
+14
+
+In this study, we assessed six yeast species for their potential as starter cultures for coffee wet
+
+310
+
+fermentation by evaluating their performance in a number of criteria. The yeasts were isolated
+
+311
+
+from spontaneous wet coffee fermentations conducted in our laboratory (Elhalis et al., 2020a).
+
+312
+
+The mucilage layers of the coffee bean contain about 30% reducing sugars, mainly glucose and
+
+313
+
+fructose (Avallone et al., 2001a; Murthy & Naidu, 2011). During coffee fermentation, the sugars
+
+314
+
+are consumed by microorganisms, producing secondary metabolites such as organic acids, and
+
+315
+
+alcohols, which leads to a decline in pH and rise in temperature (Avallone et al., 2001a; Elhalis
+
+316
+
+et al., 2020a). These stressful environmental conditions can strongly affect the growth and
+
+317
+
+metabolic activities of microflora during coffee fermentation. Thus, selecting yeasts that have the
+
+318
+
+capability to survive and adapt to such environmental stresses is vital for them to become
+
+319
+
+successful starter cultures. Our data showed that acetic acid was the most potent growth inhibitor
+
+320
+
+among the tested stress factors, followed by osmotic pressure. Among the isolates tested, H.
+
+321
+
+uvarum and P. kudriavzevii were able to tolerate most of the stressful conditions, whereas
+
+322
+
+Candida species and W. anomalus displayed weak tolerance. H. uvarum and P. kudriavzevii have
+
+323
+
+been found in relatively high counts during the fermentation of several foods and beverages such
+
+324
+
+as coffee, cocoa, cheese, bread and wine (del Monaco et al., 2014; Fleet, 1993; Pereira et al.,
+
+325
+
+2017b; Pereira et al., 2014; Verheyen et al., 2015; Zheng et al., 2018). Yeast cells were reported
+
+326
+
+to response to these stresses by activating different stress regulatory genes, most of the studies
+
+327
+
+were conducted on Saccharomyces cerevisiae. For example, hyperosmotic stress induces high
+
+328
+
+osmolarity glycerol response pathway and accumulate either glycerol or trehalose as a
+
+329
+
+compatible solute (Babazadeh et al., 2017; Hohmann, 2009; Saito & Posas, 2012). High
+
+330
+
+temperature and ethanol induce heat shock proteins (HSP), which facilitate disaggregation of the
+
+331
+
+denatured protein and synthesis of membrane-associated protein capable of protecting the
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+309
+
+15
+
+integrity of liposomal membrane against heat and ethanol, in addition to increases in the rate of
+
+333
+
+ATP, trehalose and NADPH synthesis (Glover & Lindquist, 1998; Pereira et al., 2018; Sales et
+
+334
+
+al., 2000). One of the most adaptive mechanisms of tolerance to acids is by reducing their the
+
+335
+
+cell wall and /or plasm membrane permeability by altering their chemical structure and, thereby
+
+336
+
+reducing their acid diffusion (Guerreiro et al., 2016; Simoes et al., 2006), in addition to the
+
+337
+
+catabolism of the acids by yeast cells in some cases (Casal et al., 1996; Vilela-Moura et al.,
+
+338
+
+2011). Adaptation to low pH may occur by changes in gene expression in membrane
+
+339
+
+conductivity to H+ and extrusion of protons through changing fatty acid profile of the cell
+
+340
+
+membrane (Brandao et al., 2014; Chen et al., 2009; Eraso & Gancedo, 1987; Kawahata et al.,
+
+341
+
+2006). The high viability of H. uvarum and P. kudriavzevii and their stress responses in our study
+
+342
+
+might also be regulated by similar mechanisms.
+
+343
+
+There is a general agreement that during coffee fermentation microbial activities contribute to
+
+344
+
+the breakdown of mucilage components such as polysaccharides (pectin), proteins, cellulose and
+
+345
+
+starch, thus facilitating their removal (Agate & Bhat, 1966; Avallone et al., 2001a; Frank &
+
+346
+
+Cruz, 1964; Masoud & Jespersen, 2006; Pereira et al., 2014; Silva, 2014). Thus, the enzymatic
+
+347
+
+capability of the selected isolates to hydrolyze such components is an important indicator of their
+
+348
+
+suitability as starter cultures as mucilage removal is one of the key functions of coffee wet
+
+349
+
+fermentation. Of the tested isolates, P. fermentans and C. railenensis showed poor enzymatic
+
+350
+
+activities, especially for protease, cellulase and pectinase. C. xylopsoci and W. anomalus showed
+
+351
+
+relatively high activities for protease, amylase and cellulose, but poor pectinolytic activity. In
+
+352
+
+contrast, H. uvarum and P. kudriavzevii displayed good activities on all the enzymes. This agrees
+
+353
+
+with literature reports that H. uvarum exhibits activities for several enzymes such as protease,
+
+354
+
+lipase glucosidase and xylosidase (Capece et al., 2005; Charoenchai et al., 1997; Manzanares et
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+332
+
+16
+
+al., 1999), while P. kudriavzevii has β‐galactosidase, aminopeptidase, lipase, xylanase and
+
+356
+
+pectinase activities (Amoikon et al., 2019; Elahi & Rehman, 2018; Haile & Kang, 2019;
+
+357
+
+Verheyen et al., 2015; Zheng et al., 2018). Overall, based on these observations, H. uvarum and
+
+358
+
+P. kudriavzevii have shown a superior potential as starter cultures for coffee fermentation in both
+
+359
+
+their tolerance to environmental stresses and production of mucilage degrading enzymes,
+
+360
+
+compared to the other yeast species tested.
+
+361
+
+The assessment of the selected yeasts to produce desirable metabolites was achieved by
+
+362
+
+conducting inoculated fermentations using SCM, an approach that has been used by other
+
+363
+
+researchers (Hibbing et al., 2010). All the yeast species grew substantially during the
+
+364
+
+fermentation, thus, demonstrating that the medium was able to support their growth.
+
+365
+
+Furthermore, all treatments exhibited reduction in pH values at the end of the fermentation,
+
+366
+
+which was in line with the growth and metabolic activities of the inoculated yeasts. This shifting
+
+367
+
+in pH to a more acidic value was most likely related to sugar fermentation, mainly glucose and
+
+368
+
+fructose, into organic acids. The sugar consumption was accompanied by accumulation of
+
+369
+
+secondary metabolites such as glycerol and organic acids. Glycerol was the most abundant
+
+370
+
+metabolite detected during the fermentations with similar concentrations among all the species.
+
+371
+
+Glycerol was identified during the yeast fermentation of several food and beverage products,
+
+372
+
+including coffee beans, and was characterized by a sweet taste and smooth mouthfeel (Swiegers
+
+373
+
+et al., 2005). Regarding the production of organic acids, C. railenensis was the only species that
+
+374
+
+produced fumaric acid, while succinic acid was generated by P. kudriavzevii, C. railenensis and
+
+375
+
+C. xylopsoci. In contrast, citric acid was consumed by all the yeasts during the fermentations.
+
+376
+
+The levels and types of the organic acids present in green coffee beans might affect the sensory
+
+377
+
+quality of the final products. For instance, organic acids interfere with the perceived acidity and
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+355
+
+17
+
+sweetness of coffee beverages (Oestreich-Janzen, 2013; Ribeiro et al., 2017). Furthermore, the
+
+379
+
+level of these acids in the green beans may affect the formation of important volatiles during the
+
+380
+
+roasting of coffee beans such as pyrazines and furans (Liu et al., 2019; Yu & Zhang, 2010).
+
+381
+
+Succinic acid is one of the main end metabolites produced by yeasts in alcoholic fermentations
+
+382
+
+such as wine production (Boulton & Singleton, 1998; Webb et al., 1964). It has a potential
+
+383
+
+impact on the final product acidity and is involved in the formation of ester compounds such as
+
+384
+
+ethyl succinate (Webb et al., 1964). Gluconic, pyruvic and fumaric acids are well known
+
+385
+
+microbial metabolites that may strongly affect the final product quality if present in green coffee
+
+386
+
+beans (Lee et al., 2016a; Yeretzian et al., 2002).
+
+387
+
+Isoamyl alcohol, 2-phenylethyl alcohol, ethanol, ethyl acetate, acetaldehyde, 2-propanone and
+
+388
+
+acetic acid were the major volatiles identified from the fermenting mass. Overall, these volatiles
+
+389
+
+are known yeast derived metabolites produced during fermentations (Evangelista et al., 2015;
+
+390
+
+Gonzalez-Rios et al., 2007; Sauer, 2016). 2-Phenylethyl alcohol, isoamyl alcohol and ethanol are
+
+391
+
+characterized by their desirable sweet, alcoholic and fruity flavors and impact on the viscosity of
+
+392
+
+coffee beverages (Carballo, 2012; Gamero et al., 2019; Tamang & Fleet, 2009). The presence of
+
+393
+
+esters such as ethyl acetate, even at low concentrations, can impart fruity aromas to the final
+
+394
+
+coffee products (Saerens & Swiegers, 2016). Similarly, acetaldehyde and 2-propanone were
+
+395
+
+related to floral and fruity aromas (Nollet & Toldrá, 2010; Sanz et al., 2002). Low concentrations
+
+396
+
+of acetic acid contribute to a pleasant clean and sweet taste, while high levels (more than 1
+
+397
+
+mg/ml) give a undesirable vinegary taste (Bertrand et al., 2012). The data showed that Pichia
+
+398
+
+species produced relatively high levels of total alcohols and aldehydes while greater amounts of
+
+399
+
+esters were found with C. xylopsoci, Pichia species and H. uvarum. In addition, H. uvarum
+
+400
+
+produced relatively high levels of 1-nonanol, ethanol and acetic acid. The total concentrations of
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+378
+
+18
+
+such volatiles were higher with C. railenensis, C. xylopsoci, P. fermentans and W. anomalus than
+
+402
+
+with other yeasts; however, their fermentation power was weak as discussed above. It should be
+
+403
+
+mentioned that the concentration of volatile compounds was obtained by the internal standard
+
+404
+
+method in the present study. As different types of volatile compounds may have different
+
+405
+
+response factors to that of the internal standard in the MS detector, caution should be taken in
+
+406
+
+interpreting data on the absolute concentrations of the volatiles although comparison of the data
+
+407
+
+between different treatments should still be valid. Previous reports indicated that H. uvarum was
+
+408
+
+one of the dominate yeasts in several food and beverage products, and produced ethanol (Caridi
+
+409
+
+& Ramondino, 1999), primary metabolites such as acetaldehyde, glycerol (Ciani & Maccarelli,
+
+410
+
+1997; Romano et al., 1992), and secondary metabolites such as ethyl acetate (Romano et al.,
+
+411
+
+1997). Similarly, P. kudriavzevii was reported to improve the sensory quality of fermented foods
+
+412
+
+and beverages by increasing the level of volatile compounds such as higher alcohols and esters
+
+413
+
+(del Monaco et al., 2014; Pereira et al., 2017a; Shi et al., 2019; Zheng et al., 2018). These
+
+414
+
+findings agree with our observations. Pereira et al. (2014) tested nine endogenous yeast strains to
+
+415
+
+be used as starter cultures in coffee fermentation. Saccharomyces sp. was found to be the highest
+
+416
+
+pectinase producing strain, while high concentrations of flavour compounds, such as isoamyl
+
+417
+
+acetate, ethyl acetate, were detected with P. fermentans, which lead the authors to recommend
+
+418
+
+using co-culture of both strains in the inoculation. However, when the mixed culture was
+
+419
+
+inoculated into the synthetic coffee extract medium, the growth rate of P. fermentans was
+
+420
+
+reduced. The current study showed that H. uvarum and P kudriavzevii exhibited high production
+
+421
+
+features of both pectinases and aromatic metabolites in single strain inoculation, which would
+
+422
+
+make them more promising candidates for inoculated coffee fermentation.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+401
+
+423
+
+19
+
+5. Conclusion
+
+425
+
+This study investigated six yeast species isolated from spontaneous coffee fermentations for their
+
+426
+
+potential as stater cultures for wet fermentations of coffee beans. H. uvarum and P. kudriavzevii
+
+427
+
+were found to be the most promising candidates as they were tolerant to temperature, pH and
+
+428
+
+acid stresses, exhibited high pectinase, protease, lipase and amylase activities that will enable
+
+429
+
+them to facilitate mucilage degradation of the beans. They also produced a high mount of
+
+430
+
+desirable primary and secondary metabolites such as organic acids, glycerol, alcohols, esters and
+
+431
+
+aldehydes which are important to the sensory quality of coffee, during inoculated fermentation
+
+432
+
+using coffee pulp medium. Further research should evaluate the suitability of these two yeasts as
+
+433
+
+starter cultures in inoculated coffee fermentation and their impact on the sensory characteristics
+
+434
+
+of coffee beverages.
+
+435
+
+Conflict of Interest
+
+436
+
+HE declares that he has no conflict of interest. JC declares that he has no conflict of interest. DF
+
+437
+
+declares that he has no conflict of interest. JZ declares that he has no conflict of interest.
+
+438
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+424
+
+439
+
+Compliance with ethics requirements
+
+440
+
+441
+
+“This article does not contain any studies with human participants or animals performed by any
+
+442
+
+of the authors.”
+
+443
+
+444
+
+Authors’ contribution statement
+
+20
+
+HE designed and conducted experiments, performed the data analysis and wrote the manuscript.
+
+446
+
+JZ and DF supervised the experiments, interpreted the scientific values of the obtained data and
+
+447
+
+edited the manuscript. JC supervised work. All authors read and approved the manuscript.
+
+448
+
+Funding
+
+449
+
+This research did not receive any specific grant from funding agencies in the public, commercial,
+
+450
+
+or not-for-profit sectors.
+
+451
+
+Acknowledgement
+
+452
+
+Not applicable.
+
+re
+
+-p
+
+ro
+
+of
+
+445
+
+453
+
+References
+
+455
+
+Agate, A. D., & Bhat, J. V. (1966). Role of pectinolytic yeasts in the degradation of mucilage
+
+na
+
+lP
+
+454
+
+layer of Coffea robusta cherries. Applied and Environmental Microbiology, 14(2), 256-
+
+457
+
+260.
+
+459
+
+Jo
+
+458
+
+ur
+
+456
+
+Amoikon, T. L. S., Aké, M. D. F., Djéni, N. T., Grondin, C., Casaregola, S., & Djè, K. M.
+
+460
+
+(2019). Diversity and enzymatic profiles of indigenous yeasts isolated from three types of
+
+461
+
+palm wines produced in Côte d'Ivoire. Journal of Applied Microbiology, 126(2), 567-579.
+
+462
+463
+
+Amorim, H. V., & Amorim, V. L. (1977). Coffee enzymes and coffee quality. In R. L. O. A. J.
+
+464
+
+StAngelo (Ed.), Enzymes in food and beverages processing (Vol. 47, pp. 27-56).
+
+465
+
+American Chemical Society. https://doi.org/10.1021/bk-1977-0047.ch003
+
+21
+
+466
+467
+
+Avallone, S., Guiraud, J. P., Guyot, B., Olguin, E., & Brillouet, J. M. (2001a). Fate of mucilage
+
+468
+
+cell wall polysaccharides during coffee fermentation. Journal of Agricultural and Food
+
+469
+
+Chemistry, 49(11), 5556-5559.
+
+470
+
+of
+
+472
+
+Avallone, S., Guyot, B., Brillouet, J.-M., Olguin, E., & Guiraud, J.-P. (2001b). Microbiological
+and biochemical study of coffee fermentation. Current Microbiology, 42(4), 252-256.
+
+ro
+
+471
+
+-p
+
+473
+
+Babazadeh, R., Lahtvee, P.-J., Adiels, C. B., Goksör, M., Nielsen, J. B., & Hohmann, S. (2017).
+
+475
+
+The yeast osmostress response is carbon source dependent. Scientific reports, 7(1), 1-11.
+
+lP
+
+re
+
+474
+
+476
+
+Bertrand, B., Boulanger, R., Dussert, S., Ribeyre, F., Berthiot, L., Descroix, F., & Joët, T.
+
+na
+
+477
+
+(2012). Climatic factors directly impact the volatile organic compound fingerprint in
+
+479
+
+green Arabica coffee bean as well as coffee beverage quality. Food Chemistry, 135(4),
+
+480
+
+2575-2583.
+
+Jo
+
+ur
+
+478
+
+481
+482
+483
+
+Boulton, R. B., & Singleton, V. L. (1998). The role of sulfur dioxide in wine. In Principles and
+Practices of Winemaking (pp. 448-473). Springer US.
+
+484
+485
+
+Brandao, R. L., Rosa, J. C. C., Nicoli, J. R., Almeida, M. V. S., do Carmo, A. P., Queiros, H. T.,
+
+486
+
+& Castro, I. M. (2014). Investigating acid stress response in different Saccharomyces
+
+487
+
+strains. Journal of Mycology, 2014.
+22
+
+488
+489
+
+Capece, A., Fiore, C., Maraz, A., & Romano, P. (2005). Molecular and technological approaches
+
+490
+
+to evaluate strain biodiversity in Hanseniaspora uvarum of wine origin. Journal of
+
+491
+
+Applied Microbiology, 98(1), 136-144.
+
+492
+
+Carballo, J. (2012). The role of fermentation reactions in the generation of flavor and aroma of
+
+494
+
+foods. In A. K.-E. Bhavbhuti M. Mehta, Robert Z. Iwanski (Ed.), Fermentation: Effects
+
+495
+
+on food properties (pp. 51-83). CRC Press Boca Raton, Florida.
+
+-p
+
+ro
+
+of
+
+493
+
+lP
+
+498
+
+Caridi, A., & Ramondino, D. (1999). Biodiversità fenotipica in ceppi di Hanseniaspora di
+origine enologica. L'Enotecnico, 35, 71-76. http://hdl.handle.net/20.500.12318/53991
+
+na
+
+497
+
+re
+
+496
+
+499
+
+502
+503
+
+ur
+
+501
+
+Casal, M., Cardoso, H., & Leao, C. (1996). Mechanisms regulating the transport of acetic acid in
+Saccharomyces cerevisiae. Microbiology, 142(6), 1385-1390.
+
+Jo
+
+500
+
+Charoenchai, C., Fleet, G. H., Henschke, P. A., & Todd, B. (1997). Screening of non‐
+
+504
+
+Saccharomyces wine yeasts for the presence of extracellular hydrolytic enzymes.
+
+505
+
+Australian Journal of Grape and Wine Research, 3(1), 2-8.
+
+506
+507
+
+Chen, A. K.-L., Gelling, C., Rogers, P. L., Dawes, I. W., & Rosche, B. (2009). Response of
+
+508
+
+Saccharomyces cerevisiae to stress-free acidification. The Journal of Microbiology,
+
+509
+
+47(1), 1-8.
+23
+
+510
+511
+
+Ciani, M., & Maccarelli, F. (1997). Oenological properties of non-Saccharomyces yeasts
+
+512
+
+associated with wine-making. World Journal of Microbiology and Biotechnology, 14(2),
+
+513
+
+199-203.
+
+514
+
+Cleves, S. (2009). Ecological processing of coffee and use of byproducts. In Wintgens J. N.
+
+of
+
+515
+
+(Ed.), Coffee: growing, processing, sustainable production. A guidebook for growers,
+
+517
+
+processors, traders and researchers (pp. 724-738). Wiley-VCH.
+
+-p
+
+ro
+
+516
+
+del Monaco, S. M., Barda, N. B., Rubio, N. C., & Caballero, A. C. (2014). Selection and
+
+lP
+
+519
+
+re
+
+518
+
+characterization of a Patagonian Pichia kudriavzevii for wine deacidification. Journal of
+
+521
+
+Applied Microbiology, 117(2), 451-464.
+
+ur
+
+523
+
+Elahi, A., & Rehman, A. (2018). Bioconversion of hemicellulosic materials into ethanol by
+
+Jo
+
+522
+
+na
+
+520
+
+524
+
+yeast, Pichia kudriavzevii 2-KLP1, isolated from industrial waste. Revista Argentina de
+
+525
+
+microbiologia, 50(4), 417-425.
+
+526
+527
+
+Elhalis, H., Cox, J., & Zhao, J. (2020a). Ecological diversity, evolution and metabolism of
+
+528
+
+microbial communities in the wet fermentation of Australian coffee beans. International
+
+529
+
+Journal of Food Microbiology, 321, 108544.
+
+530
+
+24
+
+531
+
+Elhalis, H., frank, D., Cox, J., & Zhao, J. (2020b). The crucial role of yeasts in the wet
+
+532
+
+fermentation of coffee beans and quality. International Journal of Food Microbiology.
+
+533
+
+https://doi.org/10.1016/j.ijfoodmicro.2020.108796
+
+534
+
+536
+
+Eraso, P., & Gancedo, C. (1987). Activation of yeast plasma membrane ATPase by acid pH
+during growth. FEBS Letters, 224(1), 187-192.
+
+of
+
+535
+
+Evangelista, S. R., Miguel, M. G. d. C. P., de Souza Cordeiro, C., Silva, C. F., Pinheiro, A. C.
+
+-p
+
+538
+
+ro
+
+537
+
+M., & Schwan, R. F. (2014a). Inoculation of starter cultures in a semi-dry coffee (Coffea
+
+540
+
+arabica) fermentation process. Food Microbiology, 44, 87-95.
+
+lP
+
+re
+
+539
+
+541
+
+Evangelista, S. R., Miguel, M. G. d. C. P., Silva, C. F., Pinheiro, A. C. M., & Schwan, R. F.
+
+na
+
+542
+
+(2015). Microbiological diversity associated with the spontaneous wet method of coffee
+
+544
+
+fermentation. International Journal of Food Microbiology, 210, 102-112.
+
+546
+547
+
+Jo
+
+545
+
+ur
+
+543
+
+Fleet, G. M. (1993). Yeasts-growth during fermentation. In Wine microbiology and
+biotechnology (pp. 27-54). Harword Academic Publishers.
+
+548
+549
+
+Frank, H. A., & Cruz, A. S. D. (1964). Role of incidental microflora in natural decomposition of
+
+550
+
+mucilage layer in Kona coffee cherries. Journal of Food Science, 29(6), 850-853.
+
+551
+
+25
+
+552
+
+Gamero, A., Ren, X., Lamboni, Y., de Jong, C., Smid, E. J., & Linnemann, A. R. (2019).
+
+553
+
+Development of a low-alcoholic fermented beverage employing cashew apple juice and
+
+554
+
+non-conventional yeasts. Fermentation, 5(3), 71.
+
+555
+
+557
+
+Glover, J. R., & Lindquist, S. (1998). Hsp104, Hsp70, and Hsp40: a novel chaperone system that
+rescues previously aggregated proteins. Cell, 94(1), 73-82.
+
+of
+
+556
+
+ro
+
+558
+
+Gonzalez-Rios, O., Suarez-Quiroz, M. L., Boulanger, R., Barel, M., Guyot, B., Guiraud, J.-P., &
+
+560
+
+Schorr-Galindo, S. (2007). Impact of “ecological” post-harvest processing on the volatile
+
+561
+
+fraction of coffee beans: I. Green coffee. The Journal of Food Composition and Analysis,
+
+562
+
+20(3-4), 289-296.
+
+re
+
+lP
+na
+
+564
+
+Goto, Y. B., & Fukunaga, E. T. (1986). Coffee: harvesting and processing for top quality coffee.
+
+ur
+
+563
+
+-p
+
+559
+
+A cup of Aloha: The Kona coffee epic. University of Hawaii Press. Hawaii Agricultural
+
+566
+
+Experiment Station, University of Hawaii.
+
+Jo
+
+565
+
+567
+568
+
+Guerreiro, J. F., Muir, A., Ramachandran, S., Thorner, J., & Sá-Correia, I. (2016). Sphingolipid
+
+569
+
+biosynthesis upregulation by TOR complex 2–Ypk1 signaling during yeast adaptive
+
+570
+
+response to acetic acid stress. Biochemical Journal, 473(23), 4311-4325.
+
+571
+572
+573
+
+Haile, M., & Kang, W. H. (2019). Isolation, identification, and characterization of pectinolytic
+yeasts for starter culture in coffee fermentation. MicroorganismS, 7(10), 401.
+26
+
+574
+575
+576
+
+Harrigan, W. F., & McCance, M. E. (2014). Laboratory methods in microbiology. Academic
+press.
+
+577
+
+579
+
+Hibbing, M. E., Fuqua, C., Parsek, M. R., & Peterson, S. B. (2010). Bacterial competition:
+surviving and thriving in the microbial jungle. Nature Reviews Microbiology, 8(1), 15-25.
+
+of
+
+578
+
+-p
+
+582
+
+Hohmann, S. (2009). Control of high osmolarity signalling in the yeast Saccharomyces
+cerevisiae. FEBS Letters, 583(24), 4025-4029.
+
+re
+
+581
+
+ro
+
+580
+
+584
+
+lP
+
+583
+
+International Coffee Organization. (2018). Total production by all exporting countries (In
+thousand 60 kg bags). Retrieved 23 December 2019 from http://www.ico.org/prices/po-
+
+586
+
+production.pdf
+
+588
+
+ur
+Jo
+
+587
+
+na
+
+585
+
+Kawahata, M., Masaki, K., Fujii, T., & Iefuji, H. (2006). Yeast genes involved in response to
+
+589
+
+lactic acid and acetic acid: acidic conditions caused by the organic acids in
+
+590
+
+Saccharomyces cerevisiae cultures induce expression of intracellular metal metabolism
+
+591
+
+genes regulated by Aft1p. FEMS Yeast Research, 6(6), 924-936.
+
+592
+593
+
+Lee, L. W., Cheong, M. W., Curran, P., Yu, B., & Liu, S. Q. (2016a). Modulation of coffee
+
+594
+
+aroma via the fermentation of green coffee beans with Rhizopus oligosporus: I. Green
+
+595
+
+coffee. Food Chemistry, 211, 916-924.
+27
+
+596
+597
+598
+
+Liu, C., Yang, Q., Linforth, R., Fisk, I. D., & Yang, N. (2019). Modifying Robusta coffee aroma
+by green bean chemical pre-treatment. Food Chemistry, 272, 251-257.
+
+599
+600
+
+Manzanares, P., Ramón, D., & Querol, A. (1999). Screening of non-Saccharomyces wine yeasts
+for the production of β-D-xylosidase activity. International Journal of Food
+
+602
+
+Microbiology, 46(2), 105-112.
+
+ro
+
+of
+
+601
+
+Martins, P. M. M., Ribeiro, L. S., Miguel, M. G. d. C. P., Evangelista, S. R., & Schwan, R. F.
+
+re
+
+604
+
+-p
+
+603
+
+(2019). Production of coffee (Coffea arabica) inoculated with yeasts: impact on quality.
+
+606
+
+Journal of the Science of Food and Agriculture, 99(13), 5638-5645.
+
+na
+
+608
+
+Masoud, W., Bjørg Cesar, L., Jespersen, L., & Jakobsen, M. (2004). Yeast involved in
+
+ur
+
+607
+
+lP
+
+605
+
+fermentation of Coffea arabica in East Africa determined by genotyping and by direct
+
+610
+
+denaturating gradient gel electrophoresis. Yeast, 21(7), 549-556.
+
+Jo
+
+609
+
+611
+612
+
+Masoud, W., & Jespersen, L. (2006). Pectin degrading enzymes in yeasts involved in
+
+613
+
+fermentation of Coffea arabica in East Africa. International Journal of Food
+
+614
+
+Microbiology, 110(3), 291-296.
+
+615
+616
+
+Murthy, P. S., & Naidu, M. M. (2011). Improvement of robusta coffee fermentation with
+
+617
+
+microbial enzymes. European Journal of Applied Sciences, 3(4), 130-139.
+28
+
+618
+619
+620
+
+Nollet, L. M. L., & Toldrá, F. (2010). Sensory analysis of foods of animal origin. CRC press.
+383-398.
+
+621
+622
+
+Oestreich-Janzen, S. (2013). Chemistry of coffee. In Reference module in chemistry, molecular
+sciences and chemical engineering (pp. 1-28). Elsevier.
+
+624
+
+https://doi.org/https://doi.org/10.1016/B978-0-12-409547-2.02786-4
+
+ro
+
+of
+
+623
+
+Pereira, G. V. d. M., Alvarez, J. P., Neto, D. P. d. C., Soccol, V. T., Tanobe, V. O. A., Rogez, H.,
+
+re
+
+626
+
+-p
+
+625
+
+Góes-Neto, A., & Soccol, C. R. (2017a). Great intraspecies diversity of Pichia
+
+628
+
+kudriavzevii in cocoa fermentation highlights the importance of yeast strain selection for
+
+629
+
+flavor modulation of cocoa beans. LWT-Food Science and Technology, 84, 290-297.
+
+na
+
+ur
+
+631
+
+Pereira, G. V. d. M., Neto, E., Soccol, V. T., Medeiros, A. B. P., Woiciechowski, A. L., &
+
+Jo
+
+630
+
+lP
+
+627
+
+632
+
+Soccol, C. R. (2015). Conducting starter culture-controlled fermentations of coffee beans
+
+633
+
+during on-farm wet processing: Growth, metabolic analyses and sensorial effects. Food
+
+634
+
+Research International, 75, 348-356.
+
+635
+636
+
+Pereira, G. V. d. M., Soccol, V. T., Brar, S. K., Neto, E., & Soccol, C. R. (2017b). Microbial
+
+637
+
+ecology and starter culture technology in coffee processing. Critical Reviews in Food
+
+638
+
+Science and Nutrition, 57(13), 2775-2788.
+
+639
+
+29
+
+640
+
+Pereira, G. V. d. M., Soccol, V. T., Pandey, A., Medeiros, A. B. P., Lara, J. M. R. A., Gollo, A.
+
+641
+
+L., & Soccol, C. R. (2014). Isolation, selection and evaluation of yeasts for use in
+
+642
+
+fermentation of coffee beans by the wet process. International Journal of Food
+
+643
+
+Microbiology, 188, 60-66.
+
+644
+
+Pereira, T., Vilaprinyo, E., Belli, G., Herrero, E., Salvado, B., Sorribas, A., Altés, G., & Alves,
+
+of
+
+645
+
+R. (2018). Quantitative operating principles of yeast metabolism during adaptation to
+
+647
+
+heat stress. Cell reports, 22(9), 2421-2430.
+
+-p
+re
+
+648
+
+Ribeiro, L. S., Miguel, M. G. d. C. P., Evangelista, S. R., Martins, P. M. M., van Mullem, J.,
+
+lP
+
+649
+
+ro
+
+646
+
+Belizario, M. H., & Schwan, R. F. (2017). Behavior of yeast inoculated during semi-dry
+
+651
+
+coffee fermentation and the effect on chemical and sensorial properties of the final
+
+652
+
+beverage. Food Research International, 92, 26-32.
+
+ur
+
+na
+
+650
+
+654
+655
+
+Jo
+
+653
+
+Romano, P., Suzzi, G., Comi, G., & Zironi, R. (1992). Higher alcohol and acetic acid production
+by apiculate wine yeasts. Journal of Applied Bacteriology, 73(2), 126-130.
+
+656
+657
+
+Romano, P., Suzzi, G., Comi, G., Zironi, R., & Maifreni, M. (1997). Glycerol and other
+
+658
+
+fermentation products of apiculate wine yeasts. Journal of Applied Microbiology, 82(5),
+
+659
+
+615-618.
+
+660
+
+30
+
+661
+662
+
+Saerens, S., & Swiegers, J. H. (2016). Production of low-alcohol or alcohol-free beer with Pichia
+kluyveri yeast strains. ." U.S. Patent No. 10,415,007. 17 Sep. 2019.
+
+663
+664
+
+Saito, H., & Posas, F. (2012). Response to hyperosmotic stress. Genetics, 192(2), 289-318.
+
+665
+
+Sales, K., Brandt, W., Rumbak, E., & Lindsey, G. (2000). The LEA-like protein HSP 12 in
+
+of
+
+666
+
+Saccharomyces cerevisiae has a plasma membrane location and protects membranes
+
+668
+
+against desiccation and ethanol-induced stress. Biochimica et Biophysica Acta (BBA)-
+
+669
+
+Biomembranes, 1463(2), 267-278.
+
+re
+
+-p
+
+ro
+
+667
+
+lP
+
+670
+
+Sanz, C., Maeztu, L., Zapelena, M. J., Bello, J., & Cid, C. (2002). Profiles of volatile compounds
+
+672
+
+and sensory analysis of three blends of coffee: influence of different proportions of
+
+673
+
+Arabica and Robusta and influence of roasting coffee with sugar. Journal of the Science
+
+674
+
+of Food and Agriculture, 82(8), 840-847.
+
+676
+677
+
+ur
+
+Jo
+
+675
+
+na
+
+671
+
+Sauer, M. (2016). Industrial production of acetone and butanol by fermentation—100 years later.
+FEMS Microbiology Letters, 363(13), fnw134.
+
+678
+679
+680
+
+Schwan, R. F., & Wheals, A. E. (2004). The microbiology of cocoa fermentation and its role in
+chocolate quality. Critical Reviews in Food Science and Nutrition, 44(4), 205-221.
+
+681
+
+31
+
+682
+
+Selvamurugan, M., Doraisamy, P., & Maheswari, M. (2010). An integrated treatment system for
+
+683
+
+coffee processing wastewater using anaerobic and aerobic process. Ecological
+
+684
+
+Engineering, 36(12), 1686-1690.
+
+685
+
+Shi, W.-K., Wang, J., Chen, F.-S., & Zhang, X.-Y. (2019). Effect of Issatchenkia terricola and
+
+687
+
+Pichia kudriavzevii on wine flavor and quality through simultaneous and sequential co-
+
+688
+
+fermentation with Saccharomyces cerevisiae. LWT-Food Science and Technology, 116,
+
+689
+
+108477.
+
+-p
+
+ro
+
+of
+
+686
+
+693
+694
+
+lP
+
+Fermentations (pp. 368-423). CRC Press Boca Raton, FL, USA.
+
+na
+
+692
+
+Silva, C. (2014). Microbial activity during coffee fermentation. In Cocoa and Coffee
+
+Silva, C., Batista, L. R., Abreu, L. M., Dias, E. S., & Schwan, R. F. (2008). Succession of
+
+ur
+
+691
+
+re
+
+690
+
+bacterial and fungal communities during natural coffee (Coffea arabica) fermentation.
+
+696
+
+Food Microbiology, 25(8), 951-957.
+
+Jo
+
+695
+
+697
+698
+
+Silva, C., Vilela, D. M., de Souza Cordeiro, C., Duarte, W. F., Dias, D. R., & Schwan, R. F.
+
+699
+
+(2013). Evaluation of a potential starter culture for enhance quality of coffee
+
+700
+
+fermentation. World Journal of Microbiology and Biotechnology, 29(2), 235-247.
+
+701
+702
+703
+
+Simoes, T., Mira, N. P., Fernandes, A. R., & Sá-Correia, I. (2006). The SPI1 gene, encoding a
+glycosylphosphatidylinositol-anchored cell wall protein, plays a prominent role in the
+32
+
+704
+
+development of yeast resistance to lipophilic weak-acid food preservatives. Applied and
+
+705
+
+Environmental Microbiology, 72(11), 7168-7175.
+
+706
+707
+708
+
+Speck, M. L. (1984). Compendium of methods for the microbiological examination of foods.
+American Public Health Association.
+
+of
+
+709
+
+Swiegers, J. H., Bartowsky, E. J., Henschke, P. A., & Pretorius, I. S. (2005). Yeast and bacterial
+
+711
+
+modulation of wine aroma and flavour. Australian Journal of Grape and Wine Research,
+
+712
+
+11(2), 139-173.
+
+re
+
+-p
+
+ro
+
+710
+
+715
+
+Tamang, J. P., & Fleet, G. H. (2009). Yeasts diversity in fermented foods and beverages. In
+Yeast Biotechnology: Diversity and Applications (pp. 169-198). Springer.
+
+na
+
+714
+
+lP
+
+713
+
+Verheyen, C., Albrecht, A., Elgeti, D., Jekle, M., & Becker, T. (2015). Impact of gas formation
+
+Jo
+
+717
+
+ur
+
+716
+
+718
+
+kinetics on dough development and bread quality. Food Research International, 76, 860-
+
+719
+
+866.
+
+720
+721
+
+Vilela-Moura, A., Schuller, D., Mendes-Faia, A., Silva, R. D., Chaves, S. R., Sousa, M. J., &
+
+722
+
+Côrte-Real, M. (2011). The impact of acetate metabolism on yeast fermentative
+
+723
+
+performance and wine quality: reduction of volatile acidity of grape musts and wines.
+
+724
+
+Applied Microbiology and Biotechnology, 89(2), 271-280.
+
+725
+33
+
+726
+
+Vilela, D. M., Pereira, G. V. d. M., Silva, C. F., Batista, L. R., & Schwan, R. F. (2010).
+
+727
+
+Molecular ecology and polyphasic characterization of the microbiota associated with
+
+728
+
+semi-dry processed coffee (Coffea arabica L.). Food Microbiology, 27(8), 1128-1135.
+
+729
+
+Webb, A. D., Kepner, R. E., & Galetto, W. G. (1964). Comparison of the aromas of flor sherry,
+
+731
+
+baked sherry, and submerged-culture sherry. American Journal of Enology and
+
+732
+
+Viticulture, 15(1), 1-10.
+
+ro
+
+of
+
+730
+
+Yeretzian, C., Jordan, A., Badoud, R., & Lindinger, W. (2002). From the green bean to the cup
+
+re
+
+734
+
+-p
+
+733
+
+of coffee: investigating coffee roasting by on-line monitoring of volatiles. European
+
+736
+
+Food Research and Technology, 214(2), 92-104.
+
+na
+
+737
+
+lP
+
+735
+
+Yu, A.-N., & Zhang, A.-D. (2010). The effect of pH on the formation of aroma compounds
+
+739
+
+produced by heating a model system containing L-ascorbic acid with L-threonine/L-
+
+740
+
+serine. Food Chemistry, 119(1), 214-219.
+
+Jo
+
+ur
+
+738
+
+741
+742
+
+Zheng, X., Li, K., Shi, X., Ni, Y., Li, B., & Zhuge, B. (2018). Potential characterization of yeasts
+
+743
+
+isolated from Kazak artisanal cheese to produce flavoring compounds.
+
+744
+
+MicrobiologyOpen, 7(1), e00533.
+
+745
+
+34
+
+746
+
+Figure caption
+
+747
+
+Figure 1. Changes in pH values (a), and yeast species
+
+748
+
+fermentations. Hanseniaspora uvarum (
+
+749
+
+Candida railenensis (
+
+750
+
+the means of triplicate analyses with ± 0.03 for pH values and ± 0.05 CFU/ml for yeat
+
+751
+
+populations.
+
+growth rates (b) during SCM
+
+), Pichia kudriavzevii (
+
+), Wickerhamomyces anomalus (
+
+of
+
+), C. xylopsoci (
+
+), P. fermentans (
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+752
+
+35
+
+),
+
+). Data are
+
+Table 1 Growth and survival of yeast isolates under individual and combined fermentation
+
+Y2
+
+Y3
+
+Y4
+
+Y5
+
+Y6
+
+pH 6
+
++
+
++
+
++
+
++
+
++
+
++
+
+pH 4
+
++
+
++
+
++
+
++
+
++
+
++
+
+pH 2
+
+1/5#
+
+2/5
+
+1/5
+
+-
+
+-
+
+-
+
+Ethanol (10%)
+
++
+
++
+
++
+
++
+
+3/5
+
+2/4
+
+Ethanol (8%)
+
++
+
++
+
++
+
++
+
++
+
++
+
+Ethanol (4%)
+
++
+
++
+
++
+
++
+
++
+
++
+
+Ethanol (2%)
+
++
+
++
+
++
+
++
+
++
+
++
+
+Glucose (50%)
+
+2/5
+
+2/5
+
+1/5
+
+-
+
+-
+
+-
+
+Glucose (25%)
+
++
+
++
+
++
+
++
+
++
+
++
+
+-p
+
+re
+
+Growth at
+
+Glucose (15%)
+
+of
+
+Y1*
+
+ro
+
+stress conditions
+
++
+
++
+
++
+
++
+
++
+
++
+
+3/5
+
+2/5
+
+2/5
+
+-
+
+-
+
+-
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+1/5
+
+-
+
+-
+
+-
+
++
+
++
+
++
+
++
+
++
+
+3/5
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Acetic acid (3%)
+
+3/5
+
+1/5
+
+-
+
+4/5
+
+-
+
+-
+
+Acetic acid (2%)
+
++
+
+3/5
+
+1/5
+
++
+
+1/5
+
+2/5
+
+Acetic acid (1%)
+
++
+
++
+
++
+
++
+
++
+
+-
+
+Combined stresses
+
++
+
++
+
+1/5
+
+1/5
+
+-
+
+-
+
+lP
+
+Fructose (50%)
+
+40 °C
+35 °C
+
+Jo
+
+30 °C
+
+ur
+
+Fructose (15%)
+
+na
+
+Fructose (25%)
+
+25 °C
+
+*Y1 Hanseniaspora uvarum; Y2 Pichia kudriavzevii; Y3 P. fermentans; Y4 Candida
+railensis; Y5 C. xylopsoci; Y6 Wickerhamomyces anomalus.
++, all isolates showed positive growth; −, all isolates showed negative growth; #, figures
+indicate number of isolates that showed positive growth /number of isolates tested,
+Combined stresses: ethanol 8%, pH 4, acetic acid 2%, glucose/fructose 25%, 37 °C. Values
+are means of triplicate.
+1
+
+Table 2 Production of pectinase, cellulase, amylase and protease by yeast species on plate
+assays
+Enzymes
+
+Y1
+
+Y2
+
+Y3
+
+Y4
+
+Y5
+
+Y6
+
+Protease
+
+++ (5)
+
++ (4)
+
+-
+
+-
+
++++ (4)
+
+++++
+(5)
+
++++ (5)
+
++ (4)
+
+-
+
+-
+
++ (2)
+
++++ (5)
+
+Amylase
+
++++ (5)
+
+++ (4)
+
+++
+
++ (5)
+
++++ (5)
+
+++++ (5)
+
+-
+
++ (5)
+
++ (1)
+
+ro
+
+++++(5)
+
+-p
+
+Pectinase
+
+++++
+
+(4)
+
+of
+
+Cellulase
+
+++ (2)
+
+(5)
+
+re
+
+++++ high enzyme activity (hydrolysis zone >5 mm); +++ good enzyme activity
+
+lP
+
+(hydrolysis zone 3-5 mm); ++ average enzyme activity (hydrolysis zone 2-3 mm); + low
+
+na
+
+enzyme activity (no or 1-2 mm hydrolysis zone); − no enzyme activity (no hydrolysis
+halos). Data in parentheses indicate the number of isolates giving reaction. Abbreviations;
+
+ur
+
+Y1 Hanseniaspora uvarum; Y2 Pichia kudriavzevii; Y3 P. fermentans; Y4 Candida
+
+Jo
+
+railensis; Y5 C. xylopsoci; Y6 Wickerhamomyces anomalus.
+
+2
+
+Table 3 Changes in the concentrations of non-volatile metabolites during fermentation of
+different yeasts with synthetic coffee pulp extraction medium (SCM).
+Y1*
+
+Y2
+
+Y3
+
+Y4
+
+Y5
+
+Y6
+
+Glucose
+
+16.90a
+
+NDd
+
+3.52b
+
+3.10b
+
+NDd
+
+0.06c
+
+NDd
+
+Fructose
+
+13.40a
+
+4.71c
+
+NDe
+
+2.30d
+
+7.12b
+
+4.56c
+
+6.23b
+
+Citric
+
+4.01a
+
+0.03b
+
+0.05b
+
+0.03b
+
+0.06b
+
+0.03b
+
+0.06b
+
+Gluconic acid
+
+NDb
+
+NDb
+
+0.13a
+
+NDb
+
+0.17a
+
+0.17a
+
+NDb
+
+Pyruvic acid
+
+NDb
+
+NDb
+
+0.01a
+
+NDb
+
+0.02a
+
+0.02a
+
+0.03a
+
+Succinic acid
+
+0.06b
+
+0.04b
+
+0.16a
+
+0.03b
+
+0.18a
+
+0.16a
+
+NDc
+
+Fumaric acid
+
+NDb
+
+NDb
+
+NDb
+
+NDb
+
+0.01a
+
+NDb
+
+NDb
+
+Glycerol
+
+NDb
+
+0.13a
+
+0.12a
+
+0.13a
+
+0.15a
+
+0.15a
+
+of
+
+Initial
+
+re
+
+-p
+
+ro
+
+Comp. (g/l)
+
+lP
+
+0.14a
+
+na
+
+Values are means of three replicates. Data in each row with different lower-case letters (a–
+e) indicate significant differences among the yeast species (p<0.05). Abbreviations: Y1
+
+ur
+
+Hanseniaspora uvarum; Y2 Pichia kudriavzevii; Y3 Pichia fermentans; Y4 Candida
+
+Jo
+
+railensis; Y5 Candida xylopsoci; Y6 Wickerhamomyces anomalus, Comp. compounds; ND
+not detected.
+
+3
+
+m/z
+
+LRI
+
+Sensory descriptors*
+
+Identification method
+
+Acid
+
+43
+
+1458
+
+Vinegar, pungent
+
+L, MS, ST
+
+Ethanol
+
+Alcohol
+
+45
+
+948
+
+Isoamyl alcohol
+
+Alcohol
+
+3-Methyl-2-buten-1-ol
+
+Alcohol
+
+1-Nonanol
+
+Alcohol
+
+2-Phenylethyl alcohol
+
+Alcohol
+
+Acetic acid
+
+ro
+o
+
+Volatiles
+
+f
+
+Functional group
+
+re
+-p
+
+Table 4 Analytical parameters for target volatiles in coffee beans
+
+Alcoholic
+
+L, MS, ST
+
+1226
+
+Banana and pear
+
+L, MS, ST
+
+71
+
+1330
+
+Fruity
+
+L, MS
+
+1652
+
+Floral
+
+L, MS
+
+91
+
+1933
+
+Floral, fruity
+
+L, MS, ST
+
+44
+
+701
+
+Fruity, pungent
+
+L, MS, ST
+
+Aldehyde
+
+44
+
+921
+
+Coffee-like
+
+L, MS, ST
+
+2,2-dimethyl hexanal
+
+Aldehyde
+
+57
+
+1456
+
+__
+
+L, MS
+
+Benzaldehyde
+
+Aldehyde
+
+77
+
+1534
+
+Fatty almond
+
+L, MS, ST
+
+Ethyl acetate
+
+Ester
+
+43
+
+893
+
+Fruity
+
+L, MS, ST
+
+Methyl butanoate
+
+Ester
+
+74
+
+992
+
+Fruity
+
+L, MS, ST
+
+lP
+
+55
+
+Acetaldehyde
+
+Aldehyde
+
+2-Methyl
+
+Jo
+
+ur
+
+na
+
+70
+
+Butanal
+
+4
+
+2-Propanone
+
+Ketone
+
+86
+
+2-Methoxy-4-vinylphenol
+
+Phenol
+
+135
+
+1477
+2192
+
+Fruity
+
+L, MS
+
+Clove
+
+L, MS, ST
+
+ro
+o
+
+f
+
+RT, retention time; LRI = linear retention index; Identification method (MS = mass spectrum compared to NIST database, L = literature LRI;
+ST = standard compound). literature LRI and Sensory descriptors are taken from (Czerny & Grosch, 2000; Febrianto et al., 2016; Flament et
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+-p
+
+al.; Liu et al., 2019; Mottram, 2005; G. V. d. M. Pereira et al., 2014; Sunarharum et al., 2014).
+
+5
+
+Table 5 Changes in the volatile concentrations in fermentation of synthetic coffee pulp extraction medium (SCM) with different yeasts
+
+Y5
+
+Y6
+
+404.0c
+
+1,298.2a
+
+673.1c
+
+998.7b
+
+458.3c
+
+404.0c
+
+1,298.2a
+
+673.1c
+
+998.7b
+
+37,347.5a
+
+37,719.4a
+
+27,831.8c
+
+35,632.4b
+
+31,234.3b
+
+10,848.3a
+
+11,020.6a
+
+5455.8b
+
+10844.4a
+
+4,377.3b
+
+na
+
+Initial (0 h)
+
+Y1*
+
+Y2
+
+Acetic acid
+
+136.9d
+
+1,293.7a
+
+458.3c
+
+Total acids
+
+136.9d
+
+1,293.7a
+
+Ethanol
+
+17.1d
+
+3,3640.4b
+
+Isoamyl alcohol
+
+1.8c
+
+4,944.5b
+
+2-Butanol, 3-methyl-
+
+4.0b
+
+14.1a
+
+14.2a
+
+13.7a
+
+19.4a
+
+15.8a
+
+12.7a
+
+1-Nonanol
+
+2.8e
+
+100.4a
+
+31.1c
+
+41.2c
+
+10.9d
+
+15.1d
+
+81.4b
+
+Phenylethyl Alcohol
+
+22.8d
+
+3,658.8c
+
+9,387.0a
+
+9,117.0a
+
+2,838.9c
+
+7,881.1b
+
+2,507.8c
+
+Total alcohols
+
+48.5e
+
+42,358.2c
+
+57,628.1a
+
+57,911.9a
+
+36,156.8d
+
+54,388.8b
+
+38,213.6d
+
+Acetaldehyde
+
+7.3d
+
+573.2c
+
+1,775.0a
+
+2,176.3a
+
+1,304.7b
+
+1,091.0b
+
+347.3c
+
+3-Methylbutanal
+
+8.9a
+
+18.6a
+
+2.4a
+
+4.5a
+
+15.7a
+
+9.1a
+
+11.2a
+
+2,2-Dimethyl hexanal
+
+NDe
+
+72.4a
+
+54.0b
+
+55.7b
+
+9.4d
+
+37.5c
+
+52.8b
+
+Benzaldehyde
+
+77.3a
+
+19.6b
+
+19.2b
+
+13.3b
+
+11.5b
+
+19.5b
+
+18.2b
+
+Y3
+
+ro
+o
+
+re
+-p
+
+lP
+
+Jo
+
+Volatile (µg/l)
+
+f
+
+Y4
+
+ur
+
+Fermentation (25 °C for 36 h)
+
+6
+
+93.4d
+
+683.9c
+
+1,850.6a
+
+2,249.9a
+
+1,341.3b
+
+1,157.2b
+
+429.5c
+
+Ethyl acetate
+
+14.5e
+
+30,968.5b
+
+33,631.2b
+
+32,719.4b
+
+1,278.8d
+
+40,691.4a
+
+26,175.9c
+
+Methyl butanoate
+
+33.7a
+
+13.1b
+
+19.2b
+
+15.9b
+
+14.0b
+
+14.8b
+
+13.1b
+
+Total esters
+
+48.3e
+
+30,981.7b
+
+33,650.5b
+
+32,735.3b
+
+1,292.8d
+
+40,706.2a
+
+26,189.0c
+
+2-Propanone
+
+7.4e
+
+253.7c
+
+2,837.7a
+
+2,977.2a
+
+67.7d
+
+2,073.3b
+
+189.2c
+
+Total ketones
+
+7.4e
+
+253.7c
+
+2,837.7a
+
+2,977.2a
+
+67.7d
+
+2,073.3b
+
+189.2c
+
+4-Vinylguaiacol
+
+3.7b
+
+10.4a
+
+12.0a
+
+10.7a
+
+6.9a
+
+10.9a
+
+9.8a
+
+Total phenols
+
+3.7b
+
+10.4a
+
+12.0a
+
+10.7a
+
+6.9a
+
+10.9a
+
+9.8a
+
+na
+
+lP
+
+re
+-p
+
+ro
+o
+
+f
+
+Total aldehydes
+
+Jo
+
+ur
+
+Data are the means of three replicates at the start and end of fermentations. Mean values in each row with different lower-case letters (a–c)
+indicate significant differences among the yeast species (p<0.05). Abbreviations: Y1 Hanseniaspora uvarum; Y2 Pichia kudriavzevii; Y3 P.
+fermentans; Y4 Candida railensis; Y5 C. xylopsoci; Y6 Wickerhamomyces anomalus. ND not detected.
+
+7
+
+of
+Figure 1 Changes in pH values (a), and yeast species growth rates (b) during SCM
+
+-p
+
+2
+
+ro
+
+1
+
+fermentations. Hanseniaspora uvarum (
+
+4
+
+fermentans
+
+5
+
+Wickerhamomyces anomalus (
+
+6
+
+± 0.03 for pH values and ± 0.05 CFU/ml for yeat populations.
+
+Candida
+
+railenensis
+
+), Pichia kudriavzevii (
+(
+
+),
+
+C.
+
+xylopsoci
+
+), P.
+(
+
+),
+
+). Data are the means of triplicate analyses with
+
+ur
+
+na
+
+lP
+
+),
+
+Jo
+
+7
+
+(
+
+re
+
+3
+
+1
+
+1
+1
+
+2
+
+Highlights
+•
+
+cultures.
+
+3
+4
+
+Six endogenous yeasts isolated from a coffee fermentation were tested as starter
+
+•
+
+Their viability, enzymatic activities and production of desirable volatiles were
+evaluated.
+
+5
+
+•
+
+H. uvarum and P. kudriavzevii had high viability and pectinolytic activities.
+
+7
+
+•
+
+Both yeasts produced high amounts of organic acids, alcohols, esters and aldehydes.
+
+8
+
+•
+
+Both yeasts had the potential to be developed into starter cultures for coffee
+
+ro
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+fermentation.
+
+Jo
+
+9
+
+of
+
+6
+
+1
+
+1
+
+Conflict of Interest:
+
+2
+
+HE declares that he has no conflict of interest. JC declares that he has no conflict of
+
+3
+
+interest. DF declares that he has no conflict of interest. JZ declares that he has no conflict
+
+4
+
+of interest.
+
+Jo
+
+ur
+
+na
+
+lP
+
+re
+
+-p
+
+ro
+
+of
+
+5
+
+1
+
+

@@ -1,0 +1,660 @@
+Y
+Yeasts
+R Tofalo and G Suzzi, University of Teramo, Mosciano Sant’Angelo (TE), Italy
+ã 2016 Elsevier Ltd. All rights reserved.
+
+General Consideration and Taxonomy
+The association of yeasts with human society was probably
+initiated many thousands of years ago. Evidence for the production of fermented beverages by yeasts, mostly Saccharomyces
+cerevisiae, dates back as far as 7000 BC, which is documented
+by several archaeological sites in China, Iran, and Egypt.
+Ancient humans unwittingly utilized yeasts to produce either
+alcohol-containing beverages or carbon dioxide for leavening.
+These practices and their associated yeasts spread throughout
+the world, inducing a particular selection, that is,
+‘domestication,’ in particular for some foods such as bread,
+beer, and wine. However, the deliberate addition and commercial use of yeasts started only at the end of the nineteenth
+century after isolation and identification by Pasteur. Today,
+many species of yeasts contribute to the production of a myriad
+of commodities other than bread, beer, and beverages. Foodgrade yeasts are now used as sources of high-nutritional-value
+proteins, enzymes, and vitamins, and processing aids are
+derived from them. With respect to foods and health foods,
+yeasts are utilized as nutritional supplement, food additives,
+conditioners, and flavoring agents and as starter cultures for
+producing specific foods or for their probiotic activity. Antifungal activity is exhibited by some yeasts that can be considered as biocontrol agents of food spoilage. Unfortunately,
+there are some drawbacks to yeast activity too, because some
+can cause spoilage of many commodities and may lead to
+pathogenic infections in immunocompromised persons or
+lead to allergic reactions. Table 1 reports the main roles of
+yeasts in food production and in the health of consumers.
+The name yeast derives from the German word ‘gift,’ which
+describes the foam formed during beer fermentation. Yeast can
+be also described using the French word ‘levure,’ which indicates the role of yeasts inducing bread dough to rise. Yeasts are
+eukaryotic microorganisms whose vegetative growth results
+predominantly from budding or fission and that do not form
+their sexual states within or upon a fruiting body. Yeasts have
+two valid names: the first referring to the sexual state (teleomorph) and the second one to the asexual state (anamorph).
+The rules of yeast taxonomy are established in the
+‘International Code of Nomenclature for algae, fungi, and
+plants,’ which was adopted at the 18 as apex International
+Botanical Congress in Melbourne, Australia. The 5 as apex
+edition of ‘The Yeasts: A Taxonomic Study’ in 2011 describes
+1500 yeast species; but this number is increasing. The
+
+Encyclopedia of Food and Health
+
+difference between the number of described species and that
+of new species is due to the fact that some ecological niches are
+far from being completely investigated and to the presence of
+cryptic species, which still have not been carefully characterized. Yeast taxonomy is based on biochemistry and molecular
+biology and is rapidly evolving. Criteria for differentiating
+genera have focussed on spore and cell morphology, type of
+conidiogenesis, life cycles, biochemical features, type of coenzyme Q, and G þ C content. However, DNA hybridization or
+reassociation contributes to the establishment of relationships
+among yeast species. Two species are considered conspecific if
+they share more than 70% of DNA sequence homology, but
+this method does not allow assessing phylogenetic relationships between yeasts. Recently, the application of rapid, easy,
+and reliable molecular techniques allowed describing new
+phylogenetic relationships. As a result, the number of separate
+species groups was reduced and the diversity within them was
+increased. The most diffused molecular methods used in the
+identification of yeast species are based on the variability of the
+ribosomal genes 5.8S, 18S, and 26S because they show a low
+intraspecific polymorphism and a high interspecific variability.
+The first marker used for separation of the hemiascomycetes
+from the filamentous ascomycetes was the 18S rRNA gene.
+Subsequently, the D1/D2 variable region of the 26S rRNA
+(600 bp) has been adopted to differentiate basidiomycetes,
+hemiascomycetes, and filamentous euascomycetes. The availability of whole-genome sequences of yeasts revolutionized the
+taxonomy leading to the description of new markers for yeast
+phylogeny. Traditionally, the main genera can be divided into
+two groups: ascomycetes and basidiomycetes. However, budding and fission ascomycetes can now also be differentiated
+from each other and from euascomycetes by molecular
+methods, with the only exception of genus Eramascus (which
+does not form budding cells). A similar approach is applied to
+separate basidiomycetes from mushrooms and from taxa forming fruiting bodies.
+
+The Yeast Cell and Its Organelles
+Yeast cells possess ultrastructural features typical of other
+eukaryotic cells, with the presence of membrane-bound organelles (Figure 1). Often, the words ‘yeast’ and ‘S. cerevisiae’ are
+used as synonyms. Saccharomyces means ‘sugar fungus’ in
+Greek. Yeast cells exhibit a great diversity with respect to cell
+
+http://dx.doi.org/10.1016/B978-0-12-384947-2.00762-5
+
+593
+
+594
+
+Yeasts
+
+Table 1
+
+Main activities of yeasts in food production and in the human health
+
+Activity
+
+Yeast species
+
+Effect
+
+Food and
+beverage
+fermentation
+
+Fermentation, flavor and color development, rheology
+
+Food additive
+production
+
+Candida milleri, Debaryomyces hansenii, Galactomyces candidus,
+Hanseniaspora uvarum, Kluyveromyces marxianus, K. lactis,
+Schizosaccharomyces pombe, S. cerevisiae, Kazachstania exigua,
+Torulaspora delbrueckii, Zygosaccharomyces rouxii, Yarrowia
+lipolytica
+Lindnera jadinii, K. marxianus, S. cerevisiae, Y. lipolytica, Rhodotorula
+glutinis, Sporidiobolus salmonicolor
+
+Probiotic
+
+Saccharomyces cerevisiae var. boulardii
+
+Food spoilage
+
+Brettanomyces bruxellensis, Pichia kudriavzevii, C. parapsilosis, D.
+hansenii, H. uvarum, Pichia membranaefaciens, Rhodotorula
+mucilaginosa, Rhodosporidium toruloides, S. cerevisiae, S. pombe,
+Kazachstania exigua, Zygosaccharomyces bailii, Z. bisporus, and Z.
+rouxii
+Different yeast species
+
+Allergenic
+
+Pathogenic
+
+Candida spp., Filobasidiella neoformans, P. kudriavzevii, W.
+anomalus, K. marxianus, S. cerevisiae, and Rhodotorula spp.
+
+Release of B vitamins, proteins, peptides, amino acids,
+minerals, antioxidants, aromas, colorants, glutamic
+acids, nucleotides, vanillin, citronellol, linalool, geraniol,
+decalactones, b-glucans
+Effect on enteric bacterial pathogen, maintenance of
+epithelial barrier
+Integrity, anti-inflammatory effects, effects on immune
+response, trophic effects on intestinal mucosa, clinical
+effects on diarrheal diseases
+Blown cans of soft drinks, cloudy refermented wine, pink or
+red slime dripping from refrigerated meat, white yeast
+colonies on food, tainted fruit juices, off-odors, and offtastes
+Food intolerance, migraines, respiratory problems, chronic
+fatigue syndrome, dysfunctional gut syndrome, irritable
+bowel syndrome
+Mucocutaneous, cutaneous, respiratory, central nervous,
+systemic, and organ infections
+
+Nomenclature is in agreement with the yeasts: a taxonomic study (5 as apex edition).
+
+Cytoplasm
+Bud
+
+Plasma membrane
+Endoplasmic
+reticulum
+Vacuole
+Mitochondria
+Nucleus
+Peroxisomes
+Periplasm
+
+Golgi apparatus
+Cell wall
+
+Figure 1 Yeast cell and its main organelles.
+
+size, shape, and color. Cell size may be 2–3 mm in length up to
+20–50 mm with a diameter of 1–10 mm. The yeast cell wall is a
+rigid structure about 100–200 nm thick and constituting about
+25% of the total dry mass of the cell. The macromolecules that
+compose the wall are highly glycosylated glycoproteins (mannoproteins), two types of b-glucans, and chitin. The overall
+composition can vary considerably in relation with the growth
+conditions. The surface plasma membrane of yeast is a lipid
+bilayer, which harbors proteins serving as a cytoskeleton and
+enzymes for cell wall synthesis, signal transduction, and transport. The lipid components comprise mainly phospholipids
+and sterols (principally ergosterol and zymosterol). The periplasmic space is a region external to the plasma membrane
+
+(35–45 Å) that contains proteins unable to permeate the cell
+wall, such as invertase and phosphatase.
+The yeast cytoplasm is an aqueous, slightly acidic colloidal
+fluid that contains proteins, glycogen, other soluble macromolecules and larger macromolecular entities such as ribosomes, proteasomes, and lipid particles. Many essential
+functions for cellular integrity are localized in the cytoplasm.
+The cytoskeleton of yeast cells comprises microtubules and
+microfilaments. In the center of the cell or slightly
+excentrically, the nuclear structure is located, which is surrounded by a double membrane that separates the nucleoplasm from the cytoplasm. The outer nuclear membrane is
+contiguous with the membrane of the endoplasmic reticulum.
+
+Yeasts
+
+The nucleolus within the nucleus is the specialized subnuclear
+compartment for ribosome synthesis. The nuclear chromosomes are in the nucleoplasm and packed into a chromatin
+structure; the genome sizes of yeasts are relatively constant and
+generally range from 10 to 15 Mb, whereas the number and
+sizes of the single chromosomes vary among species. Yeast cell
+contains different organelles surrounded by individual membranes, mostly the endoplasmic reticulum, the Golgi
+apparatus, and transport vesicles that are necessary for the
+manufacturing and trafficking of proteins, vacuoles,
+mitochondria, and microbodies. Structurally, the endoplasmic
+reticulum is a complex network of membranes, part of which is
+connected to the nucleus. The endoplasmic reticulum membrane forms a continuous sheet enclosing a single internal
+space called the endoplasmic reticulum lumen, separating it
+from the cytosol. It is involved in the selective transfer of
+secretory proteins between the endoplasmic reticulum and
+the Golgi apparatus. It also plays a key role in lipid and protein
+biosynthesis; in fact, it is the site of production of the transmembrane proteins and lipids for most of the cell’s organelles
+(e.g., the endoplasmic reticulum itself, the Golgi apparatus,
+lysosomes, and endosomes). The Golgi apparatus is composed
+of stapled stacks of membranes called cisternae. Transport
+vesicles, received from the endoplasmic reticulum, are further
+processed and sorted for transport, for instance, releasing secretory proteins in the growth medium. Vacuoles are organelles
+involved in intracellular protein trafficking, receiving proteins
+from differing routes. In the vacuoles, there are degradative
+processes catalyzed by different hydrolases, such as phosphatases, phospholipases, lipases, nucleases, endopeptidases, aminopeptidases, and carboxypeptidases. Vacuoles also are
+involved in other physiological functions, such as the storage
+of amino acids, polyphosphates, and some metal cations (Kþ,
+Mg2þ, and Ca2þ). Yeast mitochondria resemble the organelles
+found in higher eukaryotes, surrounded by an outer membrane and an inner membrane, the two of which embody an
+intermediate space that contains the mitochondrial matrix. If
+sufficient oxygen and carbon sources are supplied, few and
+large mitochondria carry out respiration and synthesis of
+ATP, whereas under anaerobic conditions, they reduce their
+size and activity. Other functions are the synthesis and desaturation of fatty acids, biosynthesis of ergosterol, adaptation to
+stress, mobilization of glycogen, and synthesis of enzymes.
+Microbodies (peroxisomes and glyoxysomes) consist of a proteinaceous matrix, surrounded by a single membrane that is
+involved in the primary metabolism of various carbon and
+organic nitrogen sources, such as ethanol, methanol, primary
+amines, n-alkanes, and fatty acids (oleic acid).
+
+Metabolism
+Yeasts are heterotrophic organisms in which the energy and
+carbon metabolism are interconnected and anabolism is
+coupled to catabolism. Yeasts preferentially metabolize sugars
+that are converted principally to ethanol and carbon dioxide,
+but they can utilize different carbon sources, such as amino
+and organic acids, polyols, alcohols, fatty acids, and other
+compounds, depending on the species. According to the
+
+595
+
+process utilized to generate energy (respiration and/or fermentation), they can be classified as:
+ nonfermentative yeasts with only a respiratory metabolism;
+ obligate-fermentative yeasts, only capable of metabolizing
+glucose through alcoholic fermentation;
+ facultative-fermentative yeasts, possessing either a fully
+respiratory or a fermentative metabolism or even both in a
+mixed metabolism depending on the growth conditions,
+the type and concentration of the carbon source, and/or
+oxygen availability.
+The main nitrogen substrates used by yeasts during growth in
+food are inorganic ammonium compounds and free amino
+acids. Decarboxylation of amino acids leads to the production
+of amines, whereas metabolism of arginine and citrulline gives
+urea, precursor of the potential carcinogen ethyl carbamate.
+Whereas yeasts produce organic acids, with succinic and acetic
+acids being the main acids produced during sugar fermentation, some yeast species can use acetic and lactic acids and
+weak monocarboxylic acids under starvation conditions.
+Consumption of organic acids by yeasts may thus create conditions favorable for certain spoilage microorganisms. In
+cheese, lactate catabolism by some species such as Debaryomyces hansenii, Kluyveromyces lactis, and Kluyveromyces marxianus induces an increase of pH at the cheese surface, having a
+key role during ripening.
+Sulfates are utilized to produce volatile sulfur compounds
+such as hydrogen sulfide, sulfur dioxide, and at lesser amounts
+mercaptans, thioesters, and other organic sulfites. Yeasts also
+show proteolytic and lipolytic activities depending on the species and strain.
+
+Yeasts in Fermented Food and Beverages
+Yeasts are undoubtedly one of the most important groups of
+microorganisms that are exploited for the elaboration of
+fermented foods. Fermentation is one of the oldest and most
+economical methods of producing and preserving food, providing also a natural way to reduce the volume of the material
+to be transported, to destroy undesirable components, to
+enhance the nutritive value and appearance of the food, to
+reduce the energy required for cooking, and to make a safer
+product. In these processes, mixed cultures of yeasts, bacteria,
+and fungi are active, participating either in parallel or in a
+sequential manner with a changing dominant microbiota
+during the course of the fermentation. Some yeast species are
+included in starter cultures for the production of specific types
+of fermented foods like cheese, bread, sourdoughs, fermented
+meats, and fermented vegetable products. Common fermenting yeasts, often selected as starter cultures, belong to the
+Saccharomyces genus, which results in alcoholic fermentation.
+
+Yeasts in Dairy Products
+Yeasts play an important role in flavor and texture development during the production of fermented milks, such as kefir
+and koumiss, and the ripening of cheese. They are used as
+secondary starter cultures to enhance the aroma or improve
+
+596
+
+Yeasts
+
+the growth of lactic acid bacteria or brevibacteria. The most
+important and dominant species, besides S. cerevisiae, are
+D. hansenii, Yarrowia lipolytica, K. marxianus, and Galactomyces
+candidus.
+
+S. pastorianus (synonym S. carlsbergensis)). More than a thousand single different starter cultures of brewing yeasts have
+been described, varying in their technological properties,
+such as aroma production, rate and degree of attenuation,
+flocculation, oxygen requirement, and reproduction.
+
+Yeasts in Fermented Meat Products
+Studies on the presence and role of yeasts in fermented meat
+product are limited. The high salt concentration and the low
+water activity that are typical of fermented sausages favor the
+growth of Debaryomyces species, mostly D. hansenii, Y. lipolytica,
+and various Candida species, contributing to the development
+of color (by removing the oxygen) and flavor (by degrading
+peroxides and via lipolytic and proteolytic activities). Hydrolytic and oxidative changes carried out by yeasts during ripening produce the distinctive flavors of these products.
+
+Cash Crops
+Cocoa beans and coffee beans must undergo processes that
+involve the action of yeasts of various species of Saccharomyces, Hanseniaspora, Kluyveromyces, Saccharomycopsis, Candida,
+and Pichia. Cocoa beans have to be fermented to drain the
+pulp, stabilize the beans, and generate precursors for chocolate flavor, whereas coffee beans are mostly fermented to
+remove the pulp and the mucilaginous materials from the
+seeds.
+
+Fermentation of Cereal Products
+Cereals, as a global staple food, are often fermented to
+improve shelf life and nutritional properties in comparison
+with the raw material. Fermented cereal products are produced from different cereal substrates and a number of them
+consist of a combination with legumes, thus improving the
+overall protein quality of the fermented product. Fermentation improves the nutritional value, sensory properties, and
+functional qualities. Besides the global importance of (sourdough) bread, a wide variety of different products come from
+Africa and Asia, as is the case for koko, banku, panjabi waries,
+papadams, jalebis, idli, dosa, dhokla, kishk, tarhana, ogi,
+kenkey, pozol, injera, and kisra. The microbiota responsible
+for the fermentation is in many cases indigenous and includes
+lactic acid bacteria, yeasts, and fungi. Saccharomyces cerevisiae
+strains are often found in the fermentation of various cereal
+products. Other yeast species frequently detected are Kazachstania exigua, Candida milleri, Torulaspora delbrueckii, and
+Pichia spp. The yeast species diversity in fermented cereal
+products, as well as their numbers, is affected by the degree
+of tolerance to the organic acids produced by the lactic acid
+bacteria.
+
+Fermented Beverages
+As regards the fermented beverages produced by musts
+obtained from fruits (grape, cider, mixed tropical fruits, etc.),
+the natural fermentation is started by some non-Saccharomyces
+yeasts, such as species of Hanseniaspora uvarum, Candida
+stellata, Wickerhamomyces anomalus, Metschnikowia pulcherrima,
+and other yeasts. After 1 or 2 days, species of Saccharomyces,
+in particular S. cerevisiae, develop and dominate fermentation
+by forming high amounts of ethanol. During fermentation,
+many compounds are produced or metabolized by yeasts
+contributing to the aroma of beverages. However, during
+must fermentation, yeasts can produce off-flavors too, as is
+the case for Brettanomyces/Dekkera species that are reported to
+be involved in wine spoilage. Nowadays, selected starter
+cultures of S. cerevisiae are generally used to carry out must
+fermentation. In beer fermentation, two types of Saccharomyces
+yeasts are involved, that is, ale yeasts (top-fermenting yeasts,
+S. cerevisiae) and lager yeasts (bottom-fermenting yeasts,
+
+Yeast for Health
+Yeast as Probiotics and Nutraceuticals
+The World Health Organization officially defined probiotics as
+“live microorganisms which, when administered in adequate
+amounts, confer a health benefit on the host.” Most probiotic
+microorganisms are bacteria, usually including selected strains
+of certain genera of Lactobacillus spp. or Bifidobacterium spp. In
+recent years, the interest in using yeasts as probiotics increased,
+not only for human health but also to improve growth and
+health of animals and birds, in particular in aquaculture or
+with respect to industry cattle, pigs, and poultry.
+Yeasts are able to face the stresses of the gastrointestinal tract,
+such as enzymes, bile salts, organic acids, and considerable variations of pH and temperature. The first species described as an
+effective biotherapeutic agent has been S. cerevisiae var. boulardii,
+isolated from lychee fruit in Indochina in the 1920s. This yeast is
+commonly used as a probiotic in different countries, as both a
+preventive agent and a therapeutic agent for diarrhea and other
+gastrointestinal disorders caused by the administration of antimicrobial agents. S. boulardii has many properties, such as survival
+transit capacity through the gastrointestinal tract, among other
+reasons because its temperature optimum is 37  C, both in vitro
+and in vivo. Moreover, the species exerts inhibitory effects toward
+various enteric pathogens as its cell wall shows binding capacity
+to enterohemorrhagic Escherichia coli and Salmonella enterica serovar Typhimurium. Additionally, the yeast inhibits adherence of
+Clostridium difficile. Other probiotic beneficial effects on human
+health associated to the administration of S. boulardii include:
+ maintenance of epithelial barrier integrity and permeability,
+ restoration of the tight-junction structure,
+ reduction of inflammation during bacterial infection by
+interference with host cell signaling pathways,
+ stimulation of the host cell immunity in response to pathogenic infections,
+ prevention of reaction to food antigens in particular when
+mucosal permeability is increased.
+Other species, such as D. hansenii, T. delbrueckii, K. lactis,
+K. marxianus, and Kazachstania lodderae, have also shown tolerance to passage through the gastrointestinal tract and
+
+Yeasts
+
+inhibition of enteropathogens. Recently, many researchers
+have focussed on the antioxidant ability and cholesterol assimilation of yeasts. Some reports indicated that S. cerevisiae,
+K. lactis, and Pichia kudriavzevii can remove cholesterol in vitro.
+Yeasts can also produce nutraceuticals useful for the development of functional foods and for the protection from cardiovascular disease. The most important compounds seem to
+be the b-glucans, which act as bioactive polysaccharides, and
+bioactive peptides that inhibit angiotensin I-converting
+enzyme activity, reducing peripheral blood pressure and exerting antihypertensive effects in vivo. Only some yeast species,
+that is, K. marxianus and S. cerevisiae, have been shown to
+produce these compounds in fermented milks such as koumiss
+and kefir. Recent studies also indicate that some foodborne
+yeasts (especially D. hansenii and S. cerevisiae) are able to
+reduce the potential genotoxic risk due to mutagenic and genotoxic compounds. A recent study indicated that S. cerevisiae
+and D. hansenii show inhibitory activity against two model
+genotoxins, 4-nitroquinoline-1-oxide and N-methyl-N0 -nitroN-nitrosoguanidine. The antigenotoxic activity is probably due
+to the formation of a complex between genotoxins and thermolabile soluble cellular oligosaccharides (i.e., mannans and
+glucans). Nevertheless, a similar complex may also occur
+between the genotoxins and other compounds derived from
+yeast metabolism such as polyamines, mainly spermidine and
+spermine or the glutathione system.
+These healthy effects appear to be promising features for the
+use of well-characterized yeasts as natural protective agents. In
+addition, yeast cells are also good sources of vitamins (thiamine, pantothenic acid, riboflavin, biotin, folic acid, B6, and
+B12), ergosterol, and coenzyme Q.
+
+Antioxidants
+In the past, yeasts and yeast extracts were used as a source of
+antioxidant compounds to be added to prevent oxidation of
+food products. Now, natural antioxidants, presumed to be safer
+for human, can also be used in nutraceutical applications as
+supplements. Natural antioxidants act by donating hydrogen
+protons to substrates, rendering them nonreactive to reactive
+oxygen species. This involves enzymes such as catalases, superoxide dismutases, glutathione (L-g-glutamyl-L-cysteinylglycine),
+and NADP-dependent dehydrogenases. Several compounds
+involved in antioxidant actions are produced by yeasts and can
+be used to retard oxidative degeneration of fatty substances in
+food and to improve health and well-being in nutraceutical
+supplements. They consist of torularhodin, coenzyme Q, glutathione, hydroxymethyl and hydroxyethyl furanone (2H), tocotrienol, a-tocopherols, and other forms of tocopherols,
+riboflavin (vitamin B2), and derived flavins. Several oxygenated
+carotenoids, selenium-enriched yeast cells, the wine component
+resveratrol, octacosanol, cell wall b-glucans, proteins produced
+in yeasts under oxidative stress, sulfur-containing amino acids,
+and cytochrome C are present at the end of fermentation in the
+products and/or in the yeast biomass.
+
+Single-Cell Proteins
+The use of yeasts for single-cell protein (SCP) production is
+convenient, resulting in nutritional supplements for animal
+
+597
+
+feeds and human foods. In fact, yeast SCP is considered as a
+potential source of proteins, carbohydrates, fats, vitamins,
+minerals, and essential amino acids. SCP for human consumption should be free from nucleic acid as purine bases are
+metabolized to uric acid, a problem for some humans that do
+not possess the enzyme uricase. SCP production has been
+obtained by yeasts cultivated in mixtures of sugars and minerals, such as molasses, starch, cassava, whey products, brewing
+by-products, potato and cellulosic wastes, or other waste
+streams from agricultural and industrial processes. The yeasts
+are washed, thermolyzed and dried, and usually spray-dried
+into a powder. The production of value-added SCP from inexpensive substrates could beneficially contribute to the food
+supply. Whereas for human applications, S. cerevisiae (baker’s
+and brewer’s yeast) is the currently the organism of choice,
+animal feeds rely on Lindnera jadinii.
+
+b-Glucans
+b-Glucans have several beneficial properties and have found a
+variety of uses in human and in veterinary medicine, immunopotentiation, pharmaceutical, cosmetic and chemical
+industries, and food and feed production. Yeast is a good source
+of b-glucans that are present in the cell walls as branch-onbranch molecules containing linear (1,3)-b-glucosyl chains
+joined through (1,6)-linkages. Spray-dried yeast b-glucans are
+useful for food production, as food thickeners, replacers,
+dietary fibers, emulsifiers, and films. Furthermore, yeast
+glucans have important properties as water-holding, fat-binding, and oil-binding characteristics, as well as gelling properties.
+For these reasons, they can also be used in the production of
+sausages and meat products, mayonnaise, and other food
+products, such as dressings, frozen desserts, sauces, yogurts,
+and other fermented milks and soft doughs. They are safe for
+oral application and have a GRAS (generally recognized as safe)
+status.
+
+Allergenic or Pathogenic Yeasts
+Viable populations of a diversity of yeast species present in
+fermented foods (dairy products, fermented and cured meats,
+fruits and fruit salads, table olives, and beer and wine) are
+unknowingly and inadvertently ingested. Unlike bacteria,
+viruses, and some filamentous fungi, yeasts are rarely associated with outbreaks of foodborne gastroenteritis or other
+foodborne infections or intoxications. However, an increase
+of yeast infections is reported, and some yeasts are now
+considered as opportunistic pathogens, such as Candida albicans and Filobasidiella neoformans, which can cause mucocutaneous, cutaneous, respiratory, central nervous, systemic, and
+organ infections. Moreover, other species that are frequently
+found in foods, such as P. kudriavzevii, W. anomalus,
+K. marxianus, S. cerevisiae, and various Rhodotorula species,
+can be potential pathogens. Even S. cerevisiae, intensively
+used in industrial processes, has been described as a pathogen
+in 1958. It displays low virulence against humans, but invasive S. cerevisiae infections have been increasingly common in
+recent decades, having been identified in blood cultures,
+
+598
+
+Yeasts
+
+including those from immunocompetent subjects. Therefore,
+vigilance on yeasts and foodborne diseases is required
+because there is a literature that connects yeast presence in
+foods to the onset of a broad range of allergic and hypersensitive reaction in humans. Indeed, yeasts may cause or
+contribute to food intolerances, migraines, respiratory problems, chronic fatigue syndrome, dysfunctional gut syndrome,
+and irritable bowel syndrome. Generally, these adverse
+reactions could be associated to the yeast cells themselves,
+yeast extracts, or associated metabolites such as sulfur dioxide, proteins, and biogenic amines. The latter, especially histamine, tyramine, phenylethylamine, putrescine, and
+cadaverine, are associated to headaches, hypotension,
+migraines, and digestive disturbances in humans. Although
+the quantity produced is not enough to create health
+concerns, yeasts can thus contribute to the accumulation of
+biogenic amines in fermented foods and beverages.
+
+Yeasts Technological Features
+Aromas
+During fermentation, yeasts produce many aromas. For alcoholic beverages, this involves over 400 different chemical compounds, of which fusel alcohols, fatty acids, and their ester
+represent the main groups. In addition, carbonyl compounds,
+acetals, phenols, hydrocarbons, nitrogen compounds, sulfur
+compounds, lactones, sugars, and a variety of other unclassified compounds are present. Besides, yeasts also contribute to
+the aroma of bread, cheese and other dairy products, fermented meat, cocoa, vanilla, and fermented soy-derived foods.
+
+Colors
+The yeasts have been used as sources of a number of carotenoids for use as food colorants such as astaxanthin,
+b-carotene and g-carotene, lycopene, lutein, torulene,
+torularhodin, and zeaxanthin. For instance, Phaffia rhodozyma and Xanthophyllomyces dendrorhous have been used in
+industrial-scale production of the carotenoid astaxanthin.
+This compound can be used for aquafeed as a colorant
+or as an immunostimulant in food or in poultry, fish, or
+mammalian feed. Other colorants produced by yeast fermentation are riboflavin and caramel colors produced
+from the processing of yeast extracts.
+
+Flavors
+Flavors produced by yeasts, such as yeast extract, autolysates,
+and dried preparations, are commonly used in the food industry as a source of savory accents (roasted, nutty, meaty, and
+other flavors). These flavors can originate from yeast metabolic
+products including alcohols, amino acids and derivatives, carbohydrates and glycosides, fatty acids and their esters, organic
+acids, lactones, and aldehydes. Among the yeast-derived products, yeast extract is often produced from spent brewer’s yeast
+and provided as powders or pastes. Yeast extracts are flavor
+ingredients of which the quality is affected by the specific cell
+composition. Hydrolyzed edible proteins and peptides from
+
+yeasts, which are a good source of the essential amino acid
+L-lysine, are limited in sulfur-containing amino acids, such as
+cystine and methionine, which have to be added. Some extracts
+are also enriched in glutamic acid and nucleotides that function as strong flavor enhancers. Yeast-derived lecithin, inositol,
+glycerol, and glycolipids, recovered from the cell membrane
+lipid extracts or from fermentation broth, can be used as flavors in foodstuffs as emulsifiers and surfactants. Moreover, they
+show additional health benefits so they can also be used as
+food supplements.
+
+Yeast Spoilage
+Food and beverages spoilage by yeasts has been well documented in many recent reviews. Yeasts can cause defects in the final
+products, and problems with hygiene procedures appear upon
+failures in the decontamination procedure, leading to significant economic losses. Generally, yeast spoilage occurs in food
+products characterized by a retarded or inhibited bacterial
+growth, that is, without bacterial competition. Foods that are
+usually subjected to yeast spoilage are characterized by low pH,
+high sugar levels (e.g., more than 10%, w/v), high salt levels
+(more than 5% NaCl), and low levels of organic acids (e.g.,
+sorbic, benzoic, and acetic). Fruits and derived products
+(juices, drinks, pulps, concentrates, and syrups), confectionery
+products, alcoholic beverages, carbonated beverages, vegetable
+salads with acid dressings, salt- and acid-based sauces, dairy
+products, and fermented or cured (salted) meat products represent the main candidates for yeast spoilage.
+The main spoilage yeast species are B. bruxellensis,
+P. kudriavzevii, Candida parapsilosis, D. hansenii, H. uvarum, Pichia
+membranaefaciens, Rhodotorula mucilaginosa, Rhodosporidium
+toruloides, S. cerevisiae, Schizosaccharomyces pombe, K. exigua,
+Zygosaccharomyces bailii, Z. bisporus, and Z. rouxii. However,
+with the years, some other common food-contaminating yeasts
+have been described, such as Y. lipolytica, Zygosaccharomyces
+lentus, Z. kombuchaensis, Candida wyomingensis, C. boidinii,
+Cryptococcus uzbekistanensis, Candida natalensis, and Pseudozyma
+antarctica. The main alterations caused by yeasts in food include
+the alteration of physical and sensorial properties, discoloration,
+gas production, cloudiness, sedimentation or pellicle formation,
+and the formation of off-flavors. For instance, D. bruxellensis is
+responsible of serious economic losses in the wine industry
+because it produces volatile phenols (4-ethylguaiacol and
+4-ethylphenol), which generate off-odors in wines. Exposure
+of beer to air will induce the growth of oxidative yeast genera
+such as Pichia, Debaryomyces, Candida, and Hansenula, which
+cause off-flavors and ferment residual dextrans in the beer.
+
+Yeast as Biocontrol Agents
+Several yeast species show a strong antagonistic activity against
+filamentous fungi. For this reason, they can be used for biocontrol of fungi that cause pre- and postharvest spoilage of
+fruits and vegetables, increasing food quality and hygienic
+safety. As such, they can the control the development of Botrytis, Penicillium, Aspergillus, and Rhizopus spp., reducing the need
+
+Yeasts
+
+for chemical fungicides and, consequently, their potential
+oncogenic risks. The yeast species showing biocontrol capacity
+are mostly M. pulcherrima, Candida sake, Sporobolomyces roseus,
+W. anomalus, Aureobasidium pullulans, and various Cryptococcus.
+For commercial use, the main species diffused are C. oleophila
+and Pseudozyma flocculosa, which are registered as Aspire and
+Sporodex, respectively. The combination between C. oleophila
+and two bacterial strains is widely used as biocontrol agent of
+postharvest diseases of citrus and apple fruits. Yeast antagonistic activity is mainly related to the production of killer toxins,
+inhibitory proteins and peptides, lytic glucanases, and chitinases, which act against fungal cell wall. Moreover, they inhibit
+fungal development through nutrient competition and the
+production of toxic metabolites, such as ethanol, acetaldehyde,
+ethyl acetate, and fatty acids. The use of yeasts as biocontrol
+agents has several advantages because they are easy to cultivate,
+are characterized by a fast growth, and can be found in several
+ecological niches.
+
+Conclusion
+In summary, yeasts play an essential role in many food and
+beverage fermentations, conferring the required stability,
+safety, and sensory properties to the final product. Moreover,
+several beneficial health effects are clearly evident such as
+probiotic (prevention and treatment of intestinal diseases and
+immunomodulatory action), antigenotoxic, and antioxidant
+activities. Recent advances in molecular biology (DNA recombination, mutagenesis, etc.) can be applied to obtain specialized yeasts with new properties to improve human life.
+
+See also: Cheese: Chemistry and Microbiology; Cheese: Composition
+and Health Effects; Fermented Foods: Use of Starter Cultures;
+
+599
+
+Fermented Foods: Fermented Meat Products; Fermented Foods:
+Fermented Vegetables and Other Products; Fermented Foods:
+Composition and Health Effects; Fermented Foods: Fermented Milks;
+Food Additives: Classification, Uses and Regulation; Food Allergies;
+Foodborne Pathogens; Functional Foods; Probiotics; Spoilage: Yeast
+Spoilage of Food and Beverages; Wines: Wine Production.
+
+Further Reading
+Becskei A (ed.) (2011) Yeast genetic networks: methods and protocols. New York:
+Springer þ Business Media.
+Boulton C and Quain D (eds.) (2006) Brewing yeast and fermentation. UK: Wiley-Blackwell.
+Feldmann H (ed.) (2011) Yeast: molecular and cell biology. UK: Wiley-Blackwell.
+Gonzalez R, Munoz R, and Carrascosa AV (eds.) (2011) Molecular wine microbiology.
+Amsterdam: Elsevier Science.
+Kurtzman CP, Fell JW, and Boekhout T (eds.) (2011) The yeasts a taxonomic study, 5th
+ed. Amsterdam: Elsevier Science.
+Piskur J and Compagno C (eds.) (2014) Molecular mechanisms in yeast carbon
+metabolism. Berlin Heidelberg: Springer.
+Pretorius IS (2000) Tailoring wine yeast for the new millennium: novel approaches to
+the ancient art of winemaking. Yeast 16: 675–729.
+Querol A and Fleet GH (eds.) (2006a) Biodiversity and ecophysiology of yeasts. Berlin
+Heidelberg: Springer.
+Querol A and Fleet GH (eds.) (2006b) Yeasts in food and beverages. Berlin Heidelberg:
+Springer.
+Satyanarayana T and Kunze G (eds.) (2009) Yeast biotechnology: diversity and
+applications. Berlin Heidelberg: Springer.
+Xiao W (ed.) (2014) Yeast protocols, 3 as apex ed. New York: Springer þ Business
+Media.
+
+Relevant Websites
+http://www.ifr.ac.uk/research/national-collection-yeast-cultures/ – Institute of Food
+Research.
+www.yeastgenome.org – Stanford University.
+
+

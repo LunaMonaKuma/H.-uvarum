@@ -1,0 +1,1016 @@
+International Journal of Food Microbiology 138 (2010) 85–90
+
+Contents lists available at ScienceDirect
+
+International Journal of Food Microbiology
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / i j f o o d m i c r o
+
+Yeast species associated with wine grapes in China
+Shuang-Shi Li a,b, Chao Cheng a, Zheng Li a, Jing-Yu Chen a, Bin Yan c, Bei-Zhong Han a,⁎, Malcolm Reeves d
+a
+
+College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China
+Department of Biotechnology, Beijing Vocational Institute of Electronic Science and Technology, Beijing 100029, China
+c
+Huaxia Great Wall Wine Co. Ltd, COFCO, Changli 066600, China
+d
+Faculty of Science and Technology, Eastern Institute of Technology, Taradale 4142, New Zealand
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 30 August 2009
+Received in revised form 17 December 2009
+Accepted 8 January 2010
+Keywords:
+Yeast
+Wine grape
+China
+5.8S-ITS rDNA
+
+a b s t r a c t
+Having more information on the yeast ecology of grapes is important for wine-makers to produce wine with
+high quality and typical attributes. China is a signiﬁcant wine-consuming country and is becoming a serious
+wine-producer, but little has been reported about the yeast ecology of local ecosystems. This study provides
+the ﬁrst step towards the exploitation of the yeast wealth in China's vine-growing regions. The aim of this
+study was to investigate the yeast population density and diversity on three grape varieties cultivated in four
+representative vine-growing regions of China. Yeast species diversity was evaluated by using polymerase
+chain reaction–restriction fragment length polymorphism (PCR-RFLP) and sequence analysis of the 5.8S
+internal transcribed spacer (ITS) ribosomal DNA (rDNA) region of cultivable yeasts. The grapes harbored
+yeast populations at 102–106 CFU/mL, consisting mostly of non-Saccharomyces species. Seventeen different
+yeast species belonging to eight genera were detected on the grape samples tested, including Hanseniaspora
+uvarum, Cryptococcus ﬂavescens, Pichia fermentans, Candida zemplinina, Cryptococcus carnescens, Candida
+inconpicua, Zygosaccharomyces fermentati, Issatchenkia terricola, Candida quercitrusa, Hanseniaspora guilliermondii, Candida bombi, Zygosaccharomyces bailii, Sporidiobolus pararoseus, Cryptococcus magnus, Metschnikowia pulcherrima, Issatchenkia orientalis and Pichia guilliermondii. H. uvarum and C. ﬂavescens were the
+dominant species present on the grapes. For the ﬁrst time Sporidiobolus pararoseus was discovered as an
+inhabitant of the grape ecosystem. The yeast community on grape berries was inﬂuenced by the grape
+chemical composition, vine-variety and vine-growing region. This study is the ﬁrst to identify the yeast
+communities associated with grapes in China using molecular methods. The results enrich our knowledge of
+wine-related microorganisms, and can be used to promote the development of the local wine industry.
+© 2010 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Yeasts are the most important microorganisms in wine production, because they inﬂuence fermentation speed, wine ﬂavor and
+other wine qualities (Fleet, 2003; Loureiro and Malfeito-Ferreira,
+2003; Jolly et al., 2006). Grapes are a primary source of natural yeasts
+in wine production. The grape yeast ﬂora can be either beneﬁcial or
+detrimental to the quality of wine products. Consequently, having
+more information about the yeast communities present on grapes is
+important for wine-makers to produce wines with high quality and
+representative attributes. Much ecological research has been conducted on the yeast ﬂora in different wine-producing regions
+(Pretorius et al., 1999; Sabaté et al., 2002; Combina et al., 2005;
+Raspor et al., 2006; Nisiotou and Nychas, 2007; González et al., 2007;
+
+⁎ Corresponding author. College of Food Science and Nutritional Engineering, China
+Agricultural University, P.O. Box 606, No. 17 Qinghua East Road, Beijing 100083, China.
+Tel./fax: + 86 10 62737078.
+E-mail address: hbz@cau.edu.cn (B.-Z. Han).
+0168-1605/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.ijfoodmicro.2010.01.009
+
+Chavan et al., 2009). It has been found that freshly crushed grape juice
+harbors a diversity of yeast species, principally within the genera
+Hanseniaspora (anamorph Kloeckera), Pichia, Candida, Metschnikowia,
+and Kluyveromyces. Occasionally, species in other genera such as
+Cryptococcus, Rhodotorula, Debaryomyces, Issatchenkia, Zygosaccharomyces, Saccharomycodes, Torulaspora, Dekkera, Schizosaccharomyces
+and Saccharomyces have also been isolated from wine grapes of
+several wine-producing areas (Ribéreau-Gayon et al., 2000; Fleet
+et al., 2002; Fleet, 2003, 2008; Prakitchaiwattana et al., 2004; Jolly
+et al., 2006). These yeast species perform biochemical activities in the
+must, thus inﬂuencing positively or negatively the quality of the wine.
+The population density and diversity of indigenous yeasts on grape
+berries are intricately linked to numerous factors, such as berry
+maturity, grape variety, geographic location, climatic condition,
+fungicide application, vineyard age and viticultural practices (Combina et al., 2005; Raspor et al., 2006; Nisiotou and Nychas, 2007;
+Chavan et al., 2009). However, insufﬁcient quantitative data are available to be able to draw general conclusions about these inﬂuences. As
+wine-makers increasingly recognize that particular indigenous yeast
+species can contribute beneﬁcially to or cause spoilage of wine, the
+
+86
+
+S.-S. Li et al. / International Journal of Food Microbiology 138 (2010) 85–90
+
+need for deeper knowledge of the effects of these factors on the yeast
+ecology of grapes will become more apparent.
+China is one of the six biggest wine-consuming countries in the
+world and has a great potential for developing viticulture and its wine
+industry. China has over ten major viticultural regions, each with
+distinct ecological characters. Nevertheless, very little has been
+known about the yeast ecology involved in local ecosystems. Development of knowledge about the yeast community of local ecosystems is
+essential to produce wines with regional attributes and to improve
+the wine-making practice. This yeast ecological study is an essential
+step towards the preservation and exploitation of the hidden oenological potential of indigenous yeast wealth in China. Therefore, this
+study has an important signiﬁcance for the local wine industry.
+In recent years, two molecular techniques, polymerase chain
+reaction–restriction fragment length polymorphism (PCR-RFLP) and
+sequence analyses of the ribosomal DNA (rDNA) region including 5.8S
+internal transcribed spacer (ITS) region, have proved to be useful for
+the rapid identiﬁcation of wine yeast species (Clemente-Jimenez et al.,
+2004; Combina et al., 2005; Nisiotou and Nychas, 2007; Zott et al.,
+2008). In our study, yeast species diversity was evaluated by PCR-RFLP
+and sequence analyses of the 5.8S-ITS rDNA.
+The aim of this work was to study population density and diversity
+of the indigenous yeasts on wine grapes in China's main viticultural
+regions. Furthermore, the impact of grape chemical composition,
+vine-variety and geographic location on the yeast distribution was
+evaluated.
+
+280A4, Foshan, China). Homogenates were serially diluted with the
+sterile physiological saline (0.85% NaCl). For the enumeration of
+yeasts, 0.1 mL of each dilution was spread in triplicate on three
+different media: Wallerstein Laboratory nutrient agar (WL; Oxoid,
+England), lysine medium (LM; Oxoid, England) and ethanol sulﬁte
+agar (ESA; containing 1% yeast extract, 2% bacteriological peptone, 2%
+dextrose, 12% ethanol, 0.015% sodium metabisulﬁte and 2% agar). All
+media were supplemented with 100 mg/L chloramphenicol (Sigma,
+USA) to inhibit bacterial growth. Plates were incubated at 28 °C for
+3 days. ESA was used to detect the native populations of Saccharomyces species, because non-Saccharomyces yeasts have lower tolerance of ethanol and sulfur dioxide (Kish et al., 1983). LM was used to
+monitor the presence of non-Saccharomyces species effectively, since
+it is a medium with L-lysine as the sole nitrogen source and Saccharomyces spp. are unable to grow on this medium (Angelo and Siebert,
+1987). According to Pallmann et al. (2001), the WL medium is useful
+for the wine industry to quantify and identify wine microorganisms,
+since it can discriminate between the yeast genus and species by
+colony morphology and color.
+The various colony types on WL medium were counted. Based on
+colony morphology and frequency, 15 representative colonies on WL
+medium were proportionally isolated from each grape sample. The
+representative isolates were puriﬁed by repetitive streaking on yeast
+extract peptone dextrose agar (YEPD; containing 1% yeast extract, 2%
+bacteriological peptone, 2% dextrose and 2% agar) and then stored at
+4 °C on YEPD slants for future identiﬁcation.
+
+2. Materials and methods
+
+2.4. Yeast identiﬁcation
+
+2.1. Grape sampling
+
+A total of 180 yeast isolates from 12 grape samples were submitted
+to identiﬁcation using molecular methods as described below.
+
+Grape samples were collected during harvest (between September
+and October) in 2006 vintage. The three grape varieties analyzed were:
+Cabernet Sauvignon, Merlot and Chardonnay. Grapes were sampled
+from four representative vineyards in China: (A) Shacheng of Hebei
+province (annual active accumulated temperature, 3500–3564 °C;
+annual average rainfall, 413 mm), (B) the coastal region, Changli of
+Hebei province (annual active accumulated temperature, 3756–4174 °C;
+annual average rainfall 638 mm), (C) the coastal region, Penglai of
+Shandong province (annual active accumulated temperature, 3800–
+4200 °C; annual average rainfall, 592 mm), and (D) Wuwei of Gansu
+province (annual active accumulated temperature, 2800–3000 °C;
+annual average rainfall, 110 mm). These districts are separated by
+distances as great as 1911 km.
+For each grape variety from each selected vineyard, around 1–2 kg
+of each sample was randomly and aseptically removed from at least
+ﬁve different vines within the vineyard. Only healthy and undamaged
+grapes were collected from the selected vineyards and stored at 4 °C.
+Samples were transported to the laboratory in Beijing by road or air
+and analyzed within 24 h of harvest from the vine.
+2.2. Chemical analysis
+Reducing sugar content, titratable acidity and pH of the grape
+samples were determined according to the National Standard of the
+People's Republic of China (GB15038-2005). All experiments were
+performed in triplicate and the results were expressed as the mean
+value ± the standard deviation. Data were subjected to one-way
+analysis of variance (ANOVA) at 5% level of signiﬁcance, and the
+means were separated by Student–Newman–Keuls test using SPSS
+statistical software (version 11.0, SPSS Ins., USA) for Windows.
+2.3. Yeast enumeration and isolation
+About 500 g of each grape sample was randomly mixed and
+aseptically homogenized for 30 s at normal intensity (HAODE SG-
+
+2.4.1. 5.8S-ITS rDNA PCR-RFLP analysis
+The genomic DNA of each representative yeast strain was
+extracted with the yeast genomic DNA extraction kit (Biofuture,
+China) according to manufacturer's instructions. The primers used for
+ampliﬁcation of 5.8S-ITS rDNA region were ITS1 (5′-TCCGTAGGTGAACCTGCGG-3′) and ITS4 (5′-TCCTCCGCTTATTGATATGC-3′) (White
+et al., 1990). The DNA ampliﬁcations were carried out in a ﬁnal
+volume of 50 μL containing 1 U Taq DNA polymerase (Biofuture,
+China), 1 × PCR reaction buffer, 0.2 mM of each dNTP, 2 mM MgCl2,
+0.1 μM of each primer and 5–25 ng template DNA. The PCR reaction
+was performed on a Mastercycler ep gradient (Eppendorf, Germany).
+The PCR conditions were as follows: initial denaturation at 95 °C for
+5 min; 35 cycles of denaturing at 94 °C for 1 min; annealing at 55.5 °C
+for 2 min, an extension at 72 °C for 2 min; and a ﬁnal extension step of
+10 min at 72 °C. The PCR products were subjected to restriction
+analysis with the restriction endonucleases Hin6I, BsuRI, and HinfI
+(Fermentas, USA), following the manufacturer's instructions. Ampliﬁed products and their restriction fragments were separated on 1.4%
+or 3% (w/v) agrose gels at 100 V constant voltage for 1 h. Electrophoresis gels were stained with ethidium bromide (0.5 μg/mL) and
+photographed under UV light (Xiaoyuan, China). A 100-bp DNA
+ladder marker (Biofuture, China) was used as size standard.
+2.4.2. 5.8S-ITS rDNA sequence analysis
+Three randomly selected isolates of each distinct PCR-RFLP proﬁle
+were identiﬁed by 5.8S-ITS rDNA region sequencing. PCR products of
+the 5.8S ITS rDNA region were sequenced using ITS1 or/and ITS4
+primers after puriﬁcation by a PCR puriﬁcation kit (Biofuture, China).
+The ITS1-5.8S-ITS2 sequences obtained were compared with
+sequences available in GenBank database available at the National
+Center for Biotechnology Information (NCBI) using the basic local
+alignment search tool (BLAST) available at http://www.ncbi.nlm.nih.
+gov/blast/. Sequences with 98% nucleotide identity or higher in the
+5.8S-ITS rDNA region were considered to represent the same species
+
+S.-S. Li et al. / International Journal of Food Microbiology 138 (2010) 85–90
+
+(Zott et al., 2008). When all the yeast isolates were identiﬁed, the
+species-speciﬁc partial 5.8S ITS region sequences were submitted to
+the GenBank database under accession numbers: GU237044 Zygosaccharomyces fermentati, GU237045 Candida quercitrusa, GU237046
+Issatchenkia orientalis, GU237047 Candida bombi, GU237048 Pichia
+fermentans, GU237049 Sporidiobolus pararoseus, GU237050 Hanseniaspora uvarum, GU237051 Cryptococcus carnescens, GU237052
+Cryptococcus magnus, GU237053 Pichia guilliermondii, GU237054
+Candida inconpicua, GU237055 Issatchenkia terricola, GU237056
+Cryptococcus ﬂavescens, GU237057 Candida zemplinina, GU237058
+Zygosaccharomyces bailii, GU237059 Metschnikowia pulcherrima, and
+GU237060 Hanseniaspora guilliermondii.
+3. Results and discussion
+3.1. Population of yeasts on wine grapes
+The grape samples were crushed and the must were used for
+enumeration and isolation of different yeast species as described in
+Section 2. The reducing sugar content of 12 samples collected from
+four regions in China varied from 142.3 to 250.5 g/L. Titratable acidity
+of the grapes ranged between 3.38 to 8.44 g/L at harvest, with pH
+levels from 2.99 to as high as 3.66. We evaluated the total yeast count,
+non-Saccharomyces and Saccharomyces populations by the spread
+plate method on non-selective culture medium (WL medium) and
+selective culture media (LM and ESA medium). The yeast populations
+on wine grapes are given in Table 1. Similar CFU counts (103–105 CFU/
+mL) were obtained on WL medium and LM, indicating that the nonSaccharomyces yeasts represented most of the total yeast population
+on grapes. This observation is similar to previous reports (Sabaté et al.,
+2002; Raspor et al., 2006; Mercado et al., 2007; Nisiotou and Nychas
+2007). The yeast population on healthy and ripe Malbec grapes from
+Argentina obtained by crushing grape berries and plating on malt
+extract agar (MEA) was in the order of 105–106 CFU/g, which is higher
+than found in our research (Combina et al., 2005). Saccharomyces on
+the grapes, as determined by plating on ESA medium, occurred in
+extremely low populations (less than 102 CFU/mL) or was not even
+detected (Table 1), which is in agreement with previous reports
+(Mortimer and Polsinelli, 1999; Fleet, 2003; Sabaté et al., 2002;
+Mercado et al., 2007). Due to the extremely low occurrence of
+Saccharomyces by direct plating from healthy undamaged grapes,
+there is signiﬁcant controversy as to their natural origin in wine
+production and some authors have postulated a “winery origin” for
+them (Martini, 1993; Martini et al., 1996; Mercado et al., 2007).
+However Saccharomyces were not totally absent in our study and
+were found on the samples with higher sugar content and lower pH
+(Table 1). Mortimer and Polsinelli (1999) found that damaged grape
+
+87
+
+berries were rich depositories of microorganisms including Saccharomyces. These results reﬂected that the speciﬁc must environment, i.e. low pH, high sugar content (high osmotic pressure),
+played a role in determining which species of yeasts can survive and
+grow.
+3.2. Molecular identiﬁcation of yeast isolates on wine grapes
+WL medium has proved to be extremely useful in the isolation and
+initial presumptive identiﬁcation of different wine yeast species
+(Pallmann et al., 2001; Tofalo et al., 2009). After counting, a total of
+180 representative yeast colonies, 15 for each grape variety from each
+region, were isolated from WL plates for further molecular identiﬁcation. It has previously been demonstrated that the 5.8S-ITS rDNA
+analysis is a reliable routine technique for the differentiation of wine
+yeasts at species level (Clemente-Jimenez et al., 2004; Combina et al.,
+2005; Nisiotou and Nychas, 2007; Zott et al., 2008). To determine the
+yeast diversity present on grapes, we used a PCR-RFLP analysis of the
+5.8S-ITS rDNA region to identify 180 representative yeast isolates.
+Seventeen different restriction patterns were generated by using
+three restriction enzymes Hin6I, BsuRI, and HinfI. The sizes of the PCR
+product and restriction fragments were visually estimated by
+comparison with a 100-bp DNA ladder. During the analysis we
+discovered that DNA bands smaller than 80 bp were difﬁcult to
+visualize and subsequently excluded these bands from this analysis.
+Nine of the 17 restriction patterns were directly identiﬁed after
+comparing the molecular mass of the restriction products with those
+previously described (Esteve-Zarzoso et al., 1999; Combina et al.,
+2005; Nisiotou and Nychas, 2007; Nisiotou et al., 2007). These
+patterns corresponded to H. uvarum, P. fermentans, P. guilliermondii,
+M. pulcherrima, Z. bailii, C. zemplinina, C. bombi, I. terricola, and I.
+orientalis. An additional, eight species were not identiﬁed by this
+method because their 5.8S-ITS patterns have not been previously
+described. In order to ﬁnd the identities of other eight unknown
+restriction patterns and to reconﬁrm the identities of the nine
+patterns previously identiﬁed by restriction analysis of the 5.8S-ITS
+rDNA region, the PCR products from the 17 groups were sequenced
+and compared with the available DNA sequence databases. Based on
+identiﬁcation using sequence analysis of the 5.8S-ITS rDNA region, the
+eight new 5.8-ITS patterns corresponded to the species C. carnescens,
+C. ﬂavescens, C. inconpicua, C. quercitrusa, C. maqnus, S. pararoseus, Z.
+fermentati and H. guilliermondii (Table 2).
+3.3. Yeast diversity on wine grapes
+The yeast species associated with wine grapes of the most popular
+varieties from four different vineyards in China are presented in
+
+Table 1
+Chemical characteristics and yeast counts for wine grape samples in China.
+Vine-growing
+region
+
+Grape variety
+
+Shacheng
+
+Cabernet Sauvignon
+Merlot
+Chardonnay
+Cabernet Sauvignon
+Merlot
+Chardonnay
+Cabernet Sauvignon
+Merlot
+Chardonnay
+Cabernet Sauvignon
+Merlot
+Chardonnay
+
+Changli
+
+Wuwei
+
+Penglai
+
+Reducing sugar content
+(g/L as glucose) ⁎
+
+Titratable acidity
+(g/L as tartaric acid) ⁎
+
+pH ⁎
+
+214.29 ± 1.41a
+181.21 ± 1.70b
+188.81 ± 1.27ci
+183.05 ± 0.88b
+184.93 ± 1.41bc
+142.86 ± 0.53d
+227.85 ± 1.36e
+248.86 ± 1.62f
+242.16 ± 1.53g
+195.65 ± 1.00h
+185.57 ± 0.91ci
+189.48 ± 0.94i
+
+6.29 ± 0.13ad
+6.34 ± 0.08ad
+7.20 ± 0.40b
+8.25 ± 0.05c
+8.42 ± 0.03c
+6.53 ± 0.05d
+8.82 ± 0.12ae
+8.81 ± 0.27ae
+8.50 ± 0.02e
+4.55 ± 0.07f
+3.76 ± 0.15g
+3.52 ± 0.20g
+
+3.06 ± 0.00a
+3.15 ± 0.01b
+3.56 ± 0.01c
+3.20 ± 0.01d
+3.25 ± 0.01e
+3.26 ± 0.01f
+3.00 ± 0.01g
+3.04 ± 0.01h
+3.21 ± 0.01d
+3.21 ± 0.00d
+3.28 ± 0.02e
+3.29 ± 0.01i
+
+Yeast counts (log CFU/mL) ⁎
+TY#
+
+NS
+
+S
+
+4.75 ± 0.16a
+3.14 ± 0.19b
+4.26 ± 0.17c
+4.12 ± 0.03c
+4.16 ± 0.07c
+3.41 ± 0.10b
+2.42 ± 0.01d
+3.37 ± 0.10b
+3.10 ± 0.09b
+5.05 ± 0.06a
+4.85 ± 0.05a
+4.27 ± 0.03c
+
+4.72 ± 0.03ab
+3.08 ± 0.18ce
+3.96 ± 0.07d
+4.10 ± 0.05dg
+4.18 ± 0.09dg
+3.39 ± 0.17e
+2.36 ± 0.32f
+2.76 ± 0.28cf
+2.90 ± 0.16c
+4.99 ± 0.07a
+4.46 ± 0.15bg
+3.96 ± 0.10d
+
+1.49 ± 0.20a
+–
+–
+–
+–
+–
+1.21 ± 0.17a
+1.16 ± 0.15a
+1.52 ± 0.46a
+–
+–
+–
+
+⁎ Data are means ± standard deviation. Means within a column with different superscript letters are signiﬁcantly different by Student–Newman–Keuls test (P < 0.05).
+#
+TY, total yeast counts by the spread plate method on Wallerstein Laboratory nutrient agar; NS, non-Saccharomyces counts by the spread plate method on lysine medium;
+S, Saccharomyces counts by the spread plate method on ethanol sulﬁte agar.
+
+88
+
+S.-S. Li et al. / International Journal of Food Microbiology 138 (2010) 85–90
+
+Table 2
+Nucleotide fragments length of the new 5.8S-ITS proﬁle described in the study.
+Yeast species
+
+Sporidiobolus pararoseus
+Cryptococcus carnescens
+Cryptococcus ﬂavescens
+Candida inconpicua
+Candida quercitrusa
+Cryptococcus magnus
+Hanseniaspora guilliermondii
+Zygosaccharomyces fermentati
+a
+
+5.8 S-ITS region ampliﬁed
+product size (bp)
+
+Size of the restriction fragment (bp)a
+Hin6I
+
+BsuRI
+
+HinfI
+
+550
+550
+460
+600
+596
+600
+690
+650
+
+270 + 280
+200 + 280
+200 + 260
+100 + 100 + 100 + 190
+200 + 300
+250 + 350
+300 + 320
+280 + 320
+
+550
+90 + 350
+460
+500 + 100
+90 + 100 + 400
+80 + 460
+690
+80 + 210 + 300
+
+250
+250 + 250
+170 + 220
+100 + 220 + 270
+120 + 200 + 270
+140 + 230 + 240
+120 + 190 + 320
+310 + 350
+
+Restriction fragments smaller than 80 bp could not be visualized.
+
+Table 3. The yeast communities present on the samples are complex
+and rich in different species. A total of 17 different yeast species
+belonging to eight different genera were found by PCR-RFLP analysis
+combined with sequence analysis of the 5.8S-ITS rDNA region.
+We found that non-Saccharomyces yeasts were the dominant
+species on the grapes in our study, which is in agreement with
+previous reports (Pretorius et al., 1999; Sabaté et al., 2002; Jolly et al.,
+2003; Combina et al., 2005; Raspor et al., 2006; Nisiotou and Nychas,
+2007; González et al., 2007; Chavan et al., 2009). Recently, several
+studies have examined the beneﬁcial and detrimental inﬂuence of
+non-Saccharomyces yeasts and their potential application in winemaking (Ciani and Maccarelli, 1998; Esteve-Zarzoso et al., 1998;
+Romano, 2002; Romano et al., 2003; Fleet, 2003; Loureiro and
+Malfeito-Ferreira, 2003; Clemente-Jimenez et al., 2004; Anfang et al.,
+2009). In order to exploit the potential beneﬁts and to minimize
+potential spoilage by non-Saccharomyces, the yeast biodiversity on
+grapes needs to be known.
+H. uvarum was found in all samples and was the most frequent
+species on grapes. The apiculate species (K. apiculata and its
+sporiferous form H. uvarum) have been found to be the predominant
+yeasts on grapes from a variety of different places (Combina et al.,
+2005; Raspor et al., 2006; Clemente-Jimenez et al., 2004; Nisiotou and
+Nychas, 2007). The apiculate yeasts are known to be high producers of
+esters and glycerol. Moreover they have the capability to secrete
+several enzymes, e.g. β-glucosidases and proteases, interacting with
+grape-derived precursor compounds such as glycosidically bound
+terpenes, thus contributing to the subsequent expression of varietal
+aroma thereby improving the wine-making process (Jolly et al., 2006;
+
+Zott et al., 2008). Therefore, such indigenous yeasts make a positive
+contribution to wine quality. However, some strains of apiculate
+yeasts are also known as high producers of acetic acid, making them
+undesirable for wine production (Ciani and Picciotti, 1995). Therefore,
+only selected strains of apiculate yeasts might favor aroma and ﬂavor
+enhancement in wines.
+C. ﬂavescent also was a common species present on the grapes in
+China, and has been isolated from wheat, soil and clinical specimens
+(Takashima et al., 2003), but has not been found on grapes or in wines
+in other regions.
+The proportions of other species were relatively low (<10%).
+Unexpectedly, one of the most dangerous wine spoilage yeast genus
+Zygosaccharomyces was found on Merlot from Penglai. Some strains
+of Zygosaccharomyces are known to produce off-ﬂavors, and some can
+produce spoilage by sediment or cloudiness formation. They can
+reside in winery environments for their tolerance of high ethanol
+concentrations (>10%), which is a real threat to product quality and
+preservation (Fleet, 2003; Loureiro and Malfeito-Ferreira, 2003).
+Therefore, the origins and control measures of Zygosaccharomyces
+must be well established. I. terricola was detected on Cabernet
+Sauvignon from Changli. It is suggested I. terricola is to be avoided due
+to its low fermentative characteristics and its high ethyl acetate
+production, contributing to a vinegary taste (Clemente-Jimenez et al.,
+2004). Additionally, I. orientalis has produced wines with intense
+color and foam (Clemente-Jimenez et al., 2004). The color of a wine is
+an indicator of its condition, quality, age, and even style. C. quercitrusa
+was found on Cabernet Sauvignon from Shacheng and Wuwei. C.
+quercitrusa was seldom found to be associated with grape berries by
+
+Table 3
+Percentage distribution (%) of indigenous yeast species present on wine grapes of ﬁve varieties (C, Cabernet Sauvignon; M, Merlot; X, Chardonnay) from four vineyards in China.
+Yeast species
+
+Sampling location and grape variety
+Shacheng
+
+Hanseniaspora uvarum
+Cryptococcus ﬂavescens
+Pichia fermentans
+Candida zemplinina
+Cryptococcus carnescens
+Candida inconpicua
+Zygosaccharomyces fermentati
+Issatchenkia terricola
+Candida quercitrusa
+Hanseniaspora guilliermondii
+Candida bombi
+Zygosaccharomyces bailii
+Sporidiobolus pararoseus
+Cryptococcus magnus
+Metschnikowia pulcherrima
+Issatchenkia orientalis
+Pichia guilliermondii
+–: Not detected.
+
+Changli
+
+Wuwei
+
+Penglai
+
+C
+
+M
+
+X
+
+C
+
+M
+
+X
+
+C
+
+M
+
+X
+
+C
+
+M
+
+X
+
+40.00
+26.67
+6.67
+–
+6.67
+–
+–
+–
+6.67
+13.33
+–
+–
+–
+–
+–
+–
+–
+
+33.33
+26.67
+6.67
+6.67
+–
+–
+–
+–
+–
+13.33
+–
+–
+–
+–
+–
+–
+13.33
+
+46.67
+46.67
+–
+6.67
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+46.67
+26.67
+6.67
+6.67
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+13.33
+–
+
+46.67
+20.00
+13.33
+6.67
+6.67
+–
+–
+6.67
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+73.33
+26.67
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+26.67
+20.00
+20.00
+6.67
+–
+–
+–
+–
+13.33
+–
+–
+–
+–
+–
+13.33
+–
+–
+
+26.67
+13.33
+–
+6.67
+26.67
+26.67
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+33.33
+13.33
+–
+–
+13.33
+–
+–
+–
+–
+–
+–
+–
+13.33
+26.67
+–
+–
+–
+
+60.00
+40.00
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+26.67
+13.33
+–
+13.33
+–
+6.67
+13.33
+13.33
+–
+–
+–
+13.33
+–
+–
+–
+–
+–
+
+33.33
+6.67
+26.67
+6.67
+–
+–
+–
+–
+–
+–
+26.67
+–
+–
+–
+–
+–
+–
+
+S.-S. Li et al. / International Journal of Food Microbiology 138 (2010) 85–90
+
+other researches. Recently, Chavan et al. (2009) reported isolating C.
+quercitrusa from grape berries of Bangalore blue and Cabernet
+varieties in India for the ﬁrst time and that this species was associated
+with insects. S. pararoseus was detected on Chardonnay from Wuwei.
+This species has not been previously reported as a member of the
+grape ecosystem.
+Unexpectedly, Saccharomyces were isolated from just four of the
+twelve groups of samples of grapes (Table 1). Possibly Saccharomyces
+were present on the other grapes but at such low populations that
+they were not detectable either among the non-Sacchromyces by
+plating on non-selective medium (i.e. WL medium) and even on ESA
+medium. In the four cases where they were found detection was
+achieved by plating on ESA medium. Some researchers also suggest
+that S. cerevisiae should be isolated from grapes by enrichment culture
+than direct agar plating (Fleet et al., 2002).
+3.4. Yeast ecology present on different vine-growing locations
+Geographic locations and climatic conditions had an impact on the
+population and diversity of yeast on grapes (Table 1, Table 3). The four
+areas chosen for sampling have different climatic conditions as
+described in Section 2. The yeast counts on wine grapes from Wuwei
+were signiﬁcantly lower than those of samples from other locations,
+which may be due to the speciﬁc climatic conditions in the Wuwei
+region. Wuwei is the furthest inland and is located on the edge of the
+Tenggeli desert, which has little rainfall and cool weather. Some
+authors have suggested that rainfall exerts the greatest inﬂuence on
+the yeast population, because rainfall could have favored nutrient
+release, increasing their availability for yeast multiplication (Rousseau
+and Doneche, 2001; Combina et al., 2005). The grape must from
+Wuwei tended to have higher sugar content (high osmotic pressure)
+and lower pH values than for the other regions (Table 1), which could
+affect negatively the microﬂora populations. On the other hand, the
+most abundant yeast populations were found on grapes from Penglai,
+which may be ascribed to warmer climatic conditions (lower latitudes, higher temperatures) in Penglai.
+The indigenous yeast species associated with wine grapes differed
+among the four locations sampled. Seven different species were found
+on samples from Changli, eight species from Shacheng, nine species
+from Penglai and ten species from Wuwei. The predominant species
+H. uvarum, C. ﬂavescen, P. fermentans and C. zemplinina were found
+in all sampling locations. The three yeast species S. pararoseus, M.
+pulcherrima and C. maqnus were detected only on grapes collected
+from Wuwei, while C. bombi, Z. fermentati and Z. bailii were detected
+only on grapes collected from Penglai. P. guilliermondii and H.
+guilliermondii were detected only on grapes collected from Shacheng.
+The species I. orientalis was found only on grapes collected from
+Changli.
+3.5. Yeast ecology present on different vine varieties
+The indigenous yeast ﬂora present on grapes differed among vine
+varieties as well as vine-growing locations (Table 1, Table 3). Among
+the 180 identiﬁed indigenous yeast isolates, the largest diversity of
+yeast species was found on the red variety Merlot (eleven species),
+followed by Cabernet Sauvignon (nine species), while eight different
+yeast species were isolated from the white variety Chardonnay. These
+results suggest that red vine varieties maybe offer an advantage for
+yeast diversity. Varietal factors, e.g. thickness of grape skins, can play a
+role (Bisson and Kunkee, 1991). The most frequent species H. uvarum,
+C. ﬂavescens, C. zemplinina, P. fermentans and C. carnescens were found
+on all grape varieties. In all vine-growing regions studied, the genera
+Issatchenkia was detected only on the red varieties Cabernet Sauvignon
+and Merlot. The most dangerous wine spoilage yeast genus Zygosaccharomyces was found only on Merlot. P. fermentans was detected only
+in Cabernet Sauvignon variety together with C. quercitrusa.
+
+89
+
+The study of yeast biodiversity to gain more information about
+yeast communities present on the grape berries and their inﬂuence on
+the wine-making process is important. This study has provided the
+ﬁrst information on the yeast ﬂora associated with the grapes in
+China's vine-growing regions. The wine grapes in China were shown
+to be a principal source of different yeast species, especially nonSaccharomyces yeasts. The results obtained will be useful to develop
+good quality wine and to control wine spoilage, which have an
+important signiﬁcance for the local wine-making industry. Moreover,
+further studies are necessary to obtain better knowledge about the
+participation of these indigenous yeast populations in spontaneous
+fermentation.
+Acknowledgments
+We would like to thank the National High Technology Research and
+Development Program of China (863 program, No. 2007AA10Z314) and
+the Earmarked Fund for Modern Agro-Industry Technology Research
+System, China No. nycytx-30-ch-03 for their ﬁnancial support.
+References
+Anfang, N., Brajkovich, M., Goddard, M.R., 2009. Co-fermentation with Pichia kluyveri
+increases varietal thiol concentrations in Sauvignon blanc. Australian Journal of
+Grape and Wine Research 15, 1–8.
+Angelo, J., Siebert, K.J., 1987. A new medium for the detection of wild strains in brewing
+culture yeast. Journal of the American Society of Brewing Chemistry 45, 135–140.
+Bisson, L.F., Kunkee, R.E., 1991. Microbial interactions during wine production. In:
+Zeikus, J.G., Johnson, E.A. (Eds.), Mixed Cultures in Biotechnology. McGraw-Hill,
+New York, pp. 37–68.
+Chavan, P., Mane, S., Kulkarni, G., Shaikh, S., Ghormade, V., Nerkar, D.P., Shouche, Y.,
+Deshpande, M.V., 2009. Natural yeast ﬂora of different varieties of grapes used for
+wine making in India. Food Microbiology 26, 801–808.
+Ciani, M., Maccarelli, F., 1998. Oenological properties of non-Saccharomyces yeasts
+associated with wine-making. World Journal of Microbiology and Biotechnology
+14, 199–203.
+Ciani, M., Picciotti, G., 1995. The growth kinetics and fermentation behaviour of some
+non-Saccharomyces yeasts associated with wine-making. Biotechnology Letters 17,
+1247–1250.
+Clemente-Jimenez, J.M., Mingorance-Cazorla, L., Martinez-Rodriguez, S., Las HerasVazquez, F.J., Rodriguez-Vico, F., 2004. Molecular characterization and oenological
+properties of wine yeasts isolated during spontaneous fermentation of six varieties
+of grape must. Food Microbiology 21, 149–155.
+Combina, M., Mercado, L., Borgo, P., Elia, A., Jofré, V., Ganga, A., Martinez, C., Catanis, C.,
+2005. Yeasts associated to Malbec grape berries from Mendoza, Argentina.
+International Journal of Food Microbiology 98, 1055–1061.
+Esteve-Zarzoso, B., Manzanares, P., Ramon, D., Querol, A., 1998. The role of non-Saccharomyces yeasts in industrial winemaking. International Microbiology 1, 143–148.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identiﬁcation of yeasts by
+RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed
+spacers. International Journal of Systematic Bacteriology 49, 329–337.
+Fleet, G.H., 2003. Yeast interactions and wine ﬂavour. International Journal of Food
+Microbiology 86, 11–22.
+Fleet, G.H., 2008. Wine yeasts for the future. FEMS Yeast Research 8, 979–995.
+Fleet, G.H., Prakitchaiwattana, C., Beh, A.L., Heard, G., 2002. The yeast ecology of wine
+grapes. In: Ciani, M. (Ed.), Biodiversity and Biotechnology of Wine Yeasts. Research
+Signpost, Kerala, India, pp. 1–17.
+González, S.S., Barrio, E., Querol, A., 2007. Molecular identiﬁcation and characterization
+of wine yeasts isolated from Tenerife (Canary Island, Spain). Journal of applied
+microbiology 102, 1018–1025.
+Jolly, N.P., Augustyn, O.P.H., Pretorius, I.S., 2003. The occurrence of non-Saccharomyces
+yeast species over three vintages on four vineyards and grape musts from four
+production regions of the Western Cape, South Africa. South African Journal of
+Enology and Viticulture 24, 35–42.
+Jolly, N.P., Augustyn, O.P.H., Pretorius, I.S., 2006. The role and use of non-saccharomyces
+yeasts in wine production. South African Journal for Enology and Viticulture 27,
+15–39.
+Kish, S., Sharf, R., Margalith, P., 1983. A note on a selective medium for wine yeasts.
+Journal of Applied Bacteriology 55, 177–179.
+Loureiro, V., Malfeito-Ferreira, M., 2003. Spoilage yeasts in the wine industry. International
+Journal of Food Microbiology 86, 23–50.
+Martini, A., 1993. The origin and domestication of the wine yeast Saccharomyces
+cerevisiae. Journal of Wine Research 4, 165–176.
+Martini, A., Ciani, M., Scorzetti, G., 1996. Direct enumeration and isolation of wine
+yeasts from grape surfaces. American Journal of Enology and Viticulture 47,
+435–440.
+Mercado, L., Dalcerob, A., Masuellia, R., Combina, M., 2007. Diversity of Saccharomyces
+strains on grapes and winery surfaces: analysis of their contribution to fermentative
+ﬂora of Malbec wine from Mendoza (Argentina) during two consecutive years. Food
+Microbiology 24, 403–412.
+
+90
+
+S.-S. Li et al. / International Journal of Food Microbiology 138 (2010) 85–90
+
+Mortimer, R., Polsinelli, M., 1999. On the origins of wine yeast. Research in Microbiology
+150, 199–204.
+Nisiotou, A.A., Nychas, G.J.E., 2007. Yeast populations residing on healthy or Botrytisinfected grapes from a vineyard in Attica, Greece. Applied Environmental
+Microbiology 73, 2765–2768.
+Nisiotou, A.A., Spiropoulos, A.E., Nychas, G.J.E., 2007. Yeast community structures and
+dynamics in healthy and Botrytis-affected grape must fermentations. Applied
+Environmental Microbiology 73, 6705–6713.
+Pallmann, C., Brown, J.A., Olineka, T.L., Cocolin, L., Mills, D., Bisson, L., 2001. Use of WL
+medium to proﬁle native ﬂora fermentations. American Journal of Enology and
+Viticulture 52, 198–203.
+Prakitchaiwattana, C.J., Fleet, G.H., Heard, G.H., 2004. Application and evaluation of
+denaturing gradient gel electrophoresis to analyse the yeast ecology of wine
+grapes. FEMS Yeast Research 4, 865–877.
+Pretorius, I.S., Van der Westhuizen, T.J., Augustyn, O.P.H., 1999. Yeast biodiversity in
+vineyards and wineries and its importance to the South African wine industry.
+South African Journal of Enology and Viticulture 20, 61–74.
+Raspor, P., Milek, D.M., Polanc, J., Možina, S.S., Čadež, N., 2006. Yeasts isolated from three
+varieties of grapes cultivated in different locations of the Dolenjska vine-growing
+region, Slovenia. International Journal of Food Microbiology 109, 97–102.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., Lonvaud, A. (Eds.), 2000. Cytology,
+Taxonomy and Ecology of Grape and Wine Yeast, Handbook of Enology, vol. 1. John
+Wiley and Sons, West Sussex (England), pp. 1–49.
+Romano, P., 2002. Role of apiculate yeasts on organoleptic characteristics of wine. In:
+Ciani, M. (Ed.), Biodiversity and Biotechnology of Wine Yeasts. Research Signpost,
+Trivandrum, India, pp. 99–109.
+
+Romano, P., Fiore, C., Paraggio, M., Caruso, M., Capece, A., 2003. Function yeast species
+and strains in wine ﬂavour. International Journal of Food Microbiology 86, 169–180.
+Rousseau, S., Doneche, B., 2001. Effect of water activity (aw) on the growth of some
+epiphytic microorganisms isolated from grape berry. Vitis 40, 75–78.
+Sabaté, J., Cano, J., Esteve-Zarzoso, B., Guillamón, J.M., 2002. Isolation and identiﬁcation
+of yeasts associated with vineyard and winery by RFLP analysis of ribosomal genes
+and mitochondrial DNA. Microbiology Research 157, 267–274.
+Takashima, M., Sugita, T., Shinoda, T., Nakase, T., 2003. Three new combinations from
+the Cryptococcus laurentii complex: Cryptococcus aureus, Cryptococcus carnescens
+and Cryptococcus peneaus. International Journal of Systematic and Evolutionary
+Microbiology 53, 1187–1194.
+Tofalo, R., Chaves-López, C., Di Fabio, F., Schirone, M., Felis, G.E., Torriani, S., Paparella, A.,
+Suzzi, G., 2009. Molecular identiﬁcation and osmotolerant proﬁle of wine yeasts
+that ferment a high sugar grape must. International Journal of Food Microbiology
+130, 179–187.
+White, T.J., Bruns, T., Lee, S., Taylor, J., 1990. Ampliﬁcation and direct sequencing of
+fungal ribosomal RNA genes for phylogenetics. In: Innis, M.A., Gelfand, D.H., Sinisky,
+J.J., White, T.J. (Eds.), PCR Protocols. A Guide to Methods and Applications.
+Academic Press Inc, London, pp. 315–322.
+Zott, K., Miot-Sertier, C., Claisse, O., Lonvaud-Funel, A., Masneuf-Pomarede, I., 2008.
+Dynamics and diversity of non-Saccharomyces yeasts during the early stages in
+winemaking. International Journal of Food Microbiology 125, 197–203.
+
+

@@ -1,0 +1,680 @@
+Yeast
+Yeast 2015; 32: 559–565.
+Published online 14 July 2015 in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/yea.3079
+
+Research Article
+
+Viability of Hanseniaspora uvarum yeast preserved by
+lyophilization and cryopreservation
+Giovana de Arruda Moura Pietrowski1*, Mayara Grochoski2, Gabriela Felkl Sartori2,
+Tatiane Aparecida Gomes3, Gilvan Wosiacki3 and Alessandro Nogueira3
+1
+
+Department of Food, Federal Technological University of Paraná, Ponta Grossa Campus, PR, Brazil
+Department of Food, Federal Technological University of Paraná, Ponta Grossa Campus, PR, Brazil
+3
+Department of Food Science and Technology, State University of Ponta Grossa, PR, Brazil
+2
+
+*Correspondence to:
+G. de Arruda Moura Pietrowski,
+Department of Food, Federal
+Technological University of
+Paraná, Ponta Grossa Campus,
+Av. Monteiro Lobato, s/n Km 04,
+CEP 84016-210, Ponta Grossa,
+PR, Brazil.
+E-mail: gampietrowski@brturbo.
+com.br
+
+Received: 27 June 2013
+Accepted: 29 May 2015
+
+Abstract
+Hanseniaspora yeasts are known to produce volatile compounds that give fruity aromas
+in wine and fermented fruit. This study aimed to verify the feasibility of the
+Hanseniaspora uvarum strain that had been isolated and identiﬁed during a previous
+study and preserved by lyophilization and freezing at 80 °C (cryopreservation). This
+strain was assessed in relation to its macroscopic and microscopic morphology and for
+its ability to ferment apple must. After having been subjected to lyophilization and
+cryopreservation, viability was assessed in relation to these characteristics during
+12 months of storage. The strain showed stable colonial features and its microscopic
+appearance was unchanged during all recoveries. The plate count results showed
+consistency in both processes. Regarding the fermentative capacity, the kinetic results
+showed 100% viability for the strain subjected to lyophilization, as well as for those
+preserved at 80 °C. These results demonstrate that the preservation methods used
+are compatible with the maintenance of the relevant characteristics of the strain for
+the period of evaluation of this study (12 months). Copyright © 2015 John Wiley &
+Sons, Ltd.
+Keywords: cryopreservation; lyophilization; Hanseniaspora uvarum
+
+Introduction
+The genus Hanseniaspora is recognized for its
+aromatic contribution to ciders, fermented fruits
+and wines, due to the production of esters that provide these beverages with ’fruity’ and/or ’ﬂoral’
+sensory notes (Viana et al., 2009; Moreira et al.,
+2005, 2008; Xu et al., 2006; Xufre et al., 2006).
+According to Girão et al. (2004), the proper
+preservation of yeast cultures is essential for future
+studies because it is necessary to maintain the same
+morphological and physiological properties of
+the strains, regardless of the storage method that
+is chosen.
+According to Baker and Jefries (2006) and
+Lastra et al. (2001), the maintenance of strains by
+the processes of lyophilization, cryopreservation
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+or in sterile water are the best methods of preservation, because they permit the reduction of cell metabolism to a basal level, they the phenotypic and
+genotypic characteristics of the micro-organisms
+and also contribute to reducing the risk of contamination. Cavalcanti (2010) tested the methods of
+lyophilization and freezing at 80 °C in three genera of yeast (Candida spp., Cryptococcus spp. and
+Trichosporon spp.) and found 100% viability of
+the strains kept for 6 months or more under these
+conditions.
+During the freezing process, the species to be
+frozen, in either liquid nitrogen or an ultra-freezer,
+should undergo multiplication in 3 ml liquid medium for 24 h, followed by stirring with the addition
+of 1 ml 60% glycerol solution; it should then be
+stored in containers that are appropriate for freezing.
+
+560
+
+The cultures are frozen at 30 °C for 30–60 min and
+taken to the ultra-freezer at 80 °C or in liquid nitrogen tanks (Kurtzman et al., 2003; Yarrow, 1998).
+This process, widely used for the preservation of
+culture collections to ensure stability and reliability, is not intended for commercial purposes
+(Suárez Lepe, 1997).
+The lyophilization process consists of the dehydration of the material through the sublimation of
+frozen water at low temperatures under vacuum.
+It is a process of simultaneously transferring mass
+and heat, in which heat is supplied to the frozen
+product and the water vapour is continuously
+removed. The initial freezing stage should be
+performed with the minimum possible formation
+of ice crystals. In the second stage (primary drying)
+the free water is removed from the product, and in
+the third stage (secondary drying) the water that is
+strongly chemically linked increases in temperature and leaves the product. After lyophilization,
+the dehydrated micro-organisms (with greatly
+reduced metabolic activity) are transferred into ampoules that are sealed and stored at room temperature, which facilitates transport and marketing
+(Pitombo, 2005; Robert et al., 2006). The tolerance
+of residual moisture content for fungi is 1.0–2.5%.
+More severe drying will result in irreversible damage to the cells, due to the denaturation of proteins
+and lipids, while a higher moisture content reduces
+the useful life of the material (Melin et al., 2011;
+Robert et al., 2006).
+However, there is no universally efﬁcient
+method for all genera and species of fungi, due to
+differences in their metabolic and physiological
+characteristics. Thus, the behaviour of each
+micro-organism in relation to different conservation processes is the result of different biochemical
+and physiological factors (Paoli, 2005; Deshmuhk,
+2003; Figueiredo, 2001; Silva et al., 2008).
+This study aimed to evaluate the viability of
+Hanseniaspora uvarum in relation to two methods
+of preservation, lyophilization and freezing at
+80 °C, during 12 months of storage.
+
+Materials and methods
+The Hanseniaspora uvarum strain that was used
+was part of the collection of strains at the Federal
+Technological University of Paraná, Ponta Grossa
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+G. de Arruda Moura Pietrowski et al.
+
+Campus (Pietrowski et al., 2012). The culture
+media and reagents used were of analytical grade.
+
+Conservation of H. uvarum by lyophilization
+In order to increase the biomass to be lyophilized, a
+colony of a fresh strain of H. uvarum isolated in
+yeast–malt agar (YMA) was inoculated in 5 ml glucose peptone yeast extract broth (GPYB), incubated
+at 25 °C in an incubator and stirred (Marconi NA
+832/1) for 24 h. This culture was transferred to an
+Erlenmeyer ﬂask containing 100 ml of the same medium and incubated again under the same conditions
+for 48 h at 25 °C (Schmidell et al., 2001), reaching a
+population of approximately 1012 cfu/ml.
+The culture obtained was centrifuged (CELM,
+Combate) at 3000 rpm for 15 min, followed by
+two washes with sterile distilled water. This process reduced the population of yeasts to approximately 109 cfu/ml. The clean biomass was placed
+into a sterile container and then the homogenized
+content was distributed into penicillin-type ﬂasks
+(vials with 5 ml capacity), with previously sterilized rubber stoppers, for lyophilization (Terroni
+LD 1500).
+The vials were frozen in a freezer (Consul 530)
+at 20 °C for 24 h and sent to the lyophilizer,
+which had an initial temperature of 56 °C and
+an initial vacuum of 1335 Vca and 66 μHg. After
+24 h, when the vacuum reached zero, the process
+was completed. The vials were sealed, still under
+vacuum, by the equipment when the lyophilization
+process had ended. Subsequently, metal seals were
+ﬁtted to the vials to ensure perfect sealing. The
+vials containing the lyophilized strain were kept
+in locked cabinets under light, and at room temperature, until the date of each recovery.
+
+Conservation of H. uvarum at 80 °C
+(cryopreservation)
+A fresh colony of the strain of H. uvarum was
+inoculated into glucose peptone yeast and malt
+extract broth (GYMP), sterilized in glass tubes
+with cotton plugs and incubated at 25 °C for 24 h
+or until growth of the yeast in the broth was
+observed by its turbidity. This culture was added
+to 50 ml GYMP and incubated at 25 °C for 24 h.
+Aliquots (1 ml) of the culture obtained (population of approximately 1012 cfu/ml) were transferred
+to a sterile CryoTubes (Alfa), properly identiﬁed,
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+Cryopreservation, lyophilization and viability of H. uvarum
+
+and then four drops of glycerol, which had previously been sterilized for 2 h at 100 °C in a Pasteur
+oven (Fanem 320 SE), were added. The tubes were
+properly cooled, as a cryoprotectant. After homogenization in a vortex (Vision Scientiﬁc, KMC1300v) for 30 s, the tubes were placed in the
+freezer at 20 °C for 2 h and were then transferred
+to a freezer at 80 °C (Nuaire NU9668GC, Series
+8050105), where they were stored until the date of
+each recovery (Kurtzman et al., 2003).
+
+Recovery of H. uvarum preserved by
+lyophilization and cryopreservation
+The recovery of the conserved H. uvarum occurred
+soon after the aforementioned processes (considered as 0 time of preservation) and after 3, 6, 9
+and 12 months of storage. From the lyophilized
+material, 7 mg of the contents of the ﬂasks was
+aseptically weighed and transferred to test tubes
+with 9 ml 0.1% peptone water and 1 ml glucose
+for rehydration. Of the material frozen at 80 °C,
+0.5 ml samples were aseptically collected from
+the CryoTubes, once thawed, and recovered in
+tubes with 8.5 ml 0.1% peptone water and 1 ml
+glucose. The tubes were subjected to stirring with
+the help of a vortex (Vision Scientiﬁc KMC1300v)
+and then remained at rest for 20 min.
+The initial population of 106 cfu/ml was used as
+an inoculum for checking the fermentative capacity of the conserved strain, for a plate count and
+also to verify the morphological characteristics.
+
+Assessment of the viability of strains
+Plate counts of strains
+To perform the plate count of H. uvarum preserved
+by both processes, aliquots of 1.0 ml suspension
+obtained in the recovery were withdrawn. After serial dilutions were completed, the plate surfaces
+were sown using a Drigalski handle in YMA.
+The plates were incubated at 25 °C for 48 h (Crous
+et al., 2009).
+
+Veriﬁcation of morphology
+The macroscopic appearance of the colonies of obtained H. uvarum was observed prior to the count.
+After recording the results of both the count and
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+561
+
+the macroscopic appearance, the colonies were
+used for the microscopic preparations of staining
+to observe the microscopic characteristics of the
+preserved strains.
+
+Veriﬁcation of fermentative capacity in apple must
+The clariﬁed, ﬁltered and pasteurized apple must,
+obtained in accordance with Pietrowski et al.
+(2012), was packaged in 250 ml Erlenmeyer ﬂasks,
+with a working volume of 200 ml, sterilized by
+autoclaving (Phoenix - AV75) at 121 °C for
+15 min, and equipped with a bung. Chloramphenicol antibiotic was added (0.01%:99%; Henrifarma,
+São Paulo) to control bacterial growth. H. uvarum,
+preserved by both lyophilization and freezing at
+80 °C, was inoculated into the Erlenmeyer ﬂasks
+(study of standardization of the inoculum, data not
+shown; an initial count of 106 and 104 cfu/ml to
+strains cryopreserved and lyophilized, respectively) and identiﬁed and incubated in a bacteriological incubator (Quimis 316 B24) at 25 °C for
+10 days. The fermentation kinetics were calculated
+by monitoring the mass loss of the fermentations
+(200 ml) through the release of carbon dioxide
+(CO2) through the bung. Weighing occurred every
+2 h in an analytical balance (0.001 g sensitivity;
+Bell Engineering 1300) until constant mass was
+attained (Roger et al., 2002; Bely et al., 1990).
+The fermentation rate was calculated by the variation in the loss of CO2 vs time (equation 1):
+V ¼ ΔCO2 =Δt
+
+(1)
+
+where V is the rate of fermentation (g CO2/l/day),
+ΔCO2 is the variation in production of CO2 (g/l)
+and Δt is the variation in time (days).
+
+Results and discussion
+The results of the H. uvarum plate counts in
+Table 1 show the population stability (4.9 × 106–
+9.4 × 106 cfu/ml) in the samples preserved at
+80 °C. However, even though they remained in
+the same logarithmic cycle at all times during the
+recovery, there was a signiﬁcant difference between the samples, with the 6 months sample
+having the highest score. These differences may
+have occurred due to inadequate homogenization
+of the sample before transfer to the CryoTubes.
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+G. de Arruda Moura Pietrowski et al.
+
+562
+
+Table 1. Cellular viability of H. uvarum preserved at 80 °C after different periods of storage
+Preservation time (months)
+0
+3
+6
+9
+12
+
+Population (cfu/ml)
+6c
+
+5.85 × 10
+6d
+4.93 × 10
+9.41 × 106a
+7.81 × 106b
+6c
+6.42 × 10
+
+SD ± (cfu/ml)
+
+Coefﬁcient of variation (%)
+
+50 000
+152 752
+76 376
+175 594
+80 829
+
+0.8
+3.1
+0.8
+2.2
+1.2
+
+Average of three replicates: different letters indicate signiﬁcant differences (p < 0.05) in the populations.
+
+In the recovery of the strain preserved by lyophilization, the counts showed values in the
+range 1.17 × 104–1.68 × 104 cfu/ml (Table 2). It
+is noteworthy that the population was not significantly different from time 0 to 12 months of
+storage. However, signiﬁcant differences were
+found in the samples recovered after 3 and
+6 months. It seems that the cellular injuries were
+caused by the process without the use of cryoprotectants or to readjust its internal volume
+internal pressure (Goward et al., 1986), apart
+from the regulation of other affected cell functions (Groleau et al., 1995), which can occur
+after 3–6 months storage.
+The differences in the scores of the strains of lyophilized (104 cfu/ml) and cryopreserved (106 cfu/ml)
+H. uvarum were due to different preparation for
+the preservation process. However, lyophilization
+results in more injuries to micro-organisms that
+cryopreservation because, in addition to freezing at
+20 °C (part of both processes), it involves dehydration of the material due to the sublimation of frozen
+water at low temperatures under vacuum (Robert
+et al., 2006). Some authors report morphological
+changes after lyophilization, or even the nonviability of micro-organisms in the freezing phase
+prior to lyophilization (Morgan et al., 2006; Voyron
+et al., 2009; Paoli, 2005; Figueiredo, 2001).
+According to Morgan et al. (2006), there are few
+studies that deﬁne the initial concentration of cells
+ideal for lyophilization; however, historically,
+quantities > 108 cells/ml ensure the recovery of
+
+viable cells in a lyophilized sample. Bozoglu
+et al. (1987) recommended cultures with
+concentrations > 107 cells/ml for lyophilization, in
+order to ensure sufﬁcient cells remaining after lyophilization, long-term storage and successful reconstitution of the strain. Thus, considering that
+the initial concentration of yeasts in this study
+was approximately 1012 cfu/ml, exceeding the
+values mentioned in the literature, cryoprotectant
+substances were not used for the growth phase
+and freezing of H. uvarum prior to lyophilization.
+Bozoglu et al. (1987) suggested that the survival
+of 0.1% of the original cell population is ’sufﬁcient’ to allow the continuation of a line after
+lyophilization. The results of our study showed
+counts in the range 1.17 × 104–1.68 × 104 cfu/ml.
+Therefore, counts < 0.1% of 1012 cfu/ml, the initial
+population of lyophilization, suggest that the lack
+of cryoprotectant during the cultivation of yeasts
+may have inﬂuenced their viability; however,
+this did not compromise the preservation of the
+H. uvarum strain over 12 months.
+Morgan et al. (2006) point out that the reason for
+the preservation of cells at high concentrations is
+based on the premise that many cells die during
+storage for extended periods, but enough survive
+to allow the continuation of the lineage. However,
+in our study, the recovery of newly lyophilized
+yeasts and those recovered after 12 months showed
+no signiﬁcant difference in count results, suggesting that the death of the yeasts occurred during
+lyophilization and not during storage.
+
+Table 2. Cellular viability of H. uvarum preserved by lyophilization after different periods of storage
+Preservation time (months)
+0
+3
+6
+12
+
+Population (cfu/ml)
+4c
+
+1.20 × 10
+1.68 × 104a
+1.43 × 104b
+1.17 × 104c
+
+SD ± (cfu/ml)
+
+Coefﬁcient of variation (%)
+
+1732
+721
+608
+642
+
+14.4
+4.3
+4.2
+5.4
+
+Average of three replicates: different letters indicate signiﬁcant differences (p < 0.05) in the populations.
+
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+Cryopreservation, lyophilization and viability of H. uvarum
+
+Regarding the macro- and microscopic characteristics of colonies of H. uvarum, it can be noticed
+(Table 3) that in all the recoveries the samples
+remained unchanged, demonstrating the same
+characteristics observed in the natural strain, before being subjected to the studied processes.
+Thus, both in relation to the macroscopic appearance of the colonies and the cellular characteristics,
+this conﬁrmed the results described for this yeast
+reported by Smith (1998). This shows that the
+preservation methods in the present study are compatible with these characteristics.
+The results are in agreement with the reports of
+other authors, such as Mariano (2006), who, having examined ﬁve methods of serial conservation
+(transfer in solid medium, mineral oil, distilled
+water, freezing at 70 °C and lyophilization) of
+strains of clinical and industrial interest, found that
+all samples remained with their macro- and microscopic features stable and showed their colonial
+characteristics to be unchanged during all tests.
+Cavalcanti (2010) worked with three genera of
+
+563
+
+yeasts, among other micro-organisms, and concluded that both lyophilization and freezing at
+80 °C were suitable for the preservation of
+species of yeasts, since the viability of the isolated
+material kept under these conditions for 6 months
+was 100%.
+The lyophilization process has been applied to
+yeast and ﬁlamentous fungi with good recovery
+results, preserving the phenotypic and genotypic
+characteristics of micro-organisms for prolonged
+periods (Cavalcante et al., 2007; McGinnis et al.,
+1974). However, some authors have reported morphological changes after lyophilization, or even the
+non-viability of the fungus in freezing prior to
+lyophilization (Voyron et al., 2009; Paoli, 2005),
+a fact that was not observed in the H. uvarum strain
+preserved for 12 months in the present study.
+In our experiments involving the fermentation of
+apple must with the strain of H. uvarum before
+being subjected to the processes of preservation
+tested in this study, we determined a maximum
+rate of 3.85 g CO2/l/day in a time of 4.25 days.
+
+Table 3. Results of macro- and microscopic characteristics of strains of H. uvarum preserved by freezing and lyophilization
+after different periods of storage
+Preservation method
+Cryopreservation at 80 °C
+
+Lyophilization
+Preservation
+time (months)
+0
+3
+6
+12
+
+Aspects of colonies
+Whitish, smooth
+Whitish, smooth
+Whitish, smooth
+Whitish, smooth
+
+and
+and
+and
+and
+
+shiny edges
+shiny edges
+shiny edges
+shiny edges
+
+Microscopic aspect
+Peaked cells
+Elongated cells
+Elongated cells
+Elongated cells
+
+Aspects of colonies
+Whitish,
+Whitish,
+Whitish,
+Whitish,
+
+smooth and
+smooth and
+smooth and
+smooth and
+
+Microscopic aspect
+
+shiny edges
+shiny edges
+shiny edges
+shiny edges
+
+Peaked cells
+Peaked cells
+Elongated cells
+Peaked cells
+
+Figure 1. Fermentation rates of H. uvarum during apple must fermentation after being preserved (A) at 80 °C and (B) by
+lyophilization for different periods of storage
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+564
+
+These values were used as the default behaviour for
+the studied yeast strain, given that until then it had
+been stored in inclined tubes containing YMA
+(yeast malt agar) at a temperature of 7–10 °C, with
+periodical sampling at 3 months, a process that does
+not subject the micro-organism to the damage
+suffered in the investigated preservations.
+The results of the fermentative capacity of H.
+uvarum in apple must are shown in Figure 1(A) and
+demonstrate that the yeast maintained its high fermentative activity after being preserved at 80 °C
+for 12 months. However, the maximum fermentation
+rate was variable (3.0–6.0 g CO2/l/day) and occurred
+between 2.0 and 3.5 days. This difference in fermentation rate may be related to the problem of biomass
+homogenization in cryopreservation procedures, as
+observed in Table 1.
+Figure 1B shows the fermentative activity of H.
+uvarum in apple must after different periods of
+preservation by lyophilization. Due to a lower initial cell population (104 cfu/ml), the maximum rate
+of fermentation took longer to achieve (3.0 g CO2/
+l/day to 4.0 days), in comparison to the cryopreserved strain, which had a higher initial inoculum
+(106 cfu/ml). The maximum rates of fermentation
+were variable, due the differences of population
+observed in Table 2. However, the values were
+similar to those found in cryopreserved strains.
+At time zero (Figure 1B) the lower maximum
+speed was observed in yeast subjected to preservation by lyophilization. This may have been due to
+the short time between the processes of freezing,
+dehydration and rehydration (lyophilization), causing the water bound to the polar heads of the phospholipids of the cells being lost, to a greater extent,
+modifying the membrane ﬂuidity and integrity and
+thus compromising cellular metabolism (Crowe
+et al., 1984); this was not observed in the sample
+preserved at 80 °C (Figure 1A).
+Considering the ease of sample preparation, the
+method of preservation at 80 °C may be regarded
+as the most viable form of preservation of the
+yeasts studied. However, the cost of electric power
+for maintenance at this temperature, as well as possible risks of power failure, with the resultant
+potential loss of material, should be considered.
+Thus, the method of lyophilization, although requiring a little more work in terms of sample preparation, ensures the preservation of the samples at
+room temperature, eliminating the costs and risks
+associated with using an electrical supply.
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+G. de Arruda Moura Pietrowski et al.
+
+Conclusion
+Analysis of the results showed that both studied
+methods of conservation provided proper maintenance of the strain of H. uvarum, ensuring stability
+in macro- and microscopic characteristics as well
+as the counts and fermentative capacity. Thus,
+our study attests to the viability of yeast studied after up to 12 months of preservation by lyophilization stored at room temperature, and also frozen
+at 80 °C in an ultra-freezer.
+
+References
+Baker M, Jefries P. 2006. Use of commercially available cryogenic
+vials for long-term preservation of dermatophyte fungi. J Clin
+Microbiol 44: 617–618.
+Bely M, Sablayrolles JM, Barre P. 1990. Description of alcoholic
+fermentation kinetics: its variability and signiﬁcance. Am J Enol
+Viticult 41: 319–324.
+Bozoglu TF, Ozilgen M, Bakir U. 1987. Survival kinetics of lactic
+acid starter cultures during and after freeze drying. Enzyme
+Microb Tech 9: 531–537.
+Cavalcante SC, Freitas RS, Vidal MSM, et al. 2007. Evaluation of
+phenotypic and genotypic alterations induced by long periods of
+subculturing of Cryptococcus neoformans strains. Mem I
+Oswaldo Cruz 102: 41–47.
+Cavalcanti SDB. 2010. Aplicação de metodologias de preservação e
+caracterização de fungos na coleção de culturas do Instituto de
+Medicina Tropical de São Paulo. MA Dissertation, Department
+of Medicine, University of São Paulo; pp 61.
+Crous PW, Verkley GJM, Groenewald JZ, Samson RA (eds). 2009.
+Fungal Biodiversity. CBS–KNAW Fungal Biodiversity Centre:
+Utrecht, The Netherlands; 189–197.
+Crowe LM, Mouradian R, Crowe JH, et al. 1984. Effect of
+carbohydrates on membrane stability at low water activities.
+Biochim Biophys Acta 769: 141–150.
+Deshmuhk SK. 2003. The maintenance and preservation of
+keratinophilic fungi and related dermatophytes. Mycoses 46:
+203–207.
+Figueiredo MB. 2001. Métodos de preservação de fungos
+patogênicos. Biológico 63: 73–82.
+Girão MD, Prado MR, Brilhante RSN, et al. 2004. Viabilidade de
+cepas de Malassezia pachydermatis mantidas em diferentes
+métodos de conservação. Rev Soc Bras Med Trop 37: 229–233.
+Goward CR, Atkinson T, Scawen MD. 1986. Rapid puriﬁcation of glucokinase and glycerokinase from Bacillus stearothermophilus by hydrophobic interaction chromatography. J Chromatogr 369: 235–239.
+Groleau D, Chevalier P, Tse Hing Yeun TLS. 1995. Production of
+polyols and ethanol by the osmophylic yeast Zygosaccharomyces
+rouxii. Biotechnol Lett 17: 315–320.
+Kurtzman C, Boekhout T, Robert V, et al. 2003. Methods to identify
+yeast. In Yeast in Food: Beneﬁcial and Detrimental Aspects,
+Boekhout T, Robert V (eds). CRC Press: Cambridge; 69–121.
+Lastra CLL, Hajek AE, Humber RA. 2001. Effects of two
+cryopreservation techniques on viability and pathogenicity of
+entomophthoralean fungi. Can J Bot 79: 861–864.
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+Cryopreservation, lyophilization and viability of H. uvarum
+Mariano PDLSA. 2006. Diferentes processos de armazenamento de
+leveduras; estudos sobre a variabilidade fenotípica e genotípica.
+PhD thesis, Department of Dentistry, State University of Campinas,
+Piracicaba; pp 118.
+McGinnis MR, Padhye AA, Ajello L. 1974. Storage of stock cultures
+of ﬁlamentous fungi, yeasts, and some aerobic actinomycetes in
+sterile distilled water. Appl Microbiol 28: 218–222.
+Melin P, Schnürer J, Hakansson S. 2011. Formulation and
+stabilisation of the biocontrol yeast Pichia anomala. Antonie
+Van Leeuwenhoek 99: 107–112.
+Moreira N, Mendes F, Pinho PG, et al. 2008. Heavy sulphur
+compounds, higher alcohols and esters production proﬁle of
+Hanseniaspora uvarum and Hanseniaspora guilliermondii
+grown as pure and mixed cultures in grape must. Int J Food
+Microbiol 124: 231–238.
+Moreira N, Mendes F, Pinho PG, et al. 2005. Alcohols, esters and
+heavy sulphur compounds production by pure and mixed cultures
+of apiculate wine yeasts. Int J Food Microbiol 103: 285–294.
+Morgan CA, Herman N, White PA, Vesey G. 2006. Preservation of
+micro-organisms by drying: a review. J Microbiol Meth 66: 183–193.
+Paoli P. 2005. Biobanking in microbiology: from sample collection
+to epidemiology, diagnostics and research. FEMS Microbiol 29:
+817–910.
+Pietrowski GAM, Dos Santos CME, Sauer E, et al. 2012. Inﬂuence
+of fermentation with Hanseniaspora sp. yeast on the volatile
+proﬁle of fermented apple. J Agr Food Chem 60: 9815–9821.
+Pitombo RNM. 2005. Lioﬁlização. In Puriﬁcação de Produtos
+Biotecnológicos, Pessoa A Jr, Kilikian BV (eds). Manole: Barueri
+(SP); 332–348.
+Robert V, Stalpers J, Boekhout T, Tan S. 2006. Yeast biodiversity and
+culture collections. In Biodiversity and Ecophysiology of Yeasts,
+Rosa CA, Péter G (eds). Springer-Verlag: Berlin, Heidelberg;
+31–44.
+
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+565
+
+Roger JM, Sablayrolles JM, Steyer JP, Bellon-Maurel V. 2002. Pattern
+analysis techniques to process fermentation curves: application to
+discrimination of enological alcoholic fermentations. Biotechnol
+Bioeng 79: 804–815.
+Schmidell W, Lima UA, Aquarone E, Borzani W (eds). 2001.
+Biotecnologia Industrial: Engenharia Bioquímica. Edgard Blücher:
+São Paulo.
+Silva JO, Costa PP, Reche SHC. 2008. Yeasts maintenance for
+freezing at 20 °C. Rev Bras Anal Clin 40: 73–74.
+Smith MT. 1998. Hanseniaspora zikes. In The Yeasts: A Taxonomic
+Study, 4th edn, Kurtzman C, Fell JW (eds). Elsevier Science:
+Florida, FL; 214–220.
+Suárez Lepe JA. 1997. Levaduras Vínicas: Funcionalidad y uso en
+Bodega. Mundi-Prensa: Madrid; 221–241.
+Viana F, Gila JV, Vallésa S, Manzanares AP. 2009. Increasing the
+levels of 2-phenylethyl acetate in wine through the use of a mixed
+culture of Hanseniaspora osmophila and Saccharomyces
+cerevisiae. Int J Food Microbiol 135: 68–74.
+Voyron S, Roussel S, Manaut F, et al. 2009. Vitality and genetic
+ﬁdelity of white-rot fungi mycelia following different methods
+of preservation. Mycol Res 113: 1027–1038.
+Xu Y, Zhao GA, Wang LP. 2006. Controlled formation of volatile
+components in cider making using a combination of Saccharomyces
+cerevisiae and Hanseniaspora valbyensis yeast species. J Ind
+Microbiol Biot 33: 192–196.
+Xufre A, Albergaria H, Inácio J, et al. 2006. Application of ﬂuorescence
+in situ hybridisation (FISH) to the analysis of yeast population
+dynamics in winery and laboratory grape must fermentations. Int J
+Food Microbiol 108: 376–384.
+Yarrow D. 1998. Methods for the isolation, maintenance and
+identiﬁcation of yeasts. In The Yeasts: A Taxonomic Study,
+4th edn, Kurtzman C, Fell JW (eds). Elsevier Science: Florida,
+FL; 77–100.
+
+Yeast 2015; 32: 559–565.
+DOI: 10.1002/yea
+
+

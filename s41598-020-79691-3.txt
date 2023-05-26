@@ -1,0 +1,1043 @@
+www.nature.com/scientificreports
+
+OPEN
+
+Separate and combined
+Hanseniaspora uvarum
+and Metschnikowia pulcherrima
+metabolic volatiles are
+attractive to Drosophila suzukii
+in the laboratory and field
+R. Jones
+
+1,2*
+
+, M. T. Fountain
+
+2
+
+, C. S. Günther
+
+1,4
+
+, P. E. Eady
+
+1
+
+& M. R. Goddard
+
+1,3
+
+Drosophila suzukii flies cause economic losses to fruit crops globally. Previous work shows various
+Drosophila species are attracted to volatile metabolites produced by individual fruit associated yeast
+isolates, but fruits naturally harbour a rich diversity of yeast species. Here, we report the relative
+attractiveness of D. suzukii to yeasts presented individually or in combinations using laboratory
+preference tests and field trapping data. Laboratory trials revealed four of 12 single yeast isolates
+were attractive to D. suzukii, of which Metschnikowia pulcherrima and Hanseniaspora uvarum were
+also attractive in field trials. Four out of 10 yeast combinations involving Candida zemplinina, Pichia
+pijperi, M. pulcherrima and H. uvarum were attractive in the laboratory. Whilst a combination of M.
+pulcherrima + H. uvarum trapped the greatest number of D. suzukii in the field, the efficacy of the M.
+pulcherrima + H. uvarum combination to trap D. suzukii was not significantly greater than traps primed
+with volatiles from only H. uvarum. While volatiles from isolates of M. pulcherrima and H. uvarum show
+promise as baits for D. suzukii, further research is needed to ascertain how and why flies are attracted
+to certain baits to optimise control efficacy.
+Drosophila suzukii (Matsumra), also known as spotted wing drosophila, is a damaging polyphagous pest that
+caused $511.3 million USD losses in three USA states in 2008 ­alone1. D. suzukii originated in Southeast Asia but
+has spread around the globe in the last 15 years and is now present in most Northern Hemisphere temperate
+regions. D. suzukii was first detected in Europe and mainland USA in 2008 and the UK in ­20121–3. Unlike other
+Drosophila species, D. suzukii can oviposit in a wide range of ripening fruits due to the females’ morphologically
+modified ovipositor which punctures the fruit epicarp to insert e­ ggs4. Larvae feed inside the damaged fruits and
+exacerbate secondary infections by various microbes which further increase oviposition by other Drosophila
+­species5, resulting in significant commercial losses. The main control measure for this pest is the application of
+insecticides coupled with crop hygiene and insect exclusion meshes. However, the use of insecticides is undesirable as these are not D. suzukii specific and have withholding (harvest interval) periods; in addition, the use of
+insecticides will select for ­resistance6. It is therefore valuable to evaluate complementary low or no-input methods
+that may be integrated with existing management options to control the burden of D. suzukii in fruit production.
+Yeasts provide a source of protein for Drosophila which is important for fecundity and egg d
+­ evelopment7,8. D.
+melanogaster larvae fed on Saccharomyces cerevisiae yeast had faster development times and greater success in
+pupal development compared to flies on yeast-free d
+­ iets9. D. melanogaster larval development time is more rapid
+on diets with greater yeast species ­diversity10. D. suzukii larvae survival is lower when reared on diets lacking
+­yeast11,12 and a greater number of larvae survived when fed Hanseniaspora uvarum as opposed to Metschnikowia
+pulcherrima ­yeast13. Lewis and H
+­ amby12 showed that while D. suzukii larvae exhibited a preference for H. uvarum
+1
+School of Life Sciences, University of Lincoln, Lincoln LN6 7DL, UK. 2NIAB EMR, New Road, East Malling,
+Kent ME19 6BJ, UK. 3The School of Biological Sciences, University of Auckland, Auckland, New Zealand. 4Present
+address: The New Zealand Institute of Plant and Food Research Ltd, Albert Road, Auckland, New Zealand. *email:
+roryjones@lincoln.ac.uk
+
+Scientific Reports |
+
+(2021) 11:1201
+
+| https://doi.org/10.1038/s41598-020-79691-3
+
+1
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+over S. cerevisiae yeast, this preference did not translate to more rapid development ­time12. Given the apparent
+role of yeast in Drosophila fitness it is reasonable to suggest that natural selection will have operated on Drosophila traits that increase the probability of locating yeast laden-fruits14,15. In line with this prediction Drosophila
+females prefer to oviposit on yeast-colonised f­ ruit13, and yeast metabolic volatiles act as cues for Drosophila to
+locate fruit with yeasts (e.g.14,16). The attraction of various Drosophila species to volatiles produced by different
+yeast species and strains within species v­ aries14,15,17,18. D. melanogaster is attracted to a wide range of yeast from
+diverse ­backgrounds19 with a preference for Saccharomyces yeasts and species isolated from f­ ruit17. Less is known
+for D. suzukii, but there are reports that isolates of H. uvarum, Candida zemplinina, S. cerevisiae, Pichia terricola
+and Candida californica yeasts are attractive to D. suzukii18.
+Chandler et al.20 evaluated yeast communities from 11 different Drosophila species and showed the same yeast
+species tend to be associated with Drosophila irrespective of diet, Drosophila species or geographic location. H.
+uvarum, Hanseniaspora valbenysis, M. pulcherrima and Torulaspora delbruckii were associated with D. simulans
+and D. melanogaster from two vineyard sites in ­Australia21, and H. uvarum was the dominant yeast isolated from
+D. suzukii larvae and adults from US cherry orchards, followed by Issatchenkia terricola and Pichia kluyveri22.
+These species, among others, were also recovered from the larval frass of D. suzukii, again with H. uvarum being
+the most ­abundant23. Hanseniaspora, Pichia and Candida yeast genera were among those identified from the
+guts of wild caught winter-morph D. suzukii in the U
+­ K24. It thus appears that H. uvarum is often found associated with D. suzukii; however, H. uvarum is also very common on fruits including cherries, r­ aspberries22, apples,
+plum, ­pears25 and g­ rapes26 and so this association may simply reflect the fact that insects visiting fruits pick up
+common yeast as they do. Further, while specific H. uvarum isolates are attractive to specific D. suzukii lines in
+laboratory ­studies18,27,28, H. uvarum is also attractive to other Drosophila species, including D. melanogaster15,
+17,18,29
+. Together this suggests that the D. suzukii: H. uvarum relationship is not specific.
+Yeasts are single-celled fungi and while they are ubiquitous in terrestrial and aquatic habitats, they are commonly found associated with fruits (e.g.30,31). Yeasts have long been known to interact with some species of
+Drosophila via ­fruits32 and can be vectored by insects to new ­habitats14,16. Fruits are an ephemeral habitat which
+suggests natural selection will have operated on yeast traits that increase their likelihood of escaping fruits to
+colonise new habitats as this increases fitness; attracting vectors such as Drosophila is one way to achieve t­ his14,16.
+There is some evidence for a mutualistic relationship between certain Drosophila and yeast isolates; for example,
+a more attractive S. cerevisiae isolate was vectored further by D. simulans than a less attractive one in laboratory and vineyard experiments, and D. simulans associated with the more attractive yeast also laid more e­ ggs14.
+However, there is a lack of robust evidence to determine whether such interactions are driven by coevolution or
+due to exaptation of a coincidental combination of complementary ­traits33. Yeast metabolic volatile compounds
+can diffuse through both yeast cell walls and air and appear to mediate Drosophila attraction, but the nature of
+chemical attraction is complex as it appears concentration, ­background34 and substrate ­dependent35.
+A range of yeast species are associated with fruits (e.g.30,31) and the particular mix of species in communities varies with geographic l­ocation30,36,37, ripening s­ tage26,38, and fruit v­ ariety36,39. A recent experimental study
+showed that Drosophila attraction to individual yeasts can be unstable and evolve rapidly, suggesting instead
+that Drosophila may be generally adapted to sense and locate fruits infested by a community (i.e. a mix) of yeast
+­species15. However, to date only single isolates of yeasts have been tested for Drosophila attraction (e.g.14,17,18,34).
+Here we investigate the attractiveness of both single yeast isolates and combinations of yeasts in laboratory and
+field assays to evaluate their potential as baits for use in integrated pest management strategies to control D.
+suzukii. Specifically, we test three main hypotheses: (1) some yeast isolates produce specific metabolic volatiles
+that are more attractive to D. suzukii than other Drosophila species; (2) volatiles from different genotypes (isolates) of H. uvarum vary in their attractiveness to D. suzukii; and (3) combinations of volatiles from different
+yeast isolates are more attractive to D. suzukii than volatiles from single yeasts. We evaluated the preference of
+D. suzukii under both laboratory and field conditions in order to ascertain the extent to which laboratory preferences predict the behaviour of D. suzukii in the field.
+
+Results
+
+We first tested 12 single yeast isolates separately for attractiveness to D. suzukii, D. melanogaster and D. simulans
+using laboratory T-maze choice experiments. Sterile fruit juice vs. sterile fruit juice controls showed no inherent
+bias in the T-maze apparatus for any fly species (D. suzukii P = 0.44; D. melanogaster P = 0.29, D. simulans P = 0.26;
+Fig. 1). D. suzukii displayed significant differential attraction to the yeast isolates (binomial logistic regression, Δ
+deviance = − 25.63, df = − 12, P = 0.012, Fig. 1a) and individual binomial analyses of fly numbers attracted to each
+yeast isolate showed four were significantly more attractive to D. suzukii compared to sterile strawberry juice
+and, in decreasing order of attraction, these were: M. pulcherrima (AI = 0.36, P = 0.0005), P. pijperi (AI = 0.28,
+P = 0.0006), H. uvarum 201 (AI = 0.25, P = 0.0039), and C. zemplinina (AI = 0.06 P = 0.028). D. suzukii showed neither preference nor repulsion to the remaining eight yeasts with binomial tests (Fig. 1a). D. melanogaster was also
+differentially attracted to the yeast isolates (Δ deviance = − 27.20, df = − 12 P = 0.0072; Fig. 1b). Like D. suzukii,
+D. melanogaster was attracted to M. pulcherrima (AI = 0.29, P = 0.00009), C. zemplinina (AI = 0.13, P = 0.00005),
+and P. pijperi (AI = 0.12, P = 0.013), but was additionally attracted to T. delbrueckii (AI = 0.31, P = 0.000005), S.
+cerevisiae (AI = 0.25, P = 0.0008), H. occidentalis (AI = 0.18, P = 0.0006), C. apicola (AI = 0.18, P = 0.0023), and
+P. kluyveri (AI = 0.09, P = 0.033). The remaining four yeast isolates were neither attractive nor repulsive to D.
+melanogaster (Fig. 1b). D. simulans was also differentially attracted to the yeast isolates (Δ deviance = − 21.52,
+df = − 12 P = 0.043, Fig. 1c), and individual binomial analyses suggest two of the yeasts were significantly attractive
+(H. occidentalis AI = 0.28, P = 0.0013 and P. kluyveri AI = 0.12, P = 0.010), but M. pulcherrima was significantly
+repulsive to D. simulans (AI = − 0.20, P = 0.0092). Taking all the data together, there was a significant effect of
+fly species (ANOVA, F2,291 = 3.77; P = 0.024) but not yeast species (ANOVA, F12,291 = 0.95; P = 0.49) on attraction,
+
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+2
+
+www.nature.com/scientificreports/
+
+0.60
+
+0.40
+
+a. D. suzukii
+P<0.001
+P<0.001
+P=0.0039
+
+0.20
+
+P=0.028
+
+0.00
+
+-0.20
+
+-0.40
+0.60
+
+Mean Attractive Index
+
+0.40
+
+b. D. melanogaster
+P<0.001
+
+P<0.001
+
+P<0.001
+P<0.001
+
+P=0.013
+0.20
+
+P<0.001
+
+P=0.0023
+P=0.033
+
+0.00
+
+-0.20
+
+-0.40
+0.60
+
+c. D. simulans
+P=0.0013
+
+0.40
+
+P=0.010
+
+0.20
+
+P=0.0092
+0.00
+
+-0.20
+
+Treatment
+
+-0.40
+
+Figure 1.  Mean (± SE) Attraction Index (AI) of Drosophila to metabolic volatiles (not identified) from single yeast
+isolates grown in sterile strawberry juice using laboratory T-mazes; control contains no yeast. (a) D. suzukii (N = 6
+except P. kluyveri and C. zemplinina N = 18, N = 9 control). (b) D. melanogaster (N = 6 except P. kluyveri N = 28 and
+C. zemplinina N = 24, control N = 9). (c) D. simulans (N = 6 except P. kluyveri, C. zemplinina N = 18 and control
+N = 8). P-values above bars show significant attraction or repulsion to yeast volatiles over sterile strawberry juice in
+the opposing T-maze arm revealed by binomial analyses. The numbers of individuals that remained in the central
+compartment of the T-maze apparatus differed significantly between Drosophila species (binomial logistic regression,
+Δ deviance = − 741.03, df = − 2, P < 0.001; mean 69% D. suzukii, 42% D. melanogaster and 62% D. simulans).
+Scientific Reports |
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+3
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+
+0.80
+
+D. suzukii
+
+Mean Attractive Index
+
+0.60
+0.40
+
+P=0.0064 P=0.031
+
+P=0.010 P=0.0062 P=0.0024 P=0.0024
+
+0.20
+0.00
+-0.20
+
+-0.40
+
+Treatment
+
+Figure 2.  Mean (± SE) Attraction Index (AI) of D. suzukii to metabolic volatiles (not identified) from eight
+Hanseniaspora uvarum isolates grown in sterile strawberry juice using laboratory T-mazes; control contains no
+yeast (N = 8, except 28–1 and control, N = 7). P-values above bars show significance of attraction to yeast volatiles
+over sterile strawberry juice in the opposing T-maze arm revealed by binomial analyses.
+with no significant interaction between fly and yeast species (ANOVA, F24,291 = 1.45; P = 0.084). No one yeast
+isolate was significantly attractive to all three Drosophila species and H. uvarum 201 was the only yeast isolate
+to be significantly attractive to only D. suzukii (Fig. 1). However, we note that H. uvarum has been shown to be
+significantly attractive to D. melanogaster in a different s­ tudy15.
+
+The attraction of D. suzukii to different isolates of H. uvarum. There was no significant difference
+in attraction of D. suzukii to eight H. uvarum isolates (binomial logistic regression, Δ deviance = − 4.98, df = − 8,
+P = 0.76; Fig. 2). However, individual binomial tests indicate six isolates were more attractive than sterile fruit
+with P < 0.05, which includes the 201 isolate used above, and the 11-382 isolate shown to be attractive to D.
+suzukii ­previously28. The remaining two isolates were neither attractive nor repulsive compared to sterile strawberry juice.
+D. suzukii attraction to single yeasts in the field. Yeast isolates more attractive to D. suzukii than sterile fruit in laboratory tests were taken forward to field assays along with commercially available “Gasser” (RIGA)
+traps and the S. cerevisiae isolate as this was not attractive to D. suzukii but was attractive to D. melanogaster in
+laboratory tests. The majority of the 8,400 Drosophila trapped were D. suzukii (83%) with the remainder mostly
+from the D. obscura/subobscura species group. There was a significant effect of bait type on numbers of D. suzukii
+trapped (linear model Δ deviance = 6434, df = 7, P < 0.001; Kruskal–Wallis, chi-squared = 41.59, df = 7, P = 0.62–7;
+Fig. 3). Gasser-lure trapped the greatest numbers of D. suzukii but Dunn’s comparisons post-hoc (with Benjamini–Hochberg multiple comparison correction) showed these were not significantly greater than numbers
+trapped by H. uvarum 201, H. uvarum (11-382) and M. pulcherrima yeasts (Fig. 3). However, marginal means
+analyses evaluating 95% confidence limits from the linear model indicate that Gasser-lure trapped significantly
+greater numbers of D. suzukii. When the effect of yeasts compared to water and sterile fruit were evaluated (i.e.
+Gasser-lure removed from analyses), there was still a significant effect of yeast type on numbers of D. suzukii
+trapped (Δ deviance = 2670, df = 6, P < 0.001). Post-hoc comparisons using both Dunn’s tests (with multiple testing corrections) and 95% confidence limits from the linear model revealed all traps had significantly greater
+numbers of D. suzukii than the distilled water negative control. In line with laboratory findings, both Dunn’s
+and confidence interval comparisons show S. cerevisiae was equally as attractive as strawberry juice. However,
+in contrast to laboratory assays P. pijperi was no more attractive than sterile juice in the field, but we note the
+laboratory AI corresponds with a positive capture rate in the field, and P. pijperi was more attractive than water
+in the field. H. uvarum (201) volatiles trapped the most D. suzukii in the field (mean 237), followed by H. uvarum
+(11-382) and M. pulcherrima, which trapped the same as each other (141 and 139 respectively; Fig. 3). However,
+analyses of data from the three yeasts that trapped the greatest numbers of D. suzukii are less clear-cut: Dunn’s
+adjusted comparisons indicate there is no significant difference between these three yeasts but that H. uvarum
+(201) trapped more D. suzukii than sterile juice (Padjusted = 0.039) while H. uvarum (11-382) and M. pulcherrima
+did not (at the adjusted P = 0.05 level). Confidence limits derived from the linear model suggest all three yeasts
+trapped more D. suzukii than sterile juice, but that H. uvarum (201) trapped significantly more than H. uvarum
+(11-382) and M. pulcherrima (Fig. 3). Overall, the strict consensus of Dunn’s and linear model confidence limits
+analyses is that H. uvarum (201) trapped significantly greater numbers of D. suzukii than sterile strawberry juice
+in the field.
+There was reasonable alignment between laboratory and field data in terms of attraction and trapping efficacy:
+H. uvarum 201, 11-382 and M. pulcherrima were significantly more attractive to D. suzukii than sterile strawberry
+juice in enclosed T-maze laboratory experiments and H. uvarum 201 trapped significantly greater numbers than
+sterile juice in the field, with suggestions that H. uvarum 11-382 and M. pulcherrima were also effective at trapping reasonable D. suzukii numbers. S. cerevisiae was no more attractive to D. suzukii than sterile fruit juice in
+both T-mazes and field traps but P. pijperi was not more attractive than sterile juice in the field. Overall, these
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+4
+
+www.nature.com/scientificreports/
+
+600
+
+c
+5
+
+Mean number of D. suzukii
+
+500
+
+400
+
+300
+
+c
+4
+
+bc
+3
+
+200
+
+bc
+3
+
+ab
+2
+
+100
+
+ab
+2
+
+ab
+2
+a
+1
+
+0
+
+uvarum
+H. uvarum
+H.H.
+uvarum
+(201) H. uvarum
+(11-382) M.
+M. pulcherrima
+pulcherrima
+(201)
+
+(11-382)
+
+P. pijperi
+pijperi
+P.
+D. suzukii Male
+
+S.cerevisiae
+cerevisiae
+S.
+D. suzukii Female
+
+Sterile strawberry
+Sterile
+strawberry
+juice
+juice
+
+Gasser
+Gasser
+lure
+
+Water
+Water
+
+Treatment
+
+Figure 3.  Mean numbers (± SE) of D. suzukii caught in field traps over a 72-h period baited with metabolic
+volatiles (not identified) from five different yeasts after individual growth in strawberry juice; sterile strawberry
+juice, water and commercial Gasser-lure are controls (N = 6). There was a significant effect of bait type
+on numbers of D. suzukii caught (linear model Δ deviance = 6434, df = 7, P < 0.001; Kruskal–Wallis, chisquared = 41.59, df = 7, P = 0.62–7). Two post-hoc analysis methods were employed: letters above bars connect
+treatments that are not significantly different using Dunn’s comparisons with Benjamini–Hochberg adjusted P
+values, and numbers above bars connect treatments with overlapping 95% confidence intervals calculated from
+Estimated Marginal Means.
+
+experiments show the D. suzukii preference data gathered from enclosed T-mazes in the laboratory serves as a
+reasonable prediction for likely D. suzukii preferences in the field.
+
+Influence of yeast combinations on D. suzukii attraction. Next, we tested how combinations of volatiles from different yeast ferments affected D. suzukii attraction in laboratory T-mazes. It was not possible to test
+all 4215 feasible combinations of 12 yeast isolates, and so we selected: (1) the three most attractive to D. suzukii
+(M. pulcherrima + P. pijperi + H. uvarum 201); (2) all pair-wise combinations of the three most attractive; (3)
+H. uvarum 201 + C. zemplinina (both attractive); (4) one attractive and one yeast D. suzukii was indifferent to
+(H. uvarum 201 + S. cerevisiae); (5) the two and three least attractive (S. cerevisiae + C. apicola; S. cerevisiae + S.
+uvarum + C. apicola); (6) all attractive yeasts with error bars that did not overlap zero (M. pulcherrima + P. pijperi + H. uvarum 201 + C. zemplinina + C. argentea), and finally, (7) all 12 yeasts (Fig. 4). We also included H.
+uvarum 201, sterile strawberry juice and Gasser-lure as controls. Sterile fruit juice vs sterile fruit juice controls
+showed no inherent bias in the T-maze apparatus (P = 0.43). There was significant differential attraction between
+the various yeast volatile combinations (Δ deviance = − 38.43, df = − 12, P = 0.00013; Fig. 4). Individual binomial analyses revealed four yeast volatile combinations were significantly more attractive than sterile strawberry
+juice: M. pulcherrima + H. uvarum (201) (AI = 0.33, P = 0.000004); H. uvarum (201) + C. zemplinina (AI = 0.23,
+P = 0.0016); M. pulcherrima + P. pijperi + H. uvarum (201) (AI = 0.19, P = 0.0068); and M. pulcherrima + P. pijperi
+(AI = 0.18, P = 0.0062). D. suzukii was indifferent to seven yeast combinations in comparison to sterile strawberry
+juice. However, while a combination of volatiles from the two most attractive yeasts (H. uvarum 201 with M. pulcherrima) had the greatest AI, this combination was not significantly more attractive to D. suzukii than volatiles
+from H. uvarum 201 alone (equal variance t-test, t = − 1.52, P = 0.15).
+Whether volatiles from single yeast isolates interacted in a non-additive manner for D. suzukii attraction
+when combined together was analysed with a permutation test and this revealed two combinations were significantly less attractive than predicted (Fig. 4): M. pulcherrima + P. pijperi + H. uvarum (201) + C. zemplinina + C.
+argentea (five species), and ‘all 12 yeasts’ (P = 0.0034 and P = 0.012 respectively; Fig. 4). Complementary linear
+model analyses also revealed that M. pulcherrima + P. pijperi + H. uvarum (201) + C. zemplinina + C. argentea
+volatile combinations differed significantly from predicted combined attractiveness (P = 0.0057), but the all yeast
+combination did not (P = 0.071). This indicates that some combinations of yeast volatiles may interact to result
+in a significant reduction in attraction, with possible repulsion, for D. suzukii.
+D. suzukii attraction to combinations of yeasts in the field.
+
+Field experiments testing combinations
+of ferment products that were attractive in T-maze tests show 81% of the 20,460 trapped Drosophila were D.
+suzukii. There was a significant effect of bait type on D. suzukii capture (linear model Δ deviance = 21,355, df = 8,
+P < 0.001; Kruskal–Wallis, chi-squared = 66.98, df = 8, P = 1.95–11) and Gasser-lure trapped the greatest numbers
+
+Scientific Reports |
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+5
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+
+0.60
+
+D. suzukii
+
+0.50
+P<0.001
+
+Mean Attractive Index
+
+0.40
+
+P=0.0016
+
+P<0.001
+P=0.0068
+
+0.30
+
+P=0.0034
+
+P=0.0062
+
+P=0.019
+P=0.012
+
+0.20
+0.10
+0.00
+-0.10
+
+predicted observed predicted observed predicted observed predicted observed predicted observed predicted observed predicted observed predicted observed predicted observed predicted observed observed observed observed
+M. pulcherrima + H. H. uvarum (201) + C. M. pulcherrima + P. M. pulcherrima + P.
+pijperi
+uvarum (201)
+zemplinina
+pijperi + H. uvarum
+(201)
+
+P. pijperi + H.
+uvarum (201)
+
+S. uvarum + S.
+cerevisiae + C.
+apicola
+
+-0.20
+
+H. uvarum (201) + S. M. pulcherrima + P.
+cerevisiae
+pijperi + H. uvarum
+(201) + C.
+zemplinina + C.
+argentea
+
+All
+
+S. cerevisiae + C. H. uvarum Gasser
+apicola
+(201)
+
+Control
+
+Treatment
+-0.30
+
+Figure 4.  Mean (± SE) Attraction Index (AI) of D. suzukii to combinations of yeast metabolic volatiles (not
+identified) after growth in strawberry juice and then mixed in equal proportions, using laboratory T-mazes.
+H. uvarum (201), sterile fruit and commercial Gasser-lure act are controls. N = 6–7 for all treatments. Grey
+bars represent observed AI and black bars predicted AIs calculated from 10,000 permuted in silico mixes of
+corresponding individual AI values. The observed AIs of two combinations is significantly different from that
+predicted and are shown with solid connecting lines. P-values above bars show significance of attraction to yeast
+volatiles over sterile strawberry juice in the opposing T-maze arm revealed by binomial analyses.
+(Fig. 5). There was a significant differential effect of yeast volatile type on D. suzukii capture when Gasser-lure
+was removed from analysis (Δ deviance = 3156, df = 7, P < 0.001). Adjusted Dunn’s and linear model 95% confidence interval comparisons showed all baits trapped significantly greater numbers of D. suzukii than distilled
+water (Fig. 5). However, the comparison of D. suzukii trap counts between sterile fruit juice and yeast volatiles
+is not clear-cut. Dunn’s comparisons reveal that only the M. pulcherrima + H. uvarum 201 combination trapped
+significantly greater number of D. suzukii than the strawberry juice bait (Padjusted = 0.023) but there were no significant differences between the remaining yeast baits, including H. uvarum 201 in isolation, and sterile juice or
+any significant differences in the numbers of D. suzukii trapped among all yeast baits (Fig. 5). Linear model 95%
+confidence interval comparisons indicate that no yeast bait trapped significantly more D. suzukii than sterile
+juice (Fig. 5). The consensus is that while the numbers of D. suzukii trapped by the M. pulcherrima + H. uvarum
+201 combination were greater than those trapped by H. uvarum 201 separately, this is not statistically significant
+(at adjusted P < 0.05). Moreover, adjusted Dunn’s comparisons suggest that the M. pulcherrima + H. uvarum 201
+combination trapped significantly greater numbers of D. suzukii than sterile strawberry juice with only a modest
+adjusted P-value (Padjusted = 0.023).
+
+Discussion
+
+We found support for the first hypothesis, that some yeast species produce specific metabolic volatiles that are
+more attractive to D. suzukii than to other Drosophila species, as H. uvarum was the only yeast species to be
+significantly attractive to D. suzukii compared to sterile fruit and was not significantly attractive to the other
+Drosophila species in laboratory assays. However, the size of the significance and effect was not large but is in
+line with other studies reporting H. uvarum to be attractive to D. suzukii18,22,27,28. H. uvarum was not significantly attractive to D. melanogaster in this study which is not in line with previous s­ tudies15,17. However, while
+the magnitudes of P-values vary, we note that the size and direction of attraction are consistent between the
+data here and that reported by Günther et al.15 for H. uvarum grown in strawberry juice for attraction to both
+D. melanogaster and D. simulans (both studies report AIs of approximately + 0.25 for D. melanogaster and − 0.05
+for D. simulans). M. pulcherrima and P. pijperi were more attractive than H. uvarum (201) for D. suzukii in the
+laboratory, and M. pulcherrima and P. pijperi were also attractive for the D. melanogaster line we used. We are
+not aware of any previous reports showing M. pulcherrima and P. pijperi are attractive to D. suzukii. No one yeast
+isolate was significantly attractive to all three Drosophila species which reflects recent work suggesting there may
+be differences in yeast preferences between Drosophila ­species15. The finding that several yeast species are attractive to D. suzukii is in line with data from Scheidler et al.18 who found both H. uvarum and C. zemphilina to be
+attractive. The correspondence of D. suzukii attraction to volatiles from the same yeasts in laboratory and field
+assays suggests the two-way T-maze choice system is a reasonable approximation of D. suzukii responses in the
+field. However, it is clear this is not a perfect map as there were also differences in D. suzukii response. There is
+a range of aspects to consider when translating laboratory to field responses, including the fact that the range of
+other olfactory signals in the field will be greater and the effects of concentration gradients and air currents are
+more acute in the field. Lastly, laboratory tests were conducted with an Italian laboratory-reared strain, whereas
+the field tests trapped UK wild D. suzukii. Thus, any promising agents identified in laboratory assays should be
+considered putative until validated in the field.
+The second hypothesis—volatiles from different genotypes of H. uvarum vary in their attractiveness to D.
+suzukii—must formally be rejected as there was no statistically significant difference in attraction among the
+eight H. uvarum isolates. However, there was significant attraction to volatiles from six of the eight H. uvarum
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+6
+
+www.nature.com/scientificreports/
+
+900
+
+d
+5
+
+800
+
+Mean number of D. suzukii
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+c
+4
+
+bc
+3,4
+
+100
+
+0
+
+bc
+2,3,4
+
+bc
+2,3
+
+bc
+2
+
+bc
+2,3,4
+
+b
+2,3,4
+a
+1
+
+M.pulcherrima
+pulcherrima++M.M.pulcherrima
+pijperi++H.H. H. uvarum
+H. uvarum
+pulcherrima
+pulcherrima
+uvarum(201)
+(201) P.P.pijperi
+Gasser
+strawberry Gasser
+(201) Sterile
+Sterile
+lure
+M.
++ M.M.
+pulcherrima
++ H.H.uvarum
+H.uvarum
+uvarum(201)
+(201)
+uvarum(201)
+(201)
+(201)
++P.P.
+pijperi
++
+pijperi
++ H. ++S.S.cerevisiae
+cerevisiae uvarum
+strawberry
+H.
+pijperi
+P. P.
+pijperi
++ H.
+juicejuice
+uvarum(201)
+(201)
+uvarum
+Male D. suzukii
+Female D. suzukii
+
+Water
+Water
+
+Treatment
+
+Figure 5.  Mean numbers (± SE) of D. suzukii caught in field traps with various combinations of yeast metabolic
+volatiles (not identified) with H. uvarum (201), sterile strawberry juice, water and commercial Gasser-lure
+controls. Combinations were created by adding equal proportions after growth in strawberry juice (N = 14
+except M. pulcherrima + P. pijperi N = 13). There was a significant effect of bait type on D. suzukii capture (linear
+model Δ deviance = 21,352, df = 8, P < 0.001; Kruskal–Wallis, chi-squared = 66.98, df = 8, P = 1.95–11). Two posthoc analysis methods were employed: letters above bars connect treatments that are not significantly different
+using Dunn’s comparisons with Benjamini–Hochberg adjusted P values and numbers above bars connect
+treatments with overlapping 95% confidence intervals calculated from Estimated Marginal Means.
+isolates compared to sterile juice whereas the remaining two isolates were not more attractive than sterile fruit,
+implying there may be ecologically relevant variance between H. uvarum genotypes. In line with laboratory
+observations, H. uvarum (201) trapped more D. suzukii than H. uvarum (11-382) in the field and confidence
+interval analysis suggests this is significant (Fig. 3). Overall, the field assays are in line with laboratory data and
+suggest volatiles from H. uvarum (201 and 11-382) and M. pulcherrima are attractive to D. suzukii and provide
+reasonable evidence that at least these isolates are worth pursuing for D. suzukii control strategies.
+The last hypothesis—that combinations of volatiles from different yeast species are more attractive to D.
+suzukii than volatile profiles from single yeast species—may not be accepted given these data. Four combinations of volatiles from different yeasts were more attractive than sterile juice in the laboratory, and while the M.
+pulcherrima + H. uvarum (201) combination reported the greatest AI (Fig. 4), this was not significantly greater
+than the AI from H. uvarum (201) separately (P = 0.15). We note that in the laboratory the M. pulcherrima + H.
+uvarum (201) combination had a greater AI than the commercial Gasser-lure bait but this did not translate to
+the field where the Gasser-lure bait trapped at least two times more D. suzukii than any yeast bait tested here.
+This perhaps indicates that the extent of D. suzukii attraction to yeasts in the field may be further optimised by
+altering the concentrations of volatiles released by yeast during f­ ermentation40,41; here we only tested one concentration. However, the various yeast field traps were able to trap a large number of D. suzukii (~ 7000), and
+the observations that the M. pulcherrima + H. uvarum (201) bait combination trapped the greatest numbers of
+wild D. suzukii among the yeast baits and was the only yeast bait that trapped significantly greater numbers than
+the sterile fruit by Dunn’s comparisons indicates there may be value in exploring combined yeast baits further,
+particularly those involving M. pulcherrima and H. uvarum (201).
+There were two yeast combinations that had significantly lower AIs than predicted based on an additive
+interaction of their separate volatile attraction components. The reason behind this nonlinear interaction is
+unknown and might be because some volatiles have a masking effect which here resulted in combinations that
+were less attractive, and possibly repulsive, to D. suzukii. This masking concept has experimental support as
+some volatiles act antagonistically to reduce ­CO2 ­repulsion42. The observation made here may be valuable in
+the development of ‘push–pull’ control strategies; for example, if these yeast combinations were not harmful to
+Scientific Reports |
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+7
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+crops, then they may be deliberately added to deter D. suzukii. This represents a potentially significant finding
+in this respect, but this study focussed on attraction and not repulsion, so we only validated putatively attractive
+mixed yeast volatile combinations in the field.
+There are clearly many other factors potentially affecting D. suzukii attraction that need to be considered and
+explored in this biologically complex tripartite yeast:fly:fruit ­system15. First, within yeast species variance for
+Drosophila attraction requires consideration: other studies that have evaluated this subject show a large range in
+attraction among S. cerevisiae, S. bayanus, S. uvarum and S. paradoxus isolates to D. simulans, D. melanogaster
+and D. suzukii14,17,27. The phenotypic range of metabolic volatile production in yeasts is a product of a genotype
+x environment interaction, and there is good evidence for large genetic variance within yeast species (e.g.43–45);
+such variance in attraction is likely to hold for most yeast species. The salient point is that it is probably not robust
+to assume the attractiveness of individual yeast genotypes are representative of attractiveness for that yeast species as a whole. We acknowledge the use of a single D. suzukii line in laboratory experiments here—the extent to
+which these observations hold in D. suzukii with different genetic backgrounds remains to be tested. However, the
+field assays involved wild populations of D. suzukii likely with a range of different genetic backgrounds. Another
+factor that may affect attraction, especially in the field, is the physiological state of the flies and the time of year.
+Shearer et al.46 report that by December 100% and 95% of females and males respectively are winter morphs
+in comparison to 50% and 30% in October in the USA. Fly fecundity also changes throughout the season, with
+female D. suzukii fecundity reduced at low ­temperatures47,48 which may affect attraction to yeast as they are
+important for both oviposition and egg development in D. suzukii13,49. Changes in morph and fecundity may
+provide part of the explanation for the change in the extent of attractiveness to the same yeasts across these field
+experiments spanning late October to early December (H. uvarum 201 baits caught half as many D. suzukii in
+the December than October traps). Another factor likely to affect attraction is fruit substrate. Strawberry was
+used here but Günther et al.15 show an effect of fruit type on yeast attraction to isolates of D. simulans. In contrast
+to findings in this study Scheidler et al.18 and Lasa et al.27 demonstrated that S. cerevisiae was attractive to D.
+suzukii, but Scheidler et al.18 used Potato Dextrose Broth and Lasa et al.27 used sucrose. Additionally, in laboratory tests certain H. uvarum and S. cerevisiae strains, derived from fruit, were significantly more attractive than a
+commercial S. cerevisiae strain when grown in corn syrup media but not when grown in sucrose-based m
+­ edia27.
+These complicating factors, and many others, need exploring in efforts to use and optimise any yeast-based
+D. suzukii controls. For example, the stability of attractiveness is uncertain; 10 generations of selection on a D.
+simulans population for attraction to an unattractive yeast was sufficient to increase attraction showing Drosophila
+may be plastic over ecological time scales for attraction to yeast v­ olatiles15. One last aspect to consider is that
+we created combinations of yeast volatiles by post-ferment blending in equal parts, and while this represents an
+important step in testing the attractiveness of yeast in a more ecologically realistic manner, this does not capture
+the true complexity of the microbial ecology on fruit as Drosophila attraction (at least D. melanogaster and D.
+simulans) is driven by volatiles in a concentration and background dependent ­manner34. Moreover, there is
+good evidence to show that it is the act of yeast growing together, as opposed to post-growth blending, that may
+produce synergistic metabolic interactions in terms of ­volatiles50, and this concept is in line with the observation
+that growing S. cerevisiae with bacteria was more attractive to D. melanogaster than post-growth b
+­ lending51.
+Yeast are candidates for creating attractive and selective baits for D. suzukii not just for monitoring and masstrapping purposes but also in attract-and-kill strategies using phagostimulatory b
+­ aits28,52. We have identified
+isolates from two species which are attractive in isolation and when combined, and this finding may contribute
+to developing sustainable lower insecticide input horticulture management controls for a major economically
+damaging pest of fruit crops.
+
+Materials and methods
+
+Drosophila cultures. Drosophila melanogaster were standard Oregon R wild-type (Carolina), D. simulans
+lines derived from a wild population collected from vineyards in New ­Zealand14 and D. suzukii cultures derived
+from an Italian strain, collected near Trento in 2013. All Drosophila species were maintained at the same temperature and light regime, 25 ± 2 °C and a 16:8 h light: dark ­photoperiod53 and reared on Drosophila Quick Mix
+Medium blue (Blades Biological Ltd.) sprinkled with dried baker’s yeast (Blades Biological Ltd.). D. suzukii were
+also cultured on media comprising 1% agar, 9% sugar, 9% pre-cooked ground maize, 2% baker’s yeast, 5% malt,
+1% soy flour, 0.3% propionic acid, and 0.3% methyl 4-hydroxybenzoate pre-dissolved in 70% e­ thanol53. Summer
+morph D. suzukii were housed in BugDorm cages (32.5 × 32.5 × 32.5 cm) (MegaView Science Co., Ltd.). Damp
+absorbent paper was placed on the base and roof of the cages to provide humidity (average 96%) inside cages. D.
+suzukii were provided with frozen raspberries ­weekly53. D. melanogaster and D. simulans were housed in standard Drosophila tubes (35 ml) (Gosselin FLY35-02, Fisher Scientific).
+Yeast cultures. All yeast isolates derived from the Goddard culture collection at University of Lincoln apart
+from H. uvarum 11‐382 and the origin of strains is shown in Supplementary Material, Table S1.
+Yeast volatile preparation. All yeast isolates were transferred from – 80 °C glycerol stocks to 50 ml falcon
+tubes containing 15 ml of YPD (1% yeast extract, 2% peptone, and 2% dextrose) media, and incubated at 30 °C
+for 24 h, and the optical density (600 nm) was ascertained at 24 h using a spectrophotometer (Jenway 6705). For
+laboratory assays, strawberry juice (var. Rociera) was sterilised by 0.2 μm filtration (Corning 1 L Filter System).
+For field trials, strawberry juice comprised either single or mixed varieties (Elsanta, Murano and a proprietary
+June bearer), and was sterilised using up to a maximum of 1 ml dimethyl dicarbonate (DMDC) dissolved in
+ethanol at a ratio of 1:2 DMDC to ethanol per litre of juice. This process was repeated up to three times in an
+attempt to sterilise the juice, after which it contained approximately less than 18 colony-forming units per ml.
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+8
+
+www.nature.com/scientificreports/
+Strawberry juice was inoculated with 1 × 106 yeast cells per ml and incubated at 30 °C for 48 h. The brix and optical density of the yeast ferments were determined at 48 h (Brix was measured using a refractometer HI 96801,
+Hanna Instruments) after which the juice was centrifuged at 4500 rpm for 10 min to collect cells; the supernatant
+containing yeast metabolites was decanted and stored frozen prior to use in both T-maze and field assays.
+
+Laboratory choice tests.
+
+Two-way choice test experiments were conducted to test: (1) attractiveness of
+yeast volatiles from 12 single yeasts to D. suzukii, D. melanogaster and D. simulans; (2) attraction of D. suzukii
+to volatiles from eight different strains of H. uvarum; and (3) attraction of D. suzukii to combinations of yeast
+volatiles. Choice tests were conducted using horizontally orientated T-maze apparatus with no forced air flow
+following Palanca et al.17 as shown in Fig. S1 (supplementary material). Clear Perspex vials (50 ml) were attached
+to the end of the arms and contained yeast volatiles or sterile strawberry juice. Damp absorbent paper was also
+placed in the centre of the T-maze to increase humidity for D. suzukii. T-maze arms contained either 10 ml of
+yeast ferment or 10 ml of sterile fruit juice control both at 1:1000 dilution. Where combinations of different
+yeasts volatiles were tested, yeasts were fermented separately, and the supernatants subsequently combined in
+equal proportions.
+Stock fly populations were anaesthetised using C
+­ O2 for a maximum of six minutes to isolate females which
+were then starved for 24 ± 1 (D. melanogaster and D. simulans) or 17 ± 1 h (D. suzukii, as mortality was excessive
+with 24 h starvation) prior to experimentation. Flies were anaesthetised briefly using ­CO2 before being introduced into the centre of the T-maze apparatus. Between 60 and 80 mated adult females between 3 and 12 days
+old were added to each T-maze. Females were considered mated as they had access to males until they were
+sexed and then separated; mating generally occurs 1 day post-eclosion54. To control for any temporal effects and
+variability in flies’ physiological status the same cohort of flies was exposed simultaneously to all yeast treatments
+to constitute one replicate and this was repeated multiple times for replication. All assays were conducted with
+six to eight replicates in the dark to ensure that choice was driven primarily by olfactory cues. After 30 min the
+sliding doors of the T-maze were closed, and the T-maze placed at − 20 °C to euthanise flies prior to counting.
+Yeast species attraction was calculated using an Attraction I­ ndex17 (AI = (number of flies in yeast arm – number
+of flies in control arm)/total number of flies making a choice).
+
+Field trials. Field experiments were conducted at a commercial fruit producer’s site in Kent, UK. Drososan
+field traps (Koppert Biological Systems) with a 200 ml drowning solution of either single or combinations of
+yeast ferments after growth in strawberry juice were employed. Yeast ferments were prepared as for laboratory
+studies with equal volumes of separately fermented yeasts combined when required.
+Three control treatments were included: strawberry juice with no yeast; distilled water (negative control); and
+commercially available Gasser-lure (RIGA) (positive control). Triton × 100 (0.005%, Sigma-Aldrich) was added
+to all drowning solutions to reduce surface tension. Traps were arranged in a randomised block design where one
+trap from each treatment was present in a random order per block. For the single yeast volatile trials, traps were
+approximately 3 m apart and 1 m from the ground in native hedgerow approximately 5 m from a raspberry crop
+(Fig. S2). In the combined yeast volatile trial, a second location was included along with the hedgerow set-up, and
+traps were placed in a deciduous bramble woodland adjacent to the hedgerow approximately 7–8 m apart and
+1 m from the ground. Trials occurred across October–December 2018, and trap contents were filtered through
+muslin after 72 h and numbers of male and female D. suzukii and other Drosophila species were determined.
+Statistical analysis. T-mazes where no flies made a choice (i.e. no flies left the central compartment of
+
+T-maze) were omitted from analyses. Differences in attractiveness between yeast isolated were analysed separately for each Drosophila species using a binomial logistic regression, with treatment as a fixed factor, and
+significance assayed using ANOVA following model simplification as per ­Crawley55. Binomial analyses were
+employed to test if the sum of choices of flies from replicated tests with each yeast treatment separately were different from that expected if flies chose ­randomly14,15,17,34. We did not use the binomial tests to make comparisons
+between different yeast treatments and so a multiple comparison correction was not required here. Two-way
+ANOVA was used to determine if there was an effect of Drosophila and yeast species and interactions between
+them on AI overall the data. Permutation analysis was used to test whether volatiles from different yeast species
+interacted linearly or non-linearly in terms of attraction when mixed. The predicted AI of volatile combinations
+was based on an additive (linear) model and was compared to the observed AI from volatile combinations. The
+null/additive distribution of combined AI values for each of the volatile combinations were created by randomly
+selecting AI values from single yeasts among respective replicates for each of the constituent yeasts and calculating the mean and repeating 10,000 times for each. The experimentally observed AI values from combinations
+were compared to this null distribution. A linear model was also used to analyse attraction to combinations of
+yeast species volatiles to test whether yeasts interacted linearly or non-linearly (Fig. S3), and whether flies’ preference differed between the combination and their constituent yeasts separately was captured in the coefficients
+(y = Xβ + ε). Student’s t-tests were used to determine if the most significantly attractive combined yeast volatiles
+were more attractive than the volatiles from H. uvarum 201 alone. Field trap capture data was analysed using
+non-parametric rank based Kruskal–Wallis tests with Dunn’s post-hoc comparisons with P-values adjusted with
+the Benjamini–Hochberg method, and generalised linear models with a Poisson error structure where treatment
+and sex were treated as fixed factors and block as a random effect. All statistical analyses were carried out in R
+version 3.6.156 and the l­me457 package was used for the binomial logistic regression and linear regression and
+­emmeans58 and H
+­ misc59 packages were used to generate confidence intervals.
+
+Ethics approval. This project was approved by the University of Lincoln ethics board (CoSREC388).
+Scientific Reports |
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+9
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+
+Data availability
+
+All raw data and code are available in the supplementary material.
+Received: 29 July 2020; Accepted: 7 December 2020
+
+References
+
+1. Bolda, M. P., Goodhue, R. E. & Zalom, F. G. Spotted wing drosophila: Potential economic impact of a newly established pest. Agric.
+Resour. Econ. Update 13, 5–8 (2010).
+2. Calabria, G., Máca, J., Bächli, G., Serra, L. & Pascual, M. First records of the potential pest species Drosophila suzukii (Diptera:
+Drosophilidae) in Europe. J. Appl. Entomol. 136, 139–147 (2012).
+3. Harris, A. & Shaw, B. First record of Drosophila suzukii (Matsumura) (Diptera, Drosophilidae) in Great Britain. Dipterists Digest.
+21, 189–192 (2014).
+4. Atallah, J., Teixeira, L., Salazar, R., Zaragoza, G. & Kopp, A. The making of a pest: The evolution of a fruit-penetrating ovipositor
+in Drosophila suzukii and related species. Proc. R. Soc. B Biol. Sci. 281, 20132840. https​://doi.org/10.1098/rspb.2013.2840 (2014).
+5. Rombaut, A. et al. Invasive Drosophila suzukii facilitates Drosophila melanogaster infestation and sour rot outbreaks in the vineyards. R. Soc. Open Sci. 4, 170117. https​://doi.org/10.1098/rsos.17011​7 (2017).
+6. Gress, B. E. & Zalom, F. G. Identification and risk assessment of spinosad resistance in a California population of Drosophila
+suzukii. Pest Manag. Sci. 75, 1270–1276. https​://doi.org/10.1002/ps.5240 (2019).
+7. Lee, K. P. et al. Lifespan and reproduction in Drosophila: New insights from nutritional geometry. Proc. Natl. Acad. Sci. 105,
+2498–2503 (2008).
+8. Piper, M. D. W. et al. A holidic medium for Drosophila melanogaster. Nat. Methods 11, 100–105. https​://doi.org/10.1038/nmeth​
+.2731 (2014).
+9. Grangeteau, C. et al. Yeast quality in juvenile diet affects Drosophila melanogaster adult life traits. Sci. Rep. 8, 13070. https​://doi.
+org/10.1038/s4159​8-018-31561​-9 (2018).
+10. Rohlfs, M. & Kürschner, L. Saprophagous insect larvae, Drosophila melanogaster, profit from increased species richness in beneficial
+microbes. J. Appl. Entomol. 134, 667–671. https​://doi.org/10.1111/j.1439-0418.2009.01458​.x (2009).
+11. Hardin, J. A., Kraus, D. A. & Burrack, H. J. Diet quality mitigates intraspecific larval competition in Drosophila suzukii. Entomol.
+Exp. Appl. 156, 59–65. https​://doi.org/10.1111/eea.12311​ (2015).
+12. Lewis, M. T. & Hamby, K. A. Differential impacts of yeasts on feeding behavior and development in larval Drosophila suzukii
+(Diptera:Drosophilidae). Sci. Rep. 9, 13370. https​://doi.org/10.1038/s4159​8-019-48863​-1 (2019).
+13. Bellutti, N. et al. Dietary yeast affects preference and performance in Drosophila suzukii. J. Pest. Sci. 91, 651–660 (2018).
+14. Buser, C. C., Newcomb, R. D., Gaskett, A. C. & Goddard, M. R. Niche construction initiates the evolution of mutualistic interactions. Ecol. Lett. 17, 1257–1264. https​://doi.org/10.1111/ele.12331​ (2014).
+15. Günther, C. S., Knight, S. J., Jones, R. & Goddard, M. R. Are Drosophila preferences for yeasts stable or contextual?. Ecol. Evol. 9,
+8075–8086. https​://doi.org/10.1002/ece3.5366 (2019).
+16. Christiaens, J. F. et al. The fungal aroma gene ATF1 promotes dispersal of yeast cells through insect vectors. Cell Rep. 9, 425–432.
+https​://doi.org/10.1016/j.celre​p.2014.09.009 (2014).
+17. Palanca, L., Gaskett, A. C., Günther, C. S., Newcomb, R. D. & Goddard, M. R. Quantifying variation in the ability of yeasts to attract
+Drosophila melanogaster. PLoS ONE 8, e75332. https​://doi.org/10.1371/journ​al.pone.00753​32 (2013).
+18. Scheidler, N. H., Liu, C., Hamby, K. A., Zalom, F. G. & Syed, Z. Volatile codes: Correlation of olfactory signals and reception in
+Drosophila-yeast chemical communication. Sci. Rep. 5, 1–13. https​://doi.org/10.1038/srep1​4059 (2015).
+19. Becher, P. G. et al. Chemical signaling and insect attraction is a conserved trait in yeasts. Ecol. Evol. 8, 2962–2974. https​://doi.
+org/10.1002/ece3.3905 (2018).
+20. Chandler, J. A., Eisen, J. A. & Kopp, A. Yeast communities of diverse Drosophila species: Comparison of two symbiont groups in
+the same hosts. Appl. Environ. Microbiol. 78, 7327–7336. https​://doi.org/10.1128/AEM.01741​-12 (2012).
+21. Lam, S. S. T. H. & Howell, K. S. Drosophila-associated yeast species in vineyard ecosystems. FEMS Microbiol. Lett. 362, 1–7. https​
+://doi.org/10.1093/femsl​e/fnv17​0 (2015).
+22. Hamby, K. A., Hernández, A., Boundy-Mills, K. & Zalom, F. G. Associations of yeasts with spotted-wing Drosophila (Drosophila
+suzukii; Diptera: Drosophilidae) in cherries and raspberries. Appl. Environ. Microbiol. 78, 4869–4873. https​://doi.org/10.1128/
+AEM.00841​-12 (2012).
+23. Lewis, M. T., Koivunen, E. E., Swett, C. L. & Hamby, K. A. Associations between Drosophila suzukii (Diptera: Drosophilidae) and
+fungi in raspberries. Environ. Entomol. 27, 383–392. https​://doi.org/10.1093/ee/nvy16​7 (2018).
+24. Fountain, M. T. et al. Alimentary microbes of winter-form Drosophila suzukii. Insect Mol. Biol. 27, 383–392. https:​ //doi.org/10.1111/
+imb.12377​(2018).
+25. Vadkertiová, R., Molnárová, J., Vránová, D. & Sláviková, E. Yeasts and yeast-like organisms associated with fruits and blossoms of
+different fruit trees. Can. J. Microbiol. 58, 1344–1352. https​://doi.org/10.1139/cjm-2012-0468 (2012).
+26. Barata, A., Malfeito-Ferreira, M. & Loureiro, V. Changes in sour rotten grape berry microbiota during ripening and wine fermentation. Int. J. Food Microbiol. 154, 152–161. https​://doi.org/10.1016/J.IJFOO​DMICR​O.2011.12.029 (2012).
+27. Lasa, R. et al. Yeast species, strains, and growth media mediate attraction of Drosophila suzukii (Diptera: Drosophilidae). Insects
+10, 228–228. https​://doi.org/10.3390/insec​ts100​80228​ (2019).
+28. Noble, R. et al. Improved insecticidal control of spotted wing drosophila (Drosophila suzukii) using yeast and fermented strawberry
+juice baits. Crop Protect. https​://doi.org/10.1016/J.CROPR​O.2019.10490​2 (2019).
+29. Hoang, D., Kopp, A. & Chandler, J. A. Interactions between Drosophila and its natural yeast symbionts—Is Saccharomyces cerevisiae
+a good model for studying the fly-yeast relationship?. PeerJ 3, e1116. https​://doi.org/10.7717/peerj​.1116 (2015).
+30. Taylor, M. W., Tsai, P., Anfang, N., Ross, H. A. & Goddard, M. R. Pyrosequencing reveals regional differences in fruit-associated
+fungal communities. Environ. Microbiol. 16, 2848–2858. https​://doi.org/10.1111/1462-2920.12456​ (2014).
+31. Abdelfattah, A., Wisniewski, M., Li Destri Nicosia, M. G., Cacciola, S. O. & Schena, L. Metagenomic analysis of fungal diversity
+on strawberry plants and the effect of management practices on the fungal community structure of aerial organs. PLoS ONE 11,
+e0160470. https​://doi.org/10.1371/journ​al.pone.01604​70 (2016).
+32. Dobzhansky, T., Cooper, D. M., Phaff, H. J., Knapp, E. P. & Carson, H. L. Differential attraction of species of Drosophila to different
+species of yeasts. Ecology 37, 544–550. https​://doi.org/10.2307/19301​78 (1956).
+33. Günther, C. S. & Goddard, M. R. Do yeasts and Drosophila interact just by chance?. Fungal Ecol. 38, 37–43. https:​ //doi.org/10.1016/J.
+FUNEC​O.2018.04.005 (2018).
+34. Günther, C. S., Goddard, M. R., Newcomb, R. D. & Buser, C. C. The context of chemical communication driving a mutualism. J.
+Chem. Ecol. 41, 929–936. https​://doi.org/10.1007/s1088​6-015-0629-z (2015).
+35. Schiabor, K. M., Quan, A. S. & Eisen, M. B. Saccharomyces cerevisiae mitochondria are required for optimal attractiveness to
+Drosophila melanogaster. PLoS ONE 9, e113899. https​://doi.org/10.1371/journ​al.pone.01138​99 (2014).
+
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+10
+
+www.nature.com/scientificreports/
+36. Gayevskiy, V. & Goddard, M. R. Geographic delineations of yeast communities and populations associated with vines and wines
+in New Zealand. ISME J. 6, 1281–1290 (2012).
+37. Bokulich, N. A., Thorngate, J. H., Richardson, P. M. & Mills, D. A. Microbial biogeography of wine grapes is conditioned by cultivar,
+vintage, and climate. Proc. Natl. Acad. Sci. 111, E139–E148. https​://doi.org/10.1073/PNAS.13173​77110​ (2014).
+38. Martins, G. et al. Influence of the farming system on the epiphytic yeasts and yeast-like fungi colonizing grape berries during the
+ripening process. Int. J. Food Microbiol. 177, 21–28. https​://doi.org/10.1016/J.IJFOO​DMICR​O.2014.02.002 (2014).
+39. Cordero-Bueso, G. et al. Influence of the farming system and vine variety on yeast communities associated with grape berries. Int.
+J. Food Microbiol. 145, 132–139. https​://doi.org/10.1016/J.IJFOO​DMICR​O.2010.11.040 (2011).
+40. Cha, D. H., Adams, T., Rogg, H. & Landolt, P. J. Identification and field evaluation of fermentation volatiles from wine and vinegar
+that mediate attraction of spotted wing drosophila, Drosophila suzukii. J. Chem. Ecol. 38, 1419–1431. https:​ //doi.org/10.1007/s1088​
+6-012-0196-5 (2012).
+41. Cha, D. H. et al. A four-component synthetic attractant for Drosophila suzukii (Diptera: Drosophilidae) isolated from fermented
+bait headspace. Pest Manag. Sci. 70, 324–331. https​://doi.org/10.1002/ps.3568 (2014).
+42. Faucher, C. P., Hilker, M. & de Bruyne, M. Interactions of carbon dioxide and food odours in Drosophila: Olfactory hedonics and
+sensory neuron properties. PLoS ONE 8, e56361 (2013).
+43. Liti, G. et al. Population genomics of domestic and wild yeasts. Nature 458, 337–341 (2009).
+44. Knight, S., Klaere, S., Fedrizzi, B. & Goddard, M. R. Regional microbial signatures positively correlate with differential wine
+phenotypes: Evidence for a microbial aspect to terroir. Sci. Rep. 5, 1–10. https​://doi.org/10.1038/srep1​4233 (2015).
+45. Albertin, W. et al. Hanseniaspora uvarum from winemaking environments show spatial and temporal genetic clustering. Front.
+Microbiol. 6, 1569 (2016).
+46. Shearer, P. W. et al. Seasonal cues induce phenotypic plasticity of Drosophila suzukii to enhance winter survival. BMC Ecol. 16, 11.
+https​://doi.org/10.1186/s1289​8-016-0070-3 (2016).
+47. Tochen, S. et al. Temperature-related development and population parameters for Drosophila suzukii (Diptera: Drosophilidae) on
+cherry and blueberry. Environ. Entomol. 43, 501–510. https​://doi.org/10.1603/EN132​00 (2014).
+48. Ryan, G. D., Emiljanowicz, L., Wilkinson, F., Kornya, M. & Newman, J. A. Thermal tolerances of the spotted-wing drosophila
+Drosophila suzukii (Diptera: Drosophilidae). J. Econ. Entomol 109, 746–752. https​://doi.org/10.1093/jee/tow00​6 (2016).
+49. Plantamp, C., Estragnat, V., Fellous, S., Desouhant, E. & Gibert, P. Where and what to feed? Differential effects on fecundity and
+longevity in the invasive Drosophila suzukii. Basic Appl. Ecol. 19, 56–66. https​://doi.org/10.1016/j.baae.2016.10.005 (2017).
+50. Anfang, N., Brajkovich, M. & Goddard, M. R. Co-fermentation with Pichia kluyveri increases varietal thiol concentrations in
+Sauvignon Blanc. Aust. J. Grape Wine Res. 15, 1–8 (2009).
+51. Fischer, C. et al. Metabolite exchange between microbiome members produces compounds that influence Drosophila behavior.
+eLife 6, e18855. https​://doi.org/10.7554/eLife​.18855​ (2017).
+52. Mori, B. A. et al. Enhanced yeast feeding following mating facilitates control of the invasive fruit pest Drosophila suzukii. J. Appl.
+Ecol. 54, 170–177. https​://doi.org/10.1111/1365-2664.12688​ (2017).
+53. Shaw, B., Brain, P., Wijnen, H. & Fountain, M. T. Reducing Drosophila suzukii emergence through inter-species competition. Pest
+Manag. Sci. 74, 149–160. https​://doi.org/10.1002/ps.4836 (2018).
+54. Cini, A., Ioriatti, C. & Anfora, G. A review of the invasion of Drosophila suzukii in Europe and a draft research agenda for integrated
+pest management. Bull. Insectol. 65, 149–160 (2012).
+55. Crawley, M. J. The R book (Wiley, New York, 2013).
+56. R Core Team. R: A Language and Environment for Statistical Computing (R Foundation for Statistical Computing, Vienna, 2019).
+57. Bates, D., Mächler, M., Bolker, B. & Walker, S. Fitting linear mixed-effects models using lme4. J. Stat. Softw. 67, 1–48 (2015).
+58. Lenth, R., Singmann, H., Love, J., Buerkner, P. & Herve, M. Estimated marginal means, aka least-squares means. R package version
+1.3. 2. (2019).
+59. Harrell, F. E., et al. Hmisc: Harrell Miscellaneous. R package version 4.3–1. (2020).
+
+Acknowledgements
+
+The Agriculture and Horticulture Development Board (contract CP-171) and the University of Lincoln funded
+this project. We thank the commercial growers for site access and providing fruit, Dr Phil Assheton for advice
+regarding statistical analysis and R code, Dr Bethan Shaw and Francesco Rogi for training in rearing D. suzukii
+and help establishing cultures, Dr Nadia Andreani for assistance with the Sanger sequencing of yeasts as well as
+identification of sequences, Dr Kelly Hamby for providing H. uvarum strain 11‐382 and Janet Barlow for proof
+reading.
+
+Author contributions
+
+R.J. conducted the experiments, data analyses and wrote the paper; M.G. and M.F. conceived the study and
+co-wrote the paper; C.G. helped design experiments and commented on drafts of the paper; P.E. assisted with
+analyses and commented on drafts of the paper.
+
+Funding
+
+The Agriculture and Horticulture Development Board and the University of Lincoln funded this project.
+
+Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+
+Supplementary Information The online version contains supplementary material available at https​://doi.
+org/10.1038/s4159​8-020-79691​-3.
+Correspondence and requests for materials should be addressed to R.J.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Scientific Reports |
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+11
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this licence, visit http://creat​iveco​mmons​.org/licen​ses/by/4.0/.
+© The Author(s) 2021
+
+Scientific Reports |
+Vol:.(1234567890)
+
+(2021) 11:1201 |
+
+https://doi.org/10.1038/s41598-020-79691-3
+
+12
+
+

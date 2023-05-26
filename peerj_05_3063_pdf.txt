@@ -1,0 +1,1264 @@
+Differential attraction of drosophilids
+to banana baits inoculated with
+Saccharomyces cerevisiae and
+Hanseniaspora uvarum within a
+Neotropical forest remnant
+Marcos R.D. Batista1 , Fabiana Uno1 , Rafael D. Chaves2 , Rosana Tidon3 ,
+Carlos A. Rosa4 and Louis B. Klaczko1
+1
+
+Depto. de Genética, Evolução e Bioagentes, Inst. de Biologia, Universidade Estadual de
+Campinas – UNICAMP, Campinas, São Paulo, Brazil
+2
+Depto. Ciência de Alimentos, Fac. Engenharia de Alimentos, Universidade Estadual de
+Campinas – UNICAMP, Campinas, São Paulo, Brazil
+3
+Depto. Genética e Morfologia, Inst. Ciências Biológicas, Universidade de Brasília – UnB, Brasília, DF, Brazil
+4
+Depto. Microbiologia, ICB, Universidade Federal de Minas Gerais – UFMG, Belo Horizonte, Minas Gerais,
+Brazil
+
+ABSTRACT
+
+Submitted 25 August 2016
+Accepted 3 February 2017
+Published 9 March 2017
+Corresponding author
+Louis B. Klaczko, lbk@unicamp.br
+Academic editor
+Therese Markow
+Additional Information and
+Declarations can be found on
+page 9
+DOI 10.7717/peerj.3063
+Copyright
+2017 Batista et al.
+Distributed under
+Creative Commons CC-BY 4.0
+
+Background. Yeasts are a necessary requisite in the diet of most Drosophila species
+that, in turn, may vector their dispersal in natural environments. Differential attractiveness experiments and the isolation of yeasts consumed by Drosophila may be
+informative for characterizing this association. Hanseniaspora uvarum is among the
+most common yeast species isolated from Drosophila crops, with high attractiveness
+to drosophilids. Saccharomyces cerevisiae has been widely used to collect flies, and it
+allows broad sampling of almost all local Drosophila species. Pronounced differences
+in the field concerning Drosophila attractivity to baits seeded with these yeast species
+have been previously reported. However, few explicit generalizations have been set.
+Since late fifties, no field experiments of Drosophila attractivity were carried out in the
+Neotropical region, which is facing shifts in abiotic and biotic factors. Our objective
+is to characterize preference behavior that mediates the interaction in the wild among
+Neotropical Drosophila species and yeasts associated with them. We want to set a broad
+generalization about drosophilids attracted to these yeasts. Here we present the results
+of a differential attractiveness experiment we carried out in a natural Atlantic Rainforest
+fragment to assess the preferences of Drosophila species groups to baits inoculated with
+H. uvarum and S. cerevisiae.
+Methods. Both yeast species were cultured in GYMP broth and separately poured
+in autoclaved mashed banana that was left fermenting. In the field, we collected
+drosophilids over five arrays of three different baits: non-inoculated autoclaved banana
+and banana inoculated with each yeast. In the laboratory the drosophilids were sorted to
+five sets according to their external morphology and/or genitalia: tripunctata; guarani;
+willistoni; exotic; and the remaining flies pooled in others.
+Results and Conclusions. Uninoculated banana baits attracted virtually no flies. We
+found significant departures from random distribution over the other two baits (1:1
+proportion) for all sets, except the pooled others. Flies of the sets willistoni and exotic
+
+OPEN ACCESS
+
+How to cite this article Batista et al. (2017), Differential attraction of drosophilids to banana baits inoculated with Saccharomyces cerevisiae and Hanseniaspora uvarum within a Neotropical forest remnant. PeerJ 5:e3063; DOI 10.7717/peerj.3063
+
+preferred H. uvarum over S. cerevisiae, while the remaining sets were more attracted
+to S. cerevisiae. Previously, various authors reported similar patterns in attraction
+experiments with S. cerevisiae and H. uvarum. It is also noteworthy that both yeast
+species have been isolated from natural substrates and crops of Drosophila species.
+Taken together, these results suggest that the preferences among Drosophila species
+groups may be reflecting deep and stable relations with yeast species in natural
+environments. They can be summarized as: forest dwelling species from subgenus
+Drosophila (such as tripunctata and guarani groups) are attracted to banana baits seeded
+with S. cerevisiae; while exotic (as D. melanogaster) and subgenus Sophophora species
+are preferentially attracted to baits seeded with H. uvarum.
+
+Subjects Biodiversity, Ecology, Entomology, Microbiology, Mycology
+Keywords Food preference, Yeast, Drosophila, Drosophila assemblage, Atlantic Rainforest,
+
+Tripunctata, Willistoni, Melanogaster, Exotic drosophila, Guarani
+
+INTRODUCTION
+Drosophila-yeast association can be considered a diffuse mutualism (Starmer & Lachance,
+2011; Buser et al., 2014), in which yeasts are a necessary requisite in the diet of most
+Drosophila species (Powell, 1997) that, in turn, may vector their dispersal in natural environments (Ganter, 1988; Christiaens et al., 2014). Moreover, Drosophila adults and larvae regulate yeast composition and density in natural substrates (Stamps et al., 2012), while different
+yeast species affect Drosophila breeding (Barker, 1992) and feeding preferences (Becher et
+al., 2012) as well as bionomic features (Anagnostou, Dorsch & Rohlfs, 2010).
+Traditionally, this association is characterized by isolating yeasts from Drosophila crops
+(Phaff et al., 1956) and natural substrates (Carson, Knapp & Phaff, 1956; Starmer, 1981;
+Barker, Starmer & Vacek, 1987); also, by investigating Drosophila species attraction to baits
+inoculated with different yeast species in the field (Da Cunha, Dobzhansky & Sokoloff, 1951;
+Klaczko, Powell & Taylor, 1983) and in the laboratory (Barker et al., 1981; Becher et al., 2012;
+Palanca et al., 2013). These papers show the essential role yeasts play for the attractiveness
+of fruit baits and fermenting substrates (see also: Walsh et al., 2011; Hamby et al., 2012;
+Kleiber et al., 2014).
+Hanseniaspora uvarum (= Kloeckera apiculata) is among the most common yeast species
+isolated from Drosophila crops in different parts of the world (828/2222 yeast OTUs of 15
+Drosophila populations reported by Chandler, Eisen & Kopp (2012)). Its prevalence is about
+50% in association with species of D. melanogaster group in North America (78/163 reported by Camargo & Phaff (1957); and 173/344 by Chandler, Eisen & Kopp (2012)). In the
+Neotropical region, its prevalence associated with D. willistoni from the Amazon is close to
+50% (85/174 isolates, see Morais et al., 1995) and almost 40% with D. willistoni populations
+from the Atlantic Rainforest (146/394 isolates, see Da Cunha, Shehata & De Oliveira, 1957).
+Additionally, banana baits seeded with H. uvarum have been used since the early fifties in
+attractiveness experiments due to its easy growth on bananas and high attractiveness of
+Drosophila specimens (Da Cunha, Dobzhansky & Sokoloff, 1951).
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+2/15
+
+Despite evidences of different substrates attracting distinct assortments of resident
+Drosophila (Dobzhansky & Pavan, 1950; Del Pino et al., 2015), mashed banana fermented
+with Saccharomyces cerevisiae has been used since the dawn of Drosophila research to collect
+and to raise flies (Loeb & Northrop, 1916; Dobzhansky, 1936; Reed, 1938; and others; see
+Spencer, 1950 for a review of the early use of banana baits seeded with baker’s yeast). This
+kind of baits allows a broad sampling with almost all resident Drosophila species (see Da
+Cunha, Dobzhansky & Sokoloff, 1951). Therefore, it has been viewed as a control treatment
+concerning bait attractiveness in the field or an all-purpose bait.
+Previous studies have examined Drosophila attractivity to baits seeded with H. uvarum
+and S. cerevisiae in the field (Da Cunha, Dobzhansky & Sokoloff, 1951; Da Cunha, Shehata
+& De Oliveira, 1957; Klaczko, Powell & Taylor, 1983). Pronounced differences concerning
+the abundance of Drosophila species collected over baits with these yeasts are described.
+However, due to technical complexity in their experimental design (for example, the use of
+various baits with different yeast species simultaneously), few explicit generalizations could
+be set when comparing the attractiveness of these yeast species.
+The biodiversity of Drosophila in the Neotropical region is rich (Val, Vilela & Marques,
+1981), especially in the Atlantic Rainforest biome, where half of the species remains to
+be described (Medeiros & Klaczko, 2004). Furthermore, phylogenetic (Yotoko et al., 2003;
+Hatadani et al., 2009; Izumitani et al., 2016) and morphological (Throckmorton, 1975)
+differences among Drosophila species groups are so great that they may be considered—
+and have been used as—a valid taxonomic classification for characterizing patterns of
+abundance and distribution in especially rich environments (Dobzhansky & Pavan, 1950;
+Dobzhansky & Da Cunha, 1955).
+Since the late 1950s (Da Cunha, Shehata & De Oliveira, 1957), no experiments examining Drosophila differential attractivity in the Neotropical region were carried out. Moreover,
+due to climate change (Lemes, Melo & Loyola, 2014) and forest fragmentation (Ribeiro et
+al., 2009) environmental conditions in the Atlantic Rainforest biome are becoming more
+heterogeneous, with pronounced shifts for local fauna (Batista, Ananina & Klaczko, 2012;
+Batista & Klaczko, 2013) and flora (Carvalho, Braga & Nascimento, 2016). Furthermore,
+new occurrence of invasive drosophilid species, such as Zaprionus indianus (see Vilela, 1999)
+and D. suzukii (see Deprá et al., 2014; Vilela & Mori, 2014), have probably affected
+ecological interactions among taxa from this biome.
+Our objective is to characterize preference (breeding and feeding) behavior that mediates
+the interaction in the wild among Neotropical Drosophila species and yeasts naturally associated with them. Previous studies have repeatedly shown differences of Drosophila attractivity
+to baits seeded with H. uvarum and S. cerevisiae. However, so far no clear generalization has
+been made for the attractivity in the wild. Thus, as a first step in this endeavor, we want to
+assess the preferences of Drosophila species (groups), from a Neotropical forest fragment,
+to baits inoculated with either of two yeast species: H. uvarum, one of the yeast species
+most commonly associated with Drosophila; and S. cerevisiae, the most commonly used
+yeast species for collecting these flies. Our working hypothesis is that these two yeast species
+attract sets of flies with different proportions of Drosophila species.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+3/15
+
+MATERIAL AND METHODS
+The Drosophila attraction experiment was carried out within a forest fragment of the Atlantic Rainforest located at Itatiba, SP, Brazil (23◦ 00.070 S, 46◦ 52.9170 W; altitude: 740 m) on
+October 22, 2014 (Permanent Field Permit for Collecting Zoological Material from IBAMA,
+ICMBio, Ministério do Meio Ambiente—MMA, number: 17238-1). This forest fragment
+is located 88 km northern Serra da Cantareira, SP, Brazil where Da Cunha, Shehata & De
+Oliveira (1957) carried out their experiments. Floristic and climatologic properties of both
+localities are similar, since they belong to the same orogenic formation—Serra da
+Mantiqueira (Ross, 2013).
+We started our experiment around 06h30 a.m., when we randomly exposed baits in the
+field, and swept entomological nets over baits every 15 min until noon. Then, between
+04h00 p.m. and 06h00 p.m., the same procedure was repeated. This strategy was adopted,
+to minimize possible effects of aggregation behavior and daily temperature variation.
+Two different yeast species (commercial S. cerevisiae and H. uvarum—strain ACL-35D;
+deposited under code UFMG-CM-Y4001 in the Collection of Microorganisms and Cells of
+the Federal University of Minas Gerais, Brazil) were cultured for 48 h in 200 ml GYMP broth
+(2% glucose, 0.5% yeast extract, 1% malt extract and 0.2% sodium phosphate monobasic
+monohydrate). This procedure usually in our laboratory produces suspensions with
+concentration of 107 –108 cells/ml. Then, 200 ml yeast suspensions were poured and stirred
+with a sterile spoon over approximately 1.44 kg of autoclaved mashed banana; which were
+left to ferment for about 20 h. On October 22, 2014, temperature varied between 16.5 ◦ C and
+30.5 ◦ C, and the average daily temperature was 23.5 ◦ C (see https://www.agritempo.gov.br/
+agritempo/index.jsp?lang=en, meteorological station CEPAGRI—Campinas, SP). We used
+field proceedings similar to those described by Da Cunha, Shehata & De Oliveira (1957),
+when they used mashed banana seeded with H. uvarum and S. cerevisiae with positive yeast
+growth confirmed by the fermentation of the banana bait and a noticeable bouquet.
+Three kinds of banana baits (non-inoculated autoclaved banana and autoclaved banana
+inoculated with each of the two yeast species) were randomly placed, in order to avoid bias
+related to position effects, at the edges of an equilateral triangle inscribed in a circle of
+about 3.5 m of diameter. Each set was distant 10 m from the next set. We collected over
+five sets of three baits with a total of 15 baits. We collected drosophilids over each type of
+baits separately, stored them in separate vials, and brought them alive to the laboratory to
+be analyzed.
+Flies were sorted to five groups (see Table 1): tripunctata (D. tripunctata species group);
+guarani (D. guarani species group); willistoni (D. willistoni species group); exotic (D.
+immigrans, D. melanogaster species group and Zaprionus indianus); and the remaining
+flies pooled in others (D. calloptera, D. cardini species group and other non-identified
+drosophilids). We used Drosophila species group identification as proposed by Freire-Maia
+& Pavan (1949).
+Wild male flies were identified to species level by dissecting their genitalia; and for
+collected females, the genitalia of their laboratory reared F1 males were analyzed. The
+specimen genitalia of tripunctata group flies was compared to drawings reported by:
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+4/15
+
+Table 1 Drosophilids collected over baits with H. uvarum, S. cerevisiae and without yeast. Number of
+females (♀) and males (♂) of drosophilid species collected over three kinds of baits: control—autoclaved
+P
+banana without yeast; autoclaved banana with H. uvarum; autoclaved banana with S. cerevisiae;
+— sum
+◦
+0
+◦
+of females and males. Field trip held on October 22, 2014 at Itatiba, SP, Brazil (23 00.07 S, 46 52.9170 W;
+altitude: 740 m).
+Group
+Species
+Tripunctata group
+D. bandeirantorum
+
+Control
+
+H. uvarum
+
+♀
+
+♂
+
+P
+
+♀
+
+S.cerevisiae
+
+Total
+
+♂
+
+P
+
+♀
+
+♂
+
+P
+
+0
+
+0
+
+0
+
+0
+
+3
+
+3
+
+0
+
+1
+
+1
+
+4
+
+D. bifilum
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+D. cuaso
+
+1
+
+1
+
+2
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+3
+
+D. fragilis
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+2
+
+2
+
+3
+
+D. mediopunctata
+
+1
+
+2
+
+3
+
+2
+
+2
+
+4
+
+4
+
+13
+
+17
+
+24
+
+D. paraguayensis
+
+0
+
+0
+
+0
+
+5
+
+7
+
+12
+
+13
+
+38
+
+51
+
+63
+
+D. paramediostriata
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+D. nappae
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+3
+
+3
+
+D. trifilum
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+2
+
+2
+
+Non-identified
+
+1
+
+0
+
+1
+
+6
+
+1
+
+7
+
+15
+
+0
+
+15
+
+23
+
+93
+
+127
+
+Group total
+
+6
+
+28
+
+Guarani group
+D. griseolineata
+
+0
+
+2
+
+2
+
+5
+
+19
+
+24
+
+8
+
+32
+
+40
+
+66
+
+D. maculifrons
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+3
+
+7
+
+10
+
+11
+
+Non-identified
+
+0
+
+0
+
+0
+
+4
+
+0
+
+4
+
+2
+
+0
+
+2
+
+6
+
+52
+
+83
+
+Group total
+
+2
+
+29
+
+Willistoni group
+D. nebulosa
+
+0
+
+0
+
+0
+
+11
+
+2
+
+13
+
+2
+
+0
+
+2
+
+15
+
+D. willistoni
+
+2
+
+0
+
+2
+
+19
+
+16
+
+35
+
+3
+
+2
+
+5
+
+42
+
+7
+
+57
+
+Group total
+
+2
+
+48
+
+Exotic species
+D. immigrans
+
+0
+
+0
+
+0
+
+3
+
+1
+
+4
+
+0
+
+0
+
+0
+
+4
+
+D. melanogaster
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+D. suzukii
+
+0
+
+0
+
+0
+
+0
+
+6
+
+6
+
+1
+
+1
+
+2
+
+8
+
+D. simulans
+
+0
+
+1
+
+1
+
+5
+
+8
+
+13
+
+3
+
+1
+
+4
+
+18
+
+Zaprionus indianus
+
+0
+
+0
+
+0
+
+2
+
+3
+
+5
+
+0
+
+0
+
+0
+
+5
+
+6
+
+36
+
+Group total
+
+1
+
+29
+
+Others
+D. atrata
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+0
+
+2
+
+2
+
+D. polymorpha
+
+0
+
+0
+
+0
+
+1
+
+2
+
+3
+
+1
+
+0
+
+1
+
+4
+
+Drosophilids
+
+0
+
+0
+
+0
+
+4
+
+0
+
+4
+
+0
+
+0
+
+0
+
+4
+
+Group total
+
+0
+
+7
+
+3
+
+10
+
+Total
+
+11
+
+141
+
+161
+
+313
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+5/15
+
+Table 2 Comparisons between collected male and female proportions. Chi-square tests comparing the
+number of females (♀) and males (♂) in each Drosophila group collected over baits with H. uvarum and S.
+cerevisiae.
+Groups
+
+X2
+
+d.f.
+
+p-value
+
+Tripunctata
+
+2.22
+
+1
+
+>0.1ns
+
+Guarani
+
+0.82
+
+1
+
+>0.3ns
+
+Willistoni
+
+0.21
+
+1
+
+>0.7ns
+
+Exotic
+
+2.15
+
+1
+
+>0.3ns
+
+Notes.
+X 2 , result of chi-square tests; d.f., degree of freedom; p-value, associated probability; ns, non-significant.
+
+Frota-Pessoa (1954), Val (1982), Vilela & Pereira (1985), Vilela & Pereira (1986), Bächli,
+Vilela & Ratcov (2000) and Vilela, Valente & Basso-da-Silva (2004). Species of calloptera,
+cardini and guarani groups were compared to drawings reported by: Val (1982) and
+Vilela & Bächli (1990). Specimens that belong to melanogaster and willistoni groups
+were compared to drawings reported by: Salles (1948) and Malogolowkin (1952). We
+used external morphology for classification of D. immigrans, D. suzukii and Z. indianus
+specimens. When the genitalia were lost, flies were identified by external morphology and
+labeled as non-identified in the respective group.
+Breeding and egg-laying preferences may motivate choice behavior of Drosophila females.
+Therefore, bias in sex ratio would be expected over a particular bait, if females would choose
+that substrate for oviposition. We performed a chi-square test for characterizing differences
+in sex ratio between baits. Since no bias in group sex ratio was found (see Table 2), we
+analyzed the sum of females and males collected over baits. After that, we compared the
+attractiveness of each set of baits testing the observed numbers of flies within each group collected over S. cerevisiae and H. uvarum against an expected 1:1 proportion with a chi-square.
+
+RESULTS
+Table 1 shows the 313 specimens of drosophilids collected. Uninoculated banana baits
+(controls) attracted virtually no flies (11 versus 302 in the other ones; less than 4% of the
+total). Thus, the results of flies from uninoculated banana baits were no further analyzed.
+We collected 141 flies (47% of the 302 flies attacted to yeast inoculated baits) over baits
+with H. uvarum and 161 (53% of the total 302) over baits with S. cerevisiae. Species with
+largest numbers among the 20 species identified were Drosophila griseolineata (n = 66), D.
+paraguayensis (n = 63) and D. willistoni (n = 42). The D. tripunctata group was the most
+diverse with ten species, followed by D. melanogaster group with three species (pooled as
+exotic in Table 1). Although no significant difference was detected between total number of
+flies collected over baits seeded with the two diffent yeasts (X 2 = 0.66; d.f . = 1; p > 0.30),
+the composition of flies was clearly different (Fig. 1).
+Flies of the tripunctata and guarani groups (subgenus Drosophila) showed similar pattern
+and were significantly more attracted to baits inoculated with S. cerevisiae (93 in 121 =
+77%, X 2 = 34.9, d.f . = 1, p < 0.001; and 52 in 81 = 64%, X 2 = 6.5, p < 0.01) than to H.
+uvarum (23% and 36%, respectively). However, flies of willistoni (7 in 55 = 13%; X 2 = 30.6,
+d.f . = 1, p < 0.001), exotic (6 in 35 = 17%; X 2 = 15.1, p < 0.01) and other (3 in 10 = 30%;
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+6/15
+
+Figure 1 Drosophilids attracted to yeast-inoculated baits. Percentage of Drosophilidae groups (in green
+tripunctata; in yellow guarani; in red willistoni; in purple exotic; and in blue others) collected over baits inoculated with Hanseniaspora uvarum (A) and with Saccharomyces cerevisiae (B).
+
+X 2 = 1.6, p > 0.2—non-significant ) groups were less collected over S. cerevisiae than over
+H. uvarum (87%, 83%, and 70%, respectively). After Bonferroni multiple tests correction,
+all test significance results remain qualitatively unchanged.
+
+DISCUSSION
+Parts of plants or fungi with a particular microbiota are substrates used by several Drosophila
+species for feeding, mating, oviposition and breeding (Powell, 1997). Although fresh fruits
+are attractive for D. suzukii (see Keesey, Knaden & Hansson, 2015), most Drosophila species
+are attracted to decayed fruits. Furthermore, variation in microbiota density associated to its
+decaying age (in number of days) affects the attraction and abundance of several cosmopolitan species, such as D. melanogaster, D. simulans and D. immigrans, to decayed oranges
+(Nunney, 1996).
+The low attractiveness of baits with non-fermented banana reinforces the fact of the
+presence of yeast are necessary for baits attractiveness (Klaczko, Powell & Taylor, 1983).
+Although no direct count of yeast colonies was carried out in the banana baits, the obvious
+banana fermentation (increased volume and typical bouquet) were compeling evidences of
+yeast growth. Additionally, we collected approximately the same magnitude of specimens
+over banana baits with each of the two yeasts, indicating both yeasts grew and the species
+composition differences could be attributed to differences in odor profiles between H.
+uvarum and S. cerevisiae (see Scheidler et al., 2015).
+We collected more flies of subgenus Sophophora such as D. melanogaster and D. suzukii
+over baits with H. uvarum (68 in a total of 81 = 84%) than over S. cerevisiae (13/81 =
+16%), while flies of the tripunctata group (subgenus Drosophila) were more attracted to
+baits inoculated with S. cerevisiae (93 in 121 = 77%) than to H. uvarum (23%).
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+7/15
+
+Species that belong to subgenus Sophophora, such as D. melanogaster and flies of D.
+obscura group, showed preferences for baits inoculated with apiculate yeast H. uvarum
+over other yeasts, such as S. cerevisiae in laboratory populations (Hoang, Kopp & Chandler,
+2015) and natural populations (Da Cunha, Dobzhansky & Sokoloff, 1951; Klaczko, Powell
+& Taylor, 1983). However, other species from subgenus Drosophila, such as D. occidentalis
+were more collected over baits with S. cerevisiae than over baits with apiculate yeasts in San
+Jacinto Mountains, CA, USA (Klaczko, Powell & Taylor, 1983).
+In the tropical region, Dobzhansky & Da Cunha (1955) and Da Cunha, Shehata & De
+Oliveira (1957) carried out experiments of differential attractiveness in the Amazon (Belém,
+PA, Brazil and Tapajós, PA, Brazil) and in the Atlantic Rainforest (Rio Doce, MG, Brazil and
+Serra da Cantareira, SP, Brazil). These authors observed that flies of Sophophora subgenus,
+such as D. willistoni, D. nebulosa, and D. simulans, were more collected over baits with H.
+uvarum than over baits with Candida krusei (=Pichia kudriavzevii) and S. cerevisiae or close
+relatives. However, H. uvarum baits were poorly attractive to some species from subgenus
+Drosophila such as D. calloptera, D. guaramunu and flies from D. tripunctata group, which
+were collected over baits with yeast from genera Candida, Pichia and Saccharomyces.
+Choice behavior may be triggered by females that are choosing oviposition sites. If so, it
+is expected to collect more females over one kind of bait. However, no differences between
+female and male collected over baits were observed (see Table 2). Furthermore, only nine
+isofemales out of 69 (five collected over H. uvarum and four over S. cerevisiae) did not produced any progeny, so we have not much evidence of oviposition choice with this sample. Finally,
+further experiments evaluating differences in the choice behavior between females virgin
+and non virgin in the field as well as the relationship between yeast preference and components of biological fitness will be carried out. Moreover, the experimental design we used
+cannot rule out conspecific attraction (Lihoreau et al., 2016).
+H. uvarum and S. cerevisiae have been already isolated from fruits and tree bark, respectively, in Amazonian and Atlantic Rainforests (Morais et al., 1995; Pimenta et al., 2009;
+Barbosa et al., 2016) as well as from crops of several Drosophila species (see Da Cunha,
+Shehata & De Oliveira, 1957; Morais et al., 1992; Morais, Pagnocca & Rosa, 2006; Batista et
+al., 2016). Species such as D. paraguayensis (see Batista et al., 2016) and D. maculifrons (see
+Da Cunha, Shehata & De Oliveira, 1957), which belong to D. tripunctata and D. guarani
+groups respectively, both of the Drosophila subgenus, had S. cerevisiae isolated from their
+crops. In contrast, H. uvarum group was the most prevalent yeast isolated from crops of
+Sophophora subgenus species such as: D. willistoni (see Da Cunha, Shehata & De Oliveira,
+1957); D. melanogaster group (see Camargo & Phaff, 1957; Morais et al., 1995; Chandler,
+Eisen & Kopp, 2012); and D. suzukii (see Hamby et al., 2012).
+Several evidences suggest the natural association between yeasts and Drosophila in the
+wild. Pimenta et al. (2009) states that Drosophila may be a major vector of yeasts in Atlantic
+Rainforest. Our data shows that species of D. tripunctata and D. guarani groups are preferentially attracted to S. cerevisiae, reflecting their natural association in the wild; while species
+of subgenus Sophophora such as D. melanogaster, which is preferentially attracted to baits
+with H. uvarum may be naturally associated with apiculate yeasts. Therefore, differences in
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+8/15
+
+dispersion and distribuition of the yeast species might be related to the variation observed
+for Drosophila species.
+It is noteworthy that our results are consistent with those obtained more than half a
+century ago by researchers such as Da Cunha even if working with different objectives
+(see above) suggesting that the preferences among Drosophila species group found may be
+reflecting deep and stable relations with yeast species in natural forests in spite of all the
+environmental changes that have occurred. These results represent a first step to understand
+differences in feeding preferences among Drosophila species and their consequences for
+biological fitness. Naturally, additional studies characterizing yeast species associated with
+Drosophila species in natural remnants of Atlantic Rainforest, as well as the differences
+between male and female behavior, different physiological states, and on the molecular basis
+of Drosophila species olfactory system may further our understanding of the associations
+we now report.
+
+ACKNOWLEDGEMENTS
+The authors would like to thank: Vinicius Camargo Penteado for the fieldwork
+authorization; Prof. Anderson S. Sant’Ana for making his laboratory facilities available; Dr.
+Renato Cavasini for fieldwork assistance; Claudete Couto, Klélia Carvalho and Ana Raquel
+de Oliveira Santos for technical assistance.
+
+ADDITIONAL INFORMATION AND DECLARATIONS
+Funding
+This work was supported by fellowships and grants from the following agencies:
+Coordenação de Aperfeiçoamento de Pessoal do Ensino Superior (CAPES; PRODOC
+2709/2010), Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq #
+308285/2014-0; #457499/2014-1; #312066/2014-7), Fundo de Apoio ao Ensino, à Pesquisa
+e Extensão da Unicamp (FAEPEX-PEC2012: #1578/12), Fundação de Amparo à Pesquisa
+do Estado de São Paulo (FAPESP proc.: #2012/03144-0; #2014/03791-1), Fundação de
+Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG #APQ-01525-14). The funders
+had no role in study design, data collection and analysis, decision to publish, or preparation
+of the manuscript.
+
+Grant Disclosures
+The following grant information was disclosed by the authors:
+Coordenação de Aperfeiçoamento de Pessoal do Ensino Superior: PRODOC 2709/2010.
+Conselho Nacional de Desenvolvimento Científico e Tecnológico: CNPq #308285/2014-0,
+#457499/2014-1, #312066/2014-7.
+Fundo de Apoio ao Ensino, à Pesquisa e Extensão da Unicamp: #1578/12.
+Fundação de Amparo à Pesquisa do Estado de São Paulo: #2012/03144-0; #2014/03791-1.
+Fundação de Amparo à Pesquisa do Estado de Minas Gerais: FAPEMIG #APQ-01525-14.
+
+Competing Interests
+The authors declare there are no competing interests.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+9/15
+
+Author Contributions
+• Marcos R.D. Batista conceived and designed the experiments, performed the
+experiments, analyzed the data, wrote the paper, prepared figures and/or tables, reviewed
+drafts of the paper.
+• Fabiana Uno performed the experiments, reviewed drafts of the paper.
+• Rafael D. Chaves performed the experiments, contributed reagents/materials/analysis
+tools, reviewed drafts of the paper.
+• Rosana Tidon reviewed drafts of the paper, conceived general project.
+• Carlos A. Rosa contributed reagents/materials/analysis tools, wrote the paper, reviewed
+drafts of the paper, conceived general project.
+• Louis B. Klaczko conceived and designed the experiments, analyzed the data, contributed
+reagents/materials/analysis tools, wrote the paper, prepared figures and/or tables,
+reviewed drafts of the paper, conceived general project.
+
+Field Study Permissions
+The following information was supplied relating to field study approvals (i.e., approving
+body and any reference numbers):
+Ministério do Meio Ambiente—MMA
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis—IBAMA
+Instituto Chico Mendes de Conservação da Biodiversidade—ICMBio
+Licença permanente para coleta de material zoológico: Número: #17238-1.
+
+Data Availability
+The following information was supplied regarding data availability:
+The raw data has been supplied as Data S1.
+
+Supplemental Information
+Supplemental information for this article can be found online at http://dx.doi.org/10.7717/
+peerj.3063#supplemental-information.
+
+REFERENCES
+Anagnostou C, Dorsch M, Rohlfs M. 2010. Influence of dietary yeasts on Drosophila
+melanogaster life-history traits. Entomologia Experimentalis Et Applicata 136:1–11
+DOI 10.1111/j.1570-7458.2010.00997.x.
+Bächli G, Vilela CR, Ratcov V. 2000. Morphological differences among Drosophila
+paraguayensis Duda, 1927 and its close relatives (Diptera, Drosophilidae). Bulletin
+de La Société Entomologique Suisse 73:67–92.
+Barbosa R, Almeida P, Safar SV, Santos RO, Morais PB, Nielly-Thibault L, Leducq
+JB, Landry CR, Gonçalves P, Rosa CA, Sampaio JP. 2016. Evidence of natural
+hybridization in Brazilian wild lineages of Saccharomyces cerevisiae. Genome Biology
+and Evolution 18:317–329 DOI 10.1093/gbe/evv263.
+Barker JSF. 1992. Genetic variation in cactophilic Drosophila for oviposition on natural
+yeast substrates. Evolution 46:1070–1083 DOI 10.2307/2409757.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+10/15
+
+Barker JSF, Parker GJ, Toll GL, Widders PR. 1981. Attraction of Drosophila buzzatii
+and D. aldrichi to species of yeasts isolated from their natural environment. I.
+Laboratory experiments. Australian Journal of Biological Sciences 34:593–612
+DOI 10.1071/BI9810593.
+Barker JSF, Starmer WT, Vacek DC. 1987. Analysis of spatial and temporal variation
+in the community structure of yeasts associated with decaying Opuntia cactus.
+Microbial Ecology 14:267–276 DOI 10.1007/BF02012946.
+Batista MRD, Ananina G, Klaczko LB. 2012. Unexpected long-term changes in chromosome inversion frequencies in a Neotropical Drosophila species. Climate Research
+53:131–140 DOI 10.3354/cr01088.
+Batista MRD, Klaczko LB. 2013. Mudanças genéticas observadas na população de
+Drosophila mediopunctata do Parque Nacional do Itatiaia, RJ, Brasil. Boletim do
+Parque Nacional do Itatiaia 17:1–52.
+Batista MRD, Santos ARO, Chaves RD, Rosa CA, Klaczko LB. 2016. Saccharomyces
+cerevisiae found in the crop of a Neotropical Drosophila species fly collected in a
+natural forest remnant—comments on Hoang, Kopp & Chandler (2015). PeerJ
+Preprints 4:e2090v1 DOI 10.7287/peerj.preprints.2090v1.
+Becher PG, Flick G, Rozpędowska E, Schmidt A, Hagman A, Lebreton S, Larsson MC,
+Hansson BS, Piškur J, Witzgall P, Bengtsson M. 2012. Yeast, not fruit volatiles mediate Drosophila melanogaster attraction, oviposition and development. Functional
+Ecology 26:822–828 DOI 10.1111/j.1365-2435.2012.02006.x.
+Buser CC, Newcomb RD, Gaskett AC, Goddard MR. 2014. Niche construction initiates
+the evolution of mutualistic interactions. Ecology Letters 17:1257–1264
+DOI 10.1111/ele.12331.
+Camargo R, Phaff HJ. 1957. Yeasts occurring in Drosophila flies and in fermenting
+tomato fruits in Northern California. Food Research 22:367–372
+DOI 10.1111/j.1365-2621.1957.tb17024.x.
+Carson H, Knapp E, Phaff HJ. 1956. The yeast flora of the natural breeding sites of some
+species of Drosophila. Ecology 37:538–544 DOI 10.2307/1930177.
+Carvalho FA, Braga JMA, Nascimento MT. 2016. Tree structure and diversity of lowland
+Atlantic forest fragments: comparison of disturbed and undisturbed remnants.
+Journal of Forestry Research 27:605–609 DOI 10.1007/s11676-015-0165-2.
+Chandler JA, Eisen JA, Kopp A. 2012. Yeast communities of diverse Drosophila species:
+comparison of two symbiont groups in the same hosts. Applied and Environmental
+Microbiology 78:7327–7336 DOI 10.1128/AEM.01741-12.
+Christiaens JF, Franco LM, Cools TL, De Meester L, Michiels J, Wenseleers T, Hassam
+BA, Yaksi E, Verstrepen KJ. 2014. The fungal aroma gene ATF1 promotes dispersal
+of yeast cells through insect vectors. Cell Reports 9:425–432
+DOI 10.1016/j.celrep.2014.09.009.
+Da Cunha AB, Dobzhansky TH, Sokoloff A. 1951. On food preferences of sympatric
+species of Drosophila. Evolution 5:97–101 DOI 10.2307/2405761.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+11/15
+
+Da Cunha AB, Shehata AE, De Oliveira W. 1957. A study of the diets and nutritional
+preferences of tropical species of Drosophila. Ecology 38:98–106
+DOI 10.2307/1932131.
+Del Pino F, Jara C, Pino L, Medina-Muñoz MC, Alvarez E, Godoy-Herrera R. 2015. The
+identification of congeners and aliens by Drosophila Larvae. PLOS ONE 10:e0136363
+DOI 10.1371/journal.pone.0136363.
+Deprá M, Poppe JL, Schmitz HJ, De Toni DC, Valente VL. 2014. The first records of
+the invasive pest Drosophila suzukii in the South American continent. Journal of Pest
+Science 87:379–383 DOI 10.1007/s10340-014-0591-5.
+Dobzhansky TH. 1936. Collecting, transporting, and shipping wild species of Drosophila.
+Drosophila Information Service 6:28–29.
+Dobzhansky TH, Da Cunha AB. 1955. Differentiation of nutritional preferences in
+Brazilian Drosophila. Ecology 36:34–39 DOI 10.2307/1931428.
+Dobzhansky TH, Pavan C. 1950. Local and seasonal variations in relative frequencies of
+species of Drosophila in Brazil. Journal of Animal Ecology 19:1–14 DOI 10.2307/1566.
+Freire-Maia N, Pavan C. 1949. Introdução ao estudo da drosófila. Cultus 5:3–61.
+Frota-Pessoa O. 1954. Revision of the tripunctata group of Drosophila with description
+of fifteen new species (Drosophilidae, Diptera). Arquivos do Museu Paranaense
+10:253–326.
+Ganter PF. 1988. The vectoring of cactophilic yeasts by Drosophila. Oecologia
+75:400–404 DOI 10.1007/BF00376943.
+Hamby KA, Hernandez A, Boundy-Mills K, Zalom FG. 2012. Associations of yeasts with
+spotted wing Drosophila (Drosophila suzukii; Diptera: Drosophilidae) in cherries and
+raspberries. Applied and Environmental Microbiology 78:4869–4873
+DOI 10.1128/AEM.00841-12.
+Hatadani LM, Mcinerney JC, Medeiros HF, Junqueira ACM, Azeredo-Espin AML,
+Klaczko LB. 2009. Molecular phylogeny of the Drosophila tripunctata and closely
+related species groups (Diptera: Drosophilidae). Molecular Phylogenetics and
+Evolution 3:595–600 DOI 10.1016/j.ympev.2009.02.022.
+Hoang D, Kopp A, Chandler JA. 2015. Interactions between Drosophila and its natural
+yeast symbionts—is Saccharomyces cerevisiae a good model for studying the fly-yeast
+relationship? PeerJ 3:e1116 DOI 10.7717/peerj.1116.
+Izumitani HF, Kusaka Y, Koshikawa S, Toda MJ, Katoh T. 2016. Phylogeography of
+the Subgenus Drosophila (Diptera: Drosophilidae): evolutionary history of faunal
+divergence between the old and the new Worlds. PLOS ONE 11:e0160051
+DOI 10.1371/journal.pone.0160051.
+Keesey IW, Knaden M, Hansson BS. 2015. Olfactory specialization in Drosophila
+suzukii supports an ecological shift in host preference. Journal of Chemical Ecology
+41:121–128 DOI 10.1007/s10886-015-0544-3.
+Klaczko LB, Powell JR, Taylor CE. 1983. Drosophila baits and yeasts: species attracted.
+Oecologia 59:411–413 DOI 10.1007/BF00378872.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+12/15
+
+Kleiber JR, Unelius CR, Lee JC, Suckling DM, Qian MC, Bruck DJ. 2014. Attractiveness of fermentation and related products to spotted wing Drosophila (Diptera:
+Drosophilidae). Environmental Entomology 43:439–447 DOI 10.1603/EN13224.
+Lemes P, Melo AS, Loyola RD. 2014. Climate change threatens protected areas of the Atlantic forest. Biodiversity and Conservation 23:357–368
+DOI 10.1007/s10531-013-0605-2.
+Lihoreau M, Clarke IM, Buhl J, Sumpter DJ, Simpson SJ. 2016. Collective selection
+of food patches in Drosophila. Journal of Experimental Biology 219:668–675
+DOI 10.1242/jeb.127431.
+Loeb J, Northrop JH. 1916. Nutrition and evolution: second note. Journal of Biological
+Chemistry 27:309–312.
+Malogolowkin C. 1952. Sobre a genitália dos ‘‘Drosophilidae’’ (Diptera). III. Grupo
+willistoni do gênero ‘‘Drosophila ’’. Revista Brasileira De Biologia 12:79–96.
+Medeiros HF, Klaczko LB. 2004. How many species of Drosophila (Diptera, Drosophilidae) remain to be described in the forests of São Paulo, Brazil? Species lists of three
+forest remnants. Biota Neotropica 4:1–12 DOI 10.1590/S1676-06032004000100005.
+Morais PB, Hagler AN, Rosa CA, Mendonça-Hagler LC, Klaczko LB. 1992. Yeasts
+associated with Drosophila in tropical forests of Rio de Janeiro, Brazil. Canadian
+Journal of Microbiology 38:1150–1155 DOI 10.1139/m92-188.
+Morais PB, Martins MB, Klaczko LB, Mendonça-Hagler LC, Hagler NA. 1995. Yeast
+succession in the Amazon fruit Parahancornia amapa as resource partitioning among
+Drosophila spp. Applied and Environmental Microbiology 61:4251–4257.
+Morais PB, Pagnocca FC, Rosa CA. 2006. Yeast communities in tropical rain forests in
+Brazil and other South American ecosystems. In: Rosa CA, Peter G, eds. Biodiversity
+and ecophysiology of yeasts, the yeast handbook. Heidelberg: Springer, 461–484.
+Nunney L. 1996. The colonization of oranges by the cosmopolitan Drosophila. Oecologia
+108:552–561 DOI 10.1007/BF00333733.
+Palanca L, Gaskett AC, Günther CS, Newcomb RD, Goddard MR. 2013. Quantifying
+variation in the ability of yeasts to attract Drosophila melanogaster. PLOS ONE
+8:e75332 DOI 10.1371/journal.pone.0075332.
+Phaff HJ, Miller M, Recca J, Shifrine M, Mrak E. 1956. Yeasts found in the alimentary
+canal of Drosophila. Ecology 37:533–538 DOI 10.2307/1930176.
+Pimenta RS, Alves PD, Almeida GM, Silva JF, Morais PB, Corrê Jr A, Rosa CA. 2009.
+Yeast communities in two Atlantic Rainforest fragments in Southeast Brazil.
+Brazilian Journal of Microbiology 40:90–95 DOI 10.1590/S1517-83822009000100015.
+Powell JR. 1997. Ecology: yeast and other microbes. In: Powell JR, ed. Progress and
+prospects in evolutionary biology: the drosophila model. New York: Oxford University
+Press, 156–160.
+Reed HR. 1938. The olfactory reactions of Drosophila melanogaster Meigen to the
+products of fermenting banana. Physiological Zoology 11:317–325
+DOI 10.1086/physzool.11.3.30151465.
+Ribeiro MC, Metzger JP, Martensen AC, Ponzoni FJ, Hirota MM. 2009. The Brazilian
+Atlantic Forest: how much is left, and how is the remaining forest distributed?
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+13/15
+
+Implications for conservation. Biological Conservation 142:1141–1153
+DOI 10.1016/j.biocon.2009.02.021.
+Ross JLS. 2013. Brazilian relief: structures and forms. Revista do Departamento de
+Geografia (USP) 25:20–36.
+Salles H. 1948. Sobre a genitália dos drosofilídeos (Diptera): I. Drosophila Melanogaster e
+D. simulans. Summa Brasiliensis Biologiae 1:311–383.
+Scheidler NH, Liu C, Hamby KA, Zalom FG, Syed Z. 2015. Volatile codes: correlation
+of olfactory signals and reception in Drosophila-yeast chemical communication.
+Scientific Reports 5:14059 DOI 10.1038/srep14059.
+Spencer WJ. 1950. Collection and laboratory culture. In: Demerec M, ed. Biology of
+Drosophila. New York: John Wiley and Sons, Inc., 535–590.
+Stamps JA, Yang LH, Morales VM, Boundy-Mills KL. 2012. Drosophila regulate yeast
+density and increase yeast community similarity in a natural substrate. PLOS ONE
+7(7):e42238 DOI 10.1371/journal.pone.0042238.
+Starmer W. 1981. A comparison of Drosophila habitats according to the physiological
+attributes of the associated yeast communities. Evolution 35:38–52
+DOI 10.2307/2407940.
+Starmer WT, Lachance MA. 2011. Yeast ecology. In: Kurtzman CP, Fell JW, Boekhout T,
+eds. The yeasts: a taxonomic study. 5th edition. Amsterdam: Elsevier, 65–83.
+Throckmorton LH. 1975. The phylogeny, ecology and geography of Drosophila. In: King
+RC, ed. Handbook of genetics. New York: Plenum, 421–459.
+Val FC. 1982. The male genitalia of some neotropical Drosophila: notes and illustrations.
+Papéis Avulsos de Zoologia 34:309–347.
+Val FC, Vilela CR, Marques MD. 1981. Drosophilidae of the neotropical region.
+In: Ashburner M, Carson HL, Thompson Jr JN, eds. The genetics and biology of
+Drosophila. New York: Academic Press, 123–168.
+Vilela CR. 1999. Is Zaprionus indianus Gupta, 1970 (Diptera: Drosophilidae) currently
+colonizing the Neotropical region? Drosophila Information Service 82:37–39.
+Vilela CR, Bächli G. 1990. Taxonomic studies on neotropical species of seven genera of
+Drosophilidae (Diptera). Bulletin de La Société Entomologique Suisse 63:1–332.
+Vilela CR, Mori L. 2014. The invasive spotted-wing Drosophila (Diptera, Drosophilidae)
+has been found in the city of São Paulo (Brazil). Revista Brasileira de Entomologia
+58:371–375 DOI 10.1590/S0085-56262014000400004.
+Vilela CR, Pereira MAQR. 1985. The male genitalia of five species of the tripunctata
+group of Drosophila (Diptera, Drosophilidae). Revista Brasileira De Entomologia
+29:453–461.
+Vilela CR, Pereira MAQR. 1986. The male genitalia of four species of the tripunctata
+group of Drosophila (Diptera, Drosophilidae). Revista Brasileira de Entomologia
+30:213–219 DOI 10.1590/S1676-06032004000100005.
+Vilela CR, Valente VLS, Basso-da-Silva L. 2004. Drosophila angustibucca Duda sensu
+Frota-Pessoa is an undescribed species (Diptera, Drosophilidae). Revista Brasileira
+de Entomologia 48:233–238 DOI 10.1590/S0085-56262004000200012.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+14/15
+
+Walsh DB, Bolda MP, Goodhue RE, Dreves AJ, Lee J, Bruck DJ, Walton VM, O’Neal
+SD, Zalom FG. 2011. Drosophila suzukii (Diptera: Drosophilidae): invasive pest of
+ripening soft fruit expanding its geographic range and damage potential. Journal of
+Integrated Pest Management 2:G1–G7 DOI 10.1603/IPM10010.
+Yotoko KSC, Medeiros HF, Solferini VN, Klaczko LB. 2003. A molecular study of the
+systematics of the Drosophila tripunctata group and the tripunctata radiation. Molecular Phylogenetics and Evolution 28:614–619 DOI 10.1016/S1055-7903(03)00218-5.
+
+Batista et al. (2017), PeerJ, DOI 10.7717/peerj.3063
+
+15/15
+
+

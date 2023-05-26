@@ -1,0 +1,1364 @@
+Journal of Applied Microbiology 2004, 97, 647–655
+
+doi:10.1111/j.1365-2672.2004.02354.x
+
+The role of indigenous yeasts in traditional Irish cider
+fermentations
+W.F. Morrissey1,2, B. Davenport2, A. Querol3 and A.D.W. Dobson2
+1
+
+National Food Biotechnology Centre and 2Microbiology Department, University College Cork, National University of Ireland, Cork,
+Ireland, and 3Departamento de Biotecnologia, Instituto de Agroquimica y Tecnologia de Alimentos (CSIC), Valencia, Spain
+2003/1000: received 4 November 2003, revised 15 April 2004 and accepted 8 May 2004
+
+ABSTRACT
+W . F . M O R R I S S E Y , B . D A V E N P O R T , A . Q U E R O L A N D A . D . W . D O B S O N . 2004.
+
+Aims: To study the role of the indigenous yeast flora in traditional Irish cider fermentations.
+Methods and Results: Wallerstein laboratory nutrient agar supplemented with biotin, ferric ammonium citrate,
+calcium carbonate and ethanol was employed together with PCR-restriction fragment length polymorphism analysis
+of the region spanning the internal transcribed spacers (ITS1 and ITS2) and the 5Æ8S rRNA gene in the
+identification of indigenous yeasts at the species level, from traditional Irish cider fermentations. By combining the
+molecular approach and the presumptive media it was possible to distinguish between a large number of yeast
+species, and to track them within cider fermentations. The Irish cider fermentation process can be divided into three
+sequential phases based on the predominant yeast type present. Kloeckera/Hanseniaspora uvarum type yeasts
+predominate in the initial fruit yeast phase. Thereafter Saccharomyces cerevisiae type yeast dominate in the
+fermentation phase, where the alcoholic fermentation takes place. Finally the maturation phase which follows, is
+dominated by Dekkera and Brettanomyces type yeasts. H. uvarum type yeast were found to have originated from the
+fruit. Brettanomyces type yeast could be traced back to the press house, and also to the fruit. The press house was
+identified as having high levels of S. cerevisiae type yeast. A strong link was noted between the temperature profile of
+the cider fermentations, which ranged from 22 to 35C and the yeast strain population dynamics.
+Conclusions: Many different indigenous yeast species were identified. The mycology of Irish cider fermentations
+appears to be very similar to that which has previously been reported in the wine industry.
+Significance and Impact of the Study: This study has allowed us to gain a better understanding of the role of
+indigenous yeast species in Natural Irish cider fermentations.
+Keywords: Brettanomyces/Dekkera, cider, fermentation dynamics, indigenous yeast, Saccharomyces cerevisiae.
+
+INTRODUCTION
+Cider is a common alcoholic beverage in a number of
+different European countries. In many regions of countries
+such as France, Spain, Ireland and Slovenia cider is still
+produced by a natural fermentation process, involving
+naturally occurring indigenous yeast species (Michel et al.
+1988; Vidrih and Hribar 1999). These traditional type
+*This manuscript is dedicated to the memory of Bob Davenport.
+Correspondence to: Alan Dobson, Microbiology Department, University College
+Cork, National University of Ireland, Cork, Ireland (e-mail: a.dobson@ucc.ie).
+
+ª 2004 The Society for Applied Microbiology
+
+fermentations typically use wooden mills to crush the fruit
+and batch mechanical presses to extract the juice. Fermentations are then performed in wooden casks with no
+temperature control. Wild microflora, which typically
+originate from the fruit or from the surfaces of the
+processing equipment typically, perform the alcoholic
+fermentations. However the use of these methods often
+causes uncontrolled fermentations and subsequent variation
+in the final quality of the cider.
+The mycological-based conversion of both grape must
+into wine, and apple must into cider is known to involve a
+
+648 W . F . M O R R I S S E Y ET AL.
+
+complex mixture of many different species. It is clear from
+previous studies that there is great similarity between the
+yeast involved and the population dynamics within both the
+wine and cider fermentation processes (Beech 1972, 1993;
+Davenport 1974; Williams 1974; Salih and Drilleau 1988;
+Fleet 1990; Vaughan-Martini and Martini 1995; Le Quere
+and Drilleau 1996; Laplace et al. 1998; Mortimer and
+Polsinelli 1999). The taxonomic investigation of the yeasts
+involved in both processes was initially carried out using
+conventional physiological and biochemical methods as
+described by Krejer-van Rij (1984) and Barnett (1992).
+While these methods provide valuable information they are
+labour-intensive and the results can often be misleading due
+to their dependency on gene expression, which can be
+environmentally influenced (Možina and Raspor 1997).
+Because of this over the last 15 years molecular methods
+have been adopted in the mycological taxonomy of wine
+yeast resulting in greater reproducibility and discriminatory
+power, together with more rapidly obtainable results (White
+et al. 1990; Vezinhet et al. 1992; Guillamon et al. 1998;
+Deak 1999; Dlauchy et al. 1999; Sabate et al. 2002). In
+contrast, little molecular work has been carried out on the
+yeast involved in cider fermentations.
+The present study centred on a cider fermentation facility
+in Ireland, involving a process, which has changed little
+since the plant was originally set up in 1935. The press
+house consists, internally of wooden structures with a
+porous plaster-like material on the walls. The cider press is a
+traditional rack and frame press. Apple pomace is wrapped
+in cheesecloths, a wooden rack is placed over it and the
+process is repeated for 12 consecutive layers. This is referred
+to as a cheese, which is constructed on wooden trolleys,
+called bogeys, which are pushed from press to press. The
+cheese is then pressed by hydraulic rams and the fresh apple
+juice (also referred to as must) flows into underground
+ceramic pipes that lead to a holding tank.
+During the pressing season, which typically lasts from
+early September to late December, the fresh juice is lightly
+sulphited (<8 ppm free SO2) and pumped into oak vats that
+vary in size from 45 000 to 90 000 l. The fermentation
+typically starts within 24 h and as soon as the cider has
+reached attenuation (i.e. a specific gravity of <0Æ999) it is
+racked to stainless steel maturation vats for up to 18 months.
+In this study, we conducted a comprehensive mycological
+profile of the entire microbial ecosystem from the press
+house and its utensils to the vat house, together with the
+sampling of selected natural fermentations. These fermentations are termed natural in that they do not involve the
+addition of yeast starter cultures. This allowed us to
+determine the origins and populations of the different yeast
+species within this ecosystem therefore allowing us to obtain
+a more complete understanding of this apple juice
+fermentation process.
+
+Initially yeast isolates were presumptively identified using
+morphological identification on Wallerstein laboratory nutrient (WLN) agar supplemented with selective reagents due
+to the large number of yeast isolates which we encountered.
+The results obtained were subsequently confirmed using
+PCR-restriction fragment length polymorphism (PCRRFLP) analysis of the region spanning the internal
+transcribed spacers (ITS1 and ITS2) and the 5Æ8S rRNA
+gene (Esteve-Zarzoso et al. 1999), and by comparison with
+patterns obtained using standard NCYC yeast strain types.
+Using these methods it was possible for us to determine the
+origin of the predominant yeast species present in a typical
+cider fermentation and to follow their growth profiles
+throughout both the fermentation and maturation processes.
+
+MATERIALS AND METHODS
+Media and culture conditions and sampling
+procedures
+Sterile cotton swabs were used to swab the press house’s
+walls, floors, timber support beams, wooden conveyors,
+cheesecloths, wooden racks and wooden bogeys. The oak
+vats in the press house were also swabbed in a similar
+manner. Swab samples were taken in quadruplicate. One set
+of swab samples were sonicated in 1% saline solution and
+serial dilutions were spread plated on the differential media
+WLN agar supplemented with 0Æ002% D-biotin and 0Æ05%
+NH4Fe (C6H5O7) (ferric ammonium citrate) and 0Æ5%
+CaCO3, WLN supplemented with 10 and 100 ppm actidione, and WLN-E containing 10% v/v ethanol to give a
+plate count of between 30 and 300 colonies. The remaining
+swab samples were incubated over night in three different
+selective basal media broths containing sterilized apple juice
+supplemented with 0Æ5% yeast extract and 0Æ5% peptone to
+which either 10% ethanol and 10 ppm actidione had been
+added respectively. No additions were made to the final sets
+of broths, which served as a control. After incubation at
+25C for 48 h these broths were subsequently plated out on
+WLN, WLD (10 ppm cyclohexamide), WLD (100 ppm
+cyclohexamide) and WLN-E as described above. Sections
+(4 cm2) were also taken from 20 different cheesecloths,
+together with 20 pieces of wood, each approx. 4 · 1 cm in
+size; and sonicated in 10 ml of 1% saline solution. These
+samples were plated out on the differential WLN, WLD
+(10 ppm cyclohexamide), WLD (100 ppm cyclohexamide)
+and WLN-E media as described above.
+Mycological profile of apples
+Twelve apples were randomly chosen and aseptically taken
+from the apple storage silos within the cider factory, at
+different times throughout the apple harvest season. These
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+ROLE OF YEASTS IN IRISH CIDER FERMENTATION
+
+were then macerated and the must extracted within a
+sterilized cheesecloth pouch contained within a sterile plastic
+bag. Serial dilutions of the fresh must were spread plated on
+the differential media WLN, WLD (10 ppm cyclohexamide), WLD (100 ppm cyclohexamide) and WLN-E, to
+give a plate count of between 30 and 300 colonies.
+Cider fermentations
+In this study, all fermentation were carried out in similarsized fermentation vessels, with no temperature control and
+there was little variation between the fresh musts used, due
+to the wide variety of apples processed on a daily basis (data
+not shown). Samples were periodically taken from these
+fermentations, during both the fermentation and maturation
+stages. Serial dilutions of samples were spread plated onto
+the differential media WLN, WLD (10 ppm cyclohexamide), WLD (100 ppm cyclohexamide) and WLN-E, to
+give plate counts of between 30 and 300 colonies (within 1 h
+of sampling) and incubated at 25C for 5 days. Fifty random
+isolates were taken from each plate corresponding to each
+sample point (Snedecor and Cochran 1956). These isolates
+were then purified, streaked on YPD (4% glucose, 0Æ5%
+yeast extract, 0Æ5% peptone and 2% technical agar) grown at
+25C for 72 h and stored at 4C for subsequent analysis to
+determine the mycological profiles of the yeast in each
+fermentation.
+PCR-RFLP analysis of yeast DNA
+The PCR was performed on DNA from yeast isolates as
+previously described by Esteve-Zarzoso et al. (1999). Direct
+colony PCR reactions were carried out in 100-ll volumes.
+The PCR reaction mix contained 0Æ5 lM of the ITS1 primer
+(5¢-TCCGTAGGTAACCTGCGG-3¢) and 0Æ5 lM of the
+ITS 4 primer (5¢-TCCTCCGCTTATTGATATGC-3¢),
+0Æ2 mM each of dATP, dCTP, dGTP and dTTP, 1Æ5 mM
+MgCl2, 1X NH4 buffer (Bio-Line, London, UK) and 1 U
+Taq polymerase (Bio-Line). PCR amplification was performed in the Peltier PTC-200 programmable thermal
+controller (M.J. Research, Watertown, MA, USA). The
+PCR conditions were 95C for 15 min, 40 cycles of 94C for
+1 min (denaturing), 55C for 2 min (annealing), 72C for
+2 min (elongation) followed by a final elongation of 72C
+for 10 min. A quantity of 10 ll of each reaction was separated
+out on 1Æ4% (w/v) agarose gels in TAE buffer, and 20 ll of
+the PCR products were then digested with CfoI, HaeIII and
+HinfI endonucleases and separated on 3% agarose gels. Gels
+were stained with ethidium bromide and visualized under
+u.v. light. Electrophoretic patterns were compared with those
+obtained from standard yeasts strains obtained from the
+NCYC: Metschinikowia pulcherrima NYC 373, Pichia
+anomola NCYC 750, Brettanomyces anomalus NCYC 749,
+
+649
+
+B. bruxellensis NCYC 2818, Debaromyces polymorphus NCYC
+947, H. uvarum NCYC 2739, P. fermentas NCYC 562,
+P. guilliermondii NCYC 443, Saccharomycodes ludwigii NCYC
+734 and Saccharomyces cerevisiae NCYC 76.
+Physico-chemical analysis
+Samples for chemical analysis were taken in triplicate and
+stored at )18C. The temperature of each fermentation was
+taken at each sampling point. Ethanol, temperature and sugar
+content determinations were carried out using standard AICV
+(L’Association des Industries des Cidres et Vins de fruits de
+l’U.E.) methodology. Sugar utilization was determined by
+monitoring the decrease in sugar levels between each sample
+point using the Anton Paar DMA 5000 Density Meter
+(Anton Paar Ltd, Herts, UK). Ethanol % v/v determination
+of the distillate from cider samples was also performed using
+the Anton Paar DMA 5000 Density Meter.
+RESULTS
+Given that our overall aim was to isolate, identify and
+enumerate the predominant indigenous yeast species present
+within the existing cider fermentation facility; from the
+press house to the vat house together with those that were
+present in various natural fermentations, it was clear that
+samples would initially need to be plated on various yeast
+selective media.
+In this regard, WLN agar supplemented with differential
+reagents proved extremely useful in the isolation and initial
+presumptive identification of different yeast species, from
+this large number of samples (Table 1). It was particularly
+useful in differentiating between Metschnikowia and Hanseniaspora/Kloeckera type species with Metschnikowia species
+producing a distinct red pigment in media supplemented
+with D-biotin and ferric ammonium citrate, while Hanseniaspora/Kloeckera types displayed a characteristic green
+colour. Brettanomyces/Dekkera type species were also easily
+distinguishable displaying a yellow halo which was clearly
+visible against the blue media background. The WLN media
+supplemented with 10% ethanol (WLN-E) also proved
+useful in the isolation of S. cerevisiae species. We confirmed
+the identity of these yeasts using the ITS1 and ITS4 primer
+pair, which amplified the region between the 18S rRNA and
+the 28S rRNA genes in each case. The PCR products and
+subsequent RFLP restriction patterns obtained for the yeast
+species which had been isolated on the different presumptive
+were then compared with those obtained using the corresponding standard NCYC yeast strains (Fig. 1a,b). The
+patterns obtained allowed us to identify these different yeasts
+strains at the species level and permitted us to subsequently
+use this method routinely to follow these different yeast
+species throughout different fermentations (Table 2).
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+650 W . F . M O R R I S S E Y ET AL.
+
+Table 1 Presumptive identification of cider yeast
+
+Yeast genus
+
+Growth
+10 ppm
+cyclohexamide
+
+Growth
+100 ppm
+cyclohexamide
+
+Colour on
+ferric ammonium
+citrate and D-biotin
+
+Colour on
+WLN
+
+Optimum
+growth time
+at 25C (days)
+
+Hanseniaspora/
+Kloeckera
+Metschnikowia
+
++
+
+)
+
+Green
+
+Green
+
+3–5
+
++/)
+
+)
+
+Metallic red
+
+Dark green
+
+3–5
+
+Debaryomyces
+
+)
+
+)
+
+Predominantly
+white
+
+Predominantly
+white
+
+3–5
+
+Dekkera/
+Brettanomyces
+
++
+
++
+
+Predominantly
+green
+surrounded by a
+yellow halo
+
+Predominantly
+green with
+light blue
+head
+
+3–14 (reduced
+in the presence
+of 100 ppm
+thiamine)
+
+Saccharomycodes
+ludwigii
+
++/)
+
+)
+
+Shiny white
+colonies
+
+Shiny white
+colonies
+
+3–5
+
+Saccharomyces
+cerevisiae
+
+)
+
+)
+
+Variable
+
+Variable
+
+3–5
+
+Table 3 shows the different sources of yeast in the
+traditional cider-making process. Quantitative analysis of
+Saccharomyces type species was carried out in the press
+house and its utensils. Most areas within the press were
+colonized with Saccharomyces type species ranging from
+5Æ0 · 102–4Æ2 · 104 CFU cm)2. The fresh must was also a
+source of yeast with total yeast count varying depending
+on the quality of fruit. Hanseniaspora/Kloeckera type
+species were the major yeast species found in fresh must,
+typically accounting for over 80% of the total. The ratio
+of Hanseniaspora/Kloeckera type species to S. cerevisiae
+type species was also strongly influenced by the quality of
+the apples. In very bruised and soiled apples the
+population of S. cerevisiae type species in the must was
+often as high as 5 · 106 CFU ml)1, in contrast to the
+typical population of 3 · 103 CFU ml)1 found on better
+quality apples. The other major source of yeast was the
+wash water, with yeast levels here depending on how
+often the water was recycled. Other yeast that were found
+to be present, but which were not quantitatively isolated
+included Brettanomyces/Dekkera, Saccharomycodes ludwigii,
+Pichia, Debaryomyces and Metschnikowia type species. In
+the vat house, the predominant yeast isolated outside of
+the fermentation season was Brettanomyces/Dekkera type
+species.
+
+Shape of
+cells
+
+Type of
+budding
+
+Apiculate
+(lemon-shaped cell)
+Small round
+cells often found
+in bundles of three
+Mother cell often
+surrounded by
+two daughter cells
+Ogival ended
+rectangular shaped
+with budding
+sometimes taking
+place at a corner of
+the rectangular end
+Large apiculate
+(bowling pinshaped cell)
+Round to ovalshaped cells with
+a characteristic
+granular appearance
+in the middle
+
+Bipolar
+Multilateral
+
+Multilateral
+
+Multilateral
+
+Bipolar
+
+Multilateral
+
+Yeast profiles within natural fermentations
+A total of 12 separate fermentations were profiled during the
+course of this study, data for two of which are presented
+here, given that they are representative of the different times
+of the fermentation season. An Early Fermentation
+(Fig. 2a,b) took place in mid-September when the ambient
+temperatures are typically around 20C, with the temperature of the fresh juice being usually between 14 and 16C.
+Fresh must at this time of year has the heaviest yeast load of
+the season. This combined with initial high must temperatures and the lack of cooling capacity from ambient
+temperatures resulted in a very rapid (12–15 days) fermentation with temperatures reaching up to 34–36C. The
+initial yeast count was 6Æ0 · 106 CFU ml)1 of which over
+90% was composed of Hanseniaspora/Kloeckera type yeast.
+In the first 24 h there was a short lag phase followed by a
+rapid utilization of sugars coinciding with an increase in
+fermentation temperatures from 16 to 20Æ4C (Fig. 2a).
+There was an accompanying exponential growth in the
+number of Hanseniaspora/Kloeckera apiculata and S. cerevisiae type yeast species. As the alcohol level rises to above
+4% alcohol, on day 3 the levels of Hanseniaspora/K. apiculata type species decreased. Hanseniaspora and other strains
+were no longer detected after day 12 with the WLD plate
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+(a)
+
+ROLE OF YEASTS IN IRISH CIDER FERMENTATION
+
+651
+
+M
+
+M
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+10
+
+1000 bp
+
+Fig. 1 (a) PCR products obtained using the
+primers ITS1 and ITS4. Lanes 1–10: (1)
+Saccharomyces cerevisiae NCYC 76, (2)
+Saccharomyces cerevisiae BM1, (3) Pichia
+guilliermondii NCYC 443, (4) Pichia guilliermondii BM5, (5) Pichia fermentas NCYC 562,
+(6) Pichia fermentas BM43, (7) Hanseniaspora
+uvarum NCYC 2739, (8) Hanseniaspora
+uvarum BM34, (9) Brettanomyces bruxellensis
+NCYC 2818, (10) Brettanomyces bruxellensis
+BM 23. M is a 100-bp ladder. (b) PCR
+products obtained using the primers ITS1 and
+ITS4. Lanes 11–20: (11) Saccharomycodes
+ludwigii NCYC 734, (12) Saccharomycodes
+ludwigii BM 26, (3) Pichia anomola NCYC
+750, (14) Pichia anomola BM19, (15)
+Metschinikowia pulcherrima NYC 373 (16)
+Metschinikowia pulcherrima BM 33, (17)
+Brettanomyces anomalus NCYC 749, (18)
+Brettanomyces anomalus BM11, (19)
+Debaromyces polymorphus NCYC 947, (20)
+Debaromyces polymorphus BM53, M is a
+100-bp ladder
+
+500 bp
+
+(b)
+
+M
+
+20
+
+M
+
+1000 bp
+
+500 bp
+
+used to detect Hanseniaspora being colonized predominantly
+by Brettanomyces/Dekkera type yeast.
+At this stage Saccharomyces type yeast began to dominate,
+with the fermentation peaking typically at 8Æ3
+· 108 CFU ml)1 on day 5 (Fig. 2a). This was followed by
+a marked decrease in the population, which dropped to
+1Æ3 · 107 CFU ml)1 at attenuation, and to 5Æ0 ·
+106 CFU ml)1 by day 18. As the numbers of S. cerevisiae
+type species diminish Brettanomyces/Dekkera type yeast
+species began to be detected again on day 12, with their
+overall numbers increasing from 11% of the total yeast
+population to over 90% of the population by day 22
+(Fig. 2a). By day 25 the fermented cider was racked and
+allowed to mature for up to 18 month. During this period
+Brettanomyces were the sole yeast species detected. A
+random sampling of other maturation vats from each of
+the other 10 fermentations studied, also found Brettanomyces/Dekkera to be the dominant yeast species present at this
+stage, with levels >3 · 103 CFU ml)1 being detected at up
+to 9 months of maturation.
+
+There appears to be a marked difference in the yeast
+profiles which we observe in later fermentations (Fig. 3a,b) which are conducted in December; than those which
+were undertaken earlier in the season. The ambient
+temperature in December is typically 10–12C with fresh
+must temperatures rarely rising above 12C (Fig. 3b). The
+overall levels of yeast present is also quite different with
+higher yeast levels in the must earlier in the early
+fermentations (5Æ95 · 106 CFU ml)1) (Fig. 2a) with levels
+of 2Æ5 ·106 CFU ml)1 in the later fermentation (Fig. 3a).
+This in combination with the lower overall ambient
+temperatures resulted in a slower fermentation which takes
+over 40 days to reach attenuation. In the early season
+fermentation, we noticed a sharp rise in S. cerevisiae type
+species followed by an equally sharp decrease (Fig. 2a). In
+the later fermentations with temperatures generally not
+exceeding 24C the total yeast counts were not as high,
+reaching levels of 2Æ1 · 107 CFU ml)1 as opposed to
+8Æ34 · 108 CFU ml)1 in the typical September fermentation. There was also a far shorter exponential growth phase
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+652 W . F . M O R R I S S E Y ET AL.
+
+Table 2 Identification of the predominant yeast species found in this study (designated BM); according to size of the PCR product amplified from
+the 5Æ8S-ITS regions and subsequent fragments following digestion with the restriction endonucleases CfoI, HaeIII and HinfI
+
+Species
+
+Amplified product
+(ITS1 & IT4 primers)
+
+Saccharomyces cerevisiae NCYC 76
+Saccharomyces cerevisiae BM1
+Hanseniaspora uvarum BM34
+Hanseniaspora uvarum NCYC 2739
+Brettanomyces bruxellensis BM 23
+Brettanomyces bruxellensis NCYC 2818
+Brettanomyces anomalus BM11
+Brettanomyces anomalus NCYC 749
+Metschinikowia pulcherrima BM 33
+Metschinikowia pulcherrima NCYC 373
+Debaromyces polymorphus BM53
+Debaromyces polymorphus NCYC 947
+Pichia fermentas BM43
+Pichia fermentas NCYC 562
+Pichia guilliermondii BM5
+Pichia guilliermondii NCYC 443
+Pichia anomola BM 19
+Pichia anomola NCYC 750
+Saccharomycodes ludwigii BM 26
+Saccharomycodes ludwigii NCYC 734
+
+880
+880
+750
+750
+485
+485
+800
+800
+400
+400
+730
+730
+450
+450
+625
+625
+650
+650
+750
+750
+
+Restriction fragments
+CfoI*
+385
+385
+320
+320
+250
+250
+340
+340
+205
+205
+300
+300
+170
+170
+300
+300
+575
+575
+360
+360
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+365
+365
+310
+310
+140
+140
+340
+340
+100
+100
+200
+200
+100
+100
+265
+265
+
++ 350
++ 350
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+105
+105
+90
+90
+120
+120
+95
+95
+180
+180
+100
+100
+60
+60
+
++
++
++
++
+
+100
+100
+80
+80
+
+HaeIII*
+
+HinfI*
+
+325
+325
+750
+750
+375
+375
+800
+800
+280
+280
+650
+650
+340
+340
+400
+400
+600
+600
+700
+700
+
+360
+360
+350
+350
+270
+270
+360
+360
+200
+200
+310
+310
+250
+250
+320
+320
+310
+310
+450
+450
+
++ 230 + 170 + 125
++ 230 + 170 + 125
+
++ 95
++ 95
+
++
++
++
++
++
++
++
++
++
++
+
+100
+100
+80
+80
+80
+80
+115 + 90
+115 + 90
+50
+50
+
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+350
+350
+200
+200
+215
+215
+190
+190
+190
+190
+200
+200
+200
+200
+300
+300
+310
+310
+275
+275
+
++
++
++
++
+
+160
+160
+180
+180
+
++ 160 + 80
++ 160 + 80
+
++ 140 + 100
++ 140 + 100
+
+*Values refer to the number of base pairs per fragment.
+
+Table 3 Yeast population found in fresh must, wash water and the
+press house and its utensils. NA denotes not analysed
+Sample
+point
+
+Saccharomyces cerevisiae
+(CFU cm)2)
+
+Fresh must channels
+Pomade conveyor
+Bogie
+Wall
+Cheesecloths
+Slats
+Fresh must
+(good quality apples)
+Fresh must
+(poor quality apples)
+Wash water
+
+3Æ2 ·
+3Æ7 ·
+3Æ5 ·
+3Æ7 ·
+5Æ0 ·
+4Æ2 ·
+NA
+
+104
+103
+104
+104
+102
+104
+
+Total yeast
+(CFU ml)1)
+NA
+NA
+NA
+NA
+NA
+NA
+2Æ0 · 104
+
+NA
+
+5Æ0 · 106
+
+NA
+
+5Æ0 · 103–2Æ0 · 105
+
+involving S. cerevisiae type species, corresponding with a
+reduced utilization of sugars (Fig. 3b), while the overall
+levels of Saccharomyces type yeasts remained relatively
+constant throughout the remainder of the fermentation
+(days 15–35) (Fig. 3a). Finally Brettanomyces species were
+not detected until day 100 (data not shown), which is a
+much later stage in the fermentation process than is the
+case in the early season fermentations.
+
+DISCUSSION
+The main aim of this study was to isolate identify and
+enumerate the predominant indigenous yeast species present
+within an existing cider fermentation facility. The predominant yeast species identified were Metschinikowia pulcherrima, P. anomola, B. anomalus, B. bruxellensis, Debaromyces
+polymorphus, H. uvarum, P. fermentas, P. guilliermondii,
+Saccharomycodes ludwigii and S. cerevisiae.
+With respect to the source of the yeast species, which we
+identified, there appears to be two main sources for the
+fermentative S. cerevisiae type yeasts. One source was the
+apples themselves, with high numbers being observed
+(2 · 104–5 · 106 CFU ml)1) this is in contrast to previous
+reports where little or no yeast were found on skins of good
+quality apples or grapes (Davenport 1974; Vaughan-Martini
+and Martini 1995), but other groups have reported high
+levels of S. cerevisiae type yeast on damaged or mummified
+fruit (Mortimer and Polsinelli 1999; Sniegowski et al. 2002).
+Indeed in recent studies on the ecology of wine, it is clear
+that many of the yeasts involved originate from either the
+grapes or are associated with the surfaces of the winery
+equipment and environment (Fleet 2001; Fleet 2003). Thus
+it is perhaps not surprising that in our case the other main
+source of S. cerevisiae type yeasts appears to be the process
+utensils, which were found to have substantial yeast
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+653
+
+ROLE OF YEASTS IN IRISH CIDER FERMENTATION
+
+(a)
+
+(a)
+
+109
+
+108
+Log10 CFU ml–1
+
+107
+106
+
+107
+106
+105
+
+105
+
+104
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+40
+
+0
+
+4
+
+8
+
+16
+
+20
+
+24
+
+28
+
+32
+
+36
+
+12
+
+40
+
+10
+8
+
+30
+
+6
+20
+4
+10
+
+Alcohol % v/v
+
+50
+
+2
+
+Sugar utilization g l–1 day–1
+temperature degree celsius
+
+(b)
+
+(b)
+
+50
+
+12
+
+40
+
+10
+8
+
+30
+
+6
+20
+4
+10
+
+2
+
+0
+0
+
+4
+
+8
+
+12 16 20 24 28
+Time (days)
+
+40
+
+Time (days)
+
+Time (days)
+
+Sugar utilization g l–1 day–1
+temperature degree celsius
+
+12
+
+32 36 40
+
+0
+
+Fig. 2 (a) Typical mycological profile of an early fermentation:
+Hanseniaspora/Kloeckera (j), Saccharomyces cerevisiae (d), Brettanomyces/Dekkera (m). (b) Typical physiochemical profile of an early
+fermentation: temperature (C), j; sugar utilization (g l)1 day)1),
+d; alcohol (%, v/v), m
+
+populations even in the month of June, which is approx.
+6 months since the last pressing. Yeast levels of
+3Æ2 · 104 CFU cm)2 were also observed on the ceramic
+surface of the fresh must channels, even in the off-season
+and given that these surfaces would not have been exposed
+to any fresh must since December of the previous fermentation season, they seem to retain a large yeast population on
+their surfaces. This is in contrast to the cheesecloths which
+might have been expected to have a high yeast content due
+to the constant direct contact with apple pomace and juice;
+however, relatively low yeast counts were observed. This
+may to be due to the fact that they are boiled in December in
+2% sodium carbonate and are left to dry in the rafters of the
+press house. H. uvarum type yeast were found to have
+originated from the fruit while the Brettanomyces type yeast
+which appear to dominate the Maturation phase could be
+traced back to press house, and also to the fruit. The yeast
+populations found in both the press house and the vat house
+
+0
+
+Alcohol % v/v
+
+Log10 CFU ml–1
+
+108
+
+104
+
+109
+
+4
+
+8
+
+12 16 20 24 28
+Time (days)
+
+32 36 40
+
+0
+
+Fig. 3 (a) Typical mycological profile of a later fermentation:
+Hanseniaspora/Kloeckera (j), Saccharomyces cerevisiae (d). (b) Typical
+physiochemical profile of a later fermentation: temperature (C),
+j; sugar utilization (g l)1 day)1), d; alcohol (%, v/v), m
+
+during the off-season could be considered to be the resident
+yeast within the plant, having the ability to survive from one
+season to another without any contact with fresh must. The
+traditional press house and vat house date back to the 1880s
+and the surfaces of their interior walls are composed of old
+damp plaster that is very difficult to sanitize, and would thus
+provide an ideal environment for the survival of a wide range
+of yeast species from one year to the next. In similar studies
+conducted in wineries S. cerevisiae involved in the wine
+fermentations have been shown to be present on cellar walls
+(Martini 1993). This is in marked contrast to what we
+observed in the new modern press house with purpose
+designed nonporous surfaces. This press house is regularly
+sanitized throughout the pressing season and is thoroughly
+cleaned at the end of the pressing season. This was
+mycologically profiled in an identical manner to the old
+press house; with very few yeast being found throughout
+both the fermentation and off-seasons (data not shown).
+Interestingly fermentations carried out using juice from this
+new press house, in stainless steel vats; periodically results in
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+654 W . F . M O R R I S S E Y ET AL.
+
+incomplete fermentations with inconsistent flavour profiles,
+indicating the importance of the indigenous microflora
+present in the traditional press house.
+We found a sequential substitution of a variety of different
+yeast species throughout the cider-making process. A similar
+phenomenon has also been reported by several authors in
+similar studies which have been undertaken in the wine
+industry (Phaff and Amerine 1979; Heard and Fleet 1985;
+Fleet 1990, 1999; Boulton et al. 1995; Vaughan-Martini and
+Martini 1995; Mortimer and Polsinelli 1999). This allowed
+us to divide the process into three distinct mycological
+phases based on the predominant yeast species present. In
+the initial fruit yeast phase Hanseniaspora/K. uvarum type
+yeasts were the predominant species; however, we found
+that a large population of S. cerevisiae type yeast was also
+present. The fruit yeast phase yeast were quickly substituted with the strong fermenting S. cerevisiae type yeast
+which dominate the fermentation phase, where the alcoholic fermentation takes place. This replacement of nonSaccharomyces yeasts which grow well during the early
+stages of fermentation but which are subsequently replaced
+by Saccharomyces yeasts, which are more ethanol tolerant is
+also a common phenomenon in natural wine fermentations
+(Fleet and Heard 1993). This replacement of Hanseniaspora/
+K. uvarum type yeast with Saccharomyces type yeast has as
+yet however not been fully explained. Factors including
+depletion in oxygen levels, production of CO2, differences in
+specific growth rates, differing sugar uptake capabilities,
+essential nutrient availability, inter-specific competition, cell
+death, flocculation and/or natural sedimentation characteristics are likely to be involved (Fleet 2003). Finally the
+maturation phase which follows, is dominated by Dekkera
+and Brettanomyces type yeasts. The presence of this yeast has
+also been reported in French cider (Le Quere and Drilleau
+1996) and in lambic beer fermentations and is often
+favourable in certain young red wines (Boulton et al. 1995).
+A strong link was noted between the temperature profile
+of the cider fermentations, and the yeast population
+dynamics of the predominant yeast species, present within
+the fermentations.
+Fermentation temperature is well known to markedly
+influence both the overall fermentation performance and the
+organoleptic properties of wines (Fleet and Heard 1993).
+Early season fermentations when ambient temperatures were
+higher with fresh must temperatures of 14–16C, which in
+addition to the higher yeast numbers present, seemed to
+result in very rapid fermentation (Fig. 2a,b). The rapid
+increase in sugar utilization, temperature rise and ethanol
+production observed between days 4 and 8 (Fig. 2b) was
+accompanied by rapid growth of Saccharomyces species
+during the same period (Fig. 2a). Later in the production
+season at lower temperatures (which can sometimes fall
+below 0C), initial yeast growth was suppressed and
+
+fermentation temperatures never rose above 24C; resulting
+in much longer fermentations with very different mycological profiles (Fig. 3a). In these fermentations which had
+lower initial overall numbers of yeasts, there is no rapid
+increase in temperature; due in part to both the lower yeast
+load and to the lower ambient temperatures. In contrast to
+the earlier fermentations, following an initial growth phase
+involving Saccharomyces species between days 0 and 4 there
+was a relatively long stationary phase between days 5 and 35;
+which coincided with a initial increase in temperature from
+12 to 18C followed by a slow decrease in temperature until
+the end of the alcohol fermentation at day 36. Another
+interesting difference between the typical earlier and
+later season fermentations was the absence of Dekkera/
+Brettanomyces type yeasts in the later fermentations until
+after day 100 (data not shown), indicating a much later
+onset for the maturation phase.
+Irrespective of the overall fermentation profile, once the
+alcoholic fermentation phase had been completed we found
+that Dekkera/Brettanomyces type yeasts dominated the
+maturation phase in every fermentation. This phenomenon
+has also previously been reported in French cider (Le Quere
+and Drilleau 1996). Given the prevalence of Dekkera/
+Brettanomyces species in samples which we isolated from the
+plant such as in the vat and in the press house, coupled with
+the fact that they were present in all of the fermentations
+that we monitored; we believe that these species are likely to
+contribute to the overall organoleptic properties of this
+particular cider.
+Thus this work has allowed us to enumerate, isolate and
+identify many different indigenous yeast species which are
+involved in a traditional Irish cider fermentation process.
+The mycology of Irish cider fermentations appears to be
+very similar to that of the wine industry and these
+similarities should allow us to gain further insights into
+the role of these different yeast species in the production of
+this quite unique cider product.
+ACKNOWLEDGEMENT
+This work was supported by Enterprise Ireland through the
+Innovation Partnership scheme, IP/2001/037.
+REFERENCES
+Barnett, J.A. (1992) The taxonomy of the genus Saccharomyces Meyen
+ex Reess: a short review for non-taxonomists. In Yeast 8, 1–23.
+Beech, F.W. (1972) English cidermaking – technology, microbiology
+and biochemistry. In Progress in Industrial Microbiology ed. Hockenhull, D.J.D. pp. 133–213. London: Churchill Livingstone.
+Beech, F.W. (1993) Yeasts in cider making. In The Yeasts,Yeast
+Technology, 2nd edn, Vol. 5 ed. Rose, A.H. and Harrison, J.S. pp.
+66–96. London: Academic Press.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+ROLE OF YEASTS IN IRISH CIDER FERMENTATION
+
+Boulton, R.B., Singleton, V.L., Bisson, L.F. and Kunkee, R.E. (eds)
+(1995) Yeast biochemistry and ethanol fermentation. In Principles
+and Practises of Winemaking. pp. 102–181. New York: Chapman and
+Hall.
+Davenport, R.R. (1974) Microecology of yeast and yeast-like organisms
+associated with an English vineyard. Vitis 13, 123–130.
+Deak, T. (1999) Molecular taxonomy of yeasts. Acta Microbiologica et
+Immunologica Hungarica 46, 181–186.
+Dlauchy, D., Tornai-Lehoczki, J. and Péter, G. (1999) Restriction
+enzyme analysis of PCR amplified rDNA as a taxonomic tool in yeast
+identification. Systemic and Applied Microbiology 22, 445–453.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F. and Querol, A. (1999).
+Identification of yeasts by RFLP analysis of the 5Æ8S rRNA gene and
+the two ribosomal internal transcribed spacers. International Journal
+of Systematic Bacteriology 49, 329–337.
+Fleet, G.H. (1990) Growth of yeasts during wine fermentations.
+Journal of Wine Research 1, 211–223.
+Fleet, G.H. (1999) Microorganisms in food ecosystems. International
+Journal of Food Microbiology 50, 101–117.
+Fleet, G.H. (2001) Wine. In Food Microbiology Fundamentals and
+Frontiers, 2nd edn ed. Doyle, M.P., Beuchat, L.R. and Montville,
+T.J. pp. 747–772. Washington, DC: ASM Press.
+Fleet, G.H. (2003) Yeast interactions and wine flavour. International
+Journal of Food Microbiology 86, 11–22.
+Fleet, H. and Heard, G.M. (1993). Yeast-growth during fermentation.
+In Wine Microbiology and Biotechnology ed. Fleet, H. pp. 27–54.
+Zurich, Switzerland: Harwood Academic Publishers.
+Guillamon, J.M., Sabate, J., Barrio, E., Cano, J. and Querol, A. (1998)
+Rapid identification of wine yeast species based on RFLP analysis of
+the ribosomal internal transcribed spacer (ITS) region. Archives in
+Microbiology 169, 387–392.
+Heard, G.M. and Fleet, G.H. (1985) Growth of natural yeast flora
+during the fermentation of inoculated wines. Applied and Environmental Microbiology 50, 727–728.
+Krejer-van Rij, N.J.W. (1984) The Yeasts: a Taxonomic Study, 3rd edn.
+Amsterdam, the Netherlands: Elsevier Science Publishers, B.V.
+Laplace, J-M., Apery, S., Frere, F. and Auffray, Y. (1998) Incidence of
+indigenous microbial flora from utensils and surrounding air in
+traditional French cider making. Journal of Institute of Brewing 104,
+71–74.
+Le Quere, J.-M. and Drilleau, J.F. (1996) Trends in French cider
+microbiology research. Cerevisia: Belgian. Journal of Brewing
+Biotechnology 21, 66–70.
+
+655
+
+Martini, A. (1993) Origin and domestication of the wine yeast
+Saccharomyces cerevisiae. Journal of Wine Research 4, 484–494.
+Michel, A., Bizeau, C. and Drilleau, J.-F. (1988) Flore levurienne
+presente dans les cidreries de l’ouest de la France. Science Alimentes
+8, 359–368.
+Možina, S.S. and Raspor, P. (1997) Molecular techniques for yeast
+identification in food processing. Food Technology and Biotechnology
+35, 55–61.
+Mortimer, R. and Polsinelli, M. (1999) On the origins of wine yeast.
+Research in Microbiology 150, 199–204.
+Phaff, H.J. and Amerine, M.A. (1979) Wine microbial technology. In
+Microbial Technology, 2nd edn, Vol. II ed. Peppler, H.J. and
+Perlman, D. pp. 133–141. London: Academic Press.
+Sabate, J., Cano, J., Esteve-Zarzoso, B. and Guillamon, J.M. (2002)
+Isolation and identification of yeasts associated with vineyard and
+winery by RFLP analysis of ribosomal genes and mitochondrial
+DNA. Microbiology Research 157, 267–274.
+Salih, A.G. and Drilleau, J.F. (1988) A survey of microbiological
+aspects of cider making. Journal of Institute of Brewing 94, 5–8.
+Snedecor, G. and Cochran, W. (1956) Statistical Methods, 5th edn.
+Ames, IA: Iowa State University Press.
+Sniegowski, P.D., Dombrowski, P.G. and Fingerman, E. (2002)
+Saccharomyces cerevisiae and Saccharomyces paradoxus coexist in a
+natural woodland site in North America and display different levels
+of reproductive isolation from European conspecifics. FEMS Yeast
+Research 1, 206–310.
+Vaughan-Martini, A. and Martini, A. (1995) Facts, myths and legends
+on the prime industrial microorganism. Journal of Industrial
+Microbiology 14, 514–522.
+Vezinhet, F., Hallet, J.N., Valade, M. and Poulard, A. (1992)
+Ecological survey of wine yeast strains by molecular methods of
+identification. American Journal of Viticulture 43, 83–86.
+Vidrih, R. and Hribar, J. (1999) Synthesis of higher alcohols during
+cider processing. Food Chemistry 67, 287–294.
+White, T.J., Burns, T., Lee, S. and Taylor, J.W. (1990). Amplification
+and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In PCR Protocols: a Guide to Methods and Applications ed.
+Innis, M.A., Gelfand, D.H., Sninsky, J.J. and White, T.J. pp. 315–
+322. San Diego, CA: Academic Press, Inc.
+Williams, A.A. (1974) Flavour research and the cider industry. Journal
+of Institute of Brewing 80, 455–470.
+
+ª 2004 The Society for Applied Microbiology, Journal of Applied Microbiology, 97, 647–655, doi:10.1111/j.1365-2672.2004.02354.x
+
+

@@ -1,0 +1,1883 @@
+Food Microbiology 99 (2021) 103806
+
+Contents lists available at ScienceDirect
+
+Food Microbiology
+journal homepage: www.elsevier.com/locate/fm
+
+Non-conventional yeasts from fermented honey by-products: Focus on
+Hanseniaspora uvarum strains for craft beer production
+Michele Matraxia a, Antonio Alfonzo a, Rosario Prestianni a, Nicola Francesca a, *,
+Raimondo Gaglio a, Aldo Todaro a, Vincenzo Alfeo b, Giuseppe Perretti b, Pietro Columba a,
+Luca Settanni a, Giancarlo Moschetti a
+a
+b
+
+Dipartimento Scienze Agrarie, Alimentari e Forestali, Università degli Studi di Palermo, Viale delle Scienze 4, 90128, Palermo, Italy
+Italian Brewing Research Centre, Department of Agricultural, Food and Environmental Science, University of Perugia, 06126, Perugia, Italy
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Beer
+Yeast
+Non-Saccharomyces
+Hanseniaspora uvarum
+Technological screening
+Alcoholic fermentation
+
+The increasing interest in novel beer productions focused on non-Saccharomyces yeasts in order to pursue their
+potential in generating groundbreaking sensory profiles. Traditional fermented beverages represent an important
+source of yeast strains which could express interesting features during brewing. A total of 404 yeasts were
+isolated from fermented honey by-products and identified as Saccharomyces cerevisiae, Wickerhamomyces anom­
+alus, Zygosaccharomyces bailii, Zygosaccharomyces rouxii and Hanseniaspora uvarum. Five H. uvarum strains were
+screened for their brewing capability. Interestingly, Hanseniaspora uvarum strains showed growth in presence of
+ethanol and hop and a more rapid growth than the control strain S. cerevisiae US-05. Even though all strains
+showed a very low fermentation power, their concentrations ranged between 7 and 8 Log cycles during
+fermentation. The statistical analyses showed significant differences among the strains and underlined the ability
+of YGA2 and YGA34 to grow rapidly in presence of ethanol and hop. The strain YGA34 showed the best tech­
+nological properties and was selected for beer production. Its presence in mixed- and sequential-culture fer­
+mentations with US-05 did not influence attenuation and ethanol concentration but had a significant impact on
+glycerol and acetic acid concentrations, with a higher sensory complexity and intensity, representing promising
+co-starters during craft beer production.
+
+1. Introduction
+Beer is one of the oldest and most widely consumed alcoholic drink
+in the world. The first record of the production of a beer-like drink is
+reported by the Sumerians, about 6000 years ago (Katz and Maytag,
+1991). The modern brewing process is the result of continuous adjust­
+ments made over time. Many kinds of beer were born and established
+worldwide, each with its own distinctive feature, often linked to the
+production area (Glover, 2001; Protz, 1995). In recent years, the
+manufacture of craft beers included local cereal varieties as well as fruits
+in order to provide territorial ties.
+Together with Saccharomyces other yeasts such as Candida, Bretta­
+nomyces/Dekkera, Debaryomyces, Rhodotorula, Cryptococcus and Pichia
+are detected in traditional beer styles, including Lambic, Gueuze,
+Belgian red-brown acidic ale and American coolship ale, subjected to
+spontaneous fermentations (Bokulich et al., 2012; Snauwaert et al.,
+
+2016; Spitaels et al., 2014). Although the interest on conventional
+Saccharomyces strains isolated from non-brewing matrices, like sour­
+dough (Catallo et al., 2020; Marongiu et al., 2015), or distilleries (Araújo
+et al., 2018) is still strong, the application of non-Saccharomyces yeasts
+in beer is increasing. This phenomenon depends on their enzymatic
+activities that influence the aromatic profiles of the beers, mainly by the
+modulation of esters influenced by the activity of esterase enzymes
+(Pires et al., 2014) or through the shaping of terpenes and higher alco­
+hols (Lappe-Oliveras et al., 2008). Furthermore, the reduction of calo­
+ries, the production of low levels of alcohol, the souring, the production
+of lactic acid and the generation of glycerol during fermentation by
+non-Saccharomyces yeasts might differentiate the existing beers or even
+create new styles (Cubillos et al., 2019; Michel et al., 2016). Due to
+specific substrate assimilation patterns, non-Saccharomyces yeasts pro­
+duce several compounds (i.e. glycerol, lactic acid, acetaldehyde and
+ethyl acetate) useful to the productions of typical and distinguishable
+
+* Corresponding author.
+E-mail address: nicola.francesca@unipa.it (N. Francesca).
+https://doi.org/10.1016/j.fm.2021.103806
+Received 11 January 2021; Received in revised form 24 February 2021; Accepted 8 April 2021
+Available online 20 April 2021
+0740-0020/© 2021 Elsevier Ltd. All rights reserved.
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+present low fermentation yields and are more sensitivity to ethanol but,
+in some cases, they can improve other characteristics such as texture and
+integration of aroma for the creation of a final peculiar bouquet. Actu­
+ally, the application of non-Saccharomyces strains characterized by an
+intense production of enzymes, mainly hydrolases, such as glucosidase
+capable of releasing aroma precursors or aroma-active substances, but
+unable to perform the alcoholic fermentation (AF), represents an
+encouraging strategy for bio-flavoring fermented beverages (Rodriguez
+et al., 2007, 2010; Ruiz et al., 2018; Sadineni et al., 2012). Recent
+studies showed that Hanseniaspora genus can play several roles during a
+brewing process. Bellut et al. (2018) evaluated two different strains of
+Hanseniaspora vineae and Hanseniaspora valbyensis during alcohol-free
+beer production: both strains showed high viability rates, but only
+marginal differences, in terms of volatile profiles, with the control
+production carried out with S. cerevisiae were registered. Larroque et al.
+(2021) successfully applied a strain of H. vineae, previously used in
+co-fermentation of wine, for the improvement of the fruity organoleptic
+characteristics of beer.
+From this perspective, non-Saccharomyces strains are usually used in
+co-fermentation because ethanol production is performed by Saccharo­
+myces species (Cubillos et al., 2019). According to Cubillos et al. (2019),
+the yeast diversity of several traditional fermented beverages is still
+uninvestigated and they represent potential ecological niches to isolate
+novel strains for brewery technologies.
+With regards to uninvestigated traditional alcoholic beverages,
+several fermented alcoholic products that are typical of restricted
+geographical areas are produced in Sicily. Often, these beverages are
+expression of the local culture, history and folklore. Among these,
+“Spiritu Re’ Fascitrari” (SRF) is a distillate liqueur produced from honey
+by-products at Sortino (Syracuse province, Sicily region, Italy). The term
+“fascitrari” comes from the ancient hives made with stems of the plant
+Ferula communis called “fascitro” in the local dialect (Ajovalasit and
+Columba, 1998).
+SRF is obtained from the recovery process of beeswax from opercula
+and residual substances from honey production. Residual water from
+wax recovery process, after fermentation, is distilled and blended with a
+decoction of honey and various aromas. Gaglio et al. (2017) described
+the main yeast species active during SRF spontaneous AF as belonging to
+the species Zygosaccharomyces bailii, Zygosaccharomyces rouxii, Saccha­
+romyces cerevisiae, Pichia kudriavzevii, Wickerhamomyces anomalus and
+Lachancea fermentati. SRF matrices certainly represent a microbial
+source of starter strains to be used in fermented beverage industries
+(Varela, 2016). Sinacori et al. (2014) who investigated the microbial
+ecology associated to honey of different geographical and botanical
+origins, highlighted the presence of various yeast species of interest as
+beer starter cultures.
+
+Table 1
+Microbial loads (Log CFU/g or mL) of fermented honey by-products (FHP)
+samples.
+FHP
+Samples
+
+Media
+DWA
+
+TGYA
+
+WL
+
+LA
+
+1-a
+
+3.01 ±
+0.32bcd
+3.47 ±
+0.11ab
+2.8 ±
+0.17cde
+2.22 ±
+0.19e
+2.74 ±
+0.34cde
+2.69 ±
+0.24de
+n.d.f
+
+5.45 ± 0.22ab
+
+3-a
+
+2.98 ±
+0.27ab
+2.73 ±
+0.17abc
+2.29 ±
+0.28c
+2.44 ±
+0.31bc
+3.04 ±
+0.21ab
+2.72 ±
+0.20abc
+n.d.d
+
+3-b
+
+n.d.d
+
+n.d.f
+
+3-c
+
+n.d.d
+
+n.d.f
+
+4-a
+
+3.18 ±
+0.17a
+2.95 ±
+0.41ab
+3.14 ±
+0.20a
+***
+
+3.33 ±
+0.38abc
+3.87 ±
+0.15a
+3.8 ± 0.11a
+
+5.17 ±
+0.32abcd
+5.08 ±
+0.17abcde
+4.15 ± 0.20e
+
+4.88 ±
+0.22d
+5.02 ±
+0.33cd
+5.17 ±
+0.21bcd
+2.88 ±
+0.28e
+3.01 ±
+0.21e
+2.23 ±
+0.21e
+6.01 ±
+0.30a
+5.72 ±
+0.48abc
+5.89 ±
+0.20ab
+4.88 ±
+0.22d
+5.02 ±
+0.33cd
+5.17 ±
+0.21bcd
+***
+
+1-b
+1-c
+2-a
+2-b
+2-c
+
+4-b
+4-c
+Statistical
+significance
+
+4.75 ±
+0.41bcde
+4.88 ±
+0.49bcde
+5.33 ±
+0.31abc
+5.87 ± 0.31a
+5.92 ± 0.37a
+5.45 ± 0.40ab
+
+***
+
+4.25 ± 0.31de
+4.38 ±
+0.31cde
+**
+
+Abbreviations: DWA, de whalley agar for total osmophilic yeasts; TGYA, tryp­
+tone glucose yeast extract agar for total osmotolerant yeasts; WL, wallerstein
+laboratory nutrient agar for total yeasts; LA, lysine agar for Saccharomyces yeast
+growth inhibition; n.d., not detected (value < detection limit of method).
+Results indicate mean values ± SD of three determinations.
+Data within a column followed by the same letter are not significantly different
+according to Tukey’s test.
+P value: **, P < 0,01; ***, P < 0.001.
+
+beers (Ciani and Comitini, 2011; Cordero-Bueso et al., 2013; Gonzlez
+et al., 2013; Johnson, 2013) or even assimilate sugars like maltose or
+maltotriose, which are not commonly assimilated by non-domesticated
+yeasts (Nikulin et al., 2020).
+As reported by Sannino et al. (2019), great attention has been paid to
+some non-Saccharomyces yeasts, mainly Ascomycota genera, namely,
+Pichia, Saccharomycodes, Zygosaccharomyces, Hanseniaspora and Tor­
+ulaspora for their possible exploitation as starter cultures in brewing.
+Also the common wine spoilage yeasts Dekkera/Brettanomyces have been
+exploited for their brewing potential (Lentz et al., 2014). They generally
+Table 2
+Molecular identification of yeast species isolated from FHP samples.
+Size of restriction fragmenta
+
+Accession
+Numberb
+
+No. of isolatesc
+(%)d
+
+Species
+
+Restriction
+profile
+
+5.8 S-ITS
+PCR
+
+CfoI
+
+HaeIII
+
+HinfI
+
+DdeI
+
+bp
+
+Hanseniaspora uvarum
+
+I
+
+750
+
+320 + 105
+
+750
+
+II
+
+850
+
+370 + 340
+
+Wickerhamomyces
+anomalus
+Zygosaccharomyces bailii
+
+III
+
+650
+
+575
+
+320 + 220+180
++ 130
+600 + 50
+
+300 + 180+95
++ 90
+n.d.
+
+310 + 310
+
+n.d.
+
+IV
+
+775
+
+330 + 295
+
+700
+
+n.d.
+
+Zygosaccharomyces
+rouxii
+
+V
+
+735
+
+295 +
+205+175
+
+420 + 175
+
+340 +
+230+175
+350 +
+250+130
+
+MT362721;
+MT362722
+MT364261;
+MT364262
+MT364263;
+MT364264
+MT364265
+
+145 (36)
+
+Saccharomyces cerevisiae
+
+350 +
+200+180
+380 + 120
+
+n.d.
+
+MT364266
+
+77 (19)
+
+Abbreviation: n.d., not determined according to Esteve Zarzoso et al. (1999).
+a
+Values refer to the number of base pairs (bp)per fragment.
+b
+Accession number of D1/D2 region of the 26 S rRNA gene of isolates deposited into Genbank database.
+c
+Number of isolates per each yeast species.
+d
+Percentage based on the total number of isolates.
+2
+
+51 (13)
+43 (11)
+88 (22)
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Table 3
+Technological screening of Hanseniaspora uvarum strains.
+Strain
+code
+
+YGA2
+YGA34
+YGA36
+YGA38
+YGA73
+
+Resistance to
+ethanol
+
+Resistance to hop
+
+Cross resistance
+
+5% (v/
+v)
+
+10% (v/
+v)
+
+25
+IBU
+
+50
+IBU
+
+90
+IBU
+
+25 IBU/5%
+ethanol
+
+50 IBU/5%
+ethanol
+
+90 IBU/5%
+ethanol
+
++
++
++
++
++
+
++/−
++/−
++/−
++/−
+–
+
++
++
++
++
++
+
++
++
++
++
++
+
++
++
++
++
++
+
++/−
++
++
++
++
+
+–
++/−
++/−
++/−
+–
+
+–
+–
++/−
++/−
+–
+
+H2S
+assaya
+
+Flocculation
+assayb
+
+Sedimentation
+volumec
+
+0
+0
+1
+0
+0
+
+0
+0
+0
+0
+0
+
+0.55
+0.65
+0.60
+0.35
+0.45
+
+Symbols: +, positive growth; ̶, no growth; +/− , weak growth.
+Abbreviations: IBU, International Bitterness Unit; H2S, Hydrogen sulfide.
+a
+Color of colony on Biggy agar plates: 0 = white; 1 = beige; 2 = light brown; 3 = brown; 4 = dark brown; 5 = black.
+b
+Flocculation degree after 22 days of incubation.
+c
+Mean sedimentation volume (mL) expressed according to Helm’s Assay.
+
+For this reason, the present study aimed to: (i), isolate and identify
+yeasts from fermented honey by-products (FHP); (ii), characterize the
+yeasts strains for their main brewing traits; (iii), select non-Saccharo­
+myces yeasts as potential co-starter for fermenting wort and/or green
+beer; (iv), evaluate the effect of Hanseniaspora uvarum inoculum during
+beer fermentation and sensory quality of bottled products.
+
+internal transcribed spacers (ITS1 and ITS2) and the 5.8 S rRNA gene.
+DNA amplification occurred with the primer pair ITS1/ITS4 according
+to Esteve-Zarzoso et al. (1999). The generated amplicons were then
+digested with the endonucleases CfoI, HaeIII and HinfI (MBI Fermentas,
+St. Leon-Rot, Germany) at 37 ◦ C for 8 h. ITS amplicons, as well as the
+corresponding restriction fragments, were analyzed on agarose gel using
+1.5% and 3% (w/v) agarose in 1 × TBE (89 mM Tris-borate, 2 mM EDTA
+pH 8) buffer, stained with SYBR safe DNA gel stain (Invitrogen, Milan,
+Italy), visualized by UV transillumination and acquired by Gel Doc 1000
+Video Gel Documentation System (BioRad, Richmond, CA). Standard
+DNA ladders were 1 kb Plus and 50 pb (Invitrogen). At least one isolate
+per group was further processed by sequencing of the D1/D2 region of
+the 26 S rRNA gene (Gaglio et al., 2017). The identities of the generated
+sequences were determined by BLASTN (http://www.ncbi. nlm.nih.
+gov).
+
+2. Materials and methods
+2.1. Sampling and microbiological analysis of fermented honey byproducts
+A total of 12 samples of FHP were collected during four independent
+productions of SRF distillate, with three replicates for each sampling. In
+details, the watery solution of pressed watery decoction was spontane­
+ously fermented at the honey company “G. Pagliaro” located in Sortino
+(Siracusa, Sicily, Italy) and the samples were collected at the end of the
+AF. All samples were transferred into sterile plastic bags (BagLightR 400
+MultilayerR bags, Interscience, Saint Nom, France) and transported with
+a portable fridge to the laboratory of Agricultural Microbiology
+(Department of Agricultural, Food and Forest Science, University of
+Palermo, Italy).
+The microbiological analysis was performed to investigate the
+presence of yeasts associated to FHP following the same procedures
+published by Gaglio et al. (2017) to count and isolate total osmophilic
+yeasts, total osmotolerant yeasts and total yeasts. Briefly, samples
+associated with SRF production were homogenized in glucose solution
+to avoid cell damages. Liquid samples were subjected to decimal serial
+dilution in 30% (w/v) glucose solution. Total yeast counts were per­
+formed after sample dilution in peptone water solution (Sinacori et al.,
+2014). Total osmophilic yeasts were cultivated on De Walley Agar
+(DWA), total osmotolerant yeasts on tryptone glucose yeast extract agar
+(TGY), total yeasts were on Wallerstein laboratory (WL) nutrient agar,
+while non-Saccharomyces yeasts on Lysine Agar (LA).
+When no colony developed, the following enrichment procedure was
+applied: 50 g or 50 mL of each sample were added to 50 mL of yeast
+extract peptone dextrose (YPD) and incubated statically for 5 and 10 d at
+25 ◦ C. All media were purchased from Oxoid (Rodano, Milan, Italy).
+Microbiological counts were performed in triplicate.
+
+2.3. Genotypic and technological characterization of Hanseniaspora
+uvarum strains
+2.3.1. Strain typing of Hanseniaspora uvarum isolates
+The intraspecific characterization of the isolates was carried out by
+different RAPD-PCR assays with primers M13 (Francesca et al., 2014)
+and P80 (Capece et al., 2005). The same isolates were subjected to
+tandem repeat-tRNA (TRtRNA)-PCR method for the molecular typing of
+non-Saccharomyces subspecies, combining TtRNASc primer with either
+ISS-MB or (CAG)5 primers, as reported by Barquet et al. (2012). All
+patterns were analyzed using the Gelcompare II software version 6.5
+(Applied-Maths, Sin Marten Latem, Belgium).
+2.3.2. Hydrogen sulphide production
+To evaluate the production of hydrogen sulphide (H2S), the strains of
+H. uvarum were cultured onto bismuth sulphite agar (Biggy Agar),
+Wilson-Blair medium (Merck, Darmstadt, Germany; Jiranek et al.,
+1995). H2S production was estimated by colony blackening after 3 d of
+incubation at 28 ◦ C, using a five-level scale: 0 = white, 1 = beige, 2 =
+light brown, 3 = brown, 4 = dark brown, 5 = black. S. cerevisiae US-05
+(Fermentis, Lesaffre, France) and S. cerevisiae GR1 (from the collection
+of SAAF Department) were used as negative (0 = white) and positive
+controls (3 = brown), as described by Araújo et al. (2018) and Francesca
+et al. (2010).
+
+2.2. Isolation and genotypical identification of yeasts
+
+2.3.3. Ethanol tolerance
+For ethanol tolerance assay, dilutions of exponential pure cultures
+were spotted onto Petri dishes containing MEA solid medium added with
+ethanol at 5 and 10% (v/v).
+
+After growth, all isolates were picked up from agar plates and puri­
+fied by successive sub-culturing onto Malt Extract Agar (MEA). Yeast
+isolates were identified by molecular methods. DNA was extracted by
+cell lysis using the InstaGene Matrix kit (Bio-Rad Laboratories, Hercules,
+CA) according to the manufacturer’s instructions. To perform a first
+discrimination of the yeasts, all isolates were analyzed by restriction
+fragment length polymorphism (RFLP) of the region spanning the
+
+2.3.4. Cross resistance to hop and ethanol
+The tolerance of the H. uvarum strains to hop was evaluated applying
+the procedure illustrated by Michel et al. (2016) with the following
+3
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 1. Growth of Hanseniaspora uvarum strains at different IBU and ethanol concentrations. Abbreviation: IBU, International Bitterness Unit; OD, optical density. The
+sensitivity to different IBU and ethanol concentrations were measured by OD values at 600 nm in triplicate. Values of standard deviations ranged between 0 and
+0.315 and are not showed for a better graphical visualization of figures.
+
+modifications: the pure strain cultures were inoculated into a set of four
+10 mL tubes containing 5 mL of sterile wort (45 min at 100 ◦ C) prepared
+by mixing 10% of malt extract (Oxoid, Milan, Italy) to distilled water
+with a final pH 5.5; the wort was adjusted to iso-α-acid concentrations of
+0, 25, 50 and 90 ppm (same value in IBU) and incubated for 72 h at of
+27 ◦ C. Additional set of four tubes containing sterile wort were adjusted
+to 0, 25, 50 and 90 ppm iso-α-acid and added with 5% (v/v)
+filter-sterilized ethanol. The growth was assessed by visual inspection
+
+(Kurtzman et al., 2011; Michel et al., 2016).
+2.3.5. Growth kinetics in presence of hop and ethanol
+The growth of the pure strain cultures in wort was further investi­
+gated by optical density (OD) measurement at 600 nm wavelength into a
+96-well microtitre plate (Michel et al., 2016). The strains for growth
+kinetics experiments were cultivated as reported by Hall et al. (2014).
+The measurement was performed at 1 h interval for the 72 h by using the
+4
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 2. Fermentation kinetics of wort beer inoculated with Hanseniaspora uvarum strains. Axes: values of principal vertical axis (left side) refer to histogram graph and
+represent the weight loss (g CO2) of wort beer during AF; values of secondary vertical axis (right side) refers to growth curve of strains inoculated into wort beer
+during AF.
+Codes: YGA2, YGA34, YGA36, YGA38 and YGA73, are codes of Hanseniaspora uvarum inoculated into wort representing the experimental trials; US-05, code of
+Saccharomyces cerevisiae commercial strain inoculated into wort representing the positive control trial; NC, negative control trial subjected to spontaneous
+fermentation.
+
+ScanReady Microplate photometer P-800 (Life Real Biotechnology Co.,
+Ltd, Hangzhou, China). The temperature was set at 27 ◦ C (Salvadò et al.,
+2011). All analyses were performed in triplicates in two independent
+experiments.
+The variables describing the growth curves were: total growth
+calculated as the integrated area underlying the curve up to 72 h; lag
+phase time was statistically estimated as the duration of the growth lag
+phase (Hall et al., 2014); the slope of exponential phase was determined
+as described by Hall et al. (2014); exponential phase refers to the inte­
+grated area underlying the curve and the time of exponential phase was
+statistically determined; the maximum growth was represented by the
+highest values of OD measured up to 72 h of incubation.
+
+described by Holt et al. (2018), with some variations: 150 g of dry Malt
+Extract (Munton spraymalt 6.5 EBC, Suffolk, England) and 50 ppm of
+calcium carbonate were added to 1 L of distilled water. The pH value
+was set at 5.2 with 1 mol/L HCl. Hopping was performed after auto­
+claving by adding an aliquot of iso-α-acid to reach a final concentration
+of 25 ppm (same value in IBU) (Michel et al., 2016). The final gravity of
+the malt extract medium was 13.3 ◦ P. Aliquots of 150 mL of wort were
+put into 300 mL flasks, sealed with a Müller valve to allow the CO2
+produced during fermentation to leave the system and autoclaved at
+110 ◦ C for 15 min. After autoclaving, the malt extract wort was let to
+cool down to 18 ◦ C and, subsequently, inoculated with each yeast
+strains. The fermentation was performed at 18 ◦ C under static conditions
+and was monitored daily by measuring the weight loss up to day 12. Beer
+wort inoculated with S. cerevisiae strain US-05 was the positive control
+trial. The un-inoculated beer wort represented the negative control trial.
+According to Ciani and Maccarelli (1998), fermentation rate (FR) was
+calculated as daily CO2 production after 3 d and at the end of AF. All beer
+wort fermentations were performed in triplicates in two independent
+experiments.
+All experimental trials were subjected to sampling before and after
+the inoculation of the strains, as well as at day 3, 6, 9, and 12 of
+fermentation. The samples were immediately subjected to microbial
+counts, performed on WL nutrient agar as previously described. After
+growth, all isolates were picked up from the agar plates, purified to
+homogeneity and subjected to genotypic identification at species and
+strain level as reported above. All analyses were performed in
+duplicates.
+
+2.3.6. Flocculation assay
+Flocculation assay was carried out as previously described by Tofalo
+et al. (2014). The medium used was Yeast Nitrogen Base (YNB, Difco
+Laboratories, Detroit, Mich., USA) with 2% glucose added and prepared
+according to manufacturer’s instructions. A volume of 5 mL of this
+medium was inoculated with a loopful of the pure yeast in exponential
+growth phase and incubated at 28 ◦ C under stationary conditions.
+Flocculation ability, evaluated by visual inspection and compared with
+appropriate controls, was graded on a scale from 0 (non flocculent) to 5
+(highly flocculent). The visual inspection was performed after 2, 15 and
+20 d from strain culture inoculation. Flocculation measurement with
+Helm’s assay was also performed. Briefly, the sedimentation of yeasts
+was observed in a calcium sulfate solution buffered at pH 4.5, quanti­
+fying the sedimentation volume and flocculation type according to
+Casey et al. (1994). All analyses were performed in triplicates.
+
+2.4. Beer production
+
+2.3.7. Wort fermentation: monitoring of weight loss and strain
+concentration
+A laboratory-scale fermentation was performed to evaluate the
+ability of the strains to ferment a beer wort. To guarantee standardized
+conditions for all trials, wort fermentation medium was prepared as
+
+2.4.1. Experimental design and sample collection
+To better understand the effect of H. uvarum inoculum during
+fermentation, experimental top-fermented beers were produced at a
+medium-scale level (10 L batch) using four different inoculum
+5
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 3. Evolution of yeast populations of S. cerevisiae and H. uvarum populations during trials fermentation. Codes: T1 refers to co-inoculated fermentation with 1:1
+ratio between YGA34 and US-05; T2 refers to co-inoculated fermentation with 10:1 ratio between YGA34 and US-05; T3 refers to sequentially inoculated
+fermentation with YGA34 and US-05; T4 refers to fermentation trial inoculated with monoculture of YGA34; Tc refers to fermentation trial inoculated with
+monoculture of US-05. Legend: –S refers to S. cerevisiae population; –H refers to H. uvarum population.
+
+Table 4
+Mean percentage of sugar consumption during AF calculated for each trial.
+D-glucose
+
+T1
+T2
+T3
+T4
+Tc
+
+(%)
+
+99.40 ± 0.02
+99.50 ± 0.05
+99.50± 0.02
+99.20 ± 0.03
+99.40 ± 0.05
+
+D-fructose
+
+97.30 ±
+97.90 ±
+98.10 ±
+96.80 ±
+96.80 ±
+
+(%)
+
+0.05
+0.01
+0.07
+0.02
+0.08
+
+Sucrose (%)
+
+Maltose (%)
+
+100.00 ± 0.00
+100.00 ± 0.00
+100.00 ± 0.00
+37.90 ± 0.39
+100.00 ± 0.00
+
+82.00 ± 0.04
+89.20 ± 0.10
+84.60 ± 0.03
+2.20 ± 0.07
+84.30 ± 0.01
+
+Table 5
+Final concentration of ethanol, glycerol and acetic acid in green beers produced
+with different combinations of inoculum.
+
+T1
+T2
+
+Results indicate mean values ± SD of three determinations.
+
+T3
+
+combinations for H. uvarum YGA34 and S. cerevisiae commercial strain
+US-05. Four experimental trials (T1, T2, T3 and T4) and one control trial
+(Tc) were inoculated as follows: co-inoculation of H. uvarum strain
+YGA34 and S. cerevisiae strain US-05 with 1:1 ratio (trial T1); coinoculation of H. uvarum strain YGA34 and S. cerevisiae strain US-05
+with 10:1 ratio (trial T2); sequential fermentation starting from
+YGA34 strain and, after 48 h, inoculation of US-05 strain (trial T3);
+monoculture of H. uvarum strain YGA34 strain (trial T4); monoculture of
+S. cerevisiae US-05 strain (trial Tc). The inoculation rate was planned
+with a cell density of 2.0 × 106 cells/mL of each yeast strain for the trials
+T1, T3 and T4, while H. uvarum YGA34 and S. cerevisiae US-05 were
+inoculated at 2.0 × 106 and 2.0 × 105 cells/mL, respectively, in trial T2.
+The beers were produced at the pilot plant of SAAF, Department University of Palermo (Italy). Brewing was performed using an “all-inone” microbrewery plant Klarstein mod. 10031629 (Chal-Tec GmbH
+
+T4
+Tc
+Statistical
+significance
+
+Ethanol
+(%)
+
+Ethanol yield
+(g/g)
+
+Glycerol (g/
+L)
+
+Acetic acid
+(g/L)
+
+5.05 ±
+0.16ab
+5.16 ±
+0.13a
+4.80 ±
+0.07c
+0.52 ±
+0.01d
+4.90 ±
+0.11bc
+***
+
+0.50 ± 0.06a
+
+3.20 ±
+0.18b
+3.09 ±
+0.08b
+3.80 ±
+0.06a
+1.28 ±
+0.40c
+3.08 ±
+0.04b
+***
+
+0.03 ± 0.02c
+
+0.48 ± 0.04a
+0.46 ± 0.04a
+0.31 ± 0.02b
+0.47 ± 0.05a
+*
+
+0.17 ± 0.03b
+0.26 ± 0.04a
+0.27 ± 0.01a
+0.03 ± 0.02c
+***
+
+Results indicate mean values ± SD of three determinations.
+Data within a column followed by the same letter are not significantly different
+according to Tukey’s test.
+P value: *, P < 0.05; ***, P < 0.001.
+
+Berlin, Germany). Nine kilograms of Pilsen malt (BestMalz, Heidelberg,
+Germany), previously ground through a two roller mill (Brouwland,
+Beverlo, Belgium), were added to 30 L of water with 10 g of calcium
+chloride (CaCl2) for pH correction (Marconi et al., 2016). The mash was
+heated to 70 ◦ C for 40 min for the single-step mash, until the complete
+6
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 4. Distribution of volatile organic compounds
+among experimental beers. The heat map plot depicts
+the relative concentration of each VOCs (variables
+clustering on the Y-axis) within each sample (X-axis
+clustering). Codes: T1 refers to co-inoculated
+fermentation with 1:1 ratio between YGA34 and US05; T2 refers to co-inoculated fermentation with
+10:1 ratio between YGA34 and US-05; T3 refers to
+sequentially inoculated fermentation with YGA34 and
+US-05; Tc refers to fermentation trial inoculated with
+monoculture of US-05.
+
+conversion of sugars, verified with iodine solution. Subsequently, the
+mixture was heated to 78 ◦ C for 10 min. The grains were rinsed
+(sparging) using 20 L H2O, resulting in a total volume of 45 L. The
+resulting wort was boiled for 60 min, during which the hops (pellets, 40
+g, 11.5% of α-acids) were added to reach a final concentration of 25 IBU.
+After boiling, the resulting volume was 42 L, with 13.5 ◦ Bx (degrees
+Brix). The wort was then clarified through a whirlpool consisting of 10
+min of recirculation and 10 min of resting (Marconi et al., 2016). The
+must was finally cooled to 21 ◦ C in preparation for the inoculation of the
+selected yeast strains. Standard quality parameters of beer wort were:
+5.62 pH, 13.5◦ Bx (Brix degree), 1053 SG (Specific Gravity), 7.16 g/L
+D-glucose, 0.94 g/L D-fructose, 10.02 g/L sucrose, 75.63 g/L maltose,
+71.4 mg/L free α-amino nitrogen, 106.6 mg/L ammonia nitrogen.
+Strains were reactivated from - 80 ◦ C glycerol stocks and plated onto
+YPD agar (10 g/L yeast extract, 20 g/L bacteriological peptone, 15 g/L
+agar, and 20 g/L D-glucose). After 3–5 d at 25 ◦ C, the strains were precultured overnight in 5 mL YPD and then re-inoculated into sterile
+flasks containing YPD, where cells were allowed to grow for 3 d at 25 ◦ C
+(Holt et al., 2018). The cells were washed twice with Ringer solution,
+and inoculated as described above.
+At the end of AF, the beer samples were bottle conditioned for 16
+d by dextrose addition (4.5 g/L) and US-05 with a pitching rate of 5.0 ×
+106 cells/mL.
+All experimental fermentation trials were performed in duplicate.
+Samples were collected at different stages of beer production: wort, after
+the inoculum of yeast strains, during the AF (day 1, 2, 4, 6 and 11), at the
+end of AF (green beer), at the end of bottle conditioning. All samples
+were subjected to analysis within 24 h from collection. All analyses were
+performed in triplicate.
+
+agar plates, purified to homogeneity and subjected to genotypic iden­
+tification as reported above (paragraph 2.2.). In order to verify the
+dominance of H. uvarum strain YGA34, all isolates within Hanseniaspora
+spp. group were characterized at strain level as reported above (para­
+graph 2.3.1.).
+The genetic diversity of Saccharomyces isolates was assessed by
+Interdelta analysis (Legras and Karst, 2003). Interdelta patterns were
+analyzed using the Gel Compar II software (v. 6.1. Applied Maths NV.
+Sint-Martens-Latem. Belgium) and similarities among patterns were
+assessed. Profiles showing more than 95% of similarity were considered
+identical.
+2.4.3. Determination of physicochemical parameters
+The pH measurement was conducted with a pH meter (Mod.70 XS/
+50010162) while ◦ Brix were determined with a refractometer (DBR
+Salt). The analyzer iCubio iMagic M9 (Shenzhen iCubio Biomedical
+Technology Co.. Ltd.. Shenzhen, China) was used and run with full
+automation for the enzymatic determination of glucose, fructose, su­
+crose, maltose, ethanol, glycerol, and acetic acid. It automatically
+pipetted reagents and samples into the cuvette, allowed incubation at a
+controlled temperature, read absorbance at the specific wavelength, and
+calculated the concentration of the analyses with a calibration curve.
+The parameters used in the automated photometric systems were:
+temperature, 37 ◦ C; wavelengths, 340 nm and 415 nm (bichromatic);
+optical path. 1 cm. The reagents used were: Enzytec™ Liquid D-Glucose/
+D-Fructose Cod. E8160. Enzytec™ Liquid Sucrose/D-Glucose Cod.
+E8180. Enzytec™ Liquid Ethanol Cod. E8340. Enzytec™ Fluid Glycerol
+Cod. E5360. Enzytec™ Acetic acid Cod. E2580. The standard used for
+the calibrations of the apparatus were: Enzytec™ Multi-acid standard
+automation Cod. E1241 for acetic acid; Enzytec™ Sugar standard Cod.
+E5450 for glucose and fructose; Enzytec™ Alcohol standard Cod. E5420
+for ethanol; Enzytec™ Sugar standard manual Cod. E1242 for glycerol.
+All reagents and standards were purchased from R-Biopharm AG
+(Darmstadt. Germany). All samples were diluted to the optimal con­
+centration with respect to the calibration curve of the apparatus.
+
+2.4.2. Microbiological counts, isolation and genotype monitoring of the
+added strains
+The concentration of yeasts (total yeast, Saccharomyces spp. and
+Hanseniaspora spp. populations) were evaluated onto WL nutrient agar
+(Martin et al., 2018). After growth, all isolates were picked up from the
+7
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 5. Spider-plot of the sensory analysis performed
+on beers. a) odor; b) taste and flavour. Codes: T1 re­
+fers to co-inoculated fermentation with 1:1 ratio be­
+tween YGA34 and US-05; T2 refers to co-inoculated
+fermentation with 10:1 ratio between YGA34 and US05; T3 refers to sequentially inoculated fermentation
+with YGA34 and US-05; Tc refers to fermentation trial
+inoculated with monoculture of US-05. P value: *, P
+< 0.05; **, P < 0,01; ***, P < 0.001; not significant
+values are not reported in figure.
+
+2.4.4. Determination of volatile organic compounds
+The volatile compounds of the experimental beers were determined
+using an Agilent Technologies 6850 gas chromatograph (GC) equipped
+with an Agilent Technologies Mass Spectrometer (MS) 5975C (Santa
+
+Clara, CA, USA), The GC-MS with a glass direct inlet liner (1.5 mm inner
+diameter and 140 μL volume) and a DB-5MS capillary column of 60 m ×
+0.32 mm × 1 μm (J&W Scientific, Inc., Folsom, CA, USA) consisting of
+cross-linked 5% phenyl methyl siloxane was used. Typical beer volatile
+8
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+et al., 2020; Jackson, 2017).
+The panelists consensually generated 28 sensory descriptive attri­
+butes regarding appearance, odor, flavor, taste and overall quality in
+several sessions. The set of attributes were: appearance (yellow color);
+odor (intensity, complexity, fruity, citrus, floral, hoppy, cereal/grainy,
+malty, honey/caramel, roasted/burnt, sulphury, acetic, oxidized/aged,
+alcohol, and off-odor); gustatory taste (sweet, bitter, sour and salty);
+mouth-feel (body and astringent); flavor (intensity, complexity, fruity,
+citrus, hoppy, cereal/grainy, malty, honey/caramel, roasted/burnt,
+alcohol, sulphury, and off-flavor. The descriptor overall quality was also
+included for both odor and flavour.
+The panelists also generated a consensual descriptive ballot for the
+experimental beers in which the descriptors were associated with a 9 cm
+unstructured scale anchored at the left and right extremes with the terms
+“none/weak” and “strong”, respectively (Jackson, 2017).
+The sensory assessments were performed in blind tasting conditions
+at the tasting room of University of Palermo (Palermo, Italy). The
+experimental beers samples (50 mL) were served monadically at 15 ◦ C in
+standard ISO type tasting glasses, labelled with three-digit random
+codes. Water was provided for rinsing between beers. All evaluations
+were made between 10.00 and 12.00 a.m. in individual booths (ISO
+8589, 234 2007). The final scores were obtained as a mean of three
+evaluations with the respective statistical analysis.
+2.5. Statistical and explorative multivariate analyses
+
+Fig. 6. Dendrogram of strains per each class resulting from AHC analysis based
+on values of technological screening of Hanseniaspora uvarum strains Dissimi­
+larity is calculated by Euclidean distance and Ward’s agglomeration method.
+The analysis is based on values of technological variables reported at paragraph
+2.5. Codes: YGA2, YGA34, YGA36, YGA38 and YGA73 refer to Hanseniaspora
+uvarum strains; US-05 refers to S. cerevisiae commercial strain.
+
+Data were investigated using a generalized linear model (GLM) based
+on ANOVA model that included effects of in vitro tests and strain, as well
+as the interaction between tests and strains. The post-hoc Tukey’s
+method was applied for pairwise comparison. Statistical significance
+was attributed to p < 0.05 (Mazzei et al., 2010).
+In addition, explorative multivariate analysis was conducted to
+better differentiate the strain combinations on the basis of the results
+from in vitro technological screening, micro-fermentations and
+laboratory-scale beer productions.
+In details, the statistical analyses were performed on the data set
+including a total of 58 variables: total growth, exponential growth,
+maximum growth, lag phase time, slope of exponential phase calculated
+in absence of hop and ethanol, as well as in presence of different con­
+centrations of hop (25, 50 and 90 IBU) and ethanol (5% v/v); resistance
+to ethanol (5, 10% v/v); resistance to hop (25, 50 and 90 IBU); cross
+resistance both to ethanol (5% v/v) and hop (25, 50 and 90 IBU); pro­
+duction of H2S and flocculation growth pattern. The agglomerative hi­
+erarchical cluster analysis (AHC) and principal component analysis
+(PCA), based on correlation matrix by Pearson (n), and implemented by
+symmetric biplot representation were performed in order to investigate
+relationships among the samples as reported by Martorana et al. (2015).
+Due to high number of variables describing the technological screening
+of strains, a graphical representation of individual values and distribu­
+tion of technological characteristics among strains was performed by
+using a heat map clustered (HMC). This analysis was based on double
+hierarchical dendrogram with heat map plot, the individual content
+values contained in the data matrix as colors. The relative values of the
+technological characteristics were depicted by color intensity from
+yellow (lowest value) to red (highest value). HMC analysis of values was
+performed using the autoscaled data.
+Data set resulted from VOCs and sensory analysis of experimental
+beers produced at laboratory-scale was also subjected to explorative
+multivariate analysis (HCA, PCA and HMC) following the same meth­
+odology reported above.
+All data subjected to multivariate analysis were preliminary evalu­
+ated by using the Barlett’s sphericity test (Dillon and Goldstein, 1984;
+Mazzei et al., 2013) in order to check the statistically significant dif­
+ference among strains within each data set.
+STATISTICA software version 10 (StatSoft Inc., Tulsa, OK, USA) was
+used for data processing and graphic construction of HCA and PCA
+
+compounds were determined according to Vesely et al. (2003) and
+Malfliet et al. (2009) based on solid-phase microextraction (SPME) with
+on-fibre derivatization using a 65 μm PDMS/DVB fiber coating (Supelco,
+Bellefonte, PA, USA; catalogue no. 57328-U). An aqueous solution (4
+g/L) of the derivatization agent O-(2,3,4,5,6-pentafluorobenzyl)hy­
+droxylamine (PFBOA, Sigma-Aldrich, Milwaukee, WI, US) was prepared
+each week. The internal standard for the determination of aldehydes and
+vicinal diketones, 2-chlorobenzaldehyde (Sigma-Aldrich Milwaukee,
+WI, US), was prepared weekly in a solution of 5% ethanol with a con­
+centration of 10 mg/L. The internal standard for the determination of
+higher alcohols and esters was 1-butanol (Sigma-Aldrich), which was
+prepared each week in water at a concentration of 60 mg/L. The ana­
+lyses were conducted in triplicate.
+2.4.5. Sensory analysis
+The designed sensory evaluation of experimental beers consisted of
+quantitative descriptive analysis carried out by panelists to define color,
+odor, taste and overall quality.
+Eleven judges (ranging from 23 to 52 years old) were recruited from
+University of Palermo, beer associations and professional brewers. All
+had experience in brewing and participated in previous studies as sen­
+sory judges. The judges were submitted to preliminary tests to determine
+their sensory performance on basic tastes and the aromas associated
+with beers. The sensory analysis of beers was conducted following the
+methodology reported by Marconi et al. (2016) and ISO regulations:
+visual perception (appearance), olfactory sensations based on odor (via
+the nostril, orthonasally) and flavour (via the back of the throat, retro­
+nasally), oral sensations based on taste, mouth-feel and overall quality.
+The odor was explained as perception of volatile compounds with the
+beverage outside the mouth [orthonasal (in-glass) odor]; the flavor as
+perception of volatile compounds with the beverage inside the mouth
+and back of the throat [retronasal (mouth-derived) odor]; basic taste as
+gustatory sensations and mouth-feel sensations as chemical feeling fac­
+tors with beverage inside and after the mouth and overall quality based
+on global evaluation of odor, taste, mouth-feel and flavour (Issa-Issa
+9
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 7. Distribution of technological variables among strains. The heat map plot depicts the relative percentage of values per each technological variable (Y-axis
+clustering) within each strain (X-axis clustering). The analysis is based on values of technological variables reported at paragraph 2.5. Codes: YGA2, YGA34, YGA36,
+YGA38 and YGA73 refer to Hanseniaspora uvarum strains; US-05 refers to Saccharomyces cerevisiae commercial strain.
+
+analyses. The XLStat software version 7.5.2 (Addinsoft, New York, USA)
+was applied for HMCA and biplot representation.
+
+3.2. Genotypic identification of yeasts
+A total of 404 yeasts were isolated from FHP samples and subjected
+to genotypic characterization. The restriction analysis of ITS1-5.8S-ITS2
+separated the isolates into five groups (Table 2); five groups were pre­
+liminary identified at species level by comparison of the restriction
+profiles with those reported in literature (Esteve Zarzoso et al., 1999;
+Francesca et al., 2014; Sannino et al., 2013). Specifically, the isolates
+were identified as Hanseniaspora uvarum (group I), Saccharomyces cer­
+evisiae (group II), Wickerhamomyces anomalus (group III), Zygosacchar­
+omyces bailii (group IV) and Zygosaccharomyces rouxii (group V). The
+genotypic identification of yeasts was completed by pairwise alignment
+of D1/D2 sequence of the type strain of each species (Table 2).
+With regards to genera/species distribution (Table 2) among sam­
+ples, the majority of isolates belonged to the H. uvarum group. The
+species Z. bailii and Z. rouxii were also isolated from several samples and
+their presence reached 22 and 19% of total number of isolates,
+respectively.
+
+3. Results
+3.1. Microbiological analysis of FHP samples
+Yeast loads in the 12 FHP samples analyzed are reported in Table 1.
+Significant differences in terms of yeast cell densities were registered
+among samples and media used for colony enumeration. The highest
+yeast counts were found on WL agar (5.9 Log CFU/mL). The levels of
+non-Saccharomyces population detected on LA was quite variable
+ranging between 2.23 and 6.01 Log CFU/mL. In particular, sample FHP3 showed the highest non-Saccharomyces levels on both media. In gen­
+eral, the lowest levels were registered for total osmophilic and osmo­
+tolerant yeasts on DWA and TGYA media, respectively.
+
+10
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 8. PCA for sensory data of beers. Biplot graphs show relationships among factors, variables and trials. Codes: T1 refers to co-inoculated fermentation with 1:1
+ratio between YGA34 and US-05; T2 refers to co-inoculated fermentation with 10:1 ratio between YGA34 and US-05; T3 refers to sequentially inoculated
+fermentation with YGA34 and US-05; Tc refers to fermentation trial inoculated with monoculture of US-05.
+
+All isolates of H. uvarum were further investigated at strain level by
+RAPD-PCR and TRtRNA-PCR analysis. The dendrogram resulting from
+these analyses (Supplementary Fig. 1) showed that these isolates rep­
+resented five distinct clusters corresponding to five different strains
+(YGA2, YGA34, YGA36, YGA38 and YGA73).
+
+higher than control trial; the EP for the strain US-05 was, on average,
+2.4%, while the H. uvarum strains reached values between 6.77%
+(YGA38) and 10.04% (YGA2). Between the 12th and 16th hour of in­
+cubation, all H. uvarum strains reached SP (0.72), while the strain US-05
+reached 0.49 OD. From the 24th hour onwards, the control US-05
+showed higher values of SP than H. uvarum strains, with a maximum
+value of 1.50 registered at the end of the monitoring. In addition, sig­
+nificant differences were found among the five H. uvarum strains when
+the growth curves were calculated in presence of different IBU without
+ethanol. The strains YG34, YGA2 and YGA73 showed the best growth
+within the 16th hour of incubation, with a SP value 0.2 units higher than
+that recorded for the strains YGA36 and YGA38. At 90 IBU, the strain
+YGA34 reached the highest value of EP slope (6.23%).
+When the strains grew in presence of both 5% (v/v) ethanol and
+different IBU, their LP time significantly increased, from an average of
+5.9 h (without ethanol) to an average of 32 h (with 5% ethanol)
+(Fig. 1E–H). Once again, the best values of both LP time and EP slope
+were found for the strains YGA2 and YGA34. In detail, LP time for these
+strains ranged between 10 and 33 h, while that of the control strain
+ranged between 19 and 39 h, depending on IBU concentration. When,
+the IBU concentration increased up to 50 and 90 the differences between
+the strains YGA2 and YGA34 and the control strain increased signifi­
+cantly (Fig. 1G–H), with a LP time 13 h shorter and SP values higher
+(0.74 for YGA34 and 0.68 for YGA2) than those observed for the strain
+US-05, which obtained values of 0.44. Statistical significance was
+attributed to p < 0.05 (Mazzei et al., 2010).
+
+3.3. Technological characteristics of Hanseniaspora uvarum strains for
+beer production
+3.3.1. H2S production and flocculation tests
+The five H. uvarum strains were screened for their brewing characters
+(Table 3). All strains were characterized by a very low production of H2S
+on Biggy agar plates (white – light brown colony) and non-flocculent
+behavior. The mean sedimentation volume measured with Helm’s
+assay ranged between 0.35 and 0.7 mL. According to Casey et al. (1994),
+all yeasts showed a type II flocculation with a rising interface near the
+bottom of the testing tubes, typical of non-flocculent yeasts.
+3.3.2. Resistance to ethanol and hop
+Intense growth at 5% (v/v) of ethanol was observed for all strains,
+while only a weak growth was found for the strains YGA2, YGA34,
+YGA36 and YGA38 at 10% (v/v). Only the strain YGA73 was unable to
+grow at 10% (v/v) of ethanol (Table 3).
+The growth in presence of iso-α-acid was also evaluated (Table 3). All
+strains were able to grow in liquid medium containing 0, 25, 50 and 90
+IBU. In terms of cross-resistance to ethanol and hop, all H. uvarum strains
+were able to growth in presence of 5% ethanol and up to 25 IBU
+(Table 3). The strains YGA36 and YGA38 showed growth at 5% (v/v)
+ethanol and up to 90 IBU.
+
+3.3.4. Wort fermentation
+The kinetic of weight loss due to CO2 production is graphically
+presented in Fig. 2. The values of FR at 3 d for H. uvarum strains ranged
+between 0.22 and 0.29 g. The positive control trial, inoculated with
+S. cerevisiae strain US-05, showed the highest FR (0.71 g). At day 12 of
+AF, all H. uvarum strains showed a FR between 0.52 and 0.56 g. The
+highest value of FR was found for the control strain US-05 (6.02 g).
+During fermentation, the strains were also monitored by microbio­
+logical analysis (Fig. 2). Just after inoculation, all strains were found at
+concentrations ranging between 6 and 7 Log CFU/mL. At day 3 of AF, all
+H. uvarum strains reached levels higher than those of the control strain
+US-05; the highest counts (7.40 Log CFU/mL) were displayed by the
+strains YGA2 and YGA34. From day 6 onward, the levels of all H. uvarum
+strains were about 6.5 Log CFU/mL which was higher than the level
+
+3.3.3. Growth kinetics in presence of hop and ethanol
+The resistance to ethanol and hop was further investigated by dy­
+namic measurement of cell growth kinetics at 600 nm within 72 h from
+inoculation (Fig. 1). The strain growth curves were analyzed in terms of
+time of lag phase (LP), slope of exponential phase (EP). The highest
+scores reached during the stationary phase (SP) were also included in
+the analysis.
+When the tests were performed at different concentrations of isoα-acids without ethanol (Fig. 1A–D), all H. uvarum strains showed LP
+times comparable to control S. cerevisiae US-05, with values between 4
+and 9 h. The values of EP slope in H. uvarum strains resulted significantly
+11
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Fig. 9. Distribution of sensory descriptors
+among experimental beers. The heat map
+plot depicts the relative score of each aroma,
+taste and overall satisfaction (variables
+clustering on the Y-axis) within each trial (Xaxis clustering). Codes: T1 refers to coinoculated fermentation with 1:1 ratio be­
+tween YGA34 and US-05; T2 refers to coinoculated fermentation with 10:1 ratio be­
+tween YGA34 and US-05; T3 refers to
+sequentially inoculated fermentation with
+YGA34 and US-05; Tc refers to fermentation
+trial inoculated with monoculture of US-05.
+
+registered for the control strain US-05. At day 12, the end of monitoring,
+all experimental trials showed an increase of yeast levels; the highest
+values, 7.42 and 8.03 Log CFU/mL, were found for the strains YGA38
+and YGA73, respectively.
+The persistence of the strains inoculated was phenotypically and
+genotypically investigated. All isolates collected from the experimental
+trials showed shape of colony and cellular morphology typical of Han­
+seniaspora genus (Cadez et al., 2014; Jindamorakot et al., 2009; Kurtz­
+man et al., 2011). In addition, the dendrogram resulting from RAPD-PCR
+analysis showed that all isolates were divided into five clusters for the
+five strains inoculated. All isolates collected from control trial shared the
+same RAPD pattern of S. cerevisiae strain US-05 (data not shown).
+
+cycle difference between the two yeast species for the trial T2 and an
+inoculum of about 6 Log cycle for the other trials. The evolution of yeast
+populations during the fermentation is reported in Fig. 3.
+Trial T1, inoculated with S. cerevisiae/H. uvarum ratio of 1:1, showed
+similar levels of the two species (6.5 Log CFU/mL for US-05 and 6.3 Log
+CFU/mL for YGA34) at t0. This ratio was maintained also at 24 h after
+inoculum, but a 0.5 Log cycles increase of S. cerevisiae over H. uvarum
+was registered at 48 h. After 4 d of AF, a decrease of cell density was
+registered for S. cerevisiae, while the count resulting for H. uvarum were
+quite constant.
+Trial T2 revealed a complete dominance of the strain YGA34 during
+fermentation. For this trial, the levels of H. uvarum were 0.8–1.6 Log
+cycles higher than those of S. cerevisiae for the entire fermentation. The
+highest levels of H. uvarum YGA34 was reached at 2 and 6 d of AF, with
+7.8 Log CFU/mL, while the strain US-05 reached 6.8 Log CFU/mL at the
+6th day.
+Regarding trial T3, the strain YGA34 showed an increase of cell
+
+3.4. Beer production
+3.4.1. Yeast growth during fermentation
+The theoretical inoculum ratio resulted as planned, with one Log
+12
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+density during the first 4 d of AF, with values from 6.3 to 7.7 Log CFU/
+mL; after day 4, a slight decrease to 7.5 Log CFU/mL at day 11 was
+registered. After the inoculum of US-05 at 48 h, S. cerevisiae population
+showed the maximum cell density at day 6 of AF (6.7 Log CFU/mL)
+while the lower value was registered at day 11 of AF (5.9 Log CFU/mL).
+Trial T4, inoculated only with H. uvarum, although characterized by
+an initial load of 5.5 Log CFU/mL, grew rapidly up to 7 Log cycles 24 h
+after the inoculum and maintained these values until day 6 of AF; at day
+11 of monitoring, the yeast population of H. uvarum was 6.8 Log CFU/
+mL.
+The control trial displayed a classic fermentation kinetics.
+
+fermented in presence of H. uvarum YGA34 strain, especially trials T1
+and T3, showed highest score for intensity, complexity, floral descriptors
+in odorous profile as well as for intensity, complexity, sour, sapidity in
+taste-flavour profile. Sensory differences were also recognized within
+the trials fermented with YGA34 strain; the trial T3, which involved the
+inoculum of H. uvarum 48 h before that of S. cerevisiae, showed the
+highest value of sour and sapidity descriptors in the taste profile,
+whereas trial T2 showed the lowest values for the same attributes.
+3.5. Statistical and explorative multivariate analyses
+The Barlett’s sphericity test was applied to all data matrix inputs and
+differences statistically (p < 0.0001) significant were found among
+trials.
+AHC analysis discriminated all technological variables into four
+clusters (classes) as reported by dendrograms in Supplementary Fig. S2.
+The variance between classes was significantly higher (73.29%) than
+that found within classes (26.71%). Dendrogram (Fig. 6) and bar chart
+(Fig. S3) show a deeper analysis of classes by focusing on dissimilarity
+(%) found among strains (objects). The strains YGA2, YGA34 and
+YGA36, YGA38 clustered into two classes with values of within-class
+variance lower than 12.81% and 17.10%, respectively. The strain
+YGA73 significantly differed from the other H. uvarum strains; the
+control strain S. cerevisiae US-05 was out of groups and reached values of
+dissimilarity higher than 150.
+PCA was used to condense all technological information into a
+reduced number of Factors. The results of PCA (Figs. S4A and S4B)
+showed that all five eigen-values were higher than 1. Even though,
+Factor 1 and Factor 2 (Fig. S4A) explained very high values (58.08 and
+23.92%, respectively) of total variance; the classes represented by
+strains the YGA36, YGA38 and YGA73 were not statistically discrimi­
+nated. A deeper differentiation among strains was achieved by PCA
+(Fig. S4B) based on Factor 2 and Factor 3 accounting for a 23.92% and
+10.91% of total variability, respectively.
+The components of PCA were correlated to variables as shown in
+Figs. S5A and S5B. By biplot analysis based on F1 and F2 (Fig. S5A) the
+strains YGA2 and YGA34 were closely related to the best growth in
+presence of ethanol (5% v/v) and high concentration of hop (50 and 90
+IBU). Even though, the components F2 and F3 contributed to differen­
+tiate strain YGA73 from the strains YGA36 and YGA38, all these strains
+were correlated to the highest values of lag phase and maximum growth
+in presence of ethanol and hop (Figs. S5A and S5B). The control strain
+US-05 was clearly discriminated from H. uvarum strains.
+Further insights on correlation between strains and technological
+variables were provided by HMC analysis (Fig. 7). This analysis was
+performed to obtain a deeper strain differentiation on the basis of the
+technological variable values. Since a total of 58 variables were
+analyzed, the HMC color intensity clearly showed the main differences
+among strains. To confirm this trend, the double dendrogram divided
+the variables in six mega-clusters based on the values of technological
+characters of the strains (Fig. S6).
+Regarding statistical multivariate analysis on VOCs, the double hi­
+erarchical dendrogram combined with heat map plot (Fig. S7 and Fig. 4)
+showed that all trials significantly affected the VOCs composition of the
+beers. Interestingly, control trial fermented with S. cerevisiae US-05
+strain Tc resulted in a separate single cluster, while the trials per­
+formed with H. uvarum inoculums grouped into a different branch, with
+T1 and T2 clustering together and trial T3 forming a separate single
+cluster. Thus, the biplot in Fig. S8 represents the final distribution of
+trials with respect to the different VOCs detected. In particular, trial T3
+was mostly affected by ethyl acetate, isoamyl acetate and hexanal
+variables.
+The statistical multivariate investigation was carried out also on data
+from sensory analysis. Due to high numbers of sensory attributes and
+trials, the HCA was applied to identify significant differences among
+trials. The level of dissimilarity among trials is reported in Fig. S9.
+
+3.4.2. pH, total soluble solids and sugar changes during fermentation
+At the end of AF, pH values ranged between 3.95 and 4.08 for all
+trials except for T4 and un-inoculated control, which showed higher
+values of 4.87 and 5.48 respectively.
+The final gravity (FG) of the beers indicated similar value for thesis
+T1, T2, T3 and Tc, with 1.015, while a value of 1.050 was registered for
+T4, with a decrease of 0.002 SG points respect to initial wort. The SG of
+the non-inoculated must did not show any detectable decrease during
+fermentation.
+The percentages of the residual sugars are reported in Table 4.
+Fructose and glucose were fermented to over 96% in all experimental
+trials. Except in T4, sucrose was completely fermented for all other tri­
+als. Maltose consumption ranged between 82.0 and 89.2% for the trials
+T1, T2, T3 and Tc. The trial T4, inoculated only with monoculture of
+H. uvarum, did not show any maltose fermentation due to the inability of
+this species to use maltose; for this reason, bottle conditioning was not
+carried out for trial T4.
+In terms of ethanol, glycerol and acetic acid production measured at
+the end of AF, the values are reported in Table 5. The highest value of
+ethanol was reached in T2, with 5.16% (v/v). Trial T4, which did not
+complete the AF, showed a final ethanol value of 0.52%.
+Regarding glycerol content, except for T4 showing 1.3 g/L, this
+parameter ranged between 3.1 for T2 and Tc and 3.8 g/L for in T3. The
+acetic acid content detected at the end of fermentation was below 0.27
+g/L for all trials. The highest value for this parameter was registered in
+trials T3 and T4, while the lowest value (0.03 g/L) was recorded for T1
+and Tc.
+3.4.3. Determination of volatile compounds
+The assessment allowed the identification of 18 compounds, as
+higher alcohols, aldehydes, esters and vicinal diketones. The values of
+total VOCs were 198.36 mg/L (T1), 169.61 mg/L (T2), 186.28 mg/L
+(T3) and 225.98 mg/L (Tc).
+The experimental beers were characterized by different flavour
+profile, as represented in heat-map (Fig. 4), in which the relationships
+among beers are based on the amount of each VOC. Among these volatile
+compound class, 2-methylpropan-1-ol dominated especially in Tc and
+T1 trials, followed by 3-methylbutan-1-ol and propanol. The second
+most abundant VOC class is represented by esters. With this regard,
+substantial differences were found in the overall level of these VOCs
+group, with maximum values recorded for trial T3 (32.7 mg/L), while
+the minimum value was recorded by Tc (9.2 mg/L). Except for trial T3,
+which reached values above this threshold (32.2 mg/L), all other trials
+showed lower values, with the minimum value obtained by the control
+trial (8.7 mg/L). In particular, isoamyl acetate ranged between 0.16 mg/
+L in T2 and 0.31 in T3, while ethyl hexanoate exhibited values always
+lower than 0.08 mg/L.
+3.4.4. Sensory analysis
+The sensory evaluation on the final products showed several statis­
+tically significant differences among trials, which are shown in Fig. 5.
+None of the experimental beers showed off-odors and/or off-flavours.
+No differences were found in terms of color appearance. The highest
+score for overall quality was found for beers of trials T2 and T3. Beers
+13
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+Interestingly, control trial clustered together with trial T2, while T1 and
+T3 trials formed single clusters. The biplot reported in Fig. 8 and heatmap in Fig. 9 represent the final distribution of all experimental trials
+and the control. The trials T1 and T3 produced the best beers in terms of
+odor intensity and complexity, and acetic, sapidity and acid notes for the
+taste profile. Trial T1 was characterized by high values of floral, honey/
+caramel, malty, sweet and body aroma level. On the other hand, the
+trials T2 and Tc were mostly influenced by the parameters of alcohol and
+burnt/cooked, with a high persistency of taste.
+
+2000) and for its high production of β-glycosidase (Arévalo Villena et al.,
+2005; Fia et al., 2005). Several species within Hanseniaspora genus have
+been recently investigated for their ability to improve aroma profile of
+wine, cider and cachaça (Grijalva-Vallejos et al., 2020).
+Regarding to the use of Hanseniaspora spp. strains in brewing, so far
+very limited data have been published. To our knowledge, a few Han­
+seniaspora spp. were isolated from spontaneously fermented Lambic beer
+(Spitaels et al., 2014), but their role still remains unrevealed. The species
+Hanseniaspora valbyensis and Hanseniaspora vineae were screened to
+evaluate their application for the production of alcohol-free beer (Bellut
+et al., 2018), and H. vineae strain YH72, isolated from ash bark was
+tested for the ability to acidify wort in sour beer production (Osburn
+et al., 2018). The description of Hanseniaspora gamundiae from
+sugar-rich fungal stromata of Cyttaria hariotii highlights the importance
+of matrices containing high concentrations of carbohydrates to isolate
+yeasts to be tested in beverage fermentations (Cadez et al., 2019).
+Focusing on the technological performances of the five strains of
+H. uvarum of our study, an interesting tolerance to ethanol was observed.
+Except strain YGA73, all other strains showed growth on medium con­
+taining 10% (v/v) ethanol, even though weak. Several species of nonSaccharomyces yeasts are not able to grow at this ethanol concentration.
+In literature it is reported that non-Saccharomyces yeasts like Hanse­
+niaspora spp. are known as low resistant to ethanol. Hanseniaspora vinae
+(Bellut et al., 2018; Benito et al., 2019; Osburn et al., 2018), for example,
+does not tolerate ethanol concentrations higher than 4% (v/v), although
+this trait is not genus or species dependent but strain-dependent (Martin
+et al., 2018).
+Based on these considerations, H. uvarum strains selected in this
+study might be applied as co-starters for producing beer up to 10% (v/v)
+ethanol. Regarding the cross hop/ethanol resistance, our strains showed
+a remarkable growth kinetics in presence of high concentration of isoα-acids and ethanol concentrations. The five strains showed growth
+phases better than the commercial S. cerevisiae strain US-05 used as
+positive control. These findings indicated that the tested strains possess
+useful characteristics to be used as co-starters for the production of a
+wide range of beer worts, including highly hopped worts. The results of
+FR showed a very low ability of H. uvarum strains to drive an AF in beer
+wort, but plate counts demonstrated the presence of all strains at high
+levels (7.5–8.2 Log CFU/mL) up to 12 d of wort fermentation. The low
+FR does not represent a limitation for beer production; several species of
+non-Saccharomyces are characterized by very low fermentation power
+and/or vigor, but most of them are able to improve the sensory char­
+acteristics of fermented beverages such as beer and wine. For example,
+the strain Metschnikowia pulcherrima Flavia® (Lallemand Inc., Montreal,
+Canada), does not ferment grape sugars into ethanol but, it is one the
+most largely used strains in winemaking as co-starter due to its intense
+production of β-glucosidase which changes the wine aromatic profile by
+increasing smoky and flowery notes (Rodriguez et al., 2007, 2010; Ruiz
+et al., 2018; Sadineni et al., 2012; Su et al., 2020). Even Hanseniaspor­
+a/Kloeckera yeast could affect the wine fermentation results, by
+modeling flavor profile and the metabolism of S. cerevisiae commercial
+strains, due a different secondary metabolic pathways and an increased
+enzymatic activity (Martin et al., 2018).
+Multivariate data analysis has been widely applied in food processes
+(Berrueta et al., 2007) and, recently, extensively applied in beer research
+(Snauwaert et al., 2016). In our study, an extensive data analysis based
+on 58 technological variables was performed. Both PCA and HMC ana­
+lyses were able to find the significant correlation among strains, variable
+and values confirming their usefulness to underline the technological
+properties of yeast strains.
+Even though in trial T1 a dominance of S. cerevisiae populations was
+registered after 48 h, H. uvarum developed at higher cell densities than
+S. cerevisiae in trial T2. When the inoculums of H. uvarum and
+S. cerevisiae occurred sequentially (trial T3), the dominance of H. uvarum
+persisted throughout the fermentation process, with the populations of
+S. cerevisiae being below 6.7 Log CFU/mL. In trial T4, despite the
+
+4. Discussion
+The present research has two main focuses: to characterize the yeast
+ecology associated to honey by-products subjected to the spontaneous
+AF; and to select novel non-Saccharomyces strains to be used as co-starter
+culture for craft beer production.
+The quality of beer depends on several ingredients, such as malt, hop,
+water. Moreover, the yeasts used as fermenting starters are of para­
+mount relevance to improve shelf life and sensory characteristics of
+beer. The majority of beers are fermented by using strains of S. cerevisiae
+and S. pastorianus species commercially available worldwide. Recently,
+non-conventional yeasts gained popularity among brewers in order to
+obtain distinctive products thanks to the diversity of substrate assimi­
+lation patterns that may be displayed. Non-conventional yeasts in
+brewing are represented by Saccharomyces and non-Saccharomyces
+yeasts isolated from non-brewing environment (Catallo et al., 2020;
+Cubillos et al., 2019). With these regards, Cubillos et al. (2019) pub­
+lished an updated review pertaining to the use of wild Saccharomyces
+and non-Saccharomyces in brewing system. Those authors focused the
+research on the diversity of spontaneously fermented food systems
+(wine, fruit, dough), as well as on fermented sugary matrixes (cachaça,
+kombucha) (Araújo et al., 2018; Bellut et al., 2018; Gutiérrez et al.,
+2018; van Rijswijck et al., 2017), showing that several matrices are
+promising for yeast isolation for brewing application.
+With regards to unconventional yeasts, the use of non-Saccharomyces
+strains in controlled fermentations is a key factor to gain market share
+(Ciani and Comitini, 2011; Cordero-Bueso et al., 2013; González et al.,
+2013; Johnson, 2013; van Dijken, 2002). Different strains of Torulaspora
+delbrueckii isolated from different matrices including wine, soil, fruits,
+sugar cane, papaya leaves, sugar cane juice, grapes, fig fruit, coconut
+palm and corossol fruit have been screened and applied for beer pro­
+duction (Canonico et al., 2016). Furthermore, Zygosaccharomyces rouxii
+was used by De Francesco et al. (2015) as starter culture for low-alcohol
+beer production and Brettanomyces bruxellensis, isolated from fruit by
+Lentz et al. (2014), was tested for the ability to ferment wort sugars and
+for ethanol tolerance. Then, it is now widely accepted that traditional
+fermented beverages and non-conventional yeasts represent a novelty
+for brewers (Cubillos et al., 2019).
+Up to date, the use of honey in beer industry has been only related to
+the addition as ingredients for wort and/or green beer production, or as
+food adjuvant to improve sensory profile of bottled beer (Lu et al.,
+2011).
+With this in mind, the present paper focused on yeast ecology of
+fermented honey niches as novel sources for non-Saccharomyces yeasts.
+Sinacori et al. (2014) find out that Zygosaccharomyces mellis and Zygo­
+saccharomyces rouxii were isolated from different samples of honey from
+different geographical and botanical origins. Gaglio et al. (2017) high­
+lighted the presence of different species of non-Saccharomyces including
+Lachancea fermentati, Wickerhamomyces anomalus and Zygosacchar­
+omyces spp., mainly. In the present study, contrarily to the works of
+Sinacori et al. (2014) and Gaglio et al. (2017), yeast ecology of FHP was
+mainly represented by isolates ascribable to H. uvarum. Actually, the
+role of this species in brewing system is still uninvestigated. As widely
+reported in scientific literature, H. uvarum is mostly associated to the
+winery industry. This species is associated with the grape surface and is
+characterized by the ability to assimilate glucose rapidly (Pretorius,
+14
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+
+inability of H. uvarum to consume the complex sugars of the wort, its
+levels were close to 7.5 Log CFU/mL.
+Actually, it has been not reported maltose fermentation for the
+Hanseniaspora genus and genes for maltose assimilation were not iden­
+tified in public available genomes of Hanseniaspora spp. (Cadez and
+Smith, 2011; Cadez et al., 2019).
+The strain H. uvarum YGA34 was able to produce considerable
+amounts of acetic acid, although at lower concentrations than the con­
+trol trial, already during the first 48 h of AF. Regarding glycerol pro­
+duction, the trial showing the highest amounts was that involving the
+sequential inoculation, while no substantial differences among the trials
+were detected for ethanol production.
+Despite the metabolic inability of H. uvarum YGA34 strain to
+assimilate and ferment maltose, the effect of its application during the
+earlier stage of beer fermentation was highlighted by sensory and VOC
+analyses.
+The most abundant VOC category was alcohols that are known for
+enhancing flowery, solvent like or alcoholic flavours, however their
+presence above certain threshold could be undesired (Eβlinger, 2009).
+The second most abundant VOC class has been represented by esters,
+whose level depend on the yeast strain-specific activity of synthesis and
+breakdown enzymes (Pires et al., 2014). The main aroma-active ester
+was ethyl acetate, a secondary metabolite of alcoholic fermentation,
+responsible of fruity aroma of beers and whose perception threshold is
+equal to 25 mg/L. Ethyl hexanoate and isoamyl acetate, which are liable
+for banana, apple and anise aroma, showed values below the perception
+threshold (Meilgaard, 1975).
+Thus, the use of this unconventional strain for beer production led to
+a novel product mainly under sensory profiles. H. uvarum YGA34
+showed a certain degree of dominance also in combination with
+S. cerevisiae. The three different inoculation methods highlighted a good
+co-existence between the two yeast species that generated three
+different final products, all without any detectable defect. The organo­
+leptic quality of the experimental beers fermented with H. uvarum
+YGA34 were confirmed by sensory analysis that showed high scores for
+taste complexity and intensity, aroma intensity, acid, sapid descriptors,
+as well as overall satisfaction.
+
+for technical support during brewing.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.fm.2021.103806.
+References
+Ajovalasit, L., Columba, P., 1998. Prodotti tipici da scoprire: Spiritu re fascitrari. Econ.
+Agro-Alimentare 1, 1–9.
+Araújo, T.M., Souza, M.T., Diniz, R.H.S., Yamakawa, C.K., Soares, L.B., Lenczak, J.L.,
+Oliveira, J.V.D.C., Goldman, G.H., Barbosa, E.A., Campos, A.C.S., Brandão, R.L.,
+Castro, I.M., 2018. Cachaça yeast strains: alternative starters to produce beer and
+bioethanol. Antonie Leeuwenhoek 111 (10), 1749–1766.
+Arévalo Villena, M., Ubeda Iranzo, J.F., Cordero Otero, R.R., Briones Perez, A.I., 2005.
+Optimization of a rapid method for studying the cellular location of β-glucosidase
+activity in wine yeasts. J. Appl. Microbiol. 99, 558–564.
+Barquet, M., Martín, V., Medina, K., Pérez, G., Carrau, F., Gaggero, C., 2012. Tandem
+repeat-tRNA (TRtRNA) PCR method for the molecular typing of non-Saccharomyces
+subspecies. Appl. Microbiol. Biotechnol. 93 (2), 807–814.
+Bellut, K., Michel, M., Zarnkow, M., Hutzler, M., Jacob, F., De Schutter, D.P., Daenen, L.,
+Lynch, K.M., Zannini, E., Arendt, E.K., 2018. Application of non-Saccharomyces
+yeasts isolated from Kombucha in the production of alcohol-free beer. Fermentatio 4
+(3), 66.
+Benito, Á., Calderón, F., Benito, S., 2019. The influence of non-Saccharomyces species on
+wine fermentation quality parameters. Fermentatio 5 (3), 54.
+Berrueta, L.A., Alonso-Salces, R.M., Héberger, K., 2007. Supervised pattern recognition
+in food analysis. J. Chromatogr. A 1158 (1–2), 196–214.
+Bokulich, N.A., Bamforth, C.W., Mills, D.A., 2012. Brewhouse-resident microbiota are
+responsible for multi-stage fermentation of American coolship ale. PloS One 7 (4),
+e35507.
+Cadez, N., Bellora, N., Ulloa, R., Hittinger, C.T., Libkind, D., 2019. Genomic content of a
+novel yeast species Hanseniaspora gamundiae sp. nov. from fungal stromata (Cyttaria)
+associated with a unique fermented beverage in Andean Patagonia, Argentina. PloS
+One 14 (1), e0210792.
+Cadez, N., Pagnocca, F.C., Raspor, P., Rosa, C.A., 2014. Hanseniaspora nectarophila sp.
+nov., a yeast species isolated from ephemeral flowers. Int. J. Syst. Evol. Microbiol. 64
+(7), 2364–2369.
+Cadez, N., Smith, M.T., 2011. Hanseniaspora zikes (1912). In: Kurtzman, C., Fell, J.W.,
+Boekhout, T. (Eds.), Yeasts A Taxon. Study.
+Canonico, L., Agarbati, A., Comitini, F., Ciani, M., 2016. Torulaspora delbrueckii in the
+brewing process: a new approach to enhance bioflavour and to reduce ethanol
+content. Food Microbiol. 56, 45–51.
+Capece, A., Fiore, C., Maraz, A., Romano, P., 2005. Molecular and technological
+approaches to evaluate strain biodiversity in Hanseniaspora uvarum of wine origin.
+J. Appl. Microbiol. 98, 136–144.
+Casey, G., van der Aar, P., Barbero, F., Bendiak, D., DeBruyn, L., D’Amore, T.,
+Gallegos, D., Gonzalez, M., Hekel, J., O’Connell, J., Pugh, T., Sobczak, J., Sondag, R.,
+Speer, A., Wright, G., Yabuuchi, S., Crumplen, R., 1994. Yeast flocculation
+determination by the Helm assay. J. Am. Soc. Brew. Chem. 52 (4), 188–191.
+Catallo, M., Nikulin, J., Johansson, L., Krogerus, K., Laitinen, M., Magalhães, F.,
+Piironen, M., Mikkelson, A., Randazzo, C.L., Solieri, L., Gibson, B., 2020. Sourdough
+derived strains of Saccharomyces cerevisiae and their potential for farmhouse ale
+brewing. J. Inst. Brew. 126 (2), 168–175.
+Ciani, M., Comitini, F., 2011. Non-Saccharomyces wine yeasts have a promising role in
+biotechnological approaches to winemaking. Ann. Microbiol. 61 (1), 25–32.
+Ciani, M., Maccarelli, F., 1998. Oenological properties of non-Saccharomyces yeasts
+associated with wine-making. World J. Microbiol. Biotechnol. 14 (2), 199–203.
+Cordero-Bueso, G., Esteve-Zarzoso, B., Cabellos, J.M., Gil-Díaz, M., Arroyo, T., 2013.
+Biotechnological potential of non-Saccharomyces yeasts isolated during spontaneous
+fermentations of Malvar (Vitis vinifera cv. L.). Eur. Food Res. Technol. 236 (1),
+193–207.
+Cubillos, F.A., Gibson, B., Grijalva-Vallejos, N., Krogerus, K., Nikulin, J., 2019.
+Bioprospecting for brewers: exploiting natural diversity for naturally diverse beers.
+Yeast 36 (6), 383–398.
+De Francesco, G., Turchetti, B., Sileoni, V., Marconi, O., Perretti, G., 2015. Screening of
+new strains of Saccharomycodes ludwigii and Zygosaccharomyces rouxii to produce
+low- alcohol beer. J. Inst. Brew. 121 (1), 113–121.
+Dillon, W.R., Goldstein, M., 1984. Multivariate Analysis: Methods and Applications. John
+Wiley, New York.
+Eßlinger, H.M., 2009. Handbook of Brewing: Processes, Technology, Markets. John Wiley
+& Sons.
+Esteve-Zarzoso, B., Belloch, C., Uruburu, F., Querol, A., 1999. Identification of yeasts by
+RFLP analysis of the 5.8S rRNA gene and the two ribosomal internal transcribed
+spacers. Int. J. Syst. Evol. Microbiol. 49 (1), 329–337.
+Fia, G., Giovani, G., Rosi, I., 2005. Study of β-glucosidase production by wine-related
+yeasts during alcoholic fermentation: a new rapid fluorimetric method to determine
+enzymatic activity. J. Appl. Microbiol. 99, 509–517.
+Francesca, N., Carvalho, C., Sannino, C., Guerreiro, M.A., Almeida, P.M., Settanni, L.,
+Massa, B., Sampaio, J.P., Moschetti, G., 2014. Yeasts vectored by migratory birds
+collected in the Mediterranean island of Ustica and description of Phaffomyces
+
+5. Conclusions
+In conclusion, for the first time, the yeast diversity of FHP, an ancient
+honey-based beverage produced in Sicily (Italy) was explored for the
+selection of food starters and provided scientific data on the techno­
+logical relevance of yeasts from honey and/or FHP for brewing appli­
+cation. This work enriches the very limited scientific knowledge on the
+role of Hanseniaspora yeasts as potential co-starter for beer production.
+Throughout a genotypic and phenotypic polyphasic approach it was
+possible to identify and characterize five H. uvarum strains. For the first
+time a high resistance to ethanol and hop in beer wort has been reported
+for H. uvarum strains. The application of these strains during brewing
+showed differences in terms of physico-chemical parameters, VOCs and
+sensory traits indicating that H. uvarum strains are promising as costarter in a wide range of beer productions. However, further in­
+vestigations are needed to evaluate the role of these strains during wort
+fermentation in presence of different strains of S. cerevisiae and with
+different beer wort composition.
+Declaration of competing interest
+None.
+Acknowledgements
+The authors wish to thank Dr. Mauro Ricci for organization of sen­
+sory analysis, Mr. Lorenzo "Kuaska" Dabove and Mr. Andrea Cama­
+schella for their support during sensory analyses and Mr. Eugenio Ricca
+15
+
+M. Matraxia et al.
+
+Food Microbiology 99 (2021) 103806
+Mazzei, P., Francesca, N., Moschetti, G., Piccolo, A., 2010. NMR spectroscopy evaluation
+of direct relationship between soils and molecular composition of red wines from
+Aglianico grapes. Anal. Chim. Acta 673 (2), 167–172.
+Mazzei, P., Spaccini, R., Francesca, N., Moschetti, G., Piccolo, A., 2013. Metabolomic by
+1
+H NMR spectroscopy differentiates “Fiano Di Avellino” white wines obtained with
+different yeast strains. J. Agric. Food Chem. 61 (45), 10816–10822.
+Meilgaard, M.C., 1975. Flavor chemistry of beer. Part II. Flavor and threshold of 239
+aroma volatiles. Tech. Quart. Master. Brew. Assoc. Am. 12, 151–168.
+Michel, M., Kopecká, J., Meier-Dörnberg, T., Zarnkow, M., Jacob, F., Hutzler, M., 2016.
+Screening for new brewing yeasts in the non-Saccharomyces sector with Torulaspora
+delbrueckii as model. Yeast 33 (4), 129–144.
+Nikulin, J., Eerikäinen, R., Hutzler, M., Gibson, B., 2020. Brewing characteristics of the
+maltotriose-positive yeast Zygotorulaspora florentina isolated from oak. Beverages 6
+(4), 58.
+Osburn, K., Amaral, J., Metcalf, S.R., Nickens, D.M., Rogers, C.M., Sausen, C., Caputo, R.,
+Miller, J., Li, H., Tennessen, J.M., Bochman, M.L., 2018. Primary souring: a novel
+bacteria-free method for sour beer production. Food Microbiol. 70, 76–84.
+Pires, E.J., Teixeira, J.A., Brányik, T., Vicente, A.A., 2014. Yeast: the soul of beer’s aroma
+- a review of flavour-active esters and higher alcohols produced by the brewing
+yeast. Appl. Microbiol. Biotechnol. 98 (5), 1937–1949.
+Pretorius, I.S., 2000. Tailoring wine yeast for the new millennium: novel approaches to
+the ancient art of winemaking. Yeast 16 (8), 675–729.
+Protz, R., 1995. The Ultimate Encyclopedia of Beer: the Definitive Guide to the World’s
+Great Brews, first ed. (Carlton).
+Rodríguez, M.E., Lopes, C., Valles, S., Giraudo, M.R., Caballero, A., 2007. Selection and
+preliminary characterization of β-glycosidases producer Patagonian wild yeasts.
+Enzym. Microb. Technol. 41 (6–7), 812–820.
+Rodríguez, M.E., Lopes, C.A., Barbagelata, R.J., Barda, N.B., Caballero, A.C., 2010.
+Influence of Candida pulcherrima Patagonian strain on alcoholic fermentation
+behaviour and wine aroma. Int. J. Food Microbiol. 138 (1–2), 19–25.
+Ruiz, J., Belda, I., Beisert, B., Navascués, E., Marquina, D., Calderón, F., Rauhut, D.,
+Santos, A., Benito, S., 2018. Analytical impact of Metschnikowia pulcherrima in the
+volatile profile of Verdejo white wines. Appl. Microbiol. Biotechnol. 102 (19),
+8501–8509.
+Sadineni, V., Kondapalli, N., Obulam, V.S.R., 2012. Effect of co-fermentation with
+Saccharomyces cerevisiae and Torulaspora delbrueckii or Metschnikowia pulcherrima on
+the aroma and sensory properties of mango wine. Ann. Microbiol. 62 (4),
+1353–1360.
+Salvadó, Z., Arroyo-López, F.N., Guillamón, J.M., Salazar, G., Querol, A., Barrio, E.,
+2011. Temperature adaptation markedly determines evolution within the genus
+Saccharomyces. Appl. Environ. Microbiol. 77 (7), 2292–2302.
+Sannino, C., Francesca, N., Corona, C., Settanni, L., Cruciata, M., Moschetti, G., 2013.
+Effect of the natural winemaking process applied at industrial level on the
+microbiological and chemical characteristics of wine. J. Biosci. Bioeng. 116,
+347–356.
+Sannino, C., Mezzasoma, A., Buzzini, P., Turchetti, B., 2019. Non-conventional yeasts for
+producing alternative beers. In: Sibirny, A. (Ed.), Non-conventional Yeasts: from
+Basic Research to Application. Springer, Cham, pp. 361–388.
+Sinacori, M., Francesca, N., Alfonzo, A., Cruciata, M., Sannino, C., Settanni, L.,
+Moschetti, G., 2014. Cultivable microorganisms associated with honeys of different
+geographical and botanical origin. Food Microbiol. 38, 284–294.
+Snauwaert, I., Roels, S.P., Van Nieuwerburgh, F., Van Landschoot, A., De Vuyst, L.,
+Vandamme, P., 2016. Microbial diversity and metabolite composition of Belgian redbrown acidic ales. Int. J. Food Microbiol. 221, 1–11.
+Spitaels, F., Wieme, A.D., Janssens, M., Aerts, M., Daniel, H.M., Van Landschoot, A., De
+Vuyst, L., Vandamme, P., 2014. The microbial diversity of traditional spontaneously
+fermented lambic beer. PloS One 9 (4), e95384.
+Su, Y., Seguinot, P., Sanchez, I., Ortiz-Julien, A., Heras, J.M., Querol, A., Camarasa, C.,
+Guillamón, J.M., 2020. Nitrogen sources preferences of non-Saccharomyces yeasts to
+sustain growth and fermentation under winemaking conditions. Food Microbiol. 85,
+103287.
+Tofalo, R., Perpetuini, G., Di Gianvito, P., Schirone, M., Corsetti, A., Suzzi, G., 2014.
+Genetic diversity of FLO1 and FLO5 genes in wine flocculent Saccharomyces
+cerevisiae strains. Int. J. Food Microbiol. 191, 45–52.
+van Dijken, H., 2002. The 21st international specialized symposium on yeasts (ISSY
+2001) “biochemistry, genetics, Biotechnology and ecology of non-conventional
+yeasts (NCY)”. FEMS Yeast Res. 1, 337–338.
+van Rijswijck, I.M., Wolkers-Rooijackers, J.C., Abee, T., Smid, E.J., 2017. Performance of
+non-conventional yeasts in co-culture with brewers’ yeast for steering ethanol and
+aroma production. Microb. Biotechnol. 10 (6), 1591–1602.
+Varela, C., 2016. The impact of non-Saccharomyces yeasts in the production of alcoholic
+beverages. Appl. Microbiol. Biotechnol. 100 (23), 9861–9874.
+Vesely, P., Lusk, L., Basarova, G., Seabrooks, J., Ryder, D., 2003. Analysis of aldehydes in
+beer using solid-phase microextraction withon-fiber derivatization and gas
+chromatography/mass spectrometry. J. Agric. Food Chem. 51, 6941–6944.
+
+usticensis fa sp. nov., a new species related to the cactus ecoclade. FEMS Yeast Res. 14
+(6), 910–921.
+Francesca, N., Chiurazzi, M., Romano, R., Aponte, M., Settanni, L., Moschetti, G., 2010.
+Indigenous yeast communities in the environment of “Rovello bianco” grape variety
+and their use in commercial white wine fermentation. World J. Microbiol.
+Biotechnol. 26 (2), 337–351.
+Gaglio, R., Alfonzo, A., Francesca, N., Corona, O., Di Gerlando, R., Columba, P.,
+Moschetti, G., 2017. Production of the Sicilian distillate “Spiritu re fascitrari” from
+honey by-products: an interesting source of yeast diversity. Int. J. Food Microbiol.
+261, 62–72.
+Glover, B., 2001. The World Encyclopedia of Beer. Lorenz Books, Anness Publishing
+limited, New York.
+González, R., Quirós, M., Morales, P., 2013. Yeast respiration of sugars by nonSaccharomyces yeast species: a promising and barely explored approach to lowering
+alcohol content of wines. Trends Food Sci. Technol. 29 (1), 55–61.
+Grijalva-Vallejos, N., Aranda, A., Matallana, E., 2020. Evaluation of yeasts from
+Ecuadorian chicha by their performance as starters for alcoholic fermentations in the
+food industry. Int. J. Food Microbiol. 317, 108462.
+Gutiérrez, A., Boekhout, T., Gojkovic, Z., Katz, M., 2018. Evaluation of nonSaccharomyces yeasts in the fermentation of wine, beer and cider for the
+development of new beverages. J. Inst. Brew. 124 (4), 389–402.
+Hall, B.G., Acar, H., Nandipati, A., Barlow, M., 2014. Growth rates made easy. Mol. Biol.
+Evol. 31 (1), 232–238.
+Holt, S., Mukherjee, V., Lievens, B., Verstrepen, K.J., Thevelein, J.M., 2018. Bioflavoring
+by non-conventional yeasts in sequential beer fermentations. Food Microbiol. 72,
+55–66.
+Issa-Issa, H., Guclu, G., Noguera-Artiaga, L., López-Lluch, D., Poveda, R., Kelebek, H.,
+Selli, S., Carbonell-Barrachina, Á.A., 2020. Aroma-active compounds, sensory
+profile, and phenolic composition of Fondillón. Food Chem. 316, 126353.
+Jackson, R.S., 2017. Wine tasting. A professional handbook. In: Cool Climate Enology
+and Viticulture Institute, third ed. Brock University, St. Catharines, Ontario, Canada.
+Jindamorakot, S., Ninomiya, S., Limtong, S., Yongmanitchai, W., Tuntirungkij, M.,
+Potacharoen, W., Tanaka, K., Kawasaki, H., Nakase, T., 2009. Three new species of
+bipolar budding yeasts of the genus Hanseniaspora and its anamorph Kloeckera
+isolated in Thailand. FEMS Yeast Res. 9 (8), 1327–1337.
+Jiranek, V., Langridge, P., Henschke, P.A., 1995. Regulation of hydrogen sulfide
+liberation in wine-producing Saccharomyces cerevisiae strains by assimilable
+nitrogen. Appl. Environ. Microbiol. 61 (2), 461–467.
+Johnson, E.A., 2013. Biotechnology of non-Saccharomyces yeasts - the ascomycetes. Appl.
+Microbiol. Biotechnol. 97 (2), 503–517.
+Katz, S.H., Maytag, F., 1991. Brewing an ancient beer. Archaeology 44 (4), 24–27.
+Kurtzman, C.P., Fell, J.W., Boekhout, T., Robert, V., 2011. Methods for isolation,
+phenotypic characterization and maintenance of yeasts. In: Kurtzman, C.P., Fell, J.
+W., Boekhout, T. (Eds.), The Yeasts: A Taxonomic Study, fifth ed. Elsevier, USA,
+pp. 87–110.
+Lappe-Oliveras, P., Moreno-Terrazas, R., Arrizón-Gaviño, J., Herrera-Suárez, T., GarcíaMendoza, A., Gschaedler-Mathis, A., 2008. Yeasts associated with the production of
+Mexican alcoholic nondistilled and distilled Agave beverages. FEMS Yeast Res. 8 (7),
+1037–1052.
+Larroque, M.N., Carrau, F., Fariña, L., Boido, E., Dellacassa, E., Medina, K., 2021. Effect
+of Saccharomyces and non-Saccharomyces native yeasts on beer aroma compounds.
+Int. J. Food Microbiol. 337, 108953.
+Legras, J., Karst, F., 2003. Optimisation of interdelta for Saccharomyces cerevisiae strain
+characterization. FEMS Microbiol. Lett. 221, 249–255.
+Lentz, M., Putzke, T., Hessler, R., Luman, E., 2014. Genetic and physiological
+characterization of yeast isolated from ripe fruit and analysis of fermentation and
+brewing potential. J. Inst. Brew. 120, 559–564.
+Lu, Z.F., Li, J.Y., Li, C., 2011. Development of honey beer. Liquor-making Sci. Technol. 4.
+Malfliet, S., Van Opstaele, F., De Clippeleer, J., Syryn, E., Goiris, K., DeCooman, L.,
+Aerts, G., 2009. Flavour instability of pale lager beers: determination of analytical
+markers in relation to sensoryageing. J. Inst. Brew. 114, 180–192.
+Marconi, O., Rossi, S., Galgano, F., Sileoni, V., Perretti, G., 2016. Influence of yeast
+strain, priming solution and temperature on beer bottle conditioning. J. Sci. Food
+Agric. 96 (12), 4106–4115.
+Marongiu, A., Zara, G., Legras, J.L., Del Caro, A., Mascia, I., Fadda, C., Budroni, M., 2015.
+Novel starters for old processes: use of Saccharomyces cerevisiae strains isolated from
+artisanal sourdough for craft beer production at a brewery scale. J. Ind. Microbiol.
+Biotechnol. 42 (1), 85–92.
+Martin, V., Valera, M.J., Medina, K., Boido, E., Carrau, F., 2018. Oenological impact of
+the Hanseniaspora/Kloeckera yeast genus on wines - a review. Fermentatio 4 (3), 76.
+Martorana, A., Alfonzo, A., Settanni, L., Corona, O., La Croce, F., Caruso, T.,
+Moschetti, G., Francesca, N., 2015. An innovative method to produce green table
+olives based on “pied de cuve” technology. Food Microbiol. 50, 126–140.
+
+16
+
+

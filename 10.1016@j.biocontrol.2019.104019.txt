@@ -1,0 +1,550 @@
+Biological Control 137 (2019) 104019
+
+Contents lists available at ScienceDirect
+
+Biological Control
+journal homepage: www.elsevier.com/locate/ybcon
+
+The combined use of the antagonistic yeast Hanseniaspora uvarum with βaminobutyric acid for the management of postharvest diseases of kiwifruit
+
+T
+
+⁎
+
+Lilin Cheng, Xiaobao Nie , Changxing Jiang, Songlin Li
+School of Life Science and Food Engineering, Huaiyin Institute of Technology, Huaian 223003, China
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Biocontrol yeast
+Integrated management
+Kiwifruit
+Postharvest disease
+β-Aminobutyric acid
+
+Signiﬁcant losses in harvested kiwifruit can be directly attributed to decay fungi. In the present study, the use of
+an antagonistic yeast, Hanseniaspora uvarum, combined with β-aminobutyric acid (BABA), a non-proteinogenic
+amino acid, was evaluated as a treatment for controlling postharvest infections of kiwifruit, artiﬁcially-inoculated with either Botrytis cinerea or Alternaria alternata. Natural infection of treated kiwifruits was also assessed. H. uvarum or BABA as stand-alone treatment, signiﬁcantly reduced gray mold (B. cinerea) and black rot
+(A. alternata) on kiwifruit, relative to untreated control fruit, and also reduced the level of natural infection. The
+combination of H. uvarum and BABA, however, provided a superior level of postharvest disease control compared to either treatment alone. The growth of H. uvarum growth in kiwifruit wounds was not aﬀected by BABA.
+Treatment of kiwifruit with either H. uvarum or BABA individually or in combination induced the gene expression and enzyme activity of chitinase and β-1,3-glucanase in kiwifruit. The ability of BABA to enhance the
+biocontrol eﬃcacy of H. uvarum may be partially attributed to the elicitation of defense response in kiwifruit.
+The combined use of H. uvarum and BABA represents a promising alternative approach to the use of synthetic
+fungicides for the control of postharvest diseases in kiwifruit.
+
+1. Introduction
+Harvested kiwifruit is subject to fungal infections that cause decay
+and result in signiﬁcant postharvest losses (Chen et al., 2015; Koh et al.,
+2005). Gray mold, caused by Botrytis cinerea, is the most signiﬁcant
+postharvest disease of kiwifruit worldwide (Liu et al., 2018; Michailides
+and Elmer, 2000). Black rot, caused by Alternaria alternata, can also
+cause decay in harvested kiwifruit (Kwon et al., 2011; Li et al.,
+2017a,b), although it is not as prevalent as gray mold. Although the
+current management of postharvest diseases of kiwifruit relies mainly
+on synthetic chemical fungicides, development of resistant biotypes of
+pathogens, environmental concerns, and food safety issues, have created great interest in exploring alternative strategies (Di Francesco
+et al., 2018; Hua et al., 2019; Zhang et al., 2018).
+Among of the various alternative approaches, biological control
+utilizing antagonistic yeasts has been shown to be eﬀective in managing
+postharvest diseases of fruits (Liu et al., 2013; Spadaro and Droby,
+2016; Wisniewski et al., 2016). Recently, the antagonistic yeast Hanseniaspora uvarum has been reported to be an eﬀective biocontrol agent
+for the control of postharvest diseases of citrus (Li et al., 2016; Taqarort
+et al., 2008), table grape (Apaliya et al., 2017; Qin et al., 2015), and
+strawberry (Cai et al., 2015; Qin et al., 2017) and chilli fruit
+⁎
+
+Corresponding author.
+E-mail address: niexiaobao1029@126.com (X. Nie).
+
+https://doi.org/10.1016/j.biocontrol.2019.104019
+Received 14 June 2019; Accepted 1 July 2019
+Available online 02 July 2019
+1049-9644/ © 2019 Elsevier Inc. All rights reserved.
+
+(Ramanujam et al., 2012). The use of bio-elicitors to induce host resistance has also received increasing attention as a strategy for managing postharvest diseases (Romanazzi et al., 2016a). β-Aminobutyric
+acid (BABA), a non-proteinogenic amino acid, has been demonstrated
+to induce resistance in various fruits against fungal pathogens, including Penicillium digitatum on grapefruit (Porat et al., 2003), Penicillium italicum on orange (Tavallali et al., 2008), Penicillium expansum
+on apple (Zhang et al., 2011), Colletotrichum gloeosporioides on mango
+(Zhang et al., 2013), and Alternaria alternata on jujube (Yan et al.,
+2015).
+While the use of antagonistic yeast or elicitors, such as BABA, has
+been shown to be eﬀective in controlling postharvest diseases under
+laboratory and simulated, semi-commercial conditions, consistent and
+reliable performance has limited their commercial acceptance and use.
+Therefore, an integrated management strategy is needed to provide a
+more reliable alternative to chemical fungicides and meet commercial
+requirements under various environmental conditions (Romanazzi
+et al., 2016b; Wisniewski et al., 2016). While the use of antagonists and
+elicitors, alone and together, has been explored, considerable research
+is still needed to optimize the use of the combined approaches.
+Therefore, the objective of the present study was to evaluate the ability
+of BABA and the antagonistic yeast, H. uvarum, applied separately or in
+
+Biological Control 137 (2019) 104019
+
+L. Cheng, et al.
+
+measured after 4 days. Each treatment had three replicates comprised
+of 40 fruits each, and the experiment was repeated three times.
+
+combination, to control gray mold and black rot of harvested kiwifruit.
+The eﬀects of BABA on the defense response of kiwifruit, and on the
+population dynamics of H. uvarum in planta were also assessed.
+
+2.5. Eﬀect of BABA and H. uvarum on natural infection of non-wounded
+kiwifruit
+
+2. Materials and methods
+
+The eﬀect of BABA, with or without of the addition of H. uvarum, on
+natural infection of kiwifruits was evaluated. Intact fruits were divided
+into the following four groups:
+Group I (BABA treatment): kiwifruits were immersed in 50 mM
+BABA solution containing 0.05% (v/v) Tween 80 for 5 min.
+Group II (yeast treatment): fruits were immersed in a water suspension of H. uvarum (5 × 107 cells/mL) containing 0.05% (v/v) Tween
+80 for 5 min.
+Group III (BABA + yeast treatment): fruits were ﬁrst immersed in
+50 mM BABA solution containing 0.05% (v/v) Tween 80 for 5 min, airdried, and then immersed in a water suspension of H. uvarum
+(5 × 107 cells/mL) containing 0.05% (v/v) Tween 80 for 5 min.
+Group IV (Blank control): fruits were immersed in sterile distilled
+water and then air-dried. No BABA or yeast were administered to the
+fruit.
+After air-drying, the fruit in the four groups were stored at 25 °C for
+14 days after which disease incidence was determined. Each treatment
+had three replicates comprised of 40 fruits each, and the experiment
+was repeated three times.
+
+2.1. Antagonistic yeast
+The antagonistic yeast, H. uvarum LQ65, was isolated from the
+surface of loquat fruit in our own lab. It was identiﬁed by its general
+morphology and the sequence of the ITS region of ribosomal DNA as
+described by Leaw et al. (2006). H. uvarum was cultured in 100 mL of
+yeast peptone dextrose (YPD) broth (10 g of yeast extract, 20 g of
+peptone and 20 g of dextrose in 1 L of water) in 500-mL conical ﬂasks
+inoculated at an initial concentration of 105 cells/mL. Yeast cultures
+were incubated at 25 °C on a rotary shaker at 200 rpm for 48 h.
+H. uvarum cells were pelleted at 5000g for 3 min and washed twice with
+sterile distilled water to remove residual medium prior to their use in
+the biocontrol assay. The cell concentration was adjusted to
+5 × 107 cells/mL with sterile distilled water using a hemocytometer.
+2.2. Fungal pathogens
+The fungal pathogens, B. cinerea and A. alternata, were isolated from
+infected kiwifruits and maintained on potato dextrose agar (PDA) at
+4 °C. In order to reactivate the culture and verify their virulence, the
+pathogens were inoculated into kiwifruit wounds and re-isolated onto
+PDA once an infection was established. Spore suspensions of the two
+pathogens were obtained from two-week-old cultures growing on PDA
+at 25 °C. The spore concentration was calculated with a hemocytometer, and adjusted to 1 × 104 spores/mL with sterile distilled water
+prior to their use for inoculating wounded kiwifruit.
+
+2.6. Determination of population dynamics of H. uvarum in fruit wounds
+Kiwifruits were treated with BABA (50 mM for 5 min) as described
+above, while fruits without the BABA treatment served as a control.
+After air-drying, one wound (3 mm deep × 3 mm wide) was made at
+the equator of each kiwifruit. All wounds in treated and untreated fruit
+were inoculated with 5 µL of H. uvarum (5 × 107 cells/mL). Fruit was
+then stored at 25 °C. Samples of wounded tissues were subsequently
+collected every day over a period of 4 days and yeast populations were
+measured as described by Wang et al. (2018). Brieﬂy, yeasts were recovered by removing sample tissues from 40 wounds with a cork borer
+(1 cm diameter × 1 cm deep). Samples were then ground with a mortar
+and pestle in 20 mL of sterile distilled water. Fifty microliters of ten-fold
+serial dilutions were spread on YPDA (YPDA: YPD with addition of 20 g
+of agar) plates. Samples taken at 1 h after treatment served as time 0.
+Colonies were counted after the YPDA cultures were incubated at 25 °C
+for 3 days and expressed as the log10 colony-forming units (CFU) per
+wound. Three biological replicates were used for each treatment at each
+speciﬁc time point. The experiment was repeated three times.
+
+2.3. Fruit
+Kiwifruits (Actinidia chinensis cv. Hongyang) were harvested at
+commercial maturity (average quality values: 7.0 oBx of brix, 64 N of
+ﬁrmness, and 6.5 kg per 100 fruits of weight). Fruits without wounds or
+rot were selected based on uniformity of size, disinfected with 2% (v/v)
+sodium hypochlorite for 2 min, rinsed with tap water, and air-dried.
+2.4. Eﬀect of BABA and H. uvarum on the development of B. cinerea and A.
+alternata infection of kiwifruit
+BABA was purchased from Sigma-Aldrich (Shanghai, China). The
+concentration-time treatment (50 mM, 5-min immersion) was based on
+previous studies (Jannatizadeh et al., 2018; Zhang et al., 2013) and our
+own preliminary experiments.
+Following disinfection of the fruit as previously described, kiwifruits
+were divided into four groups as described by Tang et al. (2015).
+Group I (BABA treatment): kiwifruits were immersed in 50 mM
+BABA solution containing 0.05% (v/v) Tween 80 for 5 min, then airdried and wounded (one wound at the equator of each fruit) and inoculated with 5 µL of sterile water into each wound.
+Group II (yeast treatment): fruits were wounded and inoculated
+with 5 µL of H. uvarum (5 × 107 cells/mL) by pipetting the cells into
+each of the wounds.
+Group III (BABA + yeast treatment): fruits were immersed in 50 mM
+BABA solution containing 0.05% (v/v) Tween 80 for 5 min, air-dried,
+and then inoculated with 5 µL of H. uvarum (5 × 107 cells/mL) by pipetting the cells into a wound.
+Group IV (Blank control): fruits were wounded and inoculated with
+sterile water. No BABA or yeast were administered to the fruit. After
+24 h, all fruits in the four groups were inoculated with 5 µL of a spore
+suspension of either B. cinerea or A. alternata (1 × 104 spores/mL).
+Disease incidence and lesion diameter in kiwifruit stored at 25 °C were
+
+2.7. Assay of gene expression and enzyme activity of chitinase and β-1,3glucanase in kiwifruit
+Kiwifruits were immersed in BABA and/or yeast solution as described above, but pathogen inoculations were not subsequently conducted. Samples of kiwifruit tissues, consisting of both the pericarp and
+mesocarp, were collected from 40 fruits and pooled for use in the
+analysis of gene expression and enzyme activity. All tissue samples were
+immediately immersed in liquid nitrogen and then stored at −80 °C
+prior to subsequent analyses. Each treatment group had three biological
+replicates, and the experiment was repeated three times.
+Total RNA was extracted from the collected kiwifruit tissue samples
+using PureLink™ Plant RNA Reagent (Invitrogen, Carlsbad, CA, USA)
+according to the manufacturer’s instructions. The extracted RNA was
+treated with DNase and puriﬁed using an EasyPure Plant RNA Kit
+(TransGen Biotech, Beijing, China). First-strand cDNA synthesis was
+performed using 1 μg of total RNA in a ﬁnal reaction volume of 20 μL
+using a TransScript® All-in-one First-Strand cDNA Synthesis SuperMix
+for qPCR (TransGen Biotech), following the manufacturer’s protocol.
+Brieﬂy, the 20-μL reaction was incubated at 42 °C for 15 min and 85 °C
+2
+
+Biological Control 137 (2019) 104019
+
+L. Cheng, et al.
+
+individually. Collectively, the results demonstrate that the combined
+use of BABA and H. uvarum provides the best control of gray mold and
+black rot of kiwifruit. The utilization of a combination of antagonistic
+yeasts with either harpin (Tang et al., 2015), or curing treatment (Cook
+et al., 1999) to manage B. cinerea and P. expansum on kiwifruit was
+previously reported. BABA has also been previously reported to be effective in controlling postharvest diseases on a variety of fruits, including orange (Tavallali et al., 2008), apple (Zhang et al., 2011) and
+mango (Zhang et al., 2013). The present study also demonstrated that
+the combined use of an antagonistic yeast (H. uvarum) and BABA can be
+used to more eﬀectively manage postharvest diseases of fruit than the
+use of either agent alone.
+
+Table 1
+Primers used in RT-qPCR analysis of gene expression.
+Gene
+
+Accession no.
+
+Primer sequence (5′-3′)
+
+Product size
+(bp)
+
+CHI
+
+Achn341891
+
+106
+
+GLU
+
+Achn103301
+
+Actin
+
+Achn107181
+
+18S rRNA
+
+AB253775
+
+F: GTCCCAAACAAGAACTACTAC
+R: TCCTCATCCAATACCACAA
+F: ACTTCTTGACTCGGCATA
+R: GCTCCTTGTTATTCTCATCA
+F: GCTTACAGAGGCACCACTCAACC
+R: CCGGAATCCAGCACAATACCAG
+F: GTCGTAACAAGGTTTCCGTAGGT
+R: CAAAGGGAAGAAAGAGTAGGGTT
+
+99
+156
+138
+
+Target genes and Actin were identiﬁed from a kiwifruit genome database
+(http://bioinfo.bti.cornell.edu/cgi-bin/kiwi/home.cgi), while 18S rRNA was
+identiﬁed from NCBI database.
+
+3.2. Eﬀect of BABA and H. uvarum on natural infection on kiwifruit
+The predominant pathogens responsible for natural infections of
+kiwifruit are B. cinerea, A. alternata, P. expansum, and Rhizopus stolonifera (Tang et al., 2015; Thomidis and Prodromou, 2018). Consistent
+with the results obtained using artiﬁcially inoculated fruit, the combination of BABA and H. uvarum resulted in the greatest level of control of
+natural decay in kiwifruit as determined after 14-day storage at 25 °C
+(Fig. 2). Compared to control fruit with a natural decay incidence of
+35%, BABA, H. uvarum, and the combined treatment decreased disease
+incidence to 23, 28, and 17%, respectively, all of which were signiﬁcantly diﬀerent from the control and from each other. The increased
+level of control resulting from the combined treatment may be the result of interactions occurring between BABA, kiwifruit host tissue and
+the antagonistic yeast, which collectively may aﬀect pathogen development. Therefore, an assessment of yeast growth in planta was characterized by determining the rate of yeast growth in wounds of fruit
+previously treated with BABA.
+
+for 5 s and then maintained at 4 °C. RT-qPCR analysis was performed
+using SYBR® Premix Ex Taq™ II (Tli RNase H Plus) (Takara Biomedical
+Technology, Beijing, China), and 200 nmol of each primer per reaction.
+The ABI StepOne Plus (Applied Biosystems, Carlsbad, CA, USA) was set
+to cycle as follows: 95 °C denaturation for 30 s, followed by 40 cycles of
+ampliﬁcation (95 °C for 20 s, 58.5 °C for 20 s, 72 °C for 30 s). The expression level of the target defense-related genes, chitinase (CHI) and β1,3-glucanase (GLU), was normalized to the internal control genes, Actin
+and 18S rRNA, using the 2−ΔΔCT method (Tang et al., 2016). Melting
+curve analyses of ampliﬁcation products were performed at the end of
+each PCR reaction to ensure that unique products were ampliﬁed. PCR
+products were cloned and sequenced to verify their identity. The genespeciﬁc primer pairs listed in Table 1 are designed based on the previous studies (Tang et al., 2016; Zhang et al., 2018).
+Extracts from the sampled kiwifruit tissues for the assay of CHI and
+GLU activity were prepared as described by Zhang et al. (2011). Approximately 10 g of kiwifruit tissue was homogenized in 30 mL of sodium acetate buﬀer (50 mM, pH 5.0) at 4 °C. The homogenate was
+centrifuged at 17,000g for 30 min at 4 °C, and the resulting supernatant
+was collected for the enzyme assay. CHI and GLU enzyme activity was
+measured as described by Zheng et al. (2011). One unit (U) of CHI
+activity was deﬁned as the production of 1 µmol N-acetyl glucosamine
+per second, while U of GLU activity was deﬁned as the production of
+1 μmol glucose equivalents per second. The results are expressed as U
+per gram fresh weight.
+
+3.3. Population dynamics of H. uvarum in kiwifruit wounds
+H. uvarum multiplied rapidly in kiwifruit wounds stored at 25 °C
+(Fig. 3). The number of yeast cells increased more than ten-fold after
+one day of incubation and became gradually stable after three days
+when cells reached a stationary phase. Rapid growth and high population density of microbial antagonists colonizing fruit host are considered advantageous in competing for nutrients and space with the
+pathogen, and play a major role in biocontrol eﬃcacy (Dukare et al.,
+2019; Jamalizadeh et al., 2011; Liu et al., 2013). Rapid multiplication
+of H. uvarum in fruit wounds indicates that this yeast is well-adapted to
+the microenvironment of fruit wounds, which is directly related to its
+biocontrol performance (Fig. 1). Importantly, the prior immersion of
+kiwifruit in BABA (50 mM for 5 min) did not markedly aﬀect the colonization and growth of H. uvarum in wounds of kiwifruit (Fig. 3).
+These results provide support for using a combination of BABA and
+H. uvarum for the management of postharvest diseases of kiwifruit.
+
+3. Results and discussion
+3.1. Eﬀect of BABA and H. uvarum on control of B. cinerea and A.
+alternata on kiwifruit
+Integrated management, based on combining elicitors (e.g., chitosan, harpin and plant growth regulators) with biocontrol agents, such
+as yeast antagonists, has been reported to result in better control of
+postharvest diseases of fruits including kiwifruit, compared to either
+treatment alone (Romanazzi et al., 2016b). In the present study, the use
+of BABA and H. uvarum, alone or in combination, signiﬁcantly reduced
+disease incidence and lesion diameter of gray mold (B. cinerea) and
+black rot (A. alternata) on kiwifruit (Fig. 1A and B). BABA and
+H. uvarum, as stand-alone treatments, reduced disease incidence of gray
+mold from 100% in the untreated, control fruit to 93% and 53% in
+treated fruit, respectively. The combination of BABA and H. uvarum
+treatment, however, exhibited a synergistic eﬀect, in which the disease
+incidence was as low as 35% (Fig. 1A). Correspondingly, the average
+lesion diameter of gray mold was 18.5 mm in control fruit and 15.3 mm
+or 11.7 mm in fruit treated with BABA or H. uvarum alone, respectively.
+Notably it was only 8.2 mm when the two treatments were combined
+(Fig. 1B).
+The combination of BABA and H. uvarum also resulted in better
+control of black rot, compared to either of the use of BABA or H. uvarum
+
+3.4. Eﬀect of BABA and H. uvarum on gene expression and enzyme activity
+of CHI and GLU in kiwifruit
+The defense response of host tissues to an invading pathogen plays
+an important role in the infection process. The induction of defenserelated responses (e.g., activation of defense-related genes and enzymes) in host fruit tissues has been reported to be one of mechanisms
+of action of antagonistic yeasts (Sharma et al., 2009; Spadaro and
+Droby, 2016) and BABA (Chea et al., 2019; Jannatizadeh et al., 2018).
+Among defense-related enzymes, CHI and GLU have been suggested to
+play a crucial role in preventing the establishment of fungal pathogens
+in harvested fruit (Pétriacq et al., 2018). CHI catalyzes the hydrolysis of
+β-1-4-linkage of the N-acetyl glucosamine polymer of chitin, an essential cell wall component of fungal pathogens. GLU is a pathogenesisrelated (PR) protein that directly degrades cell walls of pathogens or
+causes the release of oligosaccharides from fungal cell walls that elicit
+3
+
+Biological Control 137 (2019) 104019
+
+L. Cheng, et al.
+
+Fig. 1. Eﬀect of BABA or an antagonistic yeast (H. uvarum) alone or in combination on disease incidence (A) and lesion diameter (B) of gray mold and black rot in
+kiwifruits stored at 25 °C for 4 days. The data presented are the mean ± SE of nine replicates pooled from three experiments. Columns with diﬀerent letters in each
+disease are signiﬁcantly diﬀerent according to a Duncan’s multiple range test at P < 0.05.
+
+Fig. 2. Eﬀect of BABA or an antagonistic yeast (H. uvarum) alone or in combination on natural infection of kiwifruits stored at 25 °C for 14 days, relative to
+an untreated control. The data presented are the mean ± SE of nine replicates
+pooled from three experiments. Columns with diﬀerent letters are signiﬁcantly
+diﬀerent according to a Duncan’s multiple range test at P < 0.05.
+
+Fig. 3. Population dynamics of H. uvarum in wounds of BABA-treated and nontreated control kiwifruits stored at 25 °C. The data presented are the
+mean ± SE of nine replicates pooled from three experiments. No signiﬁcant
+diﬀerence (P > 0.05) in the growth rate was observed between BABA-treated
+and non-treated control kiwifruits at each time point, according to a Student’s ttest.
+
+host defense response (Zavaliev et al., 2013). In the current study, the
+pattern of CHI expression in control and treated fruit were similar, although the speciﬁc levels of activity varied (Fig. 4A). CHI expression
+remained relatively stable in control fruit (non-treated) over the time
+course of four days of storage at 25 °C. In contrast, all treated fruit
+(BABA, yeast, or a combination of both) exhibited signiﬁcantly higher
+levels of expression than control fruit at all time points. The highest
+level of CHI expression was observed in fruit that received the combined BABA/H. uvarum treatment. Both BABA and H. uvarum also induced a higher level of GLU expression in treated fruit than in nontreated, control fruit (Fig. 4B). Notably, the highest level of GLU expression during the ﬁrst three days of storage was observed in fruit that
+received the BABA/H. uvarum treatment.
+Corresponding to the pattern of gene expression observed for the
+two defense-related genes, BABA and H. uvarum induced an increase in
+the activity of CHI and GLU enzymes in kiwifruit stored at 25 °C
+(Fig. 5). The highest level of enzyme activity was observed in fruit that
+received the combined BABA/H. uvarum treatment. The activity of CHI
+in the non-treated, control fruit remained relatively low at all time
+points. CHI activity in fruit treated with the combination of BABA and
+H. uvarum peaked at 3 days of storage, and was over two-fold greater
+than the CHI activity in control fruit (Fig. 5A). Fruit treated with the
+combination of BABA and H. uvarum also exhibited signiﬁcantly higher
+
+GLU activity than non-treated, control fruit over the whole four days of
+storage. Fruit treated with BABA or yeast alone exhibited signiﬁcantly
+higher levels GLU activity than control fruit over the ﬁrst three days of
+storage (Fig. 5B). These results are consistent with previous reports on
+the eﬀect of these agents in other horticultural crops. Postharvest
+treatment of BABA induced CHI and GLU enzyme activity in apple,
+mango and jujube fruits **(Yan et al., 2015; Zhang et al., 2011, 2013),
+while H. uvarum induced the activity of GLU and other defense-related
+enzymes in grape berry (Apaliya et al., 2019; Liu et al., 2010) and
+strawberry (Cai et al., 2015). In the present study, H. uvarum or BABA
+treatment alone induced the gene expression and enzyme activity of
+CHI and GLU in kiwifruit stored at 25 °C, relative to untreated fruit,
+while the combined treatment of fruit with both BABA and the yeast
+induced the greatest increase.
+
+4. Conclusions
+The use of the yeast H. uvarum combined with prior treatment of
+kiwifruit with BABA was more eﬀective in managing postharvest
+4
+
+Biological Control 137 (2019) 104019
+
+L. Cheng, et al.
+
+Fig. 4. Eﬀect of BABA and an antagonistic yeast (H. uvarum), applied alone or in combination on gene expression of chitinase (CHI, A) and β-1,3-glucanase (GLU, B) in
+kiwifruits stored for four days at 25 °C. The data presented are the mean ± SE of nine replicates pooled from three experiments. Values with diﬀerent letters at each
+time point are signiﬁcantly diﬀerent according to a Duncan’s multiple range test at P < 0.05.
+
+Fig. 5. Eﬀect of BABA and an antagonistic yeast (H. uvarum), applied alone or in combination on the enzyme activity of chitinase (CHI, A) and β-1,3-glucanase (GLU,
+B) in kiwifruits stored for four days at 25 °C. The data presented are the mean ± SE of nine replicates pooled from three experiments.
+
+diseases of kiwifruit than either treatment alone. An integrated strategy
+utilizing a biocontrol agent with an elicitor represents a promising
+approach for the management of postharvest diseases of fruit crops,
+especially for highly perishable commodities such as kiwifruit. The
+research on optimization of the combined approach like the treatment
+concentration/time at commercial scale, however, will be further investigated.
+
+Technol. 100, 52–58.
+Chea, S., Yu, D.J., Park, J., Oh, H.D., Chung, S.W., Lee, H.J., 2019. Preharvest β-aminobutyric acid treatment alleviates postharvest deterioration of ‘Bluecrop’ highbush
+blueberry fruit during refrigerated storage. Sci. Hortic. 246, 95–103.
+Chen, H., Cheng, Z., Wisniewski, M., Liu, Y., Liu, J., 2015. Ecofriendly hot water treatment reduces postharvest decay and elicits defense response in kiwifruit. Environ.
+Sci. Pollut. Res. 22, 15037–15045.
+Cook, D.W.M., Long, P.G., Ganesh, S., 1999. The combined eﬀect of delayed application
+of yeast biocontrol agents and fruit curing for the inhibition of the postharvest pathogen Botrytis cinerea in kiwifruit. Postharvest Biol. Technol. 16, 233–243.
+Di Francesco, A., Mari, M., Ugolini, L., Baraldi, E., 2018. Eﬀect of Aureobasidium pullulans
+strains against Botrytis cinerea on kiwifruit during storage and on fruit nutritional
+composition. Food Microbiol. 72, 67–72.
+Dukare, A.S., Paul, S., Nambi, V.E., Gupta, R.K., Singh, R., Sharma, K., Vishwakarma,
+R.K., 2019. Exploitation of microbial antagonists for the control of postharvest diseases of fruits: a review. Crit. Rev. Food Sci. Nutr. 59, 1498–1513.
+Hua, C., Kai, K., Wang, X., Shi, W., Zhang, D., Liu, Y., 2019. Curcumin inhibits gray mold
+development in kiwifruit by targeting mitogen-activated protein kinase (MAPK)
+cascades in Botrytis cinerea. Postharvest Biol. Technol. 151, 152–159.
+Jamalizadeh, M., Etebarian, H.R., Aminian, H., Alizadeh, A., 2011. A review of mechanisms of action of biological control organisms against post-harvest fruit spoilage.
+EPPO Bull. 41, 65–71.
+Jannatizadeh, A., Aghdam, M.S., Farmani, B., Maggi, F., Morshedloo, M.R., 2018. βAminobutyric acid treatment confers decay tolerance in strawberry fruit by warranting suﬃcient cellular energy providing. Sci. Hortic. 240, 249–257.
+Koh, Y.J., Hur, J.S., Jung, J.S., 2005. Postharvest fruit rots of kiwifruit (Actinidia deliciosa)
+in Korea. New Zeal. J. Crop Hort. Sci. 33, 303–310.
+Kwon, J.H., Cheon, M.G., Kim, J.W., Kwack, Y.B., 2011. Black rot of kiwifruit caused by
+Alternaria alternata in Korea. Plant Pathol. J. 27, 298.
+Leaw, S.N., Chang, H.C., Sun, H.F., Barton, R., Bouchara, J.P., Chang, T.C., 2006.
+Identiﬁcation of medically important yeast species by sequence analysis of the
+
+Author contributions
+All authors read and approved the ﬁnal manuscript. X. Nie conceived and designed the experiments; L. Cheng, X. Nie and C. Jiang
+performed the experiments; S. Li analyzed the data; X. Nie and S. Li
+drafted the manuscript.
+References
+Apaliya, M.T., Yang, Q., Zhang, H., Zheng, X., Zhao, L., Zhang, X., Kwaw, E., Tchabo, W.,
+2019. Proteomics proﬁle of Hanseniaspora uvarum enhanced with trehalose involved
+in the biocontrol eﬃcacy of grape berry. Food Chem. 274, 907–914.
+Apaliya, M.T., Zhang, H., Yang, Q., Zheng, X., Zhao, L., Kwaw, E., Mahunu, G.K., 2017.
+Hanseniaspora uvarum enhanced with trehalose induced defense-related enzyme activities and relative genes expression levels against Aspergillus tubingensis in table
+grapes. Postharvest Biol. Technol. 132, 162–170.
+Cai, Z., Yang, R., Xiao, H., Qin, X., Si, L., 2015. Eﬀect of preharvest application of
+Hanseniaspora uvarum on postharvest diseases in strawberries. Postharvest Biol.
+
+5
+
+Biological Control 137 (2019) 104019
+
+L. Cheng, et al.
+
+Postharvest Biol. Technol. 47, 39–49.
+Tang, J., Liu, Y., Li, H., Wang, L., Huang, K., Chen, Z., 2015. Combining an antagonistic
+yeast with harpin treatment to control postharvest decay of kiwifruit. Biol. Control
+89, 61–67.
+Tang, W., Zheng, Y., Dong, J., Yu, J., Yue, J., Liu, F., Guo, X., Huang, S., Wisniewski, M.,
+Sun, J., Niu, X., Ding, J., Liu, J., Fei, Z., Liu, Y., 2016. Comprehensive transcriptome
+proﬁling reveals long noncoding RNA expression and alternative splicing regulation
+during fruit development and ripening in kiwifruit (Actinidia chinensis). Front. Plant
+Sci. 7, 335.
+Taqarort, N., Echairi, A., Chaussod, R., Nouaim, R., Boubaker, H., Benaoumar, A.A.,
+Boudyach, E., 2008. Screening and identiﬁcation of epiphytic yeasts with potential
+for biological control of green mold of citrus fruits. World J. Microbiol. Biotechnol.
+24, 3031–3038.
+Tavallali, V., Karimi, S., Mohammadi, S., Hojati, S., 2008. Eﬀects of β-aminobutyric acid
+on the induction of resistance to Penicillium italicum. World Appl. Sci. J. 5, 345–351.
+Thomidis, T., Prodromou, I., 2018. Evaluation of the eﬀectiveness of three fungicides
+against pathogens causing postharvest fruit rot of kiwifruit. Australas. Plant Pathol.
+47, 485–489.
+Wang, Y., Luo, Y., Sui, Y., Xie, Z., Liu, Y., Jiang, G., Jiang, M., Liu, J., 2018. Exposure of
+Candida oleophila to sublethal salt stress induces an antioxidant response and improves biocontrol eﬃcacy. Biol. Control 127, 109–115.
+Wisniewski, M., Droby, S., Norelli, J., Liu, J., Schena, L., 2016. Alternative management
+technologies for postharvest disease control: The journey from simplicity to complexity. Postharvest Biol. Technol. 122, 3–10.
+Yan, J., Yuan, S., Wang, C., Ding, X., Cao, J., Jiang, W., 2015. Enhanced resistance of
+jujube (Zizyphus jujuba Mill. cv. Dongzao) fruit against postharvest Alternaria rot by βaminobutyric acid dipping. Sci. Hortic. 186, 108–114.
+Zavaliev, R., Levy, A., Gera, A., Epel, B.L., 2013. Subcellular dynamics and role of
+Arabidopsis β-1,3-glucanases in cell-to-cell movement of tobamoviruses. Mol. Plant
+Microbe Interact. 26, 1016–1030.
+Zhang, C., Wang, J., Zhang, J., Hou, C., Wang, G., 2011. Eﬀects of β-aminobutyric acid on
+control of postharvest blue mould of apple fruit and its possible mechanisms of action. Postharvest Biol. Technol. 61, 145–151.
+Zhang, M., Xu, L., Zhang, L., Guo, Y., Qi, X., He, L., 2018. Eﬀects of quercetin on postharvest blue mold control in kiwifruit. Sci. Hortic. 228, 18–25.
+Zhang, Z., Yang, D., Yang, B., Gao, Z., Li, M., Jiang, Y., Hu, M., 2013. β-Aminobutyric acid
+induces resistance of mango fruitto postharvest anthracnose caused by Colletotrichum
+gloeosporioides and enhances activity of fruit defense mechanisms. Sci. Hortic. 160,
+78–84.
+Zheng, Y., Sheng, J., Zhao, R., Zhang, J., Lv, S., Liu, L., Shen, L., 2011. Preharvest Larginine treatment induced postharvest disease resistance to Botrysis cinerea in tomato fruits. J. Agric. Food Chem. 59, 6543–6549.
+
+internal transcribed spacer regions. J. Clin. Microbiol. 44, 693–699.
+Li, L., Pan, H., Chen, M., Zhang, S., Zhong, C., 2017a. Isolation and identiﬁcation of
+pathogenic fungi causing postharvest fruit rot of kiwifruit (Actinidia chinensis) in
+China. J. Phytopathol. 165, 782–790.
+Li, L., Pan, H., Liu, W., Chen, M.Y., Zhong, C.H., 2017b. First report of Alternaria alternata
+causing postharvest rot of kiwifruit in China. Plant Dis. 101, 1046.
+Li, W., Zhang, H., Li, P., Apaliya, M.T., Yang, Q., Peng, Y., Zhang, X., 2016. Biocontrol of
+postharvest green mold of oranges by Hanseniaspora uvarum Y3 in combination with
+phosphatidylcholine. Biol. Control 103, 30–38.
+Liu, H.M., Guo, J.H., Luo, L., Liu, P., Wang, B.Q., Cheng, Y.J., Deng, B.X., Long, C.A.,
+2010. Improvement of Hanseniaspora uvarum biocontrol activity against gray mold by
+the addition of ammonium molybdate and the possible mechanisms involved. Crop
+Prot. 29, 277–282.
+Liu, J., Sui, Y., Chen, H., Liu, Y., Liu, Y., 2018. Proteomic analysis of kiwifruit in response
+to the postharvest pathogen, Botrytis cinerea. Front. Plant Sci. 9, 158.
+Liu, J., Sui, Y., Wisniewski, M., Droby, S., Liu, Y., 2013. Review: utilization of antagonistic
+yeasts to manage postharvest fungal diseases of fruit. Int. J. Food Microbiol. 167,
+153–160.
+Michailides, T.J., Elmer, P.A.G., 2000. Botrytis gray mold of kiwifruit caused by Botrytis
+cinerea in the United States and New Zealand. Plant Dis. 84, 208–223.
+Pétriacq, P., López, A., Luna, E., 2018. Fruit decay to diseases: can induced resistance and
+priming help? Plants 7, 77.
+Porat, R., Vinokur, V., Weiss, B., Cohen, L., Daus, A., Goldschmidt, E.E., Droby, S., 2003.
+Induction of resistance to Penicillium digitatum in grapefruit by β-aminobutyric acid.
+Eur. J. Plant Pathol. 109, 901–907.
+Qin, X., Xiao, H., Cheng, X., Zhou, H., Si, L., 2017. Hanseniaspora uvarum prolongs shelf
+life of strawberry via volatile production. Food Microbiol. 63, 205–212.
+Qin, X., Xiao, H., Xue, C., Yu, Z., Yang, R., Cai, L., Si, L., 2015. Biocontrol of gray mold in
+grapes with the yeast Hanseniaspora uvarum alone and in combination with salicylic
+acid or sodium bicarbonate. Postharvest Biol. Technol. 100, 160–167.
+Ramanujam, B., Hemannavar, V., Basha, H., Rangeshwaran, R., 2012. Post harvest fruit
+bioassay of phylloplane, pomoplane and endophytic microbes against chilli anthracnose pathogen, Colletotrichum capsici (Syd.) E. J. Butler & Bisby. J. Biol. Control
+26, 62–69.
+Romanazzi, G., Sanzani, S.M., Bi, Y., Tian, S., Martínez, P.G., Alkan, N., 2016a. Induced
+resistance to control postharvest decay of fruit and vegetables. Postharvest Biol.
+Technol. 122, 82–94.
+Romanazzi, G., Smilanick, J.L., Feliziani, E., Droby, S., 2016b. Integrated management of
+postharvest gray mold on fruit crops. Postharvest Biol. Technol. 113, 69–76.
+Sharma, R.R., Singh, D., Singh, R., 2009. Biological control of postharvest diseases of
+fruits and vegetables by microbial antagonists: A review. Biol. Control 50, 205–221.
+Spadaro, D., Droby, S., 2016. Development of biocontrol products for postharvest diseases
+of fruit: The importance of elucidating the mechanisms of action of yeast antagonists.
+
+6
+
+

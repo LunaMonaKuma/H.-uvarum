@@ -1,0 +1,817 @@
+Journal of Functional Foods 19 (2015) 288–295
+
+Available online at www.sciencedirect.com
+
+ScienceDirect
+j o u r n a l h o m e p a g e : w w w. e l s e v i e r. c o m / l o c a t e / j ff
+
+Autochthonous yeasts with β-glucosidase
+activity increase resveratrol concentration during
+the alcoholic fermentation of Vitis labrusca
+grape must
+Fernanda Gaensly a,*, Bruna Carla Agustini b, Gildo Almeida da Silva b,
+Geraldo Picheth a, Tania Maria Bordin Bonfim a
+a
+
+Universidade Federal do Paraná, Av. Lothário Meissner, 632, Jardim Botânico, CEP 80210-170, Curitiba, PR,
+Brazil
+b
+Embrapa Uva e Vinho, Rua Livramento, 515, Caixa Postal 130, CEP 95700-000, Bento Gonçalves, RS, Brazil
+
+A R T I C L E
+
+I N F O
+
+A B S T R A C T
+
+Article history:
+
+Since red wine is the main dietary source of resveratrol, a well-known polyphenol that reduces
+
+Received 4 March 2015
+
+coronary events in humans, different strategies have been employed in winery to achieve
+
+Received in revised form 11
+
+resveratrol-enriched wines. Yeasts-endowed β-glucosidase activity enhances free-
+
+September 2015
+
+resveratrol concentration in wine without modifying its composition or sensorial properties.
+
+Accepted 14 September 2015
+
+Current assay screened 308 autochthonous yeast strains for β-glucosidase activity employ-
+
+Available online
+
+ing arbutin, esculin, cellobiose and piceid as substrates. The β-glucosidase-producer yeasts
+were evaluated in the must of Vitis labrusca Bordô grape to quantify resveratrol concentra-
+
+Keywords:
+
+tion before and after alcoholic fermentation. Fourteen yeasts increased the resveratrol
+
+β-Glucosidase
+
+concentration up to 102% without any significant difference and nine of these yeast strains
+
+Piceid
+
+also produced high ethanol contents. Four autochthonous Hanseniaspora uvarum β-glucosidase-
+
+Wine yeast
+
+producer strains showed adequate oenological characteristics and hydrolysed resveratrol-
+
+Non-Saccharomyces selection
+
+glucosides during the alcoholic fermentation of V. labrusca grape must.
+
+Hanseniaspora uvarum
+
+1.
+
+Introduction
+
+Although interest in the health benefits of red wine has increased over the last several years due to its phenolic
+compounds (Artero, Artero, Tarín, & Cano, 2015), most studies
+on the phenolic composition in wines are related to European grapevines (Vitis vinifera). However, several countries such
+
+© 2015 Elsevier Ltd. All rights reserved.
+
+as Brazil (de Sá Borges, da Silva, Roberto, de Assis, & Yamamoto,
+2013), the United States (Muñoz-Espada, Wood, Bordelon, &
+Watkins, 2004), Korea (Hong & Park, 2013) and China (Zhang
+et al., 2011) also produce grapes, wines, and juices derived from
+American grapevines (Vitis labrusca). Further, 80% of wines in
+Brazil are produced from V. labrusca grapes, with great acceptance by the consumers and, consequently, underscoring the
+local economy (Biasoto, Netto, Marques, & da Silva, 2014).
+
+* Corresponding author. Universidade Federal do Paraná, Av. Lothário Meissner, 632, Jardim Botânico, CEP 80210-170, Curitiba, PR, Brazil.
+Tel.: +554133604145; fax: 55 41 3360 4067.
+E-mail address: fernanda.gaensly@gmail.com (F. Gaensly).
+Chemical compounds: Resveratrol (PubChem CID: 445154); Piceid (PubChem CID: 5281718); Arbutin (PubChem CID: 440936); Esculin (PubChem
+CID: 5281417); Cellobiose (PubChem CID: 10712).
+http://dx.doi.org/10.1016/j.jff.2015.09.041
+1756-4646/© 2015 Elsevier Ltd. All rights reserved.
+
+Journal of Functional Foods 19 (2015) 288–295
+
+Resveratrol (3,5,4′-trihydroxystilbene or 3,5,4′-stilbenetriol;
+MW: 228.25) is a stilbene compound, catalogued as a
+polyphenol, that has attracted considerable attention due to
+several in vitro and in vivo studies which emphasize its health
+benefits (Poulsen et al., 2014; Wu, Yang, Wang, & Wang, 2013).
+Red wines are the most notable dietary source of resveratrol
+and usually contain an average resveratrol concentration of
+1.9 ± 1.7 mg/L (Fernández-Mar, Mateos, García-Parrilla, Puertas,
+& Cantos-Villar, 2012), although its concentrations may range
+from undetectable to 14.3 mg/L (Mark, Nikfardjam, Avar, &
+Ohmacht, 2005). Differences in the resveratrol concentration
+in wines depend on grape variety, geographical region, plant
+stress and oenological practices (Stervbo, Vang, & Bonnesen,
+2007).
+Increase in the biologically active resveratrol concentration in wines, beginning with the precursor glucoside (polydatin/
+piceid), would enhance health assets without modifying the
+wine’s original physical, chemical and sensory properties
+(Todaro, Palmeri, Barbagallo, Pifferi, & Spagna, 2008). Further,
+the study of the pharmacokinetics of resveratrol after its administration in grape juice, which predominantly contains
+glucosides such as piceid, and the resveratrol administration
+as the pure-free aglycone dissolved in alcoholic matrix, suggests that glucosidic forms of resveratrol are absorbed at a lesser
+extent than free aglycone (Meng, Maliakal, Lu, Lee, & Yang, 2004;
+Patel et al., 2011).
+Resveratrol concentration in musts and wines may be
+influenced by oenological practices, such as the use of
+β-glucosidase enzymes (Gerogiannaki-Christopoulou,
+Athanasopoulos, Kyriakidis, Gerogiannaki, & Spanos, 2006).
+β-Glucosidase (1,4-β-D-glucosidase, EC 3.2.1.21) catalyses the
+hydrolysis of alkyl and aryl β-glucosides and the disaccharide glucosides and short oligosaccharides of glucose (Rodríguez,
+Lopes, Valles, Giraudo, & Caballero, 2007). Most studies on
+β-glucosidase activity in winemaking are related to terpenyl
+glucoside hydrolysis to enhance wine aroma (Cordero Otero
+et al., 2003; González-Pombo, Fariña, Carrau, Batista-Viera, &
+Brena, 2011). The existence of β-glucosidases capable of hydrolysing natural glucosides with different aglycones may
+extend the range of musts and wines glucosidic compounds
+capable of being hydrolysed by wine-related β-glucosidaseproducer yeasts (Rodríguez et al., 2007).
+So that health and sensory attributes of wine could
+be enhanced, it is important to explore the potential of autochthonous yeasts biodiversity and perform screenings for
+β-glucosidase producer strains from specific oenological ecosystems. Since only few strains of Saccharomyces cerevisiae
+possess β-glucosidase activity, recent studies have focused on
+indigenous species of non-Saccharomyces strains to impart
+special characteristics to the wines (Comitini et al., 2011;
+Domizio et al., 2011; Hong & Park, 2013). The lack of screening methods for glucosidase activity which are able to correlate
+with real winemaking conditions is one of the limitations to
+identify proper wine-related β-glucosidase-producer yeasts
+(Pérez et al., 2011).
+Current assay isolates autochthonous yeast strains from
+grapes and selects those with β-glucosidase activity suitable
+for winemaking and capable of increasing free-resveratrol concentration during the alcoholic fermentation of V. labrusca grape
+must.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Chemicals and reagents
+
+289
+
+Glucose, peptone, yeast extract, agar and sodium metabisulfite
+were obtained from Merck (São Paulo, SP, Brazil). Cellobiose,
+fructose and ethanol were purchased from Fluka (São Paulo,
+SP, Brazil). YNB medium was purchased from Biosystems (São
+José dos Pinhais, PR, Brazil). Ferric citrate, glycerol, piceid, transresveratrol, arbutin and esculin were purchased from SigmaAldrich (São Paulo, SP, Brazil). Acetic acid, methanol and sulfuric
+acid were acquired from LAS do Brasil (Aparecida de Goiânia,
+GO, Brazil).
+
+2.2.
+
+Isolation of wine-related yeasts
+
+Yeasts were isolated on solid YPG medium, pH 4.5, (glucose
+20 g/L, peptone 20 g/L, yeast extract 10 g/L, and agar 20 g/L)
+during spontaneous fermentation of V. labrusca Bordô grapes
+grown in the southern Brazilian state of Paraná. The isolated
+yeasts were maintained at −20 °C in cryoprotective liquid
+medium (YPG, pH 5.5, and glycerol 15 g/L). So that enzyme production of yeast in synthetic medium and in natural grape must
+could be investigated, the conserved yeast suspensions were
+thawed and each yeast strain was grown in liquid YPG medium,
+pH 5.5 (26 °C, 150 rpm, for 18 h), centrifuged and suspended in
+sterile distilled water. Recently prepared yeast suspensions were
+used as the inoculum in the assays described.
+
+2.3.
+
+Identification
+
+Yeasts were identified by molecular profiling using matrixassisted laser desorption/ionization time-of-flight mass
+spectrometry (MALDI–TOF MS), described elsewhere (Agustini,
+Silva, Bloch, Bonfim, & da Silva, 2014).
+
+2.4.
+
+Yeasts’ β-glucosidase production assay
+
+Isolated yeast strains were screened for β-glucosidase production with cellobiose as the substrate. A 10 µL-inoculation loop
+from each test-yeast suspension was streaked on agar plates
+containing cellobiose as single carbon source (YNB 6.7 g/L, cellobiose 10 g/L, agar 20 g/L; pH 5.5). Inoculated plates were
+maintained at 26 °C and examined daily for cell growth.
+The production of the enzyme β-glucosidase was also verified in Erlenmeyer flasks with YNB 6.7 g/L liquid medium
+(pH 5.5) containing arbutin 0.75 g/L or esculin 0.94 g/L as enzyme
+substrates, with the addition of ferric citrate 0.1 g/L (Rosi, Vinella,
+& Domizio, 1994; Saqib & Whitney, 2006). The arbutin and
+esculin media were inoculated with 106 cells/mL from each testyeast suspension and the flasks were maintained at 26 °C,
+150 rpm, for 48 h. The assays were visually compared to arbutin
+and esculin media inoculated with Candida wickerhamii NRRL
+Y-2563 (Freer, 1993) and S. cerevisiae NRRL Y-12632 for positive
+and negative β-glucosidase production, respectively.
+The strains which developed on cellobiose agar and hydrolysed at least one other substrate (either arbutin or esculin)
+were positive to β-glucosidase production.
+
+290
+
+Journal of Functional Foods 19 (2015) 288–295
+
+The piceid hydrolysis to resveratrol and glucose was verified in Erlenmeyer flasks with YNB 6.7 g/L liquid medium
+(pH 5.5) containing piceid 0.54 g/L, inoculated with 106 cells/mL
+of each selected test-yeast suspension. The flasks were maintained at 26 °C, 150 rpm, for 36 h. The media were centrifuged
+at 14 500 × g for 10 min to get cell-free broth and the supernatant analysed by HPLC to evaluate the presence of piceid and
+resveratrol.
+
+2.5.
+β-Glucosidase activity of yeasts in
+winemaking conditions
+β-Glucosidase activity in winemaking conditions and the hydrolysis of the piceid present in grapes were verified in 300 mL
+Erlenmeyer flasks containing 100 mL of V. labrusca Bordô grape
+must, without the skins, with the addition of sodium
+metabisulfite 50 mg/L. Five hours after the addition of SO2, the
+grape must was inoculated with 107 cells/mL of each testyeast suspension. Fermentation assays were carried out under
+static conditions at 18 °C, for 5 days. The supernatant was centrifuged at 14 500 × g for 10 min and analysed to verify
+resveratrol, glucose, fructose, acetic acid, glycerol and ethanol
+concentrations before and after fermentation.
+
+2.6.
+
+Chemical analysis
+
+Quantification analysis was performed in high-performance
+liquid chromatography (HPLC) on a Varian ProStar HPLC (Varian
+Inc, Walnut Creek, CA) comprising a ProStar 230 ternary pump.
+The chromatographic separation of stilbenes was performed in a Varian Microsorb MV 100-5 C-18 (250 × 4.6 mm,
+5 µm) column using a 20 µL injection sample volume. The
+column was thermostatically controlled to maintain a temperature of 40 °C. The eluents were (A) water : acetic acid (98:2)
+and (B) methanol, whilst the mobile phase flux was 1 mL/min.
+The linear gradient for the mobile phase (A) followed the protocol: 0 min, 100%; 10 min, 85%; 15 min, 75%; 20 min, 70%;
+25 min, 65%; 35 min, 50%, 40 min, 40%, 45 min, 20%, 55 min,
+100%. The eluent was monitored at 288 nm by an UV-Vis detector (Varian ProStar, Lake Forest, CA). trans-Resveratrol
+concentrations were determined by standard calibration curve
+(1–15 µg/mL).
+The chromatographic separation of glucose, fructose, glycerol, acetic acid and ethanol was performed on an Agilent HiPlex H ion-exchange analytical column (300 mm × 7.7 mm, 8 µm)
+with an injection sample volume of 20 µL. As the isocratic
+mobile phase, H2SO4 8 mM had a flow rate of 0.4 mL/min at
+room temperature (25 °C). The compounds were detected by
+a refractive index detector (Detector 350 RI, Varian ProStar, Lake
+Forest, CA). Glucose, fructose, acetic acid, glycerol, and ethanol
+concentrations were determined by standard calibration curves
+(0.72–2.4 mg/mL).
+
+2.7.
+
+Statistical analysis
+
+Rates were given as means ± 1-standard deviation (SD) for three
+independent experiments analysed in triplicate. Comparisons among autochthonous yeasts were tested with one-way
+ANOVA, whilst P-value < 0.05 was considered significant. Tukey’s
+HSD post-hoc correction test was applied. Correlations among
+
+the data obtained were calculated by Pearson’s correlation coefficient. Statistica for Windows version 8.0 (StatSoft Inc., Tulsa,
+OK, USA) was used for all analyses. All data showed a normal
+distribution without outliers.
+
+3.
+
+Results and discussion
+
+3.1.
+Isolation and identification of yeasts, and
+β-glucosidase production screening
+Three hundred and eight autochthonous yeast strains isolated from V. labrusca Bordô grapes were evaluated for
+β-glucosidase production, taking into consideration cellobiose and arbutin and/or esculin hydrolysis. Further, 18.8%
+provided a positive β-glucosidase result. The frequency of autochthonous β-glucosidase-producer yeasts in current study
+was similar to that reported by Spagna, Barbagallo, Palmeri,
+Restuccia, and Giudici (2002) who studied β-glucosidase activity in 361 yeasts isolated from samples of Sicilian wine must
+and reported that 18% of yeasts were positive for β-glucosidase
+activity.
+Moreover, 57% of the 58 yeast strains that could hydrolyse
+cellobiose, and arbutin and/or esculin, were able to hydrolyse
+piceid to free resveratrol in the synthetic media. Yeasts were
+identified by MALDI–TOF MS as belonging to the species
+Hanseniaspora uvarum (n = 23), Hanseniaspora opuntiae (n = 4),
+Candida zemplinina (n = 3), S. cerevisiae (n = 1), Zygoascus meyerae
+(n = 1) and Zygosaccharomyces bailii (n = 1).
+It was expected that a smaller number of isolated yeasts
+hydrolysed piceid, since the β-glucosidase enzyme had different substrate specificity (Fia, Giovani, & Rosi, 2005), and some
+species behaved differently due to their strain (Rosi et al., 1994;
+Villena, Iranzo, & Pérez, 2007). Substrate specificity and differences among strains were more evident to the isolated yeasts
+of S. cerevisiae. Only one strain out of eleven S. cerevisiae
+β-glucosidase-producers hydrolysed piceid in synthetic media.
+Although arbutin and esculin derivatives were the most reliable β-glucosidic grape analogues, no studies have correlated
+these assays with the natural grape glucosides hydrolysis capability by wine-related yeasts (Pérez et al., 2011), as the piceid
+substrate.
+In general, β-glucosidase enzymes cleave the β(1→4) glucosidic bonds in several substrates, but little is known about
+the β-glucosidases interaction with their substrates, especially with regard to the aglycone chemical structure moiety
+that is the basis of the diversity of compounds able to be hydrolysed and which cause subtle differences in substrate
+specificity (Singhania, Patel, Sukumaran, Larroche, & Pandey,
+2013).
+Pérez et al. (2011) showed that it is important to create collections of native wine yeasts, since very few strains with
+β-glucosidase activity have been identified. In fact, the above
+restricts knowledge of their winemaking potential. Therefore, it is necessary to investigate the capacity of winerelated β-glucosidase-producer yeasts on natural substrates.
+
+3.2.
+
+Alcoholic fermentation of V. labrusca grape must
+
+The 33 wine-related β-glucosidase-producer yeasts that hydrolysed the substrate piceid in the synthetic media were used
+
+Journal of Functional Foods 19 (2015) 288–295
+
+291
+
+Fig. 1 – Resveratrol concentrations (mg/L) after a five-day fermentation of Vitis labrusca grape must, inoculated with
+autochthonous wine-related yeast strains. Bars show mean ± standard deviation. Resveratrol concentrations are given in
+descending order for the evaluated strains. Asterisk (*) above the bars represent no significant difference (ANOVA with
+Tukey’s HSD correction, P > 0.05). Solid line (4.8 mg/L) represents resveratrol average rates; dashed lines represent upper
+(5.0 mg/L) and lower (4.6 mg/L) 95% confidence interval.
+
+as starters in the alcoholic fermentation of grape must to verify
+their enzyme’s capability to hydrolyse the natural piceid in
+V. labrusca Bordô grapes under winemaking conditions.
+The inoculated grape must had a resveratrol concentration of 3.18 ± 0.01 mg/L, fructose and glucose concentrations
+of 100.01 ± 20.70 g/L and 38.23 ± 8.38 g/L, respectively, and pH
+of 3.2 ± 0.2 at the beginning of fermentation.
+The highest resveratrol concentration was reported in fermentations carried out by 14 yeast strains without any
+significant difference (ANOVA, P > 0.05). Resveratrol concentrations above the 95% confidence interval showed higher
+resveratrol concentrations when compared to all studied yeast
+strains (Fig. 1).
+Although several studies reported that β-glucosidase activity was inhibited under winemaking conditions due to low
+pH value, high initial glucose concentration and low aeration
+caused by the static condition of fermentation (Rodríguez et al.,
+2007; Rosi et al., 1994; Villena Arévalo, Iranzo Úbeda, Otero
+Cordero, & Pérez Briones, 2005), the β-glucosidase activity could
+be identified in most of the wine-related studied yeasts since
+there was an increase in the initial resveratrol concentration,
+reaching 102% after five days of the grape must fermentation. The four H. opuntiae strains increased the resveratrol
+concentration but at significantly different levels (ANOVA,
+P < 0.05): H. opuntiae strains 249 and 243 increased the resveratrol
+to an average of 5.76 mg/L, H. opuntiae 199 increased the
+resveratrol to an average of 4.71 mg/L and H. opuntiae 250 increased the resveratrol concentration to an average of
+3.42 mg/L. This fact suggested differences in the enzyme
+
+activity amongst β-glucosidase-producer strains belonging to
+the same species.
+The yeast species H. uvarum also revealed significant differences in the final free-resveratrol concentrations (ANOVA,
+P < 0.05): H. uvarum 187 increased the initial resveratrol concentration to 6.5 ± 0.4 mg/L and H. uvarum 03 maintained the
+initial resveratrol concentration. Consequently, only the
+β-glucosidase enzyme produced by this yeast was probably inactivated by winemaking conditions.
+As demonstrated in Table 1, after five days of alcoholic fermentation, the highest ethanol concentrations ranged
+between 33.7 ± 7.1 g/L and 48.8 ± 2.7 g/L, without significant
+differences (ANOVA, P > 0.05); the lowest residual glucose concentrations ranged between 1.2 ± 0.1 g/L and 5.9 ± 1.4 g/L,
+without significant differences (ANOVA, P > 0.05); and the lowest
+residual fructose concentrations ranged between 3.0 ± 0.5 g/L
+and 11.6 ± 1.8 g/L without significant differences (ANOVA,
+P > 0.05). They were detected in the fermented must inoculated with the yeast S. cerevisiae 282 and with eight nonSaccharomyces yeasts out of the 33 studied yeasts. High ethanol
+formation by the isolated yeast strains H. uvarum 117, 121, 148,
+166, 172, 187, 189, and 206 corroborated studies that verified
+whether apiculate yeasts might last throughout the alcoholic
+fermentation for longer periods than has been previously surmised, survive high ethanol concentrations and even produce
+alcohol concentrations similar to S. cerevisiae industrial wine
+yeasts (Hong & Park, 2013; Moreira et al., 2011). The
+β-glucosidase activity in S. cerevisiae strains has been formerly found in small numbers. When present, it was very
+
+292
+
+Table 1 – Resveratrol, glucose, fructose, ethanol, acetic acid and glycerol concentrations after five-day fermentation of Vitis labrusca grape must inoculated with
+autochthonous wine-related yeast strains that formed the highest ethanol contents.
+Resveratrol
+(mg/L)
+
+Glucose
+residue (g/L)
+
+Fructose
+residue (g/L)
+
+Ethanol (g/L)
+
+Acetic
+acid (g/L)
+
+Glycerol
+(g/L)
+
+Saccharomyces cerevisiae 282
+
+4.6 ± 0.5b,c
+4.4 (4.2–5.1)
+5.4 ± 0.4a,b
+5.5 (5.0–5.9)
+4.5 ± 0.4b,c
+4.5 (4.0–4.9)
+5.8 ± 0.1a,b,c
+5.7 (5.7–5.9)
+4.9 ± 0.3b,c
+5.0 (4.6–5.2)
+5.0 ± 0.5b,c
+5.2 (4.5–5.5)
+6.5 ± 0.4a
+6.5 (6.1–6.9)
+5.2 ± 0.4a,b
+5.0 (5.0–5.6)
+6.0 ± 0.5a,b
+5.9 (5.6–6.5)
+4.8 ± 1.0
+4.9 (2.7–7.2)
+
+4.2 ± 1.9
+4.3 (2.4–5.9)
+5.5 ± 2.6
+4.7 (3.5–9.0)
+5.9 ± 1.4
+6.2 (4.0–7.1)
+3.2 ± 0.5
+3.1 (2.8–4.0)
+2.1 ± 1.3
+1.9 (1.0–3.6)
+2.6 ± 1.3
+2.1 (1.6–4.4)
+3.0 ± 1.3
+3.1 (1.5–4.3)
+1.2 ± 0.1
+1.5 (0.9–1.8)
+1.8 ± 0.7
+1.6 (1.3–2.8)
+9.6 ± 6.8
+8.8 (0.9–36.5)
+
+4.5 ± 1.0
+4.5 (3.6–5.4)
+5.6 ± 2.3
+4.9 (3.8–9.0)
+11.6 ± 1.8
+11.5 (9.6–13.6)
+4.1 ± 0.7
+3.8 (3.7–5.2)
+5.1 ± 2.1
+4.7 (3.2–8.0)
+4.9 ± 3.6
+3.6 (2.3–10.0)
+4.2 ± 0.6
+4.3 (3.7–4.7)
+3.0 ± 0.5
+3.4 (3.1–3.7)
+4.3 ± 1.3
+3.9 (3.1–6.1)
+22.4 ± 17.4
+20.7 (2.2–71.7)
+
+48.8 ± 2.7
+48.7 (45.6–52.0)
+40.5 ± 3.2
+41.3 (35.9–43.2)
+40.0 ± 1.8
+40.1 (38.0–42.1)
+42.8 ± 2.5
+42.6 (40.0–46.1)
+38.0 ± 4.2
+41.4 (25.8–43.4)
+33.7 ± 7.1
+36.3 (15.5–46.5)
+45.1 ± 1.8
+44.7 (43.3–47.7)
+35.4 ± 6.0
+37.3 (26.7–40.4)
+37.0 ± 6.4
+37.4 (28.8–44.5)
+28.2 ± 10.6
+26.1 (6.5–52.0)
+
+9.5 ± 3.8b,c
+9.3 (5.8–13.5)
+13.2 ± 4.2c
+12.0 (5.9–22.9)
+5.5 ± 2.3a,b
+5.6 (3.0–7.5)
+5.4 ± 2.0a,b
+5.4 (3.3–7.6)
+2.4 ± 0.6a
+2.2 (1.9–3.4)
+0.8 ± 0.7a
+0.4 (0.4–1.8)
+1.5 ± 0.2a
+1.4 (1.3–1.7)
+2.0 ± 0.5a
+1.8 (1.6–2.7)
+1.6 ± 0.9a
+1.6 (0.6–2.6)
+10.6 ± 9.6
+7.9 (0.4–42.2)
+
+5.1 ± 0.4
+5.0 (4.8–5.6)
+4.7 ± 0.6
+4.7 (3.9–5.4)
+7.7 ± 0.9
+7.7 (6.7–8.8)
+7.3 ± 0.2
+7.3 (7.1–7.5)
+5.7 ± 1.6
+6.4 (3.4–6.7)
+7.0 ± 1.4
+7.9 (3.0–9.2)
+6.8 ± 0.5
+7.0 (6.0–7.1)
+5.4 ± 0.8
+5.6 (4.2–6.0)
+5.8 ± 0.9
+5.6 (5.1–7.1)
+4.7 ± 2.3
+4.6 (0.0–12.5)
+
+Hanseniaspora uvarum 117
+Hanseniaspora uvarum 121
+Hanseniaspora uvarum 148
+Hanseniaspora uvarum 166
+Hanseniaspora uvarum 172
+Hanseniaspora uvarum 187
+Hanseniaspora uvarum 189
+Hanseniaspora uvarum 206
+All strains data combined
+
+The amounts of resveratrol and sugar were respectively 3.18 mg/L and 170 g/L at the start.
+All rates are given as mean ± standard deviation, median (minimum–maximum) of three independent experiments. Rates displaying similar superscript letters (a,
+different (ANOVA with Tukey’s HSD correction, P > 0.05).
+
+b, c
+
+) within each column are not
+
+Journal of Functional Foods 19 (2015) 288–295
+
+Autochthonous yeast strain
+evaluated
+
+Journal of Functional Foods 19 (2015) 288–295
+
+293
+
+Fig. 2 – Criteria employed to select autochthonous yeast strains based on resveratrol concentration and oenological
+metabolites. Numbers inside each circle indicate the evaluated yeast strain: 117: Hanseniaspora uvarum 117, 120: H. uvarum
+120, 148: H. uvarum 148, 151: H. uvarum 151, 187: H. uvarum 187, 189: H. uvarum 189, 204: Candida zemplinina 204, 206:
+H. uvarum 206, 211: C. zemplinina 211, 237: Hanseniaspora opuntiae 237, 243: H. opuntiae 243, 248: H. uvarum 248, 249:
+H. opuntiae 249, and 299: H. uvarum 299.
+
+limited and easily inhibited by high glucose and ethanol concentrations, anaerobiosis and sulfur dioxide (Cordero Otero et al.,
+2003; Villena et al., 2007).
+In the case of other oenological metabolites produced during
+alcoholic fermentation, the lowest concentrations of acetic acid
+ranged between 0.8 ± 0.7 g/L and 5.5 ± 2.3 g/L, without significant differences (ANOVA, P > 0.05) and the highest glycerol
+concentrations ranged between 4.6 ± 0.7 g/L and 7.7 ± 0.9 g/L,
+without significant differences (ANOVA, P > 0.05), measured in
+14 and 18 fermentations, respectively. Acetic acid is a secondary metabolite derived from pyruvic acid, which is always
+formed during alcoholic fermentation. Beyond a certain limit,
+it has a detrimental organoleptic effect on the product’s quality
+since it provides a bitter taste and a vinegar-like smell
+(Ribéreau-Gayon, Dubourdieu, Donèche, & Lonvaud, 2006). Glycerol is a by-product of the fermentation of sugar to ethanol,
+mainly produced during glyceropyruvic fermentation at the start
+of alcoholic fermentation. In fact, it is the third most common
+constituent of wine, after water and ethanol. Glycerol is an interesting metabolite for wines due to its positive contribution
+to taste sensations, such as sweetness, softness, silkiness and
+thickness. Glycerol concentration in wines usually has a 1:10
+ratio of the ethanol produced, whilst wine-related yeast varies
+widely in glycerol production, ranging from 4 g/L to 10 g/L (Loira
+et al., 2014; Moreno-Arribas & Polo, 2009).
+Further, the resveratrol and the alcoholic fermentation metabolite concentrations measured at the end of fermentations
+inoculated with each of the thirty-three studied yeasts underwent Pearson’s linear correlation test. Correlation was reported
+when comparing total sugar consumption to ethanol, glycerol and acetic acid formation, as expected. Data also showed
+a small (27%) but statistically significant (P = 0.006) correlation when ethanol formation and the resveratrol increasing
+
+concentrations were compared. Therefore, the final concentration of resveratrol in wines rises when there is ethanol
+formation too, possibly contributing to improve the freeresveratrol solubility in the fermented must (Bavaresco, Mattivi,
+De Rosso, & Flamini, 2012). The above corroborates the fact that
+β-glucosidase activity and adequate alcoholic fermentation characteristics should be present to select the appropriate wine yeast
+for the increase of resveratrol concentration in wines.
+Figure 2 demonstrates that 14 out of the 33 yeast strains
+that hydrolysed piceid increased the initial resveratrol concentration in grape must of V. labrusca to approximately
+5.64 mg/L without significant differences (ANOVA, P > 0.05). Five
+autochthonous yeast strains were also able to increase
+resveratrol concentration, whilst consuming sugars and producing the highest concentrations of ethanol measured. Four
+out of the five strains produced minimum acetic acid and glycerol concentrations at the expected range.
+The autochthonous wine-related yeast strains H. uvarum 148,
+187, 189, and 206 provided the most adequate oenological characteristics without any significant difference (ANOVA, P > 0.05)
+when the oenological metabolites, such as ethanol, glycerol and
+acetic acid, were taken into account; similarly, resveratrol
+increased at the end of the alcoholic fermentation of the
+winemaking process.
+Although it is expected and desired that a S. cerevisiae conducts the alcoholic fermentation, the non-Saccharomyces wine
+yeasts are usually adapted to the specific grape environment
+(Jolly, Augustyn, & Pretorius, 2006) and experimental evidence has emphasized the positive role of non-Saccharomyces
+yeasts in wine composition. Consequently, a re-evaluation
+of their role in the winemaking process has occurred
+(Ciani, Comitini, Mannazzu, & Domizio, 2010; Comitini et al.,
+2011).
+
+294
+
+Journal of Functional Foods 19 (2015) 288–295
+
+A study focusing on the potential market for functional
+wines in which resveratrol content was enhanced revealed that
+consumers were willing to pay 55% more for a bottle of wine
+with increased resveratrol concentration (Barreiro-Hurlé,
+Colombo, & Cantos-Villar, 2008).
+So that functional wines enriched with resveratrol could be
+obtained, it is important to bear in mind in wine-related yeast
+selection that the yeast’s enzyme should be capable of hydrolysing the synthetic grape glucosidic analogues during the
+screening selection stage and the natural resveratrol-glucosides
+present in the grape berries during the fermentation procedure. Further, the yeast should be equally able to ferment the
+sugars in the grape must which produces ethanol, so the
+ethanol in the wine maintains the phenolic compounds soluble,
+both in the wine and in the human intestine (Goldberg, 1995;
+Gürbüz et al., 2007).
+
+4.
+
+Conclusion
+
+During screening to select β-glucosidase-producer autochthonous yeast strains using grape-related glucoside substrates, such
+as arbutin and esculin, 57% of the yeasts that hydrolyse these
+substrates were also able to hydrolyse the resveratrol-glucoside
+piceid. The results suggest that wine-related yeasts endowed
+with β-glucosidase activity do not merely release aroma precursors throughout the alcoholic fermentation of grape must
+but may also hydrolyse resveratrol-glucosides which are naturally present in the grapes. It is desired that the selected yeast
+strain would have adequate alcoholic fermentation characteristics and β-glucosidase activity in winemaking conditions
+to guarantee free-resveratrol solubility in the fermented grape
+must of V. labrusca.
+
+Acknowledgements
+Current study was funded by the Brazilian Coordination for the
+Upgrading of Higher Education Personnel (CAPES) (Capes Embrapa 001/2011). Brazilian CGEN authorization 010198/2013-0.
+REFERENCES
+
+Agustini, B. C., Silva, L. P., Bloch, C., Jr., Bonfim, T. M., & da Silva, G.
+A. (2014). Evaluation of MALDI-TOF mass spectrometry for
+identification of environmental yeasts and development of
+supplementary database. Applied Microbiology Biotechnology,
+98(12), 5645–5654. doi:10.1007/s00253-014-5686-7.
+Artero, A., Artero, A., Tarín, J. J., & Cano, A. (2015). The impact of
+moderate wine consumption on health. Maturitas, 80(1), 3–13.
+http://dx.doi.org/10.1016/j.maturitas.2014.09.007.
+Barreiro-Hurlé, J., Colombo, S., & Cantos-Villar, E. (2008). Is there a
+market for functional wines? Consumer preferences and
+willingness to pay for resveratrol-enriched red wine. Food
+Quality and Preference, 19(4), 360–371.
+Bavaresco, L., Mattivi, F., De Rosso, M., & Flamini, R. (2012). Effects
+of elicitors, viticultural factors, and enological practices on
+resveratrol and stilbenes in grapevine and wine. Mini Reviews
+in Medicinal Chemistry, 12(13), 1366–1381.
+
+Biasoto, A. C. T., Netto, F. M., Marques, E. J. N., & da Silva, M. A. A.
+P. (2014). Acceptability and preference drivers of red wines
+produced from Vitis labrusca and hybrid grapes. Food Research
+International, 62(0), 456–466. http://dx.doi.org/10.1016/
+j.foodres.2014.03.052.
+Ciani, M., Comitini, F., Mannazzu, I., & Domizio, P. (2010).
+Controlled mixed culture fermentation: A new perspective on
+the use of non-Saccharomyces yeasts in winemaking. FEMS
+Yeast Research, 10(2), 123–133.
+Comitini, F., Gobbi, M., Domizio, P., Romani, C., Lencioni, L.,
+Mannazzu, I., & Ciani, M. (2011). Selected non-Saccharomyces
+wine yeasts in controlled multistarter fermentations with
+Saccharomyces cerevisiae. Food Microbiology, 28(5), 873–882.
+Cordero Otero, R. R., Ubeda Iranzo, J. F., Briones-Perez, A. I.,
+Potgieter, N., Villena, M. A., Pretorius, I. S., & Rensburg, P. V.
+(2003). Characterization of the β-glucosidase activity
+produced by enological strains of non-Saccharomyces yeasts.
+Journal of Food Science, 68(8), 2564–2569.
+de Sá Borges, R., da Silva, G. A., Roberto, S. R., de Assis, A. M., &
+Yamamoto, L. Y. (2013). Phenolic compounds, favorable oxiredox activity and juice color of ‘Concord’ grapevine clones.
+Scientia Horticulturae, 161, 188–192. http://dx.doi.org/10.1016/
+j.scienta.2013.07.011.
+Domizio, P., Romani, C., Lencioni, L., Comitini, F., Gobbi, M.,
+Mannazzu, I., & Ciani, M. (2011). Outlining a future for nonSaccharomyces yeasts: Selection of putative spoilage wine
+strains to be used in association with Saccharomyces cerevisiae
+for grape juice fermentation. International Journal of Food
+Microbiology, 147(3), 170–180.
+Fernández-Mar, M. I., Mateos, R., García-Parrilla, M. C., Puertas, B.,
+& Cantos-Villar, E. (2012). Bioactive compounds in wine:
+Resveratrol, hydroxytyrosol and melatonin: A review. Food
+Chemistry, 130(4).
+Fia, G., Giovani, G., & Rosi, I. (2005). Study of β-glucosidase
+production by wine-related yeasts during alcoholic
+fermentation. A new rapid fluorimetric method to determine
+enzymatic activity. Journal of Applied Microbiology, 99(3), 509–
+517.
+Freer, S. N. (1993). Kinetic characterization of a β-glucosidase
+from a yeast, Candida wickerhamii. Journal of Biological
+Chemistry, 268(13), 9337–9342.
+Gerogiannaki-Christopoulou, M., Athanasopoulos, P., Kyriakidis,
+N., Gerogiannaki, I. A., & Spanos, M. (2006). trans-Resveratrol
+in wines from the major Greek red and white grape varieties.
+Food Control, 17(9), 700–706.
+Goldberg, D. M. (1995). Does wine work? Clinical Chemistry, 41(1),
+14–16.
+González-Pombo, P., Fariña, L., Carrau, F., Batista-Viera, F., &
+Brena, B. M. (2011). A novel extracellular b-glucosidase from
+Issatchenkia terricola: Isolation, immobilization and application
+for aroma enhancement of white Muscat wine. Process
+Biochemistry, 46(1), 385–389.
+Gürbüz, O., Göçmen, D., Dagdelen, F., Gürsoy, M., Aydin, S., Sahin,
+I., & Usta, M. (2007). Determination of flavan-3-ols and transresveratrol in grapes and wine using HPLC with fluorescence
+detection. Food Chemistry, 100(2), 518–525. doi:10.1016/
+j.foodchem.2005.10.008.
+Hong, Y.-A., & Park, H.-D. (2013). Role of non-Saccharomyces yeasts
+in Korean wines produced from Campbell early grapes:
+Potential use of Hanseniaspora uvarum as a starter culture.
+Food Microbiology, 34(1), 207–214. http://dx.doi.org/
+10.1016/j.fm.2012.12.011.
+Jolly, N. P., Augustyn, O. P. H., & Pretorius, I. S. (2006). The role and
+use of non-Saccharomyces yeasts in wine production. South
+African Journal for Enology Viticulture, 27(1), 15–39.
+Loira, I., Vejarano, R., Bañuelos, M. A., Morata, A., Tesfaye, W.,
+Uthurry, C., & Suárez-Lepe, J. A. (2014). Influence of sequential
+fermentation with Torulaspora delbrueckii and Saccharomyces
+
+Journal of Functional Foods 19 (2015) 288–295
+
+cerevisiae on wine quality. LWT – Food Science and Technology,
+59(2 Pt. 1), 915–922. http://dx.doi.org/10.1016/j.lwt.2014.06.019.
+Mark, L., Nikfardjam, M. S. P., Avar, P., & Ohmacht, R. (2005). A
+validated HPLC method for the quantitative analysis of transresveratrol and trans-piceid in Hungarian wines. Journal of
+Chromatographic Science, 43(9), 445–449. doi:10.1093/chromsci/
+43.9.445.
+Meng, X., Maliakal, P., Lu, H., Lee, M.-J., & Yang, C. S. (2004).
+Urinary and plasma levels of resveratrol and quercetin in
+humans, mice, and rats after ingestion of pure compounds
+and grape juice. Journal of Agricultural and Food Chemistry, 52(4),
+935–942.
+Moreira, N., Pina, C., Mendes, F., Couto, J. A., Hogg, T., &
+Vasconcelos, I. (2011). Volatile compounds contribution of
+Hanseniaspora guilliermondii and Hanseniaspora uvarum during
+red wine vinifications. Food Control, 22(5), 662–667. http://
+dx.doi.org/10.1016/j.foodcont.2010.07.025.
+Moreno-Arribas, M. V., & Polo, M. C. (2009). Wine chemistry and
+biochemistry (1st ed.). Nova Iorque: Springer.
+Muñoz-Espada, A. C., Wood, K. V., Bordelon, B., & Watkins, B. A.
+(2004). Anthocyanin quantification and radical scavenging
+capacity of Concord, Norton, and Marechal Foch grapes and
+wines. Journal of Agricultural and Food Chemistry, 52(22), 6779–
+6786. doi:10.1021/jf040087y.
+Patel, K. R., Scott, E., Brown, V. A., Gescher, A. J., Steward, W. P., &
+Brown, K. (2011). Clinical trials of resveratrol. Annals of the New
+York Academy of Sciences, 1215(1), 161–169.
+Pérez, G., Fariña, L., Barquet, M., Boido, E., Gaggero, C., Dellacassa,
+E., & Carrau, F. (2011). A quick screening method to identify
+β-glucosidase activity in native wine yeast strains:
+Application of esculin glycerol agar (EGA) medium. World
+Journal of Microbiology and Biotechnology, 27(1), 47–55.
+doi:10.1007/s11274-010-0425-4.
+Poulsen, M. M., Ornstrup, M. J., Harsløf, T., Jessen, N., Langdahl, B.
+L., Richelsen, B., & Pedersen, S. B. (2014). Short-term
+resveratrol supplementation stimulates serum levels of bonespecific alkaline phosphatase in obese non-diabetic men.
+Journal of Functional Foods, 6(0), 305–310. http://dx.doi.org/
+10.1016/j.jff.2013.10.019.
+Ribéreau-Gayon, P., Dubourdieu, D., Donèche, B., & Lonvaud, A.
+(2006). The microbiology of wine and vinifications (2nd ed., Vol. 1).
+Chichester, West Sussex, England; Hoboken, NJ: John Wiley &
+Sons Ltd.
+
+295
+
+Rodríguez, M. E., Lopes, C., Valles, S., Giraudo, M. R., & Caballero,
+A. (2007). Selection and preliminary characterization of
+β-glycosidases producer Patagonian wild yeasts. Enzyme and
+Microbial Technology, 41(6–7), 812–820.
+Rosi, I., Vinella, M., & Domizio, P. (1994). Characterization of
+β-glucosidase activity in yeasts of oenological origin. Journal of
+Applied Microbiology, 77, 519–527.
+Saqib, A. A. N., & Whitney, P. J. (2006). Esculin gel diffusion assay
+(EGDA): A simple and sensitive method for screening
+b-glucosidases. Enzyme and Microbial Technology, 39(2),
+182–184.
+Singhania, R. R., Patel, A. K., Sukumaran, R. K., Larroche, C., &
+Pandey, A. (2013). Role and significance of β-glucosidases in
+the hydrolysis of cellulose for bioethanol production.
+Bioresource Technology, 127(0), 500–507. http://dx.doi.org/
+10.1016/j.biortech.2012.09.012.
+Spagna, G., Barbagallo, R. N., Palmeri, R., Restuccia, C., & Giudici,
+P. (2002). Properties of endogenous β-glucosidase of a Pichia
+anomala strain isolated from Sicilian musts and wines. Enzyme
+and Microbial Technology, 31(7), 1036–1041.
+Stervbo, U., Vang, O., & Bonnesen, C. (2007). A review of the
+content of the putative chemopreventive phytoalexin
+resveratrol in red wine. Food Chemistry, 101(449–457), 9.
+Todaro, A., Palmeri, R., Barbagallo, R. N., Pifferi, P. G., & Spagna, G.
+(2008). Increase of trans-resveratrol in typical Sicilian wine
+using β-glucosidase from various sources. Food Chemistry,
+107(4), 1570–1575.
+Villena Arévalo, M., Iranzo Úbeda, J. F., Otero Cordero, R. R., &
+Pérez Briones, A. I. (2005). Optimization of a rapid method
+for studying the cellular location of β-glucosidase activity
+in wine yeasts. Journal of Applied Microbiology, 99(3), 558–
+564.
+Villena, M. A., Iranzo, J. F. Ú., & Pérez, A. I. B. (2007). β-Glucosidase
+activity in wine yeasts: Application in enology. Enzyme and
+Microbial Technology, 40(3), 420–425.
+Wu, C.-F., Yang, J.-Y., Wang, F., & Wang, X.-X. (2013). Resveratrol:
+Botanical origin, pharmacological activity and applications.
+Chinese Journal of Natural Medicines, 11(1), 1–15. http://dx.doi
+.org/10.1016/S1875-5364(13)60001-1.
+Zhang, A., Fang, Y., Li, X., Meng, J., Wang, H., Li, H., & Guo, Z.
+(2011). Occurrence and estimation of trans-resveratrol in oneyear-old canes from seven major Chinese grape producing
+regions. Molecules, 16(4), 2846–2861.
+
+

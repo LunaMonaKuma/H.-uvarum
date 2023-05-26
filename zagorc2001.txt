@@ -1,0 +1,1389 @@
+Food Microbiology, 2001, 18, 441^451
+Available online at http://www.idealibrary.com on
+
+doi:10.1006/fmic.2001.0422
+
+ORIGINAL ARTICLE
+
+Indigenous wine killer yeasts and their
+application as a starter culture in wine
+fermentation
+T. Zagorc1, A. MaraŁz2, N. Cadez1, K. Povhe Jemec1, G. PeŁter3,
+M. Resnik4, J. Nemanicí4 and P. Raspor1,*
+
+Wine yeast strains were isolated from seven fermentations of the red wines ‘Refosík’ and ‘Teran’, produced in the southwestern part of Slovenia. Among 613 isolated yeast strains, 22 expressed killer activity against the supersensitive strain Saccharomyces cerevisiae. Killer strains were isolated at
+di¡erent stages of wine fermentation but did not dominate in any of them. Species identi¢cation was
+based on the combination of RFLP analysis of an ampli¢ed rDNA region and biochemical^physiological tests. Killer isolates were identi¢ed as S. cerevisiae, Pichia anomala, Pichia kluyveri, Pichia pijperi,
+Hanseniaspora uvarum and Candida rugosa. Electrophoretic karyotyping was used to di¡erentiate
+strains of the same species. Fermentation properties of four S. cerevisiae strains that possessed stable
+killer activity were characterized in fermentations of Malvasia must by studying their population dynamics and chemical composition and by sensory analysis of the wines produced. In order to compare
+the results, spontaneous fermentations and fermentations induced by commercial yeast starters were
+performed concomitantly. The local killer strain SS12/10 showed the best fermentation properties and
+# 2001Academic Press
+produced wine with favourable characteristics.
+
+Received:
+5 January 2001
+1
+
+Introduction
+The fermentation of grape juice into wine is a
+complex microbiological process involving interactions between yeasts, bacteria, fungi and
+their viruses. Because of their metabolic activity, yeasts play a central role in the must fermentation process. During natural fermentat-ion, many di¡erent yeast strains undergo
+sequential substitution. The inoculation with
+*Corresponding author. Prof. Dr Peter Raspor,
+Fax: +386 1 2574092. E-mail: peter.raspor@bf.
+uni-lj.si
+0740 -0020/01/080441 +11 $35.00/0
+
+yeast starter cultures dramatically changes
+the microbiology of the wine fermentation process (Fleet and Heard 1993).
+Some yeast strains secrete protein or glycoprotein toxins that are lethal to sensitive
+strains of di¡erent species and genera and have
+been designated as killer yeasts. Killer activity
+was found among the genera Saccharomyces,
+Candida, Cryptococcus, Debaryomyces, Hanseniaspora, Kluyveromyces, Pichia, Williopsis and
+Zygosaccharomyces. Killer yeast strains have
+been isolated from many di¡erent environmental niches (lakes, rivers, fruits and vegetables)
+as well as from the fermentation of various
+# 2001 Academic Press
+
+University of
+Ljubljana,
+Biotechnical Faculty,
+Department of Food
+Science and
+Technology,
+Jamnikarjeva101,
+1000 Ljubljana,
+Slovenia
+2
+Szent IstvaŁn
+University, Faculty of
+Food Science, SomloŁi
+uŁt14-16,1118
+Budapest, Hungary
+3
+Szent IstvaŁn
+University, NCAIM,
+SomloŁi uŁt14-16,1118
+Budapest, Hungary
+4
+Agricultural Institute
+of Slovenia,
+Hacquetova17,1000
+Ljubljana, Slovenia
+
+442 T. Zagorc et al.
+
+foods and beverages. Ecological studies indicate that killer activity could be a mechanism
+of competition, with the production of a toxic
+compound by one yeast cell excluding others
+from its habitat (Starmer et al. 1987, Jacobs
+et al. 1991,Yap et al. 2000).
+The genetic determinants of killer activity
+can be either chromosomal or extra chromosomal, in the form of linear DNA plasmids or double-stranded RNA virus-like particles. The
+killer phenotype in Saccharomyces cerevisiae is
+associated with the presence of two doublestranded RNA molecules: the M genome codes
+for toxin and immunity, while L dsRNA encodes the protein coat for both molecules (Tipper and Bostian 1984).
+Several surveys have been conducted to verify the incidence of killer yeasts in spontaneous
+must fermentation. The studies have shown
+that killer yeasts are distributed di¡erently in
+various wine-producing areas.The incidence of
+killer yeasts varies with respect to the fermentation stage and vintage period, di¡ering between the ¢rst vintage and successive ones.
+Analysis of karyotypes usually shows a mixed
+killer population within a wine fermentation
+in which killer yeasts were present.The highest
+frequency of the killer phenotype has been
+found among strains S. cerevisiae.The distribution of killer strains is in£uenced by the pH
+value of the must (Kitano et al. 1984, Cansado
+et al. 1991, Vagnoli et al. 1993, Hidalgo and
+Flores 1994).
+The enological interest in killer yeasts arises
+because these yeasts, when present, might dominate a wine fermentation. When a killer yeast
+possesses positive enological characteristics
+and is used as a starter culture, the wine produced can be excellent and the fermentation
+process ‘self-protected’. When selecting killer
+yeast for a starter culture, it is important to
+test the strains in their natural environment
+(i.e. must/wine) since killer strains can show
+di¡erent characters in large-scale wine fermentation than in laboratory tests with arti¢cial media (Silva 1996).
+The aim of our work was to study indigenous
+wine killer yeasts: their distribution in selected red wine fermentations, their identity
+determined by a combination of molecular and
+classical methods, and their fermentation
+
+properties with potential use as starter cultures.The local strains used as starter cultures
+have already been the object of some fermentation studies (Regodon et al. 1997, Pe¤rez-Coello
+1999). We performed fermentation experiments
+with Malvasia must either inoculated with selected indigenous killer yeasts or commercial
+starter yeasts, or fermented spontaneously in
+order to study microbiological, chemical and
+sensory properties of must/wine during the fermentation processes.
+
+Materials and Methods
+Yeasts strains
+All strains are stored in the Culture Collection of Industrial Microorganisms (ZIM, Ljubljana).
+
+Reference strains
+Candida rugosa var. rugosa CBS 613T, Hanseniaspora uvarum NRRL Y-1614, Pichia anomala
+NCAIM 1109, P. kluyveri var. kluyveri CBS 188,
+S. cerevisiae ATCC 18824, S. cerevisiae S6 (supersensitive strain for broad range killer activity),
+S. cerevisiae ATCC 42917 (K1), S. cerevisiae
+NCYC 738 (K2).
+
+Yeast isolates
+Indigenous wine yeast strains (497 isolates)
+were isolated during fermentations of the
+red wines ‘Teran’ (wineries G, M and S) and
+‘Refosík’ (wineries D, K and J). In winery S,
+spontaneous fermentation (SS) and induced fermentation (SI) were conducted concomitantly.
+The starter culture SI possessed a neutral phenotype. One hundred and sixteen yeast strains
+were isolated from a smear taken from the
+winery equipment. Samples were spread on
+YEPD agar plates (0?5% yeast extract, 0?5%
+peptone, 1% glucose, 2% agar) in di¡erent dilutions and incubated for 2 days at 258C.
+
+Assay of the killer phenotype
+YEPD agar containing 0?003% (w/v) methylenblue was bu¡ered to pH 3?0, 4?2 and 4?7 with a
+
+Killer yeasts in wine fermentation 443
+
+0?1 M citrate-phosphate bu¡er and inoculated
+with the sensitive strain S. cerevisiae S6.
+The yeast strains were streaked on top of the
+seeded YEPD agar. The plates were incubated
+at 208C for 3 days (Stumm et al. 1977). Strains
+were designated as killers when a clear zone
+of inhibition margined by blue-coloured cells
+surrounded the inoculated strains. In interaction assays, the plates were seeded with killer
+isolates, and killer strains be-longing to type
+K1 and K2 were streaked on top.
+
+dsRNA characterization
+Extraction of dsRNA was carried out by
+the method of Fried and Fink (1978). Samples
+of extracted nucleic acids were separated
+by 1?5% agarose gel electrophoresis at a
+constant current of 100 mA. The nature of
+the dsRNA bands was determined by the
+digestion of RNA by 1 mg ml71 RNase A
+(Sigma, St. Louis, USA).
+
+Ampli¢cation of rDNA sequence
+Total DNA isolation of the strain was performed as described previously by SmoleMozíina et al. (1997).
+The DNA ampli¢cations were performed in
+Perkin Elmer PCR System 2400. They were carried out in a 20 ml reaction volume containing
+5^15 ng yeast DNA, 16PCR bu¡er, 20 mM each
+of dNTP, 2 mM MgCl2, 20 pmol of each primer
+and 1 U of Taq DNA polymerase (Perkin
+Elmer, Wellesley, USA). The primer pair used
+for the ampli¢cation of the 18S-ITS1-5?8S-ITS2
+rDNA sequence was: NS1 (5’ GTAGTCATATGCTTGTCTC
+3’)
+and
+ITS4
+(5’
+TCCTCCGCTTATTGATATGC 3’) (White et al.
+1990). Parameters of ampli¢cation were as follows: denaturation at 958C for 2 min, followed
+by 35 cycles (30 s at 958C, 30 s at 608C and 3 min
+at 728C) and by a ¢nal elongation step of 7 min
+at 728C. PCR products were restricted with the
+endonucleases, HaeIII, MspI and RsaI (Roche,
+Diagnostics, Mannheim, Germany). Restricted
+fragments were separated by electrophoresis in
+1?5% agarose gels and 16TAE bu¡er, stained
+with ethidium bromide (0?5 mg m171) and documented on Polaroid 667 ¢lm.
+
+Karyotype analysis by pulsed ¢eld gel
+electrophoresis (PFGE)
+Yeast chromosomes were isolated by the method essentially described by Carle and Olson
+(1985) and modi¢ed by Raspor et al. (2000). Late
+logarithmic phase cultures were embedded in
+a low melting point agarose and sequentially
+digested with Novozym (Sigma) and Proteinase K (Roche, Diagnostics). The electrophoretic karyotyping was performed by the CHEF
+apparatus LKB-pulsaphorTM (Pharmacia LKB,
+Uppsala, Sweden). Yeast chromosomes were separated by electrophoresis using 1% agarose gels
+in a 0?56TBE bu¡er at 128C. Conditions for electrophoresis of Saccharomyces strains were as follows: pulse times of 60 s for 15 h, 90 s for 8 h and
+100 s for 1 h at 180 V, and for non-Saccharomyces
+strains: pulse times 150 s for 24 h, 300 s for 24 h,
+and 600 s for 20 h at 100 V. Gels were stained with
+ethidium bromide (0?5 mg ml71) and documented
+on Polaroid 667 ¢lm.
+
+Biochemical and physiological tests used
+for identi¢cation
+Instructions for the preparation of materials,
+selection of tests and testing conditions were
+followed as described by Barnett et al. (1990).
+The results were evaluated by the PC program
+for yeast identi¢cation (Barnett et al. 1996).
+
+Fermentation of Malvasia must
+Experiment: Nine small-scale fermentations
+were performed in glass fermenters containing
+9 l of must. The initial pH value of the must was
+3?28 and the concentration of sugars was
+227 g l71. No sulfur was added to the must. Indigenous yeast strains, SS7/11, SS7/16, SS12/10 and
+SI7/9, were chosen as starters in four fermentations on the basis of their stable killer activity.
+Commercial starter yeasts, N96, NT7, VIN13
+and NT45 (AnchorYeast, Cape Town, South Africa), induced a further four fermentations of Malvasia must of the same origin. One sample of
+Malvasia must was left to ferment spontaneously.
+Inoculum: Single colony cultures were cultivated in a YM medium (0?3% yeast extract,
+0?3% malt extract, 1% glucose) until they
+
+444 T. Zagorc et al.
+
+reached the late exponential phase. Cells were
+harvested by centrifugation and diluted for ¢nal concentrations in must 105 cells ml71. Commercial starters were prepared according to
+the instructions of the producer and added in
+the same concentration to the must.
+
+Sampling: Samples (40 ml) of Malvasia must/
+wine were taken from the center of the fermenter. The samples for chemical analysis were
+centrifuged and stored frozen. The results presented refer to the following sampling points:
+(i) must before the inoculation; (ii) end of fermentation (the sugar content remained constant). Samples (1 ml) were plated on YEPD
+agar plates in di¡erent dilutions. During nine
+fermentations, 1919 strains were isolated: must
+before inoculation (160), spontaneous fermentation A0 (120), four fermentations with local
+killer starters (852) and four fermentations
+with commercial killer starters (787). All isolates were tested for their killer activity using
+replica plating method. The isolates from the
+last stage of fermentation were also characterized by karyotyping.
+Chemical analyses
+Ethanol, methanol, higher alcohols and ethyl
+acetate were determined by gas-chromatographic analyses, carried out using a HewlettPackard 5890 gas chromatograph. Wine
+samples (1 ml) with 2 -methyl-2 -propanol as an
+internal standard were injected directly. A
+HP-INNOWAX column (60 m60?25 mm with
+0?25 mm ¢lm thickness) was used. The temperature programme was: 358C/10 min, then 58C/
+min to 1008C and, ¢nally, 408C/min to 2008C. Injector and detector temperatures were 2008C
+and 2508C, respectively. Hydrogen N- 48 at
+1 ml min71 was the carrier gas.
+
+Sugars and organic acids were determined
+using a Hewlett-Packard 1100 liquid chromatograph with Bio-Rad HPX-87H column. The mobile phase used was 0?007 M H2SO4. Organic
+acids and sugars were detected by a UV detector and by a detector of the refraction index, respectively (OIV 1993).
+
+Total and free sulfur dioxides were determined
+according to the methodology of OIV (1993).
+Sensory evaluation: The sensory analysis of
+Malvasia wines was performed 6 months after
+the end of alcoholic fermentation by highly
+skilled wine tasters according to the Buxbaum
+method (details available at: http://www.hr/
+wine/cbuxbaum.html). Results were expressed
+in the grading of 0 to 20 points, where 20 points
+represented the best results. The assessment
+took place in standard sensory analysis chambers (ISO 8589).
+
+Results and Discussion
+Killer yeasts in the production of the red
+winesTeran and Refosík
+Our study of killer yeast distribution was focused on the production of the red wines Refosík and Teran, produced in the SW area of
+Slovenia.The occurrence of killer yeast strains
+was followed in six wineries with long winemaking traditions. The production capacities
+of the individual wineries di¡ered from small
+production for domestic use to market-sale
+production. Red wine technology di¡ers from
+the production of white wines through a step
+involving the maceration of crushed grapes
+that occurs with extensive air and equipment
+contact.Therefore, a more heterogeneous population of yeasts can be expected.
+During seven fermentations of Teran and
+Refosík, killer yeasts were found at 11 out of 28
+sampling points (Table 1). Among the 497 yeast
+strains isolated during the fermentations, 19
+strains expressed killer activity against the
+sensitive strain S. cerevisiae S6, in laboratory
+conditions. On the ¢rst day of maceration, eight
+killer strains were isolated. They all belonged
+to the non-Saccharomyces species and were
+identi¢ed as Pichia anomala, Pichia kluyveri,
+Hanseniaspora uvarum and Candida rugosa.
+The macerated grapes were pressed on day 7
+of fermentation. At this stage, three killer
+strains were isolated in wineries D and SS and
+further three killer strains were isolated from
+the late fermentation phase in wineries D,
+K and SI. All of them were identi¢ed as
+
+Killer yeasts in wine fermentation 445
+
+Table 1. Frequency of killer strains among all isolates at four consecutive sampling times during the
+fermentation processes of Refosík and Teran wines
+Refosík wines
+Technological stage
+
+Day
+
+Crushing of grapes
+Middle fermentation
+Late fermentation
+End of fermentation
+Total
+
+0
+7
+10
+12
+
+Teran wines
+
+J
+
+D
+
+K
+
+SS
+
+SI
+
+G
+
+M
+
+21/0*
+13/0
+20/0
+11/0
+65/0
+
+19/1
+26/1
+23/1
+19/2
+87/5
+
+22/0
+16/0
+19/1
+14/0
+71/1
+
+19/0
+17/2
+20/0
+15/2
+71/4
+
+17/2
+19/0
+19/1
+20/0
+75/3
+
+8/0
+18/0
+16/0
+18/1
+60/1
+
+14/5
+16/0
+20/0
+18/0
+68/5
+
+*First number indicates the total number of yeast isolates, while the second number that of killer strains.
+
+Figure 1. MspI-RFLP of the ampli¢ed 18S-ITS1-5.8S-ITS2 sequence of killer isolates and the strains compared to RFLP-database of type strains; Sc S. cerevisiae, Pa P. anomala; Pk P. kluyver; Hu H. uvarum;
+Cr Candida rugosa, 1. SS7/11; 2. SS7/16; 3. SS12/10; 4. SS12/11; 5. D8/5; 6. D10/4; 7. SK1; 8. SK2; 9. SK3; 10. SI7/9;
+11. K8/4; 12. G12/6; 13. M1/7b; 14. M1/9; 15. M1/10; 16. M1/11; 17. M1/12; 18. D1/5; 19. D12/1; 20. SI1/3; 21. SI1/8;
+M. marker.
+
+S. cerevisiae. At the end of fermentation, on the
+12th day, ¢ve killer strains were present and
+identi¢ed as P. pijperi, P. kluyveri and S. cerevisiae.
+Rapid molecular identi¢cation of the
+killer strains was performed by restriction
+fragment length polymorphism (RFLP) analysis of ampli¢ed 18S-ITS1-5.8S-ITS2 rDNA
+regions (Guillamo¤n et al. 1998, Granchi
+et al. 1999). RFLP patterns of killer strains
+obtained by restriction enzymes, HaeIII,
+MspI and RsaI, were compared with RFLP
+patterns of the type yeast strains from our
+database. The RFLP database contained
+restriction patterns of 54 yeast type strains
+that have been isolated frequently during
+the winemaking process according to Barnett
+et al. (1990). Figure 1 represents the rDNAMspI restriction patterns of killer isolates and
+the RFLP of appropriate type strains from the
+
+database. We were able to match 20 RFLP
+patterns of killer isolates with the RFLP patterns in the database. Based on that, we identi¢ed strains belonging to S. cerevisiae, P.
+anomala, P. kluyveri, H. uvarum. Identi¢cation
+results obtained from molecular database were
+con¢rmed by 7^12 selected biochemical and
+physiological tests, suggested for con¢rmation
+of individual species by Barnett et al. (1996).
+Results of biochemical and physiological tests
+(not shown) con¢rmed the accuracy of molecular identi¢cation. However, there were two exceptions where the RFLPs obtained did not
+match. To identify the isolates SI1/8 and D12/2,
+it was necessary to perform the biochemical
+and physiological tests required for identi¢cation according to Barnett et al. (1990). The killer isolate D12/2 was identi¢ed as P. pijperi and,
+for this species, we have not determined any
+type strain. The RFLP patterns of the isolate
+
+446 T. Zagorc et al.
+
+SI1/8 and C. rugosa CBS 613T did not match
+with each other, although the isolate SI1/8 was
+identi¢ed as C. rugosa by the biochemical^physiological testing.
+
+Among the 116 yeast strains isolated from a
+smear taken from the equipment in winery S,
+isolates SM1, SM2 and SM3 possessed killer
+activity (Table 2). All three strains were identi-
+
+Table 2. Species identity and characteristics of isolated killer strains; presence (þ) or absence (7) of L
+and M dsRNA; the strength of killer activity at di¡erent pH (þ þ þ strong, þ þ medium, þ weak, 7 not
+active); sensitivity (þ) and resistance (7) of killer isolates in interaction assay with killer strains type K1
+and K2 at pH 3.
+Identity and
+deposition number
+Isolate
+SS7/11
+
+S. cerevisiae
+
+SS7/16
+
+S. cerevisiae
+
+SS12/10
+
+S. cerevisiae
+
+SS12/11
+
+S. cerevisiae
+
+SI7/9
+
+S. cerevisiae
+
+D8/5
+
+S. cerevisiae
+
+D10/4
+
+S. cerevisiae
+
+G12/6
+
+S. cerevisiae
+
+K8/4
+
+S. cerevisiae
+
+SM1
+
+S. cerevisiae
+
+SM2
+
+S. cerevisiae
+
+SM3
+
+S. cerevisiae
+
+M1/7b
+
+P. anomala
+
+M1/9
+
+P. anomala
+
+M1/10
+
+P. anomala
+
+M1/11
+
+P. anomala
+
+M1/12
+
+P. anomala
+
+D1/5
+
+P. kluyveri
+
+D12/1
+
+P. kluyveri
+
+D12/2
+
+P. pijperi
+
+SI1/3
+
+H. uvarum
+
+SI1/8
+
+C. rugosa
+
+ZIM
+1640
+ZIM
+1645
+ZIM
+1667
+ZIM
+1668
+ZIM
+1709
+ZIM
+1325
+ZIM
+1349
+ZIM
+1614
+ZIM
+1423
+ZIM
+1506
+ZIM
+1510
+ZIM
+1260
+ZIM
+1520
+ZIM
+1521
+ZIM
+1522
+ZIM
+1523
+ZIM
+1524
+ZIM
+1314
+ZIM
+1367
+ZIM
+1368
+ZIM
+1676
+ZIM
+1681
+
+dsRNA
+
+Activity at pH
+
+Interreaction
+
+L
+
+M
+
+3
+
+4
+
+5
+
+K1
+
+K2
+
+þ
+
+þ
+
+þþþ
+
+þþþ
+
+þþ
+
+þ
+
+7
+
+þ
+
+þ
+
+þþ
+
+þþ
+
+þ
+
+7
+
+7
+
+þ
+
+þ
+
+þþþ
+
+þþþ
+
+þþþ
+
+7
+
+7
+
+þ
+
+þ
+
+7
+
+þ
+
+7
+
+7
+
+7
+
+þ
+
+þ
+
+þþþ
+
+þþþ
+
+þþ
+
+þ
+
+7
+
+7
+
+7
+
+7
+
+þ
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+þ
+
+7
+
+7
+
+þ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+7
+
+þþ
+
+þþ
+
+þ
+
+7
+
+þ
+
+þ
+
+þþþ
+
+þþþ
+
+þþ
+
+þ
+
+7
+
+7
+
+þþþ
+
+þþþ
+
+þþ
+
+þ
+
+þ
+
+þ
+
+þ
+
+þþþ
+
+þþþ
+
+þþ
+
+þ
+
+7
+
+7
+
+7
+
+þ
+
+þþ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+þ
+
+þþ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+þ
+
+þþ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+7
+
+þ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+þ
+
+þþ
+
+7
+
+þ
+
+þ
+
+7
+
+7
+
+7
+
+þþ
+
+þ
+
+þ
+
+þ
+
+7
+
+7
+
+7
+
+þþ
+
+þ
+
+7
+
+7
+
+7
+
+7
+
+7
+
+þ
+
+7
+
+þ
+
+þ
+
+þ
+
+þ
+
+7
+
+þ
+
+7
+
+7
+
+7
+
+7
+
+7
+
+7
+
+þ
+
+7
+
+þ
+
+þ
+
+Killer yeasts in wine fermentation 447
+
+Figure 2. Karyotype patterns of killer isolates
+(a) M. marker; S. cerevisiae strains: 1. SS7/11; 2. SS7/
+16; 3. SS12/10; 4. SS12/11; 5. D8/5; 6. D10/4; 7. SK1; 8.
+SK2; 9. SK3; 10. SI7/9; 11. K8/4; 12. G12/6; 13. marker.
+(b) 1^5 P. anomala M1/7b, M1/9, M1/10, M1/11, M1/12;
+6.-7. P. kluyveri D1/5, D12/1; 8. H. uvarum SI1/3; 9. C.
+rugosa SI1/8; M. marker.
+
+¢ed as S. cerevisiae. Strains SM1 and SM3 possessed stable and strong killer activity that
+was coded by dsRNA molecules. Strain SM2
+did not contain dsRNA, however it also had a
+strong and stable killer character. Based on interactions of killer isolates and the K1/K2 toxin-producing strains, it can be concluded that
+strains SM1 and SM3 belonged to killer type
+K2, since killer strains of S. cerevisiae belonging to the same type do not interact with each
+other.
+Killer activity of isolated strains was analysed several times during their storage. This
+showed that all the non-Saccharomyces and
+some Saccharomyces strains rapidly lost their
+
+killer activity, although all isolates indicated
+very strong killer activity at the time of isolation. Table 2 represents the results of killer activity determined after 2 years of storage (in
+glycerol at 7208C), when four strains were selected for starters in small-scale fermentations. The interaction test of killer isolates
+and killer type K1 and K2 strains was performed at pH 3 (the pH of the must). All
+P. anomala strains were sensitive to both toxin
+types, as well as the strain P. kluyveri D1/5, isolated at the early stages of fermentation. Strain
+P. kluyveri D12/1, isolated at the end of fermentation, was resistant to both toxins, whereas
+P. pijperi D12/2 was sensitive to both of them.
+Strain H. uvarum was resistant, while the
+strain C. rugosa was sensitive to both toxin
+types. Strains of S. cerevisiae reacted di¡erently to killer toxins K1 and K2. Several were
+sensitive to K1 (Table 2), while two strains
+(G12/6 and SM2) were sensitive to both toxins.
+The result indicated that the isolated killer
+strains S. cerevisiae belonged to K2 or some
+other type of killer toxin, di¡erent to K1 type.
+S. cerevisiae killer strains exhibited very heterogeneous electrophoretic patterns (Fig. 2(a)).
+They di¡er in the size of large chromosomes
+(2200^1010 kbp) as well in the size of middle
+chromosomes (860^700 kbp). Karyotypes of ¢ve
+P. anomala strains belonged to three di¡erent
+groups. P. anomala isolates M1/7b, M1/10 and
+M1/12 exhibited identical karyotypes, whereas
+the karyotypes of C. rugosa, H. uvarum and
+P. kluyveri had speci¢c patterns for their genera (Fig. 2(b)).
+
+Fermentation characteristics of four selected
+killer yeasts in fermentation of Malvasia
+must
+Nine small-scale wine fermentations of Malvasia must were monitored. Chemical and sensory properties of four wines produced by
+local killer strains, possessing stable killer activity, were compared to the wines produced by
+commercial starter cultures and by spontaneous fermentations. All 1919 isolates were
+tested for their killer activity, whereas only
+150 strains from the end phase of spontaneous
+fermentation and by local strain-induced fermentation were characterized by karyotyping.
+
+448 T. Zagorc et al.
+
+All strains from four consecutive sampling
+points of inoculated fermentations (local and
+commercial starter cultures) showed very
+strong killer activity, indicating that they were
+able to suppress the original yeast population
+of Malvasia must e¡ectively. Genetic identi¢cation allowed us to follow the succession of inoculated strain. Presented in Fig. 3(a, b)
+respectively, are examples of strains in the last
+phase of SS7/16 -induced fermentation and the
+strains in the last phase of the spontaneous
+fermentation. Isolates from the end-stage of
+inoculated fermentation (Fig. 3(a), lines 1^15)
+possessed identical karyotype patterns to the
+pattern of inoculated strain SS7/16 (Fig. 3(a),
+line M) con¢rming that inoculated strain completely dominated over the indigenous yeast population of Malvasia must.
+Strains isolated from spontaneous fermentation showed signi¢cant chromosomal polymorphism (Fig. 3(b)), they di¡ered mostly in
+the size of larger chromosomes, between 2200
+and 860 kbp. An extensive study of succession
+of di¡erent strains S. cerevisiae in ¢ve independent spontaneous fermentations of Malvasia
+was the object of a parallel study (Povhe Jemec
+et al. 2001), which showed a considerable heterogeneity of S. cerevisiae strains during the
+process of wine fermentation.
+Recent work comparing the e¡ects of di¡erent starter cultures and indigenous yeasts has
+shown that there are signi¢cant di¡erences
+in the chemical composition of the resulting
+wines (Egli et al. 1999). Our results do not totally support these observations. Strains differed mostly in their ability to ferment sugars
+of the must. The results (Table 3) showed that
+the strains SI7/16 and SS12/10 possessed good
+fermentation character, since the amount of residual sugar was reduced by 98%, whereas in
+the spontaneous fermentation, and in the fermentations inoculated with strains SS7/11 and
+SS7/16, the sugar content was only reduced by
+about 90%. Commercial starters possessed an
+excellent ability to ferment all available sugars.
+All the wines produced were rich in ethanol,
+although some di¡erences were observed,
+which were due to the strains’ sugar fermentation ability.The amount of glycerol synthesized
+during fermentation was higher in the wines
+obtained by commercial starters (7?3 g l71)
+
+Figure 3. Karyotype patterns of yeast isolates
+from Malvasia fermentation. (a) M. inoculated
+strain SS7/16; 1^15 isolated strains at the end of induced fermentation. (b) M. marker; 1^15 isolated
+strains at the end of spontaneous fermentation.
+
+than in spontaneous or in the fermentations induced with local strains, where it reached
+concentrations 5?9 g l71 and 6?1^6?8 g l71, respectively.
+The initial amounts of free and total SO2,
+naturally present in Malvasia must were
+4?4 g l71 and 23 g l71, respectively. Di¡erent
+concentrations of the ¢nal SO2 re£ected the
+strain’s speci¢c metabolism of sulfur compounds, since there was no sulfur added to the
+must at the beginning of fermentation. The
+organic acid content was slightly higher in
+wines obtained with indigenous starters compared to those obtained with commercial
+starters, whereas it was lower in spontaneous
+fermentation. Volatile compounds of all
+wines showed the most variable pattern. Strain
+
+Killer yeasts in wine fermentation 449
+
+Table 3. Concentration of metabolic compounds in wines obtained in spontaneous alcoholic fermentation and with the application of commercial and indigenous yeast starters
+Must
+Spontaneous
+
+Commercial
+
+A0
+
+X*+SD
+
+SS7/11
+
+SS7/16
+
+SI7/9
+
+SS12/10
+
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+n.d.
+23
+4?4
+113
+114
+9?1
+0?2
+5?0
+4?0
+0
+0
+0
+
+12?7
+18?2
+31?5
+50
+16?7
+31?2
+195
+15?4
+4?8
+1?3
+20?3
+8?7
+0?56
+3?4
+3?4
+0?18
+0?41
+5?9
+
+13?7+0?12
+24?2+7?84
+32?3+4?14
+55+5?77
+27?4+3?04
+33?0+9?52
+236+28?6
+12?3+2?3
+4?3+0?6
+0
+0
+9?2
+0?65+0?08
+3?3+0?16
+3?6+0?20
+0?092+0?06
+0?51+0?22
+7?3+0?7
+6?1
+
+12?1
+24?5
+39?9
+55?0
+19?6
+54?3
+270
+12?5
+3?9
+2?0
+24?6
+10?6
+0?9
+3?5
+4?2
+0?16
+0?62
+6?1
+
+11?9
+17?9
+27?8
+50?0
+22?3
+54?8
+284
+14?6
+3?7
+1?0
+22?7
+10?7
+0?8
+3?5
+4?2
+0?15
+0?54
+6?8
+
+13?6
+37?1
+28?7
+50?0
+19?7
+31?2
+216
+14?6
+3?6
+0?0
+4?6
+10?4
+0?9
+3?3
+4?2
+0?15
+0?49
+6?1
+
+13?5
+23?6
+35?8
+60?0
+19?4
+78?6
+376
+11?2
+3?0
+0?0
+6?1
+9?9
+1?0
+3?6
+5?0
+0?18
+0?47
+
+n.d.
+
+8
+16?81
+
+3^6
+17?15^16?92
+
+7
+16?82
+
+9
+16?80
+
+2
+17?20
+
+1
+17?29
+
+Compound
+Ethanol (vol %)
+Acetaldehyde (mg l71)
+Ethylacetate (mg l71)
+Methanol (mg l71)
+n-Propanol (mg l71)
+i-Butanol (mg l71)
+i-Amylalcohol (mg l71)
+Total SO2 (mg l71)
+Free SO2 (mg l71)
+Glucose (g l71)
+Fructose (g l71)
+Titr. Acids (g l71)
+Citric acid (g l71)
+Tartaric acid (g l71)
+Malic acid (g l71)
+Lactic acid (g l71)
+Acetic acid (g l71)
+Glycerol (g l71)
+Sensory test
+Place
+Points
+
+Wines
+Indigenous starters
+
+*X+SD: the mean value of a compound in wines obtained with 4 commercial starters with its standard deviation.
+**n.d. not determined.
+
+SS12/10 produced 376 mg l71 i-amylalcohol
+and 78?6 mg l71 I-butanol, the largest amounts
+found, which may have had a bene¢cial impact on the wine. Acetaldehyde produced during the wine fermentation is known to be
+strain-speci¢c, however, the concentrations
+in the fermentations of Malvasia did not
+vary signi¢cantly (17?9^37?1 mg l71) although
+strains of di¡erent origin were used. On the
+contrary, Pe¤rez-Coello et al. (1999) observed
+signi¢cant
+di¡erences
+(18?3^670?9 mg l71)
+among strains tested in fermentations of Aire¤n
+variety must.
+Sensory tests of wines also did not show signi¢cant di¡erences since the maximal and the
+minimal points of the wines di¡ered by only
+0?49 points. Wine produced by strain SS12/10
+achieved 17?29 points and ¢rst place in the
+ranking, whereas the wine produced by strain
+SS7/16 16?80 points and the last place.The result
+
+is in accordance with the lower content of higher alcohols in the case of strain SS7/16. According to our experience while conducting this
+experiment, simply modifying the parameters
+of the individual fermentation process could
+produce better wines.This is already the object
+of another study.
+
+Conclusions
+The strain S. cerevisiae is responsible for alcoholic fermentation of must into wine, but yeasts
+of other genera are also important in the
+early phase of fermentation (Yap et al. 2000).
+It was interesting that non-Sacharomyces killer
+strains were identi¢ed at the late fermentation
+stage of red wines. Five di¡erent non-Sacharomyces species were isolated at di¡erent phases
+of fermentation, which could be due to speci¢c
+
+450 T. Zagorc et al.
+
+red wine technology that allows longer exposure to air and equipment.
+As several authors suggested, it might be
+of bene¢t to use selected indigenous yeast
+strains, which are supposed to have an optimal
+fermentation performance since they are
+adapted to the must in each area. Since we had
+a pool of killer yeasts belonging to S. cerevisiae
+all isolated from the same wine-producing region, we tried to examine this hypothesis.
+Other authors have performed numerous exclusion tests to select a S. cerevisiae with the best
+enological properties (Pe¤rez-Coello et al. 1999).
+Our approach was straightforward, since we
+used indigenous killer wine yeast isolates directly as a starter culture in fermentation of
+the white wine Malvasia. In accordance with
+our ¢rst fermentation trials, we can conclude
+that the fermentation characteristics of indigenous killer yeast strain SS12/10 were as good
+as those of commercial starters and is appropriate for further use as a starter culture.
+Winemakers have to consider the question of
+whether to use starter cultures or not. Many of
+them do prefer to use starter cultures, since
+this gives them a sense of ‘security’. The question as to whether indigenous yeast starters
+have a greater positive impact on the ¢nal product than commercial starters is still open to
+debate and the system ‘starter culture: must/
+wine’ has to be considered separately for every
+individual system.
+
+Acknowledgements
+This work was supported by the HungarianSlovenian S & T Cooperation Program 12/98
+and by the Slovenian Ministry of Science and
+Technology (Project L4 -8849 - 0490). The
+authors thank T. J.Van der Westhuizen (Anchor
+Yeast) and Piet Loubser (Institute for Viticulture and Oenology, Stellenbosch, South Africa)
+for the starters.
+
+References
+Barnett, J. A., Payne, R. W. and Yarrow, D. (1990)
+Yeast: characterization and identi¢cation. Cambridge, Cambridge University Press.
+
+Barnett, J. A., Payne, R. W. and Yarrow, D. (1996)
+Yeast Identi¢cation PC Program, Version 4, Cambridge, Cambridge University Press.
+Cansado, J., Longo, E., Calo, P., Sieiro, C.,Velazquez,
+J. B. and Villa,T. G. (1991) Role of killer character
+in spontaneous fermentations from NW Spain:
+ecology, distribution and signi¢cance. Appl.
+Microbiol. Biotechnol. 34, 634^647.
+Carle, G. F. and Olson, M. V. (1985) Separation of
+chromosomal DNA molecules from yeast by
+orthogonal-¢eld-alternation gel electrophoresis.
+Nucleic Acids Res. 12, 5647^5664.
+Egli, C. M., Edinger, W. D., Mitrakul, C. M., HenickKling, T. (1998) Dynamics of indigenous and inoculated yeast populations and their e¡ect on
+the sensory character of Riesling and Chardonnay wines. J. Appl. Microb. 85, 779^789.
+Fleet, G. H. and Heard, G. M. (1993) Yeasts ö growth
+during fermentation. In: Wine Microbiology and
+Biotechnology (Ed. G. H. Fleet) pp. 27^54. Philadelphia, Harwood Academic Publishers.
+Fried, H. M. and Fink, G. R. (1978) Electron microscopic heteroduplex analysis of killer doublestranded RNA species from yeast. Proc. Natl.
+Acad. Sci. USA, 75, 4224^4228.
+Granchi, L., Bosco, M., Messini, A. and Vincenzini,
+M. (1999) Rapid detection and quanti¢cation of
+yeast species during spontaneous wine fermentation by PCR-RFLP analysis of the rDNA ITS region. J. Appl. Microbiol. 87, 949^956.
+Guillamo¤n, J. M., Sabate, J., Barrio, E., Cano, J. and
+Querol, A. (1998) Rapid identi¢cation of wine
+yeast species based on RFLP analysis of the ribosomal internal transcribed spacer (ITS) region.
+Arch. Microbiol. 169, 387^392.
+Hidalgo, P. and Flores, M. (1994) Occurrence of
+the killer character in yeasts associated with
+Spanish wine production. Food Microbiol. 11,
+161^167.
+ISO 8589 (1988) Guide for the installation of a chamber for sensory analysis.
+Jacobs, C. J., Fourie, I. and van Vuuren, H. J. J. (1991)
+Characterization of killer yeast isolates from
+Chenin blanc grapes and grapes skins. S. Afr.
+Enol.Vitic. 2, 57^63.
+Kitano, K., Sato, M., Shimazaki, T. and Hara, S.
+(1984) Occurrence of wild killer yeasts in Japanese wineries and their characteristics. J. Ferment. Technol. 62(1), 1^6.
+OIV. Recqueil des methodes d’ analyse des
+boissons spiritueuses, des alcohols, de la fraction
+aromatique des boissons. (1993) pp. 117^122, OIV
+Paris.
+Povhe Jemec, K., Cadez, N., Zagorc, T., Bubic, V.,
+Zupec, A. and Raspor, P. (2001) Yeast population
+dynamics in ¢ve spontaneous fermentations of
+Malvasia must. Food Microb. 18, 247^259.
+Pe¤rez-Coello, M. S., Briones Perez, A. I., Ubeda
+Iranzo, J. F. and Martin Alvarez, P. J. (1999)
+Characteristics of wines fermented with di¡erent Saccharomyces cerevisiae strains isolated
+
+Killer yeasts in wine fermentation 451
+
+from the La Mancha region. Food Microb. 16,
+563^573.
+Raspor, P., Smole Mozina, S. and Cadez, N. (2000).
+Identi¢cation of yeasts from grape/must/wine system. In Methods in Biotechnology,Vol. 14. Food Microbiology Protocols (Eds J. F. T. Spencer and A. L.
+Ragout de Spencer) pp. 243^257, Totowa, Humana
+Press.
+Regodon, J. A., Pe¤rez, F.,Valde¤s, M. E., De Miguel, C.
+and Ramirez, M. (1997). A simple and e¡ective
+procedure for selection of wine yeast strains.
+Food Microb. 14, 247^254.
+Silva, G. A. da (1996) The occurrence of killer, sensitive, and neutral yeasts in Brasilian Riesling Italico grape must and the e¡ect of neutral strains
+on killing behaviour. Appl. Microbiol. Biotechnol.
+46, 112^121.
+Smole Mozina, S., Dlauchy, D., Deak, T. and Raspor,
+P. (1997) Identi¢cation of Saccharomyces sensu
+stricto and Torulaspora yeasts by PCR ribotyping.
+Lett. Appl. Microbiol. 24, 311^315.
+Starmer, W. T., Ganter, P. F., Aberden, V., Lachance,
+M. and Pha¡, H. J. (1987) The ecological role of
+killer yeasts in natural communities of yeasts.
+Can. J. Microbiol. 33, 783^796.
+
+Stumm, C., Hermans, M. H., Middelbeek, E. J.,
+Croes, A. F. and Dde Vires, G. J. M. L. (1977)
+Killer-sensitive relationships in yeast from
+natural habitats. Antonie Van Leeuwenhoek 43,
+125^128.
+Tipper, D. J. and Bostian, K. (1984) Double-stranded
+ribonucleic acid killer systems in yeasts. Microbiological Reviews 48(2), 125^156.
+Vagnoli, P., Musmanno, R. A., Cresti, S., di Maggio,T.
+and Coratza, G. (1993) Occurrence of killer yeasts
+in spontaneous wine fermentation from the Tuscany region of Italy. Appl. Environ. Microbiol.
+59(12), 4037^4043.
+White,T. J., Bruns,T., Lee, S. and Taylor, J. (1990) Ampli¢cation and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In PCR
+Protocols. A guide to methods and applications
+(Eds M. A. Innis, D. H. Gelfand, J. J. Sinisky and
+T. J.White), pp. 315^322. London, Academic Press.
+Yap, N. A., de Barros Lopes, M., Langridge and
+Henschke, P. A. (2000) The incidence of killer activity of non-Saccharomyces yeasts towards indigenous yeast species of grape must: potential
+application in wine fermentation. J. Appl. Microbiol. 89, 381^389.
+
+
